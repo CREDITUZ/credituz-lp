@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44">
+    <g transform="translate(6 8)">
+      <path d="M14 0 L26 6 L26 16 C26 23 21 28 14 30 C7 28 2 23 2 16 L2 6 Z" fill="none" stroke="#11A05A" stroke-width="2"></path>
+      <path d="M9 16 L13 20 L20 12" stroke="#11A05A" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+    <text x="44" y="16" dominant-baseline="central" font-family="Arial, sans-serif" font-weight="800" font-size="14" fill="#11A05A" letter-spacing="0.3">LGPD</text>
+    <text x="44" y="30" dominant-baseline="central" font-family="Arial, sans-serif" font-weight="500" font-size="10" fill="#65676B">Conformidade total</text>
+  </svg>

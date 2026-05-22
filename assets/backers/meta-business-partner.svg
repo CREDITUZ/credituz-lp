@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 44">
+    <g transform="translate(4 12)">
+      <path d="M4 10 C4 4 9 0 14 0 C19 0 23 4 26 9 C29 4 33 0 38 0 C43 0 48 4 48 10 C48 16 43 20 38 20 C33 20 29 16 26 11 C23 16 19 20 14 20 C9 20 4 16 4 10 Z" fill="none" stroke="#0866FF" stroke-width="3.5" stroke-linejoin="round"></path>
+    </g>
+    <text x="62" y="14" dominant-baseline="central" font-family="Arial, sans-serif" font-weight="700" font-size="14" fill="#0866FF" letter-spacing="-0.3">Meta Business</text>
+    <text x="62" y="30" dominant-baseline="central" font-family="Arial, sans-serif" font-weight="600" font-size="12" fill="#65676B" letter-spacing="0.2">Partner · WhatsApp API</text>
+  </svg>

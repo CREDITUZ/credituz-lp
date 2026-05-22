@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 44">
+    <circle cx="22" cy="22" r="16" fill="none" stroke="#1F2D5C" stroke-width="2"></circle>
+    <text x="22" y="20" dominant-baseline="central" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="9" fill="#1F2D5C">ISO</text>
+    <text x="22" y="29" dominant-baseline="central" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="8" fill="#1F2D5C">27001</text>
+    <text x="48" y="16" dominant-baseline="central" font-family="Arial, sans-serif" font-weight="700" font-size="12" fill="#1F2D5C">ISO/IEC 27001</text>
+    <text x="48" y="30" dominant-baseline="central" font-family="Arial, sans-serif" font-weight="500" font-size="10" fill="#65676B">Segurança da informação</text>
+  </svg>
