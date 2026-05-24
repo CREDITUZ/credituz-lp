@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Credituz · O sistema operacional do setor imobiliário, com IA</title>
-<meta name="description" content="O sistema operacional e financeiro do setor imobiliário, com Inteligência Artificial. Do primeiro lead à entrega das chaves: SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe a R$ 0,49 e gestão de obras, em uma única plataforma.">
+<meta name="description" content="O sistema operacional do mercado imobiliário, com IA nativa. Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma.">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -225,6 +225,42 @@ h1.hero-title .underline-wrap::after {
     flex-wrap: wrap;
 }
 
+.hero-ttv {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px 28px;
+    margin-bottom: 32px;
+    padding: 18px 22px;
+    background: rgba(0, 0, 0, 0.025);
+    border-left: 2px solid var(--lime);
+    border-radius: 4px 12px 12px 4px;
+}
+.hero-ttv-item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.hero-ttv-num {
+    font-family: 'Fraunces', serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: -0.02em;
+}
+.hero-ttv-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--gray-3);
+}
+@media (max-width: 700px) {
+    .hero-ttv { gap: 12px 20px; padding: 14px 16px; }
+    .hero-ttv-num { font-size: 20px; }
+    .hero-ttv-label { font-size: 9.5px; }
+}
+
 .btn-primary {
     background: var(--ink);
     color: var(--paper);
@@ -437,8 +473,8 @@ h2 em {
 
 .dor-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 40px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
     margin-top: 64px;
 }
 
@@ -446,23 +482,23 @@ h2 em {
     background: var(--paper);
     border: 1px solid var(--gray-soft);
     border-radius: 20px;
-    padding: 32px;
+    padding: 28px 26px;
     position: relative;
     overflow: hidden;
 }
 
 .dor-number {
     font-family: 'Fraunces', serif;
-    font-size: 72px;
+    font-size: 62px;
     font-weight: 900;
     line-height: 1;
     color: var(--rust);
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     letter-spacing: -0.04em;
 }
 
 .dor-number sub {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     color: var(--gray-2);
     vertical-align: top;
@@ -471,7 +507,7 @@ h2 em {
 
 .dor-card h3 {
     font-family: 'Fraunces', serif;
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 500;
     line-height: 1.2;
     margin-bottom: 12px;
@@ -480,7 +516,7 @@ h2 em {
 
 .dor-card p {
     color: var(--gray-2);
-    font-size: 15px;
+    font-size: 14px;
     line-height: 1.55;
 }
 
@@ -721,9 +757,9 @@ h2 em {
 }
 
 .compare-table th, .compare-table td {
-    padding: 20px 16px;
+    padding: 20px 12px;
     text-align: center;
-    font-size: 14px;
+    font-size: 13.5px;
 }
 
 .compare-table th {
@@ -808,10 +844,306 @@ h2 em {
     margin-left: 6px;
 }
 
+.pricing-head {
+    max-width: 760px;
+    margin-bottom: 40px;
+}
+.pricing-head h2 { margin-top: 8px; }
+.pricing-head p {
+    color: var(--gray-2);
+    font-size: 17px;
+    line-height: 1.55;
+    margin-top: 18px;
+    max-width: 700px;
+}
+
+@media (max-width: 700px) {
+    .pricing-head p { font-size: 15px; }
+}
+
+/* ============ AGENTS MATRIX (agentes × planos) ============ */
+.agents-matrix {
+    background: var(--cream);
+    border-radius: 24px;
+    padding: 32px;
+    margin-bottom: 28px;
+}
+.agents-matrix-head {
+    margin-bottom: 22px;
+    max-width: 660px;
+}
+.agents-matrix-title {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: var(--ink);
+    letter-spacing: -0.015em;
+    line-height: 1.2;
+}
+.agents-matrix-sub {
+    font-size: 14px;
+    color: var(--gray-2);
+    line-height: 1.5;
+    margin-top: 8px;
+}
+.agents-matrix-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.agents-matrix-row {
+    display: grid;
+    grid-template-columns: minmax(220px, 1.3fr) minmax(0, 2fr);
+    gap: 16px;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+.agents-matrix-row:last-child { border-bottom: none; }
+.agents-matrix-agent {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.agents-matrix-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--ink);
+    color: var(--paper);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Fraunces', serif;
+    font-size: 16px;
+    font-weight: 500;
+    flex-shrink: 0;
+}
+.agents-matrix-name {
+    font-weight: 600;
+    color: var(--ink);
+    font-size: 14.5px;
+    line-height: 1.2;
+}
+.agents-matrix-role {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--gray-3);
+    margin-top: 3px;
+}
+.agents-matrix-plans {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 6px;
+}
+.ap {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 7px 0;
+    border-radius: 100px;
+    text-align: center;
+    font-weight: 600;
+}
+.ap.on {
+    background: var(--ink);
+    color: var(--paper);
+}
+.ap.off {
+    background: transparent;
+    color: var(--gray-3);
+    border: 1px dashed var(--gray-soft);
+}
+
+@media (max-width: 760px) {
+    .agents-matrix { padding: 24px 20px; }
+    .agents-matrix-row { grid-template-columns: 1fr; gap: 10px; }
+    .agents-matrix-plans { grid-template-columns: repeat(5, 1fr); }
+    .ap { font-size: 9.5px; padding: 6px 0; letter-spacing: 0.03em; }
+}
+
 .pricing-grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 12px;
+}
+
+/* ============ PAY-PER-SALE ============ */
+.pps-wrapper {
+    max-width: 1280px;
+    margin: 28px auto 0;
+}
+.pps-card {
+    background: var(--ink);
+    color: var(--paper);
+    border-radius: 24px;
+    padding: 36px;
+    display: grid;
+    grid-template-columns: minmax(0, 1.6fr) minmax(280px, 1fr);
+    gap: 36px;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.pps-card::before {
+    content: '';
+    position: absolute;
+    top: -120px;
+    right: -120px;
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(196, 243, 82, 0.18), transparent 70%);
+    pointer-events: none;
+}
+.pps-content { position: relative; }
+.pps-badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--lime);
+    background: rgba(196, 243, 82, 0.1);
+    padding: 6px 12px;
+    border-radius: 100px;
+    margin-bottom: 18px;
+}
+.pps-title {
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -0.025em;
+    margin-bottom: 14px;
+    color: var(--paper);
+}
+.pps-title em {
+    font-style: italic;
+    color: var(--lime);
+}
+.pps-desc {
+    color: rgba(250, 250, 247, 0.7);
+    font-size: 15px;
+    line-height: 1.55;
+    margin-bottom: 22px;
+    max-width: 540px;
+}
+.pps-desc strong { color: var(--paper); font-weight: 600; }
+.pps-features {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 24px;
+}
+.pps-feature {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 13.5px;
+    color: rgba(250, 250, 247, 0.85);
+    line-height: 1.45;
+}
+.pps-feature strong { color: var(--paper); font-weight: 600; }
+.pps-check {
+    color: var(--lime);
+    font-weight: 600;
+    flex-shrink: 0;
+}
+.pps-cta-block {
+    background: rgba(250, 250, 247, 0.04);
+    border: 1px solid rgba(250, 250, 247, 0.1);
+    border-radius: 18px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+}
+.pps-price {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pps-price-zero,
+.pps-price-var {
+    font-family: 'Fraunces', serif;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    display: inline-flex;
+    align-items: baseline;
+}
+.pps-price-zero {
+    font-size: 44px;
+    color: rgba(250, 250, 247, 0.45);
+}
+.pps-price-var {
+    font-size: 52px;
+    color: var(--lime);
+}
+.pps-currency {
+    font-size: 0.45em;
+    margin-right: 3px;
+    font-weight: 500;
+    color: inherit;
+    opacity: 0.7;
+}
+.pps-pct {
+    font-size: 0.55em;
+    margin-left: 4px;
+    font-weight: 500;
+    color: inherit;
+    opacity: 0.8;
+}
+.pps-price-sub {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(250, 250, 247, 0.5);
+    margin-top: 4px;
+}
+.pps-price-divider {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    color: rgba(250, 250, 247, 0.4);
+    line-height: 1;
+}
+.pps-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 13px 20px;
+    background: var(--lime);
+    color: var(--ink);
+    border-radius: 100px;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 8px;
+    transition: transform 0.15s;
+}
+.pps-cta:hover { transform: translateY(-1px); }
+.pps-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: rgba(250, 250, 247, 0.4);
+    text-align: center;
+    line-height: 1.5;
+}
+
+@media (max-width: 900px) {
+    .pps-card { grid-template-columns: 1fr; padding: 28px; }
+    .pps-title { font-size: 26px; }
+    .pps-features { grid-template-columns: 1fr; }
 }
 
 .plan {
@@ -2225,6 +2557,151 @@ h2 em {
     letter-spacing: -0.01em;
 }
 
+/* ============ REFERRAL ============ */
+.referral {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 100px 32px;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+}
+.referral::before {
+    content: '';
+    position: absolute;
+    top: -200px;
+    left: -200px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(196, 243, 82, 0.08), transparent 70%);
+    pointer-events: none;
+}
+.referral-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    position: relative;
+}
+.referral-head {
+    max-width: 720px;
+    margin-bottom: 56px;
+}
+.referral-head h2 {
+    color: var(--paper);
+    margin-top: 16px;
+}
+.referral-head h2 em {
+    color: var(--lime);
+    font-style: italic;
+}
+.referral-head p {
+    color: rgba(250, 250, 247, 0.65);
+    font-size: 17px;
+    line-height: 1.55;
+    margin-top: 16px;
+}
+.referral-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 40px;
+}
+.referral-card {
+    background: rgba(250, 250, 247, 0.04);
+    border: 1px solid rgba(250, 250, 247, 0.1);
+    border-radius: 20px;
+    padding: 28px 26px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    transition: all 0.2s;
+}
+.referral-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(196, 243, 82, 0.4);
+}
+.referral-card-featured {
+    background: rgba(196, 243, 82, 0.06);
+    border-color: rgba(196, 243, 82, 0.25);
+}
+.referral-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--lime);
+    letter-spacing: 0.1em;
+    font-weight: 600;
+}
+.referral-card h4 {
+    font-family: 'Fraunces', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--paper);
+    letter-spacing: -0.015em;
+    line-height: 1.25;
+}
+.referral-card p {
+    font-size: 13.5px;
+    color: rgba(250, 250, 247, 0.65);
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+}
+.referral-reward {
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    padding: 12px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-top: 4px;
+}
+.referral-reward span {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: rgba(250, 250, 247, 0.45);
+}
+.referral-reward strong {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: var(--lime);
+    letter-spacing: -0.015em;
+}
+.referral-cta-block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+.referral-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 16px 28px;
+    background: var(--lime);
+    color: var(--ink);
+    border-radius: 100px;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 15px;
+    transition: transform 0.15s;
+}
+.referral-cta:hover { transform: translateY(-2px); }
+.referral-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: rgba(250, 250, 247, 0.4);
+}
+
+@media (max-width: 900px) {
+    .referral { padding: 64px 24px; }
+    .referral-grid { grid-template-columns: 1fr; }
+}
+
 /* ============ SOCIAL PROOF ============ */
 .social-proof {
     background: var(--paper-warm);
@@ -2538,6 +3015,47 @@ h2 em {
 }
 
 .trust-item:hover { color: var(--ink); }
+
+/* Chip estilizado (fallback quando logo não carrega) */
+.trust-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border: 1px solid var(--gray-soft);
+    border-radius: 100px;
+    font-family: 'Geist', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--gray-2);
+    background: var(--paper-warm);
+    height: 40px;
+    box-sizing: border-box;
+    transition: border-color 0.2s, color 0.2s, transform 0.2s;
+    white-space: nowrap;
+}
+
+.trust-chip:hover {
+    border-color: var(--ink);
+    color: var(--ink);
+    transform: translateY(-2px);
+}
+
+.trust-chip svg {
+    color: var(--gray-3);
+    flex-shrink: 0;
+    transition: color 0.2s;
+}
+
+.trust-chip:hover svg { color: var(--lime-deep); }
+
+/* Variante específica para certificações (visual mais sóbrio) */
+.trust-chip-cert {
+    background: var(--paper);
+    padding: 11px 18px;
+    font-size: 12.5px;
+    letter-spacing: 0.01em;
+}
 
 .trust-logo {
     height: 36px;
@@ -2897,7 +3415,7 @@ footer {
     .features-grid { grid-template-columns: 1fr; }
     .stats { grid-template-columns: repeat(2, 1fr); }
     .testimonials { grid-template-columns: 1fr; }
-    .dor-grid { grid-template-columns: 1fr; }
+    .dor-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
     .how-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
     .how-grid::before { display: none; }
     .footer-grid { grid-template-columns: 1.4fr 1fr 1fr; gap: 40px 32px; }
@@ -2971,6 +3489,312 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* ===================================================================
+   RESPONSIVIDADE CONSOLIDADA · breakpoints organizados
+   tablet:      1024px / laptops pequenos
+   tablet-sm:   900px / iPads em portrait
+   mobile-lg:   720px / phones em landscape
+   mobile:      540px / phones em portrait
+   mobile-sm:   380px / phones pequenos
+   =================================================================== */
+
+/* ---------- TABLET (≤ 1024px) ---------- */
+@media (max-width: 1024px) {
+    /* Hero: ainda 2 colunas mas menor */
+    .hero { padding: 110px 24px 64px; gap: 40px; }
+    .hero-widget { max-width: 360px; }
+
+    /* Comparativo: tabela mais compacta */
+    .compare-table th, .compare-table td { padding: 16px 8px; font-size: 12.5px; }
+    .compare-table th { font-size: 11px; }
+    .compare-table th:first-child, .compare-table td:first-child { padding-left: 18px; }
+
+    /* Pricing grid: começa a apertar */
+    .pricing-grid { gap: 10px; }
+    .plan { padding: 22px 18px; }
+
+    /* Agents matrix: pílulas menores */
+    .ap { font-size: 9.5px; padding: 6px 0; }
+}
+
+/* ---------- TABLET-SM (≤ 900px) ---------- */
+@media (max-width: 900px) {
+    /* Hero: vira coluna única */
+    .hero {
+        grid-template-columns: 1fr;
+        padding: 100px 24px 56px;
+        gap: 48px;
+    }
+    .hero-widget { justify-self: stretch; max-width: 100%; }
+    .hero-title { font-size: clamp(32px, 7vw, 56px) !important; }
+    .hero-sub { font-size: 16px; }
+
+    /* Features: 1 coluna */
+    .features-grid {
+        grid-template-columns: 1fr !important;
+        gap: 16px;
+    }
+    .feature.large { grid-column: span 1; padding: 32px 26px; }
+    .feature { padding: 28px 22px; }
+
+    /* How: 2 colunas */
+    .how-grid { grid-template-columns: 1fr 1fr !important; gap: 16px; }
+
+    /* Comparativo: scroll horizontal forçado se necessário */
+    .compare-table { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .compare-table table { min-width: 640px; }
+
+    /* Pricing: vira 2 colunas */
+    .pricing-grid { grid-template-columns: 1fr 1fr !important; gap: 14px; }
+    .plan.featured { transform: none; }
+
+    /* Agents matrix: já vira 1 coluna por linha (regra existente cobre) */
+
+    /* ROI grid: já cobre, garantir gap */
+    .roi-grid { gap: 24px; }
+    .roi-inputs, .roi-output { padding: 28px 22px; }
+
+    /* Stats: 2 colunas */
+    .stats { grid-template-columns: 1fr 1fr !important; gap: 24px; }
+
+    /* Referral: já cobre em 1 col */
+
+    /* Trust: ajustes */
+    .trust { padding: 64px 20px !important; }
+    .trust-row { gap: 18px 28px; }
+    .trust-logo { height: 30px; max-width: 110px; }
+}
+
+/* ---------- MOBILE-LG (≤ 720px) ---------- */
+@media (max-width: 720px) {
+    /* Nav: menos itens visíveis */
+    .nav { padding: 14px 18px; }
+    .nav-links { display: none; }
+
+    /* Hero: tudo menor */
+    .hero { padding: 88px 18px 48px; gap: 36px; }
+    .hero-tag { font-size: 11px; padding: 5px 11px; margin-bottom: 22px; }
+    .hero-sub { font-size: 15px; }
+    .hero-actions { flex-direction: column; align-items: stretch; gap: 10px; }
+    .btn-primary, .btn-secondary { padding: 15px 24px; font-size: 15px; justify-content: center; }
+    .hero-meta { font-size: 12.5px; margin-top: 22px; }
+
+    /* Time to Value: 1 coluna empilhada */
+    .hero-ttv {
+        flex-direction: column;
+        gap: 10px;
+        padding: 14px 16px;
+    }
+
+    /* Hero widget: padding interno menor */
+    .hero-widget { padding: 20px; }
+    .msg { font-size: 13.5px; padding: 10px 14px; }
+
+    /* DOR */
+    .dor-inner { padding: 64px 20px !important; }
+    .dor-grid { grid-template-columns: 1fr !important; gap: 14px; }
+    .dor-card { padding: 28px 22px; }
+    .dor-number { font-size: 56px; }
+    .dor h2 { font-size: clamp(28px, 6vw, 40px) !important; }
+
+    /* Features dentro de #produto */
+    #produto { padding: 64px 20px !important; }
+
+    /* How: 1 coluna */
+    .how-grid { grid-template-columns: 1fr !important; }
+    .how-inner { padding: 0 4px; }
+    .how { padding: 64px 20px !important; }
+    .how-step { padding: 24px 20px; }
+
+    /* Comparativo */
+    .compare { padding: 64px 20px !important; }
+    .compare-inner { padding: 0; }
+    .compare-sub { font-size: 14.5px; }
+
+    /* ROI */
+    .roi { padding: 64px 16px !important; }
+    .roi-head h2 { font-size: clamp(28px, 6vw, 40px) !important; }
+    .roi-profile { grid-template-columns: 1fr; gap: 8px; }
+    .roi-profile-btn { padding: 14px 16px; }
+    .roi-inputs, .roi-output { padding: 22px 18px; }
+    .roi-num { font-size: 18px; width: 92px; }
+    .roi-num-suffix .roi-num { width: 50px; }
+    .roi-num-suffix-unit { font-size: 18px; }
+    .roi-row-num { font-size: 18px; }
+    .roi-total-num em { font-size: clamp(34px, 9vw, 56px); }
+    .roi-vs-pro-grid { grid-template-columns: 1fr; gap: 10px; }
+    .roi-vs-pro-divider { display: none; }
+    .roi-vs-pro-cell-num { font-size: 22px; }
+    .roi-cta { width: 100%; justify-content: center; padding: 14px 22px; }
+
+    /* Metodologia */
+    .method { padding: 64px 20px !important; }
+    .method-grid { grid-template-columns: 1fr !important; gap: 14px; }
+
+    /* Integrações */
+    .integrations { padding: 64px 20px !important; }
+    .flow-diagram {
+        flex-direction: column !important;
+        gap: 18px;
+    }
+    .flow-arrow svg { transform: rotate(90deg); }
+    .integration-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 8px;
+    }
+    .integration-features { grid-template-columns: 1fr !important; gap: 18px; }
+
+    /* Pricing: vira 1 coluna */
+    section#pricing { padding: 64px 20px !important; }
+    .pricing-grid { grid-template-columns: 1fr !important; gap: 16px; }
+    .plan { padding: 26px 22px; }
+    .plan-price { font-size: 38px; }
+
+    /* Agents matrix: pílulas em 2 linhas (3+2) ainda em mobile */
+    .agents-matrix { padding: 24px 18px; margin-bottom: 22px; }
+    .agents-matrix-title { font-size: 19px; }
+    .agents-matrix-sub { font-size: 13px; }
+    .agents-matrix-plans { grid-template-columns: repeat(3, 1fr) !important; gap: 5px; }
+    .ap { font-size: 9px; padding: 5px 0; letter-spacing: 0.02em; }
+
+    /* Pay-per-sale / Performance */
+    .pps-card { padding: 24px 20px; gap: 22px; }
+    .pps-title { font-size: 22px; }
+    .pps-desc { font-size: 14px; }
+    .pps-features { grid-template-columns: 1fr !important; gap: 8px; }
+    .pps-feature { font-size: 12.5px; }
+    .pps-cta-block { padding: 20px 18px; }
+    .pps-price-zero, .pps-price-var { font-size: 38px; }
+
+    /* Indicação */
+    .referral { padding: 64px 20px !important; }
+    .referral-grid { grid-template-columns: 1fr !important; gap: 12px; }
+    .referral-card { padding: 22px 20px; }
+    .referral-head h2 { font-size: clamp(26px, 6vw, 40px); }
+    .referral-cta-block { align-items: stretch; }
+    .referral-cta { width: 100%; justify-content: center; }
+
+    /* Social proof */
+    .social-proof { padding: 64px 20px !important; }
+    .stats { grid-template-columns: 1fr 1fr !important; gap: 22px; }
+    .stat-num em { font-size: clamp(38px, 9vw, 60px); }
+    .testimonials { grid-template-columns: 1fr !important; gap: 16px; }
+    .testimonial { padding: 26px 22px; }
+
+    /* FAQ */
+    #faq { padding: 64px 20px !important; }
+    .faq-item { padding: 18px 20px; }
+    .faq-q h4 { font-size: 15px; }
+    .faq-a { font-size: 13.5px; }
+
+    /* Trust */
+    .trust { padding: 56px 16px !important; }
+    .trust-label { font-size: 11px; }
+    .trust-marquee { gap: 32px; }
+    .trust-track { gap: 32px; padding-right: 32px; }
+    .trust-track .trust-logo { height: 26px; max-width: 90px; }
+    .trust-row { gap: 14px 22px; }
+    .trust-row.backers .trust-logo { height: 24px; max-width: 100px; }
+    .trust-row.compliance .trust-logo { height: 32px; max-width: 130px; padding: 4px 8px; }
+    .trust-chip { font-size: 12px; padding: 8px 14px; height: 36px; }
+
+    /* CTA Final */
+    .cta-final { padding: 80px 20px !important; }
+    .cta-final h2 { font-size: clamp(32px, 8vw, 52px) !important; }
+    .cta-final p { font-size: 14.5px; }
+    .btn-final { width: 100%; justify-content: center; padding: 16px 24px; font-size: 15px; }
+
+    /* Section h2 geral */
+    .section-tag { font-size: 11px; }
+    h2 { font-size: clamp(28px, 6vw, 44px) !important; }
+
+    /* Variation panel: esconder em mobile (era ferramenta dev) */
+    .tweaks-panel,
+    .edit-toggle { display: none !important; }
+}
+
+/* ---------- MOBILE (≤ 540px) ---------- */
+@media (max-width: 540px) {
+    /* Paddings horizontais mais agressivos */
+    .hero,
+    .dor-inner,
+    #produto,
+    .how,
+    .compare,
+    .roi,
+    .method,
+    .integrations,
+    section#pricing,
+    .referral,
+    .social-proof,
+    #faq,
+    .trust,
+    .cta-final { padding-left: 14px !important; padding-right: 14px !important; }
+
+    /* Hero widget chat: menor */
+    .hero-widget { padding: 18px; }
+    .widget-card-row { font-size: 12px; }
+
+    /* Pricing card: textos menores */
+    .plan-name { font-size: 16px; }
+    .plan-desc { font-size: 11.5px; min-height: 0; }
+    .plan-price { font-size: 34px; }
+    .plan-features li { font-size: 12.5px; }
+
+    /* Agents matrix: pílulas em coluna única quando muito apertado */
+    .agents-matrix-plans { grid-template-columns: repeat(2, 1fr) !important; }
+
+    /* Stats: 1 coluna */
+    .stats { grid-template-columns: 1fr !important; gap: 18px; }
+
+    /* Integrações: chips em 1 coluna */
+    .integration-grid { grid-template-columns: 1fr !important; }
+
+    /* Comparativo: ainda mais compacto */
+    .compare-table th, .compare-table td { padding: 14px 6px; font-size: 11.5px; }
+    .compare-table th { font-size: 10px; }
+    .compare-table th:first-child, .compare-table td:first-child { padding-left: 12px; font-size: 12px; }
+
+    /* ROI card de comparação humano vs AI */
+    .roi-compare-stat strong { font-size: 22px; }
+    .roi-compare-list li { font-size: 11.5px; }
+    .roi-cost-line { font-size: 10px; }
+
+    /* DOR: número gigante reduzido */
+    .dor-number { font-size: 48px; }
+    .dor-card h3 { font-size: 16px; }
+    .dor-card p { font-size: 13px; }
+}
+
+/* ---------- MOBILE-SM (≤ 380px) ---------- */
+@media (max-width: 380px) {
+    .hero-title { font-size: 28px !important; }
+    .hero-tag { font-size: 10.5px; }
+    h2 { font-size: 24px !important; }
+
+    .plan-price { font-size: 28px; }
+    .pps-title { font-size: 19px; }
+    .pps-price-zero, .pps-price-var { font-size: 32px; }
+
+    .stat-num em { font-size: 34px; }
+    .roi-total-num em { font-size: 28px; }
+
+    /* Botões compactam */
+    .btn-primary, .btn-secondary { padding: 14px 18px; font-size: 14px; }
+}
+
+/* ---------- ACESSIBILIDADE / GERAIS ---------- */
+@media (max-width: 720px) {
+    /* Previne overflow horizontal */
+    body, html { overflow-x: hidden; }
+
+    /* Imagens responsivas sempre */
+    img { max-width: 100%; height: auto; }
+
+    /* Tabelas com scroll */
+    table { max-width: 100%; }
+}
 </style>
 </head>
 <body id="top">
@@ -3000,13 +3824,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- HERO -->
 <header class="hero">
     <div class="hero-content">
-    <div class="hero-tag" id="heroTag">Sistema operacional para incorporadoras e imobiliárias</div>
+    <div class="hero-tag" id="heroTag">Comece em R$ 0. Cresça sem implantação de 60 dias.</div>
     <h1 class="hero-title" id="heroTitle">
-        O sistema operacional e financeiro do <em>setor imobiliário</em>, com <span class="underline-wrap">Inteligência Artificial</span>.
+        O sistema operacional do <em>mercado imobiliário</em>, com <span class="underline-wrap">IA nativa</span> do lead à entrega das chaves.
     </h1>
     <p class="hero-sub" id="heroSub">
-        Do primeiro lead à entrega das chaves: SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão de obras. Tudo em uma única plataforma.
+        Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma.
     </p>
+    <div class="hero-ttv">
+        <span class="hero-ttv-item"><span class="hero-ttv-num">30s</span><span class="hero-ttv-label">Primeira simulação de crédito</span></span>
+        <span class="hero-ttv-item"><span class="hero-ttv-num">1min</span><span class="hero-ttv-label">Primeiro contrato gerado</span></span>
+        <span class="hero-ttv-item"><span class="hero-ttv-num">5s</span><span class="hero-ttv-label">Sofia respondendo seus leads</span></span>
+    </div>
     <div class="hero-actions">
         <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="btn-primary" target="_blank" rel="noopener" data-track="cta_hero_primary">
             Começar grátis
@@ -3014,10 +3843,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
         <a href="https://wa.me/5511936209409" class="btn-secondary" target="_blank" rel="noopener" data-track="cta_hero_demo">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-            Ver demo de 60s
+            Ver demo
         </a>
     </div>
-    <div class="hero-meta">Sem cartão · Setup em 5 minutos · 20% off no plano anual</div>
+    <div class="hero-meta">Plano Free permanente · sem cartão · 20% off no plano anual</div>
     </div>
 
     <div class="hero-widget">
@@ -3053,6 +3882,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p>Você não tem time pra responder todo mundo no horário certo. À noite, ninguém atende, e o lead já fechou com outro.</p>
             </div>
             <div class="dor-card">
+                <div class="dor-number">78<sub>%</sub></div>
+                <h3>Compram do primeiro que responder.</h3>
+                <p>Estudo da Harvard Business Review com 2.241 empresas: responder em 5 minutos torna o lead <strong>100× mais provável</strong> de virar venda do que responder em 30 minutos. Tempo médio do mercado: 47 horas. Sua concorrência já fechou com ele.</p>
+            </div>
+            <div class="dor-card">
                 <div class="dor-number">30<sub>+ dias</sub></div>
                 <h3>É o tempo médio de cada financiamento.</h3>
                 <p>O cliente roda banco por banco, leva papelada, perde proposta. Quando aprova, já desistiu do imóvel.</p>
@@ -3069,7 +3903,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- FEATURES -->
 <section id="produto">
     <div class="section-tag">A solução</div>
-    <h2>Três coisas que <em>nenhum ERP imobiliário</em> faz.</h2>
+    <h2>Cinco coisas que <em>nenhum ERP imobiliário</em> faz.</h2>
 
     <div class="features-grid">
         <div class="feature large">
@@ -3077,7 +3911,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3>Um vendedor 24/7 que conversa como gente.</h3>
             <p>A Sofia atende seu lead no WhatsApp em 10 segundos. Qualifica, agenda visita, simula financiamento, manda contraproposta. Em português natural, com sua voz, sem o jeitão de chatbot.</p>
             <div class="feature-demo">
-                <div class="row"><span>Aumento de conversão</span><span>+225%</span></div>
+                <div class="row"><span>Aumento de conversão</span><span>+167%</span></div>
                 <div class="row"><span>Redução do tempo de fechamento</span><span>80%</span></div>
                 <div class="row best"><span>Satisfação dos clientes</span><span>98%</span></div>
             </div>
@@ -3086,7 +3920,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="feature">
             <div class="feature-num">02 / Carlos · Agente de Crédito</div>
             <h3>Simulação multibancos em menos de 30 segundos.</h3>
-            <p>Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, BB, CrediPronto, Rodobens, Creditas e Pontte. O cliente sai com a melhor taxa, e você fecha o financiamento sem retrabalho.</p>
+            <p>Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe. O cliente sai com a melhor taxa, e você fecha o financiamento sem retrabalho.</p>
             <div class="feature-demo">
                 <div class="row"><span>Caixa</span><span>9,99% a.a.</span></div>
                 <div class="row"><span>Itaú</span><span>10,49% a.a.</span></div>
@@ -3099,9 +3933,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3>Contrato pronto em menos de 1 minuto.</h3>
             <p>Geração de propostas, contratos digitais e assinatura eletrônica com validade jurídica. Sem time de implantação, sem treinamento.</p>
             <div class="feature-demo">
-                <div class="row"><span>Tempo de implantação</span><span>5 min</span></div>
+                <div class="row"><span>Tempo de geração</span><span>1 min</span></div>
                 <div class="row"><span>Treinamento necessário</span><span>0h</span></div>
-                <div class="row best"><span>Tempo por contrato</span><span>15 min</span></div>
+                <div class="row best"><span>Tempo até assinatura</span><span>15 min</span></div>
+            </div>
+        </div>
+
+        <div class="feature">
+            <div class="feature-num">04 / Max · Agente de Pós-venda</div>
+            <h3>Repasse, registro e obra sob controle.</h3>
+            <p>Acompanha o cliente do contrato assinado à entrega das chaves. Cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico. Tudo automatizado, com você no comando.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Repasse bancário</span><span>auto</span></div>
+                <div class="row"><span>Cartório digital</span><span>incluído</span></div>
+                <div class="row best"><span>Medições de obra</span><span>tempo real</span></div>
+            </div>
+        </div>
+
+        <div class="feature">
+            <div class="feature-num">05 / Iris · Agente de Analytics</div>
+            <h3>Onde investir o próximo real de marketing.</h3>
+            <p>Analisa o que converte, por canal, por corretor, por empreendimento. Te diz onde dobrar a aposta e onde cortar gasto. Relatórios em linguagem natural, sem dashboard confuso.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Custo por lead</span><span>por canal</span></div>
+                <div class="row"><span>ROI por campanha</span><span>tempo real</span></div>
+                <div class="row best"><span>Recomendações IA</span><span>semanal</span></div>
             </div>
         </div>
     </div>
@@ -3112,7 +3968,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="how-inner">
         <div class="section-tag">Como funciona</div>
         <h2>Do <em>primeiro lead</em> ao financiamento aprovado.</h2>
-        <p class="how-sub">5 agentes de IA trabalhando juntos pela sua imobiliária 24 horas por dia. Cada um especializado em uma etapa do funil. Você só entra para fechar.</p>
+        <p class="how-sub">5 agentes de IA trabalhando juntos pela sua operação, 24 horas por dia. Cada um especializado em uma etapa do funil. Você só entra para fechar.</p>
 
         <div class="how-grid">
             <div class="how-step" data-track="how_step_1">
@@ -3154,13 +4010,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section class="compare" id="comparar">
     <div class="compare-inner">
         <div class="section-tag" style="color: var(--lime);">Por que nós</div>
-        <h2>O ERP da incorporação, por <em>uma fração do preço</em>.</h2>
-        <p class="compare-sub">Sienge, Kenlo e CV CRM cobram caro por implantação de 60 dias, vendem cada módulo separado e a IA, quando existe, é parafusada por cima. A Credituz integra CRM, crédito, contratos, régua de cobrança, NFe e obras nativamente, com IA do primeiro lead à entrega das chaves.</p>
+        <h2>O sistema do setor imobiliário, por <em>uma fração do preço</em>.</h2>
+        <p class="compare-sub">Sienge, Kenlo e CV CRM cobram caro por implantação de 60 dias, vendem cada módulo separado e a IA, quando existe, é parafusada por cima. A Credituz integra CRM, crédito, contratos, régua de cobrança, NFe e gestão em uma plataforma, com IA do primeiro lead à entrega das chaves.</p>
 
         <div class="compare-table">
             <table>
                 <tr>
                     <th></th>
+                    <th>Sienge</th>
                     <th>Kenlo</th>
                     <th>CV CRM</th>
                     <th>Morada.ai</th>
@@ -3168,13 +4025,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </tr>
                 <tr>
                     <td>Preço mensal</td>
+                    <td>R$ 1.500+</td>
                     <td>R$ 247–1.197</td>
                     <td>sob consulta</td>
                     <td>enterprise</td>
-                    <td class="credituz-col">R$ 0–497</td>
+                    <td class="credituz-col">R$ 0–997</td>
                 </tr>
                 <tr>
                     <td>Setup self-serve</td>
+                    <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
@@ -3183,12 +4042,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <tr>
                     <td>SDR AI nativo</td>
                     <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
                     <td><span class="partial">parcial</span></td>
                     <td><span class="check">✓</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
                 <tr>
                     <td>Simulação multi-banco</td>
+                    <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="partial">parcial</span></td>
                     <td><span class="partial">parcial</span></td>
@@ -3198,11 +4059,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td>Originação de crédito embarcada</td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
                     <td><span class="partial">novo</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
                 <tr>
+                    <td>Gestão de obras</td>
+                    <td><span class="check">✓</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+                <tr>
                     <td>Implantação</td>
+                    <td>60+ dias</td>
                     <td>30+ dias</td>
                     <td>60+ dias</td>
                     <td>30+ dias</td>
@@ -3210,6 +4081,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </tr>
                 <tr>
                     <td>Plano gratuito</td>
+                    <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
@@ -3226,7 +4098,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="roi-head">
             <div class="section-tag">Calculadora de ROI</div>
             <h2>Quem qualifica seus leads hoje? <em>Calcule.</em></h2>
-            <p>Imobiliária com SDR dedicado, incorporadora com margens maiores ou corretor autônomo que faz tudo sozinho — cada perfil tem custos e perdas diferentes. Escolha o seu cenário, ajuste os números reais da sua operação e compare lado a lado com a Sofia, a SDR de IA da Credituz, atendendo 24×7.</p>
+            <p>Imobiliária com SDR dedicado, incorporadora com margens maiores ou corretor autônomo que faz tudo sozinho. Cada perfil tem custos e perdas diferentes. Escolha o seu cenário, ajuste os números reais da sua operação e compare lado a lado com a Sofia, a SDR de IA da Credituz, atendendo 24×7.</p>
 
             <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
                 <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
@@ -3321,7 +4193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </div>
                     <input type="range" id="roiComissaoCorretor" class="roi-slider" min="1" max="10" step="0.5" value="5">
-                    <div class="roi-hint">% do valor do imóvel pago como comissão ao corretor que qualifica, simula e atende — em troca, ele leva 100% do trabalho de funil</div>
+                    <div class="roi-hint">% do valor do imóvel pago como comissão ao corretor que qualifica, simula e atende. Em troca, ele leva 100% do trabalho de funil</div>
                 </div>
 
                 <!-- Bloco de quem qualifica = Corretor autônomo (perfil corretor) -->
@@ -3451,7 +4323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
-        <p class="roi-disclaimer"><strong>Sobre o modo "Próprio corretor":</strong> é comum, principalmente em imobiliárias menores, usar o próprio corretor de imóveis como SDR — ele recebe o lead do ZAP, OLX, VivaReal ou Meta Ads, atende, qualifica, simula crédito e leva à visita. Não há salário fixo, mas o corretor cobra em média <strong>5% de comissão sobre o valor do imóvel</strong> por todo o trabalho de funil (qualificação + visita + fechamento). O problema permanece: cobertura limitada ao horário em que ele não está em outra visita, no carro ou dormindo — e o custo por venda é alto (uma venda de R$ 450k vira R$ 22.500 de comissão paga). Com a Sofia, o atendimento e qualificação acontecem 24×7 e o corretor entra apenas para fechar, com comissão menor sobre apenas o valor da intermediação. <br><br><strong>Custo do SDR (modo dedicado):</strong> calculado como salário base + 30% de encargos e provisões (FGTS, 13º, férias + 1/3, multa rescisória) + 10% de benefícios (VT + VR/VA), considerando Simples Nacional. Para Lucro Real/Presumido (INSS patronal 20%), o multiplicador sobe para ~1,7×. Fontes: <a href="https://calculabrasil.com/calculadoras/custo-funcionario" target="_blank" rel="noopener">CalculaBrasil</a>, <a href="https://www.junny.com.br/blog/trabalhistas/custo-funcionario-clt-quanto-empresa-paga-alem-salario" target="_blank" rel="noopener">Junny</a>, <a href="https://www.infinitepay.io/materiais/calculadora-de-custo-de-funcionario" target="_blank" rel="noopener">InfinitePay</a>. Faixa salarial: <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/sdr-sal%C3%A1rio-SRCH_KO0,3.htm" target="_blank" rel="noopener">Glassdoor</a> e <a href="https://br.jooble.org/salary/sdr-comercial" target="_blank" rel="noopener">Jooble</a> (R$ 2.000–R$ 8.000). Conversões (6% → 16%) e recuperação de carteira (1,2%/mês) baseadas em benchmarks Abrainc/Secovi cruzados com cenários reais de clientes Credituz. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Calculadora referencial. Não constitui garantia contratual.</p>
+        <p class="roi-disclaimer"><strong>Sobre o modo "Próprio corretor":</strong> é comum, principalmente em imobiliárias menores, usar o próprio corretor de imóveis como SDR. Ele recebe o lead do ZAP, OLX, VivaReal ou Meta Ads, atende, qualifica, simula crédito e leva à visita. Não há salário fixo, mas o corretor cobra em média <strong>5% de comissão sobre o valor do imóvel</strong> por todo o trabalho de funil (qualificação + visita + fechamento). O problema permanece: cobertura limitada ao horário em que ele não está em outra visita, no carro ou dormindo, e o custo por venda é alto (uma venda de R$ 450k vira R$ 22.500 de comissão paga). Com a Sofia, o atendimento e qualificação acontecem 24×7 e o corretor entra apenas para fechar, com comissão menor sobre apenas o valor da intermediação. <br><br><strong>Custo do SDR (modo dedicado):</strong> calculado como salário base + 30% de encargos e provisões (FGTS, 13º, férias + 1/3, multa rescisória) + 10% de benefícios (VT + VR/VA), considerando Simples Nacional. Para Lucro Real/Presumido (INSS patronal 20%), o multiplicador sobe para ~1,7×. Fontes: <a href="https://calculabrasil.com/calculadoras/custo-funcionario" target="_blank" rel="noopener">CalculaBrasil</a>, <a href="https://www.junny.com.br/blog/trabalhistas/custo-funcionario-clt-quanto-empresa-paga-alem-salario" target="_blank" rel="noopener">Junny</a>, <a href="https://www.infinitepay.io/materiais/calculadora-de-custo-de-funcionario" target="_blank" rel="noopener">InfinitePay</a>. Faixa salarial: <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/sdr-sal%C3%A1rio-SRCH_KO0,3.htm" target="_blank" rel="noopener">Glassdoor</a> e <a href="https://br.jooble.org/salary/sdr-comercial" target="_blank" rel="noopener">Jooble</a> (R$ 2.000–R$ 8.000). Conversões (6% → 16%) e recuperação de carteira (1,2%/mês) baseadas em benchmarks Abrainc/Secovi cruzados com cenários reais de clientes Credituz. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Calculadora referencial. Não constitui garantia contratual.</p>
     </div>
 </section>
 
@@ -3600,8 +4472,105 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- PRICING -->
 <section id="pricing">
-    <div class="section-tag">Preços transparentes</div>
-    <h2>Comece de graça. Cresça <em>quando fizer sentido</em>.</h2>
+    <div class="pricing-head">
+        <div class="section-tag">Preços transparentes</div>
+        <h2>Comece de graça. Cresça <em>quando fizer sentido</em>.</h2>
+        <p>Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma.</p>
+    </div>
+
+    <!-- Mini-seção: agentes × planos -->
+    <div class="agents-matrix">
+        <div class="agents-matrix-head">
+            <div class="agents-matrix-title">Quais agentes de IA cada plano libera</div>
+            <div class="agents-matrix-sub">Sofia, Carlos, Ana, Max e Iris são os 5 agentes que trabalham na sua operação. Quanto mais alto o plano, mais agentes você ativa.</div>
+        </div>
+        <div class="agents-matrix-grid">
+            <div class="agents-matrix-row">
+                <div class="agents-matrix-agent">
+                    <div class="agents-matrix-avatar">C</div>
+                    <div>
+                        <div class="agents-matrix-name">Carlos</div>
+                        <div class="agents-matrix-role">Crédito · simulação multibancos</div>
+                    </div>
+                </div>
+                <div class="agents-matrix-plans">
+                    <span class="ap on">Free</span>
+                    <span class="ap on">Starter</span>
+                    <span class="ap on">Pro</span>
+                    <span class="ap on">Business</span>
+                    <span class="ap on">Enterprise</span>
+                </div>
+            </div>
+
+            <div class="agents-matrix-row">
+                <div class="agents-matrix-agent">
+                    <div class="agents-matrix-avatar">A</div>
+                    <div>
+                        <div class="agents-matrix-name">Ana</div>
+                        <div class="agents-matrix-role">Contratos digitais com IA</div>
+                    </div>
+                </div>
+                <div class="agents-matrix-plans">
+                    <span class="ap on">Free</span>
+                    <span class="ap on">Starter</span>
+                    <span class="ap on">Pro</span>
+                    <span class="ap on">Business</span>
+                    <span class="ap on">Enterprise</span>
+                </div>
+            </div>
+
+            <div class="agents-matrix-row">
+                <div class="agents-matrix-agent">
+                    <div class="agents-matrix-avatar">S</div>
+                    <div>
+                        <div class="agents-matrix-name">Sofia</div>
+                        <div class="agents-matrix-role">SDR no WhatsApp, Instagram e Facebook 24×7</div>
+                    </div>
+                </div>
+                <div class="agents-matrix-plans">
+                    <span class="ap off">Free</span>
+                    <span class="ap off">Starter</span>
+                    <span class="ap on">Pro</span>
+                    <span class="ap on">Business</span>
+                    <span class="ap on">Enterprise</span>
+                </div>
+            </div>
+
+            <div class="agents-matrix-row">
+                <div class="agents-matrix-agent">
+                    <div class="agents-matrix-avatar">I</div>
+                    <div>
+                        <div class="agents-matrix-name">Iris</div>
+                        <div class="agents-matrix-role">Analytics generativo · ROI por canal</div>
+                    </div>
+                </div>
+                <div class="agents-matrix-plans">
+                    <span class="ap off">Free</span>
+                    <span class="ap off">Starter</span>
+                    <span class="ap on">Pro</span>
+                    <span class="ap on">Business</span>
+                    <span class="ap on">Enterprise</span>
+                </div>
+            </div>
+
+            <div class="agents-matrix-row">
+                <div class="agents-matrix-agent">
+                    <div class="agents-matrix-avatar">M</div>
+                    <div>
+                        <div class="agents-matrix-name">Max</div>
+                        <div class="agents-matrix-role">Pós-venda · repasse, registro e obras</div>
+                    </div>
+                </div>
+                <div class="agents-matrix-plans">
+                    <span class="ap off">Free</span>
+                    <span class="ap off">Starter</span>
+                    <span class="ap off">Pro</span>
+                    <span class="ap on">Business</span>
+                    <span class="ap on">Enterprise</span>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="pricing-toggle">
         <button class="active" onclick="togglePricing('monthly', this)">Mensal</button>
@@ -3616,12 +4585,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="plan-period">para sempre · sem cartão</div>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_free">Começar grátis</a>
             <ul class="plan-features">
-                <li><span>50 leads/mês</span></li>
+                <li><span>100 leads/mês</span></li>
                 <li><span>1 usuário</span></li>
                 <li><span>CRM de crédito · simulação e pedido de crédito</span></li>
-                <li><span>SDR AI · 100 msgs/mês</span></li>
+                <li><span>LP de vendas para 1 empreendimento</span></li>
                 <li><span>Simulação multi-banco ilimitada</span></li>
-                <li><span>1 contrato com IA/mês</span></li>
+                <li><span>3 contratos com IA/mês</span></li>
                 <li><span>Originação de crédito ativa</span></li>
             </ul>
         </div>
@@ -3629,13 +4598,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="plan">
             <div class="plan-name">Starter</div>
             <div class="plan-desc">Corretor autônomo, mini-imobiliária ou pequeno construtor.</div>
-            <div class="plan-price"><span class="currency">R$</span><span data-monthly="97" data-annual="78">97</span></div>
+            <div class="plan-price"><span class="currency">R$</span><span data-monthly="49" data-annual="39">49</span></div>
             <div class="plan-period">por mês · <span data-monthly="cobrança mensal" data-annual="cobrado anual">cobrança mensal</span></div>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_starter">Começar trial</a>
             <ul class="plan-features">
                 <li><span><strong>Tudo do Free</strong>, mais:</span></li>
                 <li><span>CRM imobiliário + CRM de crédito · leads ilimitados</span></li>
                 <li><span>2 usuários</span></li>
+                <li><span>Até 50 empreendimentos · 50 LPs de vendas</span></li>
                 <li><span>10 contratos com IA/mês</span></li>
                 <li><span>Cartórios digitais inclusos</span></li>
                 <li><span>NFe a <strong>R$ 0,49</strong>/nota</span></li>
@@ -3645,13 +4615,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="plan featured">
             <div class="plan-name">Pro</div>
-            <div class="plan-desc">Equipe pequena · até 5 corretores ou empreendimentos.</div>
+            <div class="plan-desc">Equipe pequena · até 5 corretores e 100 empreendimentos.</div>
             <div class="plan-price"><span class="currency">R$</span><span data-monthly="497" data-annual="398">497</span></div>
             <div class="plan-period">por mês · <span data-monthly="cobrança mensal" data-annual="cobrado anual">cobrança mensal</span></div>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_pro">Começar trial</a>
             <ul class="plan-features">
                 <li><span><strong>Tudo do Starter</strong>, mais:</span></li>
-                <li><span>5 usuários · até 5 empreendimentos</span></li>
+                <li><span>5 usuários · até 100 empreendimentos e 100 LPs</span></li>
                 <li><span>Integração ZAP, OLX e VivaReal</span></li>
                 <li><span>SDR AI · 5 Canais de WhatsApp</span></li>
                 <li><span>SDR AI no Facebook e Instagram</span></li>
@@ -3664,7 +4634,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="plan">
             <div class="plan-name">Business</div>
             <div class="plan-desc">Operação consolidada · até 30 usuários, empreendimentos ilimitados.</div>
-            <div class="plan-price"><span class="currency">R$</span><span data-monthly="1.997" data-annual="1.598">1.997</span></div>
+            <div class="plan-price"><span class="currency">R$</span><span data-monthly="997" data-annual="798">997</span></div>
             <div class="plan-period">por mês · <span data-monthly="cobrança mensal" data-annual="cobrado anual">cobrança mensal</span></div>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_business">Começar trial</a>
             <ul class="plan-features">
@@ -3676,6 +4646,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span><strong>120 cobranças</strong>/mês · SMS, e-mail, WhatsApp</span></li>
                 <li><span>Conta digital Asaas inclusa</span></li>
                 <li><span>Boleto, Pix e link de pagamento</span></li>
+                <li><span>Gestão de obras · medições, repasses e marcos</span></li>
                 <li><span>Customer success dedicado</span></li>
             </ul>
         </div>
@@ -3700,6 +4671,88 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 
+    <!-- Plano Performance: cobrança alternativa por VGV intermediado -->
+    <div class="pps-wrapper">
+        <div class="pps-card">
+            <div class="pps-content">
+                <div class="pps-badge">Plano Performance · Credituz apoiando você e seu negócio</div>
+                <h3 class="pps-title">Sem mensalidade. <em>0,3% sobre o VGV</em> financiado pela Credituz.</h3>
+                <p class="pps-desc">No Plano Performance (R$ 0 fixos, paga só sobre o que vender). No Performance, a Credituz compra o risco com você. Se você não vender, ninguém paga; se você vender muito, ambos ganham proporcionalmente.</p>
+                <div class="pps-features">
+                    <div class="pps-feature">
+                        <span class="pps-check">✓</span>
+                        <span>Tudo do plano <strong>Business</strong></span>
+                    </div>
+                    <div class="pps-feature">
+                        <span class="pps-check">✓</span>
+                        <span>0,3% incidente apenas sobre <strong>financiamento originado via Credituz</strong></span>
+                    </div>
+                    <div class="pps-feature">
+                        <span class="pps-check">✓</span>
+                        <span>Cobrança automática no momento da liberação do crédito</span>
+                    </div>
+                    <div class="pps-feature">
+                        <span class="pps-check">✓</span>
+                        <span>Sem cartão · sem prazo · sem teto · sem floor</span>
+                    </div>
+                </div>
+            </div>
+            <div class="pps-cta-block">
+                <div class="pps-price">
+                    <span class="pps-price-zero"><span class="pps-currency">R$</span>0</span>
+                    <span class="pps-price-sub">fixo/mês</span>
+                </div>
+                <div class="pps-price-divider">+</div>
+                <div class="pps-price">
+                    <span class="pps-price-var">0,3<span class="pps-pct">%</span></span>
+                    <span class="pps-price-sub">do VGV financiado</span>
+                </div>
+                <a href="https://wa.me/5511936209409" class="pps-cta" target="_blank" rel="noopener" data-track="cta_plan_performance">Falar com vendas</a>
+                <div class="pps-meta">Exemplo: venda de R$ 450k financiada = R$ 1.350 pagos · só após liberação do banco</div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<!-- PROGRAMA DE INDICAÇÃO -->
+<section class="referral" id="indicacao">
+    <div class="referral-inner">
+        <div class="referral-head">
+            <div class="section-tag" style="color: var(--lime);">Convide e ganhe</div>
+            <h2>Indique outros corretores. <em>Ganhe leads, créditos e mensalidades</em>.</h2>
+            <p>O Credituz cresce quando você cresce, e por isso recompensa quem traz outros profissionais para a plataforma. Compartilhe seu link único e ganhe a partir do primeiro cadastro confirmado.</p>
+        </div>
+
+        <div class="referral-grid">
+            <div class="referral-card">
+                <div class="referral-num">01</div>
+                <h4>Você indica 3 corretores</h4>
+                <p>Compartilha o link de convite no seu WhatsApp, Instagram ou grupo de imobiliária. Cada cadastro confirmado conta.</p>
+                <div class="referral-reward"><span>Seu prêmio</span><strong>+100 leads/mês no Free</strong></div>
+            </div>
+            <div class="referral-card referral-card-featured">
+                <div class="referral-num">02</div>
+                <h4>Sua imobiliária indica outra imobiliária</h4>
+                <p>Quando a indicada assina o plano Pro ou superior, você ganha 1 mês inteiro do seu plano atual. Vale para Pro e Business.</p>
+                <div class="referral-reward"><span>Seu prêmio</span><strong>1 mês grátis</strong></div>
+            </div>
+            <div class="referral-card">
+                <div class="referral-num">03</div>
+                <h4>Você indica uma incorporadora</h4>
+                <p>Indicações de Enterprise são tratadas como parceria. Comissão de 10% sobre o primeiro ano do contrato, pago em três parcelas.</p>
+                <div class="referral-reward"><span>Seu prêmio</span><strong>10% do ARR · até R$ 30k</strong></div>
+            </div>
+        </div>
+
+        <div class="referral-cta-block">
+            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="referral-cta" target="_blank" rel="noopener" data-track="cta_referral">
+                Pegar meu link de indicação
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+            </a>
+            <span class="referral-meta">Disponível em todos os planos · pagamento via Pix em até 7 dias</span>
+        </div>
+    </div>
 </section>
 
 <!-- SOCIAL PROOF -->
@@ -3710,7 +4763,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="stats">
             <div class="stat">
-                <div class="stat-num"><em>+225%</em></div>
+                <div class="stat-num"><em>+167%</em></div>
                 <div class="stat-label">Aumento médio de conversão</div>
             </div>
             <div class="stat">
@@ -3779,14 +4832,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>Funciona com meu CRM atual?</h4>
                 <div class="faq-toggle">+</div>
             </div>
-            <div class="faq-a">Sim. A Credituz importa contatos do seu CRM atual em 1 clique e integra com ZAP, OLX, VivaReal e site. Você pode usar em paralelo enquanto migra. Se preferir, ela substitui completamente. É o que a maioria acaba fazendo.</div>
+            <div class="faq-a">Sim. A Credituz importa contatos do seu CRM atual em 1 clique. A integração nativa com ZAP Imóveis, OLX e VivaReal está disponível a partir do plano Pro (com sync bidirecional em tempo real). Nos planos Free e Starter, você cadastra leads manualmente ou via importação. Você pode usar em paralelo enquanto migra ou deixar a Credituz substituir completamente. É o que a maioria acaba fazendo.</div>
         </div>
         <div class="faq-item" onclick="toggleFaq(this)">
             <div class="faq-q">
                 <h4>Quanto custa para começar?</h4>
                 <div class="faq-toggle">+</div>
             </div>
-            <div class="faq-a">Zero. Sem cartão de crédito. Sem trial limitado. O plano Free é gratuito para sempre e tem Sofia (SDR AI), simulação multi-banco e originação ativa. Você só paga quando quiser mais leads, usuários ou volume.</div>
+            <div class="faq-a">Zero. Sem cartão de crédito. Sem trial limitado. O plano Free é gratuito para sempre e inclui CRM de crédito, simulação multi-banco ilimitada, LP de vendas para 1 empreendimento e originação ativa. A Sofia (SDR AI) entra a partir do plano Pro, quando o volume de leads justifica.</div>
         </div>
         <div class="faq-item" onclick="toggleFaq(this)">
             <div class="faq-q">
@@ -3800,7 +4853,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>Como vocês ganham dinheiro se o plano é grátis?</h4>
                 <div class="faq-toggle">+</div>
             </div>
-            <div class="faq-a">Duas fontes: (1) mensalidade do SaaS para quem usa o Pro ou Enterprise, e (2) comissão dos bancos parceiros quando um financiamento que originamos é aprovado. Alinhamento de interesse: só ganhamos quando você fecha negócio.</div>
+            <div class="faq-a">Duas fontes: (1) mensalidade dos planos pagos (Starter, Pro, Business e Enterprise), e (2) comissão dos bancos parceiros quando um financiamento que originamos é aprovado. Alinhamento de interesse: só ganhamos quando você fecha negócio.</div>
         </div>
         <div class="faq-item" onclick="toggleFaq(this)">
             <div class="faq-q">
@@ -3814,7 +4867,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>Meu time vai conseguir usar?</h4>
                 <div class="faq-toggle">+</div>
             </div>
-            <div class="faq-a">Setup em 5 minutos, interface no padrão WhatsApp/Notion (que todo mundo já conhece), e suporte humano via chat de segunda a sexta, das 9h às 18h. Nenhum treinamento agendado, nenhum manual de 200 páginas.</div>
+            <div class="faq-a">Setup em 5 minutos, interface no padrão WhatsApp/Notion (que todo mundo já conhece) e nenhum treinamento agendado. Os planos Free e Starter contam com base de conhecimento e tutoriais em vídeo. A partir do Pro, você tem suporte humano via chat de segunda a sexta, das 9h às 18h. No Business, customer success dedicado. No Enterprise, CS nominal e onboarding presencial.</div>
         </div>
     </div>
 </section>
@@ -3825,16 +4878,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="trust-label">Conectado aos principais bancos e fintechs do Brasil</div>
         <div class="trust-marquee" aria-label="Logos de bancos parceiros">
             <div class="trust-track">
-                <img class="trust-logo" src="./assets/banks/bradesco.svg" alt="Bradesco" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Bradesco</span>'">
-                <img class="trust-logo" src="./assets/banks/caixa.svg" alt="Caixa" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Caixa</span>'">
-                <img class="trust-logo" src="./assets/banks/santander.svg" alt="Santander" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Santander</span>'">
-                <img class="trust-logo" src="./assets/banks/inter.svg" alt="Inter" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Inter</span>'">
-                <img class="trust-logo" src="./assets/banks/itau.png" alt="Itaú" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Itaú</span>'">
-                <img class="trust-logo" src="./assets/banks/cashme.svg" alt="CashMe" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>CashMe</span>'">
-                <img class="trust-logo" src="./assets/banks/banco-bari.svg" alt="Banco Bari" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Banco Bari</span>'">
-                <img class="trust-logo" src="./assets/banks/creditas.svg" alt="Creditas" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Creditas</span>'">
-                <img class="trust-logo" src="./assets/banks/c6-bank.svg" alt="C6 Bank" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>C6 Bank</span>'">
-                <img class="trust-logo" src="./assets/banks/pontte.svg" alt="Pontte" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Pontte</span>'">
+                <img class="trust-logo" src="./assets/banks/bradesco.svg" alt="Bradesco" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Bradesco</span>'">
+                <img class="trust-logo" src="./assets/banks/caixa.svg" alt="Caixa" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Caixa</span>'">
+                <img class="trust-logo" src="./assets/banks/santander.svg" alt="Santander" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Santander</span>'">
+                <img class="trust-logo" src="./assets/banks/inter.svg" alt="Inter" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Inter</span>'">
+                <img class="trust-logo" src="./assets/banks/itau.png" alt="Itaú" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Itaú</span>'">
+                <img class="trust-logo" src="./assets/banks/cashme.svg" alt="CashMe" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>CashMe</span>'">
+                <img class="trust-logo" src="./assets/banks/banco-bari.svg" alt="Banco Bari" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Banco Bari</span>'">
+                <img class="trust-logo" src="./assets/banks/creditas.svg" alt="Creditas" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Creditas</span>'">
+                <img class="trust-logo" src="./assets/banks/c6-bank.svg" alt="C6 Bank" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>C6 Bank</span>'">
+                <img class="trust-logo" src="./assets/banks/pontte.svg" alt="Pontte" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Pontte</span>'">
             </div>
             <div class="trust-track" aria-hidden="true">
                 <img class="trust-logo" src="./assets/banks/bradesco.svg" alt="" loading="lazy">
@@ -3852,19 +4905,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="trust-label">Backed by</div>
         <div class="trust-row backers">
-            <img class="trust-logo" src="./assets/backers/openai.svg" alt="OpenAI" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>OpenAI</span>'">
-            <img class="trust-logo" src="./assets/backers/aws.svg" alt="AWS" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>AWS</span>'">
-            <img class="trust-logo" src="./assets/backers/nvidia.svg" alt="NVIDIA" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>NVIDIA</span>'">
-            <img class="trust-logo" src="./assets/backers/google.svg" alt="Google" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Google</span>'">
+            <img class="trust-logo" src="./assets/backers/openai.svg" alt="OpenAI" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>OpenAI</span>'">
+            <img class="trust-logo" src="./assets/backers/aws.svg" alt="AWS" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>AWS</span>'">
+            <img class="trust-logo" src="./assets/backers/nvidia.svg" alt="NVIDIA" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>NVIDIA</span>'">
+            <img class="trust-logo" src="./assets/backers/google.svg" alt="Google" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Google</span>'">
         </div>
 
         <div class="trust-label compliance-label">Certificações e parcerias oficiais</div>
         <div class="trust-row compliance">
-            <img class="trust-logo" src="./assets/backers/meta-business-partner.svg" alt="Meta Business Partner · WhatsApp API" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>Meta Business Partner</span>'">
-            <img class="trust-logo" src="./assets/backers/sefaz-nfe.svg" alt="NFe homologada SEFAZ" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>NFe SEFAZ</span>'">
-            <img class="trust-logo" src="./assets/backers/icp-brasil.svg" alt="Assinatura digital ICP-Brasil" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>ICP-Brasil</span>'">
-            <img class="trust-logo" src="./assets/backers/lgpd.svg" alt="Conformidade LGPD" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>LGPD</span>'">
-            <img class="trust-logo" src="./assets/backers/iso-27001.svg" alt="ISO/IEC 27001" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-item&quot;>ISO 27001</span>'">
+            <img class="trust-logo" src="./assets/backers/meta-business-partner.svg" alt="Meta Business Partner · WhatsApp API" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Meta Business Partner</span>'">
+            <img class="trust-logo" src="./assets/backers/sefaz-nfe.svg" alt="NFe homologada SEFAZ" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>NFe SEFAZ</span>'">
+            <img class="trust-logo" src="./assets/backers/icp-brasil.svg" alt="Assinatura digital ICP-Brasil" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>ICP-Brasil</span>'">
+            <img class="trust-logo" src="./assets/backers/lgpd.svg" alt="Conformidade LGPD" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>LGPD</span>'">
+            <img class="trust-logo" src="./assets/backers/iso-27001.svg" alt="ISO/IEC 27001" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>ISO 27001</span>'">
         </div>
     </div>
 </section>
@@ -3875,7 +4928,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- CTA FINAL -->
 <section class="cta-final">
     <div class="cta-final-inner">
-        <h2>Comece <em>grátis</em> em 2 minutos.</h2>
+        <h2>Comece <em>grátis</em> em 5 minutos.</h2>
         <p>Sem cartão. Sem demo agendada. Sem ligação de vendedor. Só você e a IA mais avançada do mercado imobiliário brasileiro.</p>
         <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="btn-final" target="_blank" rel="noopener" data-track="cta_final">
             Criar minha conta agora
@@ -3996,8 +5049,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div class="tweaks-section-label">Hero · Título principal</div>
     <button class="title-option active" data-opt="0">
-        <span class="opt-tag">Opção A · Sistema operacional</span>
-        <span class="opt-preview">O sistema operacional e financeiro do <em>setor imobiliário</em>, com Inteligência Artificial.</span>
+        <span class="opt-tag">Opção A · R$ 0 + sem implantação</span>
+        <span class="opt-preview">O sistema operacional do <em>mercado imobiliário</em>, com IA nativa do lead à entrega das chaves.</span>
     </button>
     <button class="title-option" data-opt="1">
         <span class="opt-tag">Opção B · End-to-end</span>
@@ -4010,6 +5063,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <button class="title-option" data-opt="3">
         <span class="opt-tag">Opção D · ERP do imobiliário</span>
         <span class="opt-preview">O <em>ERP do mercado imobiliário</em>, com IA nativa do CRM ao financeiro.</span>
+    </button>
+    <button class="title-option" data-opt="4">
+        <span class="opt-tag">Opção E · Free permanente</span>
+        <span class="opt-preview">O que outros sistemas cobram <em>caro por módulo e usuário</em>, a Credituz entrega por R$ 997. Com plano Free permanente.</span>
     </button>
 </div>
 
@@ -4045,7 +5102,7 @@ document.querySelectorAll('section, .feature, .plan, .testimonial, .dor-card, .h
     observer.observe(el);
 });
 
-// Cookie banner (sem armazenamento persistente — apenas in-session)
+// Cookie banner (sem armazenamento persistente, apenas in-session)
 const cookieBanner = document.getElementById('cookieBanner');
 if (cookieBanner && !window.__cookieChoice) {
     setTimeout(() => cookieBanner.classList.add('show'), 1500);
@@ -4332,7 +5389,7 @@ function essentialCookies() {
             coverageText = '';
             bullets = [
                 '<li><span class="x">✕</span> Corretor sem salário, mas comissão alta corrói margem da venda</li>',
-                '<li><span class="x">✕</span> Atende quando pode — em visita, leads esfriam</li>',
+                '<li><span class="x">✕</span> Atende quando pode, em visita, leads esfriam</li>',
                 '<li><span class="x">✕</span> Sem padrão de qualificação · cada um trabalha do seu jeito</li>',
                 '<li><span class="x">✕</span> Funil sem registro · gestão perde visibilidade</li>'
             ];
@@ -4449,9 +5506,9 @@ function essentialCookies() {
 /* ===== TWEAKS PANEL ===== */
 const TITLE_VARIANTS = [
     {
-        tag: 'Sistema operacional para incorporadoras e imobiliárias',
-        html: 'O sistema operacional e financeiro do <em>setor imobiliário</em>, com <span class="underline-wrap">Inteligência Artificial</span>.',
-        sub: 'Do primeiro lead à entrega das chaves: SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão de obras. Tudo em uma única plataforma.'
+        tag: 'Comece em R$ 0. Cresça sem implantação de 60 dias.',
+        html: 'O sistema operacional do <em>mercado imobiliário</em>, com <span class="underline-wrap">IA nativa</span> do lead à entrega das chaves.',
+        sub: 'Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma.'
     },
     {
         tag: 'Plataforma com IA · do lead à entrega das chaves',
@@ -4461,12 +5518,17 @@ const TITLE_VARIANTS = [
     {
         tag: 'Venda, financie e administre. Com IA',
         html: '<em>Venda, financie e administre</em> empreendimentos. Com <span class="underline-wrap">Inteligência Artificial</span>.',
-        sub: 'Uma plataforma única para incorporadoras e imobiliárias: SDR no WhatsApp, simulação multibancos, contratos, cobrança e NFe a R$ 0,49.'
+        sub: 'Uma plataforma única para corretores, imobiliárias e incorporadoras: SDR no WhatsApp, simulação multibancos, contratos, cobrança e NFe a R$ 0,49.'
     },
     {
         tag: 'O ERP do mercado imobiliário, com IA',
         html: 'O <em>ERP do mercado imobiliário</em>, com <span class="underline-wrap">IA nativa do CRM ao financeiro</span>.',
         sub: 'Substitua 5 ferramentas: CRM, simulador de crédito, assinatura digital, régua de cobrança e emissor de NFe, agora orquestrados por uma IA que entende incorporação.'
+    },
+    {
+        tag: 'Plano Free permanente · enquanto a concorrência cobra enterprise',
+        html: 'O que outros sistemas cobram <em>caro por módulo e usuário</em>, <span class="underline-wrap">a Credituz entrega por R$ 997</span>. Com plano Free permanente.',
+        sub: 'Sienge cobra por módulo. Kenlo cobra por usuário. CV CRM e Morada.ai cobram sob consulta. A Credituz cobra por valor entregue, e tem plano Free para sempre.'
     }
 ];
 
