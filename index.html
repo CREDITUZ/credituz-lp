@@ -3844,8 +3844,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <label>Quem qualifica os leads hoje?</label>
                     </div>
                     <div class="roi-segmented" id="roiQualif" role="tablist">
-                        <button type="button" data-val="sdr" class="active">SDR / atendente dedicado</button>
-                        <button type="button" data-val="corretor">Próprio corretor (paga 5% comissão)</button>
+                        <button type="button" data-val="corretor" class="active">Próprio corretor (paga 5% comissão)</button>
+                        <button type="button" data-val="sdr">SDR / atendente dedicado</button>
                     </div>
                     <div class="roi-hint" id="roiQualifHint">Define como o custo do atendimento é calculado: salário + encargos do SDR, ou comissão paga ao corretor que qualifica e atende.</div>
                 </div>
@@ -4718,7 +4718,7 @@ function essentialCookies() {
 
     // State
     let profile = 'imobiliaria';  // imobiliaria | incorporadora | corretor
-    let qualifMode = 'sdr';       // sdr | corretor (apenas para imobiliaria/incorporadora)
+    let qualifMode = 'corretor';  // sdr | corretor (apenas para imobiliaria/incorporadora)
 
     // Formatters
     const fmtBRL = (n) => {
@@ -4841,10 +4841,10 @@ function essentialCookies() {
         if (p === 'corretor') {
             qualifMode = 'corretor-solo';
         } else {
-            // Volta para o default SDR dedicado quando troca para imobiliária/incorporadora
-            qualifMode = 'sdr';
+            // Default ao trocar para imobiliária/incorporadora: próprio corretor qualifica
+            qualifMode = 'corretor';
             qualifGroup.querySelectorAll('button').forEach(b => {
-                b.classList.toggle('active', b.dataset.val === 'sdr');
+                b.classList.toggle('active', b.dataset.val === 'corretor');
             });
         }
     }
