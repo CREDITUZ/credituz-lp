@@ -971,181 +971,6 @@ h2 em {
     gap: 12px;
 }
 
-/* ============ PAY-PER-SALE ============ */
-.pps-wrapper {
-    max-width: 1280px;
-    margin: 28px auto 0;
-}
-.pps-card {
-    background: var(--ink);
-    color: var(--paper);
-    border-radius: 24px;
-    padding: 36px;
-    display: grid;
-    grid-template-columns: minmax(0, 1.6fr) minmax(280px, 1fr);
-    gap: 36px;
-    align-items: center;
-    position: relative;
-    overflow: hidden;
-}
-.pps-card::before {
-    content: '';
-    position: absolute;
-    top: -120px;
-    right: -120px;
-    width: 320px;
-    height: 320px;
-    border-radius: 50%;
-    background: radial-gradient(circle, rgba(196, 243, 82, 0.18), transparent 70%);
-    pointer-events: none;
-}
-.pps-content { position: relative; }
-.pps-badge {
-    display: inline-block;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--lime);
-    background: rgba(196, 243, 82, 0.1);
-    padding: 6px 12px;
-    border-radius: 100px;
-    margin-bottom: 18px;
-}
-.pps-title {
-    font-family: 'Fraunces', serif;
-    font-size: 32px;
-    font-weight: 400;
-    line-height: 1.15;
-    letter-spacing: -0.025em;
-    margin-bottom: 14px;
-    color: var(--paper);
-}
-.pps-title em {
-    font-style: italic;
-    color: var(--lime);
-}
-.pps-desc {
-    color: rgba(250, 250, 247, 0.7);
-    font-size: 15px;
-    line-height: 1.55;
-    margin-bottom: 22px;
-    max-width: 540px;
-}
-.pps-desc strong { color: var(--paper); font-weight: 600; }
-.pps-features {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px 24px;
-}
-.pps-feature {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    font-size: 13.5px;
-    color: rgba(250, 250, 247, 0.85);
-    line-height: 1.45;
-}
-.pps-feature strong { color: var(--paper); font-weight: 600; }
-.pps-check {
-    color: var(--lime);
-    font-weight: 600;
-    flex-shrink: 0;
-}
-.pps-cta-block {
-    background: rgba(250, 250, 247, 0.04);
-    border: 1px solid rgba(250, 250, 247, 0.1);
-    border-radius: 18px;
-    padding: 24px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 12px;
-    position: relative;
-}
-.pps-price {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.pps-price-zero,
-.pps-price-var {
-    font-family: 'Fraunces', serif;
-    font-weight: 400;
-    line-height: 1;
-    letter-spacing: -0.03em;
-    display: inline-flex;
-    align-items: baseline;
-}
-.pps-price-zero {
-    font-size: 44px;
-    color: rgba(250, 250, 247, 0.45);
-}
-.pps-price-var {
-    font-size: 52px;
-    color: var(--lime);
-}
-.pps-currency {
-    font-size: 0.45em;
-    margin-right: 3px;
-    font-weight: 500;
-    color: inherit;
-    opacity: 0.7;
-}
-.pps-pct {
-    font-size: 0.55em;
-    margin-left: 4px;
-    font-weight: 500;
-    color: inherit;
-    opacity: 0.8;
-}
-.pps-price-sub {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: rgba(250, 250, 247, 0.5);
-    margin-top: 4px;
-}
-.pps-price-divider {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    color: rgba(250, 250, 247, 0.4);
-    line-height: 1;
-}
-.pps-cta {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    padding: 13px 20px;
-    background: var(--lime);
-    color: var(--ink);
-    border-radius: 100px;
-    font-weight: 600;
-    text-decoration: none;
-    font-size: 14px;
-    margin-top: 8px;
-    transition: transform 0.15s;
-}
-.pps-cta:hover { transform: translateY(-1px); }
-.pps-meta {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 9.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: rgba(250, 250, 247, 0.4);
-    text-align: center;
-    line-height: 1.5;
-}
-
-@media (max-width: 900px) {
-    .pps-card { grid-template-columns: 1fr; padding: 28px; }
-    .pps-title { font-size: 26px; }
-    .pps-features { grid-template-columns: 1fr; }
-}
-
 .plan {
     border: 1px solid var(--gray-soft);
     border-radius: 20px;
@@ -3658,15 +3483,6 @@ footer {
     .agents-matrix-plans { grid-template-columns: repeat(3, 1fr) !important; gap: 5px; }
     .ap { font-size: 9px; padding: 5px 0; letter-spacing: 0.02em; }
 
-    /* Pay-per-sale / Performance */
-    .pps-card { padding: 24px 20px; gap: 22px; }
-    .pps-title { font-size: 22px; }
-    .pps-desc { font-size: 14px; }
-    .pps-features { grid-template-columns: 1fr !important; gap: 8px; }
-    .pps-feature { font-size: 12.5px; }
-    .pps-cta-block { padding: 20px 18px; }
-    .pps-price-zero, .pps-price-var { font-size: 38px; }
-
     /* Indicação */
     .referral { padding: 64px 20px !important; }
     .referral-grid { grid-template-columns: 1fr !important; gap: 12px; }
@@ -3774,8 +3590,6 @@ footer {
     h2 { font-size: 24px !important; }
 
     .plan-price { font-size: 28px; }
-    .pps-title { font-size: 19px; }
-    .pps-price-zero, .pps-price-var { font-size: 32px; }
 
     .stat-num em { font-size: 34px; }
     .roi-total-num em { font-size: 28px; }
@@ -4668,48 +4482,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>SLA contratual de 99,9%</span></li>
                 <li><span>CS nominal · onboarding presencial</span></li>
             </ul>
-        </div>
-    </div>
-
-    <!-- Plano Performance: cobrança alternativa por VGV intermediado -->
-    <div class="pps-wrapper">
-        <div class="pps-card">
-            <div class="pps-content">
-                <div class="pps-badge">Plano Performance · Credituz apoiando você e seu negócio</div>
-                <h3 class="pps-title">Sem mensalidade. <em>0,3% sobre o VGV</em> financiado pela Credituz.</h3>
-                <p class="pps-desc">No Plano Performance (R$ 0 fixos, paga só sobre o que vender). No Performance, a Credituz compra o risco com você. Se você não vender, ninguém paga; se você vender muito, ambos ganham proporcionalmente.</p>
-                <div class="pps-features">
-                    <div class="pps-feature">
-                        <span class="pps-check">✓</span>
-                        <span>Tudo do plano <strong>Business</strong></span>
-                    </div>
-                    <div class="pps-feature">
-                        <span class="pps-check">✓</span>
-                        <span>0,3% incidente apenas sobre <strong>financiamento originado via Credituz</strong></span>
-                    </div>
-                    <div class="pps-feature">
-                        <span class="pps-check">✓</span>
-                        <span>Cobrança automática no momento da liberação do crédito</span>
-                    </div>
-                    <div class="pps-feature">
-                        <span class="pps-check">✓</span>
-                        <span>Sem cartão · sem prazo · sem teto · sem floor</span>
-                    </div>
-                </div>
-            </div>
-            <div class="pps-cta-block">
-                <div class="pps-price">
-                    <span class="pps-price-zero"><span class="pps-currency">R$</span>0</span>
-                    <span class="pps-price-sub">fixo/mês</span>
-                </div>
-                <div class="pps-price-divider">+</div>
-                <div class="pps-price">
-                    <span class="pps-price-var">0,3<span class="pps-pct">%</span></span>
-                    <span class="pps-price-sub">do VGV financiado</span>
-                </div>
-                <a href="https://wa.me/5511936209409" class="pps-cta" target="_blank" rel="noopener" data-track="cta_plan_performance">Falar com vendas</a>
-                <div class="pps-meta">Exemplo: venda de R$ 450k financiada = R$ 1.350 pagos · só após liberação do banco</div>
-            </div>
         </div>
     </div>
 
