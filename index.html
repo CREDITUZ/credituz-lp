@@ -862,108 +862,7 @@ h2 em {
 }
 
 /* ============ AGENTS MATRIX (agentes × planos) ============ */
-.agents-matrix {
-    background: var(--cream);
-    border-radius: 24px;
-    padding: 32px;
-    margin-bottom: 28px;
-}
-.agents-matrix-head {
-    margin-bottom: 22px;
-    max-width: 660px;
-}
-.agents-matrix-title {
-    font-family: 'Fraunces', serif;
-    font-size: 22px;
-    font-weight: 400;
-    color: var(--ink);
-    letter-spacing: -0.015em;
-    line-height: 1.2;
-}
-.agents-matrix-sub {
-    font-size: 14px;
-    color: var(--gray-2);
-    line-height: 1.5;
-    margin-top: 8px;
-}
-.agents-matrix-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-}
-.agents-matrix-row {
-    display: grid;
-    grid-template-columns: minmax(220px, 1.3fr) minmax(0, 2fr);
-    gap: 16px;
-    align-items: center;
-    padding: 14px 0;
-    border-bottom: 1px solid rgba(0,0,0,0.06);
-}
-.agents-matrix-row:last-child { border-bottom: none; }
-.agents-matrix-agent {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-}
-.agents-matrix-avatar {
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background: var(--ink);
-    color: var(--paper);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Fraunces', serif;
-    font-size: 16px;
-    font-weight: 500;
-    flex-shrink: 0;
-}
-.agents-matrix-name {
-    font-weight: 600;
-    color: var(--ink);
-    font-size: 14.5px;
-    line-height: 1.2;
-}
-.agents-matrix-role {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--gray-3);
-    margin-top: 3px;
-}
-.agents-matrix-plans {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 6px;
-}
-.ap {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10.5px;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    padding: 7px 0;
-    border-radius: 100px;
-    text-align: center;
-    font-weight: 600;
-}
-.ap.on {
-    background: var(--ink);
-    color: var(--paper);
-}
-.ap.off {
-    background: transparent;
-    color: var(--gray-3);
-    border: 1px dashed var(--gray-soft);
-}
-
-@media (max-width: 760px) {
-    .agents-matrix { padding: 24px 20px; }
-    .agents-matrix-row { grid-template-columns: 1fr; gap: 10px; }
-    .agents-matrix-plans { grid-template-columns: repeat(5, 1fr); }
-    .ap { font-size: 9.5px; padding: 6px 0; letter-spacing: 0.03em; }
-}
+/* Bloco removido da LP */
 
 .pricing-grid {
     display: grid;
@@ -2542,8 +2441,8 @@ h2 em {
 
 .stats {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 24px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
     margin-top: 48px;
     margin-bottom: 80px;
 }
@@ -3338,9 +3237,6 @@ footer {
     /* Pricing grid: começa a apertar */
     .pricing-grid { gap: 10px; }
     .plan { padding: 22px 18px; }
-
-    /* Agents matrix: pílulas menores */
-    .ap { font-size: 9.5px; padding: 6px 0; }
 }
 
 /* ---------- TABLET-SM (≤ 900px) ---------- */
@@ -3476,13 +3372,6 @@ footer {
     .plan { padding: 26px 22px; }
     .plan-price { font-size: 38px; }
 
-    /* Agents matrix: pílulas em 2 linhas (3+2) ainda em mobile */
-    .agents-matrix { padding: 24px 18px; margin-bottom: 22px; }
-    .agents-matrix-title { font-size: 19px; }
-    .agents-matrix-sub { font-size: 13px; }
-    .agents-matrix-plans { grid-template-columns: repeat(3, 1fr) !important; gap: 5px; }
-    .ap { font-size: 9px; padding: 5px 0; letter-spacing: 0.02em; }
-
     /* Indicação */
     .referral { padding: 64px 20px !important; }
     .referral-grid { grid-template-columns: 1fr !important; gap: 12px; }
@@ -3557,9 +3446,6 @@ footer {
     .plan-desc { font-size: 11.5px; min-height: 0; }
     .plan-price { font-size: 34px; }
     .plan-features li { font-size: 12.5px; }
-
-    /* Agents matrix: pílulas em coluna única quando muito apertado */
-    .agents-matrix-plans { grid-template-columns: repeat(2, 1fr) !important; }
 
     /* Stats: 1 coluna */
     .stats { grid-template-columns: 1fr !important; gap: 18px; }
@@ -4292,100 +4178,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p>Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma.</p>
     </div>
 
-    <!-- Mini-seção: agentes × planos -->
-    <div class="agents-matrix">
-        <div class="agents-matrix-head">
-            <div class="agents-matrix-title">Quais agentes de IA cada plano libera</div>
-            <div class="agents-matrix-sub">Sofia, Carlos, Ana, Max e Iris são os 5 agentes que trabalham na sua operação. Quanto mais alto o plano, mais agentes você ativa.</div>
-        </div>
-        <div class="agents-matrix-grid">
-            <div class="agents-matrix-row">
-                <div class="agents-matrix-agent">
-                    <div class="agents-matrix-avatar">C</div>
-                    <div>
-                        <div class="agents-matrix-name">Carlos</div>
-                        <div class="agents-matrix-role">Crédito · simulação multibancos</div>
-                    </div>
-                </div>
-                <div class="agents-matrix-plans">
-                    <span class="ap on">Free</span>
-                    <span class="ap on">Starter</span>
-                    <span class="ap on">Pro</span>
-                    <span class="ap on">Business</span>
-                    <span class="ap on">Enterprise</span>
-                </div>
-            </div>
-
-            <div class="agents-matrix-row">
-                <div class="agents-matrix-agent">
-                    <div class="agents-matrix-avatar">A</div>
-                    <div>
-                        <div class="agents-matrix-name">Ana</div>
-                        <div class="agents-matrix-role">Contratos digitais com IA</div>
-                    </div>
-                </div>
-                <div class="agents-matrix-plans">
-                    <span class="ap on">Free</span>
-                    <span class="ap on">Starter</span>
-                    <span class="ap on">Pro</span>
-                    <span class="ap on">Business</span>
-                    <span class="ap on">Enterprise</span>
-                </div>
-            </div>
-
-            <div class="agents-matrix-row">
-                <div class="agents-matrix-agent">
-                    <div class="agents-matrix-avatar">S</div>
-                    <div>
-                        <div class="agents-matrix-name">Sofia</div>
-                        <div class="agents-matrix-role">SDR no WhatsApp, Instagram e Facebook 24×7</div>
-                    </div>
-                </div>
-                <div class="agents-matrix-plans">
-                    <span class="ap off">Free</span>
-                    <span class="ap off">Starter</span>
-                    <span class="ap on">Pro</span>
-                    <span class="ap on">Business</span>
-                    <span class="ap on">Enterprise</span>
-                </div>
-            </div>
-
-            <div class="agents-matrix-row">
-                <div class="agents-matrix-agent">
-                    <div class="agents-matrix-avatar">I</div>
-                    <div>
-                        <div class="agents-matrix-name">Iris</div>
-                        <div class="agents-matrix-role">Analytics generativo · ROI por canal</div>
-                    </div>
-                </div>
-                <div class="agents-matrix-plans">
-                    <span class="ap off">Free</span>
-                    <span class="ap off">Starter</span>
-                    <span class="ap on">Pro</span>
-                    <span class="ap on">Business</span>
-                    <span class="ap on">Enterprise</span>
-                </div>
-            </div>
-
-            <div class="agents-matrix-row">
-                <div class="agents-matrix-agent">
-                    <div class="agents-matrix-avatar">M</div>
-                    <div>
-                        <div class="agents-matrix-name">Max</div>
-                        <div class="agents-matrix-role">Pós-venda · repasse, registro e obras</div>
-                    </div>
-                </div>
-                <div class="agents-matrix-plans">
-                    <span class="ap off">Free</span>
-                    <span class="ap off">Starter</span>
-                    <span class="ap off">Pro</span>
-                    <span class="ap on">Business</span>
-                    <span class="ap on">Enterprise</span>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="pricing-toggle">
         <button class="active" onclick="togglePricing('monthly', this)">Mensal</button>
         <button onclick="togglePricing('annual', this)">Anual<span class="badge-disc">-20%</span></button>
@@ -4539,12 +4331,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="stat-label">Aumento médio de conversão</div>
             </div>
             <div class="stat">
-                <div class="stat-num"><em>R$ 2,1 bi</em></div>
-                <div class="stat-label">VGV estruturado na plataforma</div>
-            </div>
-            <div class="stat">
-                <div class="stat-num"><em>3.400+</em></div>
-                <div class="stat-label">Unidades viabilizadas</div>
+                <div class="stat-num"><em>R$ 200M</em></div>
+                <div class="stat-label">Crédito solicitado</div>
             </div>
             <div class="stat">
                 <div class="stat-num"><em>&lt; 30s</em></div>
