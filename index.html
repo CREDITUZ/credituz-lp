@@ -107,6 +107,8 @@ nav .inner {
 
 .logo-link:hover { opacity: 0.7; }
 
+.logo-link .logo { pointer-events: none; }
+
 .logo-dot {
     width: 8px;
     height: 8px;
@@ -3517,10 +3519,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <nav id="nav">
     <div class="inner">
-        <a href="#top" class="logo-link" aria-label="Credituz · ir para o início">
+        <a href="#top" class="logo-link" aria-label="Credituz · ir para o início" onclick="event.preventDefault(); window.scrollTo({top: 0, behavior: 'smooth'});">
             <div class="logo">Credituz<span class="logo-dot"></span></div>
         </a>
         <ul>
+            <li><a href="#top" onclick="event.preventDefault(); window.scrollTo({top: 0, behavior: 'smooth'});">Home</a></li>
             <li><a href="#produto">Produto</a></li>
             <li><a href="#como-funciona">Como funciona</a></li>
             <li><a href="#metodologia">Metodologia</a></li>
@@ -4035,7 +4038,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
-        <p class="roi-disclaimer"><strong>Sobre o modo "Próprio corretor":</strong> é comum, principalmente em imobiliárias menores, usar o próprio corretor de imóveis como SDR. Ele recebe o lead do ZAP, OLX, VivaReal ou Meta Ads, atende, qualifica, simula crédito e leva à visita. Não há salário fixo, mas o corretor cobra em média <strong>5% de comissão sobre o valor do imóvel</strong> por todo o trabalho de funil (qualificação + visita + fechamento). O problema permanece: cobertura limitada ao horário em que ele não está em outra visita, no carro ou dormindo, e o custo por venda é alto (uma venda de R$ 450k vira R$ 22.500 de comissão paga). Com a Sofia, o atendimento e qualificação acontecem 24×7 e o corretor entra apenas para fechar, com comissão menor sobre apenas o valor da intermediação. <br><br><strong>Custo do SDR (modo dedicado):</strong> calculado como salário base + 30% de encargos e provisões (FGTS, 13º, férias + 1/3, multa rescisória) + 10% de benefícios (VT + VR/VA), considerando Simples Nacional. Para Lucro Real/Presumido (INSS patronal 20%), o multiplicador sobe para ~1,7×. Fontes: <a href="https://calculabrasil.com/calculadoras/custo-funcionario" target="_blank" rel="noopener">CalculaBrasil</a>, <a href="https://www.junny.com.br/blog/trabalhistas/custo-funcionario-clt-quanto-empresa-paga-alem-salario" target="_blank" rel="noopener">Junny</a>, <a href="https://www.infinitepay.io/materiais/calculadora-de-custo-de-funcionario" target="_blank" rel="noopener">InfinitePay</a>. Faixa salarial: <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/sdr-sal%C3%A1rio-SRCH_KO0,3.htm" target="_blank" rel="noopener">Glassdoor</a> e <a href="https://br.jooble.org/salary/sdr-comercial" target="_blank" rel="noopener">Jooble</a> (R$ 2.000–R$ 8.000). Conversões (6% → 16%) e recuperação de carteira (1,2%/mês) baseadas em benchmarks Abrainc/Secovi cruzados com cenários reais de clientes Credituz. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Calculadora referencial. Não constitui garantia contratual.</p>
+        <p class="roi-disclaimer"><strong>Sobre o modo "Próprio corretor":</strong> é comum, principalmente em imobiliárias menores, usar o próprio corretor de imóveis como SDR. Ele recebe o lead do ZAP, OLX, VivaReal ou Meta Ads, atende, qualifica, simula crédito e leva à visita. Não há salário fixo, mas o corretor cobra em média <strong>5% de comissão sobre o valor do imóvel</strong> por todo o trabalho de funil (qualificação + visita + fechamento). O problema permanece: cobertura limitada ao horário em que ele não está em outra visita, no carro ou dormindo, e o custo por venda é alto (uma venda de R$ 450k vira R$ 22.500 de comissão paga). Com a Sofia, o atendimento e qualificação acontecem 24×7 e o corretor entra apenas para fechar, com comissão menor sobre apenas o valor da intermediação. <br><br><strong>Custo do SDR (modo dedicado):</strong> calculado como salário base + 30% de encargos e provisões (FGTS, 13º, férias + 1/3, multa rescisória) + 10% de benefícios (VT + VR/VA), considerando Simples Nacional. Para Lucro Real/Presumido (INSS patronal 20%), o multiplicador sobe para ~1,7×. Faixa salarial: <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/sdr-sal%C3%A1rio-SRCH_KO0,3.htm" target="_blank" rel="noopener">Glassdoor</a> e <a href="https://br.jooble.org/salary/sdr-comercial" target="_blank" rel="noopener">Jooble</a> (R$ 2.000–R$ 8.000). Conversões (6% → 16%) e recuperação de carteira (1,2%/mês) baseadas em benchmarks Abrainc/Secovi cruzados com cenários reais de clientes Credituz. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Calculadora referencial. Não constitui garantia contratual.</p>
     </div>
 </section>
 
