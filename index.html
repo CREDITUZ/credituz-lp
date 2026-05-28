@@ -3564,7 +3564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             Começar grátis
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
         </a>
-        <a href="https://wa.me/5511936209409" class="btn-secondary" target="_blank" rel="noopener" data-track="cta_hero_demo">
+        <a href="https://wa.me/5511936201544" class="btn-secondary" target="_blank" rel="noopener" data-track="cta_hero_demo">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
             Ver demo
         </a>
@@ -4294,7 +4294,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>SLA contratual de 99,9%</span></li>
                 <li><span>CS nominal · onboarding presencial</span></li>
             </ul>
-            <a href="https://wa.me/5511936209409" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_enterprise">Falar com vendas</a>
+            <a href="https://wa.me/5511936201544" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_enterprise">Falar com vendas</a>
         </div>
     </div>
 
@@ -5147,6 +5147,45 @@ window.addEventListener('message', (e) => {
     if (t === '__deactivate_edit_mode') closeTweaks();
 });
 try { window.parent.postMessage({type:'__edit_mode_available'}, '*'); } catch(e){}
+</script>
+
+<!-- WhatsApp Widget (Wati) -->
+<script>
+    var url = 'https://wati-integration-prod-service.clare.ai/v2/watiWidget.js?99725';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+        "enabled": true,
+        "chatButtonSetting": {
+            "backgroundColor": "#00e785",
+            "ctaText": "Chat with us",
+            "borderRadius": "25",
+            "marginLeft": "0",
+            "marginRight": "20",
+            "marginBottom": "20",
+            "ctaIconWATI": false,
+            "position": "right"
+        },
+        "brandSetting": {
+            "brandName": "Credituz",
+            "brandSubTitle": "undefined",
+            "brandImg": "https://cdn.usecredituz.com/logo/short-black.png?width=200",
+            "welcomeText": "Olá, tudo bem ? Como podemos te ajudar ?",
+            "messageText": "",
+            "backgroundColor": "#00e785",
+            "ctaText": "Chat with us",
+            "borderRadius": "25",
+            "autoShow": false,
+            "phoneNumber": "5511936201544"
+        }
+    };
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
 </script>
 
 </body>
