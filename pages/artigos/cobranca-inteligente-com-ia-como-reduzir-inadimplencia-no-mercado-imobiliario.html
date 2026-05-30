@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cobrança com IA: Reduza a Inadimplência no Setor Imobiliário · Credituz</title>
+<meta name="description" content="Saiba como a cobrança inteligente com IA pode diminuir a inadimplência, otimizar custos e melhorar o relacionamento com clientes no mercado imobiliário.">
+<link rel="canonical" href="https://www.credituz.credit/blog/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Cobrança Inteligente com IA: Como Reduzir a Inadimplência no Mercado Imobiliário">
+<meta property="og:description" content="Saiba como a cobrança inteligente com IA pode diminuir a inadimplência, otimizar custos e melhorar o relacionamento com clientes no mercado imobiliário.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+    --ink: #1a1a1a; --paper: #fafaf7; --paper-warm: #f3f1ea;
+    --gray-1: #2e2e2e; --gray-2: #595959; --gray-3: #8a8a8a;
+    --gray-soft: #e4e1d8; --lime: #c4f352; --lime-deep: #9bbf3a; --rust: #c1502e;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:'Newsreader',Georgia,serif; font-size:20px; line-height:1.7; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(250,250,247,0.85); backdrop-filter:blur(12px); border-bottom:1px solid var(--gray-soft); z-index:50; }
+.nav-inner { max-width:720px; margin:0 auto; padding:16px 24px; display:flex; align-items:center; justify-content:space-between; }
+.logo { font-family:'Fraunces',serif; font-size:20px; font-weight:600; color:var(--ink); text-decoration:none; display:inline-flex; align-items:baseline; gap:3px; }
+.logo-dot { width:7px; height:7px; background:var(--lime); border-radius:50%; display:inline-block; }
+.nav-back { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:28px; font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-3); }
+.article-cat { background:var(--ink); color:var(--paper); padding:5px 12px; border-radius:100px; }
+.article h1.title { font-family:'Fraunces',serif; font-size:clamp(32px,5vw,46px); font-weight:600; line-height:1.12; letter-spacing:-0.02em; margin-bottom:20px; }
+.article-sub { font-size:23px; line-height:1.5; color:var(--gray-2); font-style:italic; margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:var(--ink); display:flex; align-items:center; justify-content:center; font-family:'Fraunces',serif; font-weight:600; font-size:18px; }
+.author-info { font-family:'JetBrains Mono',monospace; font-size:12px; line-height:1.5; color:var(--gray-2); text-transform:uppercase; letter-spacing:0.04em; }
+.author-info strong { color:var(--ink); font-weight:500; display:block; }
+.body { font-size:20px; }
+.body h2 { font-family:'Fraunces',serif; font-size:30px; font-weight:600; line-height:1.2; letter-spacing:-0.015em; margin:48px 0 18px; }
+.body h3 { font-family:'Fraunces',serif; font-size:24px; font-weight:500; line-height:1.25; margin:36px 0 14px; }
+.body h4 { font-family:'JetBrains Mono',monospace; font-size:14px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--rust); text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--ink); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:italic; }
+.body blockquote { border-left:3px solid var(--lime); padding:4px 0 4px 24px; margin:0 0 24px; font-style:italic; color:var(--gray-1); }
+.body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:4px; }
+.body pre { background:var(--ink); color:var(--paper); padding:20px; border-radius:12px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-family:'Newsreader',serif; font-size:17px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.04em; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:12px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-family:'JetBrains Mono',monospace; font-size:13px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); font-family:'Newsreader',serif; }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--rust); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:var(--paper); border-radius:24px; padding:40px; text-align:center; }
+.cta-box h3 { font-family:'Fraunces',serif; font-size:28px; font-weight:500; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:rgba(250,250,247,0.7); margin-bottom:24px; font-family:'Newsreader',serif; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:var(--ink); padding:15px 32px; border-radius:100px; font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:500; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; transition:transform 0.15s; }
+.cta-btn:hover { transform:translateY(-2px); }
+.footer { border-top:1px solid var(--gray-soft); padding:40px 24px; text-align:center; font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--gray-3); text-transform:uppercase; letter-spacing:0.06em; }
+.footer a { color:var(--gray-2); text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:20px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:25px; }
+    .cta-box { padding:28px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo">Credituz<span class="logo-dot"></span></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Gestão</span>
+        <span>19 abr 2026</span>
+        <span>7 min</span>
+    </div>
+    <h1 class="title">Cobrança Inteligente com IA: Como Reduzir a Inadimplência no Mercado Imobiliário</h1>
+    <p class="article-sub">Descubra como a Inteligência Artificial está revolucionando a gestão da inadimplência, otimizando processos e preservando o relacionamento com o cliente no setor imobiliário.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<p>A inadimplência é um dos maiores entraves para a saúde financeira e o crescimento sustentável do mercado imobiliário brasileiro. Para incorporadoras, construtoras e imobiliárias, o atraso ou a falta de pagamento de parcelas de financiamento, aluguéis ou taxas condominiais impacta diretamente o fluxo de caixa, a capacidade de investimento e a rentabilidade dos empreendimentos. Em setembro de 2025, a taxa de inadimplência de aluguel no Brasil atingiu 3,80%, o maior índice em 16 meses [1]. Embora a inadimplência no crédito imobiliário tenha apresentado uma leve queda em 2025, para 0,9% (contra 1,0% em 2024), segundo a ABECIP, o cenário ainda exige atenção e estratégias eficazes para mitigar riscos [2].</p>
+<h3>O Efeito Cascata da Inadimplência</h3>
+<p>Quando um cliente se torna inadimplente, o impacto se propaga por toda a cadeia de valor do setor. As receitas não recebidas comprometem o capital de giro, que é vital para cobrir despesas operacionais, salários e fornecedores. A falta de liquidez pode forçar as empresas a buscar linhas de crédito emergenciais, elevando custos e postergando investimentos cruciais em novos projetos ou na melhoria dos existentes. Além disso, a gestão manual da cobrança consome tempo e recursos valiosos da equipe, desviando o foco de atividades mais estratégicas, como vendas e relacionamento com o cliente.</p>
+<h3>Riscos para a Sustentabilidade e Rentabilidade</h3>
+<p>Altas taxas de inadimplência podem atrasar a entrega de obras, comprometer o planejamento de lançamentos futuros e, em casos extremos, inviabilizar a continuidade de empreendimentos. A imagem da empresa também pode ser afetada, dificultando a captação de novos clientes e investidores. A busca por soluções inovadoras para gerenciar e reduzir a inadimplência tornou-se, portanto, uma prioridade estratégica para o setor.</p>
+<h2>A Revolução da Inteligência Artificial na Cobrança</h2>
+<p>A Inteligência Artificial (IA) emerge como uma ferramenta poderosa para transformar a gestão da inadimplência no mercado imobiliário. Longe de ser uma promessa futurista, a IA já é uma realidade operacional, com 92% dos bancos da União Europeia utilizando-a em 2025, e 75% das instituições no Reino Unido em 2024 [3]. No Brasil, o setor imobiliário começa a adotar essa tecnologia para otimizar processos, personalizar abordagens e, consequentemente, reduzir a inadimplência de forma mais eficiente e humanizada.</p>
+<h3>Personalização e Assertividade nas Comunicações</h3>
+<p>A IA permite analisar grandes volumes de dados de clientes, incluindo histórico de pagamentos, perfil socioeconômico e cláusulas contratuais. Com base nessa análise, a tecnologia pode gerar comunicações de cobrança altamente personalizadas e assertivas. Em vez de mensagens genéricas, a IA pode sugerir o melhor canal de contato (e-mail, SMS, WhatsApp), o tom mais adequado e até mesmo ofertas de renegociação mais vantajosas para o perfil específico de cada devedor. Isso transforma a cobrança de uma tarefa operacional em uma ação estratégica, aumentando significativamente as chances de recuperação do crédito e preservando o relacionamento com o cliente.</p>
+<h3>Automação Inteligente e Otimização de Processos</h3>
+<p>Ferramentas de IA podem automatizar diversas etapas do processo de cobrança, desde o envio de lembretes automáticos antes do vencimento até a interpretação de comprovantes de pagamento e a baixa automática no sistema. Essa automação não apenas reduz a inadimplência precoce (por esquecimento), mas também libera a equipe de cobrança de tarefas repetitivas e de baixo valor, permitindo que se concentrem em casos mais complexos e estratégicos. A IA também pode identificar padrões de comportamento e prever a propensão ao pagamento, otimizando as estratégias de recuperação de crédito.</p>
+<h3>IA na Análise de Risco e Prevenção da Inadimplência</h3>
+<p>Além da recuperação, a IA desempenha um papel crucial na prevenção da inadimplência. Ao analisar dados históricos e em tempo real, algoritmos de IA podem identificar potenciais riscos de crédito antes mesmo da formalização de um contrato. Isso permite que incorporadoras e imobiliárias tomem decisões mais informadas sobre a concessão de crédito ou a locação de imóveis, minimizando a entrada de clientes com alto risco de inadimplência. A análise preditiva da IA pode considerar uma vasta gama de variáveis, desde a estabilidade financeira do cliente até indicadores macroeconômicos, oferecendo uma visão 360 graus do risco.</p>
+<h2>Implementando a Cobrança Inteligente com IA na Sua Empresa</h2>
+<p>A adoção da IA na gestão da inadimplência requer um planejamento cuidadoso e a escolha das ferramentas certas. Para incorporadoras e imobiliárias, o foco deve ser em soluções que se integrem aos sistemas existentes e que ofereçam flexibilidade para se adaptar às particularidades do negócio.</p>
+<h3>Escolha da Plataforma e Integração</h3>
+<p>O primeiro passo é selecionar uma plataforma de IA que seja robusta, escalável e que ofereça funcionalidades específicas para o mercado imobiliário. É fundamental que a solução permita a integração com sistemas de gestão de clientes (CRM), ERPs e plataformas de comunicação (como WhatsApp e e-mail). Uma integração fluida garante que os dados sejam compartilhados de forma eficiente e que o processo de cobrança seja contínuo e sem falhas. A Credituz, por exemplo, oferece soluções que podem ser integradas para otimizar a gestão de recebíveis e o relacionamento com o cliente, complementando as estratégias de cobrança inteligente.</p>
+<h3>Treinamento e Adaptação da Equipe</h3>
+<p>A IA não substitui a equipe humana, mas a potencializa. É essencial investir no treinamento dos colaboradores para que compreendam como a IA funciona, como interpretar seus insights e como utilizá-la para aprimorar suas abordagens de cobrança. A equipe deve ser capacitada para atuar em conjunto com a tecnologia, focando em negociações mais complexas e no relacionamento estratégico com o cliente, enquanto a IA cuida das tarefas repetitivas e da análise de dados em larga escala.</p>
+<h3>Monitoramento e Otimização Contínua</h3>
+<p>A implementação da IA é um processo contínuo de monitoramento e otimização. É crucial acompanhar de perto os resultados, analisar métricas de recuperação de crédito, taxas de inadimplência e feedback dos clientes. Com base nesses dados, os algoritmos de IA podem ser ajustados e aprimorados, garantindo que a estratégia de cobrança seja cada vez mais eficaz e adaptada às mudanças do mercado e do comportamento do consumidor. A análise de dados e o Business Intelligence (BI) imobiliário são fundamentais nesse processo, permitindo decisões financeiras mais embasadas.</p>
+<h2>Benefícios da Cobrança Inteligente com IA</h2>
+<p>A adoção da IA na gestão da inadimplência traz uma série de benefícios tangíveis e intangíveis para as empresas do mercado imobiliário.</p>
+<table>
+<thead>
+<tr>
+<th>Benefício</th>
+<th>Descrição</th>
+<th>Impacto</th>
+<th>Link Interno Credituz (Exemplo)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Redução da Inadimplência</strong></td>
+<td>Identificação precoce de riscos e abordagens personalizadas.</td>
+<td>Melhoria do fluxo de caixa e saúde financeira.</td>
+<td><a href="/crm">/crm</a></td>
+</tr>
+<tr>
+<td><strong>Otimização de Custos</strong></td>
+<td>Automação de tarefas repetitivas e redução da necessidade de mão de obra manual.</td>
+<td>Diminuição de despesas operacionais.</td>
+<td><a href="/agentes">/agentes</a></td>
+</tr>
+<tr>
+<td><strong>Melhora do Relacionamento com o Cliente</strong></td>
+<td>Comunicações mais empáticas e ofertas de renegociação justas.</td>
+<td>Preservação da imagem da empresa e fidelização.</td>
+<td><a href="/seja-parceiro">/seja-parceiro</a></td>
+</tr>
+<tr>
+<td><strong>Aumento da Eficiência Operacional</strong></td>
+<td>Processamento rápido de dados e automação de processos.</td>
+<td>Liberação da equipe para tarefas estratégicas.</td>
+<td><a href="/simulador">/simulador</a></td>
+</tr>
+<tr>
+<td><strong>Tomada de Decisão Baseada em Dados</strong></td>
+<td>Insights precisos sobre o perfil do devedor e tendências de mercado.</td>
+<td>Estratégias mais eficazes e redução de riscos.</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>O Futuro da Cobrança no Mercado Imobiliário</h2>
+<p>O mercado imobiliário está em constante evolução, e a tecnologia é o motor dessa transformação. A cobrança inteligente com IA não é apenas uma tendência, mas uma necessidade para as empresas que desejam se manter competitivas e sustentáveis. A capacidade de prever, prevenir e gerenciar a inadimplência de forma proativa e personalizada será um diferencial cada vez mais importante.</p>
+<p>Em 2026, o fator diferenciador no setor financeiro e imobiliário não será apenas ter IA, mas sim governar e integrar a IA de forma responsável, com métricas claras, auditorias contínuas e foco no cliente [3].</p>
+<h3>Desafios e Considerações Éticas</h3>
+<p>Apesar dos inúmeros benefícios, a implementação da IA na cobrança também apresenta desafios. Questões como a governança algorítmica, a proteção de dados e a conformidade regulamentar devem ser consideradas desde a fase de projeto. É fundamental garantir que os algoritmos sejam transparentes, justos e que não perpetuem vieses discriminatórios. A ética na IA é um campo em desenvolvimento, e as empresas devem estar atentas às melhores práticas e regulamentações para garantir uma aplicação responsável da tecnologia.</p>
+<h2>Casos de Sucesso e Tendências de Mercado</h2>
+<p>Diversas empresas já estão colhendo os frutos da cobrança inteligente com IA. Fintechs especializadas no mercado imobiliário têm desenvolvido soluções que automatizam a comunicação com inadimplentes via WhatsApp, reduzindo significativamente as taxas de atraso. Um exemplo é a Neofin, que utiliza agentes de IA para automatizar negociações e otimizar a gestão de recebíveis [4]. Outras soluções focam na análise preditiva para identificar clientes com maior propensão a se tornarem inadimplentes, permitindo ações preventivas e personalizadas.</p>
+<h3>O Papel das Proptechs e Construtechs</h3>
+<p>As Proptechs (empresas de tecnologia para o mercado imobiliário) e Construtechs (empresas de tecnologia para a construção civil) estão na vanguarda dessa transformação. Elas desenvolvem plataformas e ferramentas que integram IA, Big Data e automação para otimizar desde a prospecção de clientes até a gestão pós-venda e a cobrança. A colaboração com essas empresas pode ser um caminho estratégico para incorporadoras e imobiliárias que desejam modernizar suas operações e se destacar no mercado.</p>
+<h3>O Futuro da Interação com o Cliente</h3>
+<p>Com a evolução da IA, a interação com o cliente inadimplente se tornará cada vez mais sofisticada. Chatbots e assistentes virtuais baseados em IA serão capazes de conduzir negociações complexas, responder a dúvidas e oferecer soluções personalizadas em tempo real, 24 horas por dia, 7 dias por semana. Isso não apenas melhora a experiência do cliente, mas também aumenta a eficiência da recuperação de crédito e reduz a carga de trabalho da equipe humana.</p>
+<h2>Conclusão: A IA como Aliada Estratégica na Redução da Inadimplência</h2>
+<p>A inadimplência no mercado imobiliário é um desafio complexo, mas a Inteligência Artificial oferece um conjunto de ferramentas poderosas para enfrentá-lo. Ao automatizar processos, personalizar comunicações, prever riscos e otimizar estratégias, a IA permite que incorporadoras e imobiliárias transformem a cobrança de uma dor de cabeça em uma vantagem competitiva. A chave para o sucesso reside na implementação estratégica da tecnologia, no treinamento da equipe e no monitoramento contínuo dos resultados, sempre com foco na ética e na preservação do relacionamento com o cliente. Abraçar a cobrança inteligente com IA não é apenas uma questão de eficiência, mas de sustentabilidade e inovação no dinâmico mercado imobiliário brasileiro.</p>
+<h2>Referências</h2>
+<p>[1] Superlógica. <em>Inadimplência de aluguel bate recorde e registra maior taxa de 2025 no país, aponta índice Superlógica</em>. Imobi Report, 27 out. 2025. Disponível em: <a href="https://imobireport.com.br/aluguel/inadimplencia-de-aluguel-bate-recorde-e-registra-maior-taxa-de-2025-no-pais-aponta-indice-superlogica/">https://imobireport.com.br/aluguel/inadimplencia-de-aluguel-bate-recorde-e-registra-maior-taxa-de-2025-no-pais-aponta-indice-superlogica/</a>. Acesso em: 19 abr. 2026.</p>
+<p>[2] ABECIP. <em>Financiamento imobiliário com poupança ficou em R$ 156,3 bi em 2025, queda de 13%</em>. Broadcast, 27 jan. 2026. Disponível em: <a href="https://www.broadcast.com.br/ultimas-noticias/abecip-financiamento-imobiliario-com-poupanca-ficou-em-r-1563-bi-em-2025-queda-de-13/">https://www.broadcast.com.br/ultimas-noticias/abecip-financiamento-imobiliario-com-poupanca-ficou-em-r-1563-bi-em-2025-queda-de-13/</a>. Acesso em: 19 abr. 2026.</p>
+<p>[3] Madeira, Miguel. <em>A IA reconfigura o crédito hipotecário para maior eficiência e segurança</em>. Forbes Portugal, 20 fev. 2026. Disponível em: <a href="https://www.forbespt.com/a-ia-reconfigura-o-credito-hipotecario-para-maior-eficiencia-e-seguranca/">https://www.forbespt.com/a-ia-reconfigura-o-credito-hipotecario-para-maior-eficiencia-e-seguranca/</a>. Acesso em: 19 abr. 2026.</p>
+<p>[4] G1. <em>A revolução dos agentes de IA nas cobranças</em>. G1, 10 mar. 2026. Disponível em: <a href="https://g1.globo.com/sp/campinas-regiao/especial-publicitario/neofin/noticia/2026/03/10/a-revolucao-dos-agentes-de-ia-nas-cobrancas.ghtml">https://g1.globo.com/sp/campinas-regiao/especial-publicitario/neofin/noticia/2026/03/10/a-revolucao-dos-agentes-de-ia-nas-cobrancas.ghtml</a>. Acesso em: 19 abr. 2026.</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://imobireport.com.br/aluguel/inadimplencia-de-aluguel-bate-recorde-e-registra-maior-taxa-de-2025-no-pais-aponta-indice-superlogica/" target="_blank" rel="noopener">Inadimplência de aluguel bate recorde e registra maior taxa de 2025 no país, aponta índice Superlógica</a></li>
+<li><a href="https://www.broadcast.com.br/ultimas-noticias/abecip-financiamento-imobiliario-com-poupanca-ficou-em-r-1563-bi-em-2025-queda-de-13/" target="_blank" rel="noopener">Financiamento imobiliário com poupança ficou em R$ 156,3 bi em 2025, queda de 13%</a></li>
+<li><a href="https://www.forbespt.com/a-ia-reconfigura-o-credito-hipotecario-para-maior-eficiencia-e-seguranca/" target="_blank" rel="noopener">A IA reconfigura o crédito hipotecário para maior eficiência e segurança</a></li>
+<li><a href="https://g1.globo.com/sp/campinas-regiao/especial-publicitario/neofin/noticia/2026/03/10/a-revolucao-dos-agentes-de-ia-nas-cobrancas.ghtml" target="_blank" rel="noopener">A revolução dos agentes de IA nas cobranças</a></li></ol></div>
+    <div class="cta-box">
+        <h3>Veja a Credituz na prática</h3>
+        <p>A plataforma com IA que atende, qualifica e fecha do lead à entrega das chaves.</p>
+        <a href="../../index.html" class="cta-btn">Conhecer a plataforma →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+</body>
+</html>

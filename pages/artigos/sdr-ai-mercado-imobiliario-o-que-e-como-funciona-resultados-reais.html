@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SDR AI no Imobiliário: O Que É, Como Funciona e Resultados · Credituz</title>
+<meta name="description" content="Descubra como o SDR AI revoluciona o mercado imobiliário brasileiro, otimizando a prospecção, reduzindo custos e impulsionando vendas com inteligência artificial.">
+<link rel="canonical" href="https://www.credituz.credit/blog/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais">
+<meta property="og:type" content="article">
+<meta property="og:title" content="SDR AI para o Mercado Imobiliário: O Que É, Como Funciona e Resultados Reais">
+<meta property="og:description" content="Descubra como o SDR AI revoluciona o mercado imobiliário brasileiro, otimizando a prospecção, reduzindo custos e impulsionando vendas com inteligência artificial.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+    --ink: #1a1a1a; --paper: #fafaf7; --paper-warm: #f3f1ea;
+    --gray-1: #2e2e2e; --gray-2: #595959; --gray-3: #8a8a8a;
+    --gray-soft: #e4e1d8; --lime: #c4f352; --lime-deep: #9bbf3a; --rust: #c1502e;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:'Newsreader',Georgia,serif; font-size:20px; line-height:1.7; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(250,250,247,0.85); backdrop-filter:blur(12px); border-bottom:1px solid var(--gray-soft); z-index:50; }
+.nav-inner { max-width:720px; margin:0 auto; padding:16px 24px; display:flex; align-items:center; justify-content:space-between; }
+.logo { font-family:'Fraunces',serif; font-size:20px; font-weight:600; color:var(--ink); text-decoration:none; display:inline-flex; align-items:baseline; gap:3px; }
+.logo-dot { width:7px; height:7px; background:var(--lime); border-radius:50%; display:inline-block; }
+.nav-back { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:28px; font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-3); }
+.article-cat { background:var(--ink); color:var(--paper); padding:5px 12px; border-radius:100px; }
+.article h1.title { font-family:'Fraunces',serif; font-size:clamp(32px,5vw,46px); font-weight:600; line-height:1.12; letter-spacing:-0.02em; margin-bottom:20px; }
+.article-sub { font-size:23px; line-height:1.5; color:var(--gray-2); font-style:italic; margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:var(--ink); display:flex; align-items:center; justify-content:center; font-family:'Fraunces',serif; font-weight:600; font-size:18px; }
+.author-info { font-family:'JetBrains Mono',monospace; font-size:12px; line-height:1.5; color:var(--gray-2); text-transform:uppercase; letter-spacing:0.04em; }
+.author-info strong { color:var(--ink); font-weight:500; display:block; }
+.body { font-size:20px; }
+.body h2 { font-family:'Fraunces',serif; font-size:30px; font-weight:600; line-height:1.2; letter-spacing:-0.015em; margin:48px 0 18px; }
+.body h3 { font-family:'Fraunces',serif; font-size:24px; font-weight:500; line-height:1.25; margin:36px 0 14px; }
+.body h4 { font-family:'JetBrains Mono',monospace; font-size:14px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--rust); text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--ink); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:italic; }
+.body blockquote { border-left:3px solid var(--lime); padding:4px 0 4px 24px; margin:0 0 24px; font-style:italic; color:var(--gray-1); }
+.body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:4px; }
+.body pre { background:var(--ink); color:var(--paper); padding:20px; border-radius:12px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-family:'Newsreader',serif; font-size:17px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.04em; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:12px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-family:'JetBrains Mono',monospace; font-size:13px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); font-family:'Newsreader',serif; }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--rust); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:var(--paper); border-radius:24px; padding:40px; text-align:center; }
+.cta-box h3 { font-family:'Fraunces',serif; font-size:28px; font-weight:500; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:rgba(250,250,247,0.7); margin-bottom:24px; font-family:'Newsreader',serif; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:var(--ink); padding:15px 32px; border-radius:100px; font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:500; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; transition:transform 0.15s; }
+.cta-btn:hover { transform:translateY(-2px); }
+.footer { border-top:1px solid var(--gray-soft); padding:40px 24px; text-align:center; font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--gray-3); text-transform:uppercase; letter-spacing:0.06em; }
+.footer a { color:var(--gray-2); text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:20px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:25px; }
+    .cta-box { padding:28px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo">Credituz<span class="logo-dot"></span></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Tecnologia &amp; IA</span>
+        <span>19 abr 2026</span>
+        <span>8 min</span>
+    </div>
+    <h1 class="title">SDR AI para o Mercado Imobiliário: O Que É, Como Funciona e Resultados Reais</h1>
+    <p class="article-sub">Explore a inteligência artificial na prospecção imobiliária, seus benefícios e o impacto real nas vendas e eficiência do setor.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<p>O mercado imobiliário brasileiro busca constantemente inovações para otimizar processos e impulsionar resultados. A Inteligência Artificial (IA) surge como uma ferramenta transformadora, especialmente em vendas e prospecção. O SDR AI (Sales Development Representative com Inteligência Artificial) redefine a forma como imobiliárias e incorporadoras interagem com leads e qualificam oportunidades de negócio.</p>
+<p>Tradicionalmente, a prospecção imobiliária é intensiva em mão de obra, com equipes dedicando horas a tarefas repetitivas. A demanda por respostas rápidas e personalizadas impulsionou a necessidade de soluções mais eficientes. O SDR AI oferece uma abordagem inovadora para escalar a prospecção, reduzir custos operacionais e aumentar as taxas de conversão.</p>
+<p>Este artigo explora o conceito de SDR AI, seu funcionamento, benefícios e resultados reais, mostrando como essa tecnologia molda o futuro das vendas imobiliárias no Brasil, com foco em construtoras e incorporadoras.</p>
+<h2>O Que É um SDR AI e Como Ele Se Diferencia?</h2>
+<p>Um SDR AI é um software que utiliza inteligência artificial para replicar e otimizar as funções de um Sales Development Representative humano. Sua missão é identificar, contatar e qualificar leads, preparando-os para a equipe de vendas. Diferente de um SDR humano, o SDR AI opera 24/7, processando um volume massivo de informações e interações de forma consistente e escalável.</p>
+<h3>A Evolução da Prospecção: Do Humano ao Agente Autônomo</h3>
+<p>A prospecção de vendas evoluiu para modelos cada vez mais automatizados e inteligentes. Podemos categorizar os SDRs em três níveis de sofisticação [1]:</p>
+<ul>
+<li><strong>Nível 1 – Automação de Sequência:</strong> Disparo de e-mails e mensagens pré-definidas, sem IA real na tomada de decisões ou personalização avançada.</li>
+<li><strong>Nível 2 – IA Assistida:</strong> IA auxilia o SDR humano, personalizando templates e sugerindo leads, mas a decisão final e execução dependem do humano.</li>
+<li><strong>Nível 3 – Agente Autônomo (SDR AI Completo):</strong> O SDR AI executa o ciclo completo de prospecção sem intervenção humana: pesquisa, contato, follow-up e qualificação de forma autônoma, tomando decisões baseadas em algoritmos de IA. O eesier é um exemplo focado no mercado brasileiro [1].</li>
+</ul>
+<h3>SDR Humano vs. SDR AI: Uma Análise Comparativa</h3>
+<p>A implementação de um SDR AI não substitui totalmente o SDR humano, mas otimiza e complementa. A tabela abaixo ilustra as principais diferenças:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Característica</th>
+<th style="text-align: left;">SDR Humano</th>
+<th style="text-align: left;">SDR AI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Custo Mensal</strong></td>
+<td style="text-align: left;">R$ 8.000 - R$ 15.000 [1]</td>
+<td style="text-align: left;">R$ 300 - R$ 997 (para soluções brasileiras) [1]</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Volume de Contatos</strong></td>
+<td style="text-align: left;">50-80 contatos/dia [1]</td>
+<td style="text-align: left;">Centenas de contatos/dia [1]</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Disponibilidade</strong></td>
+<td style="text-align: left;">Horário comercial</td>
+<td style="text-align: left;">24/7</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Consistência</strong></td>
+<td style="text-align: left;">Variável</td>
+<td style="text-align: left;">Alta e padronizada</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Personalização</strong></td>
+<td style="text-align: left;">Profunda (empatia e nuances)</td>
+<td style="text-align: left;">Em escala (dados e algoritmos)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Tarefas Repetitivas</strong></td>
+<td style="text-align: left;">Alto envolvimento</td>
+<td style="text-align: left;">Baixo envolvimento (automatizado)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Negociações Complexas</strong></td>
+<td style="text-align: left;">Excelente</td>
+<td style="text-align: left;">Limitado</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Relacionamento</strong></td>
+<td style="text-align: left;">Essencial para longo prazo</td>
+<td style="text-align: left;">Complementar ao humano</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ticket Ideal</strong></td>
+<td style="text-align: left;">Alto (acima de R$ 50.000/contrato) [1]</td>
+<td style="text-align: left;">Médio (R$ 1.000 - R$ 50.000/contrato) [1]</td>
+</tr>
+</tbody>
+</table>
+<p>O cenário ideal para PMEs no mercado imobiliário é a combinação de SDR AI para prospecção e qualificação em escala, liberando corretores para focar no fechamento e relacionamento humano. A Credituz oferece soluções que integram IA para otimizar o crédito imobiliário, complementando o trabalho dos agentes e parceiros. Saiba mais em <a href="/agentes">/agentes</a> e <a href="/seja-parceiro">/seja-parceiro</a>.</p>
+<h2>Como o SDR AI Funciona no Mercado Imobiliário</h2>
+<p>O funcionamento de um SDR AI no setor imobiliário integra diversas tecnologias para otimizar a jornada do lead, desde o primeiro contato até a qualificação. A chave está na automação inteligente e na capacidade de processar grandes volumes de dados.</p>
+<h3>Fluxo de Atendimento Automatizado com IA</h3>
+<p>Um fluxo típico de SDR AI no mercado imobiliário inclui [2]:</p>
+<ol>
+<li><strong>Entrada de Leads:</strong> Captura de leads de diversas fontes (landing pages, portais, redes sociais, WhatsApp).</li>
+<li><strong>Resposta Imediata:</strong> Resposta instantânea, aumentando a conversão em até 21 vezes [2].</li>
+<li><strong>Identificação de Intenção:</strong> Uso de Processamento de Linguagem Natural (PLN) para compreender a intenção e necessidades do lead.</li>
+<li><strong>Qualificação Estruturada:</strong> Qualificação do lead com base em critérios pré-definidos (orçamento, localização, tipo de imóvel, urgência).</li>
+<li><strong>Registro Automático no CRM:</strong> Todas as interações e informações são registradas no CRM, facilitando o acompanhamento. A Credituz oferece um <a href="/crm">/crm</a> robusto.</li>
+<li><strong>Decisão do Sistema:</strong> O SDR AI decide o próximo passo (agendamento, envio de informações, encaminhamento ao corretor).</li>
+<li><strong>Follow-up Automático:</strong> Realização de follow-ups automáticos e personalizados, mantendo o lead engajado.</li>
+</ol>
+<h3>Por Que o WhatsApp é Essencial para o SDR AI Imobiliário</h3>
+<p>O WhatsApp é o principal canal de comunicação no mercado imobiliário brasileiro. Um SDR AI que opera via WhatsApp oferece uma vantagem competitiva significativa [2], permitindo atendimento rápido, direto e sem fricção, crucial para engajamento e conversão.</p>
+<h2>Resultados Reais e Benefícios do SDR AI no Mercado Imobiliário</h2>
+<p>A implementação de um SDR AI gera resultados tangíveis, impactando a eficiência operacional e a lucratividade.</p>
+<h3>Otimização da Qualificação de Leads e Redução de Custos</h3>
+<p>O SDR AI otimiza a pré-qualificação de leads, filtrando contatos não qualificados e validando leads com maior potencial [3]. Estima-se que a IA pode reduzir os custos operacionais no setor imobiliário em até 20-30% ao automatizar tarefas repetitivas [4].</p>
+<h3>Aumento da Velocidade e Escala no Atendimento</h3>
+<p>Com um SDR AI, o atendimento comercial ganha velocidade, escala e eficiência. A IA processa centenas de contatos por dia, respondendo de forma humana e em segundos [1]. Essa capacidade de resposta 24/7 é fundamental para capturar leads no momento de maior interesse.</p>
+<h3>Melhoria na Experiência do Cliente e Personalização</h3>
+<p>SDRs de IA bem implementados personalizam a comunicação em escala, pesquisando cada empresa individualmente e escrevendo e-mails indistinguíveis de e-mails humanos [1]. Isso resulta em taxas de resposta comparáveis ou superiores às de SDRs humanos (3-12%), com a vantagem do volume [1].</p>
+<h3>Casos de Sucesso e Dados do Mercado Brasileiro</h3>
+<p>O ecossistema brasileiro de proptechs e construtechs cresceu 13,5% em 2024, com 1.209 startups e 22 mil empregos [5]. Empresas como a Credituz.ai já utilizam IA para analisar, negociar e vender no crédito imobiliário [6]. Embora 88% dos compradores prefiram atendimento humano [7], a IA atua como facilitador, reposicionando o SDR de um filtro para uma conexão estratégica [8].</p>
+<h2>Desafios e Considerações na Implementação do SDR AI</h2>
+<p>A implementação de um SDR AI apresenta desafios que precisam ser gerenciados para garantir o sucesso.</p>
+<h3>Integração com Sistemas Existentes</h3>
+<p>A integração com CRM e outras ferramentas é crucial para evitar silos de informação. Soluções como o CRM da Credituz facilitam essa integração.</p>
+<h3>Qualidade dos Dados e Personalização</h3>
+<p>A eficácia do SDR AI depende da qualidade dos dados. Dados desatualizados levam a qualificações errôneas. A personalização em escala exige treinamento contínuo da IA.</p>
+<h3>Treinamento e Adaptação da Equipe Humana</h3>
+<p>A introdução do SDR AI redefine os papéis da equipe. É fundamental investir no treinamento para que compreendam como trabalhar com a IA, focando em negociação e relacionamento.</p>
+<h3>Ética e Transparência</h3>
+<p>É importante garantir que o SDR AI opere em conformidade com a LGPD e que a comunicação com os leads seja transparente sobre o uso de IA.</p>
+<h2>O Futuro do SDR AI no Mercado Imobiliário Brasileiro</h2>
+<p>O futuro do SDR AI no mercado imobiliário brasileiro é promissor, com a tecnologia evoluindo para soluções mais sofisticadas e integradas.</p>
+<h3>IA Preditiva e Análise de Tendências</h3>
+<p>O SDR AI avançará para a IA preditiva, antecipando necessidades dos clientes e tendências do mercado, fornecendo insights para decisões estratégicas.</p>
+<h3>Hiperpersonalização e Experiência Omnichannel</h3>
+<p>A hiperpersonalização criará jornadas de cliente individualizadas, adaptando comunicação, ofertas e canais. A experiência omnichannel será a norma.</p>
+<h3>Integração com Outras Tecnologias Emergentes</h3>
+<p>O SDR AI se integrará com RV e RA para experiências imersivas, e chatbots avançados guiarão os clientes pela jornada de compra.</p>
+<h2>Conclusão: A Sinergia entre IA e o Toque Humano</h2>
+<p>O SDR AI não é uma ameaça, mas uma ferramenta poderosa que capacita o profissional de vendas imobiliárias a ser mais eficiente e estratégico. A sinergia entre IA e o toque humano é a chave para o sucesso.</p>
+<p>Ao automatizar tarefas repetitivas e qualificar leads, o SDR AI libera tempo para corretores se dedicarem à negociação, consultoria e construção de confiança. A Credituz está na vanguarda dessa transformação, unindo tecnologia e expertise humana para impulsionar o mercado de crédito imobiliário.</p>
+<p>Investir em SDR AI é investir no futuro, garantindo competitividade, eficiência e preparação para as demandas do mercado.</p>
+<h2>Referências</h2>
+<p>[1] eesier. O Que É um SDR de IA? Guia Completo [2026]. Disponível em: <a href="https://eesier.com.br/o-que-e-sdr-de-ia">https://eesier.com.br/o-que-e-sdr-de-ia</a>. Acesso em: 19 abr. 2026.
+[2] Metodo Viral. Agente de IA SDR Para Imobiliárias: Como Converter Leads no WhatsApp. Disponível em: <a href="https://metodoviral.com/blog/mercado-imobiliario-construcao-civil/agente-de-ia-sdr-para-imobiliarias-whatsapp/">https://metodoviral.com/blog/mercado-imobiliario-construcao-civil/agente-de-ia-sdr-para-imobiliarias-whatsapp/</a>. Acesso em: 19 abr. 2026.
+[3] Valor Econômico. IA otimiza pré-qualificação de leads no mercado imobiliário. Disponível em: <a href="https://valor.globo.com/patrocinado/dino/noticia/2025/09/12/ia-otimiza-prequalificacao-de-leads-no-mercado-imobiliario-1.ghtml">https://valor.globo.com/patrocinado/dino/noticia/2025/09/12/ia-otimiza-prequalificacao-de-leads-no-mercado-imobiliario-1.ghtml</a>. Acesso em: 19 abr. 2026.
+[4] Floripa Hosts. A inteligência artificial e seu impacto no mercado imobiliário. Disponível em: <a href="https://floripahosts.com/a-inteligencia-artificial-e-seu-impacto-no-mercado-imobiliario/">https://floripahosts.com/a-inteligencia-artificial-e-seu-impacto-no-mercado-imobiliario/</a>. Acesso em: 19 abr. 2026.
+[5] SEGS. Inteligência Artificial redefine o mercado imobiliário brasileiro e impulsiona produtividade. Disponível em: <a href="https://www.segs.com.br/info-ti/437771-inteligencia-artificial-redefine-o-mercado-imobiliario-brasileiro-e-impulsiona-produtividade">https://www.segs.com.br/info-ti/437771-inteligencia-artificial-redefine-o-mercado-imobiliario-brasileiro-e-impulsiona-produtividade</a>. Acesso em: 19 abr. 2026.
+[6] Credituz AI. AI-First Real Estate | Crédito Imobiliário com IA. Disponível em: <a href="https://www.credituz.ai/">https://www.credituz.ai/</a>. Acesso em: 19 abr. 2026.
+[7] Metro Quadrado. AI fica de fora das transações. O brasileiro quer mesmo é o corretor. Disponível em: <a href="https://metroquadrado.com/residencial/ai-fica-de-fora-das-transacoes-brasileiro-quer-mesmo-e-o-corretor/">https://metroquadrado.com/residencial/ai-fica-de-fora-das-transacoes-brasileiro-quer-mesmo-e-o-corretor/</a>. Acesso em: 19 abr. 2026.
+[8] Imobi Report. De filtro a sustentação da jornada: o reposicionamento do SDR nas imobiliárias. Disponível em: <a href="https://imobireport.com.br/imobi-report-opiniao/de-filtro-a-sustentacao-da-jornada-o-reposicionamento-do-sdr-nas-imobiliarias/">https://imobireport.com.br/imobi-report-opiniao/de-filtro-a-sustentacao-da-jornada-o-reposicionamento-do-sdr-nas-imobiliarias/</a>. Acesso em: 19 abr. 2026.</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://eesier.com.br/o-que-e-sdr-de-ia" target="_blank" rel="noopener">O Que É um SDR de IA? Guia Completo [2026]</a></li>
+<li><a href="https://metodoviral.com/blog/mercado-imobiliario-construcao-civil/agente-de-ia-sdr-para-imobiliarias-whatsapp/" target="_blank" rel="noopener">Agente de IA SDR Para Imobiliárias: Como Converter Leads no WhatsApp</a></li>
+<li><a href="https://valor.globo.com/patrocinado/dino/noticia/2025/09/12/ia-otimiza-prequalificacao-de-leads-no-mercado-imobiliario-1.ghtml" target="_blank" rel="noopener">IA otimiza pré-qualificação de leads no mercado imobiliário</a></li>
+<li><a href="https://floripahosts.com/a-inteligencia-artificial-e-seu-impacto-no-mercado-imobiliario/" target="_blank" rel="noopener">A inteligência artificial e seu impacto no mercado imobiliário</a></li>
+<li><a href="https://www.segs.com.br/info-ti/437771-inteligencia-artificial-redefine-o-mercado-imobiliario-brasileiro-e-impulsiona-produtividade" target="_blank" rel="noopener">Inteligência Artificial redefine o mercado imobiliário brasileiro e impulsiona produtividade</a></li>
+<li><a href="https://www.credituz.ai/" target="_blank" rel="noopener">AI-First Real Estate | Crédito Imobiliário com IA</a></li>
+<li><a href="https://metroquadrado.com/residencial/ai-fica-de-fora-das-transacoes-brasileiro-quer-mesmo-e-o-corretor/" target="_blank" rel="noopener">AI fica de fora das transações. O brasileiro quer mesmo é o corretor.</a></li>
+<li><a href="https://imobireport.com.br/imobi-report-opiniao/de-filtro-a-sustentacao-da-jornada-o-reposicionamento-do-sdr-nas-imobiliarias/" target="_blank" rel="noopener">De filtro a sustentação da jornada: o reposicionamento do SDR nas imobiliárias.</a></li></ol></div>
+    <div class="cta-box">
+        <h3>Veja a Credituz na prática</h3>
+        <p>A plataforma com IA que atende, qualifica e fecha do lead à entrega das chaves.</p>
+        <a href="../../index.html" class="cta-btn">Conhecer a plataforma →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+</body>
+</html>

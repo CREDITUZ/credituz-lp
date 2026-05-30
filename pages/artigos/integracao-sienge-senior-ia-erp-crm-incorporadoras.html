@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IA, Sienge e Senior: Integrando ERP e CRM para Incorporadoras · Credituz</title>
+<meta name="description" content="Descubra como a integração de IA com Sienge e Senior revoluciona a gestão de incorporadoras, otimizando processos, custos e a experiência do cliente.">
+<link rel="canonical" href="https://www.credituz.credit/blog/integracao-sienge-senior-ia-erp-crm-incorporadoras">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Integração com Sienge e Senior: Como a IA Conecta ERP e CRM para Incorporadoras">
+<meta property="og:description" content="Descubra como a integração de IA com Sienge e Senior revoluciona a gestão de incorporadoras, otimizando processos, custos e a experiência do cliente.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+    --ink: #1a1a1a; --paper: #fafaf7; --paper-warm: #f3f1ea;
+    --gray-1: #2e2e2e; --gray-2: #595959; --gray-3: #8a8a8a;
+    --gray-soft: #e4e1d8; --lime: #c4f352; --lime-deep: #9bbf3a; --rust: #c1502e;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:'Newsreader',Georgia,serif; font-size:20px; line-height:1.7; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(250,250,247,0.85); backdrop-filter:blur(12px); border-bottom:1px solid var(--gray-soft); z-index:50; }
+.nav-inner { max-width:720px; margin:0 auto; padding:16px 24px; display:flex; align-items:center; justify-content:space-between; }
+.logo { font-family:'Fraunces',serif; font-size:20px; font-weight:600; color:var(--ink); text-decoration:none; display:inline-flex; align-items:baseline; gap:3px; }
+.logo-dot { width:7px; height:7px; background:var(--lime); border-radius:50%; display:inline-block; }
+.nav-back { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:28px; font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-3); }
+.article-cat { background:var(--ink); color:var(--paper); padding:5px 12px; border-radius:100px; }
+.article h1.title { font-family:'Fraunces',serif; font-size:clamp(32px,5vw,46px); font-weight:600; line-height:1.12; letter-spacing:-0.02em; margin-bottom:20px; }
+.article-sub { font-size:23px; line-height:1.5; color:var(--gray-2); font-style:italic; margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:var(--ink); display:flex; align-items:center; justify-content:center; font-family:'Fraunces',serif; font-weight:600; font-size:18px; }
+.author-info { font-family:'JetBrains Mono',monospace; font-size:12px; line-height:1.5; color:var(--gray-2); text-transform:uppercase; letter-spacing:0.04em; }
+.author-info strong { color:var(--ink); font-weight:500; display:block; }
+.body { font-size:20px; }
+.body h2 { font-family:'Fraunces',serif; font-size:30px; font-weight:600; line-height:1.2; letter-spacing:-0.015em; margin:48px 0 18px; }
+.body h3 { font-family:'Fraunces',serif; font-size:24px; font-weight:500; line-height:1.25; margin:36px 0 14px; }
+.body h4 { font-family:'JetBrains Mono',monospace; font-size:14px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--rust); text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--ink); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:italic; }
+.body blockquote { border-left:3px solid var(--lime); padding:4px 0 4px 24px; margin:0 0 24px; font-style:italic; color:var(--gray-1); }
+.body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:4px; }
+.body pre { background:var(--ink); color:var(--paper); padding:20px; border-radius:12px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-family:'Newsreader',serif; font-size:17px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.04em; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:12px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-family:'JetBrains Mono',monospace; font-size:13px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); font-family:'Newsreader',serif; }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--rust); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:var(--paper); border-radius:24px; padding:40px; text-align:center; }
+.cta-box h3 { font-family:'Fraunces',serif; font-size:28px; font-weight:500; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:rgba(250,250,247,0.7); margin-bottom:24px; font-family:'Newsreader',serif; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:var(--ink); padding:15px 32px; border-radius:100px; font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:500; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; transition:transform 0.15s; }
+.cta-btn:hover { transform:translateY(-2px); }
+.footer { border-top:1px solid var(--gray-soft); padding:40px 24px; text-align:center; font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--gray-3); text-transform:uppercase; letter-spacing:0.06em; }
+.footer a { color:var(--gray-2); text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:20px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:25px; }
+    .cta-box { padding:28px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo">Credituz<span class="logo-dot"></span></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Tecnologia &amp; IA</span>
+        <span>19 abr 2026</span>
+        <span>10 min</span>
+    </div>
+    <h1 class="title">Integração com Sienge e Senior: Como a IA Conecta ERP e CRM para Incorporadoras</h1>
+    <p class="article-sub">A sinergia entre IA, ERP e CRM está redefinindo a gestão no mercado imobiliário, trazendo eficiência e decisões baseadas em dados para incorporadoras.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<p>O mercado imobiliário brasileiro, em 2025, demonstrou um crescimento robusto, com recordes em lançamentos e vendas, atingindo um Valor Geral de Lançamento (VGL) de R$ 292,3 bilhões, um aumento de 10,6% em relação ao ano anterior [1]. Este cenário de expansão, embora promissor, exige das incorporadoras uma gestão cada vez mais sofisticada para otimizar processos, controlar custos e tomar decisões ágeis. A chave para essa otimização reside na integração estratégica de sistemas de gestão empresarial (ERP), gerenciamento de relacionamento com o cliente (CRM) e, crucialmente, a Inteligência Artificial (IA).</p>
+<p>Este artigo detalha como a união de plataformas líderes como Sienge e Senior com o poder analítico da IA pode revolucionar a gestão de incorporadoras. O objetivo é criar um ecossistema de dados unificado e inteligente, capaz de impulsionar a eficiência operacional, aprimorar a experiência do cliente e fundamentar decisões estratégicas com base em insights preditivos.</p>
+<h2>ERP e CRM: Pilares da Gestão na Construção Civil</h2>
+<p>Sistemas de ERP e CRM são ferramentas fundamentais para a gestão moderna. No setor de incorporação imobiliária, onde projetos são complexos e o ciclo de vendas é longo, a importância dessas ferramentas é amplificada.</p>
+<h3>Sienge e Senior: Soluções Especializadas para o Setor</h3>
+<p>No Brasil, o <strong>Sienge</strong> e a <strong>Senior Sistemas</strong> se destacam como provedores de soluções ERP robustas e adaptadas às necessidades da construção civil e incorporação. O Sienge, com mais de 5 mil clientes, oferece uma plataforma abrangente que gerencia todas as fases de um empreendimento, desde o planejamento e orçamento até a gestão financeira e de suprimentos [2]. Sua capacidade de integrar módulos diversos proporciona uma visão holística do projeto, essencial para o controle, previsibilidade e produtividade em obras complexas.</p>
+<p>A <strong>Senior Sistemas</strong> complementa esse cenário com um ERP que permite controle total sobre orçamento, cronograma e recursos, minimizando desperdícios e assegurando a conformidade [3]. A flexibilidade da plataforma Senior, com módulos para gestão de pessoas, logística e manufatura, é particularmente útil para incorporadoras com operações diversificadas.</p>
+<p>Paralelamente, um sistema de CRM, como o <strong>CV CRM</strong>, é indispensável para a gestão do relacionamento com o cliente [4]. Desde a captação de leads até o pós-venda, o CRM centraliza todas as interações, permitindo que as equipes de vendas personalizem o atendimento e otimizem o funil de vendas. A segmentação de clientes, a automação de campanhas de marketing e o acompanhamento de desempenho são funcionalidades que garantem um relacionamento mais eficaz e maiores taxas de conversão.</p>
+<p>A integração nativa entre ERP e CRM já representa um avanço significativo. Contudo, a verdadeira inovação surge com a incorporação da Inteligência Artificial, que eleva essa conexão a um patamar superior de automação e análise preditiva.</p>
+<h2>A Inteligência Artificial: O Catalisador da Transformação no Imobiliário</h2>
+<p>A Inteligência Artificial (IA) deixou de ser um conceito futurista para se tornar uma realidade transformadora no setor imobiliário. A IA, ao simular a inteligência humana, aprende, raciocina e resolve problemas complexos. No contexto da incorporação, ela potencializa ERP e CRM, convertendo-os em plataformas proativas de gestão, capazes de gerar insights valiosos e automatizar tarefas complexas [5].</p>
+<p>Os benefícios da IA, ao analisar grandes volumes de dados e prever tendências, são práticos e mensuráveis:</p>
+<ul>
+<li><strong>Análise de Viabilidade de Terrenos Aprimorada:</strong> Algoritmos de IA processam dados geográficos, demográficos, econômicos e de mercado em tempo real, identificando terrenos com alto potencial de retorno. Essa análise, que antes demandava tempo, é realizada em segundos, acelerando a tomada de decisão e mitigando riscos [6].</li>
+<li><strong>Prospecção e Qualificação de Leads Inteligente:</strong> A IA revoluciona a prospecção ao analisar o comportamento, histórico de interações e dados demográficos dos leads, prevendo a probabilidade de conversão e otimizando o foco da equipe de vendas [7].</li>
+<li><strong>Otimização da Gestão de Obras:</strong> A IA contribui para a previsão de riscos, otimização de cronogramas e gestão de suprimentos [8]. Sensores em canteiros de obras coletam dados em tempo real, permitindo que a IA identifique desvios e sugira ações corretivas, garantindo a eficiência e segurança.</li>
+<li><strong>Precificação Dinâmica e Estratégica:</strong> Com base em dados de mercado, histórico de vendas e fatores externos, a IA sugere preços ideais para as unidades, maximizando a receita e a rentabilidade.</li>
+<li><strong>Personalização da Experiência do Cliente:</strong> A IA permite uma personalização sem precedentes, analisando o perfil, preferências e histórico de interações para oferecer recomendações personalizadas de imóveis, financiamentos e serviços adicionais.</li>
+</ul>
+<h2>A Sinergia em Ação: Benefícios da Integração com IA</h2>
+<p>A integração da IA com ERP e CRM cria um fluxo de dados contínuo e inteligente, onde informações operacionais e financeiras do ERP se cruzam com dados de clientes e vendas do CRM. O resultado é uma visão 360 graus do negócio, gerando insights antes inatingíveis e impulsionando decisões estratégicas em todos os níveis da organização.</p>
+<h3>Benefícios Tangíveis da Integração para Incorporadoras</h3>
+<p>A conexão inteligente entre IA, ERP e CRM confere vantagens competitivas e impacta diretamente a performance e a rentabilidade das incorporadoras:</p>
+<table>
+<thead>
+<tr>
+<th>Benefício</th>
+<th>Descrição Detalhada</th>
+<th>Impacto Direto para a Incorporadora</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Automação Inteligente de Processos</strong></td>
+<td>A IA automatiza tarefas repetitivas e burocráticas, como emissão de contratos, gestão de estoque e processamento de pagamentos.</td>
+<td>Redução de erros, aumento da velocidade operacional, otimização do tempo da equipe e redução de custos.</td>
+</tr>
+<tr>
+<td><strong>Decisões Estratégicas Baseadas em Dados</strong></td>
+<td>A IA analisa dados consolidados para fornecer insights preditivos sobre demanda, precificação, riscos e oportunidades de investimento.</td>
+<td>Maior assertividade nas decisões, previsibilidade financeira, minimização de riscos e identificação proativa de nichos.</td>
+</tr>
+<tr>
+<td><strong>Experiência do Cliente Elevada e Personalizada</strong></td>
+<td>A IA personaliza a comunicação, ofertas de imóveis e condições de financiamento, antecipando necessidades e preferências do cliente.</td>
+<td>Aumento das taxas de conversão, maior satisfação e fidelização, construção de relacionamentos duradouros e fortalecimento da marca.</td>
+</tr>
+<tr>
+<td><strong>Eficiência Operacional Aprimorada</strong></td>
+<td>A integração de dados e a automação garantem que todos os departamentos trabalhem com informações consistentes e em tempo real, eliminando silos.</td>
+<td>Fluxos de trabalho mais ágeis, comunicação interna aprimorada, maior produtividade e otimização de recursos.</td>
+</tr>
+<tr>
+<td><strong>Redução de Custos e Otimização de Recursos</strong></td>
+<td>A automação, análise preditiva e identificação precoce de problemas minimizam desperdícios, otimizam o uso de materiais e mão de obra.</td>
+<td>Melhoria da rentabilidade, controle financeiro rigoroso, maior eficiência na gestão de projetos e redução de perdas.</td>
+</tr>
+</tbody>
+</table>
+<p>Um exemplo prático é a automação do reajuste de parcelas com base em índices contratuais como INCC e IGPM, calculada e aplicada de forma inteligente pela IA conectada ao módulo financeiro do ERP [9]. Outro é a otimização de campanhas de marketing, onde a IA analisa dados do CRM para direcionar anúncios e conteúdos específicos aos perfis de clientes mais promissores, aumentando o ROI.</p>
+<h2>Desafios e Estratégias para uma Implementação Bem-Sucedida</h2>
+<p>A implementação de um ecossistema integrado com IA apresenta desafios, como o investimento inicial e a necessidade de capacitação da equipe. Contudo, com planejamento, esses obstáculos podem ser superados.</p>
+<p>É crucial investir na capacitação dos colaboradores para que compreendam e utilizem eficazmente as novas ferramentas de IA. Treinamentos e workshops são essenciais. Projetos piloto, com implementações graduais, podem demonstrar o valor da tecnologia e facilitar a adesão interna [5].</p>
+<p>A escolha de parceiros tecnológicos experientes no setor imobiliário é fundamental. Soluções como as da <strong>Credituz</strong>, que otimizam a jornada de crédito imobiliário, podem ser um elo estratégico. A Credituz atua como um hub de crédito, conectando-se inteligentemente aos sistemas de gestão da incorporadora, agilizando o financiamento para os clientes finais. Isso simplifica a vida do comprador e reduz a carga administrativa da incorporadora. Para saber mais sobre como a Credituz pode apoiar sua incorporadora, explore nosso <a href="https://credituz.com.br/simulador">simulador de financiamento</a>, conheça nossas soluções de <a href="https://credituz.com.br/crm">CRM</a> e para <a href="https://credituz.com.br/agentes">agentes</a>, ou torne-se um <a href="https://credituz.com.br/seja-parceiro">parceiro</a>.</p>
+<h2>O Futuro da Incorporação: Uma Visão Integrada e Inteligente</h2>
+<p>O futuro do mercado imobiliário é data-driven e altamente integrado. Incorporadoras que adotarem a integração de IA, ERP e CRM estarão mais preparadas para antecipar tendências, personalizar a experiência do cliente e operar com máxima eficiência. A IA é uma tecnologia fundamental que continuará a moldar o setor, impulsionando inovação e competitividade.</p>
+<p>Investir nessa sinergia significa construir um modelo de negócio mais eficiente, rentável e adaptável. A tecnologia potencializa o talento humano, permitindo que as equipes se concentrem em atividades de maior valor agregado, criatividade e inovação. A colaboração entre humanos e IA é a chave para desbloquear o potencial do setor imobiliário, criando valor e garantindo crescimento sustentável.</p>
+<h2>Conclusão</h2>
+<p>A integração de sistemas ERP e CRM, como Sienge e Senior, com a Inteligência Artificial representa um salto qualitativo na gestão de incorporadoras. Essa sinergia proporciona centralização de dados, automação inteligente e capacidade analítica para decisões estratégicas. Os benefícios são claros: maior eficiência operacional, redução de custos, personalização da experiência do cliente e aumento da competitividade e rentabilidade. Incorporadoras que investem nessa integração estão pavimentando o caminho para um futuro mais inteligente e próspero no dinâmico mercado imobiliário brasileiro, garantindo sua relevância e sucesso a longo prazo.</p>
+<h2>Referências</h2>
+<p>[1] CBIC. Mercado imobiliário fechou quarto trimestre de 2025 com recordes em lançamentos e vendas. Disponível em: <a href="https://cbic.org.br/mercado-imobiliario-fechou-quarto-trimestre-de-2025-com-recordes-em-lancamentos-e-vendas/">https://cbic.org.br/mercado-imobiliario-fechou-quarto-trimestre-de-2025-com-recordes-em-lancamentos-e-vendas/</a>. Acesso em: 19 abr. 2026.
+[2] Sienge. Guia de Inteligência Artificial para a Gestão de Construtoras. Disponível em: <a href="https://sienge.com.br/inteligencia-artificial-para-construtoras-guia/">https://sienge.com.br/inteligencia-artificial-para-construtoras-guia/</a>. Acesso em: 19 abr. 2026.
+[3] Senior Sistemas. Sistema ERP para Construção. Disponível em: <a href="https://site.senior.com.br/construcao/">https://site.senior.com.br/construcao/</a>. Acesso em: 19 abr. 2026.
+[4] CV CRM. CV + Sienge: integre ERP e CRM para uma jornada completa. Disponível em: <a href="https://cvcrm.com.br/integracao/sienge/">https://cvcrm.com.br/integracao/sienge/</a>. Acesso em: 19 abr. 2026.
+[5] Antier Solutions. Como a IA se integra aos sistemas empresariais: ERPs, CRMs e APIs. Disponível em: <a href="https://antiersolutions.com/pt/Blogs/Como-a-IA-se-integra-aos-sistemas-empresariais-ERP--CRM-e-APIs/">https://antiersolutions.com/pt/Blogs/Como-a-IA-se-integra-aos-sistemas-empresariais-ERP--CRM-e-APIs/</a>. Acesso em: 19 abr. 2026.
+[6] Ofertaterreno. Inteligência Artificial na Incorporação Imobiliária. Disponível em: <a href="https://www.ofertaterreno.com.br/blog/inteligencia-artificial-na-incorporacao-imobiliaria-como-a-ia-revoluciona-analises-de-viabilidade-para-incorporadoras/">https://www.ofertaterreno.com.br/blog/inteligencia-artificial-na-incorporacao-imobiliaria-como-a-ia-revoluciona-analises-de-viabilidade-para-incorporadoras/</a>. Acesso em: 19 abr. 2026.
+[7] Sienge. IA para prospecção de clientes no mercado imobiliário. Disponível em: <a href="https://sienge.com.br/blog/ia-para-prospeccao-de-clientes-mercado-imobiliario/">https://sienge.com.br/blog/ia-para-prospeccao-de-clientes-mercado-imobiliario/</a>. Acesso em: 19 abr. 2026.
+[8] Senior Sistemas. Inteligência artificial na construção civil: a redefinição de. Disponível em: <a href="https://www.senior.com.br/blog/inteligencia-artificial-na-construcao">https://www.senior.com.br/blog/inteligencia-artificial-na-construcao</a>. Acesso em: 19 abr. 2026.
+[9] Paggo. Inteligência Artificial na Gestão Financeira: Otimização para Incorporadoras e Construtoras. Disponível em: <a href="https://www.paggo.com.br/blog/artigos/intelig%C3%AAncia-artificial-na-gest%C3%A3o-financeira-otimiza%C3%A7%C3%A3o-para-incorporadoras-e-construtoras">https://www.paggo.com.br/blog/artigos/intelig%C3%AAncia-artificial-na-gest%C3%A3o-financeira-otimiza%C3%A7%C3%A3o-para-incorporadoras-e-construtoras</a>. Acesso em: 19 abr. 2026).</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://cbic.org.br/mercado-imobiliario-fechou-quarto-trimestre-de-2025-com-recordes-em-lancamentos-e-vendas/" target="_blank" rel="noopener">Mercado imobiliário fechou quarto trimestre de 2025 com recordes em lançamentos e vendas</a></li>
+<li><a href="https://sienge.com.br/inteligencia-artificial-para-construtoras-guia/" target="_blank" rel="noopener">Guia de Inteligência Artificial para a Gestão de Construtoras</a></li>
+<li><a href="https://site.senior.com.br/construcao/" target="_blank" rel="noopener">Sistema ERP para Construção</a></li>
+<li><a href="https://cvcrm.com.br/integracao/sienge/" target="_blank" rel="noopener">CV + Sienge: integre ERP e CRM para uma jornada completa</a></li>
+<li><a href="https://antiersolutions.com/pt/Blogs/Como-a-IA-se-integra-aos-sistemas-empresariais-ERP--CRM-e-APIs/" target="_blank" rel="noopener">Como a IA se integra aos sistemas empresariais: ERPs, CRMs e APIs</a></li>
+<li><a href="https://www.ofertaterreno.com.br/blog/inteligencia-artificial-na-incorporacao-imobiliaria-como-a-ia-revoluciona-analises-de-viabilidade-para-incorporadoras/" target="_blank" rel="noopener">Inteligência Artificial na Incorporação Imobiliária</a></li>
+<li><a href="https://sienge.com.br/blog/ia-para-prospeccao-de-clientes-mercado-imobiliario/" target="_blank" rel="noopener">IA para prospecção de clientes no mercado imobiliário</a></li>
+<li><a href="https://www.senior.com.br/blog/inteligencia-artificial-na-construcao" target="_blank" rel="noopener">Inteligência artificial na construção civil: a redefinição de</a></li>
+<li><a href="https://www.paggo.com.br/blog/artigos/intelig%C3%AAncia-artificial-na-gest%C3%A3o-financeira-otimiza%C3%A7%C3%A3o-para-incorporadoras-e-construtoras" target="_blank" rel="noopener">Inteligência Artificial na Gestão Financeira: Otimização para Incorporadoras e Construtoras</a></li></ol></div>
+    <div class="cta-box">
+        <h3>Veja a Credituz na prática</h3>
+        <p>A plataforma com IA que atende, qualifica e fecha do lead à entrega das chaves.</p>
+        <a href="../../index.html" class="cta-btn">Conhecer a plataforma →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+</body>
+</html>

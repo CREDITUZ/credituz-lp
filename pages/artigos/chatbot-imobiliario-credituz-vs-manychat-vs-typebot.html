@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chatbot imobiliário: Credituz vs ManyChat vs Typebot — qual converte mais? · Credituz</title>
+<meta name="description" content="Descubra qual chatbot imobiliário oferece maior conversão: Credituz, ManyChat ou Typebot. Análise de funcionalidades, IA especializada e impacto no mercado imobiliário.">
+<link rel="canonical" href="https://www.credituz.credit/blog/chatbot-imobiliario-credituz-vs-manychat-vs-typebot">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Chatbot imobiliário: Credituz vs ManyChat vs Typebot — qual converte mais?">
+<meta property="og:description" content="Descubra qual chatbot imobiliário oferece maior conversão: Credituz, ManyChat ou Typebot. Análise de funcionalidades, IA especializada e impacto no mercado imobiliário.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+    --ink: #1a1a1a; --paper: #fafaf7; --paper-warm: #f3f1ea;
+    --gray-1: #2e2e2e; --gray-2: #595959; --gray-3: #8a8a8a;
+    --gray-soft: #e4e1d8; --lime: #c4f352; --lime-deep: #9bbf3a; --rust: #c1502e;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:'Newsreader',Georgia,serif; font-size:20px; line-height:1.7; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(250,250,247,0.85); backdrop-filter:blur(12px); border-bottom:1px solid var(--gray-soft); z-index:50; }
+.nav-inner { max-width:720px; margin:0 auto; padding:16px 24px; display:flex; align-items:center; justify-content:space-between; }
+.logo { font-family:'Fraunces',serif; font-size:20px; font-weight:600; color:var(--ink); text-decoration:none; display:inline-flex; align-items:baseline; gap:3px; }
+.logo-dot { width:7px; height:7px; background:var(--lime); border-radius:50%; display:inline-block; }
+.nav-back { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:28px; font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-3); }
+.article-cat { background:var(--ink); color:var(--paper); padding:5px 12px; border-radius:100px; }
+.article h1.title { font-family:'Fraunces',serif; font-size:clamp(32px,5vw,46px); font-weight:600; line-height:1.12; letter-spacing:-0.02em; margin-bottom:20px; }
+.article-sub { font-size:23px; line-height:1.5; color:var(--gray-2); font-style:italic; margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:var(--ink); display:flex; align-items:center; justify-content:center; font-family:'Fraunces',serif; font-weight:600; font-size:18px; }
+.author-info { font-family:'JetBrains Mono',monospace; font-size:12px; line-height:1.5; color:var(--gray-2); text-transform:uppercase; letter-spacing:0.04em; }
+.author-info strong { color:var(--ink); font-weight:500; display:block; }
+.body { font-size:20px; }
+.body h2 { font-family:'Fraunces',serif; font-size:30px; font-weight:600; line-height:1.2; letter-spacing:-0.015em; margin:48px 0 18px; }
+.body h3 { font-family:'Fraunces',serif; font-size:24px; font-weight:500; line-height:1.25; margin:36px 0 14px; }
+.body h4 { font-family:'JetBrains Mono',monospace; font-size:14px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--rust); text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--ink); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:italic; }
+.body blockquote { border-left:3px solid var(--lime); padding:4px 0 4px 24px; margin:0 0 24px; font-style:italic; color:var(--gray-1); }
+.body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:4px; }
+.body pre { background:var(--ink); color:var(--paper); padding:20px; border-radius:12px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-family:'Newsreader',serif; font-size:17px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.04em; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:12px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-family:'JetBrains Mono',monospace; font-size:13px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); font-family:'Newsreader',serif; }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--rust); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:var(--paper); border-radius:24px; padding:40px; text-align:center; }
+.cta-box h3 { font-family:'Fraunces',serif; font-size:28px; font-weight:500; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:rgba(250,250,247,0.7); margin-bottom:24px; font-family:'Newsreader',serif; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:var(--ink); padding:15px 32px; border-radius:100px; font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:500; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; transition:transform 0.15s; }
+.cta-btn:hover { transform:translateY(-2px); }
+.footer { border-top:1px solid var(--gray-soft); padding:40px 24px; text-align:center; font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--gray-3); text-transform:uppercase; letter-spacing:0.06em; }
+.footer a { color:var(--gray-2); text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:20px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:25px; }
+    .cta-box { padding:28px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo">Credituz<span class="logo-dot"></span></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Tecnologia &amp; IA</span>
+        <span>19 abr 2026</span>
+        <span>9 min</span>
+    </div>
+    <h1 class="title">Chatbot imobiliário: Credituz vs ManyChat vs Typebot — qual converte mais?</h1>
+    <p class="article-sub">Análise comparativa de plataformas de IA para o mercado imobiliário e crédito: Credituz, ManyChat e Typebot.</p>
+    <div class="article-author">
+        <div class="author-avatar">E</div>
+        <div class="author-info"><strong>Equipe Credituz</strong>Equipe Editorial</div>
+    </div>
+    <div class="body">
+<p>O mercado imobiliário brasileiro busca inovações para otimizar processos, melhorar a experiência do cliente e aumentar a conversão. Chatbots imobiliários surgem como ferramentas poderosas, transformando a interação com leads e clientes. A automação do atendimento, qualificação de potenciais compradores e agilidade na resposta são benefícios chave [1].</p>
+<p>Este artigo compara <strong>Credituz</strong>, <strong>ManyChat</strong> e <strong>Typebot</strong> para identificar qual plataforma oferece o maior potencial de conversão no setor imobiliário. Analisaremos funcionalidades, integrações e abordagens específicas, auxiliando profissionais e empresas a tomar decisões estratégicas.</p>
+<h2>Credituz: A Inteligência Artificial Completa para o Setor Imobiliário</h2>
+<p>A Credituz é uma plataforma <strong>AI-First</strong> desenvolvida para as demandas do mercado imobiliário e de crédito. Sua inovação reside na orquestração de um time de <strong>agentes de IA especializados</strong>, cobrindo toda a jornada do cliente, do primeiro contato à aprovação do financiamento [2].</p>
+<p>Os agentes da Credituz incluem:</p>
+<ol>
+<li><strong>Sofia (Agente SDR):</strong> Qualifica leads 24/7, aplicando scoring inteligente e agendando visitas. Garante que nenhum lead seja perdido e que a equipe de vendas receba leads super qualificados.</li>
+<li><strong>Carlos (Agente de Crédito):</strong> Simula financiamento multibanco em menos de 30 segundos, analisando o perfil de crédito e indicando a melhor opção. Essencial para destravar vendas e oferecer clareza financeira imediata.</li>
+<li><strong>Ana (Agente Comercial):</strong> Gera propostas, contratos e coordena a assinatura digital com um clique, eliminando burocracia e acelerando o fechamento de negócios.</li>
+<li><strong>Max (Agente Operacional):</strong> Resolve dúvidas, acompanha status de processos e mantém clientes e equipe informados em tempo real, garantindo uma experiência pós-venda fluida.</li>
+<li><strong>Iris (Agente de Analytics):</strong> Analisa dados de campanhas, pipeline e mercado para gerar recomendações estratégicas, otimizar investimentos e identificar oportunidades de crescimento.</li>
+</ol>
+<p>O diferencial da Credituz é sua <strong>plataforma unificada</strong>, centralizando atendimento, gestão, crédito, financeiro e dados. Isso elimina a necessidade de múltiplas ferramentas e integrações frágeis, proporcionando uma visão 360° da operação. Os resultados são expressivos: <strong>aumento médio de 225% na conversão</strong>, 80% de redução no tempo de fechamento e 98% de satisfação dos clientes [2]. Esses dados demonstram o impacto direto da IA especializada na eficiência e rentabilidade do negócio imobiliário.</p>
+<h2>ManyChat: Automação Conversacional para Marketing Imobiliário</h2>
+<p>O ManyChat é uma plataforma popular de automação conversacional para marketing e vendas, focada em redes sociais como Facebook Messenger, Instagram Direct e WhatsApp. Simplifica a criação de fluxos de conversa para engajar leads e clientes automaticamente [3].</p>
+<p>Funcionalidades do ManyChat:</p>
+<ul>
+<li><strong>Automação de Mensagens:</strong> Criação de sequências para nutrição de leads, respostas a perguntas frequentes e envio de informações sobre imóveis.</li>
+<li><strong>Qualificação de Leads:</strong> Perguntas interativas para coletar dados e segmentar leads por interesse.</li>
+<li><strong>Agendamento de Visitas:</strong> Integração com ferramentas de calendário para agendar visitas diretamente pelo chatbot.</li>
+<li><strong>Templates Prontos:</strong> Biblioteca de templates para criação rápida de chatbots, incluindo para o setor imobiliário.</li>
+<li><strong>Integrações:</strong> Conecta-se a CRMs populares e outras ferramentas de marketing.</li>
+</ul>
+<p>O ManyChat se destaca pela <strong>facilidade de uso</strong> e interface intuitiva, acessível a usuários sem conhecimento técnico. É ideal para otimizar a comunicação em mídias sociais e automatizar o primeiro contato. Contudo, suas <strong>limitações</strong> surgem em comparação com soluções especializadas. Funcionalidades como simulação de crédito multibanco, gestão de contratos e ERP financeiro não são nativas, exigindo integrações complexas ou outras ferramentas, o que pode fragmentar a operação e gerar custos adicionais.</p>
+<h2>Typebot: Chatbots Interativos e Personalizáveis</h2>
+<p>O Typebot é uma plataforma <strong>no-code</strong> para criação de chatbots avançados e formulários conversacionais altamente interativos e personalizáveis. Sua flexibilidade permite construir experiências de conversação únicas [4].</p>
+<p>Funcionalidades do Typebot:</p>
+<ul>
+<li><strong>Personalização de Fluxo:</strong> Criação de fluxos de conversa complexos com lógica condicional, variáveis e integrações dinâmicas.</li>
+<li><strong>Integração com Diversas Plataformas:</strong> Pode ser integrado a websites, aplicativos de mensagens (via API) e outras ferramentas via webhooks e APIs.</li>
+<li><strong>Self-Hosting:</strong> Opção de auto-hospedagem para maior controle sobre dados e infraestrutura, ideal para requisitos de segurança e privacidade.</li>
+<li><strong>Formulários Conversacionais:</strong> Transforma formulários tradicionais em conversas interativas, melhorando a taxa de preenchimento.</li>
+</ul>
+<p>O Typebot é poderoso para quem busca <strong>flexibilidade e controle total</strong>. Ideal para empresas com equipes de desenvolvimento ou que desejam soluções altamente customizadas. Para o mercado imobiliário, a necessidade de maior customização para demandas específicas (simulação de crédito, gestão de documentos) pode ser um desafio. Embora possível, exigiria maior esforço de desenvolvimento e integração do que plataformas especializadas como a Credituz.</p>
+<h2>Tabela Comparativa: Credituz vs ManyChat vs Typebot</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Característica / Plataforma</th>
+<th style="text-align: left;">Credituz</th>
+<th style="text-align: left;">ManyChat</th>
+<th style="text-align: left;">Typebot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Foco Principal</strong></td>
+<td style="text-align: left;">IA completa para imobiliárias (atendimento, crédito, gestão)</td>
+<td style="text-align: left;">Marketing conversacional (redes sociais)</td>
+<td style="text-align: left;">Chatbots interativos e formulários (no-code)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Qualificação de Leads</strong></td>
+<td style="text-align: left;">Agente SDR (Sofia) com scoring inteligente e agendamento automático</td>
+<td style="text-align: left;">Automação de mensagens, segmentação</td>
+<td style="text-align: left;">Fluxos personalizados, coleta de dados</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Simulação de Crédito</strong></td>
+<td style="text-align: left;">Agente de Crédito (Carlos) com simulação multibanco em &lt;30s</td>
+<td style="text-align: left;">Não nativo, possível via integrações complexas</td>
+<td style="text-align: left;">Não nativo, possível via customização</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Gestão de Contratos</strong></td>
+<td style="text-align: left;">Agente Comercial (Ana) com geração e assinatura digital</td>
+<td style="text-align: left;">Não nativo</td>
+<td style="text-align: left;">Não nativo, possível via customização</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Integração com CRM/ERP</strong></td>
+<td style="text-align: left;">Plataforma unificada (CRM, ERP, financeiro)</td>
+<td style="text-align: left;">Integrações com CRMs populares</td>
+<td style="text-align: left;">Integrações via API/webhooks</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Automação Multicanal</strong></td>
+<td style="text-align: left;">WhatsApp, email, SMS, portais imobiliários</td>
+<td style="text-align: left;">Facebook Messenger, Instagram Direct, WhatsApp, SMS</td>
+<td style="text-align: left;">Diversas plataformas via integração</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Insights e Analytics</strong></td>
+<td style="text-align: left;">Agente de Analytics (Iris) com forecast de vendas e otimização de campanhas</td>
+<td style="text-align: left;">Relatórios básicos de performance</td>
+<td style="text-align: left;">Coleta de dados para análise externa</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Facilidade de Uso</strong></td>
+<td style="text-align: left;">Alta (agentes especializados)</td>
+<td style="text-align: left;">Alta (interface intuitiva, templates)</td>
+<td style="text-align: left;">Média (requer mais customização para complexidade)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Custo</strong></td>
+<td style="text-align: left;">Variável por plano e funcionalidades</td>
+<td style="text-align: left;">Variável por volume de contatos e funcionalidades</td>
+<td style="text-align: left;">Variável por uso e self-hosting</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Mercado-Alvo</strong></td>
+<td style="text-align: left;">Incorporadoras, imobiliárias, loteadoras, corretores</td>
+<td style="text-align: left;">Pequenas e médias empresas, e-commerce</td>
+<td style="text-align: left;">Desenvolvedores, empresas com necessidades específicas</td>
+</tr>
+</tbody>
+</table>
+<h2>Otimizando a Conversão: Qual Escolher para o Seu Negócio Imobiliário?</h2>
+<p>A escolha da plataforma ideal depende dos seus objetivos e da complexidade das operações. Para <strong>marketing conversacional</strong> e engajamento em redes sociais, ManyChat é amigável e eficiente para o primeiro contato e qualificação básica. Typebot, com sua flexibilidade, é para quem precisa de <strong>fluxos de conversa altamente customizados</strong> e tem recursos para desenvolvê-los.</p>
+<p>No entanto, para <strong>otimizar a conversão de forma abrangente</strong> e integrar todas as etapas da jornada do cliente imobiliário, a <strong>Credituz se destaca</strong>. Sua abordagem <strong>IA-First</strong> com agentes especializados oferece automação mais profunda e inteligente. A capacidade de simular crédito em segundos, gerenciar contratos e fornecer insights de analytics em tempo real impactam diretamente a taxa de conversão e a eficiência operacional, algo que plataformas genéricas não entregam nativamente. Um estudo da Thunderbit [5] aponta que leads nutridos por chatbots de IA convertem 12% mais do que formulários tradicionais, reforçando o potencial de soluções como a Credituz.</p>
+<h2>Conclusão: A Credituz como Catalisador de Vendas e Eficiência</h2>
+<p>Em um mercado competitivo, responder rapidamente, qualificar leads com precisão e agilizar processos de crédito e contratação é crucial. A Credituz, ManyChat e Typebot oferecem benefícios, mas a <strong>Credituz se sobressai como a solução mais completa e especializada para o setor imobiliário</strong>.</p>
+<p>Seus agentes de IA automatizam tarefas e atuam como um time coeso, otimizando cada ponto de contato com o cliente, resultando em aumento comprovado da conversão e redução drástica no tempo de fechamento. A Credituz não é apenas um chatbot; é uma plataforma inteligente que integra atendimento, gestão, crédito e analytics, proporcionando uma vantagem competitiva inegável.</p>
+<p>Descubra como a Credituz pode transformar suas vendas e otimizar sua operação. <strong>Solicite uma demonstração hoje mesmo</strong> e veja seus agentes de IA em ação.</p>
+<h2>Perguntas Frequentes (FAQ)</h2>
+<h3>1. O que é um chatbot imobiliário e como ele pode aumentar minhas vendas?</h3>
+<p>Um chatbot imobiliário é um programa de computador que simula e processa conversas humanas (escritas ou faladas), permitindo a interação com usuários através de mensagens de texto ou voz. No setor imobiliário, ele pode automatizar o atendimento, qualificar leads, agendar visitas, responder a perguntas frequentes e até mesmo simular financiamentos, liberando a equipe de vendas para focar em negociações mais complexas e, consequentemente, aumentando as vendas e a eficiência operacional.</p>
+<h3>2. Qual a principal diferença entre a Credituz e outras plataformas de chatbot genéricas?</h3>
+<p>Enquanto plataformas genéricas como ManyChat e Typebot oferecem ferramentas robustas para automação conversacional e criação de fluxos, a Credituz se diferencia por ser uma solução AI-First <strong>especificamente desenvolvida para o mercado imobiliário</strong>. Ela não oferece apenas um chatbot, mas um time de agentes de IA especializados (SDR, Crédito, Comercial, Operacional, Analytics) que atuam de forma integrada em todas as etapas da jornada do cliente, desde a qualificação do lead até a aprovação do financiamento e gestão de contratos. Isso resulta em uma automação muito mais profunda e resultados de conversão significativamente superiores, como o aumento médio de 225% na conversão de leads [2].</p>
+<h3>3. Como a Credituz garante a conformidade com a LGPD e a segurança dos dados dos clientes?</h3>
+<p>A Credituz opera em total conformidade com a Lei Geral de Proteção de Dados (LGPD) e outras regulamentações de privacidade. A plataforma implementa rigorosas medidas de segurança para proteger os dados dos clientes, incluindo criptografia, controle de acesso baseado em funções e auditorias regulares. Além disso, todos os dados são armazenados em infraestruturas seguras e processados de acordo com as melhores práticas de mercado, garantindo a confidencialidade e integridade das informações. A transparência no uso dos dados é um pilar fundamental da Credituz, e os usuários têm controle total sobre suas informações.</p>
+<h2>Referências</h2>
+<p>[1] Botpress. Como usar chatbots de IA para o mercado imobiliário (2026). Disponível em: <a href="https://botpress.com/pt/blog/chatbot-for-real-estate">https://botpress.com/pt/blog/chatbot-for-real-estate</a>. Acesso em: 20 abr. 2026.
+[2] Credituz AI. AI-First Real Estate | Crédito Imobiliário com IA. Disponível em: <a href="https://www.credituz.ai/">https://www.credituz.ai/</a>. Acesso em: 20 abr. 2026.
+[3] ManyChat. Chat Marketing Made Easy with Manychat. Disponível em: <a href="https://manychat.com/">https://manychat.com/</a>. Acesso em: 20 abr. 2026.
+[4] Typebot. Build Interactive Chat Forms with Typebot. Disponível em: <a href="https://typebot.com/">https://typebot.com/</a>. Acesso em: 20 abr. 2026.
+[5] Thunderbit. Estatísticas e Números de Chatbots de IA em 2026. Disponível em: <a href="https://thunderbit.com/pt/blog/ai-chatbot-stats">https://thunderbit.com/pt/blog/ai-chatbot-stats</a>. Acesso em: 20 abr. 2026.</p>
+    </div>
+    
+    <div class="cta-box">
+        <h3>Veja a Credituz na prática</h3>
+        <p>A plataforma com IA que atende, qualifica e fecha do lead à entrega das chaves.</p>
+        <a href="../../index.html" class="cta-btn">Conhecer a plataforma →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+</body>
+</html>
