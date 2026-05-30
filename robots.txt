@@ -15,4 +15,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://www.credituz.ai/sitemap.xml
+Sitemap: https://www.credituz.credit/sitemap.xml
