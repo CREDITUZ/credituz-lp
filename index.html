@@ -3654,6 +3654,69 @@ footer {
     .wa-bubble::before { animation: none; }
     .wa-bubble, .wa-bubble:hover, .wa-bubble:active { transition: none; transform: none; }
 }
+
+/* ============================================================
+   HERO RESPONSIVO (consolidado) — garante título, subtítulo,
+   os dois botões e o chat já na primeira tela em qualquer aparelho.
+   Vem por último para vencer as media queries anteriores.
+   ============================================================ */
+@media (max-width: 900px) {
+    .hero {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: stretch !important;
+        gap: 18px !important;
+        padding: 88px 20px 40px !important;
+    }
+    .hero-content { display: flex; flex-direction: column; gap: 14px; }
+    .hero-tag { margin: 0 !important; align-self: flex-start; }
+    .hero-title { margin: 0 !important; line-height: 1.04 !important; }
+    .hero-sub { margin: 0 !important; line-height: 1.45 !important; }
+    /* stats saem da primeira dobra para priorizar CTAs + chat */
+    .hero-ttv { display: none !important; }
+    .hero-meta { margin: 0 !important; }
+    .hero-actions {
+        flex-direction: row !important;
+        flex-wrap: wrap;
+        gap: 10px !important;
+        margin: 2px 0 0 !important;
+    }
+    .hero-actions .btn-primary,
+    .hero-actions .btn-secondary {
+        flex: 1 1 auto;
+        justify-content: center;
+        white-space: nowrap;
+    }
+    .hero-widget {
+        transform: none !important;
+        margin: 0 auto !important;
+        max-width: 100% !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero { padding: 80px 18px 36px !important; gap: 16px !important; }
+    .hero-title { font-size: clamp(28px, 8vw, 42px) !important; }
+    .hero-sub { font-size: 15px !important; }
+    .hero-meta { display: none !important; }
+    .hero-actions .btn-primary,
+    .hero-actions .btn-secondary { padding: 12px 14px !important; font-size: 14px !important; }
+    /* chat compacto para caber na primeira tela */
+    .hero-widget { padding: 16px !important; border-radius: 18px !important; }
+    .hero-widget .msg { font-size: 13px !important; padding: 8px 12px !important; margin-bottom: 8px !important; }
+    .hero-widget .widget-card { padding: 12px !important; }
+    .hero-widget .widget-card-row { font-size: 12.5px !important; }
+}
+
+@media (max-width: 400px) {
+    .hero { padding: 76px 14px 32px !important; gap: 14px !important; }
+    .hero-title { font-size: 27px !important; }
+    .hero-sub { font-size: 14px !important; }
+    .hero-actions { gap: 8px !important; }
+    .hero-actions .btn-primary,
+    .hero-actions .btn-secondary { padding: 11px 10px !important; font-size: 13px !important; }
+    .hero-widget { padding: 14px !important; }
+}
 </style>
 </head>
 <body id="top">
@@ -3705,7 +3768,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
         <a href="https://wa.me/5511936201544" class="btn-secondary" target="_blank" rel="noopener" data-track="cta_hero_demo">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-            Ver demo
+            Fale com um especialista
         </a>
     </div>
     <div class="hero-meta">Plano Free permanente · sem cartão · 20% off no plano anual</div>
