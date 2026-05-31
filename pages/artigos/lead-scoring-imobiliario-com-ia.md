@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/lead-scoring-imobiliario-com-ia.html
+- Canonical: https://www.credituz.ai/pages/artigos/lead-scoring-imobiliario-com-ia.html
 
 ---
 
