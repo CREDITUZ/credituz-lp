@@ -4,7 +4,7 @@
 
 - Categoria: Jurídico
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.html
+- Canonical: https://www.credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.html
 
 ---
 

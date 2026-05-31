@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/gestao-financeira-construtora-fluxo-caixa-dre-ia.html
+- Canonical: https://www.credituz.ai/pages/artigos/gestao-financeira-construtora-fluxo-caixa-dre-ia.html
 
 ---
 

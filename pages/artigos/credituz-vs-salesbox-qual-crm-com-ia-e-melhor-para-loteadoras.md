@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/credituz-vs-salesbox-qual-crm-com-ia-e-melhor-para-loteadoras.html
+- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-salesbox-qual-crm-com-ia-e-melhor-para-loteadoras.html
 
 ---
 

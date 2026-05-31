@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/escritorio-advocacia-imobiliaria-ia-reduz-tempo-due-diligence-70.html
+- Canonical: https://www.credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-reduz-tempo-due-diligence-70.html
 
 ---
 

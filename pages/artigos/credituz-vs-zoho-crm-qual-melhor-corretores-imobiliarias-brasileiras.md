@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.html
+- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.html
 
 ---
 

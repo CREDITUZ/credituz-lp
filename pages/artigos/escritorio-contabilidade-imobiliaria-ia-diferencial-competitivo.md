@@ -4,7 +4,7 @@
 
 - Categoria: Contabilidade
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/escritorio-contabilidade-imobiliaria-ia-diferencial-competitivo.html
+- Canonical: https://www.credituz.ai/pages/artigos/escritorio-contabilidade-imobiliaria-ia-diferencial-competitivo.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.html
+- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.html
 
 ---
 

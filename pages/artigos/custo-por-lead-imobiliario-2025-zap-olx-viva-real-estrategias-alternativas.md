@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
+- Canonical: https://www.credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
 
 ---
 

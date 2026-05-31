@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.html
+- Canonical: https://www.credituz.ai/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.html
 
 ---
 

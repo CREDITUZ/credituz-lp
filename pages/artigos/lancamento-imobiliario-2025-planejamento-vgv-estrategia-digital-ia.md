@@ -4,7 +4,7 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
+- Canonical: https://www.credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: CRM & Vendas
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.html
+- Canonical: https://www.credituz.ai/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.html
 
 ---
 

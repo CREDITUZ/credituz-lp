@@ -4,7 +4,7 @@
 
 - Categoria: Contabilidade
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/ia-contadores-analise-credito-due-diligence.html
+- Canonical: https://www.credituz.ai/pages/artigos/ia-contadores-analise-credito-due-diligence.html
 
 ---
 

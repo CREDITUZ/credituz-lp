@@ -4,7 +4,7 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.html
+- Canonical: https://www.credituz.ai/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.html
 
 ---
 

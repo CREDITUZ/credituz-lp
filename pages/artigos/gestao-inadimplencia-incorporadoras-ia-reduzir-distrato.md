@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/gestao-inadimplencia-incorporadoras-ia-reduzir-distrato.html
+- Canonical: https://www.credituz.ai/pages/artigos/gestao-inadimplencia-incorporadoras-ia-reduzir-distrato.html
 
 ---
 

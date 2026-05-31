@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.html
+- Canonical: https://www.credituz.ai/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.html
 
 ---
 

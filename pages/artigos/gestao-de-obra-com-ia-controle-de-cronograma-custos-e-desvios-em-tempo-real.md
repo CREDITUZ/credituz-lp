@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.html
+- Canonical: https://www.credituz.ai/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.html
 
 ---
 

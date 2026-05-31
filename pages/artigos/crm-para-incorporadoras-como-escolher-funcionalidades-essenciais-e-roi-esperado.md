@@ -4,7 +4,7 @@
 
 - Categoria: CRM & Vendas
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.html
+- Canonical: https://www.credituz.ai/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.html
 
 ---
 

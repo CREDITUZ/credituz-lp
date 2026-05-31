@@ -4,7 +4,7 @@
 
 - Categoria: Jurídico
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.html
+- Canonical: https://www.credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.html
 
 ---
 
