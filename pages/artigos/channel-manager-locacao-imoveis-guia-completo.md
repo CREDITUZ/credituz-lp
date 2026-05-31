@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/channel-manager-locacao-imoveis-guia-completo.html
+- Canonical: https://www.credituz.ai/pages/artigos/channel-manager-locacao-imoveis-guia-completo.html
 
 ---
 

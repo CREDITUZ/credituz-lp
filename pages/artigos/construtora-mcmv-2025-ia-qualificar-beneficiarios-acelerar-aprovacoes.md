@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.html
+- Canonical: https://www.credituz.ai/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/corban-fgts-ia-simuladores-conversao.html
+- Canonical: https://www.credituz.ai/pages/artigos/corban-fgts-ia-simuladores-conversao.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/corretor-ia-vendas-2025.html
+- Canonical: https://www.credituz.ai/pages/artigos/corretor-ia-vendas-2025.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.html
+- Canonical: https://www.credituz.ai/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.html
 
 ---
 

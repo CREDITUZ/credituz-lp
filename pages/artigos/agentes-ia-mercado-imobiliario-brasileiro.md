@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/agentes-ia-mercado-imobiliario-brasileiro.html
+- Canonical: https://www.credituz.ai/pages/artigos/agentes-ia-mercado-imobiliario-brasileiro.html
 
 ---
 

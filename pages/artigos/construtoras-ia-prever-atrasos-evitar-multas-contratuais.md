@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/construtoras-ia-prever-atrasos-evitar-multas-contratuais.html
+- Canonical: https://www.credituz.ai/pages/artigos/construtoras-ia-prever-atrasos-evitar-multas-contratuais.html
 
 ---
 

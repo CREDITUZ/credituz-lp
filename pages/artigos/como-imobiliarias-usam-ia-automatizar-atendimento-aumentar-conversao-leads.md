@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.html
+- Canonical: https://www.credituz.ai/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Jurídico
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/compliance-imobiliario-advogados-lgpd-bacen-credito.html
+- Canonical: https://www.credituz.ai/pages/artigos/compliance-imobiliario-advogados-lgpd-bacen-credito.html
 
 ---
 

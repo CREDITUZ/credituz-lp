@@ -4,7 +4,7 @@
 
 - Categoria: Carreira
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.html
+- Canonical: https://www.credituz.ai/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.html
 
 ---
 

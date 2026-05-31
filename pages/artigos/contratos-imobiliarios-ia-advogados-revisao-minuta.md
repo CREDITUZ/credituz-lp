@@ -4,7 +4,7 @@
 
 - Categoria: Jurídico
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/contratos-imobiliarios-ia-advogados-revisao-minuta.html
+- Canonical: https://www.credituz.ai/pages/artigos/contratos-imobiliarios-ia-advogados-revisao-minuta.html
 
 ---
 

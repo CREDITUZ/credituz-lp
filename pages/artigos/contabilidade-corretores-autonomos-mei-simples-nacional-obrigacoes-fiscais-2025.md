@@ -4,7 +4,7 @@
 
 - Categoria: Contabilidade
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.html
+- Canonical: https://www.credituz.ai/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.html
 
 ---
 

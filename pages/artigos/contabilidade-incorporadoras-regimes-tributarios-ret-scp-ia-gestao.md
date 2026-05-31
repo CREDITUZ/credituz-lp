@@ -4,7 +4,7 @@
 
 - Categoria: Contabilidade
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/contabilidade-incorporadoras-regimes-tributarios-ret-scp-ia-gestao.html
+- Canonical: https://www.credituz.ai/pages/artigos/contabilidade-incorporadoras-regimes-tributarios-ret-scp-ia-gestao.html
 
 ---
 

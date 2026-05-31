@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.html
+- Canonical: https://www.credituz.ai/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.html
+- Canonical: https://www.credituz.ai/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.html
 
 ---
 

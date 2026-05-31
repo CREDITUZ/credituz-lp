@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.html
+- Canonical: https://www.credituz.ai/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.html
 
 ---
 

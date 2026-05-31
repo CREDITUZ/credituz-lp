@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
+- Canonical: https://www.credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
 
 ---
 

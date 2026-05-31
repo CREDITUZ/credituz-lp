@@ -4,7 +4,7 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/como-calcular-vgv-empreendimento-imobiliario-usar-ia-maximiza-lo.html
+- Canonical: https://www.credituz.ai/pages/artigos/como-calcular-vgv-empreendimento-imobiliario-usar-ia-maximiza-lo.html
 
 ---
 

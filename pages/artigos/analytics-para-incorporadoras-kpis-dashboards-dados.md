@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/analytics-para-incorporadoras-kpis-dashboards-dados.html
+- Canonical: https://www.credituz.ai/pages/artigos/analytics-para-incorporadoras-kpis-dashboards-dados.html
 
 ---
 
