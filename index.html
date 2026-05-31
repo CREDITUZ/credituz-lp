@@ -239,6 +239,15 @@ h1.hero-title .underline-wrap::after {
     background: linear-gradient(to top, var(--lime) 0.30em, transparent 0.30em);
 }
 
+.hero-lead {
+    font-size: clamp(18px, 2vw, 22px);
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    margin-bottom: 18px;
+}
+
 .hero-sub {
     font-size: 18px;
     line-height: 1.5;
@@ -3665,6 +3674,7 @@ footer {
     .hero-content { display: flex; flex-direction: column; gap: 14px; }
     .hero-tag { margin: 0 !important; align-self: flex-start; }
     .hero-title { margin: 0 !important; line-height: 1.04 !important; }
+    .hero-lead { margin: 0 !important; font-size: 16px !important; }
     .hero-sub { margin: 0 !important; line-height: 1.45 !important; }
     /* stats saem da primeira dobra para priorizar CTAs + chat */
     .hero-ttv { display: none !important; }
@@ -3747,6 +3757,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h1 class="hero-title" id="heroTitle">
         Mais negócios fechados. <span class="underline-wrap">Menos tempo perdido</span>.
     </h1>
+    <p class="hero-lead">O sistema mais completo para o setor imobiliário.</p>
     <p class="hero-sub" id="heroSub">
         Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança em um fluxo só. Sua equipe focada em fechar a venda.
     </p>
