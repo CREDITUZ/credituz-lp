@@ -239,6 +239,12 @@ h1.hero-title .underline-wrap::after {
     transform: skewX(-2deg);
 }
 
+/* Garante que o destaque lime apareça também fora do hero (ex.: seção A solução) */
+#produto h2 .underline-wrap::after { display: none; }
+#produto h2 .underline-wrap {
+    background: linear-gradient(to top, var(--lime) 0.30em, transparent 0.30em);
+}
+
 .hero-sub {
     font-size: 19px;
     line-height: 1.5;
@@ -3759,7 +3765,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- FEATURES -->
 <section id="produto">
     <div class="section-tag">A solução</div>
-    <h2>Cinco coisas que <em>nenhum ERP imobiliário</em> faz.</h2>
+    <h2>Cinco coisas que <em>nenhum ERP imobiliário</em> faz. A Credituz <span class="underline-wrap">faz todas</span>.</h2>
 
     <div class="features-grid">
         <div class="feature large">
@@ -4352,6 +4358,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>Simulação multi-banco ilimitada</span></li>
                 <li><span>3 contratos com IA/mês</span></li>
                 <li><span>Originação de crédito ativa</span></li>
+                <li><span>1 GB de armazenamento</span></li>
             </ul>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_free">Começar grátis</a>
         </div>
@@ -4369,6 +4376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>SDR AI no WhatsApp · até 30 leads/mês</span></li>
                 <li><span>10 contratos com IA/mês</span></li>
                 <li><span>Cartórios digitais inclusos</span></li>
+                <li><span>5 GB de armazenamento</span></li>
             </ul>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_starter">Começar agora</a>
         </div>
@@ -4385,6 +4393,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>SDR AI no WhatsApp · até 100 leads/mês</span></li>
                 <li><span>50 contratos com IA/mês</span></li>
                 <li><span>Analytics IA-generativo</span></li>
+                <li><span>20 GB de armazenamento</span></li>
             </ul>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_pro">Começar agora</a>
         </div>
@@ -4405,6 +4414,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>Boleto, Pix e link de pagamento</span></li>
                 <li><span>Gestão de obras · medições, repasses e marcos</span></li>
                 <li><span>Customer success dedicado</span></li>
+                <li><span>50 GB de armazenamento</span></li>
             </ul>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_business">Começar agora</a>
         </div>
@@ -4426,6 +4436,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>SSO · ISO/SOC2 · auditoria</span></li>
                 <li><span>SLA contratual de 99,9%</span></li>
                 <li><span>CS nominal · onboarding presencial</span></li>
+                <li><span>Armazenamento customizado</span></li>
             </ul>
             <a href="https://wa.me/5511936201544" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_enterprise">Falar com vendas</a>
         </div>
