@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.html
+- Canonical: https://www.credituz.ai/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.html
 
 ---
 

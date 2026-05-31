@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
+- Canonical: https://www.credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
 
 ---
 

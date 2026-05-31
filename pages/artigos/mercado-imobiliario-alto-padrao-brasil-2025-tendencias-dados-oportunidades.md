@@ -4,7 +4,7 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.html
+- Canonical: https://www.credituz.ai/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.html
 
 ---
 

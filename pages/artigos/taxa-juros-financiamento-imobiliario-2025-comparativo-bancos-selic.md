@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html
+- Canonical: https://www.credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html
 
 ---
 

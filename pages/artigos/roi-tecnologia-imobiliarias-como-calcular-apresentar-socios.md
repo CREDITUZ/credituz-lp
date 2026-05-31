@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.html
+- Canonical: https://www.credituz.ai/pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.html
 
 ---
 

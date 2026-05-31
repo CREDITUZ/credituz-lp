@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/regularizacao-fundiaria-ia-loteadoras-acelerar-processos.html
+- Canonical: https://www.credituz.ai/pages/artigos/regularizacao-fundiaria-ia-loteadoras-acelerar-processos.html
 
 ---
 

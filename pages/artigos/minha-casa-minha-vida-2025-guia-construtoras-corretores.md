@@ -4,7 +4,7 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.html
+- Canonical: https://www.credituz.ai/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.html
 
 ---
 
@@ -71,5 +71,5 @@ As novas regras do Minha Casa, Minha Vida para 2025 representam uma grande oport
 Não perca a chance de fazer parte dessa transformação e ajudar milhares de famílias a realizar o sonho da casa própria. Conte com a Credituz para alavancar seus negócios no Minha Casa, Minha Vida 2025.
 
 [^1]: ABECIP. (2026). *Balanço do Crédito Imobiliário 2025*. Disponível em: [https://www.abecip.org.br/credito-imobiliario/indicadores/financiamento](https://www.abecip.org.br/credito-imobiliario/indicadores/financiamento)
-[^2]: Ministério das Cidades. (2026). *Portaria MCID nº 333*. Disponível em: [https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/04/nova-portaria-atualiza-limites-de-renda-bruta-familiar-admitidos-para-familias-atendidas-pelo-minha-casa-minha-vida](https://www.www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/04/nova-portaria-atualiza-limites-de-renda-bruta-familiar-admitidos-para-familias-atendidas-pelo-minha-casa-minha-vida)
+[^2]: Ministério das Cidades. (2026). *Portaria MCID nº 333*. Disponível em: [https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/04/nova-portaria-atualiza-limites-de-renda-bruta-familiar-admitidos-para-familias-atendidas-pelo-minha-casa-minha-vida](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/04/nova-portaria-atualiza-limites-de-renda-bruta-familiar-admitidos-para-familias-atendidas-pelo-minha-casa-minha-vida)
 [^3]: Credituz. (2026). *Soluções de Crédito Imobiliário*. Disponível em: [https://www.credituz.com.br](https://www.credituz.com.br)

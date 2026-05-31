@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais.html
+- Canonical: https://www.credituz.ai/pages/artigos/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais.html
 
 ---
 
