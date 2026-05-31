@@ -2,7 +2,7 @@
 
 > A Credituz é uma plataforma brasileira AI-First para o mercado imobiliário. Reúne CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, emissão de NFe e gestão, em uma única plataforma. Atende incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras e correspondentes bancários (CORBANs).
 
-- Canonical: https://www.credituz.credit/
+- Canonical: https://www.credituz.ai/
 - Language: pt-BR
 - Updated: 2026-05
 
@@ -17,7 +17,7 @@ A Credituz é uma plataforma de software (SaaS) com inteligência artificial nat
 - **Modelo**: SaaS self-serve, com plano gratuito permanente
 - **Setores atendidos**: incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras, correspondentes bancários (CORBAN)
 - **Idioma**: Português (PT-BR)
-- **Site oficial**: https://www.credituz.credit
+- **Site oficial**: https://www.credituz.ai
 
 ## Posicionamento
 
@@ -78,13 +78,13 @@ Setup self-serve em 5 minutos, sem implantação longa e sem treinamento agendad
 
 ## Contato e site
 
-- Website: https://www.credituz.credit
-- Blog (119+ artigos sobre IA, crédito e gestão imobiliária): https://www.credituz.credit/pages/blog.html
+- Website: https://www.credituz.ai
+- Blog (119+ artigos sobre IA, crédito e gestão imobiliária): https://www.credituz.ai/pages/blog.html
 - WhatsApp: https://wa.me/5511936201544
 
 ## Versões para IA / agentes
 
 Esta página tem versão machine-readable para LLMs, agentes e crawlers:
-- Markdown desta página: https://www.credituz.credit/home.md
-- Índice do site para LLMs: https://www.credituz.credit/llms.txt
-- Conteúdo completo para LLMs: https://www.credituz.credit/llms-full.txt
+- Markdown desta página: https://www.credituz.ai/home.md
+- Índice do site para LLMs: https://www.credituz.ai/llms.txt
+- Conteúdo completo para LLMs: https://www.credituz.ai/llms-full.txt

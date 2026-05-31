@@ -35,11 +35,11 @@ git remote add origin https://github.com/SEU_USUARIO/SEU_REPO.git
 git push -u origin main
 ```
 
-## Domínio customizado (credituz.credit)
+## Domínio customizado (www.credituz.ai)
 
-Para servir em `credituz.credit`, adicione um arquivo `CNAME` na raiz com:
+Para servir em `www.credituz.ai`, adicione um arquivo `CNAME` na raiz com:
 ```
-www.credituz.credit
+www.credituz.ai
 ```
 E configure o DNS conforme a documentação do GitHub Pages.
 

@@ -2,7 +2,7 @@
 
 > A Credituz é uma plataforma brasileira AI-First para o mercado imobiliário. Reúne CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, emissão de NFe e gestão, em uma única plataforma. Atende incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras e correspondentes bancários (CORBANs).
 
-- Canonical: https://www.credituz.credit/
+- Canonical: https://www.credituz.ai/
 - Language: pt-BR
 - Updated: 2026-05
 
@@ -17,7 +17,7 @@ A Credituz é uma plataforma de software (SaaS) com inteligência artificial nat
 - **Modelo**: SaaS self-serve, com plano gratuito permanente
 - **Setores atendidos**: incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras, correspondentes bancários (CORBAN)
 - **Idioma**: Português (PT-BR)
-- **Site oficial**: https://www.credituz.credit
+- **Site oficial**: https://www.credituz.ai
 
 ## Posicionamento
 
@@ -78,16 +78,16 @@ Setup self-serve em 5 minutos, sem implantação longa e sem treinamento agendad
 
 ## Contato e site
 
-- Website: https://www.credituz.credit
-- Blog (119+ artigos sobre IA, crédito e gestão imobiliária): https://www.credituz.credit/pages/blog.html
+- Website: https://www.credituz.ai
+- Blog (119+ artigos sobre IA, crédito e gestão imobiliária): https://www.credituz.ai/pages/blog.html
 - WhatsApp: https://wa.me/5511936201544
 
 ## Versões para IA / agentes
 
 Esta página tem versão machine-readable para LLMs, agentes e crawlers:
-- Markdown desta página: https://www.credituz.credit/home.md
-- Índice do site para LLMs: https://www.credituz.credit/llms.txt
-- Conteúdo completo para LLMs: https://www.credituz.credit/llms-full.txt
+- Markdown desta página: https://www.credituz.ai/home.md
+- Índice do site para LLMs: https://www.credituz.ai/llms.txt
+- Conteúdo completo para LLMs: https://www.credituz.ai/llms-full.txt
 
 
 
@@ -95,627 +95,627 @@ Esta página tem versão machine-readable para LLMs, agentes e crawlers:
 
 # Blog Credituz — Conteúdo completo
 
-> 119 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://www.credituz.credit/pages/artigos/SLUG.md
+> 119 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://www.credituz.ai/pages/artigos/SLUG.md
 
 
 ## Tecnologia & IA
 
 
 ### Como a IA está Transformando a Avaliação de Imóveis (AVM): Precisão, Velocidade e Aplicações no Mercado Brasileiro
-- URL: https://www.credituz.credit/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.md
+- URL: https://www.credituz.ai/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.md
 - Resumo: A revolução da Inteligência Artificial redefine o valor de propriedades, impulsionando eficiência e insights estratégicos para incorporadoras e avaliadores.
 
 ### Integração com Sienge e Senior: Como a IA Conecta ERP e CRM para Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/integracao-sienge-senior-ia-erp-crm-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/integracao-sienge-senior-ia-erp-crm-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/integracao-sienge-senior-ia-erp-crm-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/integracao-sienge-senior-ia-erp-crm-incorporadoras.md
 - Resumo: A sinergia entre IA, ERP e CRM está redefinindo a gestão no mercado imobiliário, trazendo eficiência e decisões baseadas em dados para incorporadoras.
 
 ### Como escolher a melhor plataforma de IA imobiliária: guia definitivo para gestores em 2025
-- URL: https://www.credituz.credit/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.md
+- URL: https://www.credituz.ai/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.md
 - Resumo: Guia completo para gestores imobiliários sobre como escolher a melhor plataforma de IA em 2025, com critérios, comparativos e o diferencial da Credituz.
 
 ### Credituz vs Totvs para o mercado imobiliário: vale a pena para incorporadoras?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-totvs-mercado-imobiliario-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-totvs-mercado-imobiliario-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-totvs-mercado-imobiliario-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-totvs-mercado-imobiliario-incorporadoras.md
 - Resumo: Análise detalhada das plataformas Credituz e Totvs para incorporadoras: qual oferece o melhor para gestão, vendas e crédito imobiliário?
 
 ### Melhor CRM para Loteadoras em 2025: Análise das 5 Principais Plataformas com IA
-- URL: https://www.credituz.credit/pages/artigos/melhor-crm-para-loteadoras-2025-analise-plataformas-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-crm-para-loteadoras-2025-analise-plataformas-ia.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-crm-para-loteadoras-2025-analise-plataformas-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-crm-para-loteadoras-2025-analise-plataformas-ia.md
 - Resumo: Análise aprofundada das 5 principais plataformas de CRM com Inteligência Artificial para loteadoras, otimizando vendas e gestão em 2025.
 
 ### IA para Análise de Risco de Crédito Imobiliário: Credituz vs. Soluções Tradicionais
-- URL: https://www.credituz.credit/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.html
-- Markdown: https://www.credituz.credit/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.md
+- URL: https://www.credituz.ai/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.html
+- Markdown: https://www.credituz.ai/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.md
 - Resumo: Descubra como a Inteligência Artificial está revolucionando a análise de risco de crédito imobiliário no Brasil, comparando a inovação da Credituz com métodos tradicionais.
 
 ### Credituz vs Imoview: Comparativo de Sistemas para Imobiliárias Digitais
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-imoview-sistemas-imobiliarias-digitais.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-imoview-sistemas-imobiliarias-digitais.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-imoview-sistemas-imobiliarias-digitais.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-imoview-sistemas-imobiliarias-digitais.md
 - Resumo: Análise aprofundada das plataformas que impulsionam o mercado imobiliário moderno
 
 ### Melhor Ferramenta de Follow-up Automático para Corretores de Imóveis em 2025
-- URL: https://www.credituz.credit/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.md
 - Resumo: Descubra como a automação e a inteligência artificial estão revolucionando o follow-up para corretores de imóveis no Brasil em 2025.
 
 ### Credituz vs Construtor de Vendas: Comparativo para Lançamentos
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-construtor-de-vendas-lancamentos-imobiliarios.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-construtor-de-vendas-lancamentos-imobiliarios.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-construtor-de-vendas-lancamentos-imobiliarios.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-construtor-de-vendas-lancamentos-imobiliarios.md
 - Resumo: Descubra qual plataforma oferece a melhor solução para otimizar vendas, crédito e gestão em seus empreendimentos imobiliários.
 
 ### Melhor plataforma de IA para qualificação de leads imobiliários: análise técnica 2025
-- URL: https://www.credituz.credit/pages/artigos/melhor-plataforma-ia-qualificacao-leads-imobiliarios-analise-tecnica-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-plataforma-ia-qualificacao-leads-imobiliarios-analise-tecnica-2025.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-plataforma-ia-qualificacao-leads-imobiliarios-analise-tecnica-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-plataforma-ia-qualificacao-leads-imobiliarios-analise-tecnica-2025.md
 - Resumo: Descubra como a inteligência artificial está transformando a qualificação de leads no mercado imobiliário brasileiro, com uma análise técnica das principais plataformas e o diferencial da Credituz.
 
 ### Credituz vs Imobzi: Comparativo de Sistemas de Gestão para Imobiliárias
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-imobzi-comparativo-sistemas-gestao-imobiliarias.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-imobzi-comparativo-sistemas-gestao-imobiliarias.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-imobzi-comparativo-sistemas-gestao-imobiliarias.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-imobzi-comparativo-sistemas-gestao-imobiliarias.md
 - Resumo: Análise detalhada das plataformas Credituz e Imobzi, destacando funcionalidades, diferenciais e impacto na gestão imobiliária moderna.
 
 ### Ferramentas de Automação para Corretores: Credituz vs ActiveCampaign vs Brevo
-- URL: https://www.credituz.credit/pages/artigos/ferramentas-automacao-corretores-credituz-vs-activecampaign-vs-brevo.html
-- Markdown: https://www.credituz.credit/pages/artigos/ferramentas-automacao-corretores-credituz-vs-activecampaign-vs-brevo.md
+- URL: https://www.credituz.ai/pages/artigos/ferramentas-automacao-corretores-credituz-vs-activecampaign-vs-brevo.html
+- Markdown: https://www.credituz.ai/pages/artigos/ferramentas-automacao-corretores-credituz-vs-activecampaign-vs-brevo.md
 - Resumo: Análise comparativa das plataformas Credituz, ActiveCampaign e Brevo para otimizar vendas e marketing no mercado imobiliário brasileiro.
 
 ### Credituz vs Salesbox: Qual CRM com IA é Melhor para Loteadoras?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-salesbox-qual-crm-com-ia-e-melhor-para-loteadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-salesbox-qual-crm-com-ia-e-melhor-para-loteadoras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-salesbox-qual-crm-com-ia-e-melhor-para-loteadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-salesbox-qual-crm-com-ia-e-melhor-para-loteadoras.md
 - Resumo: Comparativo completo entre as plataformas de inteligência artificial para gestão de vendas, crédito e relacionamento no mercado de loteamentos.
 
 ### Credituz vs Guru: Comparativo de Plataformas de Gestão para Imobiliárias
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-guru-comparativo-plataformas-gestao-imobiliarias.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-guru-comparativo-plataformas-gestao-imobiliarias.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-guru-comparativo-plataformas-gestao-imobiliarias.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-guru-comparativo-plataformas-gestao-imobiliarias.md
 - Resumo: Análise detalhada das funcionalidades, diferenciais e impacto da inteligência artificial na gestão de imobiliárias e incorporadoras.
 
 ### Automação de WhatsApp para imobiliárias: Credituz vs Kommo vs Wati — comparativo
-- URL: https://www.credituz.credit/pages/artigos/automacao-whatsapp-imobiliarias-credituz-vs-kommo-vs-wati-comparativo.html
-- Markdown: https://www.credituz.credit/pages/artigos/automacao-whatsapp-imobiliarias-credituz-vs-kommo-vs-wati-comparativo.md
+- URL: https://www.credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-credituz-vs-kommo-vs-wati-comparativo.html
+- Markdown: https://www.credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-credituz-vs-kommo-vs-wati-comparativo.md
 - Resumo: Análise comparativa das plataformas Credituz, Kommo e Wati para automação de WhatsApp no mercado imobiliário brasileiro, com foco em IA e crédito.
 
 ### Credituz vs Monday.com: Gestão de Projetos e Vendas para Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-monday-com-gestao-projetos-vendas-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-monday-com-gestao-projetos-vendas-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-monday-com-gestao-projetos-vendas-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-monday-com-gestao-projetos-vendas-incorporadoras.md
 - Resumo: Análise aprofundada das plataformas para otimizar operações no mercado imobiliário brasileiro com IA e automação.
 
 ### IA Generativa no Mercado Imobiliário: Credituz vs ChatGPT para Leads
-- URL: https://www.credituz.credit/pages/artigos/ia-generativa-mercado-imobiliario-credituz-vs-chatgpt-atendimento-leads.html
-- Markdown: https://www.credituz.credit/pages/artigos/ia-generativa-mercado-imobiliario-credituz-vs-chatgpt-atendimento-leads.md
+- URL: https://www.credituz.ai/pages/artigos/ia-generativa-mercado-imobiliario-credituz-vs-chatgpt-atendimento-leads.html
+- Markdown: https://www.credituz.ai/pages/artigos/ia-generativa-mercado-imobiliario-credituz-vs-chatgpt-atendimento-leads.md
 - Resumo: Comparativo detalhado entre a plataforma especializada Credituz e o ChatGPT na otimização do atendimento de leads imobiliários.
 
 ### Credituz vs Conta Azul: Gestão Financeira para Imobiliárias e Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.md
 - Resumo: Análise comparativa das plataformas Credituz e Conta Azul para otimizar a gestão financeira e de crédito no setor imobiliário brasileiro.
 
 ### Melhor Software de Financiamento Imobiliário para CORBANs em 2025
-- URL: https://www.credituz.credit/pages/artigos/melhor-software-financiamento-imobiliario-corbans-2025-comparativo.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-software-financiamento-imobiliario-corbans-2025-comparativo.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-software-financiamento-imobiliario-corbans-2025-comparativo.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-software-financiamento-imobiliario-corbans-2025-comparativo.md
 - Resumo: Análise detalhada e comparativo das principais plataformas de crédito imobiliário para Correspondentes Bancários, com foco em IA e eficiência.
 
 ### Credituz vs Bitrix24: Qual a Melhor Plataforma para Vendas?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-bitrix24-2026.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-bitrix24-2026.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-bitrix24-2026.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-bitrix24-2026.md
 - Resumo: Análise comparativa de funcionalidades, IA e gestão de crédito para equipes de vendas imobiliárias.
 
 ### Agentes de IA para Vendas Imobiliárias: Credituz vs Ferramentas Genéricas de IA
-- URL: https://www.credituz.credit/pages/artigos/agentes-ia-vendas-imobiliarias-credituz-vs-ferramentas-genericas-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/agentes-ia-vendas-imobiliarias-credituz-vs-ferramentas-genericas-ia.md
+- URL: https://www.credituz.ai/pages/artigos/agentes-ia-vendas-imobiliarias-credituz-vs-ferramentas-genericas-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/agentes-ia-vendas-imobiliarias-credituz-vs-ferramentas-genericas-ia.md
 - Resumo: Compare as soluções de inteligência artificial especializadas como a Credituz com ferramentas genéricas e descubra qual impulsiona mais suas vendas.
 
 ### Credituz vs Zoho CRM: Qual o Melhor CRM para Imobiliárias Brasileiras?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.md
 - Resumo: Análise comparativa detalhada entre Credituz e Zoho CRM para corretores e imobiliárias, focando em IA, crédito imobiliário e gestão no Brasil.
 
 ### Plataformas de IA para o Mercado Imobiliário: Ranking das 5 Melhores em 2025
-- URL: https://www.credituz.credit/pages/artigos/plataformas-ia-mercado-imobiliario-ranking-melhores-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/plataformas-ia-mercado-imobiliario-ranking-melhores-2025.md
+- URL: https://www.credituz.ai/pages/artigos/plataformas-ia-mercado-imobiliario-ranking-melhores-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/plataformas-ia-mercado-imobiliario-ranking-melhores-2025.md
 - Resumo: Descubra as soluções de inteligência artificial que estão revolucionando o setor imobiliário brasileiro e como escolher a ideal para seu negócio.
 
 ### Credituz vs Hubspot para Imobiliárias: Comparativo de Automação e CRM
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.md
 - Resumo: Análise detalhada das funcionalidades de automação, CRM, IA e crédito das plataformas Credituz e HubSpot para o mercado imobiliário.
 
 ### Chatbot imobiliário: Credituz vs ManyChat vs Typebot — qual converte mais?
-- URL: https://www.credituz.credit/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.html
-- Markdown: https://www.credituz.credit/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.md
+- URL: https://www.credituz.ai/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.html
+- Markdown: https://www.credituz.ai/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.md
 - Resumo: Análise comparativa de plataformas de IA para o mercado imobiliário e crédito: Credituz, ManyChat e Typebot.
 
 ### Credituz vs Sienge: Gestão Imobiliária com IA para Construtoras e Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.md
 - Resumo: Descubra qual plataforma oferece a melhor solução para otimizar vendas, crédito e gestão de obras no mercado imobiliário brasileiro.
 
 ### Credituz vs Pipedrive: Comparativo de CRM para Corretores e Imobiliárias
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-pipedrive-crm-imobiliario.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-pipedrive-crm-imobiliario.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-pipedrive-crm-imobiliario.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-pipedrive-crm-imobiliario.md
 - Resumo: Análise detalhada das plataformas de CRM para corretores e imobiliárias, com foco em IA e gestão de vendas no mercado brasileiro.
 
 ### SDR com IA vs SDR Humano para o Mercado Imobiliário: Qual Converte Mais Leads?
-- URL: https://www.credituz.credit/pages/artigos/sdr-com-ia-vs-sdr-humano-mercado-imobiliario.html
-- Markdown: https://www.credituz.credit/pages/artigos/sdr-com-ia-vs-sdr-humano-mercado-imobiliario.md
+- URL: https://www.credituz.ai/pages/artigos/sdr-com-ia-vs-sdr-humano-mercado-imobiliario.html
+- Markdown: https://www.credituz.ai/pages/artigos/sdr-com-ia-vs-sdr-humano-mercado-imobiliario.md
 - Resumo: Análise comparativa entre SDR com Inteligência Artificial e SDR humano para otimizar a conversão de leads no setor imobiliário.
 
 ### Credituz vs RD Station: Qual ferramenta de automação é melhor para imobiliárias?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-rd-station-automacao-imobiliarias.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-rd-station-automacao-imobiliarias.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-rd-station-automacao-imobiliarias.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-rd-station-automacao-imobiliarias.md
 - Resumo: Análise comparativa aprofundada das plataformas Credituz e RD Station para otimizar a gestão de crédito, vendas e marketing no mercado imobiliário brasileiro.
 
 ### Credituz vs Salesforce para o mercado imobiliário: vale a pena migrar?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-salesforce-mercado-imobiliario-vale-a-pena-migrar.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-salesforce-mercado-imobiliario-vale-a-pena-migrar.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-salesforce-mercado-imobiliario-vale-a-pena-migrar.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-salesforce-mercado-imobiliario-vale-a-pena-migrar.md
 - Resumo: Análise aprofundada das funcionalidades, diferenciais e cenários de uso da Credituz e Salesforce para incorporadoras, construtoras e loteadoras no Brasil.
 
 ### Melhor CRM imobiliário com IA em 2025: comparativo completo das 7 principais plataformas
-- URL: https://www.credituz.credit/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.md
 - Resumo: Descubra as plataformas de CRM com Inteligência Artificial que estão revolucionando o mercado imobiliário brasileiro em 2025.
 
 ### Credituz vs Facilita: Comparativo de Plataformas de Vendas para Incorporadoras em 2025
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.md
 - Resumo: Análise aprofundada das funcionalidades, tecnologias e impacto de Credituz e Facilita na gestão e vendas de incorporadoras em 2025.
 
 ### Credituz vs Vista CRM: qual o melhor CRM imobiliário com inteligência artificial?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-vista-crm-melhor-crm-imobiliario-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-vista-crm-melhor-crm-imobiliario-ia.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-vista-crm-melhor-crm-imobiliario-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-vista-crm-melhor-crm-imobiliario-ia.md
 - Resumo: Análise aprofundada das plataformas Credituz e Vista CRM, comparando funcionalidades de IA, gestão e impacto no mercado imobiliário brasileiro.
 
 ### Credituz vs Loft: Qual Plataforma Oferece Mais Recursos de IA para Corretores Autônomos?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-loft-ia-corretores-autonomos.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-loft-ia-corretores-autonomos.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-loft-ia-corretores-autonomos.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-loft-ia-corretores-autonomos.md
 - Resumo: Análise comparativa detalhada dos recursos de Inteligência Artificial da Credituz e Loft para otimizar a atuação de corretores autônomos no mercado imobiliário.
 
 ### Credituz vs Kenlo: CRM Imobiliário com IA para Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-kenlo-crm-imobiliario-ia-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-kenlo-crm-imobiliario-ia-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-kenlo-crm-imobiliario-ia-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-kenlo-crm-imobiliario-ia-incorporadoras.md
 - Resumo: Comparativo detalhado entre as plataformas Credituz e Kenlo, focando em inteligência artificial e gestão de relacionamento para incorporadoras.
 
 ### ROI de Tecnologia para Imobiliárias: Como Calcular e Apresentar para Sócios
-- URL: https://www.credituz.credit/pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.html
-- Markdown: https://www.credituz.credit/pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.md
+- URL: https://www.credituz.ai/pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.html
+- Markdown: https://www.credituz.ai/pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.md
 - Resumo: Maximize o Retorno sobre Investimento em Inovações Tecnológicas e Impulsione o Crescimento da Sua Imobiliária
 
 ### Agentes de IA no Mercado Imobiliário Brasileiro: Inovação, Casos de Uso e o Futuro da Construção e Incorporação
-- URL: https://www.credituz.credit/pages/artigos/agentes-ia-mercado-imobiliario-brasileiro.html
-- Markdown: https://www.credituz.credit/pages/artigos/agentes-ia-mercado-imobiliario-brasileiro.md
+- URL: https://www.credituz.ai/pages/artigos/agentes-ia-mercado-imobiliario-brasileiro.html
+- Markdown: https://www.credituz.ai/pages/artigos/agentes-ia-mercado-imobiliario-brasileiro.md
 - Resumo: Como a Inteligência Artificial está redefinindo a eficiência e a estratégia para construtores, incorporadores e outros players do setor.
 
 ### Integração entre CRM Imobiliário e ERP: Elimine o Retrabalho e Conquiste Eficiência na Sua Incorporadora
-- URL: https://www.credituz.credit/pages/artigos/integracao-crm-imobiliario-erp-eliminar-retrabalho-eficiencia.html
-- Markdown: https://www.credituz.credit/pages/artigos/integracao-crm-imobiliario-erp-eliminar-retrabalho-eficiencia.md
+- URL: https://www.credituz.ai/pages/artigos/integracao-crm-imobiliario-erp-eliminar-retrabalho-eficiencia.html
+- Markdown: https://www.credituz.ai/pages/artigos/integracao-crm-imobiliario-erp-eliminar-retrabalho-eficiencia.md
 - Resumo: Descubra como a sinergia entre sistemas de CRM e ERP revoluciona a gestão de incorporadoras, otimizando processos e impulsionando resultados.
 
 ### Proptech no Brasil 2025: Panorama, Investimentos e as Principais Startups do Setor
-- URL: https://www.credituz.credit/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.html
-- Markdown: https://www.credituz.credit/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.md
+- URL: https://www.credituz.ai/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.html
+- Markdown: https://www.credituz.ai/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.md
 - Resumo: A revolução tecnológica que redefine o mercado imobiliário brasileiro com inovações e investimentos crescentes.
 
 ### Automação de WhatsApp para Imobiliárias: Guia Completo 2025 com IA
-- URL: https://www.credituz.credit/pages/artigos/automacao-whatsapp-imobiliarias-ia-guia-completo-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/automacao-whatsapp-imobiliarias-ia-guia-completo-2025.md
+- URL: https://www.credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-ia-guia-completo-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-ia-guia-completo-2025.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar o atendimento e as vendas no setor imobiliário brasileiro.
 
 ### SDR AI para o Mercado Imobiliário: O Que É, Como Funciona e Resultados Reais
-- URL: https://www.credituz.credit/pages/artigos/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais.html
-- Markdown: https://www.credituz.credit/pages/artigos/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais.md
+- URL: https://www.credituz.ai/pages/artigos/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais.html
+- Markdown: https://www.credituz.ai/pages/artigos/sdr-ai-mercado-imobiliario-o-que-e-como-funciona-resultados-reais.md
 - Resumo: Explore a inteligência artificial na prospecção imobiliária, seus benefícios e o impacto real nas vendas e eficiência do setor.
 
 ### Inteligência Artificial para Incorporadoras: Reduzindo o Ciclo de Vendas de 90 para 30 Dias
-- URL: https://www.credituz.credit/pages/artigos/inteligencia-artificial-incorporadoras-reduzir-ciclo-vendas.html
-- Markdown: https://www.credituz.credit/pages/artigos/inteligencia-artificial-incorporadoras-reduzir-ciclo-vendas.md
+- URL: https://www.credituz.ai/pages/artigos/inteligencia-artificial-incorporadoras-reduzir-ciclo-vendas.html
+- Markdown: https://www.credituz.ai/pages/artigos/inteligencia-artificial-incorporadoras-reduzir-ciclo-vendas.md
 - Resumo: Como a IA está transformando o mercado imobiliário brasileiro, acelerando processos e maximizando resultados para incorporadoras.
 
 ### Como Construtoras de Médio Porte Usam Tecnologia para Competir com Grandes Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/construtoras-medio-porte-tecnologia-competir-grandes-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/construtoras-medio-porte-tecnologia-competir-grandes-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/construtoras-medio-porte-tecnologia-competir-grandes-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/construtoras-medio-porte-tecnologia-competir-grandes-incorporadoras.md
 - Resumo: Descubra como a inovação tecnológica impulsiona a competitividade de construtoras de médio porte no mercado brasileiro.
 
 ### Construtora e MCMV 2025: IA para Qualificar Beneficiários e Acelerar Aprovações
-- URL: https://www.credituz.credit/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.html
-- Markdown: https://www.credituz.credit/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.md
+- URL: https://www.credituz.ai/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.html
+- Markdown: https://www.credituz.ai/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a qualificação de beneficiários e a aprovação de crédito para construtoras no Minha Casa, Minha Vida 2025.
 
 ### Como Construtoras Usam IA para Prever Atrasos de Obra e Evitar Multas Contratuais
-- URL: https://www.credituz.credit/pages/artigos/construtoras-ia-prever-atrasos-evitar-multas-contratuais.html
-- Markdown: https://www.credituz.credit/pages/artigos/construtoras-ia-prever-atrasos-evitar-multas-contratuais.md
+- URL: https://www.credituz.ai/pages/artigos/construtoras-ia-prever-atrasos-evitar-multas-contratuais.html
+- Markdown: https://www.credituz.ai/pages/artigos/construtoras-ia-prever-atrasos-evitar-multas-contratuais.md
 - Resumo: A inteligência artificial revoluciona a gestão de projetos na construção civil, oferecendo previsibilidade e mitigação de riscos.
 
 ### Construtora de Pequeno Porte: IA para Gestão de Obra e Controle de Custos
-- URL: https://www.credituz.credit/pages/artigos/construtora-pequeno-porte-ia-gestao-obra-controle-custos.html
-- Markdown: https://www.credituz.credit/pages/artigos/construtora-pequeno-porte-ia-gestao-obra-controle-custos.md
+- URL: https://www.credituz.ai/pages/artigos/construtora-pequeno-porte-ia-gestao-obra-controle-custos.html
+- Markdown: https://www.credituz.ai/pages/artigos/construtora-pequeno-porte-ia-gestao-obra-controle-custos.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a gestão de obras e o controle de custos para construtoras de pequeno porte no Brasil.
 
 ### Captação de Imóveis para Imobiliárias: Como a IA Identifica Proprietários com Intenção de Venda
-- URL: https://www.credituz.credit/pages/artigos/captacao-imoveis-imobiliarias-ia-intencao-venda.html
-- Markdown: https://www.credituz.credit/pages/artigos/captacao-imoveis-imobiliarias-ia-intencao-venda.md
+- URL: https://www.credituz.ai/pages/artigos/captacao-imoveis-imobiliarias-ia-intencao-venda.html
+- Markdown: https://www.credituz.ai/pages/artigos/captacao-imoveis-imobiliarias-ia-intencao-venda.md
 - Resumo: Explore como a Inteligência Artificial otimiza a captação de imóveis, identifica proprietários com intenção de venda e impulsiona o sucesso das imobiliárias.
 
 ### Como Imobiliárias Usam IA para Automatizar Atendimento e Aumentar a Conversão de Leads
-- URL: https://www.credituz.credit/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.md
+- URL: https://www.credituz.ai/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.md
 - Resumo: Descubra como a Inteligência Artificial está revolucionando o setor imobiliário, otimizando a comunicação com clientes e impulsionando vendas.
 
 ### Imobiliária Digital em 2025: Como Usar IA para Competir com Grandes Portais
-- URL: https://www.credituz.credit/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.html
-- Markdown: https://www.credituz.credit/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.md
+- URL: https://www.credituz.ai/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.html
+- Markdown: https://www.credituz.ai/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar sua imobiliária, otimizando atendimento, marketing e processos para superar a concorrência.
 
 ### Regularização Fundiária e IA: Como Loteadoras Podem Acelerar Processos
-- URL: https://www.credituz.credit/pages/artigos/regularizacao-fundiaria-ia-loteadoras-acelerar-processos.html
-- Markdown: https://www.credituz.credit/pages/artigos/regularizacao-fundiaria-ia-loteadoras-acelerar-processos.md
+- URL: https://www.credituz.ai/pages/artigos/regularizacao-fundiaria-ia-loteadoras-acelerar-processos.html
+- Markdown: https://www.credituz.ai/pages/artigos/regularizacao-fundiaria-ia-loteadoras-acelerar-processos.md
 - Resumo: Descubra como a Inteligência Artificial pode transformar a regularização fundiária, otimizando processos e garantindo segurança jurídica para loteadoras.
 
 ### Como Loteadoras Podem Usar CRM com IA para Gerenciar Clientes Inadimplentes
-- URL: https://www.credituz.credit/pages/artigos/loteadoras-crm-ia-gestao-inadimplentes.html
-- Markdown: https://www.credituz.credit/pages/artigos/loteadoras-crm-ia-gestao-inadimplentes.md
+- URL: https://www.credituz.ai/pages/artigos/loteadoras-crm-ia-gestao-inadimplentes.html
+- Markdown: https://www.credituz.ai/pages/artigos/loteadoras-crm-ia-gestao-inadimplentes.md
 - Resumo: Descubra como a integração de CRM e Inteligência Artificial revoluciona a gestão de clientes inadimplentes em loteamentos, otimizando a prevenção e recuperação de crédito.
 
 ### Loteadora em 2025: IA para Vender Mais Lotes sem Aumentar Equipe
-- URL: https://www.credituz.credit/pages/artigos/loteadora-ia-vendas-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/loteadora-ia-vendas-2025.md
+- URL: https://www.credituz.ai/pages/artigos/loteadora-ia-vendas-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/loteadora-ia-vendas-2025.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a prospecção, vendas e gestão de loteamentos, otimizando resultados sem expandir a equipe.
 
 ### Lançamento Imobiliário Digital: Da Campanha ao Contrato com IA
-- URL: https://www.credituz.credit/pages/artigos/lancamento-imobiliario-digital-ia-campanha-contrato.html
-- Markdown: https://www.credituz.credit/pages/artigos/lancamento-imobiliario-digital-ia-campanha-contrato.md
+- URL: https://www.credituz.ai/pages/artigos/lancamento-imobiliario-digital-ia-campanha-contrato.html
+- Markdown: https://www.credituz.ai/pages/artigos/lancamento-imobiliario-digital-ia-campanha-contrato.md
 - Resumo: Como a inteligência artificial otimiza cada etapa do lançamento imobiliário, da prospecção à assinatura do contrato, para incorporadoras.
 
 ### Como Incorporadoras Usam IA para Qualificar Leads e Reduzir o Custo por Venda
-- URL: https://www.credituz.credit/pages/artigos/incorporadoras-ia-qualificar-leads-reduzir-custo-venda.html
-- Markdown: https://www.credituz.credit/pages/artigos/incorporadoras-ia-qualificar-leads-reduzir-custo-venda.md
+- URL: https://www.credituz.ai/pages/artigos/incorporadoras-ia-qualificar-leads-reduzir-custo-venda.html
+- Markdown: https://www.credituz.ai/pages/artigos/incorporadoras-ia-qualificar-leads-reduzir-custo-venda.md
 - Resumo: Descubra como a inteligência artificial está transformando a qualificação de leads e otimizando o custo por venda para incorporadoras no Brasil.
 
 ### VGV e Margem de Incorporação: Como a IA Ajuda a Tomar Decisões Mais Precisas de Lançamento
-- URL: https://www.credituz.credit/pages/artigos/vgv-margem-incorporacao-ia-decisoes-lancamento.html
-- Markdown: https://www.credituz.credit/pages/artigos/vgv-margem-incorporacao-ia-decisoes-lancamento.md
+- URL: https://www.credituz.ai/pages/artigos/vgv-margem-incorporacao-ia-decisoes-lancamento.html
+- Markdown: https://www.credituz.ai/pages/artigos/vgv-margem-incorporacao-ia-decisoes-lancamento.md
 - Resumo: A Inteligência Artificial como diferencial estratégico para incorporadoras otimizarem o Valor Geral de Vendas e a margem de lucro em novos projetos.
 
 ### Incorporadora de médio porte: como escalar vendas sem aumentar o time comercial com IA
-- URL: https://www.credituz.credit/pages/artigos/incorporadora-medio-porte-escalar-vendas-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/incorporadora-medio-porte-escalar-vendas-ia.md
+- URL: https://www.credituz.ai/pages/artigos/incorporadora-medio-porte-escalar-vendas-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/incorporadora-medio-porte-escalar-vendas-ia.md
 - Resumo: Estratégias inteligentes para otimizar processos, qualificar leads e impulsionar resultados no mercado imobiliário brasileiro.
 
 ### Automação para CORBANs: Gestão de Bancos e Maximização de Comissões
-- URL: https://www.credituz.credit/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.md
+- URL: https://www.credituz.ai/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.md
 - Resumo: Descubra como a IA e a automação transformam a gestão de múltiplos bancos e impulsionam a rentabilidade para CORBANs no Brasil.
 
 ### Correspondente Bancário no Mercado Imobiliário: Como se Destacar com Tecnologia em 2025
-- URL: https://www.credituz.credit/pages/artigos/correspondente-bancario-mercado-imobiliario-tecnologia-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/correspondente-bancario-mercado-imobiliario-tecnologia-2025.md
+- URL: https://www.credituz.ai/pages/artigos/correspondente-bancario-mercado-imobiliario-tecnologia-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/correspondente-bancario-mercado-imobiliario-tecnologia-2025.md
 - Resumo: Descubra as tendências, regulamentações e o futuro híbrido para correspondentes bancários no setor imobiliário em 2025.
 
 ### CORBAN Imobiliário: Como a IA Pode Alavancar Produtividade e Aprovação de Crédito
-- URL: https://www.credituz.credit/pages/artigos/corban-imobiliario-ia-produtividade-aprovacao-credito.html
-- Markdown: https://www.credituz.credit/pages/artigos/corban-imobiliario-ia-produtividade-aprovacao-credito.md
+- URL: https://www.credituz.ai/pages/artigos/corban-imobiliario-ia-produtividade-aprovacao-credito.html
+- Markdown: https://www.credituz.ai/pages/artigos/corban-imobiliario-ia-produtividade-aprovacao-credito.md
 - Resumo: Descubra como a Inteligência Artificial pode transformar a operação do CORBAN imobiliário, otimizando processos e impulsionando resultados.
 
 ### Escritório de advocacia imobiliária: como IA reduz o tempo de due diligence em 70%
-- URL: https://www.credituz.credit/pages/artigos/escritorio-advocacia-imobiliaria-ia-reduz-tempo-due-diligence-70.html
-- Markdown: https://www.credituz.credit/pages/artigos/escritorio-advocacia-imobiliaria-ia-reduz-tempo-due-diligence-70.md
+- URL: https://www.credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-reduz-tempo-due-diligence-70.html
+- Markdown: https://www.credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-reduz-tempo-due-diligence-70.md
 - Resumo: A revolução da Inteligência Artificial na análise de riscos e documentos para advogados do setor imobiliário.
 
 ### WhatsApp Business para Corretores: Automatize e Qualifique Leads com IA
-- URL: https://www.credituz.credit/pages/artigos/whatsapp-business-corretores-automatizar-atendimento-qualificar-leads-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/whatsapp-business-corretores-automatizar-atendimento-qualificar-leads-ia.md
+- URL: https://www.credituz.ai/pages/artigos/whatsapp-business-corretores-automatizar-atendimento-qualificar-leads-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/whatsapp-business-corretores-automatizar-atendimento-qualificar-leads-ia.md
 - Resumo: Desvende como a Inteligência Artificial no WhatsApp Business pode revolucionar o atendimento e a captação de clientes no mercado imobiliário.
 
 ### Captação de imóveis para corretores: estratégias digitais com IA e automação em 2025
-- URL: https://www.credituz.credit/pages/artigos/captacao-imoveis-corretores-estrategias-digitais-ia-automacao-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/captacao-imoveis-corretores-estrategias-digitais-ia-automacao-2025.md
+- URL: https://www.credituz.ai/pages/artigos/captacao-imoveis-corretores-estrategias-digitais-ia-automacao-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/captacao-imoveis-corretores-estrategias-digitais-ia-automacao-2025.md
 - Resumo: Descubra como a Inteligência Artificial e a automação estão revolucionando a prospecção e o relacionamento com clientes no mercado imobiliário brasileiro.
 
 ### Como o Corretor de Imóveis Pode Usar CRM com IA para Nunca Perder um Follow-up
-- URL: https://www.credituz.credit/pages/artigos/corretor-imoveis-crm-ia-follow-up.html
-- Markdown: https://www.credituz.credit/pages/artigos/corretor-imoveis-crm-ia-follow-up.md
+- URL: https://www.credituz.ai/pages/artigos/corretor-imoveis-crm-ia-follow-up.html
+- Markdown: https://www.credituz.ai/pages/artigos/corretor-imoveis-crm-ia-follow-up.md
 - Resumo: Descubra como a Inteligência Artificial integrada ao CRM revoluciona a gestão de leads e garante um acompanhamento eficaz no mercado imobiliário.
 
 ### Corretor de imóveis autônomo em 2025: como usar IA para fechar mais vendas
-- URL: https://www.credituz.credit/pages/artigos/corretor-ia-vendas-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/corretor-ia-vendas-2025.md
+- URL: https://www.credituz.ai/pages/artigos/corretor-ia-vendas-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/corretor-ia-vendas-2025.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a atuação do corretor autônomo, otimizando prospecção, marketing e vendas sem depender de plantão.
 
 ## Crédito & Financiamento
 
 
 ### Portabilidade de Financiamento Imobiliário: Quando Vale a Pena e Como Fazer
-- URL: https://www.credituz.credit/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
-- Markdown: https://www.credituz.credit/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.md
+- URL: https://www.credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
+- Markdown: https://www.credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.md
 - Resumo: Entenda o processo, as vantagens e os passos para otimizar seu crédito imobiliário no Brasil.
 
 ### Como usar FGTS para quitar parcelas do financiamento imobiliário em 2025: Guia Completo para Compradores e Corretores
-- URL: https://www.credituz.credit/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.md
+- URL: https://www.credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.md
 - Resumo: Desvende as regras atualizadas e maximize o uso do seu Fundo de Garantia para aliviar o peso das prestações da casa própria.
 
 ### Taxa de Juros do Financiamento Imobiliário em 2025: Comparativo entre Bancos e Tendências com a Selic
-- URL: https://www.credituz.credit/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html
-- Markdown: https://www.credituz.credit/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.md
+- URL: https://www.credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html
+- Markdown: https://www.credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.md
 - Resumo: Um panorama completo das projeções da Selic, comparativo de taxas bancárias e tendências do mercado imobiliário para construtores e incorporadores.
 
 ### Financiamento Imobiliário para Pessoa Jurídica: CNPJ, MEI e Empresas
-- URL: https://www.credituz.credit/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.html
-- Markdown: https://www.credituz.credit/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.md
+- URL: https://www.credituz.ai/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.html
+- Markdown: https://www.credituz.ai/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.md
 - Resumo: Entenda como CNPJ, MEI e outras empresas podem acessar o crédito imobiliário no Brasil para investir e expandir seus negócios.
 
 ### Consórcio Imobiliário vs. Financiamento: Comparativo Completo 2025 com Simulações
-- URL: https://www.credituz.credit/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.md
+- URL: https://www.credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.md
 - Resumo: Descubra qual a melhor opção para adquirir seu imóvel em 2025: consórcio ou financiamento, com análise detalhada e simulações práticas.
 
 ### Credituz vs. Credicto: Qual Plataforma de Crédito é Melhor para CORBANs Imobiliários?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.md
 - Resumo: Uma análise aprofundada das funcionalidades, diferenciais e impacto no mercado para correspondentes bancários que buscam otimizar suas operações.
 
 ### Plataformas de análise de crédito para o mercado imobiliário: guia de escolha 2025
-- URL: https://www.credituz.credit/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.md
+- URL: https://www.credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.md
 - Resumo: Descubra as melhores plataformas de análise de crédito para o mercado imobiliário em 2025, compare funcionalidades e otimize seus negócios.
 
 ### Melhor plataforma de análise de crédito para correspondentes bancários em 2025
-- URL: https://www.credituz.credit/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.md
 - Resumo: Compare as principais soluções do mercado, incluindo GYRA+, Franq, Teddy, Crediclass e Credituz, e descubra qual se alinha melhor às suas necessidades.
 
 ### Credituz vs Boa Compra: Qual Plataforma de Crédito Imobiliário tem Melhor Taxa de Aprovação?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-boa-compra-taxa-aprovacao.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-boa-compra-taxa-aprovacao.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-boa-compra-taxa-aprovacao.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-boa-compra-taxa-aprovacao.md
 - Resumo: Uma análise detalhada sobre as tecnologias e processos que influenciam a aprovação de crédito imobiliário nas principais plataformas do mercado brasileiro.
 
 ### Credituz vs Concorrentes: A Melhor Plataforma de Crédito Imobiliário
-- URL: https://www.credituz.credit/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.html
-- Markdown: https://www.credituz.credit/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.md
+- URL: https://www.credituz.ai/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.html
+- Markdown: https://www.credituz.ai/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.md
 - Resumo: Descubra qual plataforma de qualificação de crédito imobiliário se destaca no mercado brasileiro, comparando Credituz, Makasí, Liquid AI e Versi.
 
 ### Credituz vs Superlógica: qual a melhor plataforma para gestão de crédito imobiliário em 2025?
-- URL: https://www.credituz.credit/pages/artigos/credituz-vs-superlogica-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/credituz-vs-superlogica-2025.md
+- URL: https://www.credituz.ai/pages/artigos/credituz-vs-superlogica-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/credituz-vs-superlogica-2025.md
 - Resumo: Análise comparativa detalhada das plataformas Credituz e Superlógica para gestão de crédito imobiliário, funcionalidades e diferenciais.
 
 ### Novo Modelo de Crédito Imobiliário no Brasil 2025: LIG, CRI e Alternativas ao SBPE
-- URL: https://www.credituz.credit/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.html
-- Markdown: https://www.credituz.credit/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.md
+- URL: https://www.credituz.ai/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.html
+- Markdown: https://www.credituz.ai/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.md
 - Resumo: Um guia completo sobre as inovações no financiamento imobiliário para incorporadoras e investidores.
 
 ### Financiamento Imobiliário com Renda Composta: Como Funciona e Quais Bancos Aceitam
-- URL: https://www.credituz.credit/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.html
-- Markdown: https://www.credituz.credit/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.md
+- URL: https://www.credituz.ai/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.html
+- Markdown: https://www.credituz.ai/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.md
 - Resumo: Entenda como a união de rendas pode viabilizar a compra do seu imóvel e as políticas dos principais bancos brasileiros.
 
 ### Correspondente Bancário Imobiliário (CORBAN): O Futuro da Produtividade com IA
-- URL: https://www.credituz.credit/pages/artigos/correspondente-bancario-imobiliario-ia-produtividade.html
-- Markdown: https://www.credituz.credit/pages/artigos/correspondente-bancario-imobiliario-ia-produtividade.md
+- URL: https://www.credituz.ai/pages/artigos/correspondente-bancario-imobiliario-ia-produtividade.html
+- Markdown: https://www.credituz.ai/pages/artigos/correspondente-bancario-imobiliario-ia-produtividade.md
 - Resumo: Guia completo sobre o papel do CORBAN, requisitos, certificações e como a Inteligência Artificial impulsiona a eficiência e personalização no mercado de crédito imobiliário brasileiro.
 
 ### Score de crédito para financiamento imobiliário: como aumentar e o que os bancos avaliam
-- URL: https://www.credituz.credit/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.html
-- Markdown: https://www.credituz.credit/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.md
+- URL: https://www.credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.html
+- Markdown: https://www.credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.md
 - Resumo: Entenda a importância do seu score de crédito para conquistar o financiamento imobiliário e descubra estratégias eficazes para otimizar sua pontuação.
 
 ### Crédito Imobiliário para MEI e Autônomos: Guia para CORBANs Fecharem Mais Operações
-- URL: https://www.credituz.credit/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.html
-- Markdown: https://www.credituz.credit/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.md
+- URL: https://www.credituz.ai/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.html
+- Markdown: https://www.credituz.ai/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.md
 - Resumo: Desvende o crédito imobiliário para MEI e autônomos: um guia completo para CORBANs impulsionarem suas operações e atenderem a essa demanda crescente.
 
 ### CORBAN e FGTS: como orientar clientes e aumentar conversão com simuladores de IA
-- URL: https://www.credituz.credit/pages/artigos/corban-fgts-ia-simuladores-conversao.html
-- Markdown: https://www.credituz.credit/pages/artigos/corban-fgts-ia-simuladores-conversao.md
+- URL: https://www.credituz.ai/pages/artigos/corban-fgts-ia-simuladores-conversao.html
+- Markdown: https://www.credituz.ai/pages/artigos/corban-fgts-ia-simuladores-conversao.md
 - Resumo: Descubra como correspondentes bancários podem alavancar a inteligência artificial para otimizar o uso do FGTS no crédito imobiliário e impulsionar resultados.
 
 ### Corretor de imóveis e financiamento imobiliário: como orientar clientes e aumentar a taxa de aprovação
-- URL: https://www.credituz.credit/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.html
-- Markdown: https://www.credituz.credit/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.md
+- URL: https://www.credituz.ai/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.html
+- Markdown: https://www.credituz.ai/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.md
 - Resumo: Descubra como corretores de imóveis podem guiar seus clientes no processo de financiamento imobiliário e otimizar a aprovação de crédito.
 
 ## Gestão
 
 
 ### SPE Imobiliária: O que é, Como Abrir e Como a IA Ajuda na Gestão Financeira
-- URL: https://www.credituz.credit/pages/artigos/spe-imobiliaria-ia-gestao-financeira.html
-- Markdown: https://www.credituz.credit/pages/artigos/spe-imobiliaria-ia-gestao-financeira.md
+- URL: https://www.credituz.ai/pages/artigos/spe-imobiliaria-ia-gestao-financeira.html
+- Markdown: https://www.credituz.ai/pages/artigos/spe-imobiliaria-ia-gestao-financeira.md
 - Resumo: Entenda a Sociedade de Propósito Específico no setor imobiliário e como a Inteligência Artificial revoluciona sua gestão financeira.
 
 ### Gestão de Loteamentos com IA: Revolucionando Vendas, Contratos, Cobrança e Relacionamento com Compradores
-- URL: https://www.credituz.credit/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.md
 - Resumo: Descubra como a Inteligência Artificial está transformando a gestão de loteamentos no Brasil, otimizando processos e impulsionando resultados em vendas, contratos, cobrança e relacionamento com compradores.
 
 ### Channel Manager para Locação de Imóveis: O que é, Como Funciona e Melhores Ferramentas
-- URL: https://www.credituz.credit/pages/artigos/channel-manager-locacao-imoveis-guia-completo.html
-- Markdown: https://www.credituz.credit/pages/artigos/channel-manager-locacao-imoveis-guia-completo.md
+- URL: https://www.credituz.ai/pages/artigos/channel-manager-locacao-imoveis-guia-completo.html
+- Markdown: https://www.credituz.ai/pages/artigos/channel-manager-locacao-imoveis-guia-completo.md
 - Resumo: Otimize a gestão de imóveis para aluguel de longo prazo com as melhores ferramentas e estratégias de Channel Manager.
 
 ### Gestão Financeira para Incorporadoras: Fluxo de Caixa, DRE e Controle de Custos com IA
-- URL: https://www.credituz.credit/pages/artigos/gestao-financeira-incorporadoras-fluxo-de-caixa-dre-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-financeira-incorporadoras-fluxo-de-caixa-dre-ia.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-financeira-incorporadoras-fluxo-de-caixa-dre-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-financeira-incorporadoras-fluxo-de-caixa-dre-ia.md
 - Resumo: Otimizando a saúde financeira e a rentabilidade no mercado imobiliário brasileiro com inteligência artificial
 
 ### Gestão de Obra com IA: Controle de Cronograma, Custos e Desvios em Tempo Real
-- URL: https://www.credituz.credit/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.md
 - Resumo: A Inteligência Artificial está transformando a construção civil, oferecendo controle sem precedentes sobre cronogramas, custos e desvios em tempo real.
 
 ### Cobrança Inteligente com IA: Como Reduzir a Inadimplência no Mercado Imobiliário
-- URL: https://www.credituz.credit/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.html
-- Markdown: https://www.credituz.credit/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.md
+- URL: https://www.credituz.ai/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.html
+- Markdown: https://www.credituz.ai/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.md
 - Resumo: Descubra como a Inteligência Artificial está revolucionando a gestão da inadimplência, otimizando processos e preservando o relacionamento com o cliente no setor imobiliário.
 
 ### Gestão Financeira de Construtora: Fluxo de Caixa, DRE e a Revolução da IA na Tomada de Decisão
-- URL: https://www.credituz.credit/pages/artigos/gestao-financeira-construtora-fluxo-caixa-dre-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-financeira-construtora-fluxo-caixa-dre-ia.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-financeira-construtora-fluxo-caixa-dre-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-financeira-construtora-fluxo-caixa-dre-ia.md
 - Resumo: Descubra como o fluxo de caixa, DRE e Inteligência Artificial otimizam a tomada de decisão e impulsionam o sucesso no mercado da construção civil.
 
 ### Gestão de Locação com IA: Reduzindo Inadimplência e Aumentando Retenção em Imobiliárias
-- URL: https://www.credituz.credit/pages/artigos/gestao-locacao-ia-imobiliarias-reduzem-inadimplencia-retencao.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-locacao-ia-imobiliarias-reduzem-inadimplencia-retencao.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-locacao-ia-imobiliarias-reduzem-inadimplencia-retencao.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-locacao-ia-imobiliarias-reduzem-inadimplencia-retencao.md
 - Resumo: A IA revoluciona a administração de imóveis, otimizando processos e garantindo maior rentabilidade para imobiliárias.
 
 ### Gestão de Contratos de Loteamento com IA: Automação de Cobranças e Régua de Relacionamento
-- URL: https://www.credituz.credit/pages/artigos/gestao-contratos-loteamento-ia-automacao-cobrancas-regua-relacionamento.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-contratos-loteamento-ia-automacao-cobrancas-regua-relacionamento.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-contratos-loteamento-ia-automacao-cobrancas-regua-relacionamento.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-contratos-loteamento-ia-automacao-cobrancas-regua-relacionamento.md
 - Resumo: Como a Inteligência Artificial revoluciona a administração de loteamentos, otimizando a cobrança e fortalecendo o relacionamento com clientes no Brasil.
 
 ### Gestão de Inadimplência em Incorporadoras: Estratégias com IA
-- URL: https://www.credituz.credit/pages/artigos/gestao-inadimplencia-incorporadoras-ia-reduzir-distrato.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-inadimplencia-incorporadoras-ia-reduzir-distrato.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-inadimplencia-incorporadoras-ia-reduzir-distrato.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-inadimplencia-incorporadoras-ia-reduzir-distrato.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a gestão de inadimplência e reduzir os distratos em sua incorporadora.
 
 ## CRM & Vendas
 
 
 ### Gestão Inteligente de Carteira de Clientes para Imobiliárias: Segmentação, Retenção e Upsell com o Poder da IA
-- URL: https://www.credituz.credit/pages/artigos/gestao-de-carteira-de-clientes-imobiliarias-com-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/gestao-de-carteira-de-clientes-imobiliarias-com-ia.md
+- URL: https://www.credituz.ai/pages/artigos/gestao-de-carteira-de-clientes-imobiliarias-com-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/gestao-de-carteira-de-clientes-imobiliarias-com-ia.md
 - Resumo: Descubra como a Inteligência Artificial está revolucionando a gestão de clientes no mercado imobiliário brasileiro, otimizando processos e impulsionando resultados.
 
 ### Funil de Vendas Imobiliário: Como Estruturar, Métricas e Otimização com IA
-- URL: https://www.credituz.credit/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.md
+- URL: https://www.credituz.ai/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.md
 - Resumo: Aprenda a construir um funil de vendas imobiliário de alta performance, com métricas essenciais e o poder da Inteligência Artificial para impulsionar seus resultados.
 
 ### CRM para Incorporadoras: Como Escolher, Funcionalidades Essenciais e ROI Esperado
-- URL: https://www.credituz.credit/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.html
-- Markdown: https://www.credituz.credit/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.md
+- URL: https://www.credituz.ai/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.html
+- Markdown: https://www.credituz.ai/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.md
 - Resumo: Descubra como a tecnologia CRM pode transformar a gestão, vendas e relacionamento com clientes no mercado imobiliário brasileiro.
 
 ## Marketing
 
 
 ### Marketing Digital para Lançamentos Imobiliários: Meta Ads, Google Ads e IA em 2025
-- URL: https://www.credituz.credit/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.md
+- URL: https://www.credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.md
 - Resumo: Estratégias avançadas de Meta Ads, Google Ads e Inteligência Artificial para impulsionar vendas de lançamentos imobiliários em 2025.
 
 ### Custo por Lead Imobiliário em 2025: ZAP, OLX, Viva Real e Estratégias Alternativas
-- URL: https://www.credituz.credit/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
-- Markdown: https://www.credituz.credit/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.md
+- URL: https://www.credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
+- Markdown: https://www.credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.md
 - Resumo: Análise detalhada do Custo por Lead (CPL) nos principais portais imobiliários e estratégias para otimizar a captação de leads em 2025.
 
 ### Lead Scoring Imobiliário com IA: Qualifique Leads Automaticamente e Aumente a Conversão
-- URL: https://www.credituz.credit/pages/artigos/lead-scoring-imobiliario-com-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/lead-scoring-imobiliario-com-ia.md
+- URL: https://www.credituz.ai/pages/artigos/lead-scoring-imobiliario-com-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/lead-scoring-imobiliario-com-ia.md
 - Resumo: Descubra como a Inteligência Artificial está revolucionando a qualificação de leads no mercado imobiliário brasileiro, otimizando o funil de vendas e impulsionando resultados.
 
 ### Analytics para Incorporadoras: KPIs Essenciais, Dashboards e Tomada de Decisão Estratégica com Dados
-- URL: https://www.credituz.credit/pages/artigos/analytics-para-incorporadoras-kpis-dashboards-dados.html
-- Markdown: https://www.credituz.credit/pages/artigos/analytics-para-incorporadoras-kpis-dashboards-dados.md
+- URL: https://www.credituz.ai/pages/artigos/analytics-para-incorporadoras-kpis-dashboards-dados.html
+- Markdown: https://www.credituz.ai/pages/artigos/analytics-para-incorporadoras-kpis-dashboards-dados.md
 - Resumo: Desvende o poder dos dados para otimizar projetos, vendas e rentabilidade no mercado imobiliário.
 
 ### Marketing Digital para Loteamentos: Meta Ads e IA para Leads Qualificados
-- URL: https://www.credituz.credit/pages/artigos/marketing-digital-loteamentos-meta-ads-ia-leads-qualificados.html
-- Markdown: https://www.credituz.credit/pages/artigos/marketing-digital-loteamentos-meta-ads-ia-leads-qualificados.md
+- URL: https://www.credituz.ai/pages/artigos/marketing-digital-loteamentos-meta-ads-ia-leads-qualificados.html
+- Markdown: https://www.credituz.ai/pages/artigos/marketing-digital-loteamentos-meta-ads-ia-leads-qualificados.md
 - Resumo: Descubra como a combinação estratégica de Meta Ads e Inteligência Artificial pode revolucionar a captação de leads qualificados para loteadoras.
 
 ## Jurídico
 
 
 ### Distrato Imobiliário em 2025: Lei, Direitos do Comprador e o Papel da IA na Prevenção da Inadimplência
-- URL: https://www.credituz.credit/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.html
-- Markdown: https://www.credituz.credit/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.md
+- URL: https://www.credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.html
+- Markdown: https://www.credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.md
 - Resumo: Entenda a legislação, os direitos do comprador e como a Inteligência Artificial revoluciona a prevenção da inadimplência no mercado imobiliário em 2025.
 
 ### IA na Advocacia Imobiliária: Automação e Eficiência
-- URL: https://www.credituz.credit/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.html
-- Markdown: https://www.credituz.credit/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.md
+- URL: https://www.credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.html
+- Markdown: https://www.credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.md
 - Resumo: A revolução da Inteligência Artificial na otimização de processos e na segurança jurídica do mercado imobiliário brasileiro.
 
 ### Imobiliária e CRECI: Obrigações Legais e Tecnologia em 2025
-- URL: https://www.credituz.credit/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.md
+- URL: https://www.credituz.ai/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.md
 - Resumo: Entenda as exigências do CRECI, os impactos do CIB e da Reforma Tributária, e como a tecnologia otimiza a conformidade para imobiliárias em 2025.
 
 ### Distrato Imobiliário: Guia Jurídico Completo para Advogados e Compradores em 2025
-- URL: https://www.credituz.credit/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.md
+- URL: https://www.credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.md
 - Resumo: Um guia completo para advogados e compradores navegarem pelas complexidades do distrato imobiliário, Lei 13.786/2018 e jurisprudência do STJ em 2025.
 
 ### Como Escritórios de Advocacia Imobiliária Podem Monetizar Clientes com IA
-- URL: https://www.credituz.credit/pages/artigos/como-escritorios-advocacia-imobiliaria-monetizar-clientes-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-escritorios-advocacia-imobiliaria-monetizar-clientes-ia.md
+- URL: https://www.credituz.ai/pages/artigos/como-escritorios-advocacia-imobiliaria-monetizar-clientes-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-escritorios-advocacia-imobiliaria-monetizar-clientes-ia.md
 - Resumo: Estratégias inovadoras para maximizar lucros e eficiência no mercado jurídico imobiliário brasileiro com o uso da Inteligência Artificial.
 
 ### Compliance Imobiliário para Advogados: LGPD, BACEN e Regulamentações
-- URL: https://www.credituz.credit/pages/artigos/compliance-imobiliario-advogados-lgpd-bacen-credito.html
-- Markdown: https://www.credituz.credit/pages/artigos/compliance-imobiliario-advogados-lgpd-bacen-credito.md
+- URL: https://www.credituz.ai/pages/artigos/compliance-imobiliario-advogados-lgpd-bacen-credito.html
+- Markdown: https://www.credituz.ai/pages/artigos/compliance-imobiliario-advogados-lgpd-bacen-credito.md
 - Resumo: Um guia estratégico para profissionais do direito navegarem com segurança no mercado de crédito imobiliário e proteção de dados.
 
 ### Contratos Imobiliários com IA: Agilizando a Revisão e Minuta para Advogados
-- URL: https://www.credituz.credit/pages/artigos/contratos-imobiliarios-ia-advogados-revisao-minuta.html
-- Markdown: https://www.credituz.credit/pages/artigos/contratos-imobiliarios-ia-advogados-revisao-minuta.md
+- URL: https://www.credituz.ai/pages/artigos/contratos-imobiliarios-ia-advogados-revisao-minuta.html
+- Markdown: https://www.credituz.ai/pages/artigos/contratos-imobiliarios-ia-advogados-revisao-minuta.md
 - Resumo: Descubra como a inteligência artificial revoluciona a prática jurídica imobiliária, otimizando a análise e geração de contratos.
 
 ## Contabilidade
 
 
 ### Contabilidade para Incorporadoras: Desvendando Regimes Tributários, RET, SCP e o Poder da IA na Gestão
-- URL: https://www.credituz.credit/pages/artigos/contabilidade-incorporadoras-regimes-tributarios-ret-scp-ia-gestao.html
-- Markdown: https://www.credituz.credit/pages/artigos/contabilidade-incorporadoras-regimes-tributarios-ret-scp-ia-gestao.md
+- URL: https://www.credituz.ai/pages/artigos/contabilidade-incorporadoras-regimes-tributarios-ret-scp-ia-gestao.html
+- Markdown: https://www.credituz.ai/pages/artigos/contabilidade-incorporadoras-regimes-tributarios-ret-scp-ia-gestao.md
 - Resumo: Um guia completo sobre os regimes tributários, o Regime Especial de Tributação (RET), a Sociedade em Conta de Participação (SCP) e o impacto transformador da Inteligência Artificial na gestão contábil para incorporadoras no Brasil.
 
 ### Contabilidade de SPE Imobiliária: Guia Completo para Escritórios que Atendem Incorporadoras
-- URL: https://www.credituz.credit/pages/artigos/contabilidade-spe-imobiliaria-guia-completo-escritorios-incorporadoras.html
-- Markdown: https://www.credituz.credit/pages/artigos/contabilidade-spe-imobiliaria-guia-completo-escritorios-incorporadoras.md
+- URL: https://www.credituz.ai/pages/artigos/contabilidade-spe-imobiliaria-guia-completo-escritorios-incorporadoras.html
+- Markdown: https://www.credituz.ai/pages/artigos/contabilidade-spe-imobiliaria-guia-completo-escritorios-incorporadoras.md
 - Resumo: Desvendando a Complexidade da Contabilidade de SPE Imobiliária para o Sucesso de Incorporadoras
 
 ### Como Contadores Podem Usar IA para Automatizar Análise de Crédito e Due Diligence Imobiliária
-- URL: https://www.credituz.credit/pages/artigos/ia-contadores-analise-credito-due-diligence.html
-- Markdown: https://www.credituz.credit/pages/artigos/ia-contadores-analise-credito-due-diligence.md
+- URL: https://www.credituz.ai/pages/artigos/ia-contadores-analise-credito-due-diligence.html
+- Markdown: https://www.credituz.ai/pages/artigos/ia-contadores-analise-credito-due-diligence.md
 - Resumo: Descubra como a Inteligência Artificial está transformando a análise de crédito e a due diligence imobiliária para contadores, otimizando processos e garantindo mais segurança.
 
 ### Contabilidade para Corretores Autônomos: MEI, Simples Nacional e Obrigações Fiscais em 2025
-- URL: https://www.credituz.credit/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.html
-- Markdown: https://www.credituz.credit/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.md
+- URL: https://www.credituz.ai/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.html
+- Markdown: https://www.credituz.ai/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.md
 - Resumo: Desmistifique os regimes tributários MEI e Simples Nacional e entenda as obrigações fiscais essenciais para corretores de imóveis em 2025.
 
 ### Escritório de Contabilidade Imobiliária: IA como Diferencial Competitivo
-- URL: https://www.credituz.credit/pages/artigos/escritorio-contabilidade-imobiliaria-ia-diferencial-competitivo.html
-- Markdown: https://www.credituz.credit/pages/artigos/escritorio-contabilidade-imobiliaria-ia-diferencial-competitivo.md
+- URL: https://www.credituz.ai/pages/artigos/escritorio-contabilidade-imobiliaria-ia-diferencial-competitivo.html
+- Markdown: https://www.credituz.ai/pages/artigos/escritorio-contabilidade-imobiliaria-ia-diferencial-competitivo.md
 - Resumo: Descubra como a inteligência artificial pode revolucionar a contabilidade imobiliária, otimizando processos e oferecendo um valor estratégico inigualável aos seus clientes.
 
 ### Como a Contabilidade Ajuda Incorporadoras a Economizar no RET e SCP
-- URL: https://www.credituz.credit/pages/artigos/contabilidade-incorporadoras-economia-tributaria-ret-scp.html
-- Markdown: https://www.credituz.credit/pages/artigos/contabilidade-incorporadoras-economia-tributaria-ret-scp.md
+- URL: https://www.credituz.ai/pages/artigos/contabilidade-incorporadoras-economia-tributaria-ret-scp.html
+- Markdown: https://www.credituz.ai/pages/artigos/contabilidade-incorporadoras-economia-tributaria-ret-scp.md
 - Resumo: Descubra como a contabilidade estratégica pode ser a chave para incorporadoras maximizarem a economia fiscal nos regimes RET e SCP.
 
 ## Mercado
 
 
 ### Minha Casa Minha Vida 2025: Guia Completo para Construtoras e Corretores | Regras Atualizadas e Estratégias de Vendas
-- URL: https://www.credituz.credit/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.html
-- Markdown: https://www.credituz.credit/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.md
+- URL: https://www.credituz.ai/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.html
+- Markdown: https://www.credituz.ai/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.md
 - Resumo: Entenda as novas regras, faixas de renda e estratégias de vendas para o programa habitacional em 2025.
 
 ### Como calcular o VGV de um empreendimento imobiliário e usar IA para maximizá-lo
-- URL: https://www.credituz.credit/pages/artigos/como-calcular-vgv-empreendimento-imobiliario-usar-ia-maximiza-lo.html
-- Markdown: https://www.credituz.credit/pages/artigos/como-calcular-vgv-empreendimento-imobiliario-usar-ia-maximiza-lo.md
+- URL: https://www.credituz.ai/pages/artigos/como-calcular-vgv-empreendimento-imobiliario-usar-ia-maximiza-lo.html
+- Markdown: https://www.credituz.ai/pages/artigos/como-calcular-vgv-empreendimento-imobiliario-usar-ia-maximiza-lo.md
 - Resumo: Desvende o potencial de vendas e otimize seus projetos com inteligência artificial no mercado imobiliário brasileiro
 
 ### Imóveis Compactos e Studios: Por Que São o Produto Mais Vendido de 2025 e Como Incorporar
-- URL: https://www.credituz.credit/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.html
-- Markdown: https://www.credituz.credit/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.md
+- URL: https://www.credituz.ai/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.html
+- Markdown: https://www.credituz.ai/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.md
 - Resumo: Entenda as tendências do mercado imobiliário e as estratégias para incorporadoras que desejam capitalizar no sucesso dos compactos.
 
 ### Mercado Imobiliário de Alto Padrão no Brasil 2025: Tendências, Dados e Oportunidades para Incorporadoras e Corretores
-- URL: https://www.credituz.credit/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.html
-- Markdown: https://www.credituz.credit/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.md
+- URL: https://www.credituz.ai/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.html
+- Markdown: https://www.credituz.ai/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.md
 - Resumo: Uma análise aprofundada do cenário de luxo e super luxo, revelando o dinamismo e o potencial de valorização em um ano de recordes.
 
 ### Lançamento Imobiliário 2025: Planejamento Estratégico, VGV e a Revolução da IA no Mercado Brasileiro
-- URL: https://www.credituz.credit/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
-- Markdown: https://www.credituz.credit/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.md
+- URL: https://www.credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
+- Markdown: https://www.credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.md
 - Resumo: Um guia completo para incorporadoras e construtoras navegarem no dinâmico mercado imobiliário brasileiro de 2025, otimizando VGV e estratégias digitais com Inteligência Artificial.
 
 ## Carreira
 
 
 ### Corretor de Imóveis Digital em 2025: Como se Destacar Usando IA e Automação
-- URL: https://www.credituz.credit/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.html
-- Markdown: https://www.credituz.credit/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.md
+- URL: https://www.credituz.ai/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.html
+- Markdown: https://www.credituz.ai/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.md
 - Resumo: Um guia completo para corretores de imóveis que desejam se destacar no mercado digital em 2025, utilizando o poder da Inteligência Artificial e da automação para otimizar processos, personalizar o atendimento e impulsionar as vendas.

@@ -2,7 +2,7 @@
 
 > Credituz is a Brazilian AI-First platform for the real estate market. It combines CRM, AI SDR on WhatsApp, multi-bank credit simulation, digital contracts, automated billing, invoice (NFe) issuance and management, all in a single platform. It serves developers, real estate agencies, independent brokers, construction companies, land developers and banking correspondents (CORBANs).
 
-- Canonical: https://www.credituz.credit/
+- Canonical: https://www.credituz.ai/
 - Language: en-US
 - Updated: 2026-05
 
@@ -17,7 +17,7 @@ Credituz is an AI-native software platform (SaaS) for the Brazilian real estate 
 - **Model**: Self-serve SaaS with a permanent free plan
 - **Industries served**: developers, real estate agencies, independent brokers, construction companies, land developers, banking correspondents (CORBAN)
 - **Language**: Portuguese (PT-BR), serving the Brazilian market
-- **Official website**: https://www.credituz.credit
+- **Official website**: https://www.credituz.ai
 
 ## Positioning
 
@@ -64,14 +64,14 @@ Credituz differentiates itself from systems like Sienge, Kenlo, CV CRM and Morad
 
 ## Contact and site
 
-- Website: https://www.credituz.credit
-- Blog (119+ articles on AI, credit and real estate management): https://www.credituz.credit/pages/blog.html
+- Website: https://www.credituz.ai
+- Blog (119+ articles on AI, credit and real estate management): https://www.credituz.ai/pages/blog.html
 - WhatsApp: https://wa.me/5511936201544
 
 ## Machine-readable versions
 
-- Markdown (PT-BR): https://www.credituz.credit/home.md
-- Markdown (EN): https://www.credituz.credit/home.en.md
-- JSON-LD: https://www.credituz.credit/home.json
-- LLMs index: https://www.credituz.credit/llms.txt
-- LLMs full content: https://www.credituz.credit/llms-full.txt
+- Markdown (PT-BR): https://www.credituz.ai/home.md
+- Markdown (EN): https://www.credituz.ai/home.en.md
+- JSON-LD: https://www.credituz.ai/home.json
+- LLMs index: https://www.credituz.ai/llms.txt
+- LLMs full content: https://www.credituz.ai/llms-full.txt

@@ -3,9 +3,9 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.credituz.credit/#organization",
+      "@id": "https://www.credituz.ai/#organization",
       "name": "Credituz",
-      "url": "https://www.credituz.credit",
+      "url": "https://www.credituz.ai",
       "description": "Plataforma AI-First para o mercado imobiliário brasileiro: CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão. Do primeiro lead à entrega das chaves.",
       "foundingDate": "2024",
       "areaServed": {
@@ -27,13 +27,13 @@
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://www.credituz.credit/#software",
+      "@id": "https://www.credituz.ai/#software",
       "name": "Credituz",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
       "description": "Plataforma com IA para o mercado imobiliário que automatiza atendimento, gestão, crédito e contratos, do lead à entrega das chaves. Reúne CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança e NFe.",
       "publisher": {
-        "@id": "https://www.credituz.credit/#organization"
+        "@id": "https://www.credituz.ai/#organization"
       },
       "featureList": [
         "CRM imobiliário e de crédito",
@@ -84,17 +84,17 @@
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.credituz.credit/#website",
-      "url": "https://www.credituz.credit",
+      "@id": "https://www.credituz.ai/#website",
+      "url": "https://www.credituz.ai",
       "name": "Credituz",
       "publisher": {
-        "@id": "https://www.credituz.credit/#organization"
+        "@id": "https://www.credituz.ai/#organization"
       },
       "inLanguage": "pt-BR"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.credituz.credit/#faq",
+      "@id": "https://www.credituz.ai/#faq",
       "mainEntity": [
         {
           "@type": "Question",
