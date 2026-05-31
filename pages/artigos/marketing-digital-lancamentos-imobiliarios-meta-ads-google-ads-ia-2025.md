@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
+- Canonical: https://www.credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
 
 ---
 

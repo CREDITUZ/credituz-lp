@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.html
+- Canonical: https://www.credituz.ai/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.html
 
 ---
 

@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.credit/pages/artigos/marketing-digital-loteamentos-meta-ads-ia-leads-qualificados.html
+- Canonical: https://www.credituz.ai/pages/artigos/marketing-digital-loteamentos-meta-ads-ia-leads-qualificados.html
 
 ---
 

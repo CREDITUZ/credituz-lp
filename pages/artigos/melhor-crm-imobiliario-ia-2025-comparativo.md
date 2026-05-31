@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.credit/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.html
+- Canonical: https://www.credituz.ai/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.html
 
 ---
 
