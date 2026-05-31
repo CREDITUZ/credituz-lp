@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Credituz · Mais negócios fechados. Menos tempo perdido.</title>
-<meta name="description" content="Mais negócios fechados. Menos tempo perdido. Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança em um fluxo só.">
+<meta name="description" content="Mais negócios fechados. Menos tempo perdido. Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança de forma automatizada.">
 <link rel="alternate" type="text/markdown" href="/home.md" title="Versão Markdown para IA e agentes">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.credituz.ai/#organization","name":"Credituz","url":"https://www.credituz.ai","description":"Plataforma AI-First para o mercado imobiliário brasileiro: CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão. Do primeiro lead à entrega das chaves.","foundingDate":"2024","areaServed":{"@type":"Country","name":"Brasil"},"knowsLanguage":["pt-BR"],"sameAs":[],"contactPoint":{"@type":"ContactPoint","contactType":"sales","telephone":"+55-11-93620-1544","availableLanguage":["Portuguese"]}},{"@type":"SoftwareApplication","@id":"https://www.credituz.ai/#software","name":"Credituz","applicationCategory":"BusinessApplication","operatingSystem":"Web","description":"Plataforma com IA para o mercado imobiliário que automatiza atendimento, gestão, crédito e contratos, do lead à entrega das chaves. Reúne CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança e NFe.","publisher":{"@id":"https://www.credituz.ai/#organization"},"featureList":["CRM imobiliário e de crédito","SDR com IA no WhatsApp (agente Sofia)","Simulação de crédito multibancos (agente Carlos)","Contratos digitais com IA (agente Ana)","Gestão de pós-venda, obras e repasses (agente Max)","Analytics generativo (agente Iris)","Régua de cobrança automatizada","Emissão de NFe","Originação de crédito embarcada"],"offers":[{"@type":"Offer","name":"Free","price":"0","priceCurrency":"BRL","description":"Plano gratuito permanente: 100 leads/mês, 1 usuário, CRM de crédito, simulação multi-banco ilimitada, 3 contratos com IA/mês."},{"@type":"Offer","name":"Starter","price":"49","priceCurrency":"BRL","description":"1 usuário, CRM imobiliário + crédito, até 50 empreendimentos, SDR AI no WhatsApp até 30 leads/mês, 10 contratos com IA/mês."},{"@type":"Offer","name":"Pro","price":"497","priceCurrency":"BRL","description":"Até 5 usuários e 100 empreendimentos, integração ZAP/OLX/VivaReal, SDR AI até 100 leads/mês, 50 contratos com IA/mês, analytics IA."},{"@type":"Offer","name":"Business","price":"997","priceCurrency":"BRL","description":"Até 30 usuários, empreendimentos ilimitados, SDR AI até 500 leads/mês, 1.000 contratos com IA/mês, NFe, régua de cobrança, conta Asaas, gestão de obras."},{"@type":"Offer","name":"Enterprise","description":"Sob consulta: usuários e contratos customizados, multi-empresa, White Label, API, SSO, ISO/SOC2, SLA 99,9%."}]},{"@type":"WebSite","@id":"https://www.credituz.ai/#website","url":"https://www.credituz.ai","name":"Credituz","publisher":{"@id":"https://www.credituz.ai/#organization"},"inLanguage":"pt-BR"},{"@type":"FAQPage","@id":"https://www.credituz.ai/#faq","mainEntity":[{"@type":"Question","name":"Quanto custa começar?","acceptedAnswer":{"@type":"Answer","text":"Zero. O plano Free é gratuito para sempre, sem cartão de crédito. A Sofia (SDR AI) entra a partir do plano Pro."}},{"@type":"Question","name":"Como a Credituz ganha dinheiro?","acceptedAnswer":{"@type":"Answer","text":"Por duas fontes: mensalidade dos planos pagos (Starter, Pro, Business, Enterprise) e comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado."}},{"@type":"Question","name":"Funciona com meu CRM atual?","acceptedAnswer":{"@type":"Answer","text":"Sim. A Credituz importa contatos em 1 clique. A integração nativa com ZAP, OLX e VivaReal está disponível a partir do plano Pro."}},{"@type":"Question","name":"Quanto tempo até começar a usar?","acceptedAnswer":{"@type":"Answer","text":"Setup self-serve em 5 minutos, sem implantação longa e sem treinamento agendado."}}]}]}</script>
 
@@ -3659,6 +3659,67 @@ footer {
 }
 
 /* ============================================================
+   COBRANÇA / RÉGUA AUTOMATIZADA
+   ============================================================ */
+.collect { max-width: 1280px; margin: 0 auto; padding: 96px 32px; }
+.collect-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center; }
+.collect h2 {
+    font-family: 'Fraunces', serif;
+    font-size: clamp(30px, 3.4vw, 46px);
+    line-height: 1.06;
+    letter-spacing: -0.02em;
+    font-weight: 400;
+    color: var(--ink);
+    margin: 14px 0 18px;
+}
+.collect-sub { font-size: 18px; line-height: 1.55; color: var(--gray-2); margin-bottom: 28px; max-width: 52ch; }
+.collect-points { list-style: none; display: flex; flex-direction: column; gap: 16px; margin: 0 0 26px; padding: 0; }
+.collect-points li { font-size: 15.5px; line-height: 1.55; color: var(--gray-2); padding-left: 26px; position: relative; }
+.collect-points li::before { content: ''; position: absolute; left: 0; top: 7px; width: 12px; height: 12px; border-radius: 4px; background: var(--lime); }
+.collect-points strong { color: var(--ink); font-weight: 600; }
+.collect-channels { display: flex; gap: 10px; flex-wrap: wrap; }
+.collect-channels .chan {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    padding: 7px 14px;
+    border: 1px solid var(--gray-soft);
+    border-radius: 100px;
+    color: var(--gray-1);
+    background: #fff;
+}
+
+.collect-visual { justify-self: end; width: 100%; max-width: 440px; }
+.collect-card {
+    background: var(--ink);
+    color: var(--paper);
+    border-radius: 24px;
+    padding: 24px;
+    box-shadow: 0 30px 60px rgba(0,0,0,0.15);
+}
+.cc-head { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.cc-dot { width: 34px; height: 34px; border-radius: 50%; background: var(--lime); color: var(--ink); display: flex; align-items: center; justify-content: center; font-family: 'Fraunces', serif; font-weight: 600; }
+.cc-name { font-weight: 600; font-size: 14px; }
+.cc-role { font-size: 12px; color: rgba(250,250,247,0.55); }
+.cc-msg { background: rgba(255,255,255,0.06); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; line-height: 1.5; margin-bottom: 16px; }
+.cc-pay { display: inline-block; margin-top: 10px; font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--lime); border: 1px solid rgba(196,243,82,0.4); border-radius: 100px; padding: 4px 12px; }
+.cc-ruler { display: flex; flex-direction: column; border-top: 1px solid rgba(255,255,255,0.08); padding-top: 14px; }
+.cc-step { display: flex; align-items: center; gap: 12px; padding: 8px 0; }
+.cc-day { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--lime); width: 36px; flex-shrink: 0; }
+.cc-ch { font-size: 11px; color: rgba(250,250,247,0.55); width: 72px; flex-shrink: 0; }
+.cc-txt { font-size: 12.5px; color: rgba(250,250,247,0.85); }
+.cc-step.done .cc-day { color: var(--lime-deep); }
+
+@media (max-width: 900px) {
+    .collect { padding: 64px 20px; }
+    .collect-inner { grid-template-columns: 1fr; gap: 36px; }
+    .collect-visual { justify-self: stretch; max-width: 100%; }
+}
+@media (max-width: 540px) {
+    .collect { padding: 52px 16px; }
+    .cc-ch { width: 60px; }
+}
+
+/* ============================================================
    HERO RESPONSIVO (consolidado) — garante título, subtítulo,
    os dois botões e o chat já na primeira tela em qualquer aparelho.
    Vem por último para vencer as media queries anteriores.
@@ -3759,7 +3820,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </h1>
     <p class="hero-lead">O sistema mais completo para o setor imobiliário.</p>
     <p class="hero-sub" id="heroSub">
-        Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança em um fluxo só. Sua equipe focada em fechar a venda.
+        Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança de forma automatizada. Sua equipe focada em fechar a venda.
     </p>
     <div class="hero-ttv">
         <span class="hero-ttv-item"><span class="hero-ttv-num">30s</span><span class="hero-ttv-label">Primeira simulação de crédito</span></span>
@@ -3888,6 +3949,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row"><span>Custo por lead</span><span>por canal</span></div>
                 <div class="row"><span>ROI por campanha</span><span>tempo real</span></div>
                 <div class="row best"><span>Recomendações IA</span><span>semanal</span></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- COBRANÇA -->
+<section class="collect" id="cobranca">
+    <div class="collect-inner">
+        <div class="collect-copy">
+            <div class="section-tag">Cobrança</div>
+            <h2>Cobrança que recupera, sem <span class="underline-wrap">desgastar o cliente</span>.</h2>
+            <p class="collect-sub">Régua de cobrança automatizada e humanizada: a mensagem certa, na hora certa, no canal que o cliente realmente usa. Mais recuperação, menos inadimplência, sem time de cobrança.</p>
+            <ul class="collect-points">
+                <li><strong>Multicanal de verdade.</strong> WhatsApp, SMS e e-mail. A régua escolhe o canal e o tom certos para cada etapa do atraso.</li>
+                <li><strong>Conta Credituz ou a sua.</strong> Receba pela Conta Credituz ou conecte qualquer banco via API. Pix, boleto e link de pagamento na própria mensagem.</li>
+                <li><strong>Humanizada, rápida e fácil.</strong> Lembretes no tom certo, sem constranger. Baixa automática assim que o cliente paga.</li>
+            </ul>
+            <div class="collect-channels">
+                <span class="chan">WhatsApp</span>
+                <span class="chan">SMS</span>
+                <span class="chan">E-mail</span>
+                <span class="chan">Pix · Boleto · Link</span>
+            </div>
+        </div>
+        <div class="collect-visual">
+            <div class="collect-card">
+                <div class="cc-head">
+                    <div class="cc-dot">M</div>
+                    <div>
+                        <div class="cc-name">Max · Cobrança</div>
+                        <div class="cc-role">régua automatizada</div>
+                    </div>
+                </div>
+                <div class="cc-msg">Oi, Marina! Passando para lembrar que sua parcela vence hoje. Posso te mandar o Pix para deixar tudo em dia?<span class="cc-pay">Pix · pagar agora</span></div>
+                <div class="cc-ruler">
+                    <div class="cc-step"><span class="cc-day">D+0</span><span class="cc-ch">WhatsApp</span><span class="cc-txt">Lembrete amigável de vencimento</span></div>
+                    <div class="cc-step"><span class="cc-day">D+3</span><span class="cc-ch">SMS</span><span class="cc-txt">Aviso de atraso e link Pix</span></div>
+                    <div class="cc-step"><span class="cc-day">D+7</span><span class="cc-ch">E-mail</span><span class="cc-txt">Regularização e boleto atualizado</span></div>
+                    <div class="cc-step done"><span class="cc-day">✓</span><span class="cc-ch">Pago</span><span class="cc-txt">Baixa automática e recibo enviado</span></div>
+                </div>
             </div>
         </div>
     </div>
@@ -5302,7 +5403,7 @@ const TITLE_VARIANTS = [
     {
         tag: 'Comece em R$ 0. Sem implantação de 60 dias.',
         html: 'Mais negócios fechados. <span class="underline-wrap">Menos tempo perdido</span>.',
-        sub: 'Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança em um fluxo só. Sua equipe focada em fechar a venda.'
+        sub: 'Automação de vendas com IA que gera, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança de forma automatizada. Sua equipe focada em fechar a venda.'
     },
     {
         tag: 'Plataforma com IA · do lead à entrega das chaves',
