@@ -167,13 +167,13 @@ nav ul a:hover { color: var(--ink); }
 
 /* ============ HERO ============ */
 .hero {
-    padding: 140px 32px 80px;
+    padding: 116px 32px 56px;
     max-width: 1280px;
     margin: 0 auto;
     position: relative;
     display: grid;
     grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
-    gap: 64px;
+    gap: 56px;
     align-items: center;
 }
 
@@ -188,7 +188,7 @@ nav ul a:hover { color: var(--ink); }
     border-radius: 100px;
     font-size: 13px;
     font-weight: 500;
-    margin-bottom: 32px;
+    margin-bottom: 16px;
     color: var(--gray-1);
 }
 
@@ -208,11 +208,11 @@ nav ul a:hover { color: var(--ink); }
 
 h1.hero-title {
     font-family: 'Fraunces', serif;
-    font-size: clamp(40px, 5.2vw, 80px);
-    line-height: 1;
-    letter-spacing: -0.035em;
+    font-size: clamp(34px, 3.4vw, 54px);
+    line-height: 1.02;
+    letter-spacing: -0.03em;
     font-weight: 400;
-    margin-bottom: 32px;
+    margin-bottom: 20px;
     color: var(--ink);
 }
 
@@ -223,20 +223,14 @@ h1.hero-title em {
 }
 
 h1.hero-title .underline-wrap {
-    position: relative;
-    display: inline-block;
+    background-image: linear-gradient(to top, var(--lime) 0.30em, transparent 0.30em);
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    padding: 0 0.03em;
 }
 
 h1.hero-title .underline-wrap::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0.1em;
-    width: 100%;
-    height: 0.35em;
-    background: var(--lime);
-    z-index: -1;
-    transform: skewX(-2deg);
+    display: none;
 }
 
 /* Garante que o destaque lime apareça também fora do hero (ex.: seção A solução) */
@@ -246,10 +240,10 @@ h1.hero-title .underline-wrap::after {
 }
 
 .hero-sub {
-    font-size: 19px;
+    font-size: 18px;
     line-height: 1.5;
     color: var(--gray-2);
-    margin-bottom: 40px;
+    margin-bottom: 22px;
 }
 
 .hero-actions {
@@ -262,9 +256,9 @@ h1.hero-title .underline-wrap::after {
 .hero-ttv {
     display: flex;
     flex-wrap: wrap;
-    gap: 18px 28px;
-    margin-bottom: 32px;
-    padding: 18px 22px;
+    gap: 16px 28px;
+    margin-bottom: 20px;
+    padding: 14px 18px;
     background: rgba(0, 0, 0, 0.025);
     border-left: 2px solid var(--lime);
     border-radius: 4px 12px 12px 4px;
@@ -298,7 +292,7 @@ h1.hero-title .underline-wrap::after {
 .btn-primary {
     background: var(--ink);
     color: var(--paper);
-    padding: 18px 32px;
+    padding: 15px 28px;
     border-radius: 100px;
     font-size: 16px;
     font-weight: 600;
@@ -338,7 +332,7 @@ h1.hero-title .underline-wrap::after {
 .btn-secondary:hover { border-color: var(--ink); }
 
 .hero-meta {
-    margin-top: 32px;
+    margin-top: 18px;
     font-size: 14px;
     color: var(--gray-3);
     display: flex;
