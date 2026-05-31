@@ -3771,8 +3771,8 @@ footer {
 }
 
 /* ============================================================
-   HERO RESPONSIVO (consolidado) — garante título, subtítulo,
-   os dois botões e o chat já na primeira tela em qualquer aparelho.
+   HERO RESPONSIVO (consolidado) — mobile: a primeira tela termina
+   nos botões; o chat da Sofia aparece ao rolar. Mais respiro.
    Vem por último para vencer as media queries anteriores.
    ============================================================ */
 @media (max-width: 900px) {
@@ -3780,58 +3780,71 @@ footer {
         display: flex !important;
         flex-direction: column !important;
         align-items: stretch !important;
-        gap: 18px !important;
-        padding: 88px 20px 40px !important;
+        gap: 28px !important;
+        padding: 0 22px 56px !important;
+        max-width: 580px;
     }
-    .hero-content { display: flex; flex-direction: column; gap: 14px; }
+    .hero-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 18px;
+        min-height: 100vh;
+        min-height: 100svh;
+        padding-top: 80px;
+        padding-bottom: 12px;
+    }
     .hero-tag { margin: 0 !important; align-self: flex-start; }
-    .hero-title { margin: 0 !important; line-height: 1.04 !important; }
-    .hero-lead { margin: 0 !important; font-size: 16px !important; }
-    .hero-sub { margin: 0 !important; line-height: 1.45 !important; }
-    /* stats saem da primeira dobra para priorizar CTAs + chat */
+    .hero-title { margin: 0 !important; line-height: 1.06 !important; font-size: clamp(30px, 8.5vw, 44px) !important; }
+    .hero-lead { margin: 0 !important; font-size: 17px !important; }
+    .hero-sub { margin: 0 !important; line-height: 1.5 !important; font-size: 16px !important; }
+    /* stats e meta fora da LP mobile para deixar o hero limpo */
     .hero-ttv { display: none !important; }
-    .hero-meta { margin: 0 !important; }
+    .hero-meta { display: none !important; }
     .hero-actions {
-        flex-direction: row !important;
-        flex-wrap: wrap;
-        gap: 10px !important;
-        margin: 2px 0 0 !important;
+        flex-direction: column !important;
+        gap: 12px !important;
+        margin: 8px 0 0 !important;
     }
     .hero-actions .btn-primary,
     .hero-actions .btn-secondary {
-        flex: 1 1 auto;
+        width: 100%;
         justify-content: center;
-        white-space: nowrap;
     }
     .hero-widget {
         transform: none !important;
         margin: 0 auto !important;
         max-width: 100% !important;
+        padding: 20px !important;
+        border-radius: 20px !important;
     }
 }
 
-@media (max-width: 768px) {
-    .hero { padding: 80px 18px 36px !important; gap: 16px !important; }
-    .hero-title { font-size: clamp(28px, 8vw, 42px) !important; }
+@media (max-width: 400px) {
+    .hero-content { padding-top: 74px; gap: 16px; }
+    .hero-title { font-size: clamp(27px, 8.5vw, 38px) !important; }
+    .hero-lead { font-size: 16px !important; }
     .hero-sub { font-size: 15px !important; }
-    .hero-meta { display: none !important; }
-    .hero-actions .btn-primary,
-    .hero-actions .btn-secondary { padding: 12px 14px !important; font-size: 14px !important; }
-    /* chat compacto para caber na primeira tela */
-    .hero-widget { padding: 16px !important; border-radius: 18px !important; }
-    .hero-widget .msg { font-size: 13px !important; padding: 8px 12px !important; margin-bottom: 8px !important; }
-    .hero-widget .widget-card { padding: 12px !important; }
-    .hero-widget .widget-card-row { font-size: 12.5px !important; }
 }
 
-@media (max-width: 400px) {
-    .hero { padding: 76px 14px 32px !important; gap: 14px !important; }
-    .hero-title { font-size: 27px !important; }
-    .hero-sub { font-size: 14px !important; }
-    .hero-actions { gap: 8px !important; }
-    .hero-actions .btn-primary,
-    .hero-actions .btn-secondary { padding: 11px 10px !important; font-size: 13px !important; }
-    .hero-widget { padding: 14px !important; }
+/* Banner de cookies compacto no mobile: barra fina na base, largura
+   total, que não cobre os botões do hero. */
+@media (max-width: 768px) {
+    .cookie-banner {
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        max-width: 100% !important;
+        border-radius: 16px 16px 0 0 !important;
+        border-left: none !important;
+        border-right: none !important;
+        border-bottom: none !important;
+        padding: 14px 16px calc(14px + env(safe-area-inset-bottom, 0px)) !important;
+    }
+    .cookie-banner h5 { font-size: 14px !important; margin-bottom: 4px !important; }
+    .cookie-banner p { font-size: 12px !important; line-height: 1.4 !important; margin-bottom: 10px !important; }
+    .cookie-actions { gap: 8px !important; flex-wrap: nowrap !important; }
+    .cookie-actions button { flex: 1 1 0 !important; padding: 10px 12px !important; font-size: 12.5px !important; }
 }
 </style>
 </head>
