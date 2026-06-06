@@ -57,21 +57,21 @@
         {
           "@type": "Offer",
           "name": "Starter",
-          "price": "49",
+          "price": "55",
           "priceCurrency": "BRL",
           "description": "1 usuário, CRM imobiliário + crédito, até 50 empreendimentos, contatos no CRM ilimitados, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês."
         },
         {
           "@type": "Offer",
           "name": "Pro",
-          "price": "497",
+          "price": "557",
           "priceCurrency": "BRL",
           "description": "Até 5 usuários e 100 empreendimentos, até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI até 100 clientes/mês, 50 contratos com IA/mês, analytics IA."
         },
         {
           "@type": "Offer",
           "name": "Business",
-          "price": "997",
+          "price": "1117",
           "priceCurrency": "BRL",
           "description": "Até 30 usuários, empreendimentos ilimitados, contatos no CRM ilimitados, SDR AI até 500 clientes/mês, 1.000 contratos com IA/mês, NFe, régua de cobrança, conta Asaas, gestão de obras."
         },
