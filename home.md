@@ -52,10 +52,10 @@ A Credituz integra tudo isso em uma plataforma, com IA do primeiro lead à entre
 
 A Credituz cobra por plano (não por usuário individual) e tem plano gratuito permanente.
 
-- **Free — R$ 0/mês (permanente)**: corretor, imobiliária ou construtor testando a plataforma. 100 leads/mês, 1 usuário, CRM de crédito, LP de vendas para 1 empreendimento, simulação multi-banco ilimitada, 3 contratos com IA/mês, originação de crédito ativa.
-- **Starter — R$ 49/mês (R$ 39 no anual)**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com leads ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 leads/mês, 10 contratos com IA/mês, cartórios digitais.
-- **Pro — R$ 497/mês (R$ 398 no anual)**: equipe pequena, até 5 corretores e 100 empreendimentos. Integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 100 leads/mês, 50 contratos com IA/mês, analytics IA-generativo.
-- **Business — R$ 997/mês (R$ 798 no anual)**: operação consolidada, até 30 usuários e empreendimentos ilimitados. SDR AI no WhatsApp até 500 leads/mês, 1.000 contratos com IA/mês, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
+- **Free — R$ 0/mês (permanente)**: corretor, imobiliária ou construtor testando a plataforma. 500 contatos no CRM, 1 usuário, CRM de crédito, LP de vendas para 1 empreendimento, simulação multi-banco ilimitada, 3 contratos com IA/mês, originação de crédito ativa.
+- **Starter — R$ 49/mês (R$ 39 no anual)**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com contatos ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês, cartórios digitais.
+- **Pro — R$ 497/mês (R$ 398 no anual)**: equipe pequena, até 5 corretores e 100 empreendimentos. Até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 100 clientes/mês, 50 contratos com IA/mês, analytics IA-generativo.
+- **Business — R$ 997/mês (R$ 798 no anual)**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 500 clientes/mês, 1.000 contratos com IA/mês, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
 - **Enterprise — sob consulta**: redes, holdings e grandes construtoras/incorporadoras. Usuários customizados, multi-empresa, contratos com IA customizados, contas digitais Asaas customizadas, White Label, API pública, SSO, ISO/SOC2, SLA 99,9%, CS nominal e onboarding presencial.
 
 ## Como a Credituz se compara aos concorrentes

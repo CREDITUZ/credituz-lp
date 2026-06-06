@@ -52,10 +52,10 @@ Credituz integrates all of this into one platform, with AI from the first lead t
 
 Credituz charges per plan (not per individual user) and has a permanent free plan.
 
-- **Free — R$ 0/month (permanent)**: 100 leads/month, 1 user, credit CRM, sales landing page for 1 development, unlimited multi-bank simulation, 3 AI contracts/month, active credit origination.
-- **Starter — R$ 49/month (R$ 39 annual)**: 1 user, real estate + credit CRM with unlimited leads, up to 50 developments and 50 landing pages, AI SDR on WhatsApp up to 30 leads/month, 10 AI contracts/month, digital registry offices.
-- **Pro — R$ 497/month (R$ 398 annual)**: small team, up to 5 brokers and 100 developments. ZAP/OLX/VivaReal integration, AI SDR on WhatsApp up to 100 leads/month, 50 AI contracts/month, generative AI analytics.
-- **Business — R$ 997/month (R$ 798 annual)**: consolidated operation, up to 30 users and unlimited developments. AI SDR on WhatsApp up to 500 leads/month, 1,000 AI contracts/month, NFe at R$ 0.49/invoice, automated billing, included Asaas digital account, construction management, dedicated customer success.
+- **Free — R$ 0/month (permanent)**: 500 CRM contacts, 1 user, credit CRM, sales landing page for 1 development, unlimited multi-bank simulation, 3 AI contracts/month, active credit origination.
+- **Starter — R$ 49/month (R$ 39 annual)**: 1 user, real estate + credit CRM with unlimited contacts, up to 50 developments and 50 landing pages, AI SDR on WhatsApp up to 30 clients/month, 10 AI contracts/month, digital registry offices.
+- **Pro — R$ 497/month (R$ 398 annual)**: small team, up to 5 brokers and 100 developments. Up to 2,000 CRM contacts, ZAP/OLX/VivaReal integration, AI SDR on WhatsApp up to 100 clients/month, 50 AI contracts/month, generative AI analytics.
+- **Business — R$ 997/month (R$ 798 annual)**: consolidated operation, up to 30 users and unlimited developments. Unlimited CRM contacts. AI SDR on WhatsApp up to 500 clients/month, 1,000 AI contracts/month, NFe at R$ 0.49/invoice, automated billing, included Asaas digital account, construction management, dedicated customer success.
 - **Enterprise — custom quote**: networks, holdings and large construction/development companies. Custom users, multi-company, custom AI contracts, custom Asaas digital accounts, White Label, public API, SSO, ISO/SOC2, 99.9% SLA, named CS and on-site onboarding.
 
 ## How Credituz compares to competitors

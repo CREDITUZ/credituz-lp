@@ -52,28 +52,28 @@
           "name": "Free",
           "price": "0",
           "priceCurrency": "BRL",
-          "description": "Plano gratuito permanente: 100 leads/mês, 1 usuário, CRM de crédito, simulação multi-banco ilimitada, 3 contratos com IA/mês."
+          "description": "Plano gratuito permanente: 500 contatos no CRM, 1 usuário, CRM de crédito, simulação multi-banco ilimitada, 3 contratos com IA/mês."
         },
         {
           "@type": "Offer",
           "name": "Starter",
           "price": "49",
           "priceCurrency": "BRL",
-          "description": "1 usuário, CRM imobiliário + crédito, até 50 empreendimentos, SDR AI no WhatsApp até 30 leads/mês, 10 contratos com IA/mês."
+          "description": "1 usuário, CRM imobiliário + crédito, até 50 empreendimentos, contatos no CRM ilimitados, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês."
         },
         {
           "@type": "Offer",
           "name": "Pro",
           "price": "497",
           "priceCurrency": "BRL",
-          "description": "Até 5 usuários e 100 empreendimentos, integração ZAP/OLX/VivaReal, SDR AI até 100 leads/mês, 50 contratos com IA/mês, analytics IA."
+          "description": "Até 5 usuários e 100 empreendimentos, até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI até 100 clientes/mês, 50 contratos com IA/mês, analytics IA."
         },
         {
           "@type": "Offer",
           "name": "Business",
           "price": "997",
           "priceCurrency": "BRL",
-          "description": "Até 30 usuários, empreendimentos ilimitados, SDR AI até 500 leads/mês, 1.000 contratos com IA/mês, NFe, régua de cobrança, conta Asaas, gestão de obras."
+          "description": "Até 30 usuários, empreendimentos ilimitados, contatos no CRM ilimitados, SDR AI até 500 clientes/mês, 1.000 contratos com IA/mês, NFe, régua de cobrança, conta Asaas, gestão de obras."
         },
         {
           "@type": "Offer",
