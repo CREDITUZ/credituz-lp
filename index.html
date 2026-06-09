@@ -3862,6 +3862,23 @@ footer {
     .cookie-actions { gap: 8px !important; flex-wrap: nowrap !important; }
     .cookie-actions button { flex: 1 1 0 !important; padding: 10px 12px !important; font-size: 12.5px !important; }
 }
+
+/* ===== Menu responsivo: hambúrguer (tablet + mobile, <=1024px) ===== */
+.nav-toggle{display:none;width:44px;height:44px;flex-direction:column;justify-content:center;align-items:center;gap:5px;background:transparent;border:0;cursor:pointer;padding:10px;border-radius:10px;-webkit-tap-highlight-color:transparent;}
+.nav-toggle span{display:block;width:22px;height:2px;border-radius:2px;background:var(--ink);transition:transform .3s ease,opacity .2s ease;}
+.nav-toggle[aria-expanded="true"] span:nth-child(1){transform:translateY(7px) rotate(45deg);}
+.nav-toggle[aria-expanded="true"] span:nth-child(2){opacity:0;}
+.nav-toggle[aria-expanded="true"] span:nth-child(3){transform:translateY(-7px) rotate(-45deg);}
+@media (max-width:1024px){
+  .nav-toggle{display:flex;}
+  #navMenu{position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:var(--paper);border-top:1px solid var(--gray-soft);border-bottom:1px solid var(--gray-soft);box-shadow:0 16px 32px rgba(10,10,10,.10);padding:6px 20px 14px;max-height:80vh;overflow-y:auto;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity .22s ease,transform .22s ease,visibility .22s;}
+  #navMenu.open{opacity:1;visibility:visible;transform:translateY(0);}
+  #navMenu li{display:block;}
+  #navMenu li a{display:block;padding:15px 4px;font-size:16px;color:var(--ink);border-bottom:1px solid var(--gray-soft);}
+  #navMenu li:last-child{padding-top:10px;}
+  #navMenu li:last-child a{border-bottom:0;}
+  #navMenu a.nav-cta{text-align:center;padding:14px 18px;margin-top:4px;color:var(--paper);border-radius:100px;font-size:15px;}
+}
 </style>
 </head>
 <body id="top">
@@ -3880,7 +3897,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="#top" class="logo-link" aria-label="Credituz · ir para o início" onclick="event.preventDefault(); window.scrollTo({top: 0, behavior: 'smooth'});">
             <div class="logo">Credituz<span class="logo-dot"></span></div>
         </a>
-        <ul>
+        <button type="button" class="nav-toggle" id="navToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="navMenu" onclick="toggleNavMenu()"><span></span><span></span><span></span></button>
+        <ul id="navMenu">
             <li><a href="#top" onclick="event.preventDefault(); window.scrollTo({top: 0, behavior: 'smooth'});">Home</a></li>
             <li><a href="#produto">Produto</a></li>
             <li><a href="#como-funciona">Como funciona</a></li>
@@ -5600,5 +5618,27 @@ try { window.parent.postMessage({type:'__edit_mode_available'}, '*'); } catch(e)
     <span class="wa-bubble-tooltip">Fale conosco</span>
 </a>
 
+
+<script>
+(function(){
+  function btn(){return document.getElementById('navToggle');}
+  function menu(){return document.getElementById('navMenu');}
+  window.toggleNavMenu=function(){
+    var m=menu(),b=btn(); if(!m||!b) return;
+    var open=m.classList.toggle('open');
+    b.setAttribute('aria-expanded',open?'true':'false');
+    b.setAttribute('aria-label',open?'Fechar menu':'Abrir menu');
+  };
+  function closeNavMenu(){
+    var m=menu(),b=btn(); if(!m||!b) return;
+    if(m.classList.contains('open')){m.classList.remove('open');b.setAttribute('aria-expanded','false');b.setAttribute('aria-label','Abrir menu');}
+  }
+  var m=menu();
+  if(m){m.querySelectorAll('a').forEach(function(a){a.addEventListener('click',closeNavMenu);});}
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')closeNavMenu();});
+  document.addEventListener('click',function(e){var n=document.getElementById('nav');if(n&&!n.contains(e.target))closeNavMenu();});
+  window.addEventListener('resize',function(){if(window.innerWidth>1024)closeNavMenu();});
+})();
+</script>
 </body>
 </html>
