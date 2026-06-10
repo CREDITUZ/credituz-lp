@@ -80,6 +80,19 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+/* ============ FAIXA LOCAÇÃO ============ */
+.rentals-link { padding: 8px 32px 40px; }
+.rentals-link-inner {
+    max-width: 1100px; margin: 0 auto;
+    display: flex; align-items: center; justify-content: space-between; gap: 18px;
+    background: var(--paper-warm); border: 1px solid var(--gray-soft);
+    border-radius: 18px; padding: 20px 26px; font-size: 15px; color: var(--gray-2);
+    flex-wrap: wrap;
+}
+.rentals-link-inner strong { color: var(--ink); }
+.rentals-link-inner a { color: var(--ink); font-weight: 700; text-decoration: none; white-space: nowrap; }
+.rentals-link-inner a:hover { text-decoration: underline; }
+
 /* ============ NAV ============ */
 nav {
     position: fixed;
@@ -4008,33 +4021,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
-<!-- LOCAÇÃO E TEMPORADA -->
-<section class="rentals" id="locacao">
-    <div class="rentals-inner">
-        <div class="section-tag">Locação e temporada</div>
-        <h2>Aluguel e temporada, <span class="underline-wrap">no mesmo sistema</span>.</h2>
-        <p class="rentals-sub">Imobiliárias de locação e gestores de temporada operam tudo na Credituz: anúncios, reservas, hóspedes, preços e cobrança recorrente, num painel só. Sem pular entre plataformas.</p>
-        <div class="rentals-grid">
-            <div class="rentals-card">
-                <h4>Reservas e anúncios num lugar só</h4>
-                <p>Gerencie reservas, hóspedes, anúncios, disponibilidade e preços de toda a sua carteira em um único painel.</p>
-            </div>
-            <div class="rentals-card">
-                <h4>Sincronizado com as OTAs</h4>
-                <p>Disponibilidade e tarifas sempre alinhadas com Airbnb, Booking, Expedia, Google Hotels e outras. Sem dupla reserva.</p>
-            </div>
-            <div class="rentals-card">
-                <h4>Automação e dashboards</h4>
-                <p>Fluxos automáticos de cobrança recorrente, mensagens e check-in/check-out, com painéis sob medida para a sua operação.</p>
-            </div>
-        </div>
-        <div class="rentals-chips">
-            <span>Airbnb</span>
-            <span>Booking</span>
-            <span>Expedia</span>
-            <span>Google Hotels</span>
-            <span>e outras OTAs</span>
-        </div>
+<!-- LOCAÇÃO E TEMPORADA: página dedicada -->
+<section class="rentals-link">
+    <div class="rentals-link-inner">
+        <span>Também opera <strong>locação e temporada</strong>: atendimento com IA, contratos e cobrança recorrente de aluguel no mesmo sistema.</span>
+        <a href="./pages/locacao-temporada.html" data-track="cta_locacao_page">Conhecer a solução de locação →</a>
     </div>
 </section>
 
@@ -4512,7 +4503,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h5>Sincronização nativa com os sistemas que você já usa</h5>
                 <span>Sync bidirecional · tempo real</span>
             </div>
-            <p class="channel-note"><strong>Channel manager:</strong> anuncie e sincronize de um lugar só. OLX, VivaReal, ImovelWeb e ZAP para venda; Airbnb, Booking e outros para temporada. Calendário e tarifas sincronizados, sem dupla reserva.</p>
+            <p class="channel-note"><strong>Channel manager:</strong> anuncie e sincronize de um lugar só. OLX, VivaReal, ImovelWeb e ZAP para venda. Para temporada, a integração com Airbnb, Booking e Google Hotels está em desenvolvimento: <a href="./pages/locacao-temporada.html#otas">entre na lista de prioridade</a>.</p>
             <div class="integration-grid">
                 <div class="integration-chip"><span class="ich-name">Sienge</span><span class="ich-tag">ERP obra</span></div>
                 <div class="integration-chip"><span class="ich-name">CV CRM</span><span class="ich-tag">CRM</span></div>
@@ -4522,8 +4513,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="integration-chip"><span class="ich-name">OLX</span><span class="ich-tag">Portal</span></div>
                 <div class="integration-chip"><span class="ich-name">VivaReal</span><span class="ich-tag">Portal</span></div>
                 <div class="integration-chip"><span class="ich-name">ImovelWeb</span><span class="ich-tag">Portal</span></div>
-                <div class="integration-chip"><span class="ich-name">Airbnb</span><span class="ich-tag">Temporada</span></div>
-                <div class="integration-chip"><span class="ich-name">Booking</span><span class="ich-tag">Temporada</span></div>
+                <div class="integration-chip"><span class="ich-name">Airbnb</span><span class="ich-tag">Em integração</span></div>
+                <div class="integration-chip"><span class="ich-name">Booking</span><span class="ich-tag">Em integração</span></div>
                 <div class="integration-chip"><span class="ich-name">WhatsApp Business</span><span class="ich-tag">Meta API</span></div>
                 <div class="integration-chip"><span class="ich-name">Google Agenda</span><span class="ich-tag">Calendário</span></div>
                 <div class="integration-chip"><span class="ich-name">Asaas</span><span class="ich-tag">Pagamentos</span></div>
@@ -4678,7 +4669,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>SDR AI · canais de WhatsApp custom</span></li>
                 <li><span>White Label · sua marca, seu domínio</span></li>
                 <li><span>API pública · webhooks e integrações sob medida</span></li>
-                <li><span>Channel manager · portais de venda e temporada (Airbnb, Booking)</span></li>
+                <li><span>Channel manager · portais de venda (OTAs de temporada em integração)</span></li>
                 <li><span>Régua de cobrança customizada</span></li>
                 <li><span>SSO · ISO/SOC2 · auditoria</span></li>
                 <li><span>SLA contratual de 99,9%</span></li>
