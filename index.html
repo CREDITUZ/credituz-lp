@@ -80,6 +80,97 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+/* ============ ROI SCENARIO ============ */
+.roi-scenario {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid var(--gray-soft);
+}
+.roi-scenario-label { font-size: 14px; font-weight: 600; color: var(--gray-2); }
+.roi-scenario-btns { display: inline-flex; gap: 6px; background: var(--paper-warm); border-radius: 100px; padding: 4px; }
+.roi-scenario-btns button {
+    border: none;
+    background: transparent;
+    border-radius: 100px;
+    padding: 8px 16px;
+    font-family: 'Geist', sans-serif;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: var(--gray-2);
+    cursor: pointer;
+    transition: background .15s, color .15s;
+    display: inline-flex;
+    gap: 6px;
+    align-items: baseline;
+}
+.roi-scenario-btns button em { font-style: normal; font-weight: 700; opacity: 0.75; }
+.roi-scenario-btns button.active { background: var(--ink); color: var(--paper); }
+.roi-scenario-btns button.active em { opacity: 0.9; }
+.roi-scenario-note { font-size: 12.5px; color: var(--gray-3); margin-top: 10px; line-height: 1.45; max-width: 640px; }
+@media (max-width: 560px) {
+    .roi-scenario { flex-direction: column; align-items: flex-start; gap: 8px; }
+    .roi-scenario-btns { width: 100%; justify-content: space-between; }
+    .roi-scenario-btns button { padding: 8px 10px; font-size: 12.5px; }
+}
+
+/* ============ NAV SUBMENU ============ */
+.nav-has-sub { position: relative; }
+.nav-caret { font-size: 10px; opacity: 0.7; }
+.nav-submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 240px;
+    background: var(--paper);
+    border: 1px solid var(--gray-soft);
+    border-radius: 14px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+    padding: 8px;
+    margin: 0;
+    list-style: none;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(6px);
+    transition: opacity .16s, transform .16s, visibility .16s;
+    z-index: 200;
+}
+.nav-has-sub:hover .nav-submenu,
+.nav-has-sub:focus-within .nav-submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+.nav-submenu li { display: block; }
+.nav-submenu a {
+    display: block;
+    padding: 10px 14px;
+    border-radius: 9px;
+    font-size: 14.5px;
+    color: var(--gray-1);
+    white-space: nowrap;
+}
+.nav-submenu a:hover { background: var(--paper-warm); }
+
+@media (max-width: 900px) {
+    .nav-submenu {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        box-shadow: none;
+        border: none;
+        padding: 0 0 0 14px;
+        min-width: 0;
+        background: transparent;
+    }
+    .nav-caret { display: none; }
+    .nav-submenu a { padding: 8px 0; font-size: 14px; opacity: 0.85; }
+}
+
 /* ============ FAIXA LOCAÇÃO ============ */
 .rentals-link { padding: 8px 32px 40px; }
 .rentals-link-inner {
@@ -2719,11 +2810,18 @@ h2 em {
 .trust-program {
     display: inline-flex;
     align-items: center;
-    gap: 9px;
+    gap: 8px;
     white-space: nowrap;
+    flex: 0 0 auto;
 }
 
-.trust-program .trust-logo { height: 30px; width: auto; }
+.trust-program .trust-logo {
+    height: 26px;
+    width: auto;
+    max-width: 92px;
+    object-fit: contain;
+    flex: 0 0 auto;
+}
 
 .trust-program-txt {
     font-family: 'Geist', sans-serif;
@@ -2731,6 +2829,20 @@ h2 em {
     font-weight: 600;
     color: var(--gray-1);
     letter-spacing: -0.01em;
+    line-height: 1;
+}
+
+@media (max-width: 768px) {
+    .trust-row.backers { gap: 20px 28px; }
+    .trust-program { gap: 6px; }
+    .trust-program .trust-logo { height: 22px; max-width: 78px; }
+    .trust-program-txt { font-size: 13px; }
+}
+
+@media (max-width: 440px) {
+    .trust-row.backers { gap: 16px 18px; }
+    .trust-program-txt { font-size: 12px; }
+    .trust-program .trust-logo { height: 20px; max-width: 64px; }
 }
 
 /* Chip estilizado (fallback quando logo não carrega) */
@@ -3823,7 +3935,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <button type="button" class="nav-toggle" id="navToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="navMenu" onclick="toggleNavMenu()"><span></span><span></span><span></span></button>
         <ul id="navMenu">
             <li><a href="#top" onclick="event.preventDefault(); window.scrollTo({top: 0, behavior: 'smooth'});">Home</a></li>
-            <li><a href="#produto">Produto</a></li>
+            <li class="nav-has-sub">
+                <a href="#produto" class="nav-sub-trigger">Produto <span class="nav-caret">▾</span></a>
+                <ul class="nav-submenu">
+                    <li><a href="#produto">Plataforma · venda e crédito</a></li>
+                    <li><a href="./pages/locacao-temporada.html">Locação e Temporada</a></li>
+                </ul>
+            </li>
             <li><a href="#como-funciona">Como funciona</a></li>
             <li><a href="#metodologia">Metodologia</a></li>
             <li><a href="#roi">ROI</a></li>
@@ -4191,6 +4309,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <span class="roi-profile-title">Corretor autônomo</span>
                     <span class="roi-profile-sub">Eu mesmo qualifico os leads</span>
                 </button>
+            </div>
+
+            <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
+                <span class="roi-scenario-label">Cenário de conversão da Sofia:</span>
+                <div class="roi-scenario-btns" id="roiScenario">
+                    <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>10%</em></button>
+                    <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>12%</em></button>
+                    <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>16%</em></button>
+                </div>
+                <p class="roi-scenario-note">Metodologia: partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho calculado é a diferença entre as duas, aplicada ao seu volume de leads, ticket e margem. O cenário conservador (10%) é o padrão; ajuste os valores ao lado para refletir a sua operação.</p>
             </div>
         </div>
 
@@ -5122,7 +5250,9 @@ function essentialCookies() {
 
     // Constants
     const CONV_BASELINE  = 0.06;   // Conversão típica mercado
-    const CONV_CREDITUZ  = 0.12;   // Cenário conservador · SDR AI 24x7 + simulação multibancos
+    const SCENARIOS = { conservador: 0.10, realista: 0.12, otimista: 0.16 };
+    let scenario = 'conservador';
+    let CONV_CREDITUZ = SCENARIOS[scenario];   // SDR AI 24x7 + simulação multibancos (varia por cenário)
     const RECUP_REGUA    = 0.012;  // 1,2% da carteira/mês via régua
     const PLAN_PRO       = 597;    // Plano Pro
     const HOURS_HUMAN    = 40;     // Horas/semana SDR humano
@@ -5190,6 +5320,19 @@ function essentialCookies() {
             compute();
         });
     });
+
+    // Scenario selector (conservador / realista / otimista)
+    const scenGroup = $('roiScenario');
+    if (scenGroup) {
+        scenGroup.addEventListener('click', (e) => {
+            const btn = e.target.closest('button[data-scen]');
+            if (!btn) return;
+            scenGroup.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            scenario = btn.dataset.scen;
+            compute();
+        });
+    }
 
     // Qualif mode toggle (SDR dedicado vs próprio corretor)
     const qualifGroup = $('roiQualif');
@@ -5271,6 +5414,7 @@ function essentialCookies() {
     }
 
     function compute() {
+        CONV_CREDITUZ = SCENARIOS[scenario];
         const L = +sliders.leads.value;
         const T = +sliders.ticket.value;
         const C = +sliders.carteira.value;
