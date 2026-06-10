@@ -50,13 +50,14 @@ A Credituz integra tudo isso em uma plataforma, com IA do primeiro lead à entre
 
 ## Planos e preços
 
-A Credituz cobra por plano (não por usuário individual) e tem plano gratuito permanente.
+A Credituz cobra por plano (não por usuário individual) e tem plano gratuito permanente. Clientes que assinaram antes da tabela vigente mantêm preço e funcionalidades do plano contratado.
 
 - **Free — R$ 0/mês (permanente)**: corretor, imobiliária ou construtor testando a plataforma. 500 contatos no CRM, 1 usuário, CRM de crédito, LP de vendas para 1 empreendimento, simulação multi-banco ilimitada, 3 contratos com IA/mês, originação de crédito ativa. O plano Free não inclui os agentes de IA (Sofia), disponíveis nos planos pagos com 14 dias grátis.
-- **Starter — R$ 55/mês (R$ 39 no anual), 14 dias grátis**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com contatos ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês, cartórios digitais.
-- **Pro — R$ 557/mês (R$ 398 no anual), 14 dias grátis**: equipe pequena, até 5 corretores e 100 empreendimentos. Até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 100 clientes/mês, 50 contratos com IA/mês, analytics IA-generativo.
-- **Business — R$ 1.117/mês (R$ 798 no anual), 14 dias grátis**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 500 clientes/mês, 1.000 contratos com IA/mês, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
-- **Enterprise — sob consulta**: redes, holdings e grandes construtoras/incorporadoras. Usuários customizados, multi-empresa, contratos com IA customizados, contas digitais Asaas customizadas, White Label, API pública, SSO, ISO/SOC2, SLA 99,9%, CS nominal e onboarding presencial.
+- **Starter — R$ 97/mês (R$ 69 no anual), 14 dias grátis**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com contatos ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês, cartórios digitais.
+- **Growth — R$ 297/mês (R$ 211 no anual), 14 dias grátis**: imobiliária pequena, 2 a 3 corretores. Tudo do Starter mais 3 usuários, SDR AI no WhatsApp até 75 clientes/mês, integração ZAP/OLX/VivaReal, reativação de base com IA e 25 contratos com IA/mês.
+- **Pro — R$ 597/mês (R$ 424 no anual), 14 dias grátis**: equipe em crescimento, até 10 corretores e 100 empreendimentos. Até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 200 clientes/mês, 60 contratos com IA/mês, analytics IA-generativo.
+- **Business — R$ 1.297/mês (R$ 921 no anual), 14 dias grátis**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 600 clientes/mês, contratos com IA ilimitados, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
+- **Enterprise — a partir de R$ 3.497/mês (contrato anual)**: redes, holdings e grandes construtoras/incorporadoras. Usuários customizados, multi-empresa, contratos com IA customizados, contas digitais Asaas customizadas, White Label, API pública, SSO, ISO/SOC2, SLA 99,9%, CS nominal e onboarding presencial.
 
 ## Como a Credituz se compara aos concorrentes
 
