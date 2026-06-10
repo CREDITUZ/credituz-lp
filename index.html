@@ -2243,104 +2243,6 @@ h2 em {
     .integrations-head h2 .answer { display: flex; margin-left: 0; margin-top: 8px; }
 }
 
-/* ============ TWEAKS PANEL ============ */
-.tweaks-panel {
-    position: fixed;
-    top: 88px;
-    right: 24px;
-    width: 320px;
-    background: var(--paper);
-    border: 1px solid var(--gray-soft);
-    border-radius: 20px;
-    padding: 20px;
-    z-index: 150;
-    box-shadow: 0 30px 60px rgba(0,0,0,0.12);
-    font-family: 'Geist', sans-serif;
-    display: none;
-}
-
-.tweaks-panel.show { display: block; }
-
-.tweaks-head {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 16px;
-}
-
-.tweaks-head h5 {
-    font-family: 'Fraunces', serif;
-    font-size: 18px;
-    font-weight: 500;
-    color: var(--ink);
-}
-
-.tweaks-close {
-    width: 28px;
-    height: 28px;
-    border-radius: 50%;
-    background: var(--paper-warm);
-    border: none;
-    cursor: pointer;
-    font-size: 16px;
-    color: var(--gray-2);
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.tweaks-section-label {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    color: var(--gray-3);
-    margin: 14px 0 10px;
-}
-
-.tweaks-section-label:first-of-type { margin-top: 0; }
-
-.title-option {
-    border: 1px solid var(--gray-soft);
-    border-radius: 12px;
-    padding: 12px 14px;
-    cursor: pointer;
-    background: var(--paper);
-    text-align: left;
-    width: 100%;
-    margin-bottom: 8px;
-    font-family: 'Geist', sans-serif;
-    transition: all 0.2s;
-    display: block;
-}
-
-.title-option:hover { border-color: var(--ink); }
-
-.title-option.active {
-    border-color: var(--ink);
-    background: var(--paper-warm);
-    box-shadow: inset 0 0 0 1px var(--ink);
-}
-
-.title-option .opt-tag {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--rust);
-    margin-bottom: 6px;
-    display: block;
-}
-
-.title-option .opt-preview {
-    font-family: 'Fraunces', serif;
-    font-size: 14px;
-    line-height: 1.25;
-    color: var(--ink);
-    font-weight: 500;
-    letter-spacing: -0.01em;
-}
-
 /* ============ REFERRAL ============ */
 .referral {
     background: var(--ink);
@@ -3916,13 +3818,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- HERO -->
 <header class="hero">
     <div class="hero-content">
-    <div class="hero-tag" id="heroTag">Comece grátis R$ 0. Início imediato.</div>
+    <div class="hero-tag" id="heroTag">Comece grátis · R$ 0 · sem cartão</div>
     <h1 class="hero-title" id="heroTitle">
-        Mais negócios fechados. <span class="underline-wrap">Menos tempo perdido</span>.
+        Leads atendidos em <span class="underline-wrap">5 segundos</span>. Financiamento simulado em 30.
     </h1>
-    <p class="hero-lead">O sistema mais completo para o setor imobiliário.</p>
+    <p class="hero-lead">Sua equipe só entra para fechar.</p>
     <p class="hero-sub" id="heroSub">
-        Automação com IA que atende 24/7, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança de forma automatizada. Sua equipe focada em fechar a venda.
+        A Sofia atende seu lead no WhatsApp, qualifica com crédito pré-aprovado em 10 bancos e entrega o cliente pronto para a visita. Sem chatbot genérico. Sem alimentar sistema.
     </p>
     <div class="hero-ttv">
         <span class="hero-ttv-item"><span class="hero-ttv-num">30s</span><span class="hero-ttv-label">Primeira simulação de crédito</span></span>
@@ -3939,7 +3841,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             Fale com um especialista
         </a>
     </div>
-    <div class="hero-meta">Plano Free permanente · sem cartão · 29% off no plano anual</div>
+    <div class="hero-meta">Plano Free permanente · 14 dias grátis nos planos pagos · 29% off no anual</div>
     </div>
 
     <div class="hero-widget">
@@ -4140,7 +4042,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="how-step-num">01</div>
                 <div class="how-step-agent">Sofia · SDR</div>
                 <h4>Atende e qualifica todos os leads, 24/7.</h4>
-                <p>Responde em 10 segundos no WhatsApp. Identifica perfil, interesse e urgência. Agenda visita só quando o lead está pronto.</p>
+                <p>Responde em 5 segundos no WhatsApp. Identifica perfil, interesse e urgência. Agenda visita só quando o lead está pronto.</p>
             </div>
 
             <div class="how-step" data-track="how_step_2">
@@ -4176,7 +4078,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="compare-inner">
         <div class="section-tag" style="color: var(--lime);">Por que nós</div>
         <h2>O sistema do setor imobiliário, por <em>uma fração do preço</em>.</h2>
-        <p class="compare-sub">Sienge, Kenlo e CV CRM cobram caro por implantação de 60 dias, vendem cada módulo separado e a IA, quando existe, é parafusada por cima. A Credituz integra CRM, crédito, contratos, régua de cobrança, NFe e gestão em uma plataforma, com IA do primeiro lead à entrega das chaves.</p>
+        <p class="compare-sub">Sienge, Kenlo e CV CRM cobram caro por implantação de 60 dias, vendem cada módulo separado e a IA, quando existe, é parafusada por cima. A Credituz integra CRM, crédito, contratos, régua de cobrança, NFe e gestão em uma plataforma, com IA do primeiro lead à entrega das chaves. E diferente do agente gratuito da Meta, que responde com base no catálogo e para por aí, aqui a IA simula crédito em 10 bancos, gera contrato e cobra.</p>
 
         <div class="compare-table">
             <table>
@@ -4186,6 +4088,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <th>Kenlo</th>
                     <th>CV CRM</th>
                     <th>Morada.ai</th>
+                    <th>Meta Business AI</th>
                     <th class="credituz-col">Credituz</th>
                 </tr>
                 <tr>
@@ -4194,6 +4097,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td>R$ 247–1.197</td>
                     <td>sob consulta</td>
                     <td>enterprise</td>
+                    <td>grátis → pago</td>
                     <td class="credituz-col">R$ 0–1.117</td>
                 </tr>
                 <tr>
@@ -4202,6 +4106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
+                    <td><span class="check">✓</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
                 <tr>
@@ -4210,6 +4115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td><span class="cross">✕</span></td>
                     <td><span class="partial">parcial</span></td>
                     <td><span class="check">✓</span></td>
+                    <td><span class="partial">genérico</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
                 <tr>
@@ -4218,6 +4124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td><span class="cross">✕</span></td>
                     <td><span class="partial">parcial</span></td>
                     <td><span class="partial">parcial</span></td>
+                    <td><span class="cross">✕</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
                 <tr>
@@ -4226,11 +4133,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="partial">novo</span></td>
+                    <td><span class="cross">✕</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
                 <tr>
                     <td>Gestão da operação imobiliária</td>
                     <td><span class="partial">parcial</span></td>
+                    <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
@@ -4242,6 +4151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td>30+ dias</td>
                     <td>60+ dias</td>
                     <td>30+ dias</td>
+                    <td>imediata</td>
                     <td class="credituz-col">5 minutos</td>
                 </tr>
                 <tr>
@@ -4250,6 +4160,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
                     <td><span class="cross">✕</span></td>
+                    <td><span class="partial">por enquanto</span></td>
                     <td class="credituz-col"><span class="check">✓</span></td>
                 </tr>
             </table>
@@ -4439,7 +4350,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="roi-row">
                     <div class="roi-row-label">
                         <span class="roi-row-title">Receita extra · SDR AI 24×7</span>
-                        <span class="roi-row-sub">Conversão 6% → 16% (lead atendido no minuto)</span>
+                        <span class="roi-row-sub">Conversão 6% → 12% (cenário conservador)</span>
                     </div>
                     <div class="roi-row-num" id="roiOutCredituz">R$ 270.000</div>
                 </div>
@@ -4481,7 +4392,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
 
                 <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-cta" target="_blank" rel="noopener" data-track="cta_roi">
-                    Começar agora · 14 dias grátis
+                    Testar grátis por 14 dias · plano Pro
                     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
                 </a>
             </div>
@@ -4643,7 +4554,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="pricing-head">
         <div class="section-tag">Preços transparentes</div>
         <h2>Comece de graça. Cresça <em>quando fizer sentido</em>.</h2>
-        <p>Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma.</p>
+        <p>Do primeiro lead à entrega das chaves: CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão. Tudo em uma única plataforma. Planos pagos com 14 dias grátis para testar os agentes de IA; o Free é seu para sempre.</p>
     </div>
 
     <div class="pricing-toggle">
@@ -4665,6 +4576,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>Simulação multi-banco ilimitada</span></li>
                 <li><span>3 contratos com IA/mês</span></li>
                 <li><span>Originação de crédito ativa</span></li>
+                <li><span>Agentes de IA disponíveis nos planos pagos · teste grátis por 14 dias</span></li>
                 <li><span>1 GB de armazenamento</span></li>
             </ul>
             <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_free">Começar grátis</a>
@@ -4685,7 +4597,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>Cartórios digitais inclusos</span></li>
                 <li><span>5 GB de armazenamento</span></li>
             </ul>
-            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_starter">Começar agora</a>
+            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_starter">Testar grátis por 14 dias</a>
         </div>
 
         <div class="plan featured">
@@ -4703,7 +4615,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>Analytics IA-generativo</span></li>
                 <li><span>20 GB de armazenamento</span></li>
             </ul>
-            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_pro">Começar agora</a>
+            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_pro">Testar grátis por 14 dias</a>
         </div>
 
         <div class="plan">
@@ -4725,7 +4637,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li><span>Customer success dedicado</span></li>
                 <li><span>50 GB de armazenamento</span></li>
             </ul>
-            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_business">Começar agora</a>
+            <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="plan-cta" target="_blank" rel="noopener" data-track="cta_plan_business">Testar grátis por 14 dias</a>
         </div>
 
         <div class="plan enterprise">
@@ -4874,7 +4786,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>Quanto custa para começar?</h4>
                 <div class="faq-toggle">+</div>
             </div>
-            <div class="faq-a">Zero. Sem cartão de crédito. Sem trial limitado. O plano Free é gratuito para sempre e inclui CRM de crédito, simulação multi-banco ilimitada, LP de vendas para 1 empreendimento e originação ativa. A Sofia (SDR AI) entra a partir do plano Pro, quando o volume de leads justifica.</div>
+            <div class="faq-a">Zero. Sem cartão de crédito. O plano Free é gratuito para sempre e inclui CRM de crédito, simulação multi-banco ilimitada, LP de vendas para 1 empreendimento e originação ativa. Os agentes de IA (como a Sofia) entram nos planos pagos, a partir do Starter, e você pode testá-los grátis por 14 dias em qualquer plano, exceto o Enterprise.</div>
         </div>
         <div class="faq-item" onclick="toggleFaq(this)">
             <div class="faq-q">
@@ -4903,6 +4815,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="faq-toggle">+</div>
             </div>
             <div class="faq-a">Setup em 5 minutos, interface no padrão WhatsApp/Notion (que todo mundo já conhece) e nenhum treinamento agendado. Os planos Free e Starter contam com base de conhecimento e tutoriais em vídeo. A partir do Pro, você tem suporte humano via chat de segunda a sexta, das 9h às 18h. No Business, customer success dedicado. No Enterprise, CS nominal e onboarding presencial.</div>
+        </div>
+        <div class="faq-item" onclick="toggleFaq(this)">
+            <div class="faq-q">
+                <h4>Como funcionam os 14 dias grátis?</h4>
+                <div class="faq-toggle">+</div>
+            </div>
+            <div class="faq-a">Todos os planos pagos (Starter, Pro e Business) têm 14 dias grátis com acesso completo, incluindo os agentes de IA como a Sofia. Você pode cancelar o teste quando quiser. O plano Free continua gratuito para sempre, com CRM, simulação multi-banco e contratos, sem os agentes de IA. O Enterprise, por ter escopo customizado, começa com uma demonstração guiada em vez de trial.</div>
+        </div>
+        <div class="faq-item" onclick="toggleFaq(this)">
+            <div class="faq-q">
+                <h4>Qual a diferença entre a Sofia e o agente de IA grátis da Meta (Business AI)?</h4>
+                <div class="faq-toggle">+</div>
+            </div>
+            <div class="faq-a">O agente da Meta responde dúvidas com base no catálogo: é um atendente genérico, e a própria Meta já anunciou que ele será pago. A Sofia é vertical do mercado imobiliário: simula financiamento em 10 bancos, qualifica o lead com crédito pré-aprovado, agenda visita, alimenta o CRM sozinha e aciona contrato e cobrança. O agente da Meta encerra a conversa; a Sofia encerra a venda. E os dois podem coexistir: a Meta atende o curioso, a Sofia atende o comprador.</div>
         </div>
     </div>
 </section>
@@ -4938,12 +4864,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
-        <div class="trust-label">Backed by</div>
+        <div class="trust-label">Selecionada pelos principais programas de startups</div>
         <div class="trust-row backers">
-            <img class="trust-logo" src="./assets/backers/openai.svg" alt="OpenAI" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>OpenAI</span>'">
-            <img class="trust-logo" src="./assets/backers/aws.svg" alt="AWS" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>AWS</span>'">
-            <img class="trust-logo" src="./assets/backers/nvidia.svg" alt="NVIDIA" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>NVIDIA</span>'">
-            <img class="trust-logo" src="./assets/backers/google.svg" alt="Google" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Google</span>'">
+            <span class="trust-chip">Antler</span>
+            <span class="trust-chip">Google for Startups</span>
+            <span class="trust-chip">Microsoft for Startups</span>
         </div>
 
         <div class="trust-label compliance-label">Certificações e parcerias oficiais</div>
@@ -5078,35 +5003,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 
-<!-- TWEAKS PANEL: variações de título -->
-<div class="tweaks-panel" id="tweaksPanel">
-    <div class="tweaks-head">
-        <h5>Tweaks</h5>
-        <button class="tweaks-close" onclick="closeTweaks()" aria-label="Fechar">×</button>
-    </div>
-    <div class="tweaks-section-label">Hero · Título principal</div>
-    <button class="title-option active" data-opt="0">
-        <span class="opt-tag">Opção A · Mais negócios, menos tempo</span>
-        <span class="opt-preview">Mais negócios fechados. <em>Menos tempo perdido</em>.</span>
-    </button>
-    <button class="title-option" data-opt="1">
-        <span class="opt-tag">Opção B · End-to-end</span>
-        <span class="opt-preview">Do <em>lead à entrega das chaves</em>. A plataforma com IA da incorporação imobiliária.</span>
-    </button>
-    <button class="title-option" data-opt="2">
-        <span class="opt-tag">Opção C · Verbos de ação</span>
-        <span class="opt-preview"><em>Venda, financie e administre</em> empreendimentos. Com Inteligência Artificial.</span>
-    </button>
-    <button class="title-option" data-opt="3">
-        <span class="opt-tag">Opção D · ERP do imobiliário</span>
-        <span class="opt-preview">O <em>ERP do mercado imobiliário</em>, com IA nativa do CRM ao financeiro.</span>
-    </button>
-    <button class="title-option" data-opt="4">
-        <span class="opt-tag">Opção E · Free permanente</span>
-        <span class="opt-preview">O que outros sistemas cobram <em>caro por módulo e usuário</em>, a Credituz entrega por R$ 1.117. Com plano Free permanente.</span>
-    </button>
-</div>
-
 <script>
 // Nav scroll
 window.addEventListener('scroll', () => {
@@ -5195,7 +5091,7 @@ function essentialCookies() {
 
     // Constants
     const CONV_BASELINE  = 0.06;   // Conversão típica mercado
-    const CONV_CREDITUZ  = 0.16;   // Com SDR AI 24x7 + simulação multibancos
+    const CONV_CREDITUZ  = 0.12;   // Cenário conservador · SDR AI 24x7 + simulação multibancos
     const RECUP_REGUA    = 0.012;  // 1,2% da carteira/mês via régua
     const PLAN_PRO       = 557;    // Plano Pro
     const HOURS_HUMAN    = 40;     // Horas/semana SDR humano
@@ -5539,70 +5435,7 @@ function essentialCookies() {
     compute();
 })();
 
-/* ===== TWEAKS PANEL ===== */
-const TITLE_VARIANTS = [
-    {
-        tag: 'Comece grátis R$ 0. Início imediato.',
-        html: 'Mais negócios fechados. <span class="underline-wrap">Menos tempo perdido</span>.',
-        sub: 'Automação com IA que atende 24/7, qualifica e converte, com agentes que simulam crédito, pedem financiamento e fazem cobrança de forma automatizada. Sua equipe focada em fechar a venda.'
-    },
-    {
-        tag: 'Plataforma com IA · do lead à entrega das chaves',
-        html: 'Do <em>lead à entrega das chaves</em>. A plataforma com <span class="underline-wrap">IA da incorporação imobiliária</span>.',
-        sub: 'CRM, crédito, contratos, régua de cobrança, NFe e obra em uma única operação. A IA orquestra; sua equipe foca em fechar e construir.'
-    },
-    {
-        tag: 'Venda, financie e administre. Com IA',
-        html: '<em>Venda, financie e administre</em> empreendimentos. Com <span class="underline-wrap">Inteligência Artificial</span>.',
-        sub: 'Uma plataforma única para corretores, imobiliárias e incorporadoras: SDR no WhatsApp, simulação multibancos, contratos, cobrança e NFe a R$ 0,49.'
-    },
-    {
-        tag: 'O ERP do mercado imobiliário, com IA',
-        html: 'O <em>ERP do mercado imobiliário</em>, com <span class="underline-wrap">IA nativa do CRM ao financeiro</span>.',
-        sub: 'Substitua 5 ferramentas: CRM, simulador de crédito, assinatura digital, régua de cobrança e emissor de NFe, agora orquestrados por uma IA que entende incorporação.'
-    },
-    {
-        tag: 'Plano Free permanente · enquanto a concorrência cobra enterprise',
-        html: 'O que outros sistemas cobram <em>caro por módulo e usuário</em>, <span class="underline-wrap">a Credituz entrega por R$ 1.117</span>. Com plano Free permanente.',
-        sub: 'Sienge cobra por módulo. Kenlo cobra por usuário. CV CRM e Morada.ai cobram sob consulta. A Credituz cobra por valor entregue, e tem plano Free para sempre.'
-    }
-];
 
-function applyTitleVariant(idx) {
-    const v = TITLE_VARIANTS[idx];
-    if (!v) return;
-    document.getElementById('heroTag').textContent = v.tag;
-    document.getElementById('heroTitle').innerHTML = v.html;
-    document.getElementById('heroSub').textContent = v.sub;
-    document.querySelectorAll('.title-option').forEach((el) => {
-        el.classList.toggle('active', Number(el.dataset.opt) === idx);
-    });
-    try { localStorage.setItem('credituz_title_variant', String(idx)); } catch(e) {}
-}
-
-document.querySelectorAll('.title-option').forEach(btn => {
-    btn.addEventListener('click', () => applyTitleVariant(Number(btn.dataset.opt)));
-});
-
-// restore last selection
-try {
-    const saved = Number(localStorage.getItem('credituz_title_variant'));
-    if (!Number.isNaN(saved) && saved >= 0 && saved < TITLE_VARIANTS.length) applyTitleVariant(saved);
-} catch(e) {}
-
-const tweaksPanel = document.getElementById('tweaksPanel');
-function openTweaks(){ tweaksPanel.classList.add('show'); }
-function closeTweaks(){
-    tweaksPanel.classList.remove('show');
-    try { window.parent.postMessage({type:'__edit_mode_dismissed'}, '*'); } catch(e){}
-}
-
-window.addEventListener('message', (e) => {
-    const t = e.data && e.data.type;
-    if (t === '__activate_edit_mode') openTweaks();
-    if (t === '__deactivate_edit_mode') closeTweaks();
-});
-try { window.parent.postMessage({type:'__edit_mode_available'}, '*'); } catch(e){}
 </script>
 
 <!-- WhatsApp floating bubble (direct wa.me, no third-party) -->
