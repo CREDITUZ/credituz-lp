@@ -4,7 +4,7 @@
 
 - Canonical: https://www.credituz.ai/
 - Language: pt-BR
-- Updated: 2026-05
+- Updated: 2026-06
 
 ---
 
@@ -21,11 +21,11 @@ A Credituz é uma plataforma de software (SaaS) com inteligência artificial nat
 
 ## Posicionamento
 
-Título da home: "Mais negócios fechados. Menos tempo perdido."
+Título da home: "Leads atendidos em 5 segundos. Financiamento simulado em 30."
 
-Subtítulo: "A Credituz automatiza o atendimento, a gestão, o crédito e os contratos da sua operação imobiliária, para que você feche vendas, não opere sistema."
+Subtítulo: "A Sofia atende seu lead no WhatsApp, qualifica com crédito pré-aprovado em 10 bancos e entrega o cliente pronto para a visita. Sem chatbot genérico. Sem alimentar sistema."
 
-Promessa de entrada: "Comece em R$ 0. Sem implantação de 60 dias." Plano gratuito permanente, sem cartão de crédito, com setup self-serve em 5 minutos.
+Promessa de entrada: "Comece em R$ 0. Sem implantação de 60 dias." Plano gratuito permanente (sem agentes de IA), sem cartão de crédito, setup self-serve em 5 minutos. Todos os planos pagos, exceto o Enterprise, têm 14 dias grátis para testar os agentes de IA.
 
 Tempo até valor (Time to Value): primeira simulação de crédito em 30 segundos; primeiro contrato gerado em 1 minuto; Sofia (SDR AI) respondendo leads em 5 segundos.
 
@@ -52,20 +52,20 @@ A Credituz integra tudo isso em uma plataforma, com IA do primeiro lead à entre
 
 A Credituz cobra por plano (não por usuário individual) e tem plano gratuito permanente.
 
-- **Free — R$ 0/mês (permanente)**: corretor, imobiliária ou construtor testando a plataforma. 500 contatos no CRM, 1 usuário, CRM de crédito, LP de vendas para 1 empreendimento, simulação multi-banco ilimitada, 3 contratos com IA/mês, originação de crédito ativa.
-- **Starter — R$ 55/mês (R$ 39 no anual)**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com contatos ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês, cartórios digitais.
-- **Pro — R$ 557/mês (R$ 398 no anual)**: equipe pequena, até 5 corretores e 100 empreendimentos. Até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 100 clientes/mês, 50 contratos com IA/mês, analytics IA-generativo.
-- **Business — R$ 1.117/mês (R$ 798 no anual)**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 500 clientes/mês, 1.000 contratos com IA/mês, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
+- **Free — R$ 0/mês (permanente)**: corretor, imobiliária ou construtor testando a plataforma. 500 contatos no CRM, 1 usuário, CRM de crédito, LP de vendas para 1 empreendimento, simulação multi-banco ilimitada, 3 contratos com IA/mês, originação de crédito ativa. O plano Free não inclui os agentes de IA (Sofia), disponíveis nos planos pagos com 14 dias grátis.
+- **Starter — R$ 55/mês (R$ 39 no anual), 14 dias grátis**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com contatos ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês, cartórios digitais.
+- **Pro — R$ 557/mês (R$ 398 no anual), 14 dias grátis**: equipe pequena, até 5 corretores e 100 empreendimentos. Até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 100 clientes/mês, 50 contratos com IA/mês, analytics IA-generativo.
+- **Business — R$ 1.117/mês (R$ 798 no anual), 14 dias grátis**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 500 clientes/mês, 1.000 contratos com IA/mês, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
 - **Enterprise — sob consulta**: redes, holdings e grandes construtoras/incorporadoras. Usuários customizados, multi-empresa, contratos com IA customizados, contas digitais Asaas customizadas, White Label, API pública, SSO, ISO/SOC2, SLA 99,9%, CS nominal e onboarding presencial.
 
 ## Como a Credituz se compara aos concorrentes
 
-A Credituz se diferencia de sistemas como Sienge, Kenlo, CV CRM e Morada.ai por: ter plano gratuito permanente (que os concorrentes não têm), setup self-serve em 5 minutos (contra implantações de 30 a 60 dias), IA nativa (não acoplada por cima), e originação de crédito embarcada. Reúne CRM, crédito, contratos, cobrança, NFe e gestão numa só plataforma, em vez de cobrar cada módulo separado.
+A Credituz se diferencia de sistemas como Sienge, Kenlo, CV CRM , Morada.ai e do Meta Business AI por: ter plano gratuito permanente (que os concorrentes não têm), simulação de crédito multibancos com originação embarcada (que nenhum agente genérico como o da Meta faz), setup self-serve em 5 minutos (contra implantações de 30 a 60 dias), IA nativa (não acoplada por cima), e originação de crédito embarcada. Reúne CRM, crédito, contratos, cobrança, NFe e gestão numa só plataforma, em vez de cobrar cada módulo separado.
 
 ## Perguntas frequentes
 
 ### Quanto custa começar?
-Zero. O plano Free é gratuito para sempre, sem cartão de crédito. A Sofia (SDR AI) entra a partir do plano Pro.
+Zero. O plano Free é gratuito para sempre, sem cartão de crédito, e não inclui os agentes de IA. A Sofia (SDR AI) entra a partir do plano Starter, e todos os planos pagos (exceto Enterprise) têm 14 dias grátis para testar os agentes.
 
 ### Como a Credituz ganha dinheiro?
 Por duas fontes: mensalidade dos planos pagos (Starter, Pro, Business, Enterprise) e comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado.
