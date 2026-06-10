@@ -59,6 +59,10 @@ A Credituz cobra por plano (não por usuário individual) e tem plano gratuito p
 - **Business — R$ 1.297/mês (R$ 921 no anual), 14 dias grátis**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 600 clientes/mês, contratos com IA ilimitados, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
 - **Enterprise — a partir de R$ 3.497/mês (contrato anual)**: redes, holdings e grandes construtoras/incorporadoras. Usuários customizados, multi-empresa, contratos com IA customizados, contas digitais Asaas customizadas, White Label, API pública, SSO, ISO/SOC2, SLA 99,9%, CS nominal e onboarding presencial.
 
+## Locação e temporada
+
+A Credituz também opera locação (longa duração e temporada): atendimento de inquilinos com IA no WhatsApp, contratos de locação com assinatura eletrônica, cobrança recorrente de aluguel (boleto, Pix, NFe) e gestão da carteira. Essas funcionalidades estão disponíveis hoje. A sincronização automática com OTAs (Airbnb, Booking e Google Hotels) está em desenvolvimento, com lista de prioridade aberta. Página dedicada: https://www.credituz.ai/pages/locacao-temporada.html
+
 ## Como a Credituz se compara aos concorrentes
 
 A Credituz se diferencia de sistemas como Sienge, Kenlo, CV CRM , Morada.ai e do Meta Business AI por: ter plano gratuito permanente (que os concorrentes não têm), simulação de crédito multibancos com originação embarcada (que nenhum agente genérico como o da Meta faz), setup self-serve em 5 minutos (contra implantações de 30 a 60 dias), IA nativa (não acoplada por cima), e originação de crédito embarcada. Reúne CRM, crédito, contratos, cobrança, NFe e gestão numa só plataforma, em vez de cobrar cada módulo separado.
