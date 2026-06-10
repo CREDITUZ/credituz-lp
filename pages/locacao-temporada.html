@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sistema para locação e temporada com IA | Credituz</title>
+<meta name="description" content="Atendimento com IA no WhatsApp, cobrança recorrente, contratos digitais e gestão da carteira de aluguel em um só sistema. Integração com Airbnb, Booking e Google Hotels em desenvolvimento: entre na lista de prioridade.">
+<link rel="canonical" href="https://www.credituz.ai/pages/locacao-temporada.html">
+<link rel="icon" href="../favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500;600&family=Geist:wght@300;400;500;600;700;800&family=Raleway:wght@700;800&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","name":"Locação e temporada com IA | Credituz","url":"https://www.credituz.ai/pages/locacao-temporada.html","inLanguage":"pt-BR","isPartOf":{"@id":"https://www.credituz.ai/#website"},"about":{"@type":"Service","name":"Gestão de locação e temporada com IA","provider":{"@type":"Organization","name":"Credituz"}}}
+</script>
+<style>
+:root {
+    --ink: #0a0a0a; --paper: #fafaf7; --paper-warm: #f5f2ea; --cream: #ebe6d6;
+    --lime: #c4f352; --lime-deep: #9bd11a; --rust: #d94f00;
+    --gray-1: #1a1a1a; --gray-2: #4a4a4a; --gray-3: #8a8a8a; --gray-soft: #e8e5dc;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Geist', sans-serif; background: var(--paper); color: var(--ink); line-height: 1.5; -webkit-font-smoothing: antialiased; }
+nav { position: sticky; top: 0; z-index: 100; padding: 16px 32px; background: rgba(250,250,247,0.9); backdrop-filter: blur(20px); border-bottom: 1px solid var(--gray-soft); }
+nav .inner { max-width: 1100px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+.logo { font-family: 'Raleway', sans-serif; font-size: 21px; font-weight: 700; text-decoration: none; color: var(--ink); }
+.logo em { color: var(--lime-deep); font-style: normal; }
+.nav-cta { background: var(--ink); color: var(--paper); padding: 10px 18px; border-radius: 100px; font-size: 14px; font-weight: 600; text-decoration: none; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+.tag { font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.14em; color: var(--gray-3); margin-bottom: 14px; }
+.hero { padding: 84px 0 56px; }
+h1 { font-family: 'Fraunces', serif; font-size: clamp(34px, 5vw, 56px); font-weight: 500; letter-spacing: -0.02em; line-height: 1.08; max-width: 820px; }
+h1 .hl { background: linear-gradient(transparent 62%, var(--lime) 62%); }
+.hero p.lead { margin-top: 20px; font-size: 18px; color: var(--gray-2); max-width: 680px; }
+.hero-actions { margin-top: 30px; display: flex; gap: 14px; flex-wrap: wrap; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; border-radius: 100px; font-size: 15px; font-weight: 600; text-decoration: none; transition: transform .15s; }
+.btn:hover { transform: translateY(-1px); }
+.btn-dark { background: var(--ink); color: var(--paper); }
+.btn-soft { background: var(--cream); color: var(--ink); }
+.hero-meta { margin-top: 16px; font-size: 13px; color: var(--gray-3); }
+section { padding: 56px 0; }
+h2 { font-family: 'Fraunces', serif; font-size: clamp(26px, 3.6vw, 38px); font-weight: 500; letter-spacing: -0.015em; margin-bottom: 12px; }
+.sub { color: var(--gray-2); max-width: 700px; margin-bottom: 34px; }
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.card { border: 1px solid var(--gray-soft); border-radius: 20px; padding: 26px; background: #fff; }
+.card .num { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--gray-3); margin-bottom: 10px; }
+.card h3 { font-family: 'Fraunces', serif; font-size: 21px; font-weight: 500; margin-bottom: 8px; }
+.card p { font-size: 14.5px; color: var(--gray-2); }
+.badge-ready { display: inline-block; background: var(--lime); color: var(--ink); font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 100px; margin-bottom: 12px; font-family: 'JetBrains Mono', monospace; letter-spacing: .05em; }
+.badge-soon { display: inline-block; background: var(--cream); color: var(--gray-2); font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 100px; margin-bottom: 12px; font-family: 'JetBrains Mono', monospace; letter-spacing: .05em; }
+.otas { background: var(--paper-warm); border-radius: 28px; padding: 48px 36px; }
+.otas-chips { display: flex; gap: 10px; flex-wrap: wrap; margin: 18px 0 8px; }
+.otas-chips span { border: 1px solid var(--gray-soft); background: #fff; border-radius: 100px; padding: 8px 16px; font-size: 13.5px; font-weight: 600; }
+form { margin-top: 28px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; max-width: 760px; }
+label { font-size: 13px; font-weight: 600; color: var(--gray-2); display: block; margin-bottom: 6px; }
+input[type=text], input[type=email], select, textarea { width: 100%; padding: 12px 14px; border: 1px solid var(--gray-soft); border-radius: 12px; background: #fff; font-family: inherit; font-size: 14.5px; color: var(--ink); }
+textarea { resize: vertical; min-height: 88px; }
+.f-full { grid-column: 1 / -1; }
+.checks { display: flex; gap: 16px; flex-wrap: wrap; }
+.checks label { display: inline-flex; align-items: center; gap: 7px; font-weight: 500; margin: 0; cursor: pointer; }
+.hp { position: absolute; left: -9999px; opacity: 0; height: 0; overflow: hidden; }
+button.btn-dark { border: none; cursor: pointer; font-family: inherit; }
+.form-msg { grid-column: 1 / -1; font-size: 14.5px; display: none; padding: 14px 16px; border-radius: 12px; }
+.form-msg.ok { display: block; background: #eaf7d8; color: #2d5a00; }
+.form-msg.err { display: block; background: #fdeae0; color: #8a3200; }
+.plans-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.plan-mini { border: 1px solid var(--gray-soft); border-radius: 18px; padding: 22px; background: #fff; }
+.plan-mini .name { font-weight: 700; }
+.plan-mini .price { font-family: 'Fraunces', serif; font-size: 28px; margin: 6px 0 8px; }
+.plan-mini .price span { font-size: 14px; color: var(--gray-3); font-family: 'Geist', sans-serif; }
+.plan-mini p { font-size: 13.5px; color: var(--gray-2); }
+.faq-item { border-bottom: 1px solid var(--gray-soft); padding: 18px 0; cursor: pointer; }
+.faq-item h4 { font-size: 16.5px; font-weight: 600; display: flex; justify-content: space-between; }
+.faq-item .a { display: none; margin-top: 10px; color: var(--gray-2); font-size: 14.5px; max-width: 760px; }
+.faq-item.open .a { display: block; }
+footer { border-top: 1px solid var(--gray-soft); padding: 32px 0 48px; margin-top: 40px; font-size: 13.5px; color: var(--gray-3); }
+footer a { color: var(--gray-2); }
+@media (max-width: 760px) {
+    .grid, form, .plans-strip { grid-template-columns: 1fr; }
+    .otas { padding: 32px 20px; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+    <div class="inner">
+        <a class="logo" href="../index.html">credituz<em>.</em></a>
+        <a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener" data-track="cta_nav_locacao">Testar grátis por 14 dias</a>
+    </div>
+</nav>
+
+<header class="hero wrap">
+    <div class="tag">Locação · longa duração e temporada</div>
+    <h1>Sua operação de aluguel <span class="hl">no piloto automático</span>.</h1>
+    <p class="lead">A IA da Credituz atende o inquilino no WhatsApp, agenda visita, gera o contrato de locação e cobra todo mês sozinha, com boleto, Pix e nota fiscal. Sua equipe sai do operacional e cuida da carteira.</p>
+    <div class="hero-actions">
+        <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener" data-track="cta_hero_locacao">Testar grátis por 14 dias</a>
+        <a class="btn btn-soft" href="#otas">Integração com OTAs · entrar na lista</a>
+    </div>
+    <div class="hero-meta">Plano Free permanente · 14 dias grátis nos planos pagos · sem implantação</div>
+</header>
+
+<section class="wrap" id="funcionalidades">
+    <div class="tag">Disponível hoje</div>
+    <h2>O que já está pronto para a sua locação.</h2>
+    <p class="sub">As quatro frentes abaixo estão em produção, são as mesmas que operam vendas na Credituz, configuradas para o fluxo de aluguel.</p>
+    <div class="grid">
+        <div class="card">
+            <span class="badge-ready">DISPONÍVEL</span>
+            <div class="num">01 / Sofia · Atendimento</div>
+            <h3>IA respondendo inquilinos 24/7.</h3>
+            <p>Dúvida de anúncio, valor, requisitos, documentação e agendamento de visita respondidos em segundos no WhatsApp. A Sofia qualifica o interessado e só passa para a sua equipe quem está pronto para visitar.</p>
+        </div>
+        <div class="card">
+            <span class="badge-ready">DISPONÍVEL</span>
+            <div class="num">02 / Régua de cobrança</div>
+            <h3>Aluguel cobrado sozinho, todo mês.</h3>
+            <p>Cobrança recorrente com lembrete por WhatsApp, SMS e e-mail, boleto e Pix via conta Asaas inclusa e NFe a R$ 0,49. A régua reduz inadimplência sem desgastar a relação com o inquilino.</p>
+        </div>
+        <div class="card">
+            <span class="badge-ready">DISPONÍVEL</span>
+            <div class="num">03 / Ana · Contratos</div>
+            <h3>Contrato de locação em 1 minuto.</h3>
+            <p>Geração com IA, validade jurídica e assinatura eletrônica ICP-Brasil. Renovações e aditivos sem retrabalho, com tudo arquivado no CRM.</p>
+        </div>
+        <div class="card">
+            <span class="badge-ready">DISPONÍVEL</span>
+            <div class="num">04 / Gestão da carteira</div>
+            <h3>CRM e painéis da operação.</h3>
+            <p>Imóveis, proprietários, inquilinos, repasses e ocupação num painel só, com a Iris respondendo em linguagem natural o que está vago, o que está atrasado e onde está o resultado.</p>
+        </div>
+    </div>
+</section>
+
+<section class="wrap" id="otas">
+    <div class="otas">
+        <span class="badge-soon">EM INTEGRAÇÃO</span>
+        <h2>Airbnb, Booking e Google Hotels: estamos construindo agora.</h2>
+        <p class="sub">A sincronização de calendário, tarifas e reservas com as OTAs está em desenvolvimento. Quem entrar na lista de prioridade participa do acesso antecipado, ajuda a definir o produto e tem condição especial de lançamento.</p>
+        <div class="otas-chips">
+            <span>Airbnb</span><span>Booking</span><span>Google Hotels</span>
+        </div>
+        <form id="otaForm" novalidate>
+            <div>
+                <label for="f-nome">Seu nome*</label>
+                <input type="text" id="f-nome" name="nome" required>
+            </div>
+            <div>
+                <label for="f-empresa">Empresa / imobiliária</label>
+                <input type="text" id="f-empresa" name="empresa">
+            </div>
+            <div>
+                <label for="f-email">E-mail*</label>
+                <input type="email" id="f-email" name="email">
+            </div>
+            <div>
+                <label for="f-whats">WhatsApp</label>
+                <input type="text" id="f-whats" name="whatsapp" placeholder="(11) 9...">
+            </div>
+            <div>
+                <label for="f-imoveis">Imóveis na carteira</label>
+                <select id="f-imoveis" name="imoveis">
+                    <option value="">Selecione</option>
+                    <option>1 a 5</option>
+                    <option>6 a 20</option>
+                    <option>21 a 50</option>
+                    <option>51 a 200</option>
+                    <option>Mais de 200</option>
+                </select>
+            </div>
+            <div>
+                <label>OTAs de interesse</label>
+                <div class="checks">
+                    <label><input type="checkbox" name="otas" value="Airbnb"> Airbnb</label>
+                    <label><input type="checkbox" name="otas" value="Booking"> Booking</label>
+                    <label><input type="checkbox" name="otas" value="Google Hotels"> Google Hotels</label>
+                </div>
+            </div>
+            <div class="f-full">
+                <label for="f-msg">Conte rapidamente sobre a sua operação (opcional)</label>
+                <textarea id="f-msg" name="mensagem"></textarea>
+            </div>
+            <div class="hp" aria-hidden="true">
+                <label for="f-web">Website</label>
+                <input type="text" id="f-web" name="website" tabindex="-1" autocomplete="off">
+            </div>
+            <div class="f-full">
+                <button class="btn btn-dark" type="submit" id="otaSubmit" data-track="cta_ota_interesse">Entrar na lista de prioridade</button>
+            </div>
+            <div class="form-msg" id="formMsg"></div>
+        </form>
+    </div>
+</section>
+
+<section class="wrap" id="planos">
+    <div class="tag">Planos</div>
+    <h2>Os mesmos planos da Credituz. Sem cobrança extra por locação.</h2>
+    <p class="sub">Todos com 14 dias grátis para testar os agentes de IA. A tabela completa está na <a href="../index.html#pricing">página principal</a>.</p>
+    <div class="plans-strip">
+        <div class="plan-mini">
+            <div class="name">Growth</div>
+            <div class="price">R$ 297<span>/mês</span></div>
+            <p>Imobiliária pequena de locação: 3 usuários, Sofia até 75 clientes/mês, reativação de base e 25 contratos/mês.</p>
+        </div>
+        <div class="plan-mini">
+            <div class="name">Pro</div>
+            <div class="price">R$ 597<span>/mês</span></div>
+            <p>Equipe em crescimento: 10 usuários, Sofia até 200 clientes/mês, portais e analytics com IA.</p>
+        </div>
+        <div class="plan-mini">
+            <div class="name">Business</div>
+            <div class="price">R$ 1.297<span>/mês</span></div>
+            <p>Carteira consolidada: régua de cobrança completa, NFe, conta Asaas, contratos ilimitados e pós-venda.</p>
+        </div>
+    </div>
+</section>
+
+<section class="wrap" id="faq">
+    <div class="tag">Perguntas frequentes</div>
+    <h2>Dúvidas de quem opera locação.</h2>
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+        <h4>Funciona para longa duração e temporada ao mesmo tempo? <span>+</span></h4>
+        <div class="a">Sim. O atendimento com IA, os contratos e a cobrança recorrente funcionam para os dois modelos hoje. A sincronização automática com Airbnb, Booking e Google Hotels (calendário e tarifas) é a parte em desenvolvimento, e é para ela que existe a lista de prioridade acima.</div>
+    </div>
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+        <h4>Substitui o sistema de locação que eu já uso? <span>+</span></h4>
+        <div class="a">Para a maioria das operações, sim: CRM, atendimento, contratos e cobrança ficam na Credituz. Você pode rodar em paralelo durante a migração, importando contatos e imóveis em 1 clique, e manter o que preferir.</div>
+    </div>
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+        <h4>A cobrança recorrente tem custo extra? <span>+</span></h4>
+        <div class="a">A régua de cobrança, o boleto e o Pix fazem parte do plano Business, com 1 conta digital Asaas inclusa. A NFe sai a R$ 0,49 por nota. Não há cobrança por imóvel nem por inquilino.</div>
+    </div>
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+        <h4>Quando a integração com as OTAs fica pronta? <span>+</span></h4>
+        <div class="a">Está em desenvolvimento ativo. Quem entra na lista de prioridade recebe as datas em primeira mão, participa do acesso antecipado e tem condição especial de lançamento. Preencha o formulário acima que entramos em contato.</div>
+    </div>
+</section>
+
+<footer>
+    <div class="wrap">
+        <a href="../index.html">← Voltar para a página principal</a> · Credituz Tecnologia Ltda · <a href="./privacidade.html">Privacidade</a>
+    </div>
+</footer>
+
+<script>
+const ENDPOINT = 'https://credituz-dashboard.vercel.app/api/interesse-locacao';
+document.getElementById('otaForm').addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const msg = document.getElementById('formMsg');
+    const btn = document.getElementById('otaSubmit');
+    const nome = document.getElementById('f-nome').value.trim();
+    const email = document.getElementById('f-email').value.trim();
+    const whatsapp = document.getElementById('f-whats').value.trim();
+    msg.className = 'form-msg';
+    if (!nome || (!email && !whatsapp)) {
+        msg.className = 'form-msg err';
+        msg.textContent = 'Preencha seu nome e pelo menos um contato (e-mail ou WhatsApp).';
+        return;
+    }
+    const payload = {
+        nome,
+        empresa: document.getElementById('f-empresa').value.trim(),
+        email,
+        whatsapp,
+        imoveis: document.getElementById('f-imoveis').value,
+        otas: Array.from(document.querySelectorAll('input[name="otas"]:checked')).map(c => c.value),
+        mensagem: document.getElementById('f-msg').value.trim(),
+        website: document.getElementById('f-web').value
+    };
+    btn.disabled = true; btn.textContent = 'Enviando...';
+    try {
+        const r = await fetch(ENDPOINT, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload)
+        });
+        if (!r.ok) throw new Error('http ' + r.status);
+        msg.className = 'form-msg ok';
+        msg.textContent = 'Recebido! Você está na lista de prioridade das OTAs. Entraremos em contato em breve.';
+        this.reset();
+        btn.textContent = 'Enviado ✓';
+    } catch (err) {
+        msg.className = 'form-msg err';
+        msg.innerHTML = 'Não conseguimos enviar agora. Fale direto com a gente no <a href="https://wa.me/5511936201544?text=Tenho%20interesse%20na%20integra%C3%A7%C3%A3o%20com%20OTAs%20(loca%C3%A7%C3%A3o%2Ftemporada)" target="_blank" rel="noopener">WhatsApp</a>.';
+        btn.disabled = false; btn.textContent = 'Entrar na lista de prioridade';
+    }
+});
+</script>
+</body>
+</html>
