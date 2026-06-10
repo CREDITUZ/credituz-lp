@@ -278,7 +278,7 @@ document.getElementById('otaForm').addEventListener('submit', async function (e)
         });
         if (!r.ok) throw new Error('http ' + r.status);
         msg.className = 'form-msg ok';
-        msg.textContent = 'Recebido! Você está na lista de prioridade das OTAs. Entraremos em contato em breve.';
+        msg.textContent = 'Recebido! Seu interesse foi registrado e você está na lista de prioridade das OTAs. Nossa equipe entra em contato em breve.';
         this.reset();
         btn.textContent = 'Enviado ✓';
     } catch (err) {
