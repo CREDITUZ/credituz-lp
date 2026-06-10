@@ -117,6 +117,32 @@ body {
     .roi-scenario-btns button { padding: 8px 10px; font-size: 12.5px; }
 }
 
+/* ============ ROI SIMPLE ============ */
+.roi-simple { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 28px; margin-top: 28px; align-items: stretch; }
+.roi-simple-inputs { display: flex; flex-direction: column; gap: 22px; justify-content: center; }
+.roi-simple-inputs .roi-field-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+.roi-simple-inputs label { font-size: 14.5px; font-weight: 600; color: var(--gray-1); }
+.roi-field-val { font-family: 'Geist', sans-serif; font-size: 15px; font-weight: 700; color: var(--ink); }
+.roi-simple-inputs input[type=range] { width: 100%; accent-color: var(--lime-deep); }
+.roi-simple-result { background: var(--ink); color: var(--paper); border-radius: 22px; padding: 32px 28px; display: flex; flex-direction: column; align-items: center; text-align: center; justify-content: center; }
+.roi-result-label { font-size: 13.5px; opacity: 0.75; margin-bottom: 8px; }
+.roi-result-big { font-family: 'Fraunces', serif; font-size: clamp(34px, 5vw, 52px); font-weight: 600; line-height: 1; letter-spacing: -0.02em; }
+.roi-result-per { font-size: 13.5px; opacity: 0.7; margin-top: 10px; }
+.roi-result-compare { font-size: 15px; margin-top: 16px; line-height: 1.4; }
+.roi-result-compare strong { color: var(--lime); }
+.roi-result-cta { margin-top: 22px; background: var(--lime); color: var(--ink); padding: 13px 26px; border-radius: 100px; font-size: 14.5px; font-weight: 700; text-decoration: none; transition: transform .15s; }
+.roi-result-cta:hover { transform: translateY(-1px); }
+.roi-assumptions { margin-top: 24px; border: 1px solid var(--gray-soft); border-radius: 14px; padding: 0 18px; background: var(--paper); }
+.roi-assumptions summary { cursor: pointer; padding: 16px 0; font-size: 14.5px; font-weight: 600; color: var(--gray-2); list-style: none; }
+.roi-assumptions summary::-webkit-details-marker { display: none; }
+.roi-assumptions summary::before { content: '+ '; color: var(--lime-deep); font-weight: 800; }
+.roi-assumptions[open] summary::before { content: '\2212 '; }
+.roi-assumptions-body { padding: 0 0 18px; }
+.roi-assumptions-body p { font-size: 13.5px; color: var(--gray-2); line-height: 1.55; margin-bottom: 12px; }
+.roi-formula { font-family: 'JetBrains Mono', monospace; font-size: 12.5px; color: var(--gray-3); }
+.roi-disclaimer { font-size: 12px; color: var(--gray-3); margin-top: 16px; line-height: 1.45; }
+@media (max-width: 760px) { .roi-simple { grid-template-columns: 1fr; gap: 22px; } }
+
 /* ============ NAV SUBMENU ============ */
 .nav-has-sub { position: relative; }
 .nav-caret { font-size: 10px; opacity: 0.7; }
@@ -4290,242 +4316,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="roi-inner">
         <div class="roi-head">
             <div class="section-tag">Calculadora de ROI</div>
-            <h2>Quem qualifica seus leads hoje? <em>Calcule.</em></h2>
-            <p>Imobiliária com SDR dedicado, incorporadora com margens maiores ou corretor autônomo que faz tudo sozinho. Cada perfil tem custos e perdas diferentes. Escolha o seu cenário, ajuste os números reais da sua operação e compare lado a lado com a Sofia, a SDR de IA da Credituz, atendendo 24×7.</p>
+            <h2>Quanto você perde com lead que esfria? <em>Calcule.</em></h2>
+            <p>Três números que você sabe de cabeça. Veja em segundos quanto a Sofia, atendendo 24×7 e simulando crédito na hora, pode somar ao seu faturamento.</p>
 
             <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
                 <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
                     <span class="roi-profile-icon">🏢</span>
                     <span class="roi-profile-title">Imobiliária</span>
-                    <span class="roi-profile-sub">Tenho SDR ou atendente dedicado</span>
                 </button>
                 <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
                     <span class="roi-profile-icon">🏗️</span>
                     <span class="roi-profile-title">Incorporadora</span>
-                    <span class="roi-profile-sub">Vendo na planta · margem ≥ 10%</span>
                 </button>
                 <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
                     <span class="roi-profile-icon">👤</span>
                     <span class="roi-profile-title">Corretor autônomo</span>
-                    <span class="roi-profile-sub">Eu mesmo qualifico os leads</span>
                 </button>
             </div>
+        </div>
 
-            <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
-                <span class="roi-scenario-label">Cenário de conversão da Sofia:</span>
-                <div class="roi-scenario-btns" id="roiScenario">
-                    <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>10%</em></button>
-                    <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>12%</em></button>
-                    <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>16%</em></button>
+        <div class="roi-simple">
+            <div class="roi-simple-inputs">
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiLeads">Leads por mês</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
+                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
                 </div>
-                <p class="roi-scenario-note">Metodologia: partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho calculado é a diferença entre as duas, aplicada ao seu volume de leads, ticket e margem. O cenário conservador (10%) é o padrão; ajuste os valores ao lado para refletir a sua operação.</p>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiTicket">Ticket médio do imóvel</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
+                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Comissão / margem</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
+                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
+                </div>
+            </div>
+
+            <div class="roi-simple-result">
+                <div class="roi-result-label">Faturamento extra estimado com a Sofia</div>
+                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
+                <div class="roi-result-per">por mês · <span id="roiResultYear">R$ 0</span> por ano</div>
+                <div class="roi-result-compare" id="roiResultCompare"></div>
+                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Testar grátis por 14 dias</a>
             </div>
         </div>
 
-        <div class="roi-grid">
-            <div class="roi-inputs">
-
-                <!-- Quem qualifica (só visível em Imobiliária / Incorporadora) -->
-                <div class="roi-field" id="roiQualifField">
-                    <div class="roi-field-head">
-                        <label>Quem qualifica os leads hoje?</label>
+        <details class="roi-assumptions">
+            <summary>Ver premissas do cálculo</summary>
+            <div class="roi-assumptions-body">
+                <p><strong>Metodologia:</strong> partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho é a diferença entre as duas conversões, aplicada ao seu volume de leads, ticket e margem.</p>
+                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
+                    <span class="roi-scenario-label">Conversão estimada com a Sofia:</span>
+                    <div class="roi-scenario-btns" id="roiScenario">
+                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>10%</em></button>
+                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>12%</em></button>
+                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>16%</em></button>
                     </div>
-                    <div class="roi-segmented" id="roiQualif" role="tablist">
-                        <button type="button" data-val="corretor" class="active">Próprio corretor (paga 5% comissão)</button>
-                        <button type="button" data-val="sdr">SDR / atendente dedicado</button>
-                    </div>
-                    <div class="roi-hint" id="roiQualifHint">Define como o custo do atendimento é calculado: salário + encargos do SDR, ou comissão paga ao corretor que qualifica e atende.</div>
                 </div>
-
-                <div class="roi-field">
-                    <div class="roi-field-head">
-                        <label for="roiLeads">Leads de financiamento por mês</label>
-                        <input type="number" class="roi-num" id="roiLeadsNum" min="0" max="5000" step="1" value="120" aria-label="Leads por mês">
-                    </div>
-                    <input type="range" id="roiLeads" class="roi-slider" min="20" max="800" step="10" value="120">
-                    <div class="roi-hint">Leads que pedem simulação ou visita por mês</div>
-                </div>
-
-                <div class="roi-field">
-                    <div class="roi-field-head">
-                        <label for="roiTicket">Ticket médio do imóvel</label>
-                        <input type="number" class="roi-num" id="roiTicketNum" min="50000" max="20000000" step="10000" value="450000" aria-label="Ticket médio em reais">
-                    </div>
-                    <input type="range" id="roiTicket" class="roi-slider" min="150000" max="3000000" step="25000" value="450000">
-                    <div class="roi-hint" id="roiTicketHint">VGV médio por unidade vendida</div>
-                </div>
-
-                <div class="roi-field">
-                    <div class="roi-field-head">
-                        <label for="roiMarginNum" id="roiMarginLabel">Comissão sobre venda</label>
-                        <div class="roi-num-suffix">
-                            <input type="number" class="roi-num" id="roiMarginNum" min="0" max="40" step="0.1" value="5" aria-label="Margem em porcentagem">
-                            <span class="roi-num-suffix-unit">%</span>
-                        </div>
-                    </div>
-                    <input type="range" id="roiMargin" class="roi-slider" min="0" max="20" step="0.5" value="5">
-                    <div class="roi-hint" id="roiMarginHint">% líquida que a imobiliária captura por venda fechada</div>
-                </div>
-
-                <!-- Bloco de quem qualifica = SDR dedicado -->
-                <div class="roi-field roi-field-sdr">
-                    <div class="roi-field-head">
-                        <label for="roiSDRs">SDRs no time hoje</label>
-                        <input type="number" class="roi-num" id="roiSDRsNum" min="0" max="30" step="1" value="2" aria-label="Número de SDRs">
-                    </div>
-                    <input type="range" id="roiSDRs" class="roi-slider" min="0" max="10" step="1" value="2">
-                    <div class="roi-hint">Pessoas dedicadas a qualificar lead, atender WhatsApp e dar retorno</div>
-                </div>
-
-                <div class="roi-field roi-field-sdr">
-                    <div class="roi-field-head">
-                        <label for="roiSalario">Salário médio do SDR</label>
-                        <input type="number" class="roi-num" id="roiSalarioNum" min="1500" max="20000" step="100" value="3500" aria-label="Salário em reais">
-                    </div>
-                    <input type="range" id="roiSalario" class="roi-slider" min="2000" max="8000" step="100" value="3500">
-                    <div class="roi-hint">Custo total p/ empresa é ~1,4× o salário (Simples Nacional + encargos + VT/VR)</div>
-                </div>
-
-                <!-- Bloco de quem qualifica = Corretor (visível só nesse modo) -->
-                <div class="roi-field roi-field-corretor" style="display:none;">
-                    <div class="roi-field-head">
-                        <label for="roiComissaoCorretor">Comissão paga ao corretor pela qualificação</label>
-                        <div class="roi-num-suffix">
-                            <input type="number" class="roi-num" id="roiComissaoCorretorNum" min="0" max="15" step="0.5" value="5" aria-label="Comissão em porcentagem">
-                            <span class="roi-num-suffix-unit">%</span>
-                        </div>
-                    </div>
-                    <input type="range" id="roiComissaoCorretor" class="roi-slider" min="1" max="10" step="0.5" value="5">
-                    <div class="roi-hint">% do valor do imóvel pago como comissão ao corretor que qualifica, simula e atende. Em troca, ele leva 100% do trabalho de funil</div>
-                </div>
-
-                <!-- Bloco de quem qualifica = Corretor autônomo (perfil corretor) -->
-                <div class="roi-field roi-field-corretor-solo" style="display:none;">
-                    <div class="roi-field-head">
-                        <label for="roiLeadsPerdidos">Leads perdidos por não conseguir atender</label>
-                        <div class="roi-num-suffix">
-                            <input type="number" class="roi-num" id="roiLeadsPerdidosNum" min="0" max="80" step="1" value="35" aria-label="% leads perdidos">
-                            <span class="roi-num-suffix-unit">%</span>
-                        </div>
-                    </div>
-                    <input type="range" id="roiLeadsPerdidos" class="roi-slider" min="0" max="80" step="1" value="35">
-                    <div class="roi-hint">% dos leads do ZAP/OLX/Meta que esfriam porque você está em visita, dirigindo ou dormindo. A IA pega esses 35% e os converte em agendamento.</div>
-                </div>
-
-                <div class="roi-field roi-field-carteira">
-                    <div class="roi-field-head">
-                        <label for="roiCarteira">Carteira ativa em cobrança</label>
-                        <input type="number" class="roi-num" id="roiCarteiraNum" min="0" max="500000000" step="100000" value="8000000" aria-label="Carteira em reais">
-                    </div>
-                    <input type="range" id="roiCarteira" class="roi-slider" min="500000" max="50000000" step="500000" value="8000000">
-                    <div class="roi-hint" id="roiCarteiraHint">Saldo a receber de mensais, financiamento próprio, repasses</div>
-                </div>
+                <p class="roi-formula">Cálculo: leads × (conversão Sofia − 6%) × ticket × margem = ganho mensal.</p>
             </div>
+        </details>
 
-            <div class="roi-output">
-                <div class="roi-output-tag">Comparativo mensal · tempo real</div>
-
-                <div class="roi-compare">
-                    <div class="roi-compare-col roi-compare-human">
-                        <div class="roi-compare-head">
-                            <span class="roi-compare-icon" id="roiHumanIcon">👤</span>
-                            <span class="roi-compare-title" id="roiHumanTitle">SDR humano</span>
-                        </div>
-                        <div class="roi-compare-stat">
-                            <span class="roi-compare-label" id="roiHumanCostLabel">Custo total mensal</span>
-                            <strong id="roiHumanCost">R$ 9.800</strong>
-                            <div class="roi-cost-breakdown" id="roiCostBreakdown">
-                                <span class="roi-cost-line">Salário base · <em id="roiBreakSalario">R$ 7.000</em></span>
-                                <span class="roi-cost-line">Encargos + provisões (~30%) · <em id="roiBreakEncargos">R$ 2.100</em></span>
-                                <span class="roi-cost-line">VT + VR/VA (~10%) · <em id="roiBreakBeneficios">R$ 700</em></span>
-                            </div>
-                        </div>
-                        <ul class="roi-compare-list" id="roiHumanList">
-                            <li><span class="x">✕</span> Cobertura <strong id="roiHumanHours">40h</strong>/sem (~24% do tempo)</li>
-                            <li><span class="x">✕</span> Sem atendimento à noite e fim de semana</li>
-                            <li><span class="x">✕</span> Férias, faltas, encargos e rotatividade</li>
-                            <li><span class="x">✕</span> Tempo médio de resposta: 4h+</li>
-                        </ul>
-                    </div>
-
-                    <div class="roi-compare-col roi-compare-ai">
-                        <div class="roi-compare-head">
-                            <span class="roi-compare-icon">⚡</span>
-                            <span class="roi-compare-title">SDR AI · Credituz</span>
-                        </div>
-                        <div class="roi-compare-stat">
-                            <span class="roi-compare-label">Plano Pro · custo fixo</span>
-                            <strong>R$ 597</strong>
-                        </div>
-                        <ul class="roi-compare-list ai">
-                            <li><span class="v">✓</span> Cobertura <strong>168h</strong>/sem (100% do tempo)</li>
-                            <li><span class="v">✓</span> Atende 24×7, inclusive feriados</li>
-                            <li><span class="v">✓</span> Sem encargos, sem turnover, escala em 1 clique</li>
-                            <li><span class="v">✓</span> Resposta &lt; 30 segundos · simulação multibancos</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="roi-row">
-                    <div class="roi-row-label">
-                        <span class="roi-row-title" id="roiEconomiaTitle">Economia direta com pessoal</span>
-                        <span class="roi-row-sub" id="roiEconomiaSub">Custo SDRs − plano Credituz</span>
-                    </div>
-                    <div class="roi-row-num" id="roiOutEconomia">R$ 9.303</div>
-                </div>
-
-                <div class="roi-row">
-                    <div class="roi-row-label">
-                        <span class="roi-row-title">Receita extra · SDR AI 24×7</span>
-                        <span class="roi-row-sub">Conversão 6% → 12% (cenário conservador)</span>
-                    </div>
-                    <div class="roi-row-num" id="roiOutCredituz">R$ 270.000</div>
-                </div>
-
-                <div class="roi-row" id="roiRowRegua">
-                    <div class="roi-row-label">
-                        <span class="roi-row-title">Recuperação da régua de cobrança</span>
-                        <span class="roi-row-sub">+1,2% da carteira ao mês</span>
-                    </div>
-                    <div class="roi-row-num" id="roiOutRegua">R$ 96.000</div>
-                </div>
-
-                <div class="roi-total">
-                    <div class="roi-total-label">Ganho total mensal com Credituz</div>
-                    <div class="roi-total-num"><em id="roiTotalNum">R$ 375.303</em></div>
-
-                    <div class="roi-vs-pro">
-                        <div class="roi-vs-pro-grid">
-                            <div class="roi-vs-pro-cell">
-                                <div class="roi-vs-pro-cell-label">Plano Pro</div>
-                                <div class="roi-vs-pro-cell-num">R$ 597<span>/mês</span></div>
-                            </div>
-                            <div class="roi-vs-pro-divider">×</div>
-                            <div class="roi-vs-pro-cell roi-vs-pro-cell-result">
-                                <div class="roi-vs-pro-cell-label">Você recebe de volta</div>
-                                <div class="roi-vs-pro-cell-num"><em id="roiPerReal">R$ 755</em><span> p/ cada R$ 1</span></div>
-                            </div>
-                        </div>
-
-                        <div class="roi-vs-pro-bar" aria-hidden="true">
-                            <div class="roi-vs-pro-bar-base"><span>R$ 1 investido</span></div>
-                            <div class="roi-vs-pro-bar-fill" id="roiVsBarFill"><span id="roiVsBarLabel">R$ 755 de retorno</span></div>
-                        </div>
-
-                        <div class="roi-vs-pro-foot">
-                            ROI <strong id="roiMultiplier">755×</strong> · payback <strong id="roiPayback">imediato</strong> · custo de esperar 1 mês: <strong id="roiInaction" class="roi-inaction">R$ 374.806</strong>
-                        </div>
-                    </div>
-                </div>
-
-                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-cta" target="_blank" rel="noopener" data-track="cta_roi">
-                    Testar grátis por 14 dias · plano Pro
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-                </a>
-            </div>
-        </div>
-
-        <p class="roi-disclaimer"><strong>Sobre o modo "Próprio corretor":</strong> é comum, principalmente em imobiliárias menores, usar o próprio corretor de imóveis como SDR. Ele recebe o lead do ZAP, OLX, VivaReal ou Meta Ads, atende, qualifica, simula crédito e leva à visita. Não há salário fixo, mas o corretor cobra em média <strong>5% de comissão sobre o valor do imóvel</strong> por todo o trabalho de funil (qualificação + visita + fechamento). O problema permanece: cobertura limitada ao horário em que ele não está em outra visita, no carro ou dormindo, e o custo por venda é alto (uma venda de R$ 450k vira R$ 22.500 de comissão paga). Com a Sofia, o atendimento e qualificação acontecem 24×7 e o corretor entra apenas para fechar, com comissão menor sobre apenas o valor da intermediação. <br><br><strong>Custo do SDR (modo dedicado):</strong> calculado como salário base + 30% de encargos e provisões (FGTS, 13º, férias + 1/3, multa rescisória) + 10% de benefícios (VT + VR/VA), considerando Simples Nacional. Para Lucro Real/Presumido (INSS patronal 20%), o multiplicador sobe para ~1,7×. Faixa salarial: <a href="https://www.glassdoor.com.br/Sal%C3%A1rios/sdr-sal%C3%A1rio-SRCH_KO0,3.htm" target="_blank" rel="noopener">Glassdoor</a> e <a href="https://br.jooble.org/salary/sdr-comercial" target="_blank" rel="noopener">Jooble</a> (R$ 2.000–R$ 8.000). Conversões (6% → 16%) e recuperação de carteira (1,2%/mês) baseadas em benchmarks Abrainc/Secovi cruzados com cenários reais de clientes Credituz. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Calculadora referencial. Não constitui garantia contratual.</p>
+        <p class="roi-disclaimer">Estimativa referencial. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Não constitui garantia contratual.</p>
     </div>
 </section>
 
@@ -5208,120 +5059,69 @@ function essentialCookies() {
     document.getElementById('cookieBanner').classList.remove('show');
 }
 
-/* ===== ROI CALCULATOR ===== */
+/* ===== ROI CALCULATOR (simplificado) ===== */
 (function initROI(){
     const $ = (id) => document.getElementById(id);
     if (!$('roiLeads')) return;
 
-    // Sliders
-    const sliders = {
-        leads:     $('roiLeads'),
-        ticket:    $('roiTicket'),
-        margin:    $('roiMargin'),
-        sdrs:      $('roiSDRs'),
-        salario:   $('roiSalario'),
-        comissaoC: $('roiComissaoCorretor'),
-        perdidos:  $('roiLeadsPerdidos'),
-        carteira:  $('roiCarteira')
-    };
-    // Number inputs (paired)
-    const nums = {
-        leads:     $('roiLeadsNum'),
-        ticket:    $('roiTicketNum'),
-        margin:    $('roiMarginNum'),
-        sdrs:      $('roiSDRsNum'),
-        salario:   $('roiSalarioNum'),
-        comissaoC: $('roiComissaoCorretorNum'),
-        perdidos:  $('roiLeadsPerdidosNum'),
-        carteira:  $('roiCarteiraNum')
-    };
-
-    // State
-    let profile = 'imobiliaria';  // imobiliaria | incorporadora | corretor
-    let qualifMode = 'corretor';  // sdr | corretor (apenas para imobiliaria/incorporadora)
-
-    // Formatters
-    const fmtBRL = (n) => {
-        if (n >= 1e6) return 'R$ ' + (n/1e6).toFixed(n >= 1e7 ? 1 : 2).replace('.', ',') + 'M';
-        if (n >= 1e3) return 'R$ ' + Math.round(n/1e3).toLocaleString('pt-BR') + 'k';
-        return 'R$ ' + Math.round(n).toLocaleString('pt-BR');
-    };
-    const fmtBRLfull = (n) => 'R$ ' + Math.round(n).toLocaleString('pt-BR');
-
-    // Constants
-    const CONV_BASELINE  = 0.06;   // Conversão típica mercado
+    const CONV_BASELINE = 0.06;
     const SCENARIOS = { conservador: 0.10, realista: 0.12, otimista: 0.16 };
+    const PLAN_PRO = 597;
     let scenario = 'conservador';
-    let CONV_CREDITUZ = SCENARIOS[scenario];   // SDR AI 24x7 + simulação multibancos (varia por cenário)
-    const RECUP_REGUA    = 0.012;  // 1,2% da carteira/mês via régua
-    const PLAN_PRO       = 597;    // Plano Pro
-    const HOURS_HUMAN    = 40;     // Horas/semana SDR humano
-    const HOURS_AI       = 168;    // Horas/semana SDR AI
+    let profile = 'imobiliaria';
 
-    // Profile defaults (calibração realista por segmento)
-    const PROFILE_DEFAULTS = {
-        imobiliaria: {
-            leads: 120, ticket: 450000, margin: 5,
-            sdrs: 2, salario: 3500,
-            comissaoC: 5, perdidos: 35, carteira: 8000000,
-            ticketHint: 'Preço médio do imóvel intermediado',
-            marginLabel: 'Comissão da imobiliária',
-            marginHint: '% líquida da intermediação após split com o corretor',
-            carteiraHint: 'Saldo a receber de aluguéis, repasses e administração'
-        },
-        incorporadora: {
-            leads: 250, ticket: 650000, margin: 12,
-            sdrs: 3, salario: 4500,
-            comissaoC: 5, perdidos: 25, carteira: 25000000,
-            ticketHint: 'VGV médio por unidade vendida',
-            marginLabel: 'Margem da incorporadora',
-            marginHint: 'Margem líquida sobre o VGV (incorporação direta · sem split com imobiliária)',
-            carteiraHint: 'Saldo a receber: tabela direta, financiamento próprio, repasse'
-        },
-        corretor: {
-            leads: 40, ticket: 450000, margin: 5,
-            sdrs: 0, salario: 3500,
-            comissaoC: 5, perdidos: 50, carteira: 0,
-            ticketHint: 'Preço médio do imóvel que você intermedia',
-            marginLabel: 'Sua comissão por venda',
-            marginHint: '% do valor do imóvel que fica com você (líquida do split)',
-            carteiraHint: 'Carteira de cobrança (se você administra aluguéis)'
-        }
+    const DEFAULTS = {
+        imobiliaria:   { leads: 120, ticket: 450000, margin: 5,  marginLabel: 'Comissão da imobiliária' },
+        incorporadora: { leads: 250, ticket: 650000, margin: 12, marginLabel: 'Margem da incorporadora' },
+        corretor:      { leads: 40,  ticket: 450000, margin: 5,  marginLabel: 'Sua comissão por venda' }
     };
 
-    // Sync slider ↔ number input
-    function syncPair(sliderEl, numEl) {
-        sliderEl.addEventListener('input', () => {
-            numEl.value = sliderEl.value;
-            compute();
-        });
-        numEl.addEventListener('input', () => {
-            // Permite que o número saia do range do slider, mas mantém o slider no limite
-            const v = parseFloat(numEl.value);
-            if (isNaN(v)) return;
-            const min = parseFloat(sliderEl.min);
-            const max = parseFloat(sliderEl.max);
-            sliderEl.value = Math.min(Math.max(v, min), max);
-            compute();
-        });
-    }
-    Object.keys(sliders).forEach(k => {
-        if (sliders[k] && nums[k]) syncPair(sliders[k], nums[k]);
-    });
+    const leadsEl = $('roiLeads'), ticketEl = $('roiTicket'), marginEl = $('roiMargin');
+    const fmtBRL = (n) => 'R$ ' + Math.round(n).toLocaleString('pt-BR');
 
-    // Profile selector
+    function applyProfile(p) {
+        const d = DEFAULTS[p];
+        leadsEl.value = d.leads; ticketEl.value = d.ticket; marginEl.value = d.margin;
+        $('roiMarginLabel').textContent = d.marginLabel;
+    }
+
+    function compute() {
+        const L = +leadsEl.value, T = +ticketEl.value, m = +marginEl.value / 100;
+        $('roiLeadsVal').textContent = L;
+        $('roiTicketVal').textContent = fmtBRL(T);
+        $('roiMarginVal').textContent = (+marginEl.value) + '%';
+
+        const conv = SCENARIOS[scenario];
+        const extraMonth = L * (conv - CONV_BASELINE) * T * m;
+        const extraYear = extraMonth * 12;
+
+        $('roiResultBig').textContent = fmtBRL(extraMonth);
+        $('roiResultYear').textContent = fmtBRL(extraYear);
+
+        const mult = extraMonth / PLAN_PRO;
+        let cmp;
+        if (extraMonth <= 0) {
+            cmp = 'Ajuste os números da sua operação para ver o ganho.';
+        } else if (mult >= 1) {
+            cmp = 'Isso é <strong>' + Math.round(mult) + '×</strong> o custo do plano Pro (R$ 597/mês).';
+        } else {
+            cmp = 'Equivale a ' + Math.round(mult * 100) + '% do custo do plano Pro (R$ 597/mês).';
+        }
+        $('roiResultCompare').innerHTML = cmp;
+    }
+
+    [leadsEl, ticketEl, marginEl].forEach(el => el.addEventListener('input', compute));
+
     document.querySelectorAll('.roi-profile-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             document.querySelectorAll('.roi-profile-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             profile = btn.dataset.profile;
             applyProfile(profile);
-            updateVisibility();
             compute();
         });
     });
 
-    // Scenario selector (conservador / realista / otimista)
     const scenGroup = $('roiScenario');
     if (scenGroup) {
         scenGroup.addEventListener('click', (e) => {
@@ -5334,279 +5134,7 @@ function essentialCookies() {
         });
     }
 
-    // Qualif mode toggle (SDR dedicado vs próprio corretor)
-    const qualifGroup = $('roiQualif');
-    qualifGroup.addEventListener('click', (e) => {
-        const btn = e.target.closest('button[data-val]');
-        if (!btn) return;
-        qualifGroup.querySelectorAll('button').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        qualifMode = btn.dataset.val;
-        updateVisibility();
-        compute();
-    });
-
-    function applyProfile(p) {
-        const d = PROFILE_DEFAULTS[p];
-        // Atualiza valores
-        const setBoth = (key, val) => {
-            if (nums[key]) nums[key].value = val;
-            if (sliders[key]) {
-                const min = parseFloat(sliders[key].min);
-                const max = parseFloat(sliders[key].max);
-                sliders[key].value = Math.min(Math.max(val, min), max);
-            }
-        };
-        setBoth('leads', d.leads);
-        setBoth('ticket', d.ticket);
-        setBoth('margin', d.margin);
-        setBoth('sdrs', d.sdrs);
-        setBoth('salario', d.salario);
-        setBoth('comissaoC', d.comissaoC);
-        setBoth('perdidos', d.perdidos);
-        setBoth('carteira', d.carteira);
-
-        // Hints contextuais
-        $('roiTicketHint').textContent = d.ticketHint;
-        $('roiMarginLabel').textContent = d.marginLabel;
-        $('roiMarginHint').textContent = d.marginHint;
-        $('roiCarteiraHint').textContent = d.carteiraHint;
-
-        // Em corretor autônomo, força modo "corretor faz tudo"
-        if (p === 'corretor') {
-            qualifMode = 'corretor-solo';
-        } else {
-            // Default ao trocar para imobiliária/incorporadora: próprio corretor qualifica
-            qualifMode = 'corretor';
-            qualifGroup.querySelectorAll('button').forEach(b => {
-                b.classList.toggle('active', b.dataset.val === 'corretor');
-            });
-        }
-    }
-
-    function updateVisibility() {
-        // Toggle "Quem qualifica" só visível em imobiliária/incorporadora
-        $('roiQualifField').style.display = (profile === 'corretor') ? 'none' : 'flex';
-
-        // Bloco SDR dedicado
-        const showSDR = (profile !== 'corretor') && (qualifMode === 'sdr');
-        document.querySelectorAll('.roi-field-sdr').forEach(el => {
-            el.style.display = showSDR ? 'flex' : 'none';
-        });
-
-        // Bloco "próprio corretor" dentro de imobiliária/incorporadora
-        const showCorretorSplit = (profile !== 'corretor') && (qualifMode === 'corretor');
-        document.querySelectorAll('.roi-field-corretor').forEach(el => {
-            el.style.display = showCorretorSplit ? 'flex' : 'none';
-        });
-
-        // Bloco "corretor autônomo solo"
-        document.querySelectorAll('.roi-field-corretor-solo').forEach(el => {
-            el.style.display = (profile === 'corretor') ? 'flex' : 'none';
-        });
-
-        // Carteira em cobrança · só faz sentido para incorporadora (tabela direta, financiamento, repasse)
-        const showCarteira = (profile === 'incorporadora');
-        document.querySelectorAll('.roi-field-carteira').forEach(el => {
-            el.style.display = showCarteira ? 'flex' : 'none';
-        });
-        $('roiRowRegua').style.display = showCarteira ? 'flex' : 'none';
-    }
-
-    function compute() {
-        CONV_CREDITUZ = SCENARIOS[scenario];
-        const L = +sliders.leads.value;
-        const T = +sliders.ticket.value;
-        const C = +sliders.carteira.value;
-        const N = +sliders.sdrs.value;
-        const S = +sliders.salario.value;
-        const marginPct  = +sliders.margin.value / 100;
-        const corretorComPct = +sliders.comissaoC.value / 100;
-        const perdidosPct = +sliders.perdidos.value / 100;
-
-        // ---------- CUSTO ATUAL DO ATENDIMENTO ----------
-        let humanCost = 0;
-        let baseSalary = 0, encargos = 0, beneficios = 0;
-        let humanTitle = 'SDR humano';
-        let humanIcon = '👤';
-        let humanCostLabel = 'Custo total mensal';
-        let coverageText = '';
-        let bullets = [];
-        let breakdownHTML = '';
-
-        if (profile === 'corretor') {
-            // CORRETOR AUTÔNOMO: ele mesmo é o SDR.
-            // Custo total = comissões perdidas por leads esfriados + valor do tempo dele gasto em qualificação
-            humanIcon = '👤';
-            humanTitle = 'Você como SDR';
-            humanCostLabel = 'Perda mensal · tempo + comissões';
-
-            // (1) Comissões perdidas: leads × % perdidos × conversão baseline × ticket × sua comissão
-            const lostDeals       = L * perdidosPct * CONV_BASELINE;
-            const lostCommissions = lostDeals * T * marginPct;
-
-            // (2) Tempo gasto em qualificação: 0,67h por lead atendido (40min de WhatsApp + simulação + agendamento)
-            //     Valor-hora do corretor = comissão média por venda / 40h dedicadas por venda fechada (visita + negociação + papelada)
-            const HOURS_PER_LEAD     = 0.67;
-            const HOURS_PER_DEAL     = 40;
-            const attendedLeads      = L * (1 - perdidosPct);
-            const hoursOnQualif      = attendedLeads * HOURS_PER_LEAD;
-            const valuePerHour       = (T * marginPct) / HOURS_PER_DEAL;
-            const timeOpportunityCost = hoursOnQualif * valuePerHour;
-
-            humanCost = lostCommissions + timeOpportunityCost;
-
-            breakdownHTML =
-                '<span class="roi-cost-line"><strong style="color:rgba(250,250,247,0.8)">A · Comissões perdidas</strong></span>' +
-                '<span class="roi-cost-line">Leads esfriados (' + Math.round(perdidosPct*100) + '%) · <em>' + Math.round(L * perdidosPct) + '/mês</em></span>' +
-                '<span class="roi-cost-line">Vendas perdidas (conv. 6%) · <em>' + lostDeals.toFixed(1) + '/mês</em></span>' +
-                '<span class="roi-cost-line">Subtotal A · <em>' + fmtBRLfull(lostCommissions) + '</em></span>' +
-                '<span class="roi-cost-line" style="margin-top:6px;"><strong style="color:rgba(250,250,247,0.8)">B · Seu tempo em qualificação</strong></span>' +
-                '<span class="roi-cost-line">Leads que você atende · <em>' + Math.round(attendedLeads) + '/mês</em></span>' +
-                '<span class="roi-cost-line">Horas gastas em qualif. (40min/lead) · <em>' + hoursOnQualif.toFixed(0) + 'h</em></span>' +
-                '<span class="roi-cost-line">Valor da sua hora (' + fmtBRLfull(T * marginPct) + ' ÷ 40h por venda) · <em>' + fmtBRLfull(valuePerHour) + '/h</em></span>' +
-                '<span class="roi-cost-line">Subtotal B · <em>' + fmtBRLfull(timeOpportunityCost) + '</em></span>' +
-                '<span class="roi-cost-source">Tempo médio por lead (40min) e ciclo de venda (~40h) baseados em benchmarks Abrainc/Secovi cruzados com painéis de produtividade de corretores Credituz.</span>';
-
-            coverageText = '';
-            bullets = [
-                '<li><span class="x">✕</span> ' + Math.round(perdidosPct*100) + '% dos leads esfriam antes de você responder</li>',
-                '<li><span class="x">✕</span> Você gasta ' + hoursOnQualif.toFixed(0) + 'h/mês qualificando leads que poderia investir em visitas</li>',
-                '<li><span class="x">✕</span> Cada visita consome 2–3h do seu dia · sem cobertura noturna</li>',
-                '<li><span class="x">✕</span> WhatsApp na madrugada vira lead perdido na manhã</li>'
-            ];
-
-        } else if (qualifMode === 'corretor') {
-            // IMOBILIÁRIA/INCORPORADORA usando o PRÓPRIO CORRETOR como SDR (sem salário fixo, paga 5%)
-            humanIcon = '💼';
-            humanTitle = 'Corretor como SDR';
-            humanCostLabel = 'Custo de oportunidade / mês';
-
-            // Custo do "corretor fazendo SDR" = comissão paga sobre vendas atuais
-            // Conversão baseline 6% × leads × ticket × comissão paga ao corretor
-            const dealsClosed = L * CONV_BASELINE;
-            const commissionsPaid = dealsClosed * T * corretorComPct;
-            humanCost = commissionsPaid;
-
-            breakdownHTML =
-                '<span class="roi-cost-line">Vendas/mês (conv. 6%) · <em>' + dealsClosed.toFixed(1) + '</em></span>' +
-                '<span class="roi-cost-line">Comissão ao corretor por venda · <em>' + fmtBRLfull(T * corretorComPct) + '</em></span>' +
-                '<span class="roi-cost-line">Total pago em corretagem · <em>' + fmtBRLfull(commissionsPaid) + '</em></span>' +
-                '<span class="roi-cost-source">Modelo comum em imobiliárias pequenas/médias: corretor recebe lead do ZAP/OLX/Meta, qualifica, simula e fecha. Comissão típica: 5% do valor do imóvel.</span>';
-
-            coverageText = '';
-            bullets = [
-                '<li><span class="x">✕</span> Corretor sem salário, mas comissão alta corrói margem da venda</li>',
-                '<li><span class="x">✕</span> Atende quando pode, em visita, leads esfriam</li>',
-                '<li><span class="x">✕</span> Sem padrão de qualificação · cada um trabalha do seu jeito</li>',
-                '<li><span class="x">✕</span> Funil sem registro · gestão perde visibilidade</li>'
-            ];
-
-        } else {
-            // MODO SDR DEDICADO (CLT)
-            humanIcon = '👤';
-            humanTitle = (N === 1) ? 'SDR humano' : 'Time de SDRs';
-            humanCostLabel = 'Custo total mensal';
-
-            baseSalary = N * S;
-            encargos   = baseSalary * 0.30;
-            beneficios = baseSalary * 0.10;
-            humanCost  = baseSalary + encargos + beneficios;
-
-            breakdownHTML =
-                '<span class="roi-cost-line">Salário base · <em>' + fmtBRLfull(baseSalary) + '</em></span>' +
-                '<span class="roi-cost-line">Encargos + provisões (~30%) · <em>' + fmtBRLfull(encargos) + '</em></span>' +
-                '<span class="roi-cost-line">VT + VR/VA (~10%) · <em>' + fmtBRLfull(beneficios) + '</em></span>';
-
-            coverageText = '';
-            const totalHours = N * HOURS_HUMAN;
-            const coveragePct = N === 0 ? 0 : Math.round(totalHours / HOURS_AI * 100);
-            bullets = [
-                '<li><span class="x">✕</span> Cobertura <strong>' + (N === 0 ? '0h' : totalHours + 'h') + '</strong>/sem (~' + coveragePct + '% do tempo)</li>',
-                '<li><span class="x">✕</span> Sem atendimento à noite e fim de semana</li>',
-                '<li><span class="x">✕</span> Férias, faltas, encargos e rotatividade</li>',
-                '<li><span class="x">✕</span> Tempo médio de resposta: 4h+</li>'
-            ];
-        }
-
-        // ---------- RECEITA EXTRA COM SDR AI 24×7 ----------
-        const baseRevenue   = L * CONV_BASELINE * T * marginPct;
-        const creditRevenue = L * CONV_CREDITUZ * T * marginPct;
-        const extraRevenue  = creditRevenue - baseRevenue;
-
-        // ---------- RÉGUA DE COBRANÇA (só faz sentido para incorporadora) ----------
-        const reguaGain = (profile === 'incorporadora') ? C * RECUP_REGUA : 0;
-
-        // ---------- ECONOMIA DIRETA ----------
-        const savings = Math.max(0, humanCost - PLAN_PRO);
-
-        // ---------- TOTAL E ROI ----------
-        const total = savings + extraRevenue + reguaGain;
-        const multiplier = total > 0 ? Math.round(total / PLAN_PRO) : 0;
-        const dailyGain = total / 30;
-        const paybackDays = dailyGain > 0 ? PLAN_PRO / dailyGain : 999;
-        const paybackText = paybackDays < 1
-            ? 'imediato'
-            : paybackDays < 2
-                ? 'em 1 dia'
-                : 'em ' + Math.ceil(paybackDays) + ' dias';
-
-        // ---------- LABELS DINÂMICOS DA LINHA ECONOMIA ----------
-        let economiaTitle, economiaSub;
-        if (profile === 'corretor') {
-            economiaTitle = 'Tempo + comissões recuperados';
-            economiaSub = 'Vendas que voltam ao funil + horas suas que viram visitas';
-        } else if (qualifMode === 'corretor') {
-            economiaTitle = 'Margem preservada';
-            economiaSub = 'Comissão de corretagem economizada − plano Credituz';
-        } else {
-            economiaTitle = 'Economia direta com pessoal';
-            economiaSub = 'Custo SDRs − plano Credituz';
-        }
-
-        // ---------- RENDER ----------
-        $('roiHumanIcon').textContent = humanIcon;
-        $('roiHumanTitle').textContent = humanTitle;
-        $('roiHumanCostLabel').textContent = humanCostLabel;
-        $('roiHumanCost').textContent = humanCost > 0 ? fmtBRLfull(humanCost) : 'R$ 0';
-        $('roiCostBreakdown').innerHTML = breakdownHTML;
-
-        // Lista de bullets do card humano
-        $('roiHumanList').innerHTML = bullets.join('');
-
-        $('roiEconomiaTitle').textContent = economiaTitle;
-        $('roiEconomiaSub').textContent = economiaSub;
-
-        $('roiOutEconomia').textContent  = fmtBRLfull(savings);
-        $('roiOutCredituz').textContent  = fmtBRLfull(extraRevenue);
-        $('roiOutRegua').textContent     = fmtBRLfull(reguaGain);
-        $('roiTotalNum').textContent     = fmtBRLfull(total);
-        $('roiMultiplier').textContent   = multiplier.toLocaleString('pt-BR') + '×';
-        $('roiPayback').textContent      = paybackText;
-
-        // "Para cada R$ 1 investido no Pro, você recebe R$ X de volta"
-        const perReal = multiplier;  // mesmo número do multiplicador, em R$
-        $('roiPerReal').textContent      = fmtBRLfull(perReal);
-        $('roiVsBarLabel').textContent   = fmtBRLfull(perReal) + ' de retorno';
-
-        // Custo de esperar = ganho total - plano (perda real ao não contratar)
-        const inactionCost = Math.max(0, total - PLAN_PRO);
-        $('roiInaction').textContent     = fmtBRLfull(inactionCost) + '/mês perdidos';
-
-        // Barra: escala logarítmica para não estourar visualmente
-        // R$1 (8%) ... R$10 (~20%) ... R$100 (~50%) ... R$1.000 (~80%) ... R$10.000+ (100%)
-        let barPct;
-        if (perReal <= 1)         barPct = 8;
-        else if (perReal >= 10000) barPct = 100;
-        else {
-            const logPos = Math.log10(perReal);  // 0 a 4
-            barPct = 8 + (logPos / 4) * 92;       // mapeia para 8%-100%
-        }
-        $('roiVsBarFill').style.width = barPct.toFixed(1) + '%';
-    }
-
-    // Inicializa
-    updateVisibility();
+    applyProfile(profile);
     compute();
 })();
 
