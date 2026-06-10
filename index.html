@@ -2702,6 +2702,24 @@ h2 em {
 
 .trust-item:hover { color: var(--ink); }
 
+/* Item de programa: logo + texto "for Startups" */
+.trust-program {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    white-space: nowrap;
+}
+
+.trust-program .trust-logo { height: 30px; width: auto; }
+
+.trust-program-txt {
+    font-family: 'Geist', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--gray-1);
+    letter-spacing: -0.01em;
+}
+
 /* Chip estilizado (fallback quando logo não carrega) */
 .trust-chip {
     display: inline-flex;
@@ -4873,16 +4891,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
 
-        <div class="trust-label">Selecionada pelos principais programas de startups</div>
+        <div class="trust-label">Apoiada pelos principais programas para startups</div>
         <div class="trust-row backers">
-            <span class="trust-chip">Antler</span>
-            <span class="trust-chip">Google for Startups</span>
-            <span class="trust-chip">Microsoft for Startups</span>
+            <span class="trust-program">
+                <img class="trust-logo" src="./assets/backers/aws.svg" alt="AWS for Startups" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-program-txt&quot;>AWS</span>'">
+                <span class="trust-program-txt">for Startups</span>
+            </span>
+            <span class="trust-program">
+                <img class="trust-logo" src="./assets/backers/google.svg" alt="Google for Startups" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-program-txt&quot;>Google</span>'">
+                <span class="trust-program-txt">for Startups</span>
+            </span>
+            <span class="trust-program">
+                <svg class="trust-logo" viewBox="0 0 23 23" width="23" height="23" aria-hidden="true" style="height:24px;"><rect x="0" y="0" width="10.5" height="10.5" fill="#F25022"/><rect x="12.5" y="0" width="10.5" height="10.5" fill="#7FBA00"/><rect x="0" y="12.5" width="10.5" height="10.5" fill="#00A4EF"/><rect x="12.5" y="12.5" width="10.5" height="10.5" fill="#FFB900"/></svg>
+                <span class="trust-program-txt">Microsoft for Startups</span>
+            </span>
+            <span class="trust-program">
+                <img class="trust-logo" src="./assets/backers/openai.svg" alt="OpenAI for Startups" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-program-txt&quot;>OpenAI</span>'">
+                <span class="trust-program-txt">for Startups</span>
+            </span>
+            <img class="trust-logo" src="./assets/backers/meta-business-partner.svg" alt="Meta Business Partner · WhatsApp API oficial" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-program-txt&quot;>Meta Business Partner</span>'">
         </div>
 
         <div class="trust-label compliance-label">Certificações e parcerias oficiais</div>
         <div class="trust-row compliance">
-            <img class="trust-logo" src="./assets/backers/meta-business-partner.svg" alt="Meta Business Partner · WhatsApp API" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Meta Business Partner</span>'">
             <img class="trust-logo" src="./assets/backers/sefaz-nfe.svg" alt="NFe homologada SEFAZ" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>NFe SEFAZ</span>'">
             <img class="trust-logo" src="./assets/backers/icp-brasil.svg" alt="Assinatura digital ICP-Brasil" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>ICP-Brasil</span>'">
             <img class="trust-logo" src="./assets/backers/lgpd.svg" alt="Conformidade LGPD" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>LGPD</span>'">
