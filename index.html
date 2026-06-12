@@ -84,6 +84,99 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+
+/* ============ PRODUCT SHOWCASE ============ */
+.showcase { padding: 80px 0; background: var(--paper-warm); overflow: hidden; }
+.showcase .section-tag { color: var(--gray-3); }
+.showcase-head { max-width: 1100px; margin: 0 auto 36px; padding: 0 24px; }
+.showcase-head h2 { font-family: 'Fraunces', serif; font-size: clamp(28px,3.6vw,40px); font-weight: 500; letter-spacing: -0.015em; }
+.showcase-head h2 em { font-style: italic; }
+.showcase-head p { color: var(--gray-2); max-width: 640px; margin-top: 12px; }
+.showcase-tabs { display: inline-flex; gap: 6px; background: #fff; border: 1px solid var(--gray-soft); border-radius: 100px; padding: 5px; margin-top: 22px; flex-wrap: wrap; }
+.showcase-tab { border: none; background: transparent; border-radius: 100px; padding: 9px 18px; font-family: 'Geist',sans-serif; font-size: 14px; font-weight: 600; color: var(--gray-2); cursor: pointer; transition: background .15s,color .15s; }
+.showcase-tab.active { background: var(--ink); color: var(--paper); }
+.showcase-stage { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+.showcase-panel { display: none; }
+.showcase-panel.active { display: block; animation: scFade .4s ease; }
+@keyframes scFade { from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:none;} }
+
+/* janela de app */
+.appwin { border-radius: 16px; border: 1px solid var(--gray-soft); background: #fff; box-shadow: 0 30px 60px -20px rgba(20,30,50,0.18); overflow: hidden; }
+.appwin-bar { display: flex; align-items: center; gap: 7px; padding: 12px 16px; border-bottom: 1px solid var(--gray-soft); background: #fbfbf9; }
+.appwin-dot { width: 11px; height: 11px; border-radius: 50%; }
+.appwin-url { margin-left: 12px; font-family: 'JetBrains Mono',monospace; font-size: 11.5px; color: var(--gray-3); }
+.appbody { display: grid; grid-template-columns: 220px 1fr; min-height: 520px; }
+.appside { background: #fbfbfa; border-right: 1px solid var(--gray-soft); padding: 18px 14px; }
+.appside-logo { font-family: 'Raleway',sans-serif; font-weight: 700; font-size: 18px; margin: 4px 8px 18px; }
+.appside-search { display:flex; align-items:center; gap:7px; border:1px solid var(--gray-soft); border-radius:9px; padding:8px 10px; font-size:12.5px; color:var(--gray-3); margin-bottom:18px; }
+.appnav-label { font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--gray-3); margin: 0 8px 8px; }
+.appnav-item { display:flex; align-items:center; gap:10px; padding:9px 10px; border-radius:9px; font-size:13.5px; color:var(--gray-2); margin-bottom:2px; }
+.appnav-item .ic { width:16px; height:16px; opacity:.7; }
+.appnav-item.active { background: var(--ink); color:#fff; font-weight:600; }
+.appnav-item.active .ic { opacity:1; }
+.appside-foot { margin-top: 22px; padding: 12px 8px 0; border-top:1px solid var(--gray-soft); display:flex; align-items:center; gap:10px; }
+.appside-foot .avatar { width:32px; height:32px; border-radius:50%; background:linear-gradient(135deg,var(--lime),var(--lime-deep)); flex:0 0 auto; }
+.appside-foot .who { font-size:12.5px; line-height:1.3; }
+.appside-foot .who b { display:block; font-size:13px; }
+.appside-foot .who span { color: var(--gray-3); font-size:11px; }
+.appside-company { margin: 16px 8px 0; font-size:11px; color:var(--gray-3); }
+.appside-company b { display:block; color:var(--gray-2); font-size:12px; }
+
+.appmain { padding: 22px 26px; background:#fff; }
+.appcrumb { font-size:12.5px; color:var(--gray-3); margin-bottom:18px; }
+.appcrumb b { color: var(--gray-2); font-weight:600; }
+
+/* command center */
+.cc-hello { text-align:center; max-width:520px; margin: 48px auto 30px; }
+.cc-orb { width:74px; height:74px; border-radius:50%; margin:0 auto 18px; background:radial-gradient(circle at 35% 30%, #ff8ae2, #c026d3 70%); box-shadow:0 12px 30px -6px rgba(192,38,211,.5); }
+.cc-hello h3 { font-family:'Fraunces',serif; font-size:26px; font-weight:500; }
+.cc-hello h3 span { color: var(--gray-3); }
+.cc-hello p { color: var(--gray-3); margin-top:4px; }
+.cc-suggest { border:1px solid var(--gray-soft); border-radius:14px; overflow:hidden; }
+.cc-suggest div { padding:15px 18px; font-size:14px; color:var(--gray-3); border-bottom:1px solid var(--gray-soft); }
+.cc-suggest div:last-child { border-bottom:none; }
+.cc-suggest b { color: var(--ink); font-weight:600; }
+.cc-input { margin-top:14px; border:1px solid var(--gray-soft); border-radius:14px; padding:16px 18px; color:var(--gray-3); font-size:14px; display:flex; justify-content:space-between; align-items:center; }
+.cc-send { width:34px; height:34px; border-radius:50%; background:#0b63d6; color:#fff; display:flex; align-items:center; justify-content:center; }
+
+/* relatórios */
+.rep-head { display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:18px; flex-wrap:wrap; gap:10px; }
+.rep-head h3 { font-family:'Fraunces',serif; font-size:21px; font-weight:500; }
+.rep-head .rep-period { font-size:12px; color:var(--gray-3); border:1px solid var(--gray-soft); border-radius:8px; padding:6px 12px; }
+.rep-kpis { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:18px; }
+.kpi { border:1px solid var(--gray-soft); border-radius:12px; padding:14px; }
+.kpi .lbl { font-size:11px; color:var(--gray-3); text-transform:uppercase; letter-spacing:.05em; }
+.kpi .val { font-family:'Fraunces',serif; font-size:24px; font-weight:600; margin-top:6px; }
+.kpi .chg { font-size:11.5px; font-weight:600; margin-top:3px; }
+.kpi .chg.up { color:#1a7f37; } .kpi .chg.down { color:var(--rust); }
+.rep-grid { display:grid; grid-template-columns:1.4fr 1fr; gap:14px; }
+.rep-card { border:1px solid var(--gray-soft); border-radius:12px; padding:16px; }
+.rep-card h4 { font-size:13px; font-weight:600; margin-bottom:14px; color:var(--gray-2); }
+.bars { display:flex; align-items:flex-end; gap:10px; height:130px; }
+.bar { flex:1; display:flex; flex-direction:column; justify-content:flex-end; align-items:center; gap:6px; height:100%; }
+.bar .col { width:100%; border-radius:6px 6px 0 0; background:linear-gradient(180deg,var(--lime-deep),var(--lime)); }
+.bar .bl { font-size:10px; color:var(--gray-3); }
+.funnel { display:flex; flex-direction:column; gap:7px; }
+.frow { display:flex; align-items:center; gap:10px; font-size:12px; }
+.frow .fbar { height:26px; border-radius:6px; background:linear-gradient(90deg,#0b63d6,#5b9cf0); display:flex; align-items:center; padding:0 10px; color:#fff; font-size:11px; font-weight:600; }
+.frow .fname { width:96px; color:var(--gray-2); flex:0 0 auto; }
+.goal { margin-top:4px; }
+.goal-track { height:10px; border-radius:6px; background:var(--gray-soft); overflow:hidden; }
+.goal-fill { height:100%; border-radius:6px; background:linear-gradient(90deg,var(--lime-deep),var(--lime)); }
+.goal-meta { display:flex; justify-content:space-between; font-size:11.5px; color:var(--gray-3); margin-top:6px; }
+.donut-wrap { display:flex; align-items:center; gap:16px; }
+.donut { width:104px; height:104px; border-radius:50%; flex:0 0 auto; }
+.legend { font-size:12px; }
+.legend div { display:flex; align-items:center; gap:7px; margin-bottom:6px; color:var(--gray-2); }
+.legend .sw { width:10px; height:10px; border-radius:3px; }
+
+@media (max-width: 860px){
+  .appbody { grid-template-columns:1fr; }
+  .appside { display:none; }
+  .rep-kpis { grid-template-columns:repeat(2,1fr); }
+  .rep-grid { grid-template-columns:1fr; }
+}
+
 /* ============ ROI SCENARIO ============ */
 .roi-scenario {
     display: flex;
@@ -3969,6 +4062,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a href="#produto" class="nav-sub-trigger">Produto <span class="nav-caret">▾</span></a>
                 <ul class="nav-submenu">
                     <li><a href="#produto">Plataforma · venda e crédito</a></li>
+                    <li><a href="#produto-por-dentro">Telas do produto</a></li>
                     <li><a href="./pages/locacao-temporada.html">Locação e Temporada</a></li>
                 </ul>
             </li>
@@ -4382,6 +4476,155 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </details>
 
         <p class="roi-disclaimer">Estimativa referencial. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Não constitui garantia contratual.</p>
+    </div>
+</section>
+
+<!-- PRODUCT SHOWCASE -->
+<section class="showcase" id="produto-por-dentro">
+    <div class="showcase-head">
+        <div class="section-tag">O produto por dentro</div>
+        <h2>Não é um chatbot. É a <em>plataforma inteira</em> da sua operação.</h2>
+        <p>CRM, esteira de crédito, gestão financeira e relatórios em um só lugar. Veja as telas reais que sua equipe usa todos os dias.</p>
+        <div class="showcase-tabs" role="tablist">
+            <button class="showcase-tab active" data-panel="cc">AI Command Center</button>
+            <button class="showcase-tab" data-panel="rep">Relatórios e métricas</button>
+        </div>
+    </div>
+    <div class="showcase-stage">
+        <!-- PAINEL 1: COMMAND CENTER -->
+        <div class="showcase-panel active" data-panel="cc">
+            <div class="appwin">
+                <div class="appwin-bar">
+                    <span class="appwin-dot" style="background:#ff5f57"></span>
+                    <span class="appwin-dot" style="background:#febc2e"></span>
+                    <span class="appwin-dot" style="background:#28c840"></span>
+                    <span class="appwin-url">app.credituz.ai/painel</span>
+                </div>
+                <div class="appbody">
+                    <aside class="appside">
+                    <div class="appside-logo">credituz<span style="color:var(--lime-deep)">.</span></div>
+                    <div class="appside-search">🔍 Procurar...</div>
+                    <div class="appnav-label">Menu</div>
+                    <div class="appnav-item active">✦ AI Command Center</div>
+                    <div class="appnav-item">▥ Esteira de crédito</div>
+                    <div class="appnav-item">👥 CRM</div>
+                    <div class="appnav-item">🔎 Análises</div>
+                    <div class="appnav-item">🗂 Cadastros</div>
+                    <div class="appnav-item">📣 Marketing</div>
+                    <div class="appnav-item">⚖ Operações</div>
+                    <div class="appnav-item">▦ Integrações</div>
+                    <div class="appside-company"><span>Empresa</span><b>Imobiliária Aurora</b></div>
+                    <div class="appside-foot">
+                        <div class="avatar"></div>
+                        <div class="who"><b>Equipe Aurora</b><span>contato@imobiliariaaurora.com.br</span></div>
+                    </div>
+                </aside>
+                    <div class="appmain">
+                        <div class="appcrumb">Painel › <b>Página inicial</b></div>
+                        <div class="cc-hello">
+                            <div class="cc-orb"></div>
+                            <h3>Bom dia, Aurora <span></span></h3>
+                            <p>O que posso fazer por você?</p>
+                        </div>
+                        <div class="cc-suggest">
+                            <div><b>Eu quero</b> realizar uma simulação de financiamento imobiliário</div>
+                            <div><b>Eu quero</b> verificar clientes com atraso em pagamentos</div>
+                            <div><b>Eu quero</b> analisar dados das minhas campanhas de marketing</div>
+                        </div>
+                        <div class="cc-input"><span>Envie uma mensagem...</span><span class="cc-send">↵</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- PAINEL 2: RELATÓRIOS -->
+        <div class="showcase-panel" data-panel="rep">
+            <div class="appwin">
+                <div class="appwin-bar">
+                    <span class="appwin-dot" style="background:#ff5f57"></span>
+                    <span class="appwin-dot" style="background:#febc2e"></span>
+                    <span class="appwin-dot" style="background:#28c840"></span>
+                    <span class="appwin-url">app.credituz.ai/analises/relatorios</span>
+                </div>
+                <div class="appbody">
+                    <aside class="appside">
+                    <div class="appside-logo">credituz<span style="color:var(--lime-deep)">.</span></div>
+                    <div class="appside-search">🔍 Procurar...</div>
+                    <div class="appnav-label">Menu</div>
+                    <div class="appnav-item">✦ AI Command Center</div>
+                    <div class="appnav-item">▥ Esteira de crédito</div>
+                    <div class="appnav-item">👥 CRM</div>
+                    <div class="appnav-item active">🔎 Análises</div>
+                    <div class="appnav-item">🗂 Cadastros</div>
+                    <div class="appnav-item">📣 Marketing</div>
+                    <div class="appnav-item">⚖ Operações</div>
+                    <div class="appnav-item">▦ Integrações</div>
+                    <div class="appside-company"><span>Empresa</span><b>Imobiliária Aurora</b></div>
+                    <div class="appside-foot">
+                        <div class="avatar"></div>
+                        <div class="who"><b>Equipe Aurora</b><span>contato@imobiliariaaurora.com.br</span></div>
+                    </div>
+                </aside>
+                    <div class="appmain">
+                        <div class="rep-head">
+                            <div><div class="appcrumb" style="margin-bottom:4px">Análises › <b>Relatórios</b></div><h3>Visão geral da operação</h3></div>
+                            <div class="rep-period">Últimos 30 dias ▾</div>
+                        </div>
+                        <div class="rep-kpis">
+                            <div class="kpi"><div class="lbl">Receita</div><div class="val">R$ 487 mil</div><div class="chg up">▲ 18,2%</div></div>
+                            <div class="kpi"><div class="lbl">Leads</div><div class="val">1.284</div><div class="chg up">▲ 9,4%</div></div>
+                            <div class="kpi"><div class="lbl">Conversão</div><div class="val">11,8%</div><div class="chg up">▲ 2,1 p.p.</div></div>
+                            <div class="kpi"><div class="lbl">Inadimplência</div><div class="val">3,1%</div><div class="chg down">▼ 0,8 p.p.</div></div>
+                        </div>
+                        <div class="rep-grid">
+                            <div class="rep-card">
+                                <h4>Receita por mês (R$ mil)</h4>
+                                <div class="bars">
+                                    <div class="bar"><div class="col" style="height:42%"></div><div class="bl">Jan</div></div>
+                                    <div class="bar"><div class="col" style="height:55%"></div><div class="bl">Fev</div></div>
+                                    <div class="bar"><div class="col" style="height:48%"></div><div class="bl">Mar</div></div>
+                                    <div class="bar"><div class="col" style="height:68%"></div><div class="bl">Abr</div></div>
+                                    <div class="bar"><div class="col" style="height:80%"></div><div class="bl">Mai</div></div>
+                                    <div class="bar"><div class="col" style="height:100%"></div><div class="bl">Jun</div></div>
+                                </div>
+                            </div>
+                            <div class="rep-card">
+                                <h4>Funil de vendas</h4>
+                                <div class="funnel">
+                                    <div class="frow"><span class="fname">Leads</span><span class="fbar" style="width:100%">1.284</span></div>
+                                    <div class="frow"><span class="fname">Qualificados</span><span class="fbar" style="width:74%">948</span></div>
+                                    <div class="frow"><span class="fname">Visita</span><span class="fbar" style="width:45%">578</span></div>
+                                    <div class="frow"><span class="fname">Proposta</span><span class="fbar" style="width:24%">312</span></div>
+                                    <div class="frow"><span class="fname">Fechado</span><span class="fbar" style="width:12%">151</span></div>
+                                </div>
+                            </div>
+                            <div class="rep-card">
+                                <h4>Meta do trimestre</h4>
+                                <div class="goal">
+                                    <div class="goal-track"><div class="goal-fill" style="width:73%"></div></div>
+                                    <div class="goal-meta"><span>R$ 1,46 mi realizados</span><span>Meta: R$ 2,0 mi</span></div>
+                                </div>
+                                <div class="goal" style="margin-top:16px">
+                                    <div class="goal-track"><div class="goal-fill" style="width:88%"></div></div>
+                                    <div class="goal-meta"><span>151 vendas</span><span>Meta: 172 vendas</span></div>
+                                </div>
+                            </div>
+                            <div class="rep-card">
+                                <h4>ROI por campanha</h4>
+                                <div class="donut-wrap">
+                                    <div class="donut" style="background:conic-gradient(#9bd11a 0 46%, #0b63d6 46% 73%, #d94f00 73% 90%, #e8e5dc 90% 100%)"></div>
+                                    <div class="legend">
+                                        <div><span class="sw" style="background:#9bd11a"></span>Meta Ads · ROI 6,1×</div>
+                                        <div><span class="sw" style="background:#0b63d6"></span>Google · ROI 4,3×</div>
+                                        <div><span class="sw" style="background:#d94f00"></span>Indicação · ROI 9,8×</div>
+                                        <div><span class="sw" style="background:#e8e5dc"></span>Outros</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -5179,6 +5422,22 @@ function essentialCookies() {
   document.addEventListener('keydown',function(e){if(e.key==='Escape')closeNavMenu();});
   document.addEventListener('click',function(e){var n=document.getElementById('nav');if(n&&!n.contains(e.target))closeNavMenu();});
   window.addEventListener('resize',function(){if(window.innerWidth>1024)closeNavMenu();});
+})();
+</script>
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.showcase-tab');
+  if(!tabs.length) return;
+  tabs.forEach(function(t){
+    t.addEventListener('click', function(){
+      var p = t.getAttribute('data-panel');
+      tabs.forEach(function(x){ x.classList.remove('active'); });
+      t.classList.add('active');
+      document.querySelectorAll('.showcase-panel').forEach(function(pn){
+        pn.classList.toggle('active', pn.getAttribute('data-panel')===p);
+      });
+    });
+  });
 })();
 </script>
 </body>
