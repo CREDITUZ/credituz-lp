@@ -4059,6 +4059,34 @@ footer {
   #navMenu li:last-child a{border-bottom:0;}
   #navMenu a.nav-cta{text-align:center;padding:14px 18px;margin-top:4px;color:var(--paper);border-radius:100px;font-size:15px;}
 }
+
+/* ============ PROOF BAR ============ */
+.proofbar { background: var(--ink); color: var(--paper); padding: 28px 24px; }
+.proofbar-inner { max-width: 1000px; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 28px; flex-wrap: wrap; }
+.pb-item { display: flex; flex-direction: column; align-items: center; text-align: center; }
+.pb-num { font-family: 'Fraunces', serif; font-size: clamp(22px, 3vw, 30px); font-weight: 600; line-height: 1; }
+.pb-lbl { font-size: 12.5px; color: rgba(250,250,247,.65); margin-top: 5px; }
+.pb-sep { width: 1px; height: 34px; background: rgba(250,250,247,.18); }
+.pb-logos { text-align: center; font-size: 12.5px; color: rgba(250,250,247,.55); margin: 18px auto 0; max-width: 720px; }
+@media (max-width: 680px){
+    .proofbar-inner { gap: 18px 22px; }
+    .pb-sep { display: none; }
+    .pb-item { flex: 0 0 40%; }
+}
+
+/* ============ ICP SALES BAND ============ */
+.icpband { padding: 64px 24px; background: var(--paper-warm); }
+.icpband-inner { max-width: 1000px; margin: 0 auto; display: flex; align-items: center; gap: 36px; justify-content: space-between; flex-wrap: wrap; }
+.icpband-text { flex: 1 1 480px; }
+.icpband-text h2 { font-family: 'Fraunces', serif; font-size: clamp(24px,3.2vw,34px); font-weight: 500; letter-spacing: -0.015em; margin: 8px 0 12px; }
+.icpband-text h2 em { font-style: italic; }
+.icpband-text p { color: var(--gray-2); max-width: 560px; }
+.icpband-actions { flex: 0 0 auto; display: flex; flex-direction: column; gap: 10px; align-items: flex-start; }
+.btn-demo { background: var(--ink); color: var(--paper); padding: 15px 28px; border-radius: 100px; font-size: 15px; font-weight: 700; text-decoration: none; transition: transform .15s; white-space: nowrap; }
+.btn-demo:hover { transform: translateY(-1px); }
+.icpband-note { font-size: 12.5px; color: var(--gray-3); }
+@media (max-width: 680px){ .icpband-actions { width: 100%; } .btn-demo { display: block; text-align: center; } }
+
 </style>
 </head>
 <body id="top">
@@ -4088,6 +4116,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li><a href="./pages/locacao-temporada.html">Locação e Temporada</a></li>
                 </ul>
             </li>
+            <li><a href="#para-empresas">Para empresas</a></li>
             <li><a href="#como-funciona">Como funciona</a></li>
             <li><a href="#metodologia">Metodologia</a></li>
             <li><a href="#roi">ROI</a></li>
@@ -4150,6 +4179,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </header>
 
+<!-- PROOF BAR -->
+<section class="proofbar">
+    <div class="proofbar-inner">
+        <div class="pb-item"><span class="pb-num">+167%</span><span class="pb-lbl">conversão média</span></div>
+        <div class="pb-sep"></div>
+        <div class="pb-item"><span class="pb-num">R$ 200M</span><span class="pb-lbl">em crédito solicitado</span></div>
+        <div class="pb-sep"></div>
+        <div class="pb-item"><span class="pb-num">&lt; 30s</span><span class="pb-lbl">simulação multibancos</span></div>
+        <div class="pb-sep"></div>
+        <div class="pb-item"><span class="pb-num">+21</span><span class="pb-lbl">incorporadoras e imobiliárias</span></div>
+    </div>
+    <p class="pb-logos">Grupo Valore · NJS Engenharia · Bilha Imóveis e outras operações que já vendem com a Credituz</p>
+</section>
+
 <!-- DOR -->
 <section class="dor">
     <div class="dor-inner">
@@ -4178,326 +4221,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p>CRM, crédito, assinatura digital, régua de cobrança, emissor de NFe, BI. Cinco contratos, cinco logins, cinco implantações. E a IA, quando tem, é parafusada por cima.</p>
             </div>
         </div>
-    </div>
-</section>
-
-<!-- FEATURES -->
-<section id="produto">
-    <div class="section-tag">A solução</div>
-    <h2>Cinco coisas que <em>nenhum ERP imobiliário</em> faz. Os agentes de IA da Credituz <span class="underline-wrap">fazem todas</span>.</h2>
-    <p class="solution-lead">A diferença está em como o trabalho acontece. Em vez de preencher sistema tela por tela, você só pede, digitando ou conversando em linguagem natural, e os agentes de IA executam toda a operação, do atendimento à cobrança. Acaba o preenchimento manual, o retrabalho e o tempo e o dinheiro perdidos. É a primeira <strong>plataforma agêntica</strong> do mercado imobiliário, a mais avançada que existe: o software trabalha para você, não o contrário.</p>
-
-    <div class="features-grid">
-        <div class="feature large">
-            <div class="feature-num">01 / Sofia · Agente SDR</div>
-            <h3>Um vendedor 24/7 que conversa como gente.</h3>
-            <p>A Sofia atende seu lead no WhatsApp em menos de 5 segundos. Qualifica, agenda visita, simula financiamento, manda contraproposta. Em português natural, com sua voz, sem o jeitão de chatbot.</p>
-            <div class="feature-demo">
-                <div class="row"><span>Aumento de conversão</span><span>+167%</span></div>
-                <div class="row"><span>Redução do tempo de fechamento</span><span>80%</span></div>
-                <div class="row best"><span>Satisfação dos clientes</span><span>98%</span></div>
-            </div>
-        </div>
-
-        <div class="feature">
-            <div class="feature-num">02 / Carlos · Agente de Crédito</div>
-            <h3>Simulação multibancos em menos de 30 segundos.</h3>
-            <p>Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe. O cliente sai com a melhor taxa, e você fecha o financiamento sem retrabalho.</p>
-            <div class="feature-demo">
-                <div class="row"><span>Caixa</span><span>9,99% a.a.</span></div>
-                <div class="row"><span>Itaú</span><span>10,49% a.a.</span></div>
-                <div class="row best"><span>→ Bradesco</span><span>9,80% a.a.</span></div>
-            </div>
-        </div>
-
-        <div class="feature">
-            <div class="feature-num">03 / Ana · Contratos com IA</div>
-            <h3>Contrato pronto em menos de 1 minuto.</h3>
-            <p>Geração de propostas, contratos digitais e assinatura eletrônica com validade jurídica. Sem time de implantação, sem treinamento.</p>
-            <div class="feature-demo">
-                <div class="row"><span>Tempo de geração</span><span>1 min</span></div>
-                <div class="row"><span>Treinamento necessário</span><span>0h</span></div>
-                <div class="row best"><span>Tempo até assinatura</span><span>15 min</span></div>
-            </div>
-        </div>
-
-        <div class="feature">
-            <div class="feature-num">04 / Max · Agente de Pós-venda</div>
-            <h3>Repasse, registro e obra sob controle.</h3>
-            <p>Acompanha o cliente do contrato assinado à entrega das chaves. Cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico. Tudo automatizado, com você no comando.</p>
-            <div class="feature-demo">
-                <div class="row"><span>Repasse bancário</span><span>auto</span></div>
-                <div class="row"><span>Cartório digital</span><span>incluído</span></div>
-                <div class="row best"><span>Medições de obra</span><span>tempo real</span></div>
-            </div>
-        </div>
-
-        <div class="feature">
-            <div class="feature-num">05 / Iris · Agente de Analytics</div>
-            <h3>Onde investir o próximo real de marketing.</h3>
-            <p>Analisa o que converte, por canal, por corretor, por empreendimento. Te diz onde dobrar a aposta e onde cortar gasto. Relatórios em linguagem natural, sem dashboard confuso.</p>
-            <div class="feature-demo">
-                <div class="row"><span>Custo por lead</span><span>por canal</span></div>
-                <div class="row"><span>ROI por campanha</span><span>tempo real</span></div>
-                <div class="row best"><span>Recomendações IA</span><span>semanal</span></div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- COBRANÇA -->
-<section class="collect" id="cobranca">
-    <div class="collect-inner">
-        <div class="collect-copy">
-            <div class="section-tag">Cobrança</div>
-            <h2>Cobrança que recupera, sem <span class="underline-wrap">desgastar o cliente</span>.</h2>
-            <p class="collect-sub">Régua de cobrança automatizada e humanizada: a mensagem certa, na hora certa, no canal que o cliente realmente usa. Mais recuperação, menos inadimplência, sem time de cobrança.</p>
-            <ul class="collect-points">
-                <li><strong>Multicanal de verdade.</strong> WhatsApp, SMS e e-mail. A régua escolhe o canal e o tom certos para cada etapa do atraso.</li>
-                <li><strong>Conta Credituz ou a sua.</strong> Receba pela Conta Credituz ou conecte qualquer banco via API. Pix, boleto e link de pagamento na própria mensagem.</li>
-                <li><strong>Humanizada, rápida e fácil.</strong> Lembretes no tom certo, sem constranger. Baixa automática assim que o cliente paga.</li>
-                <li><strong>Fiscal sem dor de cabeça.</strong> Cobrança conectada à emissão de nota fiscal e à conciliação automática. Sem bitributação, sem risco fiscal e sem perda financeira.</li>
-            </ul>
-            <div class="collect-channels">
-                <span class="chan">WhatsApp</span>
-                <span class="chan">SMS</span>
-                <span class="chan">E-mail</span>
-                <span class="chan">Pix · Boleto · Link</span>
-            </div>
-        </div>
-        <div class="collect-visual">
-            <div class="collect-card">
-                <div class="cc-head">
-                    <div class="cc-dot">M</div>
-                    <div>
-                        <div class="cc-name">Max · Cobrança</div>
-                        <div class="cc-role">régua automatizada</div>
-                    </div>
-                </div>
-                <div class="cc-msg">Oi, Marina! Passando para lembrar que sua parcela vence hoje. Posso te mandar o Pix para deixar tudo em dia?<span class="cc-pay">Pix · pagar agora</span></div>
-                <div class="cc-ruler">
-                    <div class="cc-step"><span class="cc-day">D+0</span><span class="cc-ch">WhatsApp</span><span class="cc-txt">Lembrete amigável de vencimento</span></div>
-                    <div class="cc-step"><span class="cc-day">D+3</span><span class="cc-ch">SMS</span><span class="cc-txt">Aviso de atraso e link Pix</span></div>
-                    <div class="cc-step"><span class="cc-day">D+7</span><span class="cc-ch">E-mail</span><span class="cc-txt">Regularização e boleto atualizado</span></div>
-                    <div class="cc-step done"><span class="cc-day">✓</span><span class="cc-ch">Pago</span><span class="cc-txt">Baixa, nota fiscal e conciliação no automático</span></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- LOCAÇÃO E TEMPORADA: página dedicada -->
-<section class="rentals-link">
-    <div class="rentals-link-inner">
-        <span>Também opera <strong>locação e temporada</strong>: atendimento com IA, contratos e cobrança recorrente de aluguel no mesmo sistema.</span>
-        <a href="./pages/locacao-temporada.html" data-track="cta_locacao_page">Conhecer a solução de locação →</a>
-    </div>
-</section>
-
-<!-- COMO FUNCIONA -->
-<section class="how" id="como-funciona">
-    <div class="how-inner">
-        <div class="section-tag">Como funciona</div>
-        <h2>Do <em>primeiro lead</em> ao financiamento aprovado.</h2>
-        <p class="how-sub">5 agentes de IA trabalhando juntos pela sua operação, 24 horas por dia. Cada um especializado em uma etapa do funil. Você só entra para fechar.</p>
-
-        <div class="how-grid">
-            <div class="how-step" data-track="how_step_1">
-                <div class="how-step-num">01</div>
-                <div class="how-step-agent">Sofia · SDR</div>
-                <h4>Atende e qualifica todos os leads, 24/7.</h4>
-                <p>Responde em 5 segundos no WhatsApp. Identifica perfil, interesse e urgência. Agenda visita só quando o lead está pronto.</p>
-            </div>
-
-            <div class="how-step" data-track="how_step_2">
-                <div class="how-step-num">02</div>
-                <div class="how-step-agent">Carlos · Crédito</div>
-                <h4>Simula crédito multibancos antes da visita.</h4>
-                <p>Renda, FGTS, score, comprometimento. Pré-aprovação em menos de 30 segundos. Cliente já chega à visita sabendo o que pode comprar.</p>
-            </div>
-
-            <div class="how-step" data-track="how_step_3">
-                <div class="how-step-num">03</div>
-                <div class="how-step-agent">Ana · Contratos</div>
-                <h4>Gera contrato e coleta assinatura digital.</h4>
-                <p>Proposta, contrato e assinatura eletrônica com validade jurídica. O que levava horas agora leva 15 minutos.</p>
-            </div>
-
-            <div class="how-step" data-track="how_step_4">
-                <div class="how-step-num">04</div>
-                <div class="how-step-agent">Max + Iris</div>
-                <h4>Acompanha pós-venda e mostra o que vender mais.</h4>
-                <p>Max cuida de repasse, registro e suporte. Iris analisa o que converte e te diz onde investir o próximo real de marketing.</p>
-            </div>
-        </div>
-
-        <div class="how-meta">
-            Todos os agentes <strong>conversam entre si</strong> e escalam para você quando faz sentido. Você comanda o time, eles fazem o trabalho.
-        </div>
-    </div>
-</section>
-
-<!-- COMPARATIVO -->
-<section class="compare" id="comparar">
-    <div class="compare-inner">
-        <div class="section-tag" style="color: var(--lime);">Por que nós</div>
-        <h2>O sistema do setor imobiliário, por <em>uma fração do preço</em>.</h2>
-        <p class="compare-sub">Sienge, Kenlo e CV CRM cobram caro por implantação de 60 dias, vendem cada módulo separado e a IA, quando existe, é parafusada por cima. A Credituz integra CRM, crédito, contratos, régua de cobrança, NFe e gestão em uma plataforma, com IA do primeiro lead à entrega das chaves. E diferente do agente gratuito da Meta, que responde com base no catálogo e para por aí, aqui a IA simula crédito em 10 bancos, gera contrato e cobra.</p>
-
-        <div class="compare-table">
-            <table>
-                <tr>
-                    <th></th>
-                    <th>Sienge</th>
-                    <th>Kenlo</th>
-                    <th>CV CRM</th>
-                    <th>Morada.ai</th>
-                    <th>Meta Business AI</th>
-                    <th class="credituz-col">Credituz</th>
-                </tr>
-                <tr>
-                    <td>Preço mensal</td>
-                    <td>R$ 1.500+</td>
-                    <td>R$ 247–1.197</td>
-                    <td>sob consulta</td>
-                    <td>enterprise</td>
-                    <td>grátis → pago</td>
-                    <td class="credituz-col">R$ 0–1.297</td>
-                </tr>
-                <tr>
-                    <td>Setup self-serve</td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="check">✓</span></td>
-                    <td class="credituz-col"><span class="check">✓</span></td>
-                </tr>
-                <tr>
-                    <td>SDR AI nativo</td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="partial">parcial</span></td>
-                    <td><span class="check">✓</span></td>
-                    <td><span class="partial">genérico</span></td>
-                    <td class="credituz-col"><span class="check">✓</span></td>
-                </tr>
-                <tr>
-                    <td>Simulação multi-banco</td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="partial">parcial</span></td>
-                    <td><span class="partial">parcial</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td class="credituz-col"><span class="check">✓</span></td>
-                </tr>
-                <tr>
-                    <td>Originação de crédito embarcada</td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="partial">novo</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td class="credituz-col"><span class="check">✓</span></td>
-                </tr>
-                <tr>
-                    <td>Gestão da operação imobiliária</td>
-                    <td><span class="partial">parcial</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td class="credituz-col"><span class="check">✓</span></td>
-                </tr>
-                <tr>
-                    <td>Implantação</td>
-                    <td>60+ dias</td>
-                    <td>30+ dias</td>
-                    <td>60+ dias</td>
-                    <td>30+ dias</td>
-                    <td>imediata</td>
-                    <td class="credituz-col">5 minutos</td>
-                </tr>
-                <tr>
-                    <td>Plano gratuito</td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="cross">✕</span></td>
-                    <td><span class="partial">por enquanto</span></td>
-                    <td class="credituz-col"><span class="check">✓</span></td>
-                </tr>
-            </table>
-        </div>
-    </div>
-</section>
-
-<!-- ROI CALCULATOR -->
-<section class="roi" id="roi">
-    <div class="roi-inner">
-        <div class="roi-head">
-            <div class="section-tag">Calculadora de ROI</div>
-            <h2>Quanto você perde com lead que esfria? <em>Calcule.</em></h2>
-            <p>Três números que você sabe de cabeça. Veja em segundos quanto a Sofia, atendendo 24×7 e simulando crédito na hora, pode somar ao seu faturamento.</p>
-
-            <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
-                <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
-                    <span class="roi-profile-icon">🏢</span>
-                    <span class="roi-profile-title">Imobiliária</span>
-                </button>
-                <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
-                    <span class="roi-profile-icon">🏗️</span>
-                    <span class="roi-profile-title">Incorporadora</span>
-                </button>
-                <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
-                    <span class="roi-profile-icon">👤</span>
-                    <span class="roi-profile-title">Corretor autônomo</span>
-                </button>
-            </div>
-        </div>
-
-        <div class="roi-simple">
-            <div class="roi-simple-inputs">
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiLeads">Leads por mês</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
-                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
-                </div>
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiTicket">Ticket médio do imóvel</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
-                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
-                </div>
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Comissão / margem</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
-                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
-                </div>
-            </div>
-
-            <div class="roi-simple-result">
-                <div class="roi-result-label">Faturamento extra estimado com a Sofia</div>
-                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
-                <div class="roi-result-per">por mês · <span id="roiResultYear">R$ 0</span> por ano</div>
-                <div class="roi-result-compare" id="roiResultCompare"></div>
-                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Testar grátis por 14 dias</a>
-            </div>
-        </div>
-
-        <details class="roi-assumptions">
-            <summary>Ver premissas do cálculo</summary>
-            <div class="roi-assumptions-body">
-                <p><strong>Metodologia:</strong> partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho é a diferença entre as duas conversões, aplicada ao seu volume de leads, ticket e margem.</p>
-                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
-                    <span class="roi-scenario-label">Conversão estimada com a Sofia:</span>
-                    <div class="roi-scenario-btns" id="roiScenario">
-                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>10%</em></button>
-                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>12%</em></button>
-                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>16%</em></button>
-                    </div>
-                </div>
-                <p class="roi-formula">Cálculo: leads × (conversão Sofia − 6%) × ticket × margem = ganho mensal.</p>
-            </div>
-        </details>
-
-        <p class="roi-disclaimer">Estimativa referencial. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Não constitui garantia contratual.</p>
     </div>
 </section>
 
@@ -4650,51 +4373,337 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
-<!-- METODOLOGIA -->
-<section class="method" id="metodologia">
-    <div class="method-inner">
-        <div class="method-head">
-            <div class="section-tag">Nossa metodologia</div>
-            <h2>Do diagnóstico ao <em>ROI medido</em>. Em 4 etapas.</h2>
-            <p>Reservada a contas Enterprise. Um time sênior conduz sua operação do mapeamento inicial até a otimização contínua, com KPIs acordados em contrato, marcos semanais e Customer Success nominal acompanhando cada ciclo de melhoria.</p>
+<!-- FEATURES -->
+<section id="produto">
+    <div class="section-tag">A solução</div>
+    <h2>Cinco coisas que <em>nenhum ERP imobiliário</em> faz. Os agentes de IA da Credituz <span class="underline-wrap">fazem todas</span>.</h2>
+    <p class="solution-lead">A diferença está em como o trabalho acontece. Em vez de preencher sistema tela por tela, você só pede, digitando ou conversando em linguagem natural, e os agentes de IA executam toda a operação, do atendimento à cobrança. Acaba o preenchimento manual, o retrabalho e o tempo e o dinheiro perdidos. É a primeira <strong>plataforma agêntica</strong> do mercado imobiliário, a mais avançada que existe: o software trabalha para você, não o contrário.</p>
+
+    <div class="features-grid">
+        <div class="feature large">
+            <div class="feature-num">01 / Sofia · Agente SDR</div>
+            <h3>Um vendedor 24/7 que conversa como gente.</h3>
+            <p>A Sofia atende seu lead no WhatsApp em menos de 5 segundos. Qualifica, agenda visita, simula financiamento, manda contraproposta. Em português natural, com sua voz, sem o jeitão de chatbot.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Aumento de conversão</span><span>+167%</span></div>
+                <div class="row"><span>Redução do tempo de fechamento</span><span>80%</span></div>
+                <div class="row best"><span>Satisfação dos clientes</span><span>98%</span></div>
+            </div>
         </div>
 
-        <div class="method-grid">
-            <div class="method-step">
-                <div class="method-num">01</div>
-                <h4>Cliente Oculto · Diagnóstico</h4>
-                <p>Atuamos como cliente oculto na sua operação por 7 dias: nos passamos por um comprador real nos canais definidos junto com você, conforme a realidade do seu negócio. Cronometramos o tempo de resposta, mapeamos o vazamento de leads e avaliamos a qualificação, a qualidade das simulações e os gargalos de conversão por canal e por corretor.</p>
-                <div class="method-meta">
-                    <span>Etapa 1 · Entrega: relatório de oportunidades quantificado em R$</span>
+        <div class="feature">
+            <div class="feature-num">02 / Carlos · Agente de Crédito</div>
+            <h3>Simulação multibancos em menos de 30 segundos.</h3>
+            <p>Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe. O cliente sai com a melhor taxa, e você fecha o financiamento sem retrabalho.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Caixa</span><span>9,99% a.a.</span></div>
+                <div class="row"><span>Itaú</span><span>10,49% a.a.</span></div>
+                <div class="row best"><span>→ Bradesco</span><span>9,80% a.a.</span></div>
+            </div>
+        </div>
+
+        <div class="feature">
+            <div class="feature-num">03 / Ana · Contratos com IA</div>
+            <h3>Contrato pronto em menos de 1 minuto.</h3>
+            <p>Geração de propostas, contratos digitais e assinatura eletrônica com validade jurídica. Sem time de implantação, sem treinamento.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Tempo de geração</span><span>1 min</span></div>
+                <div class="row"><span>Treinamento necessário</span><span>0h</span></div>
+                <div class="row best"><span>Tempo até assinatura</span><span>15 min</span></div>
+            </div>
+        </div>
+
+        <div class="feature">
+            <div class="feature-num">04 / Max · Agente de Pós-venda</div>
+            <h3>Repasse, registro e obra sob controle.</h3>
+            <p>Acompanha o cliente do contrato assinado à entrega das chaves. Cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico. Tudo automatizado, com você no comando.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Repasse bancário</span><span>auto</span></div>
+                <div class="row"><span>Cartório digital</span><span>incluído</span></div>
+                <div class="row best"><span>Medições de obra</span><span>tempo real</span></div>
+            </div>
+        </div>
+
+        <div class="feature">
+            <div class="feature-num">05 / Iris · Agente de Analytics</div>
+            <h3>Onde investir o próximo real de marketing.</h3>
+            <p>Analisa o que converte, por canal, por corretor, por empreendimento. Te diz onde dobrar a aposta e onde cortar gasto. Relatórios em linguagem natural, sem dashboard confuso.</p>
+            <div class="feature-demo">
+                <div class="row"><span>Custo por lead</span><span>por canal</span></div>
+                <div class="row"><span>ROI por campanha</span><span>tempo real</span></div>
+                <div class="row best"><span>Recomendações IA</span><span>semanal</span></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- COMO FUNCIONA -->
+<section class="how" id="como-funciona">
+    <div class="how-inner">
+        <div class="section-tag">Como funciona</div>
+        <h2>Do <em>primeiro lead</em> ao financiamento aprovado.</h2>
+        <p class="how-sub">5 agentes de IA trabalhando juntos pela sua operação, 24 horas por dia. Cada um especializado em uma etapa do funil. Você só entra para fechar.</p>
+
+        <div class="how-grid">
+            <div class="how-step" data-track="how_step_1">
+                <div class="how-step-num">01</div>
+                <div class="how-step-agent">Sofia · SDR</div>
+                <h4>Atende e qualifica todos os leads, 24/7.</h4>
+                <p>Responde em 5 segundos no WhatsApp. Identifica perfil, interesse e urgência. Agenda visita só quando o lead está pronto.</p>
+            </div>
+
+            <div class="how-step" data-track="how_step_2">
+                <div class="how-step-num">02</div>
+                <div class="how-step-agent">Carlos · Crédito</div>
+                <h4>Simula crédito multibancos antes da visita.</h4>
+                <p>Renda, FGTS, score, comprometimento. Pré-aprovação em menos de 30 segundos. Cliente já chega à visita sabendo o que pode comprar.</p>
+            </div>
+
+            <div class="how-step" data-track="how_step_3">
+                <div class="how-step-num">03</div>
+                <div class="how-step-agent">Ana · Contratos</div>
+                <h4>Gera contrato e coleta assinatura digital.</h4>
+                <p>Proposta, contrato e assinatura eletrônica com validade jurídica. O que levava horas agora leva 15 minutos.</p>
+            </div>
+
+            <div class="how-step" data-track="how_step_4">
+                <div class="how-step-num">04</div>
+                <div class="how-step-agent">Max + Iris</div>
+                <h4>Acompanha pós-venda e mostra o que vender mais.</h4>
+                <p>Max cuida de repasse, registro e suporte. Iris analisa o que converte e te diz onde investir o próximo real de marketing.</p>
+            </div>
+        </div>
+
+        <div class="how-meta">
+            Todos os agentes <strong>conversam entre si</strong> e escalam para você quando faz sentido. Você comanda o time, eles fazem o trabalho.
+        </div>
+    </div>
+</section>
+
+<!-- COBRANÇA -->
+<section class="collect" id="cobranca">
+    <div class="collect-inner">
+        <div class="collect-copy">
+            <div class="section-tag">Cobrança</div>
+            <h2>Cobrança que recupera, sem <span class="underline-wrap">desgastar o cliente</span>.</h2>
+            <p class="collect-sub">Régua de cobrança automatizada e humanizada: a mensagem certa, na hora certa, no canal que o cliente realmente usa. Mais recuperação, menos inadimplência, sem time de cobrança.</p>
+            <ul class="collect-points">
+                <li><strong>Multicanal de verdade.</strong> WhatsApp, SMS e e-mail. A régua escolhe o canal e o tom certos para cada etapa do atraso.</li>
+                <li><strong>Conta Credituz ou a sua.</strong> Receba pela Conta Credituz ou conecte qualquer banco via API. Pix, boleto e link de pagamento na própria mensagem.</li>
+                <li><strong>Humanizada, rápida e fácil.</strong> Lembretes no tom certo, sem constranger. Baixa automática assim que o cliente paga.</li>
+                <li><strong>Fiscal sem dor de cabeça.</strong> Cobrança conectada à emissão de nota fiscal e à conciliação automática. Sem bitributação, sem risco fiscal e sem perda financeira.</li>
+            </ul>
+            <div class="collect-channels">
+                <span class="chan">WhatsApp</span>
+                <span class="chan">SMS</span>
+                <span class="chan">E-mail</span>
+                <span class="chan">Pix · Boleto · Link</span>
+            </div>
+        </div>
+        <div class="collect-visual">
+            <div class="collect-card">
+                <div class="cc-head">
+                    <div class="cc-dot">M</div>
+                    <div>
+                        <div class="cc-name">Max · Cobrança</div>
+                        <div class="cc-role">régua automatizada</div>
+                    </div>
+                </div>
+                <div class="cc-msg">Oi, Marina! Passando para lembrar que sua parcela vence hoje. Posso te mandar o Pix para deixar tudo em dia?<span class="cc-pay">Pix · pagar agora</span></div>
+                <div class="cc-ruler">
+                    <div class="cc-step"><span class="cc-day">D+0</span><span class="cc-ch">WhatsApp</span><span class="cc-txt">Lembrete amigável de vencimento</span></div>
+                    <div class="cc-step"><span class="cc-day">D+3</span><span class="cc-ch">SMS</span><span class="cc-txt">Aviso de atraso e link Pix</span></div>
+                    <div class="cc-step"><span class="cc-day">D+7</span><span class="cc-ch">E-mail</span><span class="cc-txt">Regularização e boleto atualizado</span></div>
+                    <div class="cc-step done"><span class="cc-day">✓</span><span class="cc-ch">Pago</span><span class="cc-txt">Baixa, nota fiscal e conciliação no automático</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- LOCAÇÃO E TEMPORADA: página dedicada -->
+<section class="rentals-link">
+    <div class="rentals-link-inner">
+        <span>Também opera <strong>locação e temporada</strong>: atendimento com IA, contratos e cobrança recorrente de aluguel no mesmo sistema.</span>
+        <a href="./pages/locacao-temporada.html" data-track="cta_locacao_page">Conhecer a solução de locação →</a>
+    </div>
+</section>
+
+<!-- ICP SALES BAND -->
+<section class="icpband" id="para-empresas">
+    <div class="icpband-inner">
+        <div class="icpband-text">
+            <div class="section-tag">Para incorporadoras e imobiliárias</div>
+            <h2>Tem equipe comercial e carteira? <em>Comece com um diagnóstico.</em></h2>
+            <p>Para operações com time de vendas, fazemos um diagnóstico de Cliente Oculto na sua operação em 7 dias e mostramos, em reais, quanto você perde hoje com leads frios e crédito travado. Depois ativamos a plataforma com KPIs acordados em contrato.</p>
+        </div>
+        <div class="icpband-actions">
+            <a href="https://wa.me/5511936201544?text=Quero%20agendar%20uma%20demonstra%C3%A7%C3%A3o%20da%20Credituz%20para%20minha%20empresa" class="btn-demo" target="_blank" rel="noopener" data-track="cta_demo_empresa">Agendar demonstração</a>
+            <span class="icpband-note">Diagnóstico gratuito · sem compromisso</span>
+        </div>
+    </div>
+</section>
+
+<!-- ROI CALCULATOR -->
+<section class="roi" id="roi">
+    <div class="roi-inner">
+        <div class="roi-head">
+            <div class="section-tag">Calculadora de ROI</div>
+            <h2>Quanto você perde com lead que esfria? <em>Calcule.</em></h2>
+            <p>Três números que você sabe de cabeça. Veja em segundos quanto a Sofia, atendendo 24×7 e simulando crédito na hora, pode somar ao seu faturamento.</p>
+
+            <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
+                <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
+                    <span class="roi-profile-icon">🏢</span>
+                    <span class="roi-profile-title">Imobiliária</span>
+                </button>
+                <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
+                    <span class="roi-profile-icon">🏗️</span>
+                    <span class="roi-profile-title">Incorporadora</span>
+                </button>
+                <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
+                    <span class="roi-profile-icon">👤</span>
+                    <span class="roi-profile-title">Corretor autônomo</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="roi-simple">
+            <div class="roi-simple-inputs">
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiLeads">Leads por mês</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
+                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiTicket">Ticket médio do imóvel</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
+                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Comissão / margem</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
+                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
                 </div>
             </div>
 
-            <div class="method-step">
-                <div class="method-num">02</div>
-                <h4>Setup do pipeline</h4>
-                <p>Importamos sua base de leads e carteira, configuramos CRM, simulação multibancos, contratos digitais, NFe, conta digital Asaas e templates com o tom de voz da sua marca. Conectamos a Sienge, CV CRM, Kenlo ou seu ERP atual via API com sync bidirecional. Onboarding presencial para o time comercial e financeiro.</p>
-                <div class="method-meta">
-                    <span>Etapa 2 · Entrega: plataforma ativa e equipe treinada</span>
-                </div>
+            <div class="roi-simple-result">
+                <div class="roi-result-label">Faturamento extra estimado com a Sofia</div>
+                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
+                <div class="roi-result-per">por mês · <span id="roiResultYear">R$ 0</span> por ano</div>
+                <div class="roi-result-compare" id="roiResultCompare"></div>
+                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Testar grátis por 14 dias</a>
             </div>
+        </div>
 
-            <div class="method-step">
-                <div class="method-num">03</div>
-                <h4>IA no ar</h4>
-                <p>Sofia (SDR AI) entra em operação no WhatsApp, Instagram, Facebook e Web chat com cobertura 24×7. Régua de cobrança automatizada por carteira (mensais, financiamento próprio, repasse) começa a rodar. Os primeiros 30 dias têm supervisão humana ativa, ajuste fino de prompts e revisão de cada conversa pelo CS para garantir tom e taxa de qualificação.</p>
-                <div class="method-meta">
-                    <span>Etapa 3 · Entrega: SDR AI + régua de cobrança em produção</span>
+        <details class="roi-assumptions">
+            <summary>Ver premissas do cálculo</summary>
+            <div class="roi-assumptions-body">
+                <p><strong>Metodologia:</strong> partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho é a diferença entre as duas conversões, aplicada ao seu volume de leads, ticket e margem.</p>
+                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
+                    <span class="roi-scenario-label">Conversão estimada com a Sofia:</span>
+                    <div class="roi-scenario-btns" id="roiScenario">
+                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>10%</em></button>
+                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>12%</em></button>
+                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>16%</em></button>
+                    </div>
                 </div>
+                <p class="roi-formula">Cálculo: leads × (conversão Sofia − 6%) × ticket × margem = ganho mensal.</p>
             </div>
+        </details>
 
-            <div class="method-step">
-                <div class="method-num">04</div>
-                <h4>Otimização contínua</h4>
-                <p>Customer Success nominal acompanha métricas semanais e relatório executivo mensal: conversão por banco, recuperação por canal, ticket médio, tempo até fechamento e payback. Iteramos prompts, templates, cascata de cobrança e mix de canais a cada ciclo. KPIs revisados em QBR (Quarterly Business Review) com sua diretoria.</p>
-                <div class="method-meta">
-                    <span>Etapa 4 · Entrega: KPIs medidos, ROI provado, melhorias contínuas</span>
-                </div>
-            </div>
+        <p class="roi-disclaimer">Estimativa referencial. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Não constitui garantia contratual.</p>
+    </div>
+</section>
+
+<!-- COMPARATIVO -->
+<section class="compare" id="comparar">
+    <div class="compare-inner">
+        <div class="section-tag" style="color: var(--lime);">Por que nós</div>
+        <h2>O sistema do setor imobiliário, por <em>uma fração do preço</em>.</h2>
+        <p class="compare-sub">Sienge, Kenlo e CV CRM cobram caro por implantação de 60 dias, vendem cada módulo separado e a IA, quando existe, é parafusada por cima. A Credituz integra CRM, crédito, contratos, régua de cobrança, NFe e gestão em uma plataforma, com IA do primeiro lead à entrega das chaves. E diferente do agente gratuito da Meta, que responde com base no catálogo e para por aí, aqui a IA simula crédito em 10 bancos, gera contrato e cobra.</p>
+
+        <div class="compare-table">
+            <table>
+                <tr>
+                    <th></th>
+                    <th>Sienge</th>
+                    <th>Kenlo</th>
+                    <th>CV CRM</th>
+                    <th>Morada.ai</th>
+                    <th>Meta Business AI</th>
+                    <th class="credituz-col">Credituz</th>
+                </tr>
+                <tr>
+                    <td>Preço mensal</td>
+                    <td>R$ 1.500+</td>
+                    <td>R$ 247–1.197</td>
+                    <td>sob consulta</td>
+                    <td>enterprise</td>
+                    <td>grátis → pago</td>
+                    <td class="credituz-col">R$ 0–1.297</td>
+                </tr>
+                <tr>
+                    <td>Setup self-serve</td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="check">✓</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+                <tr>
+                    <td>SDR AI nativo</td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="partial">parcial</span></td>
+                    <td><span class="check">✓</span></td>
+                    <td><span class="partial">genérico</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+                <tr>
+                    <td>Simulação multi-banco</td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="partial">parcial</span></td>
+                    <td><span class="partial">parcial</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+                <tr>
+                    <td>Originação de crédito embarcada</td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="partial">novo</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+                <tr>
+                    <td>Gestão da operação imobiliária</td>
+                    <td><span class="partial">parcial</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+                <tr>
+                    <td>Implantação</td>
+                    <td>60+ dias</td>
+                    <td>30+ dias</td>
+                    <td>60+ dias</td>
+                    <td>30+ dias</td>
+                    <td>imediata</td>
+                    <td class="credituz-col">5 minutos</td>
+                </tr>
+                <tr>
+                    <td>Plano gratuito</td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="cross">✕</span></td>
+                    <td><span class="partial">por enquanto</span></td>
+                    <td class="credituz-col"><span class="check">✓</span></td>
+                </tr>
+            </table>
         </div>
     </div>
 </section>
@@ -4791,6 +4800,68 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         Sync em tempo real
                     </h6>
                     <p>Webhooks bidirecionais. Lead criado no Credituz aparece no Sienge em segundos, e vice-versa.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SOCIAL PROOF -->
+<section class="social-proof">
+    <div class="social-proof-inner">
+        <div class="section-tag">Resultado de quem usa</div>
+        <h2>Os números falam por si.</h2>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-num"><em>+167%</em></div>
+                <div class="stat-label">Aumento médio de conversão</div>
+            </div>
+            <div class="stat">
+                <div class="stat-num"><em>R$ 200M</em></div>
+                <div class="stat-label">Crédito solicitado</div>
+            </div>
+            <div class="stat">
+                <div class="stat-num"><em>&lt; 30s</em></div>
+                <div class="stat-label">Simulação de crédito completa</div>
+            </div>
+        </div>
+
+        <div class="testimonials">
+            <div class="testimonial">
+                <p class="testimonial-text">
+                    "Antes, cada lead dependia de um humano para qualificar, simular crédito e dar retorno. Hoje, a IA faz isso <strong>24 horas por dia, 7 dias por semana</strong>. Nossa equipe só entra quando o cliente já está aprovado."
+                </p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">RF</div>
+                    <div class="author-info">
+                        <div class="author-name">Rodrigo Fonseca</div>
+                        <div class="author-role">Diretor Comercial · Grupo Valore Incorporações</div>
+                    </div>
+                </div>
+            </div>
+            <div class="testimonial">
+                <p class="testimonial-text">
+                    "Saímos de uma situação de baixo controle para o <strong>controle total da nossa carteira</strong>. Hoje sabemos exatamente o status de cada unidade, cada contrato e cada repasse."
+                </p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">AS</div>
+                    <div class="author-info">
+                        <div class="author-name">Adson Soares</div>
+                        <div class="author-role">Gestor de Incorporação · NJS Engenharia</div>
+                    </div>
+                </div>
+            </div>
+            <div class="testimonial">
+                <p class="testimonial-text">
+                    "A economia e a agilidade na elaboração dos contratos foram primordiais. O que levava horas <strong>agora leva 15 minutos</strong>, com menos erros e mais rastreabilidade."
+                </p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">HB</div>
+                    <div class="author-info">
+                        <div class="author-name">Heitor Bilha</div>
+                        <div class="author-role">Sócio Fundador · Bilha Imóveis</div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -4973,68 +5044,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
-<!-- SOCIAL PROOF -->
-<section class="social-proof">
-    <div class="social-proof-inner">
-        <div class="section-tag">Resultado de quem usa</div>
-        <h2>Os números falam por si.</h2>
-
-        <div class="stats">
-            <div class="stat">
-                <div class="stat-num"><em>+167%</em></div>
-                <div class="stat-label">Aumento médio de conversão</div>
-            </div>
-            <div class="stat">
-                <div class="stat-num"><em>R$ 200M</em></div>
-                <div class="stat-label">Crédito solicitado</div>
-            </div>
-            <div class="stat">
-                <div class="stat-num"><em>&lt; 30s</em></div>
-                <div class="stat-label">Simulação de crédito completa</div>
-            </div>
-        </div>
-
-        <div class="testimonials">
-            <div class="testimonial">
-                <p class="testimonial-text">
-                    "Antes, cada lead dependia de um humano para qualificar, simular crédito e dar retorno. Hoje, a IA faz isso <strong>24 horas por dia, 7 dias por semana</strong>. Nossa equipe só entra quando o cliente já está aprovado."
-                </p>
-                <div class="testimonial-author">
-                    <div class="author-avatar">RF</div>
-                    <div class="author-info">
-                        <div class="author-name">Rodrigo Fonseca</div>
-                        <div class="author-role">Diretor Comercial · Grupo Valore Incorporações</div>
-                    </div>
-                </div>
-            </div>
-            <div class="testimonial">
-                <p class="testimonial-text">
-                    "Saímos de uma situação de baixo controle para o <strong>controle total da nossa carteira</strong>. Hoje sabemos exatamente o status de cada unidade, cada contrato e cada repasse."
-                </p>
-                <div class="testimonial-author">
-                    <div class="author-avatar">AS</div>
-                    <div class="author-info">
-                        <div class="author-name">Adson Soares</div>
-                        <div class="author-role">Gestor de Incorporação · NJS Engenharia</div>
-                    </div>
-                </div>
-            </div>
-            <div class="testimonial">
-                <p class="testimonial-text">
-                    "A economia e a agilidade na elaboração dos contratos foram primordiais. O que levava horas <strong>agora leva 15 minutos</strong>, com menos erros e mais rastreabilidade."
-                </p>
-                <div class="testimonial-author">
-                    <div class="author-avatar">HB</div>
-                    <div class="author-info">
-                        <div class="author-name">Heitor Bilha</div>
-                        <div class="author-role">Sócio Fundador · Bilha Imóveis</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- FAQ -->
 <section id="faq">
     <div class="section-tag">Perguntas frequentes</div>
@@ -5161,6 +5170,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 </section>
+        </div>
+    </div>
+</section>
+
+<!-- METODOLOGIA -->
+<section class="method" id="metodologia">
+    <div class="method-inner">
+        <div class="method-head">
+            <div class="section-tag">Nossa metodologia</div>
+            <h2>Do diagnóstico ao <em>ROI medido</em>. Em 4 etapas.</h2>
+            <p>Reservada a contas Enterprise. Um time sênior conduz sua operação do mapeamento inicial até a otimização contínua, com KPIs acordados em contrato, marcos semanais e Customer Success nominal acompanhando cada ciclo de melhoria.</p>
+        </div>
+
+        <div class="method-grid">
+            <div class="method-step">
+                <div class="method-num">01</div>
+                <h4>Cliente Oculto · Diagnóstico</h4>
+                <p>Atuamos como cliente oculto na sua operação por 7 dias: nos passamos por um comprador real nos canais definidos junto com você, conforme a realidade do seu negócio. Cronometramos o tempo de resposta, mapeamos o vazamento de leads e avaliamos a qualificação, a qualidade das simulações e os gargalos de conversão por canal e por corretor.</p>
+                <div class="method-meta">
+                    <span>Etapa 1 · Entrega: relatório de oportunidades quantificado em R$</span>
+                </div>
+            </div>
+
+            <div class="method-step">
+                <div class="method-num">02</div>
+                <h4>Setup do pipeline</h4>
+                <p>Importamos sua base de leads e carteira, configuramos CRM, simulação multibancos, contratos digitais, NFe, conta digital Asaas e templates com o tom de voz da sua marca. Conectamos a Sienge, CV CRM, Kenlo ou seu ERP atual via API com sync bidirecional. Onboarding presencial para o time comercial e financeiro.</p>
+                <div class="method-meta">
+                    <span>Etapa 2 · Entrega: plataforma ativa e equipe treinada</span>
+                </div>
+            </div>
+
+            <div class="method-step">
+                <div class="method-num">03</div>
+                <h4>IA no ar</h4>
+                <p>Sofia (SDR AI) entra em operação no WhatsApp, Instagram, Facebook e Web chat com cobertura 24×7. Régua de cobrança automatizada por carteira (mensais, financiamento próprio, repasse) começa a rodar. Os primeiros 30 dias têm supervisão humana ativa, ajuste fino de prompts e revisão de cada conversa pelo CS para garantir tom e taxa de qualificação.</p>
+                <div class="method-meta">
+                    <span>Etapa 3 · Entrega: SDR AI + régua de cobrança em produção</span>
+                </div>
+            </div>
+
+            <div class="method-step">
+                <div class="method-num">04</div>
+                <h4>Otimização contínua</h4>
+                <p>Customer Success nominal acompanha métricas semanais e relatório executivo mensal: conversão por banco, recuperação por canal, ticket médio, tempo até fechamento e payback. Iteramos prompts, templates, cascata de cobrança e mix de canais a cada ciclo. KPIs revisados em QBR (Quarterly Business Review) com sua diretoria.</p>
+                <div class="method-meta">
+                    <span>Etapa 4 · Entrega: KPIs medidos, ROI provado, melhorias contínuas</span>
+                </div>
+            </div>
         </div>
     </div>
 </section>
