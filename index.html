@@ -3405,7 +3405,6 @@ footer {
 
 @media (max-width: 768px) {
     nav { padding: 16px 20px; }
-    nav ul li:not(:last-child) { display: none; }
     .nav-cta { padding: 10px 16px; font-size: 13px; }
     .hero { padding: 100px 20px 60px; gap: 40px; }
     h1.hero-title { font-size: clamp(36px, 9vw, 56px); }
@@ -4114,18 +4113,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
         <button type="button" class="nav-toggle" id="navToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="navMenu" onclick="toggleNavMenu()"><span></span><span></span><span></span></button>
         <ul id="navMenu">
+            <li><a href="#top">Home</a></li>
+            <li><a href="#produto-por-dentro">Produto</a></li>
+            <li><a href="#roi">Calculadora de ganhos</a></li>
+            <li><a href="#pricing">Preços</a></li>
             <li class="nav-has-sub">
-                <a href="#produto" class="nav-sub-trigger">Produto <span class="nav-caret">▾</span></a>
+                <a href="./pages/incorporadoras.html" class="nav-sub-trigger">Áreas atendidas <span class="nav-caret">▾</span></a>
                 <ul class="nav-submenu">
-                    <li><a href="#produto">Plataforma · venda e crédito</a></li>
-                    <li><a href="#produto-por-dentro">Telas do produto</a></li>
-                    <li><a href="#como-funciona">Como funciona</a></li>
-                    <li><a href="#roi">Calculadora de ROI</a></li>
-                    <li><a href="#comparar">Comparar</a></li>
+                    <li><a href="./pages/incorporadoras.html">Incorporadoras</a></li>
+                    <li><a href="./pages/imobiliarias.html">Imobiliárias</a></li>
                     <li><a href="./pages/locacao-temporada.html">Locação e Temporada</a></li>
                 </ul>
             </li>
-            <li><a href="#pricing">Preços</a></li>
             <li class="nav-lang"><a href="https://credituz.ai/en/" data-track="lang_en" aria-label="View in English">🇺🇸 EN</a></li>
             <li><a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="nav-cta" target="_blank" rel="noopener" data-track="cta_nav">Começar grátis</a></li>
         </ul>
