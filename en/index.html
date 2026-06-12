@@ -2956,16 +2956,36 @@ h2 em {
 }
 
 @media (max-width: 768px) {
-    .trust-row.backers { gap: 20px 28px; }
-    .trust-program { gap: 6px; }
-    .trust-program .trust-logo { height: 22px; max-width: 78px; }
+    .trust-row.backers {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 22px 12px;
+        justify-items: center;
+        align-items: center;
+        max-width: 420px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .trust-program {
+        flex-direction: column;
+        gap: 4px;
+        white-space: normal;
+        text-align: center;
+        justify-content: center;
+    }
+    .trust-program .trust-logo { height: 24px; max-width: 96px; }
     .trust-program-txt { font-size: 13px; }
+    .trust-row.backers > img.trust-logo {
+        grid-column: 1 / -1;
+        height: 26px;
+        justify-self: center;
+    }
 }
 
 @media (max-width: 440px) {
-    .trust-row.backers { gap: 16px 18px; }
+    .trust-row.backers { gap: 18px 10px; max-width: 340px; }
+    .trust-program .trust-logo { height: 21px; max-width: 84px; }
     .trust-program-txt { font-size: 12px; }
-    .trust-program .trust-logo { height: 20px; max-width: 64px; }
 }
 
 /* Chip estilizado (fallback quando logo não carrega) */
