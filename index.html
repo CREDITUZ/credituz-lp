@@ -2896,8 +2896,8 @@ h2 em {
 .trust-track {
     display: inline-flex;
     align-items: center;
-    gap: 72px;
-    padding-right: 72px;
+    gap: 80px;
+    padding-right: 80px;
     animation: trust-scroll 38s linear infinite;
     flex-shrink: 0;
     will-change: transform;
@@ -2913,9 +2913,10 @@ h2 em {
 }
 
 .trust-track .trust-logo {
-    height: 44px;
+    height: 38px;
     width: auto;
-    max-width: 180px;
+    max-width: none;
+    object-fit: contain;
     opacity: 0.78;
     transition: opacity 0.25s;
     flex-shrink: 0;
@@ -2925,8 +2926,8 @@ h2 em {
 .trust-track .trust-logo:hover { opacity: 1; }
 
 @media (max-width: 720px) {
-    .trust-track { gap: 48px; padding-right: 48px; animation-duration: 28s; }
-    .trust-track .trust-logo { height: 36px; max-width: 140px; }
+    .trust-track { gap: 52px; padding-right: 52px; animation-duration: 28s; }
+    .trust-track .trust-logo { height: 30px; max-width: none; }
 }
 
 .trust-item {
@@ -4122,7 +4123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="#roi">Calculadora de ganhos</a></li>
             <li><a href="#pricing">Preços</a></li>
             <li class="nav-has-sub">
-                <a href="./pages/incorporadoras.html" class="nav-sub-trigger">Áreas atendidas <span class="nav-caret">▾</span></a>
+                <a href="./pages/incorporadoras.html" class="nav-sub-trigger">Segmentos <span class="nav-caret">▾</span></a>
                 <ul class="nav-submenu">
                     <li><a href="./pages/incorporadoras.html">Incorporadoras</a></li>
                     <li><a href="./pages/imobiliarias.html">Imobiliárias</a></li>
