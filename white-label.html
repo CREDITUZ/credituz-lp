@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>White Label · Revenda a plataforma imobiliária com IA da Credituz</title>
+<meta name="description" content="Venda uma plataforma completa de CRM, SDR com IA no WhatsApp, simulação de crédito multibancos e contratos digitais com a sua marca, seu domínio e sua precificação. Receita recorrente com licenciamento fixo da Credituz.">
+<link rel="canonical" href="https://www.credituz.ai/white-label.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="White Label · Revenda a plataforma imobiliária com IA da Credituz">
+<meta property="og:description" content="Sua marca, seu domínio, sua precificação. Plataforma imobiliária com IA pronta para revenda, com licenciamento mensal fixo.">
+<meta property="og:url" content="https://www.credituz.ai/white-label.html">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=JetBrains+Mono:wght@400;500;600&family=Geist:wght@300;400;500;600;700;800&family=Raleway:wght@700;800&display=swap" rel="stylesheet">
+
+<style>
+:root {
+    --ink: #0a0a0a;
+    --paper: #fafaf7;
+    --paper-warm: #f5f2ea;
+    --cream: #ebe6d6;
+    --lime: #c4f352;
+    --lime-deep: #9bd11a;
+    --rust: #d94f00;
+    --gray-1: #1a1a1a;
+    --gray-2: #4a4a4a;
+    --gray-3: #8a8a8a;
+    --gray-soft: #e8e5dc;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+    font-family: 'Geist', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+a { color: inherit; text-decoration: none; }
+em { font-style: italic; color: var(--rust); }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+.eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px; font-weight: 500; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--rust);
+    display: inline-flex; align-items: center; gap: 10px;
+}
+.eyebrow::before { content: ""; width: 26px; height: 1px; background: var(--rust); display: inline-block; }
+h1, h2, h3 { font-family: 'Fraunces', serif; font-weight: 500; letter-spacing: -0.02em; line-height: 1.08; }
+.section-h2 { font-size: clamp(28px, 4vw, 44px); margin: 16px 0 14px; }
+.section-lead { font-size: 18px; color: var(--gray-2); max-width: 620px; }
+
+/* NAV */
+nav {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(250,250,247,.82); backdrop-filter: blur(14px);
+    border-bottom: 1px solid transparent; transition: border-color .2s, box-shadow .2s;
+}
+nav.scrolled { border-bottom: 1px solid var(--gray-soft); box-shadow: 0 6px 24px rgba(10,10,10,.04); }
+.nav-inner { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; max-width: 1180px; margin: 0 auto; }
+.logo { font-family: 'Raleway', sans-serif; font-weight: 700; font-size: 21px; letter-spacing: -0.01em; display: flex; align-items: center; }
+.logo-dot { width: 7px; height: 7px; background: var(--rust); border-radius: 50%; margin-left: 3px; margin-top: 8px; }
+.nav-links { display: flex; align-items: center; gap: 28px; }
+.nav-links a.simple { font-size: 14.5px; font-weight: 500; color: var(--gray-2); transition: color .15s; }
+.nav-links a.simple:hover { color: var(--ink); }
+.nav-cta { background: var(--ink); color: var(--paper); padding: 11px 20px; border-radius: 100px; font-size: 14.5px; font-weight: 600; transition: transform .15s, background .15s; }
+.nav-cta:hover { transform: translateY(-1px); background: var(--rust); }
+.nav-toggle { display: none; width: 44px; height: 44px; flex-direction: column; justify-content: center; gap: 5px; background: transparent; border: 0; cursor: pointer; }
+.nav-toggle span { display: block; width: 22px; height: 2px; background: var(--ink); border-radius: 2px; }
+
+/* HERO */
+.hero { padding: 80px 0 64px; position: relative; }
+.hero-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 56px; align-items: center; }
+.hero h1 { font-size: clamp(40px, 6vw, 68px); font-weight: 400; margin: 22px 0 22px; }
+.hero h1 .ital { font-style: italic; }
+.hero h1 .rust { color: var(--rust); font-style: italic; }
+.hero-sub { font-size: 19px; color: var(--gray-2); max-width: 540px; margin-bottom: 30px; }
+.hero-sub strong { color: var(--ink); font-weight: 600; }
+.hero-ctas { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+.btn-primary { background: var(--ink); color: var(--paper); padding: 16px 30px; border-radius: 100px; font-size: 16px; font-weight: 600; transition: transform .15s, background .15s; }
+.btn-primary:hover { transform: translateY(-2px); background: var(--rust); }
+.btn-ghost { font-size: 16px; font-weight: 600; color: var(--ink); display: inline-flex; align-items: center; gap: 7px; }
+.btn-ghost .arr { transition: transform .15s; }
+.btn-ghost:hover .arr { transform: translateX(4px); }
+
+.hero-card {
+    background: var(--ink); color: var(--paper); border-radius: 24px; padding: 30px;
+    box-shadow: 0 30px 60px rgba(10,10,10,.18); position: relative;
+}
+.hero-card .browser-bar { display: flex; gap: 6px; margin-bottom: 18px; }
+.hero-card .browser-bar span { width: 11px; height: 11px; border-radius: 50%; background: rgba(255,255,255,.22); }
+.hero-card .yourbrand { font-family: 'Raleway', sans-serif; font-weight: 700; font-size: 17px; opacity: .55; }
+.hero-card .yourbrand .blink { color: var(--lime); }
+.hero-card .stack { margin-top: 18px; display: flex; flex-direction: column; gap: 10px; }
+.hero-card .row { display: flex; align-items: center; gap: 12px; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; }
+.hero-card .row .ic { width: 30px; height: 30px; border-radius: 8px; background: var(--rust); display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 15px; }
+.hero-card .row .ic.lime { background: var(--lime); }
+.hero-card .row .muted { color: rgba(255,255,255,.5); margin-left: auto; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+.hero-card .tag { position: absolute; top: -14px; right: 22px; background: var(--lime); color: var(--ink); font-size: 12px; font-weight: 700; padding: 6px 14px; border-radius: 100px; box-shadow: 0 8px 18px rgba(0,0,0,.12); }
+
+/* STATS BAR */
+.statsbar { background: var(--ink); color: var(--paper); }
+.statsbar-inner { display: grid; grid-template-columns: repeat(4, 1fr); }
+.stat { padding: 34px 24px; text-align: center; border-right: 1px solid rgba(255,255,255,.08); }
+.stat:last-child { border-right: 0; }
+.stat .n { font-family: 'Fraunces', serif; font-size: clamp(30px, 4vw, 44px); font-weight: 600; line-height: 1; color: var(--lime); }
+.stat .l { font-size: 13px; color: rgba(255,255,255,.6); margin-top: 8px; line-height: 1.35; }
+
+/* SIMULATOR */
+.sim { padding: 84px 0; background: var(--paper-warm); }
+.sim-head { text-align: center; max-width: 640px; margin: 0 auto 44px; }
+.sim-head .section-lead { margin: 0 auto; }
+.sim-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; align-items: stretch; }
+.sim-panel { background: var(--paper); border: 1px solid var(--gray-soft); border-radius: 22px; padding: 30px; }
+.sim-panel h3 { font-size: 22px; margin-bottom: 4px; }
+.sim-panel .sub { font-size: 14px; color: var(--gray-3); margin-bottom: 24px; }
+.sim-field { margin-bottom: 22px; }
+.sim-field .top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 9px; }
+.sim-field label { font-size: 14px; font-weight: 500; color: var(--gray-2); }
+.sim-field .val { font-family: 'Fraunces', serif; font-size: 19px; font-weight: 600; color: var(--ink); }
+input[type=range] { -webkit-appearance: none; appearance: none; width: 100%; height: 5px; border-radius: 5px; background: var(--cream); outline: none; }
+input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 22px; height: 22px; border-radius: 50%; background: var(--ink); cursor: pointer; border: 3px solid var(--paper); box-shadow: 0 2px 8px rgba(0,0,0,.18); }
+input[type=range]::-moz-range-thumb { width: 22px; height: 22px; border-radius: 50%; background: var(--ink); cursor: pointer; border: 3px solid var(--paper); }
+.sim-toggle { display: flex; gap: 8px; }
+.sim-toggle button { flex: 1; border: 1px solid var(--gray-soft); background: transparent; border-radius: 12px; padding: 12px; font-family: 'Geist', sans-serif; font-size: 14px; font-weight: 600; color: var(--gray-2); cursor: pointer; transition: all .15s; }
+.sim-toggle button.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.sim-base { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; color: var(--gray-3); margin-top: 6px; line-height: 1.6; }
+
+.sim-result { background: var(--ink); color: var(--paper); border-radius: 22px; padding: 32px; display: flex; flex-direction: column; }
+.sim-result .rlabel { font-size: 13px; color: rgba(255,255,255,.55); text-transform: uppercase; letter-spacing: .1em; font-family: 'JetBrains Mono', monospace; }
+.sim-result .rbig { font-family: 'Fraunces', serif; font-size: clamp(40px, 6vw, 60px); font-weight: 600; line-height: 1; color: var(--lime); margin: 10px 0 4px; }
+.sim-result .rsub { font-size: 14px; color: rgba(255,255,255,.6); margin-bottom: 24px; }
+.sim-result .rline { display: flex; justify-content: space-between; padding: 12px 0; border-top: 1px solid rgba(255,255,255,.1); font-size: 14.5px; }
+.sim-result .rline span:first-child { color: rgba(255,255,255,.7); }
+.sim-result .rline span:last-child { font-weight: 600; }
+.sim-result .rline.neg span:last-child { color: #ff8a5c; }
+.sim-result .rline.big { border-top: 1px solid rgba(255,255,255,.25); margin-top: 4px; }
+.sim-result .rline.big span { font-family: 'Fraunces', serif; font-size: 18px; }
+.sim-note { background: var(--cream); border-radius: 14px; padding: 16px 18px; font-size: 13.5px; color: var(--gray-2); margin-top: 18px; line-height: 1.5; }
+.sim-note.warn { background: #fcefe6; color: #8a3c12; }
+
+/* WHY / BENEFITS */
+.why { padding: 84px 0; }
+.why-head { max-width: 640px; margin-bottom: 46px; }
+.why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+.why-card { background: var(--paper-warm); border: 1px solid var(--gray-soft); border-radius: 20px; padding: 28px; }
+.why-card .ic { width: 48px; height: 48px; border-radius: 12px; background: var(--ink); color: var(--lime); display: flex; align-items: center; justify-content: center; font-size: 22px; margin-bottom: 18px; }
+.why-card .num { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--rust); letter-spacing: .1em; }
+.why-card h3 { font-size: 21px; margin: 6px 0 10px; }
+.why-card p { font-size: 14.5px; color: var(--gray-2); }
+.why-card .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
+.why-card .chips span { font-size: 11.5px; font-weight: 600; background: var(--paper); border: 1px solid var(--gray-soft); border-radius: 100px; padding: 5px 11px; color: var(--gray-2); }
+
+/* MARGIN TABLE */
+.margin { padding: 84px 0; background: var(--ink); color: var(--paper); }
+.margin-head { max-width: 680px; margin-bottom: 40px; }
+.margin-head h2 { color: var(--paper); }
+.margin-head h2 .lime { color: var(--lime); font-style: italic; }
+.margin-head .section-lead { color: rgba(255,255,255,.65); }
+.mtable { width: 100%; border-collapse: collapse; background: rgba(255,255,255,.03); border-radius: 16px; overflow: hidden; }
+.mtable th, .mtable td { padding: 16px 18px; text-align: left; font-size: 14.5px; border-bottom: 1px solid rgba(255,255,255,.08); }
+.mtable th { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; text-transform: uppercase; letter-spacing: .08em; color: rgba(255,255,255,.55); font-weight: 500; }
+.mtable td:first-child { font-weight: 600; }
+.mtable td.margin-cell { color: var(--lime); font-family: 'Fraunces', serif; font-size: 18px; font-weight: 600; }
+.mtable tr:last-child td { border-bottom: 0; }
+.legend { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 28px; }
+.legend div { font-size: 13px; color: rgba(255,255,255,.7); }
+.legend strong { color: var(--lime); display: block; margin-bottom: 4px; font-weight: 600; }
+
+/* PLANS */
+.plans { padding: 84px 0; background: var(--paper-warm); }
+.plans-head { text-align: center; max-width: 600px; margin: 0 auto 46px; }
+.plans-head .section-lead { margin: 0 auto; }
+.plans-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; max-width: 880px; margin: 0 auto; }
+.plan { background: var(--paper); border: 1px solid var(--gray-soft); border-radius: 22px; padding: 32px; position: relative; }
+.plan.feat { border: 2px solid var(--ink); }
+.plan .ribbon { position: absolute; top: -13px; left: 32px; background: var(--rust); color: #fff; font-size: 12px; font-weight: 700; padding: 5px 14px; border-radius: 100px; }
+.plan .pname { font-family: 'Fraunces', serif; font-size: 24px; font-weight: 600; }
+.plan .ptag { font-size: 14px; color: var(--gray-3); margin: 4px 0 22px; }
+.plan ul { list-style: none; margin-bottom: 24px; }
+.plan ul li { display: flex; justify-content: space-between; gap: 12px; padding: 11px 0; border-bottom: 1px solid var(--gray-soft); font-size: 14px; }
+.plan ul li span:first-child { color: var(--gray-2); }
+.plan ul li span:last-child { font-weight: 600; text-align: right; }
+.plan .price-box { background: var(--paper-warm); border-radius: 14px; padding: 18px; margin-bottom: 20px; }
+.plan.feat .price-box { background: var(--cream); }
+.plan .price-box .imp { font-family: 'Fraunces', serif; font-size: 28px; font-weight: 600; }
+.plan .price-box .imp small { font-size: 14px; color: var(--gray-3); font-family: 'Geist', sans-serif; font-weight: 500; }
+.plan .price-box .rec { font-size: 13.5px; color: var(--gray-2); margin-top: 4px; }
+.plan .plan-cta { display: block; text-align: center; background: var(--ink); color: var(--paper); padding: 14px; border-radius: 100px; font-weight: 600; font-size: 15px; transition: background .15s; }
+.plan .plan-cta:hover { background: var(--rust); }
+
+/* CTA / FORM */
+.contact { padding: 84px 0; }
+.contact-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 56px; align-items: center; }
+.contact h2 { font-size: clamp(30px, 4vw, 46px); }
+.contact .section-lead { margin: 16px 0 26px; }
+.contact-feats { display: flex; flex-direction: column; gap: 14px; }
+.contact-feats div { display: flex; align-items: center; gap: 11px; font-size: 15px; font-weight: 500; }
+.contact-feats .dot { width: 22px; height: 22px; border-radius: 50%; background: var(--lime); color: var(--ink); display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 800; flex-shrink: 0; }
+.form-card { background: var(--paper-warm); border: 1px solid var(--gray-soft); border-radius: 22px; padding: 32px; }
+.form-row { margin-bottom: 16px; }
+.form-row label { display: block; font-size: 13px; font-weight: 600; color: var(--gray-2); margin-bottom: 7px; }
+.form-row input { width: 100%; border: 1px solid var(--gray-soft); background: var(--paper); border-radius: 12px; padding: 13px 15px; font-family: 'Geist', sans-serif; font-size: 15px; color: var(--ink); }
+.form-row input:focus { outline: none; border-color: var(--ink); }
+.form-grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.form-submit { width: 100%; background: var(--ink); color: var(--paper); border: 0; padding: 16px; border-radius: 100px; font-family: 'Geist', sans-serif; font-size: 16px; font-weight: 600; cursor: pointer; transition: background .15s; margin-top: 6px; }
+.form-submit:hover { background: var(--rust); }
+.form-fine { font-size: 12px; color: var(--gray-3); text-align: center; margin-top: 14px; line-height: 1.5; }
+
+/* FOOTER */
+footer { background: var(--ink); color: rgba(255,255,255,.6); padding: 56px 0 30px; }
+.foot-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; flex-wrap: wrap; padding-bottom: 30px; border-bottom: 1px solid rgba(255,255,255,.1); }
+.foot-logo { font-family: 'Raleway', sans-serif; font-weight: 700; font-size: 22px; color: var(--paper); }
+.foot-links { display: flex; gap: 16px; flex-wrap: wrap; font-size: 14px; }
+.foot-links a:hover { color: var(--lime); }
+.foot-bottom { padding-top: 22px; font-size: 12.5px; line-height: 1.6; }
+.foot-bottom .disc { margin-top: 12px; color: rgba(255,255,255,.4); max-width: 760px; }
+
+@media (max-width: 900px) {
+    .hero-grid { grid-template-columns: 1fr; gap: 40px; }
+    .sim-grid, .contact-grid { grid-template-columns: 1fr; gap: 24px; }
+    .why-grid { grid-template-columns: 1fr; }
+    .plans-grid { grid-template-columns: 1fr; }
+    .statsbar-inner { grid-template-columns: repeat(2, 1fr); }
+    .stat:nth-child(2) { border-right: 0; }
+    .stat:nth-child(1), .stat:nth-child(2) { border-bottom: 1px solid rgba(255,255,255,.08); }
+    .legend { grid-template-columns: 1fr; }
+    .nav-links { display: none; }
+    .nav-toggle { display: flex; }
+    .mtable th:nth-child(2), .mtable td:nth-child(2) { display: none; }
+}
+</style>
+</head>
+<body id="top">
+
+<nav id="nav">
+    <div class="nav-inner">
+        <a href="./index.html" class="logo">Credituz<span class="logo-dot"></span></a>
+        <div class="nav-links">
+            <a href="#simulador" class="simple">Simulador</a>
+            <a href="#vantagens" class="simple">Vantagens</a>
+            <a href="#margem" class="simple">Margem</a>
+            <a href="#planos" class="simple">Planos</a>
+            <a href="#contato" class="nav-cta">Quero ser parceiro</a>
+        </div>
+        <button class="nav-toggle" aria-label="Menu" onclick="document.querySelector('.nav-links').style.display='flex'"><span></span><span></span><span></span></button>
+    </div>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+    <div class="wrap hero-grid">
+        <div>
+            <span class="eyebrow">White Label para parceiros</span>
+            <h1>Venda sua própria <span class="rust">plataforma imobiliária com IA</span> e escale seu negócio.</h1>
+            <p class="hero-sub">Ofereça aos seus clientes um CRM, SDR com IA no WhatsApp, simulação de crédito multibancos e contratos digitais — com a <strong>sua marca, seu domínio e sua precificação</strong>. Você cuida da relação com o cliente e fica com a receita recorrente; a tecnologia e a originação de crédito são operadas pela Credituz.</p>
+            <div class="hero-ctas">
+                <a href="#contato" class="btn-primary">Quero minha plataforma</a>
+                <a href="#simulador" class="btn-ghost">Simular meu faturamento <span class="arr">→</span></a>
+            </div>
+        </div>
+        <div class="hero-card">
+            <span class="tag">Sua marca</span>
+            <div class="browser-bar"><span></span><span></span><span></span></div>
+            <div class="yourbrand">SuaImobTech<span class="blink">.com.br</span></div>
+            <div class="stack">
+                <div class="row"><div class="ic">S</div> Sofia respondeu 3 leads no WhatsApp <span class="muted">agora</span></div>
+                <div class="row"><div class="ic lime" style="color:var(--ink)">C</div> Simulação de crédito em 8 bancos <span class="muted">28s</span></div>
+                <div class="row"><div class="ic">A</div> Contrato gerado e enviado <span class="muted">1 min</span></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- STATS -->
+<section class="statsbar">
+    <div class="statsbar-inner">
+        <div class="stat"><div class="n">+40</div><div class="l">incorporadoras e imobiliárias na plataforma</div></div>
+        <div class="stat"><div class="n">10</div><div class="l">bancos e fintechs integrados para crédito</div></div>
+        <div class="stat"><div class="n">99,9%</div><div class="l">uptime de SLA no plano Enterprise</div></div>
+        <div class="stat"><div class="n">5 min</div><div class="l">para colocar a plataforma no ar com sua marca</div></div>
+    </div>
+</section>
+
+<!-- SIMULATOR -->
+<section class="sim" id="simulador">
+    <div class="wrap">
+        <div class="sim-head">
+            <span class="eyebrow">Simulador de faturamento · modelo de revenda (Premium)</span>
+            <h2 class="section-h2">Quanto você pode faturar revendendo a sua própria plataforma?</h2>
+            <p class="section-lead">No modelo White Label Premium, configure quantos clientes pretende atender e por quanto vai vender. Veja a projeção de receita recorrente em tempo real.</p>
+        </div>
+        <div class="sim-grid">
+            <div class="sim-panel">
+                <h3>Configure sua simulação</h3>
+                <p class="sub">Ajuste os valores e veja o potencial da sua nova linha de receita</p>
+
+                <div class="sim-field">
+                    <div class="top"><label>Número de clientes que você vai atender</label><span class="val" id="vClients">15</span></div>
+                    <input type="range" id="clients" min="1" max="200" step="1" value="15">
+                </div>
+
+                <div class="sim-field">
+                    <div class="top"><label>Mensalidade que você vai cobrar (R$/cliente)</label><span class="val" id="vPrice">R$ 897</span></div>
+                    <input type="range" id="price" min="297" max="3000" step="10" value="897">
+                </div>
+
+                <div class="sim-field">
+                    <div class="top"><label>Plano de licenciamento Credituz</label><span class="val" id="vTier">Pro</span></div>
+                    <div class="sim-toggle" id="tier">
+                        <button data-tier="growth" data-cost="149">Growth</button>
+                        <button data-tier="pro" data-cost="299" class="active">Pro</button>
+                        <button data-tier="business" data-cost="649">Business</button>
+                    </div>
+                </div>
+
+                <p class="sim-base">Base de licenciamento (custo por cliente, valores de referência): Growth R$ 149 · Pro R$ 299 · Business R$ 649 por cliente/mês. Ajuste conforme o seu contrato de parceria.</p>
+            </div>
+
+            <div class="sim-result">
+                <div class="rlabel">Receita recorrente mensal</div>
+                <div class="rbig" id="rRevenue">R$ 13.455</div>
+                <div class="rsub">todo mês, somado ao que seu negócio já fatura hoje</div>
+
+                <div class="rline"><span>Clientes na sua plataforma</span><span id="rClients">15 clientes</span></div>
+                <div class="rline"><span>Mensalidade cobrada por cliente</span><span id="rPrice">R$ 897</span></div>
+                <div class="rline neg"><span>Custo de licenciamento por cliente</span><span id="rCostUnit">– R$ 299</span></div>
+                <div class="rline neg"><span>Custo total de licenciamento</span><span id="rCostTotal">– R$ 4.485</span></div>
+                <div class="rline big"><span>Lucro mensal estimado</span><span id="rProfit">R$ 8.970</span></div>
+                <div class="rline"><span>Lucro em 12 meses</span><span id="rYear">R$ 107.640</span></div>
+                <div class="rline"><span>Lucro em 3 anos</span><span id="r3y">R$ 322.920</span></div>
+
+                <div class="sim-note" id="simWarn">A originação de crédito roda na plataforma e enriquece a sua oferta ao cliente. A comissão bancária é operada pela Credituz e não está incluída neste cálculo.</div>
+                <div class="sim-note">Esses valores são recorrentes e se somam ao que você já fatura com serviços, configuração e consultoria, que podem ser cobrados à parte por cliente.</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- WHY -->
+<section class="why" id="vantagens">
+    <div class="wrap">
+        <div class="why-head">
+            <span class="eyebrow">Por que ter sua própria plataforma</span>
+            <h2 class="section-h2">O que muda quando você é a plataforma</h2>
+            <p class="section-lead">Além da receita recorrente, o white label transforma a sua posição de mercado e a qualidade do resultado que você entrega.</p>
+        </div>
+        <div class="why-grid">
+            <div class="why-card">
+                <div class="ic">🔗</div>
+                <div class="num">01</div>
+                <h3>Uma plataforma, não cinco ferramentas</h3>
+                <p>Seu cliente para de dividir orçamento entre CRM, central de WhatsApp, simulador de crédito e assinatura digital. Tudo em um sistema só, com a mensalidade indo para você.</p>
+                <div class="chips"><span>CRM</span><span>WhatsApp</span><span>Crédito</span><span>Contratos</span></div>
+            </div>
+            <div class="why-card">
+                <div class="ic">🏦</div>
+                <div class="num">02</div>
+                <h3>Crédito embarcado que enriquece sua oferta</h3>
+                <p>A simulação multibancos roda por baixo da sua marca, sustentada pelas relações de correspondente bancário da Credituz junto ao BACEN. Seu cliente sai com a melhor taxa sem você montar uma estrutura regulatória. A comissão bancária é operada pela Credituz; o seu ganho vem da mensalidade recorrente.</p>
+                <div class="chips"><span>10 bancos</span><span>Correspondente BACEN</span></div>
+            </div>
+            <div class="why-card">
+                <div class="ic">🤖</div>
+                <div class="num">03</div>
+                <h3>IA como serviço exclusivo seu</h3>
+                <p>Configure e venda os agentes de IA (SDR, crédito, contratos, cobrança) com a identidade de cada cliente. Alta margem, fácil de escalar e 100% operado pelo seu time.</p>
+                <div class="chips"><span>SDR Sofia</span><span>Cobrança</span><span>Analytics</span></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MARGIN TABLE -->
+<section class="margin" id="margem">
+    <div class="wrap">
+        <div class="margin-head">
+            <span class="eyebrow" style="color:var(--lime)">Margem de revenda · Premium</span>
+            <h2 class="section-h2">Você revende pelo preço que quiser. <span class="lime">A margem é sua.</span></h2>
+            <p class="section-lead">No White Label Premium, veja quanto a Credituz cobra de licenciamento por plano e a margem se você revender pelo preço de tabela. Os valores de licenciamento abaixo são de referência e definidos no contrato de parceria.</p>
+        </div>
+        <table class="mtable">
+            <thead>
+                <tr><th>Plano</th><th>Preço de tabela Credituz</th><th>Seu custo (licenciamento)</th><th>Sua margem</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Growth</td><td>R$ 297/mês</td><td>R$ 149/mês</td><td class="margin-cell">99%</td></tr>
+                <tr><td>Pro</td><td>R$ 597/mês</td><td>R$ 299/mês</td><td class="margin-cell">100%</td></tr>
+                <tr><td>Business</td><td>R$ 1.297/mês</td><td>R$ 649/mês</td><td class="margin-cell">100%</td></tr>
+                <tr><td>Enterprise</td><td>a partir de R$ 3.497/mês</td><td>sob contrato</td><td class="margin-cell">negociável</td></tr>
+            </tbody>
+        </table>
+        <div class="legend">
+            <div><strong>Preço de tabela Credituz</strong>O valor que a Credituz cobra dos clientes finais em cada plano. Você pode cobrar mais.</div>
+            <div><strong>Seu custo de licenciamento</strong>O valor que você repassa à Credituz para disponibilizar o plano ao seu cliente.</div>
+            <div><strong>Sua margem</strong>Quanto fica para você caso revenda pelo mesmo preço de tabela — e cresce se você cobrar mais.</div>
+        </div>
+    </div>
+</section>
+
+<!-- PLANS -->
+<section class="plans" id="planos">
+    <div class="wrap">
+        <div class="plans-head">
+            <span class="eyebrow">Modelos de parceria</span>
+            <h2 class="section-h2">Escolha como começar a vender</h2>
+            <p class="section-lead">Dois caminhos: use a plataforma com a sua marca na sua própria operação, ou revenda para os seus clientes.</p>
+        </div>
+        <div class="plans-grid">
+            <div class="plan">
+                <div class="pname">White Label Essencial</div>
+                <div class="ptag">Sua plataforma, com a sua marca — para usar na sua própria operação</div>
+                <ul>
+                    <li><span>Para quem é</span><span>Sua imobiliária ou incorporadora</span></li>
+                    <li><span>Marca e logo</span><span>Sua marca</span></li>
+                    <li><span>Domínio</span><span>suamarca.credituz.app</span></li>
+                    <li><span>Conexão WhatsApp</span><span>API Oficial</span></li>
+                    <li><span>Agentes de IA</span><span>Inclusos</span></li>
+                    <li><span>Crédito embarcado</span><span>Incluso</span></li>
+                    <li><span>Revenda para terceiros</span><span>Não incluída</span></li>
+                </ul>
+                <div class="price-box">
+                    <div class="imp">R$ 4.900 <small>setup único</small></div>
+                    <div class="rec">+ licenciamento mensal da plataforma</div>
+                </div>
+                <a href="#contato" class="plan-cta">Quero o Essencial</a>
+            </div>
+            <div class="plan feat">
+                <div class="ribbon">Recomendado</div>
+                <div class="pname">White Label Premium</div>
+                <div class="ptag">Revenda com 100% da sua marca e domínio próprio incluso</div>
+                <ul>
+                    <li><span>Para quem é</span><span>Parceiro revendedor</span></li>
+                    <li><span>Marca e logo</span><span>100% sua marca</span></li>
+                    <li><span>Domínio</span><span>suamarca.com.br incluso</span></li>
+                    <li><span>Conexão WhatsApp</span><span>API Oficial</span></li>
+                    <li><span>Agentes de IA</span><span>Inclusos</span></li>
+                    <li><span>Crédito embarcado</span><span>Incluso</span></li>
+                    <li><span>Revenda para terceiros</span><span>Liberada</span></li>
+                </ul>
+                <div class="price-box">
+                    <div class="imp">R$ 7.900 <small>setup único</small></div>
+                    <div class="rec">+ licenciamento mensal por cliente revendido</div>
+                </div>
+                <a href="#contato" class="plan-cta">Quero o Premium</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section class="contact" id="contato">
+    <div class="wrap contact-grid">
+        <div>
+            <span class="eyebrow">Pronto para escalar?</span>
+            <h2>Sua nova fonte de <em>receita recorrente</em></h2>
+            <p class="section-lead">Preencha o formulário e um especialista da Credituz entra em contato para apresentar o modelo de revenda white label e o licenciamento por cliente.</p>
+            <div class="contact-feats">
+                <div><span class="dot">✓</span> Plataforma com a sua marca em 5 minutos</div>
+                <div><span class="dot">✓</span> Crédito embarcado operado pela Credituz (correspondente BACEN)</div>
+                <div><span class="dot">✓</span> Suporte e onboarding dedicados</div>
+            </div>
+        </div>
+        <div class="form-card">
+            <div class="form-row"><label>Nome completo</label><input type="text" id="fName" placeholder="Seu nome"></div>
+            <div class="form-grid2">
+                <div class="form-row"><label>WhatsApp</label><input type="tel" id="fPhone" placeholder="(11) 90000-0000"></div>
+                <div class="form-row"><label>E-mail</label><input type="email" id="fEmail" placeholder="voce@empresa.com"></div>
+            </div>
+            <div class="form-grid2">
+                <div class="form-row"><label>Nome do seu negócio</label><input type="text" id="fCompany" placeholder="Sua empresa"></div>
+                <div class="form-row"><label>Cargo</label><input type="text" id="fRole" placeholder="Seu cargo"></div>
+            </div>
+            <button class="form-submit" onclick="sendPartner()">Quero ser parceiro white label →</button>
+            <p class="form-fine">Após o envio, nossa equipe entra em contato pelo WhatsApp. Seus dados são protegidos pela LGPD e nunca serão compartilhados.</p>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <div class="wrap">
+        <div class="foot-top">
+            <a href="./index.html" class="foot-logo">Credituz</a>
+            <div class="foot-links">
+                <a href="./index.html">Plataforma</a>
+                <a href="./index.html#pricing">Planos</a>
+                <a href="./white-label.html">White Label</a>
+                <a href="./pages/incorporadoras.html">Incorporadoras</a>
+                <a href="./pages/imobiliarias.html">Imobiliárias</a>
+                <a href="./pages/seja-parceiro.html">Seja Parceiro</a>
+            </div>
+        </div>
+        <div class="foot-bottom">
+            © 2026 Credituz Tecnologia Ltda · CNPJ 51.934.531/0001-92. Todos os direitos reservados.
+            <div class="disc">A Credituz não realiza qualquer atividade privativa de instituições financeiras, como financiamentos e/ou empréstimos. Essas operações são realizadas através de parceiros autorizados pelo BACEN, nos termos da Resolução nº 4.935, de 29/7/2021. Valores de licenciamento e margens exibidos nesta página são de referência e definidos no contrato de parceria.</div>
+        </div>
+    </div>
+</footer>
+
+<script>
+// Nav scroll shadow
+window.addEventListener('scroll', () => {
+    document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 20);
+});
+
+// ===== SIMULADOR =====
+(function () {
+    const fmt = (n) => 'R$ ' + Math.round(n).toLocaleString('pt-BR');
+    const clientsEl = document.getElementById('clients');
+    const priceEl = document.getElementById('price');
+    const tierGroup = document.getElementById('tier');
+    let cost = 299;
+
+    function compute() {
+        const clients = +clientsEl.value;
+        const price = +priceEl.value;
+        document.getElementById('vClients').textContent = clients;
+        document.getElementById('vPrice').textContent = fmt(price);
+        const revenue = clients * price;
+        const costTotal = clients * cost;
+        const profit = revenue - costTotal;
+        document.getElementById('rRevenue').textContent = fmt(revenue);
+        document.getElementById('rClients').textContent = clients + (clients === 1 ? ' cliente' : ' clientes');
+        document.getElementById('rPrice').textContent = fmt(price);
+        document.getElementById('rCostUnit').textContent = '– ' + fmt(cost);
+        document.getElementById('rCostTotal').textContent = '– ' + fmt(costTotal);
+        document.getElementById('rProfit').textContent = fmt(profit);
+        document.getElementById('rYear').textContent = fmt(profit * 12);
+        document.getElementById('r3y').textContent = fmt(profit * 36);
+        const warn = document.getElementById('simWarn');
+        if (price <= cost) {
+            warn.classList.add('warn');
+            warn.textContent = 'Atenção: o preço que você vai cobrar está igual ou abaixo do seu custo de licenciamento. Ajuste para cima para garantir margem.';
+        } else {
+            warn.classList.remove('warn');
+            warn.textContent = 'A originação de crédito roda na plataforma e enriquece a sua oferta ao cliente. A comissão bancária é operada pela Credituz e não está incluída neste cálculo.';
+        }
+    }
+    clientsEl.addEventListener('input', compute);
+    priceEl.addEventListener('input', compute);
+    tierGroup.querySelectorAll('button').forEach(btn => {
+        btn.addEventListener('click', () => {
+            tierGroup.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            cost = +btn.dataset.cost;
+            const names = { growth: 'Growth', pro: 'Pro', business: 'Business' };
+            document.getElementById('vTier').textContent = names[btn.dataset.tier];
+            compute();
+        });
+    });
+    compute();
+})();
+
+function sendPartner() {
+    const name = (document.getElementById('fName').value || '').trim();
+    const phone = (document.getElementById('fPhone').value || '').trim();
+    const email = (document.getElementById('fEmail').value || '').trim();
+    const company = (document.getElementById('fCompany').value || '').trim();
+    const role = (document.getElementById('fRole').value || '').trim();
+    const msg = `Olá! Quero ser parceiro White Label da Credituz.%0A%0ANome: ${name}%0AWhatsApp: ${phone}%0AE-mail: ${email}%0ANegócio: ${company}%0ACargo: ${role}`;
+    window.open('https://wa.me/5511936201544?text=' + msg, '_blank', 'noopener');
+}
+</script>
+</body>
+</html>
