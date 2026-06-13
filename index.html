@@ -246,7 +246,9 @@ body {
 .nav-submenu {
     position: absolute;
     top: 100%;
-    left: 0;
+    right: 0;
+    left: auto;
+    display: block;
     min-width: 240px;
     background: var(--paper);
     border: 1px solid var(--gray-soft);
@@ -281,6 +283,8 @@ body {
 @media (max-width: 900px) {
     .nav-submenu {
         position: static;
+        right: auto;
+        left: auto;
         opacity: 1;
         visibility: visible;
         transform: none;
