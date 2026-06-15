@@ -87,7 +87,7 @@ footer a { color: var(--gray-2); }
 <nav>
     <div class="inner">
         <a class="logo" href="../index.html">credituz<em>.</em></a>
-        <a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener" data-track="cta_nav_locacao">Testar grátis por 14 dias</a>
+        <a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener" data-track="cta_nav_locacao">Testar grátis por 14 dias</a>
     </div>
 </nav>
 
@@ -96,7 +96,7 @@ footer a { color: var(--gray-2); }
     <h1>Sua operação de aluguel <span class="hl">no piloto automático</span>.</h1>
     <p class="lead">A IA da Credituz atende o inquilino no WhatsApp, agenda visita, gera o contrato de locação e cobra todo mês sozinha, com boleto, Pix e nota fiscal. Sua equipe sai do operacional e cuida da carteira.</p>
     <div class="hero-actions">
-        <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener" data-track="cta_hero_locacao">Testar grátis por 14 dias</a>
+        <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener" data-track="cta_hero_locacao">Testar grátis por 14 dias</a>
         <a class="btn btn-soft" href="#otas">Integração com OTAs · entrar na lista</a>
     </div>
     <div class="hero-meta">Plano Free permanente · 14 dias grátis nos planos pagos · sem implantação</div>
@@ -287,6 +287,39 @@ document.getElementById('otaForm').addEventListener('submit', async function (e)
         btn.disabled = false; btn.textContent = 'Entrar na lista de prioridade';
     }
 });
+</script>
+
+<!-- Ref tracking: centraliza a sanitizacao do parametro ref e reescreve todos os links do dashboard -->
+<script>
+(function () {
+    var DEFAULT_REF = "saas-credituzai";
+    var MAX_LEN = 64;
+    var DASH_BASE = "https://dashboard.usecredituz.com/auth/login?screen_hint=signup";
+    function resolveRef() {
+        var params = new URLSearchParams(window.location.search);
+        var raw = params.get("ref");
+        if (raw == null) return DEFAULT_REF;
+        var clean = raw.replace(/[^A-Za-z0-9-]/g, "");
+        if (clean.length > MAX_LEN) clean = clean.slice(0, MAX_LEN);
+        return clean.length ? clean : DEFAULT_REF;
+    }
+    var REF = resolveRef();
+    var DASH_URL = DASH_BASE + "&ref=" + encodeURIComponent(REF);
+    function applyRef(root) {
+        var scope = root || document;
+        var links = scope.querySelectorAll('a[href^="https://dashboard.usecredituz.com"]');
+        for (var i = 0; i < links.length; i++) { links[i].setAttribute('href', DASH_URL); }
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", function () { applyRef(); });
+    } else { applyRef(); }
+    document.addEventListener("click", function (e) {
+        var a = e.target && e.target.closest ? e.target.closest('a[href^="https://dashboard.usecredituz.com"]') : null;
+        if (a) a.setAttribute('href', DASH_URL);
+    }, true);
+    window.credituzDashboardUrl = function () { return DASH_URL; };
+    window.credituzRef = function () { return REF; };
+})();
 </script>
 </body>
 </html>
