@@ -84,7 +84,7 @@ footer a { color: var(--gray-2); }
 <nav>
   <div class="inner">
     <a class="logo" href="../index.html">credituz<em>.</em></a>
-    <a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener">Testar grátis por 14 dias</a>
+    <a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener">Testar grátis por 14 dias</a>
   </div>
 </nav>
 
@@ -93,7 +93,7 @@ footer a { color: var(--gray-2); }
     <h1>Responda todo lead na hora e <span class="hl">feche mais vendas</span>.</h1>
     <p class="lead">A Credituz atende seus leads de portais e mídia no WhatsApp, simula o financiamento em 10 bancos e gera o contrato digital. Seus corretores chegam na visita com o cliente já pré-aprovado.</p>
     <div class="hero-actions">
-        <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener">Testar grátis por 14 dias</a>
+        <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener">Testar grátis por 14 dias</a>
         <a class="btn btn-soft" href="#faq">Tirar dúvidas</a>
     </div>
     <div class="hero-meta">Plano Free permanente · 14 dias grátis nos planos pagos · sem implantação</div>
@@ -137,7 +137,7 @@ footer a { color: var(--gray-2); }
         <h2>Pare de perder lead por demora na resposta.</h2>
         <p class="sub">Crie sua conta grátis em 5 minutos e ative a Sofia com 14 dias de teste, ou fale com um especialista.</p>
         <div class="hero-actions" style="margin-top:18px">
-            <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" target="_blank" rel="noopener">Testar grátis por 14 dias</a>
+            <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener">Testar grátis por 14 dias</a>
             <a class="btn btn-soft" href="https://wa.me/5511936201544" target="_blank" rel="noopener">Falar com um especialista</a>
         </div>
     </div>
@@ -162,6 +162,39 @@ footer a { color: var(--gray-2); }
 document.querySelectorAll(".faq-item").forEach(function(it){
   it.addEventListener("click",function(){it.classList.toggle("open");});
 });
+</script>
+
+<!-- Ref tracking: centraliza a sanitizacao do parametro ref e reescreve todos os links do dashboard -->
+<script>
+(function () {
+    var DEFAULT_REF = "saas-credituzai";
+    var MAX_LEN = 64;
+    var DASH_BASE = "https://dashboard.usecredituz.com/auth/login?screen_hint=signup";
+    function resolveRef() {
+        var params = new URLSearchParams(window.location.search);
+        var raw = params.get("ref");
+        if (raw == null) return DEFAULT_REF;
+        var clean = raw.replace(/[^A-Za-z0-9-]/g, "");
+        if (clean.length > MAX_LEN) clean = clean.slice(0, MAX_LEN);
+        return clean.length ? clean : DEFAULT_REF;
+    }
+    var REF = resolveRef();
+    var DASH_URL = DASH_BASE + "&ref=" + encodeURIComponent(REF);
+    function applyRef(root) {
+        var scope = root || document;
+        var links = scope.querySelectorAll('a[href^="https://dashboard.usecredituz.com"]');
+        for (var i = 0; i < links.length; i++) { links[i].setAttribute('href', DASH_URL); }
+    }
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", function () { applyRef(); });
+    } else { applyRef(); }
+    document.addEventListener("click", function (e) {
+        var a = e.target && e.target.closest ? e.target.closest('a[href^="https://dashboard.usecredituz.com"]') : null;
+        if (a) a.setAttribute('href', DASH_URL);
+    }, true);
+    window.credituzDashboardUrl = function () { return DASH_URL; };
+    window.credituzRef = function () { return REF; };
+})();
 </script>
 </body>
 </html>
