@@ -1,16 +1,13 @@
 #!/usr/bin/env python3
 """
-Traduz a landing page de PT para EN preservando todo o HTML, scripts, estilos,
-URLs e termos de marca. Gera en/index.html a partir de index.html.
+Traduz as paginas de marketing da LP de PT para EN preservando todo o HTML,
+scripts, estilos, URLs e termos de marca. Gera os espelhos em en/.
 
-Motor: DeepL. Requer a variavel de ambiente DEEPL_API_KEY. Para conta gratuita
-use a URL api-free (padrao); para Pro defina
-DEEPL_API_URL=https://api.deepl.com/v2/translate.
+Motor: DeepL. Requer DEEPL_API_KEY. Conta gratuita usa a URL api-free (padrao);
+para Pro defina DEEPL_API_URL=https://api.deepl.com/v2/translate.
 
-Estrategia: extrai apenas os textos visiveis e atributos relevantes (title, meta
-description, og, twitter, alt, aria-label, placeholder, title), protege termos de
-marca, traduz em lotes e reinsere. A estrutura, classes, scripts e links ficam
-intactos.
+Paginas juridicas (termos, privacidade, dpo, uso-aceitavel) ficam de fora de
+proposito; links para elas no EN passam a apontar para a versao em portugues.
 """
 import os
 import re
@@ -21,12 +18,27 @@ import urllib.parse
 
 from bs4 import BeautifulSoup, NavigableString, Comment
 
-SRC = os.environ.get("LP_SRC", "index.html")
-OUT = os.environ.get("LP_OUT", "en/index.html")
 SOURCE_LANG = "PT"
 TARGET_LANG = os.environ.get("DEEPL_TARGET", "EN-US")
 DEEPL_URL = os.environ.get("DEEPL_API_URL", "https://api-free.deepl.com/v2/translate")
 DEEPL_KEY = os.environ.get("DEEPL_API_KEY")
+
+# Paginas de marketing: (origem PT, destino EN). Juridicas ficam de fora.
+PAGES = [
+    ("index.html", "en/index.html"),
+    ("white-label.html", "en/white-label.html"),
+    ("pages/incorporadoras.html", "en/pages/incorporadoras.html"),
+    ("pages/imobiliarias.html", "en/pages/imobiliarias.html"),
+    ("pages/seja-parceiro.html", "en/pages/seja-parceiro.html"),
+    ("pages/locacao-temporada.html", "en/pages/locacao-temporada.html"),
+    ("pages/integracoes.html", "en/pages/integracoes.html"),
+]
+
+# Paginas que NAO sao traduzidas; links para elas no EN apontam para o PT.
+LEGAL_BASENAMES = {
+    "privacidade.html", "termos.html", "dpo.html", "uso-aceitavel.html",
+    "glossario.html", "blog.html",
+}
 
 PROTECT = [
     "Credituz OS", "Credituz", "WhatsApp", "Sienge", "UAU", "Open Finance",
@@ -45,6 +57,8 @@ META_SPECS = [
 ]
 URLISH = re.compile(r"^\s*(https?://|mailto:|tel:|wa\.me|/|#|\+?\d[\d\s().-]*$)")
 ONLY_SYMBOLS = re.compile(r"^[\W\d_]+$")
+
+CACHE = {}
 
 
 def is_translatable_text(s):
@@ -83,12 +97,11 @@ def restore_terms(text, mapping):
 def deepl_translate(unique_texts):
     if not DEEPL_KEY:
         raise SystemExit("DEEPL_API_KEY nao definido")
-    result = {}
-    items = list(unique_texts)
+    pending = [t for t in unique_texts if t not in CACHE]
     BATCH = 40
     i = 0
-    while i < len(items):
-        chunk = items[i:i + BATCH]
+    while i < len(pending):
+        chunk = pending[i:i + BATCH]
         protected, maps = [], []
         for t in chunk:
             p, m = protect_terms(t)
@@ -113,14 +126,23 @@ def deepl_translate(unique_texts):
                     raise
                 time.sleep(2 * (attempt + 1))
         for orig, mp, tr in zip(chunk, maps, payload.get("translations", [])):
-            result[orig] = restore_terms(tr["text"], mp)
+            CACHE[orig] = restore_terms(tr["text"], mp)
         i += BATCH
         time.sleep(0.3)
-    return result
 
 
-def main():
-    with open(SRC, encoding="utf-8") as f:
+def rewrite_legal_links(soup):
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if href.startswith("http") or href.startswith("mailto") or href.startswith("tel"):
+            continue
+        base = href.split("?")[0].split("#")[0].rstrip("/").split("/")[-1]
+        if base in LEGAL_BASENAMES:
+            a["href"] = "/pages/" + base
+
+
+def translate_file(src, out):
+    with open(src, encoding="utf-8") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
     text_nodes = [s for s in soup.find_all(string=True) if is_translatable_text(s)]
     meta_setters = []
@@ -144,16 +166,15 @@ def main():
         unique.add((el.string if attr == "_title_" else el.get(attr)).strip())
     for el, attr in attr_setters:
         unique.add(el.get(attr).strip())
-    print("Strings unicas:", len(unique))
-    table = deepl_translate(unique)
+    deepl_translate(unique)
 
     def tr(s):
-        return table.get(s.strip(), s)
+        return CACHE.get(s.strip(), s)
 
     for n in text_nodes:
         original = str(n)
         stripped = original.strip()
-        translated = table.get(stripped, stripped)
+        translated = CACHE.get(stripped, stripped)
         prefix = original[:len(original) - len(original.lstrip())]
         suffix = original[len(original.rstrip()):]
         n.replace_with(NavigableString(prefix + translated + suffix))
@@ -164,13 +185,24 @@ def main():
             el[attr] = tr(el.get(attr))
     for el, attr in attr_setters:
         el[attr] = tr(el.get(attr))
+    rewrite_legal_links(soup)
     html_tag = soup.find("html")
     if html_tag:
         html_tag["lang"] = "en"
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
+    outdir = os.path.dirname(out)
+    if outdir:
+        os.makedirs(outdir, exist_ok=True)
+    with open(out, "w", encoding="utf-8") as f:
         f.write(str(soup))
-    print("Gerado:", OUT)
+    print("Gerado:", out)
+
+
+def main():
+    for src, out in PAGES:
+        if os.path.exists(src):
+            translate_file(src, out)
+        else:
+            print("Origem ausente, pulando:", src)
 
 
 if __name__ == "__main__":
