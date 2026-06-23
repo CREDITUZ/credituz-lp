@@ -1,0 +1,48 @@
+name: Traduzir LP para o ingles
+
+# Roda quando o index.html (versao em portugues) muda no main, e tambem
+# manualmente pelo botao "Run workflow". Nao dispara ao alterar en/**, entao
+# o commit que ele mesmo faz nao gera loop.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-en
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependencias
+        run: pip install beautifulsoup4
+      - name: Traduzir index.html para en/index.html
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          # Para conta DeepL Pro, descomente:
+          # DEEPL_API_URL: https://api.deepl.com/v2/translate
+        run: python scripts/translate_en.py
+      - name: Commit do en/index.html se houve mudanca
+        run: |
+          if [ -n "$(git status --porcelain en/index.html)" ]; then
+            git config user.name "credituz-i18n-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add en/index.html
+            git commit -m "chore(i18n): traduz automaticamente en/index.html [skip ci]"
+            git push
+          else
+            echo "Sem mudancas em en/index.html"
+          fi
