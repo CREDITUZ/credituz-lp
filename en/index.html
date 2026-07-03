@@ -4228,6 +4228,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
+<!-- ROI CALCULATOR -->
+<section class="roi" id="roi">
+    <div class="roi-inner">
+        <div class="roi-head">
+            <div class="section-tag">ROI Calculator</div>
+            <h2>How much do you lose to cold leads? <em>Calculate.</em></h2>
+            <p>Three numbers you know by heart. See in seconds how much Sofia, answering 24/7 and simulating credit instantly, can add to your revenue.</p>
+
+            <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
+                <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
+                    <span class="roi-profile-icon">🏢</span>
+                    <span class="roi-profile-title">Brokerage</span>
+                </button>
+                <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
+                    <span class="roi-profile-icon">🏗️</span>
+                    <span class="roi-profile-title">Developer</span>
+                </button>
+                <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
+                    <span class="roi-profile-icon">👤</span>
+                    <span class="roi-profile-title">Independent agent</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="roi-simple">
+            <div class="roi-simple-inputs">
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiLeads">Leads per month</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
+                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiTicket">Average property price</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
+                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Commission / margin</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
+                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
+                </div>
+            </div>
+
+            <div class="roi-simple-result">
+                <div class="roi-result-label">Estimated extra revenue with Sofia</div>
+                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
+                <div class="roi-result-per">per month · <span id="roiResultYear">R$ 0</span> per year</div>
+                <div class="roi-result-compare" id="roiResultCompare"></div>
+                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Try free for 14 days</a>
+            </div>
+        </div>
+
+        <details class="roi-assumptions">
+            <summary>See calculation assumptions</summary>
+            <div class="roi-assumptions-body">
+                <p><strong>Methodology:</strong> we start from the typical market conversion (6%) and project conversion with Sofia answering in seconds, 24/7, with credit simulation. The gain is the difference between the two conversion rates, applied to your lead volume, ticket and margin.</p>
+                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
+                    <span class="roi-scenario-label">Estimated conversion with Sofia:</span>
+                    <div class="roi-scenario-btns" id="roiScenario">
+                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservative <em>12%</em></button>
+                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realistic <em>15%</em></button>
+                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Optimistic <em>18%</em></button>
+                    </div>
+                </div>
+                <p class="roi-formula">Formula: leads × (Sofia conversion − 6%) × ticket × margin = monthly gain.</p>
+            </div>
+        </details>
+
+        <p class="roi-disclaimer">Reference estimate. Results vary by location, product mix, lead quality and sales maturity. Not a contractual guarantee.</p>
+    </div>
+</section>
+
 <!-- CREDITUZ OS (orbital) -->
 <style>
 .cos-os{max-width:none;width:100%;margin:0;padding:96px 24px;background:var(--ink);color:var(--paper);position:relative;overflow:hidden}
@@ -4638,76 +4707,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 </section>
-
-<!-- ROI CALCULATOR -->
-<section class="roi" id="roi">
-    <div class="roi-inner">
-        <div class="roi-head">
-            <div class="section-tag">ROI Calculator</div>
-            <h2>How much do you lose to cold leads? <em>Calculate.</em></h2>
-            <p>Three numbers you know by heart. See in seconds how much Sofia, answering 24/7 and simulating credit instantly, can add to your revenue.</p>
-
-            <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
-                <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
-                    <span class="roi-profile-icon">🏢</span>
-                    <span class="roi-profile-title">Brokerage</span>
-                </button>
-                <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
-                    <span class="roi-profile-icon">🏗️</span>
-                    <span class="roi-profile-title">Developer</span>
-                </button>
-                <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
-                    <span class="roi-profile-icon">👤</span>
-                    <span class="roi-profile-title">Independent agent</span>
-                </button>
-            </div>
-        </div>
-
-        <div class="roi-simple">
-            <div class="roi-simple-inputs">
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiLeads">Leads per month</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
-                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
-                </div>
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiTicket">Average property price</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
-                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
-                </div>
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Commission / margin</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
-                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
-                </div>
-            </div>
-
-            <div class="roi-simple-result">
-                <div class="roi-result-label">Estimated extra revenue with Sofia</div>
-                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
-                <div class="roi-result-per">per month · <span id="roiResultYear">R$ 0</span> per year</div>
-                <div class="roi-result-compare" id="roiResultCompare"></div>
-                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Try free for 14 days</a>
-            </div>
-        </div>
-
-        <details class="roi-assumptions">
-            <summary>See calculation assumptions</summary>
-            <div class="roi-assumptions-body">
-                <p><strong>Methodology:</strong> we start from the typical market conversion (6%) and project conversion with Sofia answering in seconds, 24/7, with credit simulation. The gain is the difference between the two conversion rates, applied to your lead volume, ticket and margin.</p>
-                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
-                    <span class="roi-scenario-label">Estimated conversion with Sofia:</span>
-                    <div class="roi-scenario-btns" id="roiScenario">
-                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservative <em>12%</em></button>
-                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realistic <em>15%</em></button>
-                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Optimistic <em>18%</em></button>
-                    </div>
-                </div>
-                <p class="roi-formula">Formula: leads × (Sofia conversion − 6%) × ticket × margin = monthly gain.</p>
-            </div>
-        </details>
-
-        <p class="roi-disclaimer">Reference estimate. Results vary by location, product mix, lead quality and sales maturity. Not a contractual guarantee.</p>
-    </div>
-</section>
-
 <!-- COMPARATIVO -->
 <section class="compare" id="comparar">
     <div class="compare-inner">

@@ -4239,6 +4239,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
+<!-- ROI CALCULATOR -->
+<section class="roi" id="roi">
+    <div class="roi-inner">
+        <div class="roi-head">
+            <div class="section-tag">Calculadora de ROI</div>
+            <h2>Quanto você perde com lead que esfria? <em>Calcule.</em></h2>
+            <p>Três números que você sabe de cabeça. Veja em segundos quanto a Sofia, atendendo 24×7 e simulando crédito na hora, pode somar ao seu faturamento.</p>
+
+            <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
+                <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
+                    <span class="roi-profile-icon">🏢</span>
+                    <span class="roi-profile-title">Imobiliária</span>
+                </button>
+                <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
+                    <span class="roi-profile-icon">🏗️</span>
+                    <span class="roi-profile-title">Incorporadora</span>
+                </button>
+                <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
+                    <span class="roi-profile-icon">👤</span>
+                    <span class="roi-profile-title">Corretor autônomo</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="roi-simple">
+            <div class="roi-simple-inputs">
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiLeads">Leads por mês</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
+                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiTicket">Ticket médio do imóvel</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
+                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
+                </div>
+                <div class="roi-field">
+                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Comissão / margem</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
+                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
+                </div>
+            </div>
+
+            <div class="roi-simple-result">
+                <div class="roi-result-label">Faturamento extra estimado com a Sofia</div>
+                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
+                <div class="roi-result-per">por mês · <span id="roiResultYear">R$ 0</span> por ano</div>
+                <div class="roi-result-compare" id="roiResultCompare"></div>
+                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Testar grátis por 14 dias</a>
+            </div>
+        </div>
+
+        <details class="roi-assumptions">
+            <summary>Ver premissas do cálculo</summary>
+            <div class="roi-assumptions-body">
+                <p><strong>Metodologia:</strong> partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho é a diferença entre as duas conversões, aplicada ao seu volume de leads, ticket e margem.</p>
+                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
+                    <span class="roi-scenario-label">Conversão estimada com a Sofia:</span>
+                    <div class="roi-scenario-btns" id="roiScenario">
+                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>12%</em></button>
+                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>15%</em></button>
+                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>18%</em></button>
+                    </div>
+                </div>
+                <p class="roi-formula">Cálculo: leads × (conversão Sofia − 6%) × ticket × margem = ganho mensal.</p>
+            </div>
+        </details>
+
+        <p class="roi-disclaimer">Estimativa referencial. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Não constitui garantia contratual.</p>
+    </div>
+</section>
+
 <!-- CREDITUZ OS (orbital) -->
 <style>
 .cos-os{max-width:none;width:100%;margin:0;padding:96px 24px;background:var(--ink);color:var(--paper);position:relative;overflow:hidden}
@@ -4634,77 +4703,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="./pages/locacao-temporada.html" data-track="cta_locacao_page">Conhecer a solução de locação →</a>
     </div>
 </section>
-
-
-<!-- ROI CALCULATOR -->
-<section class="roi" id="roi">
-    <div class="roi-inner">
-        <div class="roi-head">
-            <div class="section-tag">Calculadora de ROI</div>
-            <h2>Quanto você perde com lead que esfria? <em>Calcule.</em></h2>
-            <p>Três números que você sabe de cabeça. Veja em segundos quanto a Sofia, atendendo 24×7 e simulando crédito na hora, pode somar ao seu faturamento.</p>
-
-            <div class="roi-profile" role="tablist" aria-label="Selecione seu perfil">
-                <button type="button" class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria">
-                    <span class="roi-profile-icon">🏢</span>
-                    <span class="roi-profile-title">Imobiliária</span>
-                </button>
-                <button type="button" class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora">
-                    <span class="roi-profile-icon">🏗️</span>
-                    <span class="roi-profile-title">Incorporadora</span>
-                </button>
-                <button type="button" class="roi-profile-btn" data-profile="corretor" data-track="roi_profile_corretor">
-                    <span class="roi-profile-icon">👤</span>
-                    <span class="roi-profile-title">Corretor autônomo</span>
-                </button>
-            </div>
-        </div>
-
-        <div class="roi-simple">
-            <div class="roi-simple-inputs">
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiLeads">Leads por mês</label><span class="roi-field-val" id="roiLeadsVal">120</span></div>
-                    <input type="range" id="roiLeads" min="10" max="1000" step="10" value="120">
-                </div>
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiTicket">Ticket médio do imóvel</label><span class="roi-field-val" id="roiTicketVal">R$ 450.000</span></div>
-                    <input type="range" id="roiTicket" min="100000" max="3000000" step="10000" value="450000">
-                </div>
-                <div class="roi-field">
-                    <div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Comissão / margem</span></label><span class="roi-field-val" id="roiMarginVal">5%</span></div>
-                    <input type="range" id="roiMargin" min="1" max="30" step="0.5" value="5">
-                </div>
-            </div>
-
-            <div class="roi-simple-result">
-                <div class="roi-result-label">Faturamento extra estimado com a Sofia</div>
-                <div class="roi-result-big" id="roiResultBig">R$ 0</div>
-                <div class="roi-result-per">por mês · <span id="roiResultYear">R$ 0</span> por ano</div>
-                <div class="roi-result-compare" id="roiResultCompare"></div>
-                <a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" class="roi-result-cta" target="_blank" rel="noopener" data-track="cta_roi">Testar grátis por 14 dias</a>
-            </div>
-        </div>
-
-        <details class="roi-assumptions">
-            <summary>Ver premissas do cálculo</summary>
-            <div class="roi-assumptions-body">
-                <p><strong>Metodologia:</strong> partimos da conversão típica de mercado (6%) e projetamos a conversão com a Sofia atendendo em segundos, 24×7, com simulação de crédito. O ganho é a diferença entre as duas conversões, aplicada ao seu volume de leads, ticket e margem.</p>
-                <div class="roi-scenario" role="tablist" aria-label="Cenário de conversão da Sofia">
-                    <span class="roi-scenario-label">Conversão estimada com a Sofia:</span>
-                    <div class="roi-scenario-btns" id="roiScenario">
-                        <button type="button" data-scen="conservador" class="active" data-track="roi_scen_conservador">Conservador <em>12%</em></button>
-                        <button type="button" data-scen="realista" data-track="roi_scen_realista">Realista <em>15%</em></button>
-                        <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Otimista <em>18%</em></button>
-                    </div>
-                </div>
-                <p class="roi-formula">Cálculo: leads × (conversão Sofia − 6%) × ticket × margem = ganho mensal.</p>
-            </div>
-        </details>
-
-        <p class="roi-disclaimer">Estimativa referencial. Resultados variam conforme localização, mix de produto, qualidade do lead e maturidade comercial. Não constitui garantia contratual.</p>
-    </div>
-</section>
-
 <!-- COMPARATIVO -->
 <section class="compare" id="comparar">
     <div class="compare-inner">
