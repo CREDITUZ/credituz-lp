@@ -310,15 +310,14 @@ footer { background: var(--ink); color: rgba(255,255,255,.6); padding: 56px 0 30
                 </div>
 
                 <div class="sim-field">
-                    <div class="top"><label>Plano de licenciamento Credituz</label><span class="val" id="vTier">Pro</span></div>
+                    <div class="top"><label>Plano de licenciamento Credituz</label><span class="val" id="vTier">Credituz</span></div>
                     <div class="sim-toggle" id="tier">
-                        <button data-tier="growth" data-cost="149">Growth</button>
-                        <button data-tier="pro" data-cost="299" class="active">Pro</button>
-                        <button data-tier="business" data-cost="649">Business</button>
+                        <button data-tier="credituz" data-cost="149" class="active">Credituz</button>
+                        <button data-tier="enterprise" data-cost="649">Enterprise</button>
                     </div>
                 </div>
 
-                <p class="sim-base">Base de licenciamento (custo por cliente, valores de referência): Growth R$ 149 · Pro R$ 299 · Business R$ 649 por cliente/mês. Ajuste conforme o seu contrato de parceria.</p>
+                <p class="sim-base">Base de licenciamento (custo por cliente, valores de referência): plano Credituz R$ 149 · Enterprise a partir de R$ 649 por cliente/mês. Ajuste conforme o seu contrato de parceria.</p>
             </div>
 
             <div class="sim-result">
@@ -388,9 +387,7 @@ footer { background: var(--ink); color: rgba(255,255,255,.6); padding: 56px 0 30
                 <tr><th>Plano</th><th>Preço de tabela Credituz</th><th>Seu custo (licenciamento)</th><th>Sua margem</th></tr>
             </thead>
             <tbody>
-                <tr><td>Growth</td><td>R$ 297/mês</td><td>R$ 149/mês</td><td class="margin-cell">99%</td></tr>
-                <tr><td>Pro</td><td>R$ 597/mês</td><td>R$ 299/mês</td><td class="margin-cell">100%</td></tr>
-                <tr><td>Business</td><td>R$ 1.297/mês</td><td>R$ 649/mês</td><td class="margin-cell">100%</td></tr>
+                <tr><td>Credituz</td><td>R$ 297/mês</td><td>R$ 149/mês</td><td class="margin-cell">99%</td></tr>
                 <tr><td>Enterprise</td><td>a partir de R$ 3.497/mês</td><td>sob contrato</td><td class="margin-cell">negociável</td></tr>
             </tbody>
         </table>
@@ -514,7 +511,7 @@ window.addEventListener('scroll', () => {
     const clientsEl = document.getElementById('clients');
     const priceEl = document.getElementById('price');
     const tierGroup = document.getElementById('tier');
-    let cost = 299;
+    let cost = 149;
 
     function compute() {
         const clients = +clientsEl.value;
@@ -548,7 +545,7 @@ window.addEventListener('scroll', () => {
             tierGroup.querySelectorAll('button').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             cost = +btn.dataset.cost;
-            const names = { growth: 'Growth', pro: 'Pro', business: 'Business' };
+            const names = { credituz: 'Credituz', enterprise: 'Enterprise' };
             document.getElementById('vTier').textContent = names[btn.dataset.tier];
             compute();
         });
