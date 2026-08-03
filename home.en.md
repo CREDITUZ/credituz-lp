@@ -1,6 +1,6 @@
-# Credituz — The AI platform for real estate (from lead to keys)
+# Credituz — The AI platform for real estate credit, finance and management
 
-> Credituz is a Brazilian AI-First platform for the real estate market. It combines CRM, AI SDR on WhatsApp, multi-bank credit simulation, digital contracts, automated billing, invoice (NFe) issuance and management, all in a single platform. It serves developers, real estate agencies, independent brokers, construction companies, land developers and banking correspondents (CORBANs).
+> Credituz is a Brazilian AI-First platform for the real estate market. It combines multi-bank credit origination, CRM, digital contracts, automated collection flows, invoice (NFe) issuance and portfolio management, all in a single platform. It serves developers, real estate agencies, independent brokers, construction companies, land developers and banking correspondents (CORBANs).
 
 - Canonical: https://www.credituz.ai/
 - Language: en-US
@@ -10,11 +10,11 @@
 
 ## What is Credituz?
 
-Credituz is an AI-native software platform (SaaS) for the Brazilian real estate market. It automates the service, management, credit and contracts of a real estate operation, from the first lead to the handover of keys.
+Credituz is an AI-native software platform (SaaS) for the Brazilian real estate market. It automates the credit, contracts, collections and management of a real estate operation, from the simulation to the handover of keys.
 
 - **Official name**: Credituz
 - **Category**: AI-First platform for real estate (CRM + credit + contracts + management)
-- **Model**: Self-serve SaaS with a permanent free plan
+- **Model**: Self-serve SaaS with a single plan and a 30-day free trial
 - **Industries served**: developers, real estate agencies, independent brokers, construction companies, land developers, banking correspondents (CORBAN)
 - **Language**: Portuguese (PT-BR), serving the Brazilian market
 - **Official website**: https://www.credituz.ai
@@ -25,42 +25,40 @@ Homepage headline: "More deals closed. Less time wasted."
 
 Subtitle: "Credituz automates the service, management, credit and contracts of your real estate operation, so you can close deals instead of operating software."
 
-Entry promise: "Start at R$ 0. No 60-day implementation." Permanent free plan, no credit card, self-serve setup in 5 minutes.
+Entry promise: "Get started in 5 minutes. No 60-day implementation." Single plan at R$ 297/month with a 30-day free trial (card required at signup, first charge only after the trial), self-serve setup, self-serve cancellation and no lock-in on the monthly plan.
 
-Time to Value: first credit simulation in 30 seconds; first contract generated in 1 minute; Sofia (AI SDR) replying to leads in 5 seconds.
+Time to Value: first credit simulation in 30 seconds; first contract generated in 1 minute; account live with no implementation in 5 minutes.
 
 ## The 5 AI agents
 
-The platform is organized into five AI agents, each responsible for a stage of the real estate funnel:
+The platform is organized into four AI agents, each responsible for a stage of the operation:
 
-1. **Sofia — SDR Agent**: replies to leads on WhatsApp within seconds, 24x7. Qualifies, schedules visits, simulates financing and sends counteroffers in natural language.
-2. **Carlos — Credit Agent**: multi-bank simulation in under 30 seconds. Partner banks: Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte and CashMe.
-3. **Ana — AI Contracts**: generates legally valid proposals and digital contracts in under 1 minute; electronic signature.
-4. **Max — Post-sale Agent**: handles bank transfers, registry, construction measurements and technical support, from contract to key handover.
-5. **Iris — Analytics Agent**: analyzes what converts by channel, broker and development; natural-language reports with recommendations.
+1. **Carlos — Credit Agent**: multi-bank simulation in under 30 seconds. Partner banks: Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte and CashMe.
+2. **Ana — AI Contracts**: generates legally valid proposals and digital contracts in under 1 minute; electronic signature.
+3. **Max — Post-sale Agent**: handles bank transfers, registry, construction measurements and technical support, from contract to key handover.
+4. **Iris — Analytics Agent**: analyzes credit approval by bank, financed ticket, time to signing, portfolio defaults and productivity per broker; natural-language reports with recommendations.
 
 ## The problem Credituz solves
 
-- 70% of real estate leads are abandoned before the 5th contact.
-- 78% of customers buy from the first company that responds (Harvard Business Review study of 2,241 companies; responding within 5 minutes makes a lead 100x more likely to convert than responding within 30 minutes; the market's average response time is 47 hours).
+- When the buyer closes the financing directly at the bank, the origination commission, which is revenue, goes to the bank manager.
+- Collections usually live in a spreadsheet and are only reviewed at month-end, with no cadence, automatic reconciliation or cash forecast.
 - Real estate financing takes, on average, more than 30 days.
 - Operations pay over R$ 2,000 per month on separate tools (CRM, credit, signature, billing, invoicing, BI).
 
-Credituz integrates all of this into one platform, with AI from the first lead to the handover of keys.
+Credituz integrates all of this into one platform, with AI from the credit simulation to the handover of keys.
 
 ## Plans and pricing
 
-Credituz charges per plan (not per individual user) and has a permanent free plan.
+Credituz charges per operation (not per individual user) and has a single plan, plus an Enterprise tier for custom scope. Customers on the previous plans (Free, Starter, Growth, Pro and Business) keep the price and features they signed up for.
 
-- **Free — R$ 0/month (permanent)**: 500 CRM contacts, 1 user, credit CRM, sales landing page for 1 development, unlimited multi-bank simulation, 3 AI contracts/month, active credit origination.
-- **Starter — R$ 55/month (R$ 39 annual)**: 1 user, real estate + credit CRM with unlimited contacts, up to 50 developments and 50 landing pages, AI SDR on WhatsApp up to 30 clients/month, 10 AI contracts/month, digital registry offices.
-- **Pro — R$ 557/month (R$ 398 annual)**: small team, up to 5 brokers and 100 developments. Up to 2,000 CRM contacts, ZAP/OLX/VivaReal integration, AI SDR on WhatsApp up to 100 clients/month, 50 AI contracts/month, generative AI analytics.
-- **Business — R$ 1,117/month (R$ 798 annual)**: consolidated operation, up to 30 users and unlimited developments. Unlimited CRM contacts. AI SDR on WhatsApp up to 500 clients/month, 1,000 AI contracts/month, NFe at R$ 0.49/invoice, automated billing, included Asaas digital account, construction management, dedicated customer success.
-- **Enterprise — custom quote**: networks, holdings and large construction/development companies. Custom users, multi-company, custom AI contracts, custom Asaas digital accounts, White Label, public API, SSO, ISO/SOC2, 99.9% SLA, named CS and on-site onboarding.
+- **Credituz — R$ 297/month (R$ 211/month annual, 29% off), 30-day free trial**: the single plan for brokers, agencies and construction companies. Includes a sales portal on the customer's own domain, indexed on Google (with a page per property and per city) and a credit module embedded in the portal, Google Business Profile setup, real estate + credit CRM with unlimited contacts, 10 users, up to 100 developments and 100 landing pages, ZAP/OLX/VivaReal integration with two-way sync, AI base reactivation, unlimited AI contracts with digital registry offices, unlimited multi-bank simulation, generative AI analytics, human chat support and 20 GB of storage. On credit origination, the customer keeps 40% of the commission.
+- **Enterprise — custom pricing (annual contract)**: networks, holdings, developers and construction companies with their own financial operation. Everything in the Credituz plan, plus unlimited users, developments and contracts, multi-company, 60% of the origination commission, real estate operation management (construction, transfers and post-sale), automated and custom billing, NFe at R$ 0.49/invoice, Credituz by Asaas accounts or the customer's own bank via API, boleto/Pix/payment links, White Label, public API, channel manager, SSO, audit, 99.9% SLA, named CS and custom storage.
+
+The 30-day trial applies to the R$ 297 plan; Enterprise starts with a guided demo instead. There is no lock-in on the monthly plan, only on the annual one, which trades a 12-month commitment for a 29% discount.
 
 ## How Credituz compares to competitors
 
-Credituz differentiates itself from systems like Sienge, Kenlo, CV CRM and Morada.ai by: having a permanent free plan (which competitors lack), self-serve setup in 5 minutes (versus 30 to 60-day implementations), native AI (not bolted on top), and embedded credit origination. It combines CRM, credit, contracts, billing, invoicing and management in a single platform, instead of charging for each module separately.
+Credituz differentiates itself from systems like Sienge, Kenlo, CV CRM and Morada.ai by: pricing a single plan that includes the whole platform instead of selling each module separately, self-serve setup in 5 minutes (versus 30 to 60-day implementations), native AI (not bolted on top), and embedded credit origination. It combines CRM, credit, contracts, billing, invoicing and management in a single platform, instead of charging for each module separately.
 
 ## Contact and site
 

@@ -6,7 +6,7 @@
       "@id": "https://www.credituz.ai/#organization",
       "name": "Credituz",
       "url": "https://www.credituz.ai",
-      "description": "Plataforma AI-First para o mercado imobiliário brasileiro: CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão. Do primeiro lead à entrega das chaves.",
+      "description": "Plataforma AI-First para o mercado imobiliário brasileiro: CRM, originação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão da carteira. Da simulação à entrega das chaves.",
       "foundingDate": "2024",
       "areaServed": {
         "@type": "Country",
@@ -31,54 +31,35 @@
       "name": "Credituz",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "Plataforma com IA para o mercado imobiliário que automatiza atendimento, gestão, crédito e contratos, do lead à entrega das chaves. Reúne CRM, SDR AI no WhatsApp, simulação multibancos, contratos digitais, régua de cobrança e NFe.",
+      "description": "Plataforma com IA para o mercado imobiliário que origina crédito, gera contratos, cobra e administra a carteira, da simulação à entrega das chaves. Reúne CRM, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão financeira.",
       "publisher": {
         "@id": "https://www.credituz.ai/#organization"
       },
       "featureList": [
+        "Portal de vendas em domínio próprio indexado no Google",
+        "Módulo de crédito embutido no portal de vendas",
+        "Originação de crédito embarcada (agente Carlos)",
+        "Simulação de crédito multibancos",
         "CRM imobiliário e de crédito",
-        "SDR com IA no WhatsApp (agente Sofia)",
-        "Simulação de crédito multibancos (agente Carlos)",
         "Contratos digitais com IA (agente Ana)",
-        "Gestão de pós-venda, obras e repasses (agente Max)",
-        "Analytics generativo (agente Iris)",
-        "Régua de cobrança automatizada",
-        "Emissão de NFe",
-        "Originação de crédito embarcada"
+        "Régua de cobrança automatizada em WhatsApp, SMS e e-mail (agente Max)",
+        "Baixa automática, conciliação e emissão de NFe",
+        "Gestão da operação imobiliária: obras, pós-venda e repasses (agente Max)",
+        "Analytics de crédito e carteira (agente Iris)"
       ],
       "offers": [
         {
           "@type": "Offer",
-          "name": "Free",
-          "price": "0",
+          "name": "Credituz",
+          "price": "297",
           "priceCurrency": "BRL",
-          "description": "Plano gratuito permanente: 500 contatos no CRM, 1 usuário, CRM de crédito, simulação multi-banco ilimitada, 3 contratos com IA/mês."
-        },
-        {
-          "@type": "Offer",
-          "name": "Starter",
-          "price": "55",
-          "priceCurrency": "BRL",
-          "description": "1 usuário, CRM imobiliário + crédito, até 50 empreendimentos, contatos no CRM ilimitados, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês."
-        },
-        {
-          "@type": "Offer",
-          "name": "Pro",
-          "price": "557",
-          "priceCurrency": "BRL",
-          "description": "Até 5 usuários e 100 empreendimentos, até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI até 100 clientes/mês, 50 contratos com IA/mês, analytics IA."
-        },
-        {
-          "@type": "Offer",
-          "name": "Business",
-          "price": "1117",
-          "priceCurrency": "BRL",
-          "description": "Até 30 usuários, empreendimentos ilimitados, contatos no CRM ilimitados, SDR AI até 500 clientes/mês, 1.000 contratos com IA/mês, NFe, régua de cobrança, conta Asaas, gestão de obras."
+          "description": "Plano único: portal de vendas em domínio próprio com módulo de crédito embutido, Google Meu Negócio configurado, CRM imobiliário e de crédito com contatos ilimitados, 10 usuários, integração ZAP/OLX/VivaReal, contratos com IA ilimitados, simulação multibancos ilimitada, analytics IA e 40% da comissão de originação de crédito. 30 dias grátis."
         },
         {
           "@type": "Offer",
           "name": "Enterprise",
-          "description": "Sob consulta: usuários e contratos customizados, multi-empresa, White Label, API, SSO, ISO/SOC2, SLA 99,9%."
+          "priceCurrency": "BRL",
+          "description": "Preço customizado, contrato anual: tudo do plano Credituz, mais usuários e contratos ilimitados, multi-empresa, 60% da comissão de originação, gestão da operação imobiliária, régua de cobrança customizada, NFe, contas Asaas ou banco via API, White Label, API pública, SSO e SLA 99,9%."
         }
       ]
     },
@@ -101,7 +82,7 @@
           "name": "Quanto custa começar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Zero. O plano Free é gratuito para sempre, sem cartão de crédito. A Sofia (SDR AI) entra a partir do plano Pro."
+            "text": "R$ 297 por mês, com os primeiros 30 dias grátis. É um plano único, com a plataforma inteira: CRM, agentes de IA, simulação multibancos, contratos, portal de vendas no domínio do cliente e originação de crédito. O cartão é pedido no cadastro, mas a primeira cobrança só acontece depois dos 30 dias e o cancelamento é self-serve."
           }
         },
         {
@@ -109,7 +90,7 @@
           "name": "Como a Credituz ganha dinheiro?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Por duas fontes: mensalidade dos planos pagos (Starter, Pro, Business, Enterprise) e comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado."
+            "text": "Por duas fontes: a mensalidade do plano e a comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado. Essa comissão é dividida com o cliente: 40% no plano de R$ 297 e 60% no Enterprise."
           }
         },
         {
@@ -117,7 +98,7 @@
           "name": "Funciona com meu CRM atual?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sim. A Credituz importa contatos em 1 clique. A integração nativa com ZAP, OLX e VivaReal está disponível a partir do plano Pro."
+            "text": "Sim. A Credituz importa contatos em 1 clique e a integração nativa com ZAP, OLX e VivaReal já vem inclusa no plano, com sync bidirecional."
           }
         },
         {

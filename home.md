@@ -1,6 +1,6 @@
-# Credituz — A plataforma com IA para o mercado imobiliário (do lead à entrega das chaves)
+# Credituz — A plataforma com IA de crédito, finanças e gestão imobiliária
 
-> A Credituz é uma plataforma brasileira AI-First para o mercado imobiliário. Reúne CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, emissão de NFe e gestão, em uma única plataforma. Atende incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras e correspondentes bancários (CORBANs).
+> A Credituz é uma plataforma brasileira AI-First para o mercado imobiliário. Reúne originação de crédito multibancos, CRM, contratos digitais, régua de cobrança, emissão de NFe e gestão da carteira, em uma única plataforma. Atende incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras e correspondentes bancários (CORBANs).
 
 - Canonical: https://www.credituz.ai/
 - Language: pt-BR
@@ -10,7 +10,7 @@
 
 ## O que é a Credituz?
 
-A Credituz é uma plataforma de software (SaaS) com inteligência artificial nativa para o mercado imobiliário brasileiro. Automatiza o atendimento, a gestão, o crédito e os contratos de uma operação imobiliária, do primeiro lead até a entrega das chaves.
+A Credituz é uma plataforma de software (SaaS) com inteligência artificial nativa para o mercado imobiliário brasileiro. Automatiza o crédito, os contratos, a cobrança e a gestão de uma operação imobiliária, da simulação até a entrega das chaves.
 
 - **Nome oficial**: Credituz
 - **Categoria**: Plataforma AI-First para mercado imobiliário (CRM + crédito + contratos + gestão)
@@ -21,43 +21,40 @@ A Credituz é uma plataforma de software (SaaS) com inteligência artificial nat
 
 ## Posicionamento
 
-Título da home: "Leads atendidos em 5 segundos. Financiamento simulado em 30."
+Título da home: "A única plataforma de IA que conecta corretores, imobiliárias e incorporadoras ao crédito, com o CORBAN AI da Credituz."
 
-Subtítulo: "A Sofia atende seu lead no WhatsApp, qualifica com crédito pré-aprovado em 10 bancos e entrega o cliente pronto para a visita. Sem chatbot genérico. Sem alimentar sistema."
+Subtítulo: "O CORBAN AI é o correspondente bancário digital da Credituz: simula em vários bancos, aprova mais rápido e contrata o financiamento dentro da própria plataforma. Crédito, contratos, cobrança e gestão em um só lugar."
 
-Promessa de entrada: "Comece em R$ 0. Sem implantação de 60 dias." Plano gratuito permanente (sem agentes de IA), sem cartão de crédito, setup self-serve em 5 minutos. Todos os planos pagos, exceto o Enterprise, têm 14 dias grátis para testar os agentes de IA.
+Promessa de entrada: "Comece em 5 minutos. Sem implantação de 60 dias." Plano único de R$ 297/mês com 30 dias grátis (cartão pedido no cadastro, primeira cobrança só depois do período de teste), setup self-serve, cancelamento pela própria plataforma e sem fidelidade no mensal.
 
-Tempo até valor (Time to Value): primeira simulação de crédito em 30 segundos; primeiro contrato gerado em 1 minuto; Sofia (SDR AI) respondendo leads em 5 segundos.
+Tempo até valor (Time to Value): primeira simulação de crédito em 30 segundos; primeiro contrato gerado em 1 minuto; conta ativa e sem implantação em 5 minutos.
 
 ## Os 5 agentes de IA da Credituz
 
-A plataforma é organizada em cinco agentes de IA, cada um responsável por uma etapa do funil imobiliário:
+A plataforma é organizada em quatro agentes de IA, cada um responsável por uma etapa da operação:
 
-1. **Sofia — Agente SDR**: atende leads no WhatsApp em segundos, 24x7. Qualifica, agenda visitas, simula financiamento e envia contraproposta em linguagem natural.
-2. **Carlos — Agente de Crédito**: simulação multibancos em menos de 30 segundos. Bancos parceiros: Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe.
-3. **Ana — Contratos com IA**: gera proposta e contrato digital com validade jurídica em menos de 1 minuto; assinatura eletrônica.
-4. **Max — Agente de Pós-venda**: cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico, do contrato à entrega das chaves.
-5. **Iris — Agente de Analytics**: analisa o que converte por canal, corretor e empreendimento; relatórios em linguagem natural com recomendações.
+1. **Carlos — Agente de Crédito**: simulação multibancos em menos de 30 segundos. Bancos parceiros: Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe.
+2. **Ana — Contratos com IA**: gera proposta e contrato digital com validade jurídica em menos de 1 minuto; assinatura eletrônica.
+3. **Max — Agente de Pós-venda**: cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico, do contrato à entrega das chaves.
+4. **Iris — Agente de Analytics**: analisa aprovação de crédito por banco, ticket financiado, prazo até a contratação, inadimplência da carteira e produtividade por corretor; relatórios em linguagem natural com recomendações.
 
 ## O problema que a Credituz resolve
 
-- 70% dos leads imobiliários são abandonados antes do 5º contato.
-- 78% dos clientes compram do primeiro que responde (estudo Harvard Business Review com 2.241 empresas; responder em 5 minutos torna o lead 100x mais provável de virar venda do que em 30 minutos; tempo médio de resposta do mercado é 47 horas).
+- Quando o comprador fecha o financiamento direto no banco, a comissão de originação, que é receita, fica com o gerente.
+- A cobrança costuma viver em planilha e só é revista no fechamento do mês, sem régua, baixa automática ou previsão de caixa.
 - O financiamento imobiliário leva, em média, mais de 30 dias.
 - Operações pagam mais de R$ 2 mil por mês em ferramentas separadas (CRM, crédito, assinatura, cobrança, NFe, BI).
 
-A Credituz integra tudo isso em uma plataforma, com IA do primeiro lead à entrega das chaves.
+A Credituz integra tudo isso em uma plataforma, com IA da simulação de crédito à entrega das chaves.
 
 ## Planos e preços
 
-A Credituz cobra por plano (não por usuário individual) e tem plano gratuito permanente. Clientes que assinaram antes da tabela vigente mantêm preço e funcionalidades do plano contratado.
+A Credituz tem um plano único, cobrado por operação (não por usuário individual), mais um plano Enterprise para escopo customizado. Clientes que assinaram os planos anteriores (Free, Starter, Growth, Pro e Business) mantêm preço e funcionalidades do plano contratado.
 
-- **Free — R$ 0/mês (permanente)**: corretor, imobiliária ou construtor testando a plataforma. 500 contatos no CRM, 1 usuário, CRM de crédito, LP de vendas para 1 empreendimento, simulação multi-banco ilimitada, 3 contratos com IA/mês, originação de crédito ativa. O plano Free não inclui os agentes de IA (Sofia), disponíveis nos planos pagos com 14 dias grátis.
-- **Starter — R$ 97/mês (R$ 69 no anual), 14 dias grátis**: corretor autônomo, mini-imobiliária ou pequeno construtor. 1 usuário, CRM imobiliário + crédito com contatos ilimitados, até 50 empreendimentos e 50 LPs, SDR AI no WhatsApp até 30 clientes/mês, 10 contratos com IA/mês, cartórios digitais.
-- **Growth — R$ 297/mês (R$ 211 no anual), 14 dias grátis**: imobiliária pequena, 2 a 3 corretores. Tudo do Starter mais 3 usuários, SDR AI no WhatsApp até 75 clientes/mês, integração ZAP/OLX/VivaReal, reativação de base com IA e 25 contratos com IA/mês.
-- **Pro — R$ 597/mês (R$ 424 no anual), 14 dias grátis**: equipe em crescimento, até 10 corretores e 100 empreendimentos. Até 2.000 contatos no CRM, integração ZAP/OLX/VivaReal, SDR AI no WhatsApp até 200 clientes/mês, 60 contratos com IA/mês, analytics IA-generativo.
-- **Business — R$ 1.297/mês (R$ 921 no anual), 14 dias grátis**: operação consolidada, até 30 usuários e empreendimentos ilimitados. Contatos no CRM ilimitados. SDR AI no WhatsApp até 600 clientes/mês, contratos com IA ilimitados, NFe a R$ 0,49/nota, régua de cobranças automatizada, conta digital Asaas inclusa, gestão de obras, customer success dedicado.
-- **Enterprise — a partir de R$ 3.497/mês (contrato anual)**: redes, holdings e grandes construtoras/incorporadoras. Usuários customizados, multi-empresa, contratos com IA customizados, contas digitais Asaas customizadas, White Label, API pública, SSO, ISO/SOC2, SLA 99,9%, CS nominal e onboarding presencial.
+- **Credituz — R$ 297/mês (R$ 211/mês no anual, 29% de desconto), 30 dias grátis**: plano único para corretor, imobiliária ou construtora. Inclui portal de vendas em domínio próprio indexado no Google (com página por imóvel e por cidade) e módulo de crédito embutido no portal, configuração do Google Meu Negócio, CRM imobiliário + CRM de crédito com contatos ilimitados, 10 usuários, até 100 empreendimentos e 100 LPs, integração ZAP/OLX/VivaReal com sync bidirecional, contratos com IA ilimitados com cartórios digitais, simulação multibancos ilimitada, analytics IA-generativo, suporte humano via chat e 20 GB de armazenamento. Na originação de crédito, o cliente fica com 40% da comissão.
+- **Enterprise — preço customizado (contrato anual)**: redes, holdings, incorporadoras e construtoras com operação financeira própria. Tudo do plano Credituz, mais usuários, empreendimentos e contratos ilimitados, multi-empresa (razões sociais), 60% da comissão de originação, gestão da operação imobiliária (obras, repasses e pós-venda), régua de cobrança automatizada e customizada, NFe a R$ 0,49/nota, contas Credituz by Asaas ou banco escolhido pelo cliente via API, boleto/Pix/link de pagamento, White Label, API pública, channel manager, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
+
+O teste de 30 dias vale para o plano de R$ 297; o Enterprise começa com demonstração guiada. Não há fidelidade no plano mensal, apenas no anual, que troca o compromisso de 12 meses por 29% de desconto.
 
 ## Locação e temporada
 
@@ -70,10 +67,10 @@ A Credituz se diferencia de sistemas como Sienge, Kenlo, CV CRM , Morada.ai e do
 ## Perguntas frequentes
 
 ### Quanto custa começar?
-Zero. O plano Free é gratuito para sempre, sem cartão de crédito, e não inclui os agentes de IA. A Sofia (SDR AI) entra a partir do plano Starter, e todos os planos pagos (exceto Enterprise) têm 14 dias grátis para testar os agentes.
+R$ 297 por mês, com 30 dias grátis. É um plano único com a plataforma inteira, incluindo os agentes de IA, a régua de cobrança, o portal de vendas e a originação de crédito. O cartão é pedido no cadastro para liberar o acesso completo, mas a primeira cobrança só acontece depois dos 30 dias e o cancelamento é self-serve.
 
 ### Como a Credituz ganha dinheiro?
-Por duas fontes: mensalidade dos planos pagos (Starter, Pro, Business, Enterprise) e comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado.
+Por duas fontes: a mensalidade do plano e a comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado. Essa comissão é dividida com o cliente: 40% no plano de R$ 297 e 60% no Enterprise.
 
 ### Funciona com meu CRM atual?
 Sim. A Credituz importa contatos em 1 clique. A integração nativa com ZAP, OLX e VivaReal está disponível a partir do plano Pro.
