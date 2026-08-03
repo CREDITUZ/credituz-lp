@@ -33,7 +33,7 @@ Tempo até valor (Time to Value): primeira simulação de crédito em 30 segundo
 
 A plataforma é organizada em quatro agentes de IA, cada um responsável por uma etapa da operação:
 
-1. **Carlos — Agente de Crédito**: simulação multibancos em menos de 30 segundos. Bancos parceiros: Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe.
+1. **Carlos — Agente de Crédito**: simulação multibancos em menos de 30 segundos. Bancos parceiros: Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe.
 2. **Ana — Contratos com IA**: gera proposta e contrato digital com validade jurídica em menos de 1 minuto; assinatura eletrônica.
 3. **Max — Agente de Pós-venda**: cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico, do contrato à entrega das chaves.
 4. **Iris — Agente de Analytics**: analisa aprovação de crédito por banco, ticket financiado, prazo até a contratação, inadimplência da carteira e produtividade por corretor; relatórios em linguagem natural com recomendações.

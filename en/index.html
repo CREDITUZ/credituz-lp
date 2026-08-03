@@ -4320,7 +4320,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <details class="roi-assumptions">
             <summary>See calculation assumptions</summary>
             <div class="roi-assumptions-body">
-                <p><strong>Methodology:</strong> we start from the sales you already close and estimate how many of them get financed inside your operation. On the financed amount (assumed at <strong>70% of the ticket</strong>) we apply the average commission a bank pays the correspondent (<strong>1.2%</strong>) and, on top of that, your share: 40% on the R$ 297 plan and 60% on Enterprise.</p>
+                <p><strong>Methodology:</strong> we start from the sales you already close and estimate how many of them get financed inside your operation. On the financed amount (assumed at <strong>70% of the ticket</strong>) we apply the average commission a bank pays the correspondent (<strong>1%</strong>) and, on top of that, your share: 40% on the R$ 297 plan and 60% on Enterprise. In practice, your revenue is <strong>0.4% of the financed amount</strong> on the plan and <strong>0.6% on Enterprise</strong>.</p>
                 <div class="roi-scenario" role="tablist" aria-label="Share of sales financed in the operation">
                     <span class="roi-scenario-label">Sales financed inside the operation:</span>
                     <div class="roi-scenario-btns" id="roiScenario">
@@ -4329,7 +4329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <button type="button" data-scen="otimista" data-track="roi_scen_otimista">Optimistic <em>80%</em></button>
                     </div>
                 </div>
-                <p class="roi-formula">Formula: sales × % financed × (ticket × 70%) × 1.2% commission × your share = monthly revenue.</p>
+                <p class="roi-formula">Formula: sales × % financed × (ticket × 70%) × 1% commission × your share = monthly revenue.</p>
             </div>
         </details>
 
@@ -4592,9 +4592,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="donut-wrap">
                                     <div class="donut" style="background:conic-gradient(#9bd11a 0 46%, #0b63d6 46% 73%, #d94f00 73% 90%, #e8e5dc 90% 100%)"></div>
                                     <div class="legend">
-                                        <div><span class="sw" style="background:#9bd11a"></span>Caixa · 46% approved</div>
-                                        <div><span class="sw" style="background:#0b63d6"></span>Itaú · 27% approved</div>
-                                        <div><span class="sw" style="background:#d94f00"></span>Bradesco · 17% approved</div>
+                                        <div><span class="sw" style="background:#9bd11a"></span>Itaú · 46% approved</div>
+                                        <div><span class="sw" style="background:#0b63d6"></span>Bradesco · 27% approved</div>
+                                        <div><span class="sw" style="background:#d94f00"></span>Santander · 17% approved</div>
                                         <div><span class="sw" style="background:#e8e5dc"></span>Other</div>
                                     </div>
                                 </div>
@@ -4619,9 +4619,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="feature large">
             <div class="feature-num">01 / Carlos · Agente de Crédito</div>
             <h3>Multi-bank simulation in under 30 seconds.</h3>
-            <p>Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe. The client gets the best rate, and you close the financing with no rework.</p>
+            <p>Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe. The client gets the best rate, and you close the financing with no rework.</p>
             <div class="feature-demo">
-                <div class="row"><span>Caixa</span><span>9,99% a.a.</span></div>
+                <div class="row"><span>Santander</span><span>10,15% a.a.</span></div>
                 <div class="row"><span>Itaú</span><span>10,49% a.a.</span></div>
                 <div class="row best"><span>→ Bradesco</span><span>9,80% a.a.</span></div>
             </div>
@@ -5247,7 +5247,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="trust-marquee" aria-label="Logos de bancos parceiros">
             <div class="trust-track">
                 <img class="trust-logo" src="../assets/banks/bradesco.svg" alt="Bradesco" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Bradesco</span>'">
-                <img class="trust-logo" src="../assets/banks/caixa.svg" alt="Caixa" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Caixa</span>'">
                 <img class="trust-logo" src="../assets/banks/santander.svg" alt="Santander" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Santander</span>'">
                 <img class="trust-logo" src="../assets/banks/inter.svg" alt="Inter" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Inter</span>'">
                 <img class="trust-logo" src="../assets/banks/itau.png" alt="Itaú" loading="lazy" onerror="this.outerHTML='<span class=&quot;trust-chip&quot;>Itaú</span>'">
@@ -5259,7 +5258,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="trust-track" aria-hidden="true">
                 <img class="trust-logo" src="../assets/banks/bradesco.svg" alt="" loading="lazy">
-                <img class="trust-logo" src="../assets/banks/caixa.svg" alt="" loading="lazy">
                 <img class="trust-logo" src="../assets/banks/santander.svg" alt="" loading="lazy">
                 <img class="trust-logo" src="../assets/banks/inter.svg" alt="" loading="lazy">
                 <img class="trust-logo" src="../assets/banks/itau.png" alt="" loading="lazy">
@@ -5522,7 +5520,8 @@ function essentialCookies() {
     if (!$('roiLeads')) return;
 
     const LTV = 0.70;            // parcela do ticket que costuma ser financiada
-    const BANK_FEE = 0.012;      // comissão média paga pelo banco ao correspondente
+    const BANK_FEE = 0.01;       // comissão média paga pelo banco ao correspondente
+                                 // fatia do cliente: 40% = 0,4% do financiado | 60% = 0,6%
     const SCENARIOS = { conservador: 0.40, realista: 0.60, otimista: 0.80 }; // vendas financiadas na operação
     const PLAN_PRICE = 297;
     let scenario = 'conservador';

@@ -33,7 +33,7 @@ Time to Value: first credit simulation in 30 seconds; first contract generated i
 
 The platform is organized into four AI agents, each responsible for a stage of the operation:
 
-1. **Carlos — Credit Agent**: multi-bank simulation in under 30 seconds. Partner banks: Caixa, Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte and CashMe.
+1. **Carlos — Credit Agent**: multi-bank simulation in under 30 seconds. Partner banks: Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte and CashMe.
 2. **Ana — AI Contracts**: generates legally valid proposals and digital contracts in under 1 minute; electronic signature.
 3. **Max — Post-sale Agent**: handles bank transfers, registry, construction measurements and technical support, from contract to key handover.
 4. **Iris — Analytics Agent**: analyzes credit approval by bank, financed ticket, time to signing, portfolio defaults and productivity per broker; natural-language reports with recommendations.
