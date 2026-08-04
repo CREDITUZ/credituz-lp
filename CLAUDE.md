@@ -10,7 +10,9 @@ Site estático da Credituz (`credituz.ai`): landing page, páginas de segmento, 
 
 ```bash
 # Servir localmente (qualquer servidor estático serve; os links usam caminhos absolutos "/...")
-python3 -m http.server 8000        # → http://localhost:8000
+# O http.server manda .md sem charset e o navegador assume latin-1 (acento vira mojibake);
+# a producao serve "text/markdown; charset=utf-8" corretamente.
+python3 -c "import http.server,socketserver as s;h=http.server.SimpleHTTPRequestHandler;h.extensions_map['.md']='text/markdown; charset=utf-8';s.TCPServer(('',8000),h).serve_forever()"
 
 # Rodar a tradução PT→EN localmente (requer chave DeepL)
 pip install beautifulsoup4
@@ -58,7 +60,25 @@ O script preserva HTML, scripts, estilos e URLs; traduz apenas nós de texto, `t
 
 ### Design system (replicado por arquivo, não compartilhado)
 
-Não há CSS externo — cada página redeclara suas variáveis em `:root`. A paleta é consistente: `--ink #0a0a0a`, `--paper #fafaf7`, `--lime #c4f352`, `--lime-deep #9bd11a`, `--rust`, escala `--gray-1..3`. Fontes: Fraunces (títulos), Geist (LP), Newsreader (artigos), JetBrains Mono (eyebrows/meta). Ao criar uma página nova, copie o bloco `:root` + reset de uma página existente do mesmo tipo (LP ou artigo).
+Não há CSS externo — cada página redeclara suas variáveis em `:root`. Ao criar uma página nova, copie o bloco `:root` + reset de uma página existente do mesmo tipo (LP ou artigo).
+
+**Todo o site em PT já roda o DNA de `correspondente.credituz.ai`** (documentado em `DESIGN.md`): superfícies quase brancas, um único acento azul, cenas pretas de contraste e tipografia do sistema — **nenhuma página carrega Google Fonts**. Os nomes de token `--lime`/`--lime-deep`/`--rust` foram mantidos para não reescrever as ~4.000 linhas que os consomem, mas **os valores são azuis** (`#0071e3` / `#0066cc`). Sobre cena escura o acento é `--accent-bright #6bb2ff`, porque `#0071e3` não lê no preto; `--warn`/`--bad` cobrem o que era semanticamente negativo. O wordmark é `assets/logo-credituz.png` (`-branco.png` sobre fundo escuro), não mais texto.
+
+Os 132 arquivos compartilham **6 blocos de CSS distintos**, cada um replicado byte a byte dentro do seu grupo. Ao editar o estilo de um grupo, replique nos demais arquivos dele:
+
+| Bloco | Arquivos |
+|---|---|
+| LP | `index.html` |
+| segmento | `pages/{incorporadoras,imobiliarias,seja-parceiro,locacao-temporada}.html` |
+| interna | `pages/{integracoes,termos,privacidade,dpo,uso-aceitavel}.html` |
+| artigo | os 119 `pages/artigos/*.html` (idêntico nos 119) |
+| blog | `pages/blog.html` |
+| glossário | `pages/glossario.html` |
+| white label | `white-label.html` |
+
+`en/**` é gerado e herda o estilo do PT no próximo push (ver Internacionalização).
+
+**Navbar adaptativa.** Toda página tem, antes de `</body>`, um script que inverte a nav (`.on-dark`) quando a faixa dela cobre uma seção escura. A detecção lê a **luminância do fundo computado** de cada `section`/`footer`/`header`, então seção escura nova funciona sozinha; para forçar, use `data-nav-dark` no elemento. Cada bloco de CSS traz as regras `nav.on-dark` correspondentes (fundo `rgba(29,29,31,.72)`, logo invertida por `filter: brightness(0) invert(1)`, CTA em branco).
 
 ### Tracking
 

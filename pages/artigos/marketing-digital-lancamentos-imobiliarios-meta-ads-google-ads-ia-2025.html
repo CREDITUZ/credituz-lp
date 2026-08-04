@@ -9,73 +9,81 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="Marketing Digital para Lançamentos Imobiliários: Meta Ads, Google Ads e IA em 2025">
 <meta property="og:description" content="Descubra como Meta Ads, Google Ads e IA impulsionam lançamentos imobiliários em 2025. Estratégias de marketing digital para incorporadoras.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
-    --ink: #1a1a1a; --paper: #fafaf7; --paper-warm: #f3f1ea;
-    --gray-1: #2e2e2e; --gray-2: #595959; --gray-3: #8a8a8a;
-    --gray-soft: #e4e1d8; --lime: #c4f352; --lime-deep: #9bbf3a; --rust: #c1502e;
+    /* DNA de correspondente.credituz.ai — ver DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
 html { scroll-behavior:smooth; }
-body { background:var(--paper); color:var(--ink); font-family:'Newsreader',Georgia,serif; font-size:20px; line-height:1.7; -webkit-font-smoothing:antialiased; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
 .reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
-.nav { position:sticky; top:0; background:rgba(250,250,247,0.85); backdrop-filter:blur(12px); border-bottom:1px solid var(--gray-soft); z-index:50; }
-.nav-inner { max-width:720px; margin:0 auto; padding:16px 24px; display:flex; align-items:center; justify-content:space-between; }
-.logo { font-family:'Fraunces',serif; font-size:20px; font-weight:600; color:var(--ink); text-decoration:none; display:inline-flex; align-items:baseline; gap:3px; }
-.logo-dot { width:7px; height:7px; background:var(--lime); border-radius:50%; display:inline-block; }
-.nav-back { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
 .nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
 .article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
-.article-meta { display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; margin-bottom:28px; font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-3); }
-.article-cat { background:var(--ink); color:var(--paper); padding:5px 12px; border-radius:100px; }
-.article h1.title { font-family:'Fraunces',serif; font-size:clamp(32px,5vw,46px); font-weight:600; line-height:1.12; letter-spacing:-0.02em; margin-bottom:20px; }
-.article-sub { font-size:23px; line-height:1.5; color:var(--gray-2); font-style:italic; margin-bottom:36px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
 .article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
-.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:var(--ink); display:flex; align-items:center; justify-content:center; font-family:'Fraunces',serif; font-weight:600; font-size:18px; }
-.author-info { font-family:'JetBrains Mono',monospace; font-size:12px; line-height:1.5; color:var(--gray-2); text-transform:uppercase; letter-spacing:0.04em; }
-.author-info strong { color:var(--ink); font-weight:500; display:block; }
-.body { font-size:20px; }
-.body h2 { font-family:'Fraunces',serif; font-size:30px; font-weight:600; line-height:1.2; letter-spacing:-0.015em; margin:48px 0 18px; }
-.body h3 { font-family:'Fraunces',serif; font-size:24px; font-weight:500; line-height:1.25; margin:36px 0 14px; }
-.body h4 { font-family:'JetBrains Mono',monospace; font-size:14px; text-transform:uppercase; letter-spacing:0.06em; color:var(--gray-2); margin:30px 0 12px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
 .body p { margin-bottom:24px; }
 .body ul, .body ol { margin:0 0 24px 26px; }
 .body li { margin-bottom:10px; }
-.body a { color:var(--rust); text-decoration:underline; text-underline-offset:2px; text-decoration-thickness:1px; }
-.body a:hover { color:var(--ink); }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
 .body strong { font-weight:600; color:var(--ink); }
-.body em { font-style:italic; }
-.body blockquote { border-left:3px solid var(--lime); padding:4px 0 4px 24px; margin:0 0 24px; font-style:italic; color:var(--gray-1); }
-.body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:4px; }
-.body pre { background:var(--ink); color:var(--paper); padding:20px; border-radius:12px; overflow-x:auto; margin-bottom:24px; }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
 .body pre code { background:none; padding:0; color:inherit; }
-.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-family:'Newsreader',serif; font-size:17px; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
 .body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
-.body th { font-family:'JetBrains Mono',monospace; font-size:12px; text-transform:uppercase; letter-spacing:0.04em; color:var(--gray-2); background:var(--paper-warm); }
-.body img { max-width:100%; height:auto; border-radius:12px; margin-bottom:24px; }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
 .body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
 .refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
-.refs h3 { font-family:'JetBrains Mono',monospace; font-size:13px; text-transform:uppercase; letter-spacing:0.08em; color:var(--gray-2); margin-bottom:16px; }
-.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); font-family:'Newsreader',serif; }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
 .refs li { margin-bottom:8px; }
-.refs a { color:var(--rust); word-break:break-word; }
-.cta-box { margin-top:56px; background:var(--ink); color:var(--paper); border-radius:24px; padding:40px; text-align:center; }
-.cta-box h3 { font-family:'Fraunces',serif; font-size:28px; font-weight:500; margin-bottom:12px; }
-.cta-box p { font-size:17px; color:rgba(250,250,247,0.7); margin-bottom:24px; font-family:'Newsreader',serif; }
-.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:var(--ink); padding:15px 32px; border-radius:100px; font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:500; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; transition:transform 0.15s; }
-.cta-btn:hover { transform:translateY(-2px); }
-.footer { border-top:1px solid var(--gray-soft); padding:40px 24px; text-align:center; font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--gray-3); text-transform:uppercase; letter-spacing:0.06em; }
-.footer a { color:var(--gray-2); text-decoration:none; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
 @media (max-width:600px) {
     body { font-size:18px; }
     .article { padding:40px 20px 60px; }
-    .article-sub { font-size:20px; }
+    .article-sub { font-size:19px; }
     .body { font-size:18px; }
-    .body h2 { font-size:25px; }
-    .cta-box { padding:28px 22px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
 }
 </style>
 </head>
@@ -83,7 +91,7 @@ body { background:var(--paper); color:var(--ink); font-family:'Newsreader',Georg
 <div class="reading-progress" id="progress"></div>
 <nav class="nav">
     <div class="nav-inner">
-        <a href="../blog.html" class="logo">Credituz<span class="logo-dot"></span></a>
+        <a href="../blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
         <a href="../blog.html" class="nav-back">← Todos os artigos</a>
     </div>
 </nav>
@@ -215,5 +223,63 @@ window.addEventListener('scroll', function() {
     document.getElementById('progress').style.width = (st / sh * 100) + '%';
 });
 </script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
 </body>
 </html>
