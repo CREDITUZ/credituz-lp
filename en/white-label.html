@@ -1,0 +1,628 @@
+html
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>White Label · Resell Credituz's AI-powered real estate platform</title>
+<meta content="Sell a complete platform featuring CRM, multi-bank credit simulation, digital contracts, and a billing schedule—all under your brand, with your domain, and at your own pricing. Generate recurring revenue with Credituz’s fixed licensing model." name="description"/>
+<link href="https://www.credituz.ai/white-label.html" rel="canonical"/>
+<meta content="website" property="og:type"/>
+<meta content="White Label · Resell Credituz's AI-powered real estate platform" property="og:title"/>
+<meta content="Your brand, your domain, your pricing. A turnkey AI-powered real estate platform, with a fixed monthly licensing fee." property="og:description"/>
+<meta content="https://www.credituz.ai/white-label.html" property="og:url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<style>:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f;
+    --paper: #ffffff;
+    --paper-warm: #f5f5f7;
+    --cream: #e8e8ed;
+    --lime: #0071e3;
+    --lime-deep: #0066cc;
+    --accent-bright: #6bb2ff;
+    --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3;
+    --good: #1d9d54;
+    --warn: #b25000;
+    --bad: #d70015;
+    --gray-1: #1d1d1f;
+    --gray-2: #6e6e73;
+    --gray-3: #86868b;
+    --gray-soft: #d2d2d7;
+    --void: #000000;
+    --slab: #0a0a0c;
+    --panel: #161617;
+    --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+    font-family: var(--font-sans);
+    letter-spacing: -0.01em;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+a { color: inherit; text-decoration: none; }
+em { font-style: normal; font-weight: 600; color: var(--lime); }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+.eyebrow {
+    font-family: var(--font-mono);
+    font-size: 15px; font-weight: 600; letter-spacing: -0.01em;
+    color: var(--lime);
+    display: inline-flex; align-items: center; gap: 10px;
+}
+
+h1, h2, h3 { font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.03em; line-height: 1.06; }
+.section-h2 { font-size: clamp(28px, 4vw, 44px); margin: 16px 0 14px; }
+.section-lead { font-size: 18px; color: var(--gray-2); max-width: 620px; }
+
+/* NAV */
+nav {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(255,255,255,.72); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px); transition: background-color .3s;
+    border-bottom: 1px solid transparent; transition: border-color .2s, box-shadow .2s;
+}
+nav.scrolled { border-bottom: 1px solid var(--gray-soft); box-shadow: 0 6px 24px rgba(10,10,10,.04); }
+.nav-inner { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; max-width: 1180px; margin: 0 auto; }
+.logo { display: inline-flex; align-items: center; transition: opacity .2s; }
+.logo:hover { opacity: .7; }
+.logo-mark { height: 24px; width: auto; display: block; }
+
+.nav-links { display: flex; align-items: center; gap: 28px; }
+.nav-links a.simple { font-size: 14.5px; font-weight: 500; color: var(--gray-2); transition: color .15s; }
+.nav-links a.simple:hover { color: var(--ink); }
+.nav-cta { background: var(--lime); color: #fff; padding: 11px 20px; border-radius: 100px; font-size: 14.5px; font-weight: 600; transition: transform .2s, background-color .2s; }
+.nav-cta:hover { transform: scale(1.02); background: var(--lime-deep); }
+.nav-toggle { display: none; width: 44px; height: 44px; flex-direction: column; justify-content: center; gap: 5px; background: transparent; border: 0; cursor: pointer; }
+.nav-toggle span { display: block; width: 22px; height: 2px; background: var(--ink); border-radius: 2px; }
+
+/* HERO */
+.hero { padding: 80px 0 64px; position: relative; }
+.hero-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 56px; align-items: center; }
+.hero h1 { font-size: clamp(40px, 6vw, 68px); font-weight: 400; margin: 22px 0 22px; }
+.hero h1 .ital { font-style: normal; }
+.hero h1 .rust { color: var(--lime); font-style: normal; }
+.hero-sub { font-size: 19px; color: var(--gray-2); max-width: 540px; margin-bottom: 30px; }
+.hero-sub strong { color: var(--ink); font-weight: 600; }
+.hero-ctas { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+.btn-primary { background: var(--lime); color: #fff; padding: 16px 30px; border-radius: 100px; font-size: 16px; font-weight: 600; transition: transform .15s, background .15s; }
+.btn-primary:hover { transform: scale(1.02); background: var(--lime-deep); }
+.btn-ghost { font-size: 16px; font-weight: 600; color: var(--ink); display: inline-flex; align-items: center; gap: 7px; }
+.btn-ghost .arr { transition: transform .15s; }
+.btn-ghost:hover .arr { transform: translateX(4px); }
+
+.hero-card {
+    background: var(--ink); color: var(--paper); border-radius: 24px; padding: 30px;
+    box-shadow: 0 30px 60px rgba(10,10,10,.18); position: relative;
+}
+.hero-card .browser-bar { display: flex; gap: 6px; margin-bottom: 18px; }
+.hero-card .browser-bar span { width: 11px; height: 11px; border-radius: 50%; background: rgba(255,255,255,.22); }
+.hero-card .yourbrand { font-family: var(--font-sans); font-weight: 700; font-size: 17px; opacity: .55; }
+.hero-card .yourbrand .blink { color: var(--accent-bright); }
+.hero-card .stack { margin-top: 18px; display: flex; flex-direction: column; gap: 10px; }
+.hero-card .row { display: flex; align-items: center; gap: 12px; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.08); border-radius: 12px; padding: 12px 14px; font-size: 13.5px; }
+.hero-card .row .ic { width: 30px; height: 30px; border-radius: 8px; background: var(--rust); display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 15px; }
+.hero-card .row .ic.lime { background: var(--lime-deep); }
+.hero-card .row .muted { color: rgba(255,255,255,.5); margin-left: auto; font-family: var(--font-mono); font-size: 11px; }
+.hero-card .tag { position: absolute; top: -14px; right: 22px; background: var(--lime); color: #fff; font-size: 12px; font-weight: 700; padding: 6px 14px; border-radius: 100px; box-shadow: 0 8px 18px rgba(0,0,0,.12); }
+
+/* STATS BAR */
+.statsbar { background: var(--ink); color: var(--paper); }
+.statsbar-inner { display: grid; grid-template-columns: repeat(4, 1fr); }
+.stat { padding: 34px 24px; text-align: center; border-right: 1px solid rgba(255,255,255,.08); }
+.stat:last-child { border-right: 0; }
+.stat .n { font-size: clamp(30px, 4vw, 44px); font-weight: 600; letter-spacing: -0.03em; line-height: 1; color: var(--accent-bright); font-variant-numeric: tabular-nums; }
+.stat .l { font-size: 13px; color: rgba(255,255,255,.6); margin-top: 8px; line-height: 1.35; }
+
+/* SIMULATOR */
+.sim { padding: 84px 0; background: var(--paper-warm); }
+.sim-head { text-align: center; max-width: 640px; margin: 0 auto 44px; }
+.sim-head .section-lead { margin: 0 auto; }
+.sim-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; align-items: stretch; }
+.sim-panel { background: var(--paper); border-radius: 22px; padding: 30px; }
+.sim-panel h3 { font-size: 22px; margin-bottom: 4px; }
+.sim-panel .sub { font-size: 14px; color: var(--gray-3); margin-bottom: 24px; }
+.sim-field { margin-bottom: 22px; }
+.sim-field .top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 9px; }
+.sim-field label { font-size: 14px; font-weight: 500; color: var(--gray-2); }
+.sim-field .val { font-family: var(--font-sans); font-size: 19px; font-weight: 600; color: var(--ink); }
+input[type=range] { -webkit-appearance: none; appearance: none; width: 100%; height: 5px; border-radius: 5px; background: var(--cream); outline: none; }
+input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 22px; height: 22px; border-radius: 50%; background: var(--ink); cursor: pointer; border: 3px solid var(--paper); box-shadow: 0 2px 8px rgba(0,0,0,.18); }
+input[type=range]::-moz-range-thumb { width: 22px; height: 22px; border-radius: 50%; background: var(--ink); cursor: pointer; border: 3px solid var(--paper); }
+.sim-toggle { display: flex; gap: 8px; }
+.sim-toggle button { flex: 1; border: 1px solid var(--gray-soft); background: transparent; border-radius: 12px; padding: 12px; font-family: var(--font-sans); font-size: 14px; font-weight: 600; color: var(--gray-2); cursor: pointer; transition: all .15s; }
+.sim-toggle button.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.sim-base { font-family: var(--font-mono); font-size: 11.5px; color: var(--gray-3); margin-top: 6px; line-height: 1.6; }
+
+.sim-result { background: var(--ink); color: var(--paper); border-radius: 22px; padding: 32px; display: flex; flex-direction: column; }
+.sim-result .rlabel { font-size: 14px; font-weight: 600; letter-spacing: -0.01em; color: rgba(255,255,255,.55); }
+.sim-result .rbig { font-size: clamp(40px, 6vw, 60px); font-weight: 600; letter-spacing: -0.035em; line-height: 1; color: var(--accent-bright); font-variant-numeric: tabular-nums; margin: 10px 0 4px; }
+.sim-result .rsub { font-size: 14px; color: rgba(255,255,255,.6); margin-bottom: 24px; }
+.sim-result .rline { display: flex; justify-content: space-between; padding: 12px 0; border-top: 1px solid rgba(255,255,255,.1); font-size: 14.5px; }
+.sim-result .rline span:first-child { color: rgba(255,255,255,.7); }
+.sim-result .rline span:last-child { font-weight: 600; }
+.sim-result .rline.neg span:last-child { color: #ff9f0a; }
+.sim-result .rline.big { border-top: 1px solid rgba(255,255,255,.25); margin-top: 4px; }
+.sim-result .rline.big span { font-family: var(--font-sans); font-size: 18px; }
+.sim-note { background: var(--cream); border-radius: 14px; padding: 16px 18px; font-size: 13.5px; color: var(--gray-2); margin-top: 18px; line-height: 1.5; }
+.sim-note.warn { background: rgba(178,80,0,.08); color: var(--warn); }
+
+/* WHY / BENEFITS */
+.why { padding: 84px 0; }
+.why-head { max-width: 640px; margin-bottom: 46px; }
+.why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+.why-card { background: var(--paper-warm); border-radius: 26px; padding: 28px; }
+.why-card .ic { width: 48px; height: 48px; border-radius: 12px; background: var(--ink); color: var(--accent-bright); display: flex; align-items: center; justify-content: center; font-size: 22px; margin-bottom: 18px; }
+.why-card .num { font-family: var(--font-mono); font-size: 12px; color: var(--gray-3); font-variant-numeric: tabular-nums; }
+.why-card h3 { font-size: 21px; margin: 6px 0 10px; }
+.why-card p { font-size: 14.5px; color: var(--gray-2); }
+.why-card .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
+.why-card .chips span { font-size: 12px; font-weight: 600; background: var(--paper); border-radius: 100px; padding: 5px 11px; color: var(--gray-2); }
+
+/* MARGIN TABLE */
+.margin { padding: 84px 0; background: var(--ink); color: var(--paper); }
+.margin-head { max-width: 680px; margin-bottom: 40px; }
+.margin-head h2 { color: var(--paper); }
+.margin-head h2 .lime { color: var(--accent-bright); font-style: normal; }
+.margin-head .section-lead { color: rgba(255,255,255,.65); }
+.mtable { width: 100%; border-collapse: collapse; background: rgba(255,255,255,.03); border-radius: 16px; overflow: hidden; }
+.mtable th, .mtable td { padding: 16px 18px; text-align: left; font-size: 14.5px; border-bottom: 1px solid rgba(255,255,255,.08); }
+.mtable th { font-size: 13px; letter-spacing: -0.01em; color: rgba(255,255,255,.55); font-weight: 600; }
+.mtable td:first-child { font-weight: 600; }
+.mtable td.margin-cell { color: var(--accent-bright); font-size: 18px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.mtable tr:last-child td { border-bottom: 0; }
+.legend { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 28px; }
+.legend div { font-size: 13px; color: rgba(255,255,255,.7); }
+.legend strong { color: var(--accent-bright); display: block; margin-bottom: 4px; font-weight: 600; }
+
+/* PLANS */
+.plans { padding: 84px 0; background: var(--paper-warm); }
+.plans-head { text-align: center; max-width: 600px; margin: 0 auto 46px; }
+.plans-head .section-lead { margin: 0 auto; }
+.plans-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; max-width: 880px; margin: 0 auto; }
+.plan { background: var(--paper); border-radius: 26px; padding: 32px; position: relative; }
+.plan.feat { background: var(--paper); box-shadow: 0 1px 3px rgba(0,0,0,.08), 0 8px 24px rgba(0,0,0,.08); }
+.plan .ribbon { position: absolute; top: -13px; left: 32px; background: var(--lime); color: #fff; font-size: 12px; font-weight: 700; padding: 5px 14px; border-radius: 100px; }
+.plan .pname { font-family: var(--font-sans); font-size: 24px; font-weight: 600; }
+.plan .ptag { font-size: 14px; color: var(--gray-3); margin: 4px 0 22px; }
+.plan ul { list-style: none; margin-bottom: 24px; }
+.plan ul li { display: flex; justify-content: space-between; gap: 12px; padding: 11px 0; border-bottom: 1px solid var(--gray-soft); font-size: 14px; }
+.plan ul li span:first-child { color: var(--gray-2); }
+.plan ul li span:last-child { font-weight: 600; text-align: right; }
+.plan .price-box { background: var(--paper-warm); border-radius: 14px; padding: 18px; margin-bottom: 20px; }
+.plan.feat .price-box { background: var(--cream); }
+.plan .price-box .imp { font-family: var(--font-sans); font-size: 28px; font-weight: 600; }
+.plan .price-box .imp small { font-size: 14px; color: var(--gray-3); font-family: var(--font-sans); font-weight: 500; }
+.plan .price-box .rec { font-size: 13.5px; color: var(--gray-2); margin-top: 4px; }
+.plan .plan-cta { display: block; text-align: center; background: var(--lime); color: #fff; padding: 14px; border-radius: 100px; font-weight: 600; font-size: 15px; transition: background .15s; }
+.plan .plan-cta:hover { background: var(--lime-deep); }
+
+/* CTA / FORM */
+.contact { padding: 84px 0; }
+.contact-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 56px; align-items: center; }
+.contact h2 { font-size: clamp(30px, 4vw, 46px); }
+.contact .section-lead { margin: 16px 0 26px; }
+.contact-feats { display: flex; flex-direction: column; gap: 14px; }
+.contact-feats div { display: flex; align-items: center; gap: 11px; font-size: 15px; font-weight: 500; }
+.contact-feats .dot { width: 22px; height: 22px; border-radius: 50%; background: var(--lime); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 800; flex-shrink: 0; }
+.form-card { background: var(--paper-warm); border-radius: 26px; padding: 32px; }
+.form-row { margin-bottom: 16px; }
+.form-row label { display: block; font-size: 13px; font-weight: 600; color: var(--gray-2); margin-bottom: 7px; }
+.form-row input { width: 100%; border: 1px solid var(--gray-soft); background: var(--paper); border-radius: 12px; padding: 13px 15px; font-family: var(--font-sans); font-size: 15px; color: var(--ink); }
+.form-row input:focus { outline: none; border-color: var(--lime); }
+.form-grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.form-submit { width: 100%; background: var(--lime); color: #fff; border: 0; padding: 16px; border-radius: 100px; font-family: var(--font-sans); font-size: 16px; font-weight: 600; cursor: pointer; transition: background .15s; margin-top: 6px; }
+.form-submit:hover { background: var(--lime-deep); }
+.form-fine { font-size: 12px; color: var(--gray-3); text-align: center; margin-top: 14px; line-height: 1.5; }
+
+/* FOOTER */
+footer { background: var(--ink); color: rgba(255,255,255,.6); padding: 56px 0 30px; }
+.foot-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; flex-wrap: wrap; padding-bottom: 30px; border-bottom: 1px solid rgba(255,255,255,.1); }
+.foot-logo { display: inline-flex; align-items: center; }
+.foot-logo img { height: 26px; width: auto; display: block; }
+.foot-links { display: flex; gap: 16px; flex-wrap: wrap; font-size: 14px; }
+.foot-links a:hover { color: var(--accent-bright); }
+.foot-bottom { padding-top: 22px; font-size: 12.5px; line-height: 1.6; }
+.foot-bottom .disc { margin-top: 12px; color: rgba(255,255,255,.4); max-width: 760px; }
+
+@media (max-width: 900px) {
+    .hero-grid { grid-template-columns: 1fr; gap: 40px; }
+    .sim-grid, .contact-grid { grid-template-columns: 1fr; gap: 24px; }
+    .why-grid { grid-template-columns: 1fr; }
+    .plans-grid { grid-template-columns: 1fr; }
+    .statsbar-inner { grid-template-columns: repeat(2, 1fr); }
+    .stat:nth-child(2) { border-right: 0; }
+    .stat:nth-child(1), .stat:nth-child(2) { border-bottom: 1px solid rgba(255,255,255,.08); }
+    .legend { grid-template-columns: 1fr; }
+    .nav-links { display: none; }
+    .nav-toggle { display: flex; }
+    .mtable th:nth-child(2), .mtable td:nth-child(2) { display: none; }
+}
+
+/* Navbar adaptativa: inverte sobre as cenas escuras (statsbar, margem, rodape).
+   Ver o script no fim do arquivo. */
+nav.on-dark { background: rgba(29,29,31,.72); }
+nav.on-dark.scrolled { border-bottom-color: var(--dark-hair); box-shadow: none; }
+nav.on-dark .logo-mark { filter: brightness(0) invert(1); }
+nav.on-dark .nav-links a.simple { color: #f5f5f7; }
+nav.on-dark .nav-links a.simple:hover { color: #fff; }
+nav.on-dark .nav-cta { background: var(--paper); color: var(--ink); }
+nav.on-dark .nav-toggle span { background: #f5f5f7; }
+</style>
+</head>
+<body id="top">
+<nav id="nav">
+<div class="nav-inner">
+<a aria-label="Credituz" class="logo" href="./index.html"><img alt="Credituz" class="logo-mark" height="26" src="/assets/logo-credituz.png" width="112"/></a>
+<div class="nav-links">
+<a class="simple" href="#simulador">Simulator</a>
+<a class="simple" href="#vantagens">Advantages</a>
+<a class="simple" href="#margem">Margin</a>
+<a class="simple" href="#planos">Plans</a>
+<a class="nav-cta" href="#contato">I want to become a partner</a>
+</div>
+<button aria-label="Menu" class="nav-toggle" onclick="document.querySelector('.nav-links').style.display='flex'"><span></span><span></span><span></span></button>
+</div>
+</nav>
+<!-- HERO -->
+<header class="hero">
+<div class="wrap hero-grid">
+<div>
+<span class="eyebrow">White Label for Partners</span>
+<h1>The platform with the <span class="rust">its visual identity</span>.</h1>
+<p class="hero-sub">Offer your customers a CRM, multi-bank credit simulation, digital contracts, and a billing schedule with the <strong>your brand, your domain, and your pricing</strong>. You manage the customer relationship and keep the recurring revenue; Credituz handles the technology and credit origination.</p>
+<div class="hero-ctas">
+<a class="btn-primary" href="#contato">I want my platform</a>
+<a class="btn-ghost" href="#simulador">Simulate my revenue <span class="arr">→</span></a>
+</div>
+</div>
+<div class="hero-card">
+<span class="tag">Your brand</span>
+<div class="browser-bar"><span></span><span></span><span></span></div>
+<div class="yourbrand">SuaImobTech<span class="blink">.com.br</span></div>
+<div class="stack">
+<div class="row"><div class="ic">M</div> The collection agency recovered 3 installments <span class="muted">now</span></div>
+<div class="row"><div class="ic lime" style="color:var(--ink)">C</div> Loan Simulation at 8 Banks <span class="muted">28s</span></div>
+<div class="row"><div class="ic">A</div> Contract generated and sent <span class="muted">1 min</span></div>
+</div>
+</div>
+</div>
+</header>
+<!-- STATS -->
+<section class="statsbar">
+<div class="statsbar-inner">
+<div class="stat"><div class="n">+40</div><div class="l">developers and real estate companies on the platform</div></div>
+<div class="stat"><div class="n">10</div><div class="l">Banks and Fintechs Integrated for Credit</div></div>
+<div class="stat"><div class="n">99,9%</div><div class="l">SLA uptime for the Enterprise plan</div></div>
+<div class="stat"><div class="n">5 min</div><div class="l">to launch the platform under your brand</div></div>
+</div>
+</section>
+<!-- SIMULATOR -->
+<section class="sim" id="simulador">
+<div class="wrap">
+<div class="sim-head">
+<span class="eyebrow">Invoicing Simulator · Reseller Template (Premium)</span>
+<h2 class="section-h2">How much can you earn by reselling your own platform?</h2>
+<p class="section-lead">In the Premium White Label plan, set the number of customers you want to serve and the price at which you’ll sell. View your recurring revenue projection in real time.</p>
+</div>
+<div class="sim-grid">
+<div class="sim-panel">
+<h3>Set up your simulation</h3>
+<p class="sub">Adjust the values and see the potential of your new revenue stream</p>
+<div class="sim-field">
+<div class="top"><label>Number of customers you will serve</label><span class="val" id="vClients">15</span></div>
+<input id="clients" max="200" min="1" step="1" type="range" value="15"/>
+</div>
+<div class="sim-field">
+<div class="top"><label>Monthly fee you will charge (R$/customer)</label><span class="val" id="vPrice">R$ 897</span></div>
+<input id="price" max="3000" min="297" step="10" type="range" value="897"/>
+</div>
+<div class="sim-field">
+<div class="top"><label>Licensing Plan Credituz</label><span class="val" id="vTier">Credituz</span></div>
+<div class="sim-toggle" id="tier">
+<button class="active" data-cost="149" data-tier="credituz">Credituz</button>
+<button data-cost="649" data-tier="enterprise">Enterprise</button>
+</div>
+</div>
+<p class="sim-base">Pricing structure (cost per customer, reference prices): Credituz plan R$ 149 · Enterprise starting at R$ 649 per customer/month. Adjustments may apply based on your partnership agreement.</p>
+</div>
+<div class="sim-result">
+<div class="rlabel">Recurring Monthly Revenue</div>
+<div class="rbig" id="rRevenue">R$ 13,455</div>
+<div class="rsub">every month, in addition to what your business is already bringing in today</div>
+<div class="rline"><span>Customers on your platform</span><span id="rClients">15 customers</span></div>
+<div class="rline"><span>Monthly fee charged to the customer</span><span id="rPrice">R$ 897</span></div>
+<div class="rline neg"><span>Licensing cost per customer</span><span id="rCostUnit">– R$ 299</span></div>
+<div class="rline neg"><span>Total licensing cost</span><span id="rCostTotal">– R$ 4,485</span></div>
+<div class="rline big"><span>Estimated monthly profit</span><span id="rProfit">R$ 8,970</span></div>
+<div class="rline"><span>Profit over 12 months</span><span id="rYear">R$ 107,640</span></div>
+<div class="rline"><span>Profit over 3 years</span><span id="r3y">R$ 322,920</span></div>
+<div class="sim-note" id="simWarn">Loan origination takes place on the platform and enhances your offering to customers. The bank fee is handled by Credituz and is not included in this calculation.</div>
+<div class="sim-note">These fees are recurring and are in addition to what you already earn from services, setup, and consulting, which can be billed separately for each client.</div>
+</div>
+</div>
+</div>
+</section>
+<!-- WHY -->
+<section class="why" id="vantagens">
+<div class="wrap">
+<div class="why-head">
+<span class="eyebrow">Why Have Your Own Platform?</span>
+<h2 class="section-h2">What Changes When You're the Platform</h2>
+<p class="section-lead">In addition to recurring revenue, white label transforms your market position and the quality of the results you deliver.</p>
+</div>
+<div class="why-grid">
+<div class="why-card">
+<div class="ic"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></div>
+<div class="num">01</div>
+<h3>One platform, not five tools</h3>
+<p>Your client no longer has to split their budget between CRM, the WhatsApp call center, the credit simulator, and digital signatures. It’s all in a single system, and the monthly fee goes to you.</p>
+<div class="chips"><span>CRM</span><span>WhatsApp</span><span>Credit</span><span>Contracts</span></div>
+</div>
+<div class="why-card">
+<div class="ic"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24"><path d="M3 21h18"></path><path d="M3 10h18"></path><path d="M5 6l7-3 7 3"></path><path d="M4 10v11"></path><path d="M20 10v11"></path><path d="M8 14v3"></path><path d="M12 14v3"></path><path d="M16 14v3"></path></svg></div>
+<div class="num">02</div>
+<h3>In-app credit that enhances your offering</h3>
+<p>The multi-bank simulation runs under your brand, supported by Credituz’s correspondent banking relationships with BACEN. Your customer gets the best rate without you having to set up a regulatory framework. The bank commission is handled by Credituz; your revenue comes from the recurring monthly fee.</p>
+<div class="chips"><span>10 banks</span><span>Correspondent BACEN</span></div>
+</div>
+<div class="why-card">
+<div class="ic"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24"><rect height="12" rx="3" width="16" x="4" y="7"></rect><path d="M12 7V3"></path><circle cx="12" cy="3" r="1"></circle><path d="M2 12v3"></path><path d="M22 12v3"></path><circle cx="9" cy="13" r="1.2"></circle><circle cx="15" cy="13" r="1.2"></circle></svg></div>
+<div class="num">03</div>
+<h3>AI as an exclusive service for you</h3>
+<p>Set up and sell AI agents (credit, contracts, after-sales, collections) tailored to each customer’s needs. High margins, easy to scale, and 100% operated by your team.</p>
+<div class="chips"><span>Credit</span><span>Billing</span><span>Analytics</span></div>
+</div>
+</div>
+</div>
+</section>
+<!-- MARGIN TABLE -->
+<section class="margin" id="margem">
+<div class="wrap">
+<div class="margin-head">
+<span class="eyebrow" style="color:var(--lime)">Resale Margin · Premium</span>
+<h2 class="section-h2">You can resell it for whatever price you want. <span class="lime">It's up to you.</span></h2>
+<p class="section-lead">In White Label Premium, see how much Credituz charges for licensing per plan and the margin if you resell at list price. The licensing fees below are for reference only and are specified in the partnership agreement.</p>
+</div>
+<table class="mtable">
+<thead>
+<tr><th>Plan</th><th>List Price Credituz</th><th>Its cost (licensing)</th><th>Your margin</th></tr>
+</thead>
+<tbody>
+<tr><td>Credituz</td><td>R$ 297/month</td><td>R$ 149/month</td><td class="margin-cell">99%</td></tr>
+<tr><td>Enterprise</td><td>starting at R$ 3,497/month</td><td>under contract</td><td class="margin-cell">negotiable</td></tr>
+</tbody>
+</table>
+<div class="legend">
+<div><strong>List Price Credituz</strong>The amount that Credituz charges end customers for each plan. You can charge more.</div>
+<div><strong>Your licensing cost</strong>The amount you pay to Credituz to make the plan available to your customer.</div>
+<div><strong>Your margin</strong>How much do you make if you resell it at the list price, and that amount increases if you charge more.</div>
+</div>
+</div>
+</section>
+<!-- PLANS -->
+<section class="plans" id="planos">
+<div class="wrap">
+<div class="plans-head">
+<span class="eyebrow">Partnership Models</span>
+<h2 class="section-h2">Choose how to start selling</h2>
+<p class="section-lead">Two options: use the platform under your own brand within your own business, or resell it to your customers.</p>
+</div>
+<div class="plans-grid">
+<div class="plan">
+<div class="pname">Essential White Label</div>
+<div class="ptag">Your platform, branded with your logo, to use in your own operation</div>
+<ul>
+<li><span>Who is it for?</span><span>Your real estate agency or developer</span></li>
+<li><span>Brand and logo</span><span>Your brand</span></li>
+<li><span>Domain</span><span>suamarca.credituz.app</span></li>
+<li><span>Connection WhatsApp</span><span>Official API</span></li>
+<li><span>AI Agents</span><span>Included</span></li>
+<li><span>On-board credit</span><span>Included</span></li>
+<li><span>Resale to third parties</span><span>Not included</span></li>
+</ul>
+<div class="price-box">
+<div class="imp">R$ 4,900 <small>one-time setup</small></div>
+<div class="rec">+ monthly platform license</div>
+</div>
+<a class="plan-cta" href="#contato">I Want the Essentials</a>
+</div>
+<div class="plan feat">
+<div class="ribbon">Recommended</div>
+<div class="pname">Premium White Label</div>
+<div class="ptag">Resale with 100% of your brand and your own domain included</div>
+<ul>
+<li><span>Who is it for?</span><span>Reseller Partner</span></li>
+<li><span>Brand and logo</span><span>100% your brand</span></li>
+<li><span>Domain</span><span>suamarca.com.br included</span></li>
+<li><span>Connection WhatsApp</span><span>Official API</span></li>
+<li><span>AI Agents</span><span>Included</span></li>
+<li><span>On-board credit</span><span>Included</span></li>
+<li><span>Resale to third parties</span><span>Released</span></li>
+</ul>
+<div class="price-box">
+<div class="imp">R$ 7,900 <small>one-time setup</small></div>
+<div class="rec">+ monthly licensing fee per resold customer</div>
+</div>
+<a class="plan-cta" href="#contato">I want the Premium plan</a>
+</div>
+</div>
+</div>
+</section>
+<!-- CONTACT -->
+<section class="contact" id="contato">
+<div class="wrap contact-grid">
+<div>
+<span class="eyebrow">Ready to climb?</span>
+<h2>Your new source of <em>recurring revenue</em></h2>
+<p class="section-lead">Fill out the form, and a specialist from Credituz will contact you to present the white-label reseller model and per-customer licensing options.</p>
+<div class="contact-feats">
+<div><span class="dot">✓</span> A Platform with Your Brand in 5 Minutes</div>
+<div><span class="dot">✓</span> On-board credit operated by Credituz (correspondent BACEN)</div>
+<div><span class="dot">✓</span> Dedicated support and onboarding</div>
+</div>
+</div>
+<div class="form-card">
+<div class="form-row"><label>Full name</label><input id="fName" placeholder="Your name" type="text"/></div>
+<div class="form-grid2">
+<div class="form-row"><label>WhatsApp</label><input id="fPhone" placeholder="(11) 90000-0000" type="tel"/></div>
+<div class="form-row"><label>Email</label><input id="fEmail" placeholder="voce@empresa.com" type="email"/></div>
+</div>
+<div class="form-grid2">
+<div class="form-row"><label>Your Business Name</label><input id="fCompany" placeholder="Your company" type="text"/></div>
+<div class="form-row"><label>Position</label><input id="fRole" placeholder="Your position" type="text"/></div>
+</div>
+<button class="form-submit" onclick="sendPartner()">I want to become a white-label partner →</button>
+<p class="form-fine">After you submit the form, our team will contact you via WhatsApp. Your information is protected by the LGPD and will never be shared.</p>
+</div>
+</div>
+</section>
+<!-- FOOTER -->
+<footer>
+<div class="wrap">
+<div class="foot-top">
+<a aria-label="Credituz" class="foot-logo" href="./index.html"><img alt="Credituz" height="26" src="/assets/logo-credituz-branco.png" width="140"/></a>
+<div class="foot-links">
+<a href="./index.html">Platform</a>
+<a href="./index.html#pricing">Plans</a>
+<a href="./white-label.html">White Label</a>
+<a href="./pages/incorporadoras.html">Real Estate Developers</a>
+<a href="./pages/imobiliarias.html">Real Estate Agencies</a>
+<a href="./pages/seja-parceiro.html">Become a Partner</a>
+</div>
+</div>
+<div class="foot-bottom">
+            © 2026 Credituz Tecnologia Ltda · CNPJ 51.934.531/0001-92. All rights reserved.
+            <div class="disc">Credituz does not engage in any activities exclusive to financial institutions, such as financing and/or loans. These transactions are carried out through partners authorized by BACEN, pursuant to Resolution No. 4,935, dated July 29, 2021. The licensing fees and margins shown on this page are for reference only and are defined in the partnership agreement.</div>
+</div>
+</div>
+</footer>
+<script>
+// Nav scroll shadow
+window.addEventListener('scroll', () => {
+    document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 20);
+});
+
+// ===== SIMULADOR =====
+(function () {
+    const fmt = (n) => 'R$ ' + Math.round(n).toLocaleString('pt-BR');
+    const clientsEl = document.getElementById('clients');
+    const priceEl = document.getElementById('price');
+    const tierGroup = document.getElementById('tier');
+    let cost = 149;
+
+    function compute() {
+        const clients = +clientsEl.value;
+        const price = +priceEl.value;
+        document.getElementById('vClients').textContent = clients;
+        document.getElementById('vPrice').textContent = fmt(price);
+        const revenue = clients * price;
+        const costTotal = clients * cost;
+        const profit = revenue - costTotal;
+        document.getElementById('rRevenue').textContent = fmt(revenue);
+        document.getElementById('rClients').textContent = clients + (clients === 1 ? ' cliente' : ' clientes');
+        document.getElementById('rPrice').textContent = fmt(price);
+        document.getElementById('rCostUnit').textContent = '– ' + fmt(cost);
+        document.getElementById('rCostTotal').textContent = '– ' + fmt(costTotal);
+        document.getElementById('rProfit').textContent = fmt(profit);
+        document.getElementById('rYear').textContent = fmt(profit * 12);
+        document.getElementById('r3y').textContent = fmt(profit * 36);
+        const warn = document.getElementById('simWarn');
+        if (price <= cost) {
+            warn.classList.add('warn');
+            warn.textContent = 'Atenção: o preço que você vai cobrar está igual ou abaixo do seu custo de licenciamento. Ajuste para cima para garantir margem.';
+        } else {
+            warn.classList.remove('warn');
+            warn.textContent = 'A originação de crédito roda na plataforma e enriquece a sua oferta ao cliente. A comissão bancária é operada pela Credituz e não está incluída neste cálculo.';
+        }
+    }
+    clientsEl.addEventListener('input', compute);
+    priceEl.addEventListener('input', compute);
+    tierGroup.querySelectorAll('button').forEach(btn => {
+        btn.addEventListener('click', () => {
+            tierGroup.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            cost = +btn.dataset.cost;
+            const names = { credituz: 'Credituz', enterprise: 'Enterprise' };
+            document.getElementById('vTier').textContent = names[btn.dataset.tier];
+            compute();
+        });
+    });
+    compute();
+})();
+
+function sendPartner() {
+    const name = (document.getElementById('fName').value || '').trim();
+    const phone = (document.getElementById('fPhone').value || '').trim();
+    const email = (document.getElementById('fEmail').value || '').trim();
+    const company = (document.getElementById('fCompany').value || '').trim();
+    const role = (document.getElementById('fRole').value || '').trim();
+    const msg = `Olá! Quero ser parceiro White Label da Credituz.%0A%0ANome: ${name}%0AWhatsApp: ${phone}%0AE-mail: ${email}%0ANegócio: ${company}%0ACargo: ${role}`;
+    window.open('https://wa.me/5511936201544?text=' + msg, '_blank', 'noopener');
+}
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+</body>
+</html>
