@@ -66,7 +66,7 @@ A chave vive no secret `DEEPL_API_KEY` (plano API Free, chave terminada em `:fx`
 
 Não há CSS externo — cada página redeclara suas variáveis em `:root`. Ao criar uma página nova, copie o bloco `:root` + reset de uma página existente do mesmo tipo (LP ou artigo).
 
-**Todo o site em PT já roda o DNA de `correspondente.credituz.ai`** (documentado em `DESIGN.md`): superfícies quase brancas, um único acento azul, cenas pretas de contraste e tipografia do sistema — **nenhuma página carrega Google Fonts**. Os nomes de token `--lime`/`--lime-deep`/`--rust` foram mantidos para não reescrever as ~4.000 linhas que os consomem, mas **os valores são azuis** (`#0071e3` / `#0066cc`). Sobre cena escura o acento é `--accent-bright #6bb2ff`, porque `#0071e3` não lê no preto; `--warn`/`--bad` cobrem o que era semanticamente negativo. O wordmark é `assets/logo-credituz.png` (`-branco.png` sobre fundo escuro), não mais texto.
+**Todo o site em PT já roda o DNA de `correspondente.credituz.ai`** (documentado em `docs/DESIGN.md`): superfícies quase brancas, um único acento azul, cenas pretas de contraste e tipografia do sistema — **nenhuma página carrega Google Fonts**. Os nomes de token `--lime`/`--lime-deep`/`--rust` foram mantidos para não reescrever as ~4.000 linhas que os consomem, mas **os valores são azuis** (`#0071e3` / `#0066cc`). Sobre cena escura o acento é `--accent-bright #6bb2ff`, porque `#0071e3` não lê no preto; `--warn`/`--bad` cobrem o que era semanticamente negativo. O wordmark é `assets/logo-credituz.png` (`-branco.png` sobre fundo escuro), não mais texto.
 
 Os 132 arquivos compartilham **6 blocos de CSS distintos**, cada um replicado byte a byte dentro do seu grupo. Ao editar o estilo de um grupo, replique nos demais arquivos dele:
 
@@ -92,4 +92,4 @@ Os 132 arquivos compartilham **6 blocos de CSS distintos**, cada um replicado by
 
 - Commits em português, Conventional Commits, **sem acentuação** no assunto, indicando o escopo bilíngue quando aplicável: `chore(layout): move a Calculadora de ROI para logo apos a secao Problema, PT e EN`.
 - Links internos são absolutos a partir da raiz (`/pages/...`), então o site precisa ser servido pela raiz — abrir o HTML via `file://` quebra navegação e assets.
-- `credituz-site-completo.zip` na raiz é um snapshot antigo do site; não é fonte de verdade.
+- `docs/` guarda a documentação interna (design system, deploy). Fica fora da raiz de propósito: o GitHub Pages publica o repositório inteiro, e o `robots.txt` bloqueia `/docs/` e `/scripts/` para não misturar documentação com a landing page nos buscadores e nos crawlers de IA.

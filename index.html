@@ -100,10 +100,10 @@
 <link rel="alternate" type="text/markdown" href="/home.md" title="Versão Markdown para IA e agentes">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.credituz.ai/#organization","name":"Credituz","url":"https://www.credituz.ai","description":"Plataforma AI-First para o mercado imobiliário brasileiro: CRM, originação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão da carteira. Da simulação à entrega das chaves.","foundingDate":"2024","areaServed":{"@type":"Country","name":"Brasil"},"knowsLanguage":["pt-BR"],"sameAs":[],"contactPoint":{"@type":"ContactPoint","contactType":"sales","telephone":"+55-11-93620-1544","availableLanguage":["Portuguese"]}},{"@type":"SoftwareApplication","@id":"https://www.credituz.ai/#software","name":"Credituz","applicationCategory":"BusinessApplication","operatingSystem":"Web","description":"Plataforma com IA para o mercado imobiliário que origina crédito, gera contratos, cobra e administra a carteira, da simulação à entrega das chaves. Reúne CRM, simulação multibancos, contratos digitais, régua de cobrança, NFe e gestão financeira.","publisher":{"@id":"https://www.credituz.ai/#organization"},"featureList":["Portal de vendas em domínio próprio indexado no Google","Módulo de crédito embutido no portal de vendas","Originação de crédito embarcada (agente Carlos)","Simulação de crédito multibancos","CRM imobiliário e de crédito","Contratos digitais com IA (agente Ana)","Régua de cobrança automatizada em WhatsApp, SMS e e-mail (agente Max)","Baixa automática, conciliação e emissão de NFe","Gestão da operação imobiliária: obras, pós-venda e repasses (agente Max)","Analytics de crédito e carteira (agente Iris)"],"offers":[{"@type":"Offer","name":"Credituz","price":"297","priceCurrency":"BRL","description":"Plano único: portal de vendas em domínio próprio com módulo de crédito embutido, Google Meu Negócio configurado, CRM imobiliário e de crédito com contatos ilimitados, 10 usuários, integração ZAP/OLX/VivaReal, contratos com IA ilimitados, simulação multibancos ilimitada, analytics IA e 40% da comissão de originação de crédito. 30 dias grátis."},{"@type":"Offer","name":"Enterprise","priceCurrency":"BRL","description":"Preço customizado, contrato anual: tudo do plano Credituz, mais usuários e contratos ilimitados, multi-empresa, 60% da comissão de originação, gestão da operação imobiliária, régua de cobrança customizada, NFe, contas Asaas ou banco via API, White Label, API pública, SSO e SLA 99,9%."}]},{"@type":"WebSite","@id":"https://www.credituz.ai/#website","url":"https://www.credituz.ai","name":"Credituz","publisher":{"@id":"https://www.credituz.ai/#organization"},"inLanguage":"pt-BR"},{"@type":"FAQPage","@id":"https://www.credituz.ai/#faq","mainEntity":[{"@type":"Question","name":"Quanto custa começar?","acceptedAnswer":{"@type":"Answer","text":"R$ 297 por mês, com os primeiros 30 dias grátis. É um plano único, com a plataforma inteira: CRM, agentes de IA, simulação multibancos, contratos, portal de vendas no domínio do cliente e originação de crédito. O cartão é pedido no cadastro, mas a primeira cobrança só acontece depois dos 30 dias e o cancelamento é self-serve."}},{"@type":"Question","name":"Como a Credituz ganha dinheiro?","acceptedAnswer":{"@type":"Answer","text":"Por duas fontes: a mensalidade do plano e a comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado. Essa comissão é dividida com o cliente: 40% no plano de R$ 297 e 60% no Enterprise."}},{"@type":"Question","name":"Funciona com meu CRM atual?","acceptedAnswer":{"@type":"Answer","text":"Sim. A Credituz importa contatos em 1 clique e a integração nativa com ZAP, OLX e VivaReal já vem inclusa no plano, com sync bidirecional."}},{"@type":"Question","name":"Quanto tempo até começar a usar?","acceptedAnswer":{"@type":"Answer","text":"Setup self-serve em 5 minutos, sem implantação longa e sem treinamento agendado."}}]}]}</script>
 
-<!-- Tipografia do sistema (SF Pro / Inter): ver DESIGN.md -->
+<!-- Tipografia do sistema (SF Pro / Inter): ver docs/DESIGN.md -->
 <style>
 :root {
-    /* DNA de correspondente.credituz.ai — ver DESIGN.md.
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
        Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
     --ink: #1d1d1f;
     --paper: #ffffff;
@@ -4193,7 +4193,7 @@ footer {
 
 
 /* ==========================================================================
-   DNA correspondente.credituz.ai — camada de tipografia e forma (DESIGN.md).
+   DNA correspondente.credituz.ai — camada de tipografia e forma (docs/DESIGN.md).
    Só ajusta ritmo tipográfico, raio e superfície. Nenhuma regra de layout.
    ========================================================================== */
 body {
@@ -5785,7 +5785,7 @@ if (document.readyState === 'loading') {
 
 <style>
 /* ==========================================================================
-   DNA correspondente.credituz.ai — camada final (DESIGN.md).
+   DNA correspondente.credituz.ai — camada final (docs/DESIGN.md).
    Fica por ultimo de proposito: os blocos <style> do corpo vem depois do
    <head>, entao so aqui o sistema de botoes e o acento em cena escura ganham
    da cascata. Nenhuma regra de layout.
@@ -6932,7 +6932,7 @@ footer { background: var(--void); }
 
 /* --- Card no desenho do sistema: SEM fio. A separacao vem da superficie, que e
    sempre o oposto da secao (secao branca -> card #f5f5f7 e vice-versa), com raio
-   de 26px e sem sombra. Ver DESIGN.md secao 4. */
+   de 26px e sem sombra. Ver docs/DESIGN.md secao 4. */
 .dor-card,
 .testimonial,
 .flow-card,
@@ -6995,7 +6995,7 @@ footer { background: var(--void); }
 .section-tag { gap: 0; }
 
 /* Barra do mockup no desenho do Safari: semaforo, navegacao, campo de endereco
-   centrado e acoes. Ver DESIGN.md. */
+   centrado e acoes. Ver docs/DESIGN.md. */
 .appwin-bar {
     display: grid;
     grid-template-columns: auto auto 1fr auto;

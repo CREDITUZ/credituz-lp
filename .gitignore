@@ -8,3 +8,9 @@ node_modules/
 .vercel/
 *.swp
 *.swo
+
+# Ambiente local do scripts/translate_en.py
+__pycache__/
+*.pyc
+.venv/
+venv/

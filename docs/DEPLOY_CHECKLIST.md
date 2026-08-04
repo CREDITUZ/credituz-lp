@@ -6,7 +6,7 @@
 - [x] `.nojekyll` - Desabilita Jekyll para servir HTML estático
 - [x] `.gitignore` - Padrões de arquivos ignorados
 - [x] `CNAME` - Configuração para domínio customizado (credituz.ai)
-- [x] `GITHUB_PAGES_SETUP.md` - Documentação detalhada
+- [x] `docs/GITHUB_PAGES_SETUP.md` - Documentação detalhada
 
 ### Próximos Passos (MANUAIS - via GitHub):
 
