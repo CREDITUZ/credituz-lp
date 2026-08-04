@@ -6,6 +6,12 @@ scripts, estilos, URLs e termos de marca. Gera os espelhos em en/.
 Motor: DeepL. Requer DEEPL_API_KEY. Conta gratuita usa a URL api-free (padrao);
 para Pro defina DEEPL_API_URL=https://api.deepl.com/v2/translate.
 
+O resultado de cada trecho fica em scripts/translation-cache.json, versionado no
+repo. Sem ele, toda execucao remandava as 7 paginas inteiras (~49 mil caracteres)
+e a cota gratuita de 500 mil/mes rendia ~10 rodadas. Com o cache, so o texto que
+mudou vai para a API. Para forcar a retraducao completa, rode com
+TRANSLATION_CACHE_BUST=1.
+
 Paginas juridicas (termos, privacidade, dpo, uso-aceitavel) ficam de fora de
 proposito; links para elas no EN passam a apontar para a versao em portugues.
 """
@@ -58,7 +64,43 @@ META_SPECS = [
 URLISH = re.compile(r"^\s*(https?://|mailto:|tel:|wa\.me|/|#|\+?\d[\d\s().-]*$)")
 ONLY_SYMBOLS = re.compile(r"^[\W\d_]+$")
 
+CACHE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                          "translation-cache.json")
+CACHE_BUST = os.environ.get("TRANSLATION_CACHE_BUST") == "1"
+
 CACHE = {}
+# Chaves usadas nesta execucao. O arquivo e reescrito so com elas, para nao
+# acumular texto de secoes que ja sairam da pagina.
+USED = set()
+
+
+def load_cache():
+    """Le o cache do disco. Idioma alvo diferente invalida tudo: a traducao
+    guardada e para outro destino."""
+    if CACHE_BUST or not os.path.exists(CACHE_PATH):
+        return
+    try:
+        with open(CACHE_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+    except (ValueError, OSError):
+        return
+    if data.get("target_lang") != TARGET_LANG:
+        return
+    CACHE.update(data.get("entries", {}))
+
+
+def save_cache(podar=False):
+    """Grava o cache. Durante o loop salva tudo (`podar=False`): se a API falhar
+    na 5a pagina, o que ja foi pago nas quatro primeiras nao se perde. So no fim,
+    com todas as paginas lidas, e seguro descartar o que ninguem usa mais."""
+    entries = {k: CACHE[k] for k in sorted(USED)} if podar else dict(CACHE)
+    payload = {
+        "target_lang": TARGET_LANG,
+        "entries": {k: entries[k] for k in sorted(entries)},
+    }
+    with open(CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1, sort_keys=True)
+        f.write("\n")
 
 
 def is_translatable_text(s):
@@ -95,9 +137,16 @@ def restore_terms(text, mapping):
 
 
 def deepl_translate(unique_texts):
+    USED.update(unique_texts)
+    pending = [t for t in unique_texts if t not in CACHE]
+    reaproveitados = len(unique_texts) - len(pending)
+    chars = sum(len(t) for t in pending)
+    print("  {} trechos: {} do cache, {} para a API ({} caracteres)".format(
+        len(unique_texts), reaproveitados, len(pending), chars))
+    if not pending:
+        return
     if not DEEPL_KEY:
         raise SystemExit("DEEPL_API_KEY nao definido")
-    pending = [t for t in unique_texts if t not in CACHE]
     BATCH = 40
     i = 0
     while i < len(pending):
@@ -198,11 +247,17 @@ def translate_file(src, out):
 
 
 def main():
+    load_cache()
+    print("Cache: {} trechos ja traduzidos{}".format(
+        len(CACHE), " (ignorado por TRANSLATION_CACHE_BUST)" if CACHE_BUST else ""))
     for src, out in PAGES:
         if os.path.exists(src):
             translate_file(src, out)
+            save_cache()
         else:
             print("Origem ausente, pulando:", src)
+    save_cache(podar=True)
+    print("Cache gravado com {} trechos em {}".format(len(USED & set(CACHE)), CACHE_PATH))
 
 
 if __name__ == "__main__":

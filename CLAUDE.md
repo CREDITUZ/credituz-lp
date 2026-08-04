@@ -49,6 +49,10 @@ O script preserva HTML, scripts, estilos e URLs; traduz apenas nós de texto, `t
 - `PAGES` — a lista de páginas espelhadas. Uma nova página de marketing só ganha versão EN se for adicionada aqui.
 - Editar `en/index.html` manualmente é desperdício: o próximo push em `index.html` sobrescreve.
 
+O resultado de cada trecho fica em `scripts/translation-cache.json`, **versionado e commitado pelo próprio Action** junto com `en/`. Sem ele toda execução remandava as 7 páginas inteiras (~49 mil caracteres) e a cota gratuita da DeepL — 500 mil/mês — rendia só ~10 rodadas; com ele, uma frase alterada custa algumas dezenas de caracteres. O cache é gravado a cada página, então uma falha de API no meio não descarta o que já foi pago, e é podado ao final (texto que saiu da página sai do arquivo). Trocar `DEEPL_TARGET` invalida tudo, porque a tradução guardada é para outro destino; para forçar a retradução completa, rode com `TRANSLATION_CACHE_BUST=1`.
+
+A chave vive no secret `DEEPL_API_KEY` (plano API Free, chave terminada em `:fx`, endpoint `api-free.deepl.com` — que já é o padrão do script).
+
 ### Páginas
 
 - `index.html` (~223 KB) — LP principal, seções identificadas por `<section id="...">`: `roi`, `credituz-os`, `corban-ai`, `produto-por-dentro`, `produto`, `como-funciona`, `comparar`, `integracoes`, `pricing`, `indicacao`, `faq`, `metodologia`.
