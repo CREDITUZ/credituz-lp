@@ -21,9 +21,9 @@ A Credituz é uma plataforma de software (SaaS) com inteligência artificial nat
 
 ## Posicionamento
 
-Título da home: "A única plataforma de IA que conecta corretores, imobiliárias e incorporadoras ao crédito, com o CORBAN AI da Credituz."
+Título da home: "Aprove o financiamento e receba todas as parcelas sem sair da plataforma."
 
-Subtítulo: "O CORBAN AI é o correspondente bancário digital da Credituz: simula em vários bancos, aprova mais rápido e contrata o financiamento dentro da própria plataforma. Crédito, contratos, cobrança e gestão em um só lugar."
+Subtítulo: "A plataforma de IA que origina o crédito imobiliário multibancos e opera o financeiro da carteira: régua de cobrança, baixa automática, NFe e previsão de caixa."
 
 Promessa de entrada: "Comece em 5 minutos. Sem implantação de 60 dias." Plano único de R$ 297/mês com 30 dias grátis (cartão pedido no cadastro, primeira cobrança só depois do período de teste), setup self-serve, cancelamento pela própria plataforma e sem fidelidade no mensal.
 

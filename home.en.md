@@ -21,9 +21,9 @@ Credituz is an AI-native software platform (SaaS) for the Brazilian real estate 
 
 ## Positioning
 
-Homepage headline: "More deals closed. Less time wasted."
+Homepage headline: "Approve the mortgage and collect every installment without leaving the platform."
 
-Subtitle: "Credituz automates the service, management, credit and contracts of your real estate operation, so you can close deals instead of operating software."
+Subtitle: "The AI platform that originates multi-bank real estate credit and runs the portfolio's finance: collection workflows, automatic reconciliation, e-invoicing and cash forecasting."
 
 Entry promise: "Get started in 5 minutes. No 60-day implementation." Single plan at R$ 297/month with a 30-day free trial (card required at signup, first charge only after the trial), self-serve setup, self-serve cancellation and no lock-in on the monthly plan.
 
