@@ -1191,43 +1191,6 @@ h2 em {
 .partial { color: #f59e0b; }
 
 /* ============ PRICING ============ */
-.pricing-toggle {
-    display: inline-flex;
-    background: var(--cream);
-    border-radius: 100px;
-    padding: 4px;
-    margin-top: 24px;
-    margin-bottom: 48px;
-}
-
-.pricing-toggle button {
-    padding: 10px 20px;
-    border: none;
-    background: transparent;
-    border-radius: 100px;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    color: var(--gray-2);
-    font-family: inherit;
-    transition: all 0.2s;
-}
-
-.pricing-toggle button.active {
-    background: var(--ink);
-    color: var(--paper);
-}
-
-.pricing-toggle .badge-disc {
-    background: var(--lime);
-    color: #ffffff;
-    padding: 2px 8px;
-    border-radius: 100px;
-    font-size: 10px;
-    font-weight: 700;
-    margin-left: 6px;
-}
-
 .pricing-head {
     max-width: 760px;
     margin-bottom: 40px;
@@ -5152,17 +5115,12 @@ h1 em, h2 em, h3 em, .hero-title em {
         <p>Chega de tabela com cinco degraus e funcionalidade escondida no plano de cima. Um único plano com a plataforma inteira: CRM, simulação multibancos, originação de crédito, contratos digitais, régua de cobrança e portal de vendas em domínio próprio. 30 dias grátis para testar, cancele quando quiser.</p>
     </div>
 
-    <div class="pricing-toggle">
-        <button class="active" onclick="togglePricing('monthly', this)">Mensal</button>
-        <button onclick="togglePricing('annual', this)">Anual<span class="badge-disc">-29%</span></button>
-    </div>
-
     <div class="pricing-grid">
         <div class="plan featured">
             <div class="plan-name">Credituz</div>
             <div class="plan-desc">Corretor, imobiliária ou construtora que vende e financia. A plataforma inteira, sem degrau.</div>
-            <div class="plan-price"><span class="currency">R$</span><span data-monthly="297" data-annual="211">297</span></div>
-            <div class="plan-period">por mês · <span data-monthly="cobrança mensal" data-annual="cobrado anual">cobrança mensal</span></div>
+            <div class="plan-price"><span class="currency">R$</span><span>297</span></div>
+            <div class="plan-period">por mês · cobrança mensal</div>
             <ul class="plan-features">
                 <li><span><strong>Portal de vendas no seu domínio</strong> · indexado no Google, com página por imóvel e por cidade</span></li>
                 <li><span><strong>Módulo de crédito embutido no portal</strong> · o comprador simula e formaliza sem sair do seu site</span></li>
@@ -5266,13 +5224,6 @@ h1 em, h2 em, h3 em, .hero-title em {
                 <div class="faq-toggle">+</div>
             </div>
             <div class="faq-a">R$ 297 por mês, com os primeiros 30 dias grátis. É um plano único, com a plataforma inteira: CRM, agentes de IA, simulação multibancos, contratos, portal de vendas no seu domínio e originação de crédito. Pedimos o cartão no cadastro para liberar o acesso completo, mas a primeira cobrança só acontece depois dos 30 dias, e você cancela quando quiser dentro da própria plataforma.</div>
-        </div>
-        <div class="faq-item" onclick="toggleFaq(this)">
-            <div class="faq-q">
-                <h4>Como funciona o desconto no plano anual?</h4>
-                <div class="faq-toggle">+</div>
-            </div>
-            <div class="faq-a">Você paga um único valor anual e ganha cerca de 29% de desconto: o plano de R$ 297/mês sai por R$ 211/mês equivalente. É a opção recomendada para quem já validou o produto e quer travar o preço. No mensal não existe fidelidade nenhuma.</div>
         </div>
         <div class="faq-item" onclick="toggleFaq(this)">
             <div class="faq-q">
@@ -5552,15 +5503,6 @@ window.addEventListener('scroll', () => {
 // FAQ toggle
 function toggleFaq(item) {
     item.classList.toggle('open');
-}
-
-// Pricing toggle
-function togglePricing(type, btn) {
-    document.querySelectorAll('.pricing-toggle button').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    document.querySelectorAll('[data-monthly][data-annual]').forEach(el => {
-        el.textContent = el.getAttribute('data-' + type);
-    });
 }
 
 // Reveal on scroll
