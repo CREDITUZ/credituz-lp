@@ -1189,43 +1189,6 @@ h2 em {
 .partial { color: #f59e0b; }
 
 /* ============ PRICING ============ */
-.pricing-toggle {
-    display: inline-flex;
-    background: var(--cream);
-    border-radius: 100px;
-    padding: 4px;
-    margin-top: 24px;
-    margin-bottom: 48px;
-}
-
-.pricing-toggle button {
-    padding: 10px 20px;
-    border: none;
-    background: transparent;
-    border-radius: 100px;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    color: var(--gray-2);
-    font-family: inherit;
-    transition: all 0.2s;
-}
-
-.pricing-toggle button.active {
-    background: var(--ink);
-    color: var(--paper);
-}
-
-.pricing-toggle .badge-disc {
-    background: var(--lime);
-    color: #ffffff;
-    padding: 2px 8px;
-    border-radius: 100px;
-    font-size: 10px;
-    font-weight: 700;
-    margin-left: 6px;
-}
-
 .pricing-head {
     max-width: 760px;
     margin-bottom: 40px;
@@ -5103,16 +5066,12 @@ h1 em, h2 em, h3 em, .hero-title em {
 <h2>Just one plan. <em>All-inclusive</em>.</h2>
 <p>No more five-step tables with functionality hidden in the top-level menu. A single interface covering the entire platform: CRM, multi-bank simulation, loan origination, digital contracts, collection guidelines, and a sales portal on your own domain. 30-day free trial—cancel anytime.</p>
 </div>
-<div class="pricing-toggle">
-<button class="active" onclick="togglePricing('monthly', this)">Monthly</button>
-<button onclick="togglePricing('annual', this)">Annual<span class="badge-disc">-29%</span></button>
-</div>
 <div class="pricing-grid">
 <div class="plan featured">
 <div class="plan-name">Credituz</div>
 <div class="plan-desc">Real estate agent, real estate agency, or homebuilder that sells and provides financing. The entire platform, all in one place.</div>
-<div class="plan-price"><span class="currency">R$</span><span data-annual="211" data-monthly="297">297</span></div>
-<div class="plan-period">per month · <span data-annual="cobrado anual" data-monthly="cobrança mensal">monthly billing</span></div>
+<div class="plan-price"><span class="currency">R$</span><span>297</span></div>
+<div class="plan-period">per month · billed monthly</div>
 <ul class="plan-features">
 <li><span><strong>Sales portal on your domain</strong> · Indexed in Google, with one page per property and per city</span></li>
 <li><span><strong>Credit module built into the portal</strong> · The buyer can simulate and finalize the purchase without leaving the website</span></li>
@@ -5208,13 +5167,6 @@ h1 em, h2 em, h3 em, .hero-title em {
 <div class="faq-toggle">+</div>
 </div>
 <div class="faq-a">R$ 297 per month, with the first 30 days free. It’s a single plan that includes the entire platform: CRM, AI agents, multi-bank simulation, contracts, a sales portal on your domain, and credit origination. We ask for your credit card information during registration to grant full access, but the first charge won’t be processed until after the 30-day trial, and you can cancel anytime directly through the platform.</div>
-</div>
-<div class="faq-item" onclick="toggleFaq(this)">
-<div class="faq-q">
-<h4>How does the discount on the annual plan work?</h4>
-<div class="faq-toggle">+</div>
-</div>
-<div class="faq-a">You pay a single annual fee and get about a 29% discount: the R$297/month plan works out to R$211/month. This is the recommended option for those who have already tried the product and want to lock in the price. With the monthly plan, there’s no commitment required.</div>
 </div>
 <div class="faq-item" onclick="toggleFaq(this)">
 <div class="faq-q">
@@ -5473,15 +5425,6 @@ window.addEventListener('scroll', () => {
 // FAQ toggle
 function toggleFaq(item) {
     item.classList.toggle('open');
-}
-
-// Pricing toggle
-function togglePricing(type, btn) {
-    document.querySelectorAll('.pricing-toggle button').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    document.querySelectorAll('[data-monthly][data-annual]').forEach(el => {
-        el.textContent = el.getAttribute('data-' + type);
-    });
 }
 
 // Reveal on scroll
