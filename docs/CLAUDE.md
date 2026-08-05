@@ -53,6 +53,8 @@ O resultado de cada trecho fica em `scripts/translation-cache.json`, **versionad
 
 A chave vive no secret `DEEPL_API_KEY` (plano API Free, chave terminada em `:fx`, endpoint `api-free.deepl.com` — que já é o padrão do script).
 
+O job **rebaseia antes de empurrar**: um push na `main` durante a tradução fazia o `git push` do bot ser recusado e a tradução, já paga em cota, ia embora com o runner. Se o rebase esbarrar no cache — o único conflito esperado, porque as duas execuções o reescrevem —, `scripts/merge_translation_cache.py` une os dois lados em vez de descartar um. O job também dá `git reset --hard origin/main` antes de traduzir, para pegar o cache que uma execução anterior tenha acabado de gravar; por isso o checkout usa `fetch-depth: 0`.
+
 ### Páginas
 
 - `index.html` (~223 KB) — LP principal, seções identificadas por `<section id="...">`: `roi`, `credituz-os`, `corban-ai`, `produto-por-dentro`, `produto`, `como-funciona`, `comparar`, `integracoes`, `pricing`, `indicacao`, `faq`, `metodologia`.
