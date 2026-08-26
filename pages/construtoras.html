@@ -201,6 +201,35 @@ section{padding:96px 0}
 .otas .btn-soft{background:rgba(255,255,255,.14);color:var(--paper)}
 .depo{background:var(--cream)}
 @media (max-width:640px){ section{padding:64px 0} .otas{padding:34px 24px} }
+
+/* ===== v4: corrige especificidade — .wrap (classe) anulava section (elemento) ===== */
+section.wrap{padding:96px 24px}
+header.hero.wrap{padding:96px 24px 64px}
+.hero h1{text-wrap:balance}
+.proof-strip{gap:14px 34px}
+.proof-strip b{font-size:17px}
+@media (max-width:900px){
+  section.wrap{padding:72px 22px}
+  header.hero.wrap{padding:72px 22px 48px}
+}
+@media (max-width:640px){
+  section.wrap{padding:56px 18px}
+  header.hero.wrap{padding:52px 18px 36px}
+}
+
+/* ===== v5: colisoes de cascata e refinos ===== */
+.depo footer{background:transparent;padding:0;margin-top:18px;color:var(--gray-2);font-size:13.5px}
+.depo footer b{color:var(--ink)}
+.dor-num sub{vertical-align:baseline;font-size:15px;bottom:auto;margin-left:6px}
+#faq .faq-item{max-width:860px}
+.preco-main,.preco-ent{display:flex;flex-direction:column}
+
+/* ===== v6: barra de prova no mobile ===== */
+@media (max-width:640px){
+  .proof-strip{display:grid;grid-template-columns:1fr 1fr;gap:14px 18px}
+  .proof-strip span{display:flex;flex-direction:column;font-size:12.5px;line-height:1.35}
+  .proof-strip b{font-size:18px}
+}
 </style>
 </head>
 <body>
