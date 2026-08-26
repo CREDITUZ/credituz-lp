@@ -109,6 +109,25 @@ footer a { color: #f5f5f7; }
   h2{font-size:clamp(22px,6.5vw,30px) !important;}
   .card,.plan-mini{padding:22px !important;}
 }
+
+/* ===== v3: respiro e contraste entre blocos ===== */
+section{padding:96px 0}
+.grid{gap:20px}
+.card,.dor-card,.mod-card,.j-step,.prova-stat{
+  background:var(--paper);
+  border:1px solid var(--gray-soft);
+  box-shadow:0 1px 2px rgba(29,29,31,.04),0 14px 30px -22px rgba(29,29,31,.30);
+}
+.j-step.hot{background:var(--accent-soft);border-color:rgba(0,113,227,.28);box-shadow:none}
+.dor-grid,.mod-grid,.prova-grid{gap:20px}
+.jornada{gap:16px}
+.otas{background:var(--ink);color:var(--paper);padding:60px 44px;border-radius:26px}
+.otas h2{color:var(--paper)}
+.otas .sub{color:rgba(255,255,255,.70)}
+.otas .badge-soon{background:rgba(107,178,255,.18);color:var(--accent-bright)}
+.otas .btn-soft{background:rgba(255,255,255,.14);color:var(--paper)}
+.depo{background:var(--cream)}
+@media (max-width:640px){ section{padding:64px 0} .otas{padding:34px 24px} }
 </style>
 </head>
 <body>
@@ -119,70 +138,187 @@ footer a { color: #f5f5f7; }
 </div>
 </nav>
 <header class="hero wrap">
-<div class="tag">For real estate agencies</div>
-<h1>Respond to every lead right away and <span class="hl">Close more sales</span>.</h1>
-<p class="lead">Credituz evaluates the buyer’s and tenant’s creditworthiness based on its own policy, simulates financing options at the country’s largest financial institutions, and generates a digital contract. Its brokers arrive at the property showing with the client already pre-approved.</p>
+<div class="tag">For real estate agencies and brokers</div>
+<h1>Check the credit of the buyer <span class="hl">and those who rent</span>.</h1>
+<p class="lead">Credituz screens buyers and tenants based on its own criteria—credit bureaus, financial history, and ability to pay—simulates financing with the country’s largest financial institutions, and collects the rent every month on its own.</p>
 <div class="hero-actions">
 <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it now!</a>
-<a class="btn btn-soft" href="#faq">Ask questions</a>
+<a class="btn btn-soft" href="https://wa.me/5511936201544" rel="noopener" target="_blank">Talk to an expert</a>
 </div>
-<div class="hero-meta">Growth starting at R$ 297/month · no setup fee</div>
+<div class="proof-strip">
+<span><b>R$ 300 million</b> in requested credit</span>
+<span><b>&lt;30s</b> by simulation</span>
+<span><b>15 min</b> until the signing</span>
+<span><b>+40</b> platform operations</span>
+</div>
 </header>
-<section class="wrap" id="funcionalidades">
-<div class="tag">How Credituz Works</div>
-<h2>Everything a real estate agency needs, all in one platform.</h2>
-<p class="sub">Credit analysis, CRM, contracts, and collections—all without splitting your budget across five different tools.</p>
-<div class="grid">
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">01 / Analysis and Origination</div>
-<h3>Analysis and simulation at the country's largest institutions.</h3>
-<p>The broker no longer loses the sale to the bank. Multi-bank pre-approval in seconds, with the best rate for the customer and a guaranteed commission for the real estate agency.</p>
+<section class="wrap" id="problema">
+<div class="tag">The problem</div>
+<h2>The credit decision isn't yours—and it should be.</h2>
+<p class="sub">When it comes to sales and rentals, it's the bank or insurance company that approves the deal these days. You're left with the risk and no revenue.</p>
+<div class="dor-grid">
+<div class="dor-card">
+<div class="dor-num">0<sub>%</sub></div>
+<h3>The financing committee gets the house.</h3>
+<p>The buyer walks away from the sale and finalizes the loan with the bank manager. The origination fee—which is revenue—becomes someone else’s commission—and you lose control over the timeline of the deal itself.</p>
 </div>
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">02 / Contracts and Signatures</div>
-<h3>Offer and contract without notarization.</h3>
-<p>AI-generated contract with an electronic signature and legal validity. What used to take days now takes just minutes.</p>
+<div class="dor-card">
+<div class="dor-num">1<sub>guarantor</sub></div>
+<h3>I accepted it without anyone actually checking it.</h3>
+<p>The tenant is approved either through the insurance company's screening process or by a guarantor who is personally vetted. A payment default occurs three months later, and both you and the landlord are responsible for the late payment charges.</p>
 </div>
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">03 / Billing and Accounts Receivable</div>
-<h3>Commissions and appellants under control.</h3>
-<p>Automated billing system for managing rent and installments, with boleto, Pix, and NFe. Fewer delinquencies, no need for a collections team.</p>
+<div class="dor-card">
+<div class="dor-num">1<sub>×/month</sub></div>
+<h3>That's when overdue rent is taken into account.</h3>
+<p>Rent payments are tracked in a spreadsheet and are only reviewed at month-end. Anyone who was late on the 5th is reminded on the 30th—and the payment to the landlord is delayed as well.</p>
 </div>
 </div>
 </section>
-<section class="wrap" id="locacao">
-<div class="tag">Rental and Vacation Rentals</div>
-<h2>The same goes for rentals: it's all on autopilot.</h2>
-<p class="sub">The same credit analysis approves the tenant based on their financial history and ability to pay, and the platform automatically collects the rent every month via payment slip, Pix, and invoice. Your team is freed from day-to-day operations and can focus on managing the portfolio.</p>
-<div class="grid">
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">01 / Billing Schedule</div>
-<h3>Rent is charged separately every month.</h3>
-<p>Recurring billing with reminders via WhatsApp, SMS, and email; payment slips; and Pix via the Asaas account included, plus NFe at R$ 0.49. This system reduces delinquency without straining the relationship with the tenant.</p>
+<section class="wrap" id="motor">
+<div class="motor-box">
+<div class="tag" style="color:var(--accent-bright)">The core of Credituz</div>
+<h2>The decision-making authority is now yours.</h2>
+<p class="sub">The same platform serves both buyers and renters: you set the policy, check credit reports, and assess payment capacity on the spot—without relying on a bank or insurance company’s analysis to determine whether that contract will be paid off.</p>
+<div class="motor-grid">
+<div class="motor-item">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 6h16M4 12h10M4 18h7"></path></svg></span>
+<h3>Your Credit Policy</h3>
+<p>Minimum income, commitment, accepted collateral, and approved profile—written by you and applied the same way by any broker.</p>
 </div>
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">02 / Contracts and Signatures</div>
-<h3>A Lease Agreement in 1 Minute.</h3>
-<p>AI-generated documents, legally valid, and with electronic signatures ICP-Brasil. Renewals and amendments without rework, with everything archived in the CRM.</p>
+<div class="motor-item">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-3.5-3.5"></path></svg></span>
+<h3>Check with credit bureaus</h3>
+<p>Credit scores, credit limits, and financial histories of the buyer and tenant, retrieved within the workflow without leaving the platform.</p>
 </div>
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">03 / Portfolio Management</div>
-<h3>CRM and operational dashboards.</h3>
-<p>Properties, owners, tenants, transfers, and occupancy—all on a single dashboard—providing natural-language answers to questions like what’s available, what’s overdue, and where the results are.</p>
+<div class="motor-item">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M3 17l5-5 4 3 6-7"></path><path d="M14 8h5v5"></path></svg></span>
+<h3>Ability to Pay</h3>
+<p>Verified income and financial commitment calculated on the spot—so you can see if you can afford the rent before signing the lease.</p>
 </div>
 </div>
+</div>
+</section>
+<section class="wrap" id="jornada">
+<div class="tag">The Journey</div>
+<h2>From fundraising to distribution.</h2>
+<p class="sub">Where every stage of your operation meets the platform.</p>
+<div class="jornada">
+<div class="j-step"><span class="j-n">01</span><b>Fundraising</b><span class="j-d">Portal on a custom domain, Google My Business, and leads from the portals in the CRM</span></div>
+<div class="j-step"><span class="j-n">02</span><b>Customer Service</b><span class="j-d">Unified history, with each broker having the client's complete context</span></div>
+<div class="j-step hot"><span class="j-n">03</span><b>Analysis</b><span class="j-d">Motor, through its policy, approves the buyer or renter</span></div>
+<div class="j-step"><span class="j-n">04</span><b>Credit</b><span class="j-d">Simulation and formalization at the country's leading institutions</span></div>
+<div class="j-step"><span class="j-n">05</span><b>Contract</b><span class="j-d">Sale or lease with AI, digital signature, and notary services included</span></div>
+<div class="j-step"><span class="j-n">06</span><b>Collection and Transfer</b><span class="j-d">Automatic adjustment, write-off, reconciliation, NFe, and transfer to the owner</span></div>
+</div>
+</section>
+<section class="wrap" id="funcionalidades">
+<div class="tag">What do you trade?</div>
+<h2>Six modules, one platform.</h2>
+<p class="sub">Sale and lease in the same transaction, within Credituz OS.</p>
+<div class="mod-grid">
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M12 3v18"></path><path d="M5 8h9a3 3 0 010 6H5"></path></svg></span>
+<h3>Analysis and Origination</h3>
+<p>Credit platform with its own policies and credit bureaus, loan calculators, and multi-bank loan processing: real estate financing, construction loans, home equity loans, and auto equity loans. You keep 40% of the commission.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></span>
+<h3>Lease Analysis</h3>
+<p>The tenant's financial history and ability to pay are evaluated according to your criteria—a data-driven decision, rather than accepting a guarantor blindly or relying on an insurance company's assessment.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"></path><path d="M14 3v5h5"></path><path d="M9 14l2 2 4-4"></path></svg></span>
+<h3>Contracts and Signatures</h3>
+<p>AI-generated sales or lease agreements created in 1 minute, including legally valid electronic signatures and digital notary services. Renewals and amendments without any extra work.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg></span>
+<h3>Billing and Accounts Receivable</h3>
+<p>Automated tracking of rent and installment payments via WhatsApp, SMS, and email, including payment slips, Pix, and a link in the message, as well as automatic posting, reconciliation, NFe, and transfer to the landlord.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M3 21h18"></path><path d="M6 21V9l6-5 6 5v12"></path><path d="M10 21v-6h4v6"></path></svg></span>
+<h3>Portal, CRM, and Portals</h3>
+<p>A portal on your own domain with a built-in credit module, Google Meu Negócio set up, CRM with unlimited contacts, and sync with ZAP, OLX, and VivaReal.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"></path></svg></span>
+<h3>Portfolio Intelligence</h3>
+<p>Properties, owners, tenants, occupancy, transfers, and delinquencies—all on a single dashboard—providing answers in natural language about what’s vacant, what’s past due, and where the results are.</p>
+</div>
+</div>
+</section>
+<section class="wrap" id="antes-depois">
+<div class="tag">In practice</div>
+<h2>What's changing in the operation.</h2>
+<div class="ba">
+<div class="ba-col before">
+<h4>Today</h4>
+<ul>
+<li>Buyer referred to the bank manager</li>
+<li>Tenant approved based on a personal assessment of the guarantor</li>
+<li>Lease agreement redrafted at each renewal</li>
+<li>Rent collected with manual reminders, one by one</li>
+<li>Transfer to the controlled owner in a spreadsheet</li>
+<li>Committee on Off-Site Financing</li>
+</ul>
+</div>
+<div class="ba-col after">
+<h4>With the Credituz</h4>
+<ul>
+<li>Loan simulation and formalization during the consultation</li>
+<li>Tenant screened by a credit bureau and assessed for ability to pay</li>
+<li>AI-generated contract and amendment, stored in the CRM</li>
+<li>Automated ledger for collecting, posting, and reconciling</li>
+<li>Pass and NFe on automatic, with occupancy display</li>
+<li>40% of the origination fee goes to your operation</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="wrap" id="prova">
+<div class="tag">Results from users</div>
+<h2>Real-world traction, in production.</h2>
+<div class="prova-grid">
+<div class="prova-stat"><b>R$ 300 million</b><span>in requested credit</span></div>
+<div class="prova-stat"><b>+40</b><span>platform operations</span></div>
+<div class="prova-stat"><b>15 min</b><span>from the contract to the signing</span></div>
+</div>
+<blockquote class="depo">
+<p>“Cost-effectiveness and efficiency in drafting contracts were paramount. What used to take hours <strong>It takes 15 minutes now</strong>, with fewer errors and greater traceability.”</p>
+<footer><span class="av">HB</span><span><b>Heitor Bilha</b><br/>Founding Partner · Bilha Imóveis</span></footer>
+</blockquote>
+</section>
+<section class="wrap" id="integracoes">
+<div class="tag">Integrations</div>
+<h2>Your portals and your CRM are still up and running.</h2>
+<p class="sub">Real-time, two-way synchronization with portals and the system your team already uses. Account activated in 5 minutes; full integration within 24 hours.</p>
+<div class="logos">
+<span>ZAP Real Estate</span><span>OLX</span><span>VivaReal</span><span>Kenlo</span><span>Asaas</span><span>+20 via API</span>
+</div>
+</section>
+<section class="wrap" id="preco">
+<div class="tag">Price</div>
+<h2>Start with Growth, scale up to Enterprise.</h2>
+<div class="preco-box">
+<div class="preco-main">
+<div class="preco-name">Growth</div>
+<div class="preco-val">R$ 297<span>/mês</span></div>
+<p>Credit and lease analysis with custom policies, simulations, and multi-bank contract processing; 50 contracts using AI and 20 digital signatures per month; collections and accounts receivable; sales portal; CRM; and 40% of the origination commission. 3 users.</p>
+</div>
+<div class="preco-ent">
+<div class="preco-name">Enterprise</div>
+<div class="preco-val small">Custom-made</div>
+<p>Multi-company, company- and product-specific policies, lease agreements and subleases, custom rules, NFe, White Label, API, and SLA. <strong>75% of the commission.</strong></p>
+</div>
+</div>
+<p class="sub" style="margin-top:14px"><a href="../index.html#pricing">View the complete list of plans →</a></p>
 </section>
 <section class="wrap" id="cta-final">
 <div class="otas">
 <span class="badge-soon">Get started now</span>
-<h2>Stop losing leads because of slow response times.</h2>
-<p class="sub">Create your account in 5 minutes and try out the entire platform, or speak with an expert.</p>
+<h2>Measure with your own ruler, not the bank's.</h2>
+<p class="sub">Create your account in 5 minutes and try out the entire platform, or speak with an expert for an assessment of your portfolio.</p>
 <div class="hero-actions" style="margin-top:18px">
 <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it now!</a>
 <a class="btn btn-soft" href="https://wa.me/5511936201544" rel="noopener" target="_blank">Talk to an expert</a>
@@ -193,8 +329,14 @@ footer a { color: #f5f5f7; }
 <div class="tag">Frequently Asked Questions</div>
 <h2>Frequently Asked Questions</h2>
 <div style="margin-top:18px">
-<div class="faq-item"><h4>Does it integrate with the real estate portals (ZAP, OLX, VivaReal)?<span>+</span></h4><div class="a">Yes, it's already included in the plan, with real-time two-way sync. You can also import leads with just one click.</div></div>
-<div class="faq-item"><h4>Is it suitable for a small real estate agency with just a few agents?<span>+</span></h4><div class="a">Yes. It's the Growth plan, which costs R$ 297 per month, with no expensive setup fees and no minimum monthly commitment.</div></div>
+<div class="faq-item"><h4>How does the tenant screening process work?<span>+</span></h4><div class="a">The system checks credit bureaus and calculates payment capacity based on the criteria you set—minimum income, maximum debt-to-income ratio, and accepted collateral. The decision is made instantly, with the results displayed on the screen, rather than relying on an insurance company’s review.</div></div>
+<div class="faq-item"><h4>Does it replace surety insurance or a guarantor?<span>+</span></h4><div class="a">Credituz is not an insurance company: it provides you with the analysis you need to make an informed decision. Many real estate agencies use the platform to filter leads in advance and reduce claims, while maintaining the coverage they already have in place.</div></div>
+<div class="faq-item"><h4>Can I write my own approval policy?<span>+</span></h4><div class="a">Yes—it’s the core of the product, and it applies to both sales and rentals. In Enterprise, policies may vary by company and by product.</div></div>
+<div class="faq-item"><h4>Do I earn a commission on my client's loan?<span>+</span></h4><div class="a">Yes. When you originate a loan on the platform, 40% of the commission paid by the bank goes to your business on the Growth plan, and 75% on the Enterprise plan.</div></div>
+<div class="faq-item"><h4>Does it integrate with the real estate portals (ZAP, OLX, VivaReal)?<span>+</span></h4><div class="a">Yes, it's already included in the plan, with real-time two-way sync. You can also import leads and contacts with just one click.</div></div>
+<div class="faq-item"><h4>Is rent collected automatically?<span>+</span></h4><div class="a">That's right. The system sends notifications via WhatsApp, SMS, and email in the order you specify, including a payment slip, Pix, and a link in the message itself, along with automatic posting, reconciliation, NFe, and forwarding to the owner.</div></div>
+<div class="faq-item"><h4>Is it suitable for a small real estate agency with just a few agents?<span>+</span></h4><div class="a">Yes. The Growth plan costs R$ 297 per month, supports 3 users, has no expensive setup fees, and has no minimum contract term.</div></div>
+<div class="faq-item"><h4>How long will it take to go live?<span>+</span></h4><div class="a">Active account in 5 minutes, self-service. Integration with portals and your system takes up to 24 hours. No 60-day implementation period.</div></div>
 </div>
 </section>
 <footer>
