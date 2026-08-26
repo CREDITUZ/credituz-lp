@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Plataforma com IA para construtoras | Credituz</title>
-<meta name="description" content="CRM, simulação de crédito multibancos, contratos digitais e gestão de recebíveis para construtoras venderem mais rápido, da proposta à entrega das chaves.">
+<meta name="description" content="Analise o comprador com a sua política de crédito antes de financiar a entrada. Simulação e formalização multibanco, contratos com IA, cobrança e espelho de empreendimento para construtoras.">
 <link rel="canonical" href="https://www.credituz.ai/pages/construtoras.html">
 <link rel="icon" href="../favicon.ico">
 <style>
@@ -109,6 +109,79 @@ footer a { color: #f5f5f7; }
   h2{font-size:clamp(22px,6.5vw,30px) !important;}
   .card,.plan-mini{padding:22px !important;}
 }
+
+/* ===== v2 segmento: prova, dor, motor, jornada, modulos, antes/depois, logos, preco ===== */
+.proof-strip{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:26px;padding-top:20px;border-top:1px solid var(--gray-soft);font-size:13.5px;color:var(--gray-2)}
+.proof-strip b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+.dor-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
+.dor-card{background:var(--paper-warm);border-radius:22px;padding:26px 24px}
+.dor-num{font-size:44px;font-weight:600;letter-spacing:-.03em;line-height:1;color:var(--lime);margin-bottom:14px;font-variant-numeric:tabular-nums}
+.dor-num sub{font-size:15px;font-weight:500;color:var(--gray-3);margin-left:5px;vertical-align:baseline}
+.dor-card h3{font-size:18px;font-weight:600;letter-spacing:-.02em;margin-bottom:8px}
+.dor-card p{font-size:14.5px;color:var(--gray-2);line-height:1.55}
+.motor-box{background:var(--ink);color:var(--paper);border-radius:26px;padding:44px 38px}
+.motor-box h2{color:var(--paper)}
+.motor-box .sub{color:rgba(255,255,255,.68);max-width:70ch}
+.motor-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px}
+.motor-item{background:rgba(255,255,255,.06);border-radius:16px;padding:22px 20px}
+.motor-item h3{font-size:16.5px;font-weight:600;margin:12px 0 6px;color:var(--paper)}
+.motor-item p{font-size:14px;line-height:1.55;color:rgba(255,255,255,.66);margin:0}
+.ico{display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:11px;background:var(--accent-soft);color:var(--lime)}
+.ico svg{width:20px;height:20px}
+.motor-item .ico{background:rgba(107,178,255,.16);color:var(--accent-bright)}
+.jornada{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:26px}
+.j-step{background:var(--paper-warm);border-radius:16px;padding:20px}
+.j-step.hot{background:var(--accent-soft);outline:1px solid rgba(0,113,227,.22)}
+.j-n{display:block;font-family:var(--font-mono);font-size:12px;color:var(--lime);font-weight:600;margin-bottom:8px}
+.j-step b{display:block;font-size:16px;font-weight:600;letter-spacing:-.02em}
+.j-d{display:block;font-size:13.5px;color:var(--gray-2);line-height:1.5;margin-top:5px}
+.mod-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
+.mod-card{background:var(--paper-warm);border-radius:22px;padding:26px 24px}
+.mod-card h3{font-size:17.5px;font-weight:600;letter-spacing:-.02em;margin:14px 0 8px}
+.mod-card p{font-size:14.5px;color:var(--gray-2);line-height:1.55;margin:0}
+.ba{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:24px}
+.ba-col{border-radius:22px;padding:26px 24px}
+.ba-col.before{background:var(--paper-warm)}
+.ba-col.after{background:var(--accent-soft)}
+.ba-col h4{font-family:var(--font-mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;margin-bottom:14px}
+.ba-col.before h4{color:var(--gray-3)}
+.ba-col.after h4{color:var(--lime)}
+.ba-col ul{list-style:none;padding:0;margin:0}
+.ba-col li{font-size:14.5px;line-height:1.5;color:var(--gray-2);padding:9px 0 9px 24px;position:relative;border-top:1px solid rgba(0,0,0,.05)}
+.ba-col li:first-child{border-top:none}
+.ba-col.before li::before{content:"\2715";position:absolute;left:0;color:var(--gray-3);font-size:13px}
+.ba-col.after li::before{content:"\2713";position:absolute;left:0;color:var(--lime);font-weight:700;font-size:13px}
+.ba-col.after li{color:var(--ink)}
+.prova-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.prova-stat{background:var(--paper-warm);border-radius:18px;padding:24px;text-align:center}
+.prova-stat b{display:block;font-size:34px;font-weight:600;letter-spacing:-.03em;color:var(--lime);line-height:1;font-variant-numeric:tabular-nums}
+.prova-stat span{display:block;font-size:13.5px;color:var(--gray-2);margin-top:8px}
+.depo{margin:20px 0 0;padding:28px 26px;background:var(--paper-warm);border-radius:22px}
+.depo p{font-size:19px;line-height:1.45;letter-spacing:-.02em;color:var(--ink);margin:0}
+.depo strong{font-weight:600;color:var(--lime)}
+.depo footer{display:flex;align-items:center;gap:12px;margin-top:18px;font-size:13.5px;color:var(--gray-2)}
+.depo .av{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;background:var(--lime);color:#fff;font-weight:600;font-size:14px;flex:0 0 auto}
+.depo footer b{color:var(--ink);font-weight:600}
+.logos{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.logos span{background:var(--paper-warm);border-radius:100px;padding:10px 18px;font-size:14px;font-weight:600;color:var(--ink)}
+.preco-box{display:grid;grid-template-columns:1.35fr 1fr;gap:16px;margin-top:24px}
+.preco-main,.preco-ent{border-radius:22px;padding:26px 24px}
+.preco-main{background:var(--accent-soft)}
+.preco-ent{background:var(--paper-warm)}
+.preco-name{font-family:var(--font-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--gray-3);font-weight:600}
+.preco-val{font-size:34px;font-weight:600;letter-spacing:-.03em;margin:6px 0 10px;color:var(--ink)}
+.preco-val span{font-size:15px;font-weight:400;color:var(--gray-3);letter-spacing:-.01em}
+.preco-val.small{font-size:24px}
+.preco-box p{font-size:14px;color:var(--gray-2);line-height:1.55;margin:0}
+@media (max-width:900px){
+  .dor-grid,.motor-grid,.jornada,.mod-grid,.prova-grid{grid-template-columns:repeat(2,1fr)}
+  .preco-box{grid-template-columns:1fr}
+}
+@media (max-width:640px){
+  .dor-grid,.motor-grid,.jornada,.mod-grid,.prova-grid,.ba{grid-template-columns:1fr}
+  .motor-box{padding:30px 22px}
+  .depo p{font-size:17px}
+}
 </style>
 </head>
 <body>
@@ -121,47 +194,196 @@ footer a { color: #f5f5f7; }
 </nav>
 
 <header class="hero wrap">
-    <div class="tag">Para construtoras</div>
-    <h1>Venda mais unidades <span class="hl">do lançamento à entrega das chaves</span>.</h1>
-    <p class="lead">A Credituz qualifica cada lead do seu lançamento no WhatsApp, simula o crédito em 10 bancos na hora e gera o contrato em minutos. Seu time comercial foca em fechar, não em planilha.</p>
+    <div class="tag">Para construtoras e incorporadoras</div>
+    <h1>Financie a entrada de quem <span class="hl">o banco vai aprovar</span> no repasse.</h1>
+    <p class="lead">A Credituz analisa o comprador com a sua política de crédito antes de você assumir o risco — e conduz a venda até a chave: simulação multibanco, contrato com IA, cobrança e o espelho do empreendimento numa fonte única.</p>
     <div class="hero-actions">
         <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener">Testar agora!</a>
-        <a class="btn btn-soft" href="#faq">Tirar dúvidas</a>
+        <a class="btn btn-soft" href="https://wa.me/5511936201544" target="_blank" rel="noopener">Falar com um especialista</a>
     </div>
-    <div class="hero-meta">Plano único de R$ 297/mês · sem implantação</div>
+    <div class="proof-strip">
+        <span><b>R$ 300M</b> em crédito solicitado</span>
+        <span><b>&lt;30s</b> por simulação</span>
+        <span><b>80%</b> menos tempo de fechamento</span>
+        <span><b>+40</b> operações na plataforma</span>
+    </div>
 </header>
 
-<section class="wrap" id="funcionalidades">
-    <div class="tag">Como a Credituz atua</div>
-    <h2>O que a plataforma resolve na construtora.</h2>
-    <p class="sub">Do estande à pós-venda, os agentes de IA da Credituz cobrem o funil inteiro do seu empreendimento.</p>
-    <div class="grid">
-<div class="card">
-  <span class="badge-ready">DISPONÍVEL</span>
-  <div class="num">01 / Carlos · Crédito</div>
-  <h3>Pré-aprovação multibancos em segundos.</h3>
-  <p>Renda, FGTS, score e comprometimento avaliados em 10 bancos e fintechs numa única consulta. O cliente chega à visita sabendo exatamente o que pode comprar.</p>
-</div>
-<div class="card">
-  <span class="badge-ready">DISPONÍVEL</span>
-  <div class="num">02 / Ana · Contratos</div>
-  <h3>Proposta e contrato em minutos.</h3>
-  <p>Geração com IA, validade jurídica e assinatura eletrônica ICP-Brasil. Sem ida ao cartório físico, sem retrabalho entre comercial e jurídico.</p>
-</div>
-<div class="card">
-  <span class="badge-ready">DISPONÍVEL</span>
-  <div class="num">03 / Iris · Inteligência</div>
-  <h3>Painel do lançamento em tempo real.</h3>
-  <p>Velocidade de vendas, estoque por tipologia, conversão por canal e funil do empreendimento num painel só, com a Iris respondendo em linguagem natural.</p>
-</div>
+<section class="wrap" id="problema">
+    <div class="tag">O problema</div>
+    <h2>O prejuízo começa dois anos antes de aparecer.</h2>
+    <p class="sub">Quem financia a entrada assume o risco de crédito sozinho — e só descobre o erro quando o banco entra na conversa.</p>
+    <div class="dor-grid">
+        <div class="dor-card">
+            <div class="dor-num">24<sub>meses</sub></div>
+            <h3>Até o repasse revelar a reprovação.</h3>
+            <p>Você parcelou a entrada, recebeu por dois anos e, no repasse, o banco analisa com a régua dele e nega. A venda cai no fim da linha, não no começo.</p>
+        </div>
+        <div class="dor-card">
+            <div class="dor-num">1<sub>unidade</sub></div>
+            <h3>Volta ao estoque a cada distrato.</h3>
+            <p>Dinheiro devolvido, comissão já paga, dois anos de carregamento e uma unidade que precisa ser vendida de novo — agora com o empreendimento mais maduro.</p>
+        </div>
+        <div class="dor-card">
+            <div class="dor-num">0<sub>%</sub></div>
+            <h3>Da comissão do financiamento fica com você.</h3>
+            <p>O comprador fecha o crédito com o gerente do banco. A originação, que é receita, vira comissão de outra pessoa — e você perde o controle do prazo da própria venda.</p>
+        </div>
     </div>
+</section>
+
+<section class="wrap" id="motor">
+  <div class="motor-box">
+    <div class="tag" style="color:var(--accent-bright)">O núcleo da Credituz</div>
+    <h2>Aprove hoje quem o banco vai aprovar depois.</h2>
+    <p class="sub">Você escreve a política de crédito, consulta bureaus e mede capacidade de renda no ato da venda — com a mesma régua que vai decidir o repasse lá na frente. É o que transforma análise em seguro contra distrato.</p>
+    <div class="motor-grid">
+      <div class="motor-item">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h10M4 18h7"/></svg></span>
+        <h3>Política de crédito sua</h3>
+        <p>Renda, comprometimento, entrada mínima e perfil aceito — escritos por você e aplicados igual em toda venda, por qualquer vendedor.</p>
+      </div>
+      <div class="motor-item">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></span>
+        <h3>Consulta a bureaus</h3>
+        <p>Score, restrições e histórico financeiro puxados dentro do fluxo, sem sair da plataforma e sem esperar retorno de terceiro.</p>
+      </div>
+      <div class="motor-item">
+        <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l5-5 4 3 6-7"/><path d="M14 8h5v5"/></svg></span>
+        <h3>Capacidade de renda</h3>
+        <p>Renda comprovada, composição familiar e comprometimento calculados na hora, para saber quanto o comprador realmente carrega.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="wrap" id="jornada">
+    <div class="tag">A jornada</div>
+    <h2>Do lançamento à entrega das chaves.</h2>
+    <p class="sub">Onde cada etapa da sua operação encontra a plataforma.</p>
+    <div class="jornada">
+        <div class="j-step"><span class="j-n">01</span><b>Lançamento</b><span class="j-d">Portal de vendas no seu domínio, Google Meu Negócio e leads no CRM</span></div>
+        <div class="j-step hot"><span class="j-n">02</span><b>Análise</b><span class="j-d">Motor com a sua política decide quem entra na carteira</span></div>
+        <div class="j-step"><span class="j-n">03</span><b>Crédito</b><span class="j-d">Simulação e formalização nas maiores instituições do país</span></div>
+        <div class="j-step"><span class="j-n">04</span><b>Contrato</b><span class="j-d">Documento com IA, assinatura digital e cartório incluso</span></div>
+        <div class="j-step"><span class="j-n">05</span><b>Obra e cobrança</b><span class="j-d">Espelho do empreendimento, régua automática, baixa e conciliação</span></div>
+        <div class="j-step"><span class="j-n">06</span><b>Repasse</b><span class="j-d">Acompanhado até a liberação — sem surpresa, porque a análise foi feita na etapa 02</span></div>
+    </div>
+</section>
+
+<section class="wrap" id="funcionalidades">
+    <div class="tag">O que você opera</div>
+    <h2>Seis módulos, uma plataforma.</h2>
+    <p class="sub">Do primeiro lead do lançamento à última parcela recebida, tudo dentro do Credituz OS.</p>
+    <div class="mod-grid">
+        <div class="mod-card">
+            <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18"/><path d="M5 8h9a3 3 0 010 6H5"/></svg></span>
+            <h3>Análise e originação</h3>
+            <p>Motor de crédito com política própria e bureaus, simulação e formalização multibanco: financiamento imobiliário, crédito para construção, home equity e auto equity. Você fica com 40% da comissão.</p>
+        </div>
+        <div class="mod-card">
+            <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M9 14l2 2 4-4"/></svg></span>
+            <h3>Contratos e assinatura</h3>
+            <p>Proposta e contrato gerados com IA em menos de 1 minuto, assinatura eletrônica com validade jurídica e cartório digital incluso. Sem ida ao cartório físico.</p>
+        </div>
+        <div class="mod-card">
+            <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 10h18M9 10v10"/></svg></span>
+            <h3>Espelho de empreendimento</h3>
+            <p>Unidades, reservas, status de cada contrato e disponibilidade por tipologia numa fonte única — o fim da planilha paralela entre comercial e administrativo.</p>
+        </div>
+        <div class="mod-card">
+            <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span>
+            <h3>Cobrança e recebíveis</h3>
+            <p>Régua automática em WhatsApp, SMS e e-mail para as parcelas da entrada, com boleto, Pix e link na própria mensagem, baixa automática e conciliação.</p>
+        </div>
+        <div class="mod-card">
+            <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M6 21V9l6-5 6 5v12"/><path d="M10 21v-6h4v6"/></svg></span>
+            <h3>Portal de vendas e CRM</h3>
+            <p>Portal em domínio próprio com módulo de crédito embutido, Google Meu Negócio configurado e CRM de vendas e de crédito com contatos ilimitados.</p>
+        </div>
+        <div class="mod-card">
+            <span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></span>
+            <h3>Inteligência de carteira</h3>
+            <p>Velocidade de vendas, estoque por tipologia, aprovação por banco, inadimplência e previsão de caixa — em linguagem natural, sem dashboard confuso.</p>
+        </div>
+    </div>
+</section>
+
+<section class="wrap" id="antes-depois">
+    <div class="tag">Na prática</div>
+    <h2>O que muda na operação.</h2>
+    <div class="ba">
+        <div class="ba-col before">
+            <h4>Hoje</h4>
+            <ul>
+                <li>Comprador aprovado no feeling do vendedor</li>
+                <li>Espelho do empreendimento numa planilha compartilhada</li>
+                <li>Contrato indo e voltando entre comercial e jurídico</li>
+                <li>Parcelas da entrada cobradas na base do lembrete manual</li>
+                <li>Reprovação no repasse descoberta no fim do processo</li>
+                <li>Comissão do financiamento para o gerente do banco</li>
+            </ul>
+        </div>
+        <div class="ba-col after">
+            <h4>Com a Credituz</h4>
+            <ul>
+                <li>Comprador analisado pela sua política, com bureau, no ato</li>
+                <li>Espelho vivo, igual para comercial, obra e financeiro</li>
+                <li>Contrato com IA e assinatura digital em minutos</li>
+                <li>Régua automática cobrando, baixando e conciliando sozinha</li>
+                <li>Repasse previsível: quem entrou já passava na régua do banco</li>
+                <li>40% da comissão de originação fica na sua operação</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section class="wrap" id="prova">
+    <div class="tag">Resultado de quem usa</div>
+    <h2>Tração real, em produção.</h2>
+    <div class="prova-grid">
+        <div class="prova-stat"><b>R$ 300M</b><span>em crédito solicitado</span></div>
+        <div class="prova-stat"><b>+40</b><span>operações na plataforma</span></div>
+        <div class="prova-stat"><b>80%</b><span>menos tempo de fechamento</span></div>
+    </div>
+    <blockquote class="depo">
+        <p>“Saímos de uma situação de baixo controle para o <strong>controle total da nossa carteira</strong>. Hoje sabemos exatamente o status de cada unidade, cada contrato e cada repasse.”</p>
+        <footer><span class="av">AS</span><span><b>Adson Soares</b><br>Gestor de Incorporação · NJS Engenharia</span></footer>
+    </blockquote>
+</section>
+
+<section class="wrap" id="integracoes">
+    <div class="tag">Integrações</div>
+    <h2>Continua com o Sienge e o CV que você já usa.</h2>
+    <p class="sub">A Credituz entra como camada de IA sobre o que já roda no seu time, com leitura e escrita bidirecional em tempo real. Conta ativa em 5 minutos; integração com o ERP em até 24h.</p>
+    <div class="logos">
+        <span>Sienge</span><span>CV CRM</span><span>Kenlo</span><span>Conaz</span><span>Asaas</span><span>+20 via API</span>
+    </div>
+</section>
+
+<section class="wrap" id="preco">
+    <div class="tag">Preço</div>
+    <h2>Comece no Growth, escale no Enterprise.</h2>
+    <div class="preco-box">
+        <div class="preco-main">
+            <div class="preco-name">Growth</div>
+            <div class="preco-val">R$ 297<span>/mês</span></div>
+            <p>Análise de crédito com política própria, simulação e formalização multibanco, 50 contratos com IA e 20 assinaturas digitais por mês, cobrança e recebíveis, espelho de empreendimento, portal de vendas, CRM e 40% da comissão de originação. 3 usuários · até 100 empreendimentos.</p>
+        </div>
+        <div class="preco-ent">
+            <div class="preco-name">Enterprise</div>
+            <div class="preco-val small">Sob medida</div>
+            <p>Multi-empresa, políticas por empresa e produto, obras e repasses, régua customizada, NFe, White Label, API e SLA. <strong>75% da comissão.</strong></p>
+        </div>
+    </div>
+    <p class="sub" style="margin-top:14px"><a href="../index.html#pricing">Ver a tabela completa de planos →</a></p>
 </section>
 
 <section class="wrap" id="cta-final">
     <div class="otas">
         <span class="badge-soon">Comece agora</span>
         <h2>Coloque o próximo lançamento para vender com IA.</h2>
-        <p class="sub">Crie sua conta e ative os agentes em minutos, ou fale com um especialista para um diagnóstico da sua operação.</p>
+        <p class="sub">Crie sua conta e ative a plataforma em minutos, ou fale com um especialista para um diagnóstico da sua operação.</p>
         <div class="hero-actions" style="margin-top:18px">
             <a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" target="_blank" rel="noopener">Testar agora!</a>
             <a class="btn btn-soft" href="https://wa.me/5511936201544" target="_blank" rel="noopener">Falar com um especialista</a>
@@ -173,11 +395,17 @@ footer a { color: #f5f5f7; }
     <div class="tag">Perguntas frequentes</div>
     <h2>Dúvidas comuns</h2>
     <div style="margin-top:18px">
-<div class="faq-item"><h4>Funciona para VGV alto e tickets de R$ 500 mil a R$ 2 mi?<span>+</span></h4><div class="a">Sim. A esteira de crédito multibancos foi feita para ticket imobiliário. Quanto maior a complexidade do financiamento, mais a pré-aprovação antecipada acelera o fechamento.</div></div>
-<div class="faq-item"><h4>Substitui o meu CRM atual (CV, Sienge, etc.)?<span>+</span></h4><div class="a">Pode substituir ou conviver. A Credituz importa contatos em 1 clique e a integração com portais já vem inclusa no plano. Muitas construtoras migram aos poucos.</div></div>
-<div class="faq-item"><h4>Quanto tempo para colocar no ar?<span>+</span></h4><div class="a">Self-serve em 5 minutos. Integração com seu ERP em até 24h. Sem implantação de 60 dias.</div></div>
+<div class="faq-item"><h4>Como a análise evita distrato no repasse?<span>+</span></h4><div class="a">O motor aplica a sua política de crédito e consulta bureaus no ato da venda, antes de você financiar a entrada. Em vez de descobrir a reprovação dois anos depois, você já sabe no dia da proposta se aquele comprador chega ao repasse aprovado.</div></div>
+<div class="faq-item"><h4>Posso escrever minha própria política de crédito?<span>+</span></h4><div class="a">Sim — é o núcleo do produto. Você define renda mínima, comprometimento máximo, entrada, perfil aceito e as regras que quiser. No Enterprise, as políticas podem ser diferentes por empresa e por produto.</div></div>
+<div class="faq-item"><h4>Quais linhas de crédito vocês originam?<span>+</span></h4><div class="a">Financiamento imobiliário, crédito para construção, home equity e auto equity — com simulação e formalização nas maiores instituições financeiras do país, numa consulta só.</div></div>
+<div class="faq-item"><h4>Funciona para VGV alto e tickets de R$ 500 mil a R$ 2 mi?<span>+</span></h4><div class="a">Sim. A esteira foi feita para ticket imobiliário. Quanto maior a complexidade do financiamento, mais a análise antecipada protege a venda e acelera o fechamento.</div></div>
+<div class="faq-item"><h4>Substitui o meu ERP ou CRM atual (Sienge, CV)?<span>+</span></h4><div class="a">Pode substituir ou conviver. A Credituz funciona como camada de IA sobre o seu ERP, com sync bidirecional em tempo real, e importa contatos em 1 clique. Muitas construtoras migram aos poucos.</div></div>
+<div class="faq-item"><h4>O espelho de empreendimento substitui minha planilha?<span>+</span></h4><div class="a">Sim. Unidades, reservas, status de contrato e disponibilidade por tipologia ficam numa fonte única, que comercial, obra e financeiro enxergam ao mesmo tempo.</div></div>
+<div class="faq-item"><h4>A cobrança da entrada é automática?<span>+</span></h4><div class="a">É. A régua dispara em WhatsApp, SMS e e-mail na ordem que você definir, com boleto, Pix e link de pagamento na própria mensagem, baixa automática e conciliação — sem time de cobrança.</div></div>
+<div class="faq-item"><h4>Quanto tempo para colocar no ar?<span>+</span></h4><div class="a">Conta ativa em 5 minutos, self-serve. A integração com o seu ERP (token de API, mapeamento de campos e ativação) leva até 24h. Sem implantação de 60 dias.</div></div>
     </div>
 </section>
+
 
 <footer>
   <div class="wrap">
