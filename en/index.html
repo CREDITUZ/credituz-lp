@@ -4361,6 +4361,99 @@ h1 em, h2 em, h3 em, .hero-title em {
 </div>
 <p class="pb-logos">Valore Group · NJS Engineering · Bilha Real Estate and other businesses that already use Credituz for sales and billing</p>
 </section>
+<!-- CREDITUZ OS (orbital) -->
+<style>
+.cos-os{max-width:none;width:100%;margin:0;padding:96px 24px;background:var(--ink);color:var(--paper);position:relative;overflow:hidden}
+.cos-os .cos-inner{max-width:1200px;margin:0 auto;position:relative;z-index:2}
+.cos-eyebrow{font-family: var(--font-sans);font-size:12px;letter-spacing: -0.01em;text-transform: none;color: var(--accent-bright);margin:0 0 14px;display:block}
+.cos-h2{font-family:var(--font-sans);font-weight:600;font-size:clamp(28px,4vw,46px);line-height:1.08;margin:0 0 16px;max-width:18ch}
+.cos-h2 .cos-hl{color:var(--rust)}
+.cos-sub{font-family:var(--font-sans);font-size:clamp(15px,1.4vw,18px);line-height:1.6;color:#d2d2d7;max-width:64ch;margin:0 0 56px}
+.cos-stage{display:grid;grid-template-columns:1fr;gap:22px;align-items:center}
+.cos-coltitle{font-family: var(--font-sans);font-size:11px;letter-spacing: -0.01em;text-transform: none;color:#86868b;margin:0 0 4px}
+.cos-col{display:flex;flex-direction:column;gap:14px}
+.cos-card{position:relative;background:var(--paper);color:var(--ink);border-radius:14px;padding:18px 20px;box-shadow:0 10px 30px rgba(0,0,0,.28);transition:transform .25s ease,box-shadow .25s ease}
+.cos-card:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(0,0,0,.38)}
+.cos-card h3{font-family:var(--font-sans);font-size:17px;font-weight:600;margin:0 0 2px;color:var(--ink)}
+.cos-card .cos-tag{font-family: var(--font-sans);font-size:10.5px;letter-spacing: -0.01em;text-transform: none;color:var(--rust);display:block;margin:0 0 8px}
+.cos-card p{font-family:var(--font-sans);font-size:13px;line-height:1.5;color:#6e6e73;margin:0}
+.cos-card::after{content:"";position:absolute;top:50%;width:9px;height:9px;border-radius:50%;background:var(--lime);transform:translateY(-50%);opacity:.5;transition:opacity .25s ease,box-shadow .25s ease}
+.cos-col--left .cos-card::after{right:-4px}
+.cos-col--right .cos-card::after{left:-4px}
+.cos-card:hover::after{opacity:1;box-shadow:0 0 0 5px rgba(107, 178, 255,.18)}
+.cos-core-wrap{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 0}
+.cos-core-stage{position:relative;width:100%;max-width:340px;height:250px;display:flex;align-items:center;justify-content:center;margin:0 auto}
+.cos-orbit{position:absolute;top:50%;left:50%;width:330px;height:330px;transform:translate(-50%,-50%);pointer-events:none}
+.cos-orbit svg{width:100%;height:100%;display:block;animation:cos-spin 46s linear infinite;transform-origin:50% 50%}
+.cos-orbit svg:nth-child(2){animation-duration:64s;animation-direction:reverse}
+@keyframes cos-spin{to{transform:rotate(360deg)}}
+.cos-core{position:relative;width:152px;height:152px;border-radius:50%;background:radial-gradient(circle at 50% 38%,#161617 0%,#1d1d1f 70%);display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 1px rgba(107, 178, 255,.35),0 0 60px rgba(107, 178, 255,.22);z-index:2}
+.cos-core::before{content:"";position:absolute;inset:-10px;border-radius:50%;border:1px solid rgba(107, 178, 255,.25);animation:cos-pulse 3.4s ease-in-out infinite}
+@keyframes cos-pulse{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(1.12);opacity:.15}}
+.cos-mono{font-family:var(--font-sans);font-weight:600;font-size:64px;color: var(--accent-bright);line-height:1}
+.cos-osname{font-family: var(--font-sans);font-size:13px;letter-spacing:-0.01em;color:var(--paper);margin:6px 0 0;text-transform: none;}
+.cos-credit{margin:16px auto 0;max-width:320px;background:rgba(178, 80, 0,.10);border:1px solid rgba(178, 80, 0,.55);border-radius:14px;padding:14px 16px;text-align:center;box-shadow:0 0 30px rgba(178, 80, 0,.12)}
+.cos-credit .cos-credit-k{font-family: var(--font-sans);font-size:10.5px;letter-spacing: -0.01em;text-transform: none;color:var(--rust);display:block;margin:0 0 5px}
+.cos-credit strong{font-family:var(--font-sans);font-size:14.5px;font-weight:600;color:var(--paper);display:block;line-height:1.35}
+.cos-chip{position:absolute;font-family:var(--font-sans);background:#161617;border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:10px 13px;font-size:12px;line-height:1.35;color:#d2d2d7;box-shadow:0 12px 30px rgba(0,0,0,.4);max-width:184px;z-index:3}
+.cos-chip--chat{top:2px;left:-20px}
+.cos-chip--credit{bottom:2px;right:-20px}
+.cos-chip .cos-chip-h{display:block;font-size:11px;color:#86868b;margin:0 0 2px}
+.cos-chip--credit .cos-ok{color: var(--accent-bright);font-weight:600}
+.cos-chip--credit .cos-big{font-family:var(--font-sans);font-size:18px;color:var(--paper);font-weight:600}
+.cos-foot{margin:54px auto 0;text-align:center;font-family:var(--font-sans);font-size:14px;color:#86868b;max-width:60ch}
+.cos-foot strong{color:var(--paper);font-weight:600}
+@media (min-width:980px){
+  .cos-stage{grid-template-columns:minmax(0,1fr) 340px minmax(0,1fr);gap:30px}
+  .cos-coltitle--right{text-align:right}
+}
+@media (max-width:979px){
+  .cos-core-wrap{order:-1}
+  .cos-chip{display:none}
+  .cos-card::after{display:none}
+}
+@media (prefers-reduced-motion:reduce){
+  .cos-orbit svg{animation:none}
+  .cos-core::before{animation:none}
+}
+</style>
+<section class="cos-os" id="credituz-os">
+<div class="cos-inner">
+<span class="cos-eyebrow">The Credituz OS</span>
+<h2 class="cos-h2">An AI layer that connects the entire operation. <span class="cos-hl">And that wraps up the financing.</span></h2>
+<p class="cos-sub">From the initial proposal to the final payment received, Credituz integrates credit management, contracts, collections, CRM, and ERP into a single platform. And it does what no ERP or chatbot can: it simulates, approves, and extends credit all within the same workflow.</p>
+<div class="cos-stage">
+<div class="cos-col cos-col--left">
+<p class="cos-coltitle">Customer Journey</p>
+<div class="cos-card"><span class="cos-tag">Credit</span><h3>Simulation and Pre-Approval</h3><p>Multi-bank simulation at the first point of contact, with the customer already knowing the financing amount.</p></div>
+<div class="cos-card"><span class="cos-tag">Documents</span><h3>Credit Line</h3><p>Income verification, FGTS, and documentation without the customer having to go to the bank.</p></div>
+<div class="cos-card"><span class="cos-tag">Sales</span><h3>Sales Team Assistant</h3><p>Support for real-time closing, with consolidated historical data and credit simulation data.</p></div>
+<div class="cos-card"><span class="cos-tag">Back office</span><h3>Entrepreneurship Mirror</h3><p>Units, reservations, and the status of each contract are tracked in a single source, without the need for a separate spreadsheet.</p></div>
+</div>
+<div class="cos-core-wrap">
+<div class="cos-core-stage">
+<div aria-hidden="true" class="cos-orbit">
+<svg fill="none" viewbox="0 0 330 330"><circle cx="165" cy="165" r="120" stroke="rgba(107, 178, 255,.20)" stroke-dasharray="3 9" stroke-width="1"></circle><circle cx="165" cy="45" fill="rgba(107, 178, 255,.7)" r="4"></circle></svg>
+<svg fill="none" style="position:absolute;inset:0" viewbox="0 0 330 330"><circle cx="165" cy="165" r="160" stroke="rgba(255,255,255,.08)" stroke-dasharray="2 12" stroke-width="1"></circle><circle cx="325" cy="165" fill="rgba(0, 113, 227,.8)" r="3.5"></circle></svg>
+</div>
+<div class="cos-chip cos-chip--chat"><span class="cos-chip-h">Credit Line</span>Income and FGTS have been validated. The proposal is ready for signature.</div>
+<div class="cos-chip cos-chip--credit"><span class="cos-chip-h">CORBAN AI</span><span class="cos-big">Pre-approved</span><br/><span class="cos-ok">multi-bank simulation</span></div>
+<div class="cos-core"><span class="cos-mono">C</span></div>
+</div>
+<p class="cos-osname">Credituz OS</p>
+<div class="cos-credit"><span class="cos-credit-k">At the heart of the platform: CORBAN AI</span><strong>The digital banking correspondent that simulates financing options across multiple banks, approves the loan, and finalizes the financing agreement all within the same workflow.</strong></div>
+</div>
+<div class="cos-col cos-col--right">
+<p class="cos-coltitle cos-coltitle--right">Business Orchestration</p>
+<div class="cos-card"><span class="cos-tag">Credit</span><h3>Multi-bank origination</h3><p>Proposal sent to several banks at the same time, with follow-up until the contract is signed.</p></div>
+<div class="cos-card"><span class="cos-tag">Sales</span><h3>CRM Synchronization</h3><p>Proposals, contracts, and financing status are always up to date in your CRM.</p></div>
+<div class="cos-card"><span class="cos-tag">Finance</span><h3>ERP Integration</h3><p>Contract and billing synchronization with Sienge and other ERP systems on the market.</p></div>
+<div class="cos-card"><span class="cos-tag">Intelligence</span><h3>Portfolio Dashboards</h3><p>Approval by bank, receivables, delinquency, and team productivity for the executive board.</p></div>
+</div>
+</div>
+<p class="cos-foot">ERP doesn't close financing deals. CRM doesn't generate credit. <strong>Credituz's CORBAN AI does both, in the same workflow.</strong></p>
+</div>
+</section>
 <!-- DOR -->
 <section class="dor">
 <div class="dor-inner">
@@ -4447,99 +4540,6 @@ h1 em, h2 em, h3 em, .hero-title em {
 </div>
 </details>
 <p class="roi-disclaimer">Reference estimate. The actual commission varies by bank, product, buyer profile, and transaction volume, and is specified in the contract with the financial institution. It does not constitute a contractual guarantee.</p>
-</div>
-</section>
-<!-- CREDITUZ OS (orbital) -->
-<style>
-.cos-os{max-width:none;width:100%;margin:0;padding:96px 24px;background:var(--ink);color:var(--paper);position:relative;overflow:hidden}
-.cos-os .cos-inner{max-width:1200px;margin:0 auto;position:relative;z-index:2}
-.cos-eyebrow{font-family: var(--font-sans);font-size:12px;letter-spacing: -0.01em;text-transform: none;color: var(--accent-bright);margin:0 0 14px;display:block}
-.cos-h2{font-family:var(--font-sans);font-weight:600;font-size:clamp(28px,4vw,46px);line-height:1.08;margin:0 0 16px;max-width:18ch}
-.cos-h2 .cos-hl{color:var(--rust)}
-.cos-sub{font-family:var(--font-sans);font-size:clamp(15px,1.4vw,18px);line-height:1.6;color:#d2d2d7;max-width:64ch;margin:0 0 56px}
-.cos-stage{display:grid;grid-template-columns:1fr;gap:22px;align-items:center}
-.cos-coltitle{font-family: var(--font-sans);font-size:11px;letter-spacing: -0.01em;text-transform: none;color:#86868b;margin:0 0 4px}
-.cos-col{display:flex;flex-direction:column;gap:14px}
-.cos-card{position:relative;background:var(--paper);color:var(--ink);border-radius:14px;padding:18px 20px;box-shadow:0 10px 30px rgba(0,0,0,.28);transition:transform .25s ease,box-shadow .25s ease}
-.cos-card:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(0,0,0,.38)}
-.cos-card h3{font-family:var(--font-sans);font-size:17px;font-weight:600;margin:0 0 2px;color:var(--ink)}
-.cos-card .cos-tag{font-family: var(--font-sans);font-size:10.5px;letter-spacing: -0.01em;text-transform: none;color:var(--rust);display:block;margin:0 0 8px}
-.cos-card p{font-family:var(--font-sans);font-size:13px;line-height:1.5;color:#6e6e73;margin:0}
-.cos-card::after{content:"";position:absolute;top:50%;width:9px;height:9px;border-radius:50%;background:var(--lime);transform:translateY(-50%);opacity:.5;transition:opacity .25s ease,box-shadow .25s ease}
-.cos-col--left .cos-card::after{right:-4px}
-.cos-col--right .cos-card::after{left:-4px}
-.cos-card:hover::after{opacity:1;box-shadow:0 0 0 5px rgba(107, 178, 255,.18)}
-.cos-core-wrap{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px 0}
-.cos-core-stage{position:relative;width:100%;max-width:340px;height:250px;display:flex;align-items:center;justify-content:center;margin:0 auto}
-.cos-orbit{position:absolute;top:50%;left:50%;width:330px;height:330px;transform:translate(-50%,-50%);pointer-events:none}
-.cos-orbit svg{width:100%;height:100%;display:block;animation:cos-spin 46s linear infinite;transform-origin:50% 50%}
-.cos-orbit svg:nth-child(2){animation-duration:64s;animation-direction:reverse}
-@keyframes cos-spin{to{transform:rotate(360deg)}}
-.cos-core{position:relative;width:152px;height:152px;border-radius:50%;background:radial-gradient(circle at 50% 38%,#161617 0%,#1d1d1f 70%);display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 1px rgba(107, 178, 255,.35),0 0 60px rgba(107, 178, 255,.22);z-index:2}
-.cos-core::before{content:"";position:absolute;inset:-10px;border-radius:50%;border:1px solid rgba(107, 178, 255,.25);animation:cos-pulse 3.4s ease-in-out infinite}
-@keyframes cos-pulse{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(1.12);opacity:.15}}
-.cos-mono{font-family:var(--font-sans);font-weight:600;font-size:64px;color: var(--accent-bright);line-height:1}
-.cos-osname{font-family: var(--font-sans);font-size:13px;letter-spacing:-0.01em;color:var(--paper);margin:6px 0 0;text-transform: none;}
-.cos-credit{margin:16px auto 0;max-width:320px;background:rgba(178, 80, 0,.10);border:1px solid rgba(178, 80, 0,.55);border-radius:14px;padding:14px 16px;text-align:center;box-shadow:0 0 30px rgba(178, 80, 0,.12)}
-.cos-credit .cos-credit-k{font-family: var(--font-sans);font-size:10.5px;letter-spacing: -0.01em;text-transform: none;color:var(--rust);display:block;margin:0 0 5px}
-.cos-credit strong{font-family:var(--font-sans);font-size:14.5px;font-weight:600;color:var(--paper);display:block;line-height:1.35}
-.cos-chip{position:absolute;font-family:var(--font-sans);background:#161617;border:1px solid rgba(255,255,255,.10);border-radius:14px;padding:10px 13px;font-size:12px;line-height:1.35;color:#d2d2d7;box-shadow:0 12px 30px rgba(0,0,0,.4);max-width:184px;z-index:3}
-.cos-chip--chat{top:2px;left:-20px}
-.cos-chip--credit{bottom:2px;right:-20px}
-.cos-chip .cos-chip-h{display:block;font-size:11px;color:#86868b;margin:0 0 2px}
-.cos-chip--credit .cos-ok{color: var(--accent-bright);font-weight:600}
-.cos-chip--credit .cos-big{font-family:var(--font-sans);font-size:18px;color:var(--paper);font-weight:600}
-.cos-foot{margin:54px auto 0;text-align:center;font-family:var(--font-sans);font-size:14px;color:#86868b;max-width:60ch}
-.cos-foot strong{color:var(--paper);font-weight:600}
-@media (min-width:980px){
-  .cos-stage{grid-template-columns:minmax(0,1fr) 340px minmax(0,1fr);gap:30px}
-  .cos-coltitle--right{text-align:right}
-}
-@media (max-width:979px){
-  .cos-core-wrap{order:-1}
-  .cos-chip{display:none}
-  .cos-card::after{display:none}
-}
-@media (prefers-reduced-motion:reduce){
-  .cos-orbit svg{animation:none}
-  .cos-core::before{animation:none}
-}
-</style>
-<section class="cos-os" id="credituz-os">
-<div class="cos-inner">
-<span class="cos-eyebrow">The Credituz OS</span>
-<h2 class="cos-h2">An AI layer that connects the entire operation. <span class="cos-hl">And that wraps up the financing.</span></h2>
-<p class="cos-sub">From the initial proposal to the final payment received, Credituz integrates credit management, contracts, collections, CRM, and ERP into a single platform. And it does what no ERP or chatbot can do: it simulates, approves, and extends credit all within the same workflow.</p>
-<div class="cos-stage">
-<div class="cos-col cos-col--left">
-<p class="cos-coltitle">Customer Journey</p>
-<div class="cos-card"><span class="cos-tag">Credit</span><h3>Simulation and Pre-Approval</h3><p>Multi-bank simulation at the first point of contact, with the customer already knowing the financing amount.</p></div>
-<div class="cos-card"><span class="cos-tag">Documents</span><h3>Credit Line</h3><p>Income verification, FGTS, and documentation without the customer having to go to the bank.</p></div>
-<div class="cos-card"><span class="cos-tag">Sales</span><h3>Sales Team Assistant</h3><p>Support for real-time closing, with consolidated historical data and credit simulation data.</p></div>
-<div class="cos-card"><span class="cos-tag">Back office</span><h3>Entrepreneurship Mirror</h3><p>Units, reservations, and the status of each contract are tracked in a single source, without the need for a separate spreadsheet.</p></div>
-</div>
-<div class="cos-core-wrap">
-<div class="cos-core-stage">
-<div aria-hidden="true" class="cos-orbit">
-<svg fill="none" viewbox="0 0 330 330"><circle cx="165" cy="165" r="120" stroke="rgba(107, 178, 255,.20)" stroke-dasharray="3 9" stroke-width="1"></circle><circle cx="165" cy="45" fill="rgba(107, 178, 255,.7)" r="4"></circle></svg>
-<svg fill="none" style="position:absolute;inset:0" viewbox="0 0 330 330"><circle cx="165" cy="165" r="160" stroke="rgba(255,255,255,.08)" stroke-dasharray="2 12" stroke-width="1"></circle><circle cx="325" cy="165" fill="rgba(0, 113, 227,.8)" r="3.5"></circle></svg>
-</div>
-<div class="cos-chip cos-chip--chat"><span class="cos-chip-h">Credit Line</span>Income and FGTS have been validated. The proposal is ready for signature.</div>
-<div class="cos-chip cos-chip--credit"><span class="cos-chip-h">CORBAN AI</span><span class="cos-big">Pre-approved</span><br/><span class="cos-ok">multi-bank simulation</span></div>
-<div class="cos-core"><span class="cos-mono">C</span></div>
-</div>
-<p class="cos-osname">Credituz OS</p>
-<div class="cos-credit"><span class="cos-credit-k">At the heart of the platform: CORBAN AI</span><strong>The digital banking correspondent that simulates loan applications at various banks, approves them, and finalizes the financing all within the same workflow.</strong></div>
-</div>
-<div class="cos-col cos-col--right">
-<p class="cos-coltitle cos-coltitle--right">Business Orchestration</p>
-<div class="cos-card"><span class="cos-tag">Credit</span><h3>Multi-bank origination</h3><p>Proposal sent to several banks at the same time, with follow-up until the contract is signed.</p></div>
-<div class="cos-card"><span class="cos-tag">Sales</span><h3>CRM Synchronization</h3><p>Proposals, contracts, and financing status are always up to date in your CRM.</p></div>
-<div class="cos-card"><span class="cos-tag">Finance</span><h3>ERP Integration</h3><p>Contract and billing synchronization with Sienge and other ERP systems on the market.</p></div>
-<div class="cos-card"><span class="cos-tag">Intelligence</span><h3>Portfolio Dashboards</h3><p>Bank approvals, accounts receivable, delinquency rates, and team productivity reports for the executive board.</p></div>
-</div>
-</div>
-<p class="cos-foot">ERP doesn't close financing deals. CRM doesn't generate credit. <strong>Credituz's CORBAN AI does both, in the same workflow.</strong></p>
 </div>
 </section>
 <!-- CORBAN AI -->
