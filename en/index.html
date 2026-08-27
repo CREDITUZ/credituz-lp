@@ -5696,16 +5696,15 @@ if (document.readyState === 'loading') {
         for (var i = 0; i < links.length; i++) links[i].setAttribute("href", dashboardUrl());
     }
     applyRef();
-    }
 
-    // Rede de seguranca: garante o ref correto tambem em cliques (links tardios/dinamicos)
+    // Rede de seguranca: garante atribuicao/ref tambem em links tardios ou dinamicos.
     document.addEventListener("click", function (e) {
         var a = e.target && e.target.closest ? e.target.closest('a[href^="https://dashboard.usecredituz.com"]') : null;
-        if (a) a.setAttribute("href", DASH_URL);
+        if (a) a.setAttribute("href", dashboardUrl());
     }, true);
 
-    // Exposto para reuso por outros scripts, se necessario
-    window.credituzDashboardUrl = function () { return DASH_URL; };
+    // Exposto para reuso por outros scripts.
+    window.credituzDashboardUrl = function () { return dashboardUrl(); };
     window.credituzRef = function () { return REF; };
 })();
 </script>
