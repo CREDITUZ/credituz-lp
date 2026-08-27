@@ -22,6 +22,7 @@ jobs:
           import base64
           import json
           import os
+          import re
           import urllib.parse
           import urllib.request
 
@@ -52,17 +53,6 @@ jobs:
                     <li><a href="./pages/gestao-de-unidades-imobiliarias.html">Gestão de unidades</a></li>
                 </ul>
             </li>'''.replace('\n', nl)
-
-          old_footer = '''            <div class="footer-col">
-                <h4>Produto</h4>
-                <ul>
-                    <li><a href="#produto">CRM com IA</a></li>
-                    <li><a href="#produto">Simulação de Crédito</a></li>
-                    <li><a href="#produto">Intelligence AI</a></li>
-                    <li><a href="#financeiro">Gestão Financeira</a></li>
-                    <li><a href="#produto">Régua de cobrança</a></li>
-                </ul>
-            </div>'''.replace('\n', nl)
           new_footer = '''            <div class="footer-col">
                 <h4>Soluções</h4>
                 <ul>
@@ -77,13 +67,16 @@ jobs:
 
           if old_nav not in text:
               raise SystemExit('nav target not found')
-          if old_footer not in text:
-              raise SystemExit('footer target not found')
+          text = text.replace(old_nav, new_nav, 1)
 
-          updated = text.replace(old_nav, new_nav, 1).replace(old_footer, new_footer, 1)
+          footer_pattern = r'[ \t]*<div class="footer-col">\r?\n[ \t]*<h4>Produto</h4>\r?\n[ \t]*<ul>\r?\n.*?[ \t]*</ul>\r?\n[ \t]*</div>'
+          text, count = re.subn(footer_pattern, new_footer, text, count=1, flags=re.S)
+          if count != 1:
+              raise SystemExit(f'footer target count: {count}')
+
           body = json.dumps({
               'message': 'feat: expose solution hubs in home navigation',
-              'content': base64.b64encode(updated.encode('utf-8')).decode('ascii'),
+              'content': base64.b64encode(text.encode('utf-8')).decode('ascii'),
               'sha': current['sha'],
               'branch': branch
           }).encode('utf-8')
