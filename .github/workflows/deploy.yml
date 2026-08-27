@@ -1,0 +1,88 @@
+name: Deploy Credituz site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  visual-qa:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm install playwright@1.55.0 >/dev/null 2>&1
+          npx playwright install --with-deps chromium
+      - name: Capture desktop and mobile screenshots
+        env:
+          PAGE_URL: ${{ needs.deploy.outputs.page_url }}
+        run: |
+          cat > qa.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'fs';
+          fs.mkdirSync('qa-screenshots',{recursive:true});
+          const base=(process.env.PAGE_URL||'https://credituz.ai/').replace(/\/$/,'');
+          const pages=[['home','/'],['score','/pages/credituz-score.html']];
+          const viewports=[['desktop',1440,1000],['mobile',390,844]];
+          const browser=await chromium.launch({headless:true});
+          let failed=false;
+          for(const [name,path] of pages){
+            for(const [device,width,height] of viewports){
+              const page=await browser.newPage({viewport:{width,height}});
+              const errors=[];
+              page.on('pageerror',e=>errors.push(String(e)));
+              const res=await page.goto(base+path,{waitUntil:'networkidle',timeout:60000});
+              if(!res || !res.ok()){console.error(name,device,'HTTP',res&&res.status());failed=true;}
+              await page.screenshot({path:`qa-screenshots/${name}-${device}.png`,fullPage:true});
+              const metrics=await page.evaluate(()=>({sw:document.documentElement.scrollWidth,cw:document.documentElement.clientWidth,h1:document.querySelectorAll('h1').length,body:document.body.innerText.length}));
+              console.log(name,device,metrics,'pageErrors',errors.length);
+              if(metrics.sw>metrics.cw+2 || metrics.h1!==1 || metrics.body<500 || errors.length){failed=true;console.error({name,device,metrics,errors});}
+              await page.close();
+            }
+          }
+          await browser.close();
+          if(failed) process.exit(1);
+          JS
+          node qa.mjs
+      - name: Upload screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: visual-qa-screenshots
+          path: qa-screenshots/
+          retention-days: 7
