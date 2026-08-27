@@ -38,6 +38,7 @@ jobs:
           with urllib.request.urlopen(req) as r:
               current = json.load(r)
           text = base64.b64decode(current['content']).decode('utf-8')
+          nl = '\r\n' if '\r\n' in text else '\n'
 
           old_nav = '            <li><a href="#produto-por-dentro">Produto</a></li>'
           new_nav = '''            <li class="nav-has-sub">
@@ -50,7 +51,7 @@ jobs:
                     <li><a href="./pages/portal-vendas-empreendimentos.html">Portal de vendas</a></li>
                     <li><a href="./pages/gestao-de-unidades-imobiliarias.html">Gestão de unidades</a></li>
                 </ul>
-            </li>'''
+            </li>'''.replace('\n', nl)
 
           old_footer = '''            <div class="footer-col">
                 <h4>Produto</h4>
@@ -61,7 +62,7 @@ jobs:
                     <li><a href="#financeiro">Gestão Financeira</a></li>
                     <li><a href="#produto">Régua de cobrança</a></li>
                 </ul>
-            </div>'''
+            </div>'''.replace('\n', nl)
           new_footer = '''            <div class="footer-col">
                 <h4>Soluções</h4>
                 <ul>
@@ -72,7 +73,7 @@ jobs:
                     <li><a href="./pages/portal-vendas-empreendimentos.html">Portal de vendas</a></li>
                     <li><a href="./pages/gestao-de-unidades-imobiliarias.html">Gestão de unidades</a></li>
                 </ul>
-            </div>'''
+            </div>'''.replace('\n', nl)
 
           if old_nav not in text:
               raise SystemExit('nav target not found')
