@@ -4946,7 +4946,7 @@ h1 em, h2 em, h3 em, .hero-title em {
 </div>
 <div class="fin-cta">
 <a class="fin-btn" data-track="cta_financeiro" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Enable the billing rule</a>
-<a class="fin-wa" href="https://wa.me/5511936209409" rel="noopener" target="_blank">or speak with an expert at WhatsApp</a>
+<a class="fin-wa" data-track="cta_financeiro_whatsapp" href="https://wa.me/5511936209409" rel="noopener" target="_blank">or speak with an expert at WhatsApp</a>
 </div>
 </div>
 </section>
@@ -5658,33 +5658,44 @@ if (document.readyState === 'loading') {
     var DEFAULT_REF = "saas-credituzai";
     var MAX_LEN = 64;
     var DASH_BASE = "https://dashboard.usecredituz.com/auth/login?screen_hint=signup";
+    var ATTR_KEYS = ["utm_source","utm_medium","utm_campaign","utm_content","utm_term","gclid","fbclid","msclkid"];
 
-    // Fonte unica da verdade: le, sanitiza e devolve o ref final
+    function safe(v, maxLen) {
+        if (v == null) return "";
+        return String(v).replace(/[<>"']/g, "").slice(0, maxLen || 180);
+    }
     function resolveRef() {
         var params = new URLSearchParams(window.location.search);
-        var raw = params.get("ref"); // usa apenas o primeiro valor de ref
+        var raw = params.get("ref");
         if (raw == null) return DEFAULT_REF;
-        var clean = raw.replace(/[^A-Za-z0-9-]/g, ""); // so letras, numeros e hifen
-        if (clean.length > MAX_LEN) clean = clean.slice(0, MAX_LEN); // trunca
-        return clean.length ? clean : DEFAULT_REF; // vazio apos sanitizar -> padrao
+        var clean = raw.replace(/[^A-Za-z0-9-]/g, "");
+        if (clean.length > MAX_LEN) clean = clean.slice(0, MAX_LEN);
+        return clean.length ? clean : DEFAULT_REF;
     }
-
+    function attribution() {
+        var params = new URLSearchParams(window.location.search), out = {};
+        ATTR_KEYS.forEach(function(k){ var v = safe(params.get(k)); if(v) out[k] = v; });
+        try {
+            var saved = JSON.parse(sessionStorage.getItem("credituz_attribution") || "{}");
+            Object.keys(saved).forEach(function(k){ if(!out[k]) out[k] = saved[k]; });
+            sessionStorage.setItem("credituz_attribution", JSON.stringify(out));
+        } catch(e) {}
+        return out;
+    }
     var REF = resolveRef();
-    var DASH_URL = DASH_BASE + "&ref=" + encodeURIComponent(REF);
-
+    var ATTR = attribution();
+    function dashboardUrl() {
+        var u = new URL(DASH_BASE);
+        u.searchParams.set("ref", REF);
+        Object.keys(ATTR).forEach(function(k){u.searchParams.set(k, ATTR[k]);});
+        return u.toString();
+    }
     function applyRef(root) {
         var scope = root || document;
         var links = scope.querySelectorAll('a[href^="https://dashboard.usecredituz.com"]');
-        for (var i = 0; i < links.length; i++) {
-            links[i].setAttribute("href", DASH_URL);
-        }
+        for (var i = 0; i < links.length; i++) links[i].setAttribute("href", dashboardUrl());
     }
-
-    // Roda assim que o DOM estiver disponivel, antes de qualquer interacao
-    if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", function () { applyRef(); });
-    } else {
-        applyRef();
+    applyRef();
     }
 
     // Rede de seguranca: garante o ref correto tambem em cliques (links tardios/dinamicos)
@@ -7235,5 +7246,34 @@ footer { background: var(--void); }
 </script>
 <script>
 (function(){var input=document.getElementById('scoreVolume');if(!input)return;var n=document.getElementById('scoreVolumeNumber'),av=document.getElementById('scoreAvulso'),pl=document.getElementById('scorePlano'),ec=document.getElementById('scoreEconomia'),msg=document.getElementById('scoreMessage');function brl(v){return v.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});}function render(track){var q=Number(input.value),avulso=q*27.70,plano=297+(q*16),diff=Math.abs(avulso-plano);n.textContent=q;av.textContent=brl(avulso);pl.textContent=brl(plano);ec.textContent=brl(diff);if(plano<avulso){msg.innerHTML='Com '+q+' análises, o plano já economiza <span>'+brl(diff)+'/mês</span> e ainda inclui os outros módulos da Credituz.';}else{var falta=Math.max(0,26-q);msg.innerHTML=falta?'Com '+q+' análises, o avulso ainda custa menos. Faltam <span>'+falta+' análise'+(falta===1?'':'s')+'</span> para o plano cruzar o ponto de equilíbrio.':'Você chegou ao <span>ponto de equilíbrio</span> entre as duas opções.';}if(track&&window.dataLayer){window.dataLayer.push({event:'score_break_even_interaction',score_volume:q,score_avulso:avulso,score_plano:plano});}}input.addEventListener('input',function(){render(false)});input.addEventListener('change',function(){render(true)});render(false);})();
-</script></body>
+</script>
+<script id="credituz-marketing-events">
+(function(){
+  function attrs(){try{return JSON.parse(sessionStorage.getItem('credituz_attribution')||'{}')}catch(e){return {}}}
+  function push(name, params){
+    window.dataLayer=window.dataLayer||[];
+    var payload=Object.assign({event:name,page_path:location.pathname,page_title:document.title},attrs(),params||{});
+    window.dataLayer.push(payload);
+    if(window.fbq && window.credituzConsent && window.credituzConsent.ler && window.credituzConsent.ler()==='all'){
+      try{window.fbq('trackCustom', name, payload)}catch(e){}
+    }
+  }
+  document.addEventListener('click',function(e){
+    var el=e.target.closest('[data-track],a[href^="https://dashboard.usecredituz.com"],a[href^="https://wa.me/"]');
+    if(!el)return;
+    var href=el.getAttribute('href')||'';
+    var label=el.getAttribute('data-track')||'unlabeled_cta';
+    push('marketing_cta_click',{cta_id:label,cta_text:(el.textContent||'').trim().slice(0,120),destination:href.slice(0,500)});
+    if(href.indexOf('dashboard.usecredituz.com')>-1){
+      push('signup_start',{cta_id:label,product:label.indexOf('score')>-1?'credituz_score':'credituz_os'});
+      if(window.fbq && window.credituzConsent && window.credituzConsent.ler && window.credituzConsent.ler()==='all'){try{window.fbq('track','InitiateCheckout',{content_name:label})}catch(e){}}
+    } else if(href.indexOf('wa.me/')>-1){
+      push('contact_start',{cta_id:label,channel:'whatsapp'});
+      if(window.fbq && window.credituzConsent && window.credituzConsent.ler && window.credituzConsent.ler()==='all'){try{window.fbq('track','Contact',{content_name:label})}catch(e){}}
+    }
+  },true);
+  push('landing_view',{ref:(new URLSearchParams(location.search)).get('ref')||'saas-credituzai'});
+})();
+</script>
+</body>
 </html>
