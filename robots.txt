@@ -5,11 +5,15 @@ Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
 
-# Crawlers de IA explicitamente liberados (GEO).
-# Duas armadilhas aqui: (1) um user-agent com bloco proprio ignora por completo
-# o bloco "*", entao o Disallow precisa ser repetido em cada grupo; (2) o
-# Disallow vem antes do Allow porque parsers que resolvem por ordem, e nao por
-# especificidade, deixariam o "Allow: /" vencer.
+# OpenAI Search crawler used for ChatGPT Search eligibility.
+User-agent: OAI-SearchBot
+Disallow: /docs/
+Disallow: /scripts/
+Disallow: /CLAUDE.md
+Disallow: /README.md
+Allow: /
+
+# OpenAI training/general crawler.
 User-agent: GPTBot
 Disallow: /docs/
 Disallow: /scripts/
@@ -52,4 +56,4 @@ Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
 
-Sitemap: https://www.credituz.ai/sitemap.xml
+Sitemap: https://credituz.ai/sitemap.xml
