@@ -88,7 +88,7 @@ Os 132 arquivos compartilham **6 blocos de CSS distintos**, cada um replicado by
 
 ### Tracking
 
-`index.html` carrega **dois** containers GTM (`GTM-KN3GQNDJ` e `GTM-T2M9N4CR`) e o Meta Pixel `3261631577333056`. CTAs apontam para `https://dashboard.usecredituz.com/auth/login?screen_hint=signup` e para o WhatsApp `https://wa.me/5511936201544`.
+`index.html` carrega **dois** containers GTM (`GTM-KN3GQNDJ` e `GTM-T2M9N4CR`) e o Meta Pixel `3261631577333056`. CTAs apontam para `https://dashboard.usecredituz.com/auth/login?screen_hint=signup` e para o WhatsApp `https://wa.me/5511936209409`.
 
 ## Convenções
 

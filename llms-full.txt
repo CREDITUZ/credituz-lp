@@ -85,7 +85,7 @@ Setup self-serve em 5 minutos, sem implantação longa e sem treinamento agendad
 
 - Website: https://www.credituz.ai
 - Blog (119+ artigos sobre IA, crédito e gestão imobiliária): https://www.credituz.ai/pages/blog.html
-- WhatsApp: https://wa.me/5511936201544
+- WhatsApp: https://wa.me/5511936209409
 
 ## Versões para IA / agentes
 

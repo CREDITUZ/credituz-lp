@@ -64,7 +64,7 @@ Credituz differentiates itself from systems like Sienge, Kenlo, CV CRM and Morad
 
 - Website: https://www.credituz.ai
 - Blog (119+ articles on AI, credit and real estate management): https://www.credituz.ai/pages/blog.html
-- WhatsApp: https://wa.me/5511936201544
+- WhatsApp: https://wa.me/5511936209409
 
 ## Machine-readable versions
 
