@@ -1,0 +1,29 @@
+name: Debug home JS
+on:
+  push:
+    branches: [fix/home-js-qa]
+permissions:
+  contents: read
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract and syntax-check inline JS
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          s=Path('index.html').read_text(encoding='utf-8')
+          scripts=re.findall(r'<script(?![^>]*type=["\']application/ld\+json["\'])[^>]*>(.*?)</script>',s,re.I|re.S)
+          Path('/tmp/scripts').mkdir(exist_ok=True)
+          for i,x in enumerate(scripts,1):
+              p=Path('/tmp/scripts')/f'{i:02d}.js'; p.write_text(x,encoding='utf-8')
+              print(i, len(x), x[:80].replace('\n',' '))
+          PY
+          bad=0
+          for f in /tmp/scripts/*.js; do
+            echo "CHECK $f"
+            node --check "$f" || bad=1
+          done
+          exit $bad
