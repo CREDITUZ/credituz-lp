@@ -1,0 +1,42 @@
+name: Apply tracking and accessibility updates
+on:
+  push:
+    branches:
+      - fix/tracking-alts-pages-deploy
+    paths:
+      - scripts/apply_tracking_alt_deploy.py
+      - .github/workflows/apply-tracking-alt.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/tracking-alts-pages-deploy
+          fetch-depth: 0
+      - name: Apply transforms
+        run: python3 scripts/apply_tracking_alt_deploy.py
+      - name: Validate key tracking markers
+        run: |
+          grep -q 'marketing_cta_click' index.html
+          grep -q 'signup_start' index.html
+          grep -q 'credituz-score-tracking' pages/credituz-score.html
+          grep -q 'score_buy_primary' pages/credituz-score.html
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          s=Path('index.html').read_text(encoding='utf-8')
+          tags=re.findall(r'<img\b[^>]*>',s,re.I)
+          missing=[t for t in tags if not re.search(r'\balt\s*=',t,re.I)]
+          print('img tags:',len(tags),'missing alt attribute:',len(missing))
+          if missing: raise SystemExit(1)
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html pages/credituz-score.html
+          git commit -m "fix: complete paid-media tracking and image alt coverage"
+          git push origin HEAD:fix/tracking-alts-pages-deploy
