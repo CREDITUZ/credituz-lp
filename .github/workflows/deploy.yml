@@ -25,6 +25,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Validate inline JavaScript syntax
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          s=Path('index.html').read_text(encoding='utf-8')
+          scripts=re.findall(r'<script(?![^>]*type=["\']application/ld\+json["\'])[^>]*>(.*?)</script>',s,re.I|re.S)
+          Path('/tmp/inline-js').mkdir(exist_ok=True)
+          for i,x in enumerate(scripts,1):
+              (Path('/tmp/inline-js')/f'{i:02d}.js').write_text(x,encoding='utf-8')
+          PY
+          for f in /tmp/inline-js/*.js; do node --check "$f"; done
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site
@@ -42,7 +54,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
       - name: Install Playwright
         run: |
           npm init -y >/dev/null 2>&1
