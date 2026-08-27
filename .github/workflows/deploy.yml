@@ -109,6 +109,63 @@ jobs:
           if(failed) process.exit(1);
           JS
           node qa.mjs
+      - name: Validate paid-media events at runtime
+        env:
+          PAGE_URL: ${{ needs.deploy.outputs.page_url }}
+        run: |
+          cat > tracking-smoke.mjs <<'JS'
+          import { chromium } from 'playwright';
+          const base=(process.env.PAGE_URL||'https://credituz.ai/').replace(/\/$/,'');
+          const browser=await chromium.launch({headless:true});
+          let failed=false;
+          function assert(ok,msg,details){if(!ok){failed=true;console.error('FAIL',msg,details||'')}else console.log('PASS',msg)}
+          async function open(path){
+            const context=await browser.newContext();
+            await context.route(/googletagmanager\.com|connect\.facebook\.net/,r=>r.abort());
+            const page=await context.newPage();
+            await page.addInitScript(()=>{try{localStorage.setItem('credituz_consent','all')}catch(e){}});
+            await page.goto(base+path+'?utm_source=qa&utm_medium=cpc&utm_campaign=tracking-smoke&utm_content=runtime&gclid=QA-GCLID',{waitUntil:'domcontentloaded',timeout:60000});
+            await page.waitForTimeout(800);
+            return {context,page};
+          }
+          async function snapshot(page){return await page.evaluate(()=>({
+            events:(window.dataLayer||[]).filter(x=>x&&x.event).map(x=>({event:x.event,cta_id:x.cta_id,utm_source:x.utm_source,utm_campaign:x.utm_campaign,gclid:x.gclid})),
+            fbq:(window.fbq&&window.fbq.queue?window.fbq.queue:[]).map(x=>Array.from(x)),
+            dashboard:[...document.querySelectorAll('a[href^="https://dashboard.usecredituz.com"]')].map(a=>a.href)
+          }))}
+          async function fire(page,selector){await page.evaluate(sel=>{const a=document.querySelector(sel);if(!a)throw new Error('selector not found '+sel);a.addEventListener('click',e=>e.preventDefault(),{once:true});a.dispatchEvent(new MouseEvent('click',{bubbles:true,cancelable:true,view:window}));},selector);await page.waitForTimeout(100)}
+
+          {
+            const {context,page}=await open('/');
+            let s=await snapshot(page);
+            assert(s.events.some(e=>e.event==='landing_view'&&e.utm_source==='qa'),'home landing_view carries UTM',s.events);
+            const u=s.dashboard[0]&&new URL(s.dashboard[0]);
+            assert(u&&u.searchParams.get('utm_source')==='qa'&&u.searchParams.get('gclid')==='QA-GCLID','home dashboard link preserves attribution',s.dashboard[0]);
+            await fire(page,'[data-track="cta_hero_primary"]'); s=await snapshot(page);
+            assert(s.events.some(e=>e.event==='marketing_cta_click'&&e.cta_id==='cta_hero_primary'),'home CTA emits marketing_cta_click',s.events);
+            assert(s.events.some(e=>e.event==='signup_start'&&e.cta_id==='cta_hero_primary'),'home CTA emits signup_start',s.events);
+            assert(s.fbq.some(x=>x[0]==='track'&&x[1]==='InitiateCheckout'),'home CTA queues Meta InitiateCheckout',s.fbq);
+            await fire(page,'[data-track="cta_hero_demo"]'); s=await snapshot(page);
+            assert(s.events.some(e=>e.event==='contact_start'&&e.cta_id==='cta_hero_demo'),'WhatsApp emits contact_start',s.events);
+            assert(s.fbq.some(x=>x[0]==='track'&&x[1]==='Contact'),'WhatsApp queues Meta Contact',s.fbq);
+            await context.close();
+          }
+          {
+            const {context,page}=await open('/pages/credituz-score.html');
+            let s=await snapshot(page);
+            assert(s.events.some(e=>e.event==='landing_view'&&e.utm_source==='qa'),'Score landing_view carries UTM',s.events);
+            const u=s.dashboard[0]&&new URL(s.dashboard[0]);
+            assert(u&&u.searchParams.get('utm_source')==='qa'&&u.searchParams.get('gclid')==='QA-GCLID','Score dashboard link preserves attribution',s.dashboard[0]);
+            await fire(page,'[data-track="score_buy_primary"]'); s=await snapshot(page);
+            assert(s.events.some(e=>e.event==='marketing_cta_click'&&e.cta_id==='score_buy_primary'),'Score CTA emits marketing_cta_click',s.events);
+            assert(s.events.some(e=>e.event==='signup_start'&&e.cta_id==='score_buy_primary'),'Score CTA emits signup_start',s.events);
+            assert(s.fbq.some(x=>x[0]==='track'&&x[1]==='InitiateCheckout'&&x[2]&&x[2].value===27.70),'Score CTA queues Meta InitiateCheckout R$27,70',s.fbq);
+            await context.close();
+          }
+          await browser.close();
+          if(failed) process.exit(1);
+          JS
+          node tracking-smoke.mjs
       - name: Upload screenshots
         if: always()
         uses: actions/upload-artifact@v4
