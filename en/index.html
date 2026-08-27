@@ -1775,6 +1775,15 @@ h2 em {
     color: rgba(255, 255, 255, 0.55);
 }
 
+/* Plan selector inside the calculator field */
+.roi-field .roi-profile { margin-top: 10px; grid-template-columns: 1fr 1fr; gap: 8px; }
+.roi-field .roi-profile-btn { padding: 14px 16px; gap: 4px; }
+.roi-field .roi-profile-title { font-size: 14.5px; }
+.roi-field .roi-profile-sub { font-size: 10px; }
+@media (max-width: 700px) {
+    .roi-field .roi-profile { grid-template-columns: 1fr; }
+}
+
 /* Editable number input next to slider */
 .roi-num {
     font-family: var(--font-sans);
@@ -4291,7 +4300,7 @@ h1 em, h2 em, h3 em, .hero-title em {
 <header class="hero">
 <div class="hero-content">
 <div class="hero-tag" id="heroTag">AI-first</div>
-<p class="hero-kicker">Real Estate Operational and Financial System</p>
+<p class="hero-kicker">Operational and Financial System</p>
 <h1 class="hero-title" id="heroTitle">
         Simulate, analyze, and apply for credit <em>in seconds</em>. Automate your billing process with AI 24/7.
     </h1>
@@ -5027,17 +5036,7 @@ h1 em, h2 em, h3 em, .hero-title em {
 <div class="roi-head">
 <div class="section-tag">ROI Calculator</div>
 <h2>Regarding loan origination <em>Does that add up in your cash register?</em></h2>
-<p>Three numbers you know by heart. See in seconds how much your share of the bank commission amounts to each month when the loan is originated within your own operation instead of going to the bank manager.</p>
-<div aria-label="Select your profile" class="roi-profile" role="tablist">
-<button class="roi-profile-btn active" data-profile="imobiliaria" data-track="roi_profile_imobiliaria" type="button">
-<svg aria-hidden="true" class="roi-profile-icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"></path><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"></path><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"></path><path d="M10 6h4"></path><path d="M10 10h4"></path><path d="M10 14h4"></path><path d="M10 18h4"></path></svg>
-<span class="roi-profile-title">Real Estate</span>
-</button>
-<button class="roi-profile-btn" data-profile="incorporadora" data-track="roi_profile_incorporadora" type="button">
-<svg aria-hidden="true" class="roi-profile-icon" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M2 18a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1z"></path><path d="M10 10V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v5"></path><path d="M4 15v-3a6 6 0 0 1 6-6"></path><path d="M14 6a6 6 0 0 1 6 6v3"></path></svg>
-<span class="roi-profile-title">Construction Company</span>
-</button>
-</div>
+<p>Two numbers you know by heart, plus your plan. See in seconds how much your share of the bank commission amounts to each month when the loan is originated within your own operation instead of going to the bank manager.</p>
 </div>
 <div class="roi-simple">
 <div class="roi-simple-inputs">
@@ -5050,8 +5049,17 @@ h1 em, h2 em, h3 em, .hero-title em {
 <span class="slider-wrap"><input id="roiTicket" max="3000000" min="30000" step="10000" type="range" value="450000"/></span>
 </div>
 <div class="roi-field">
-<div class="roi-field-head"><label for="roiMargin"><span id="roiMarginLabel">Your share of the commission</span></label><span class="roi-field-val" id="roiMarginVal">40%</span></div>
-<span class="slider-wrap"><input id="roiMargin" max="75" min="40" step="35" type="range" value="40"/></span>
+<div class="roi-field-head"><label id="roiPlanLabel">Your plan</label><span class="roi-field-val" id="roiMarginVal">40% of the commission</span></div>
+<div aria-label="Select your plan" class="roi-profile" id="roiPlan" role="tablist">
+<button aria-selected="true" class="roi-profile-btn active" data-share="40" data-track="roi_plan_growth" role="tab" type="button">
+<span class="roi-profile-title">Growth</span>
+<span class="roi-profile-sub">40% of the commission · R$ 297/mo</span>
+</button>
+<button aria-selected="false" class="roi-profile-btn" data-share="75" data-track="roi_plan_enterprise" role="tab" type="button">
+<span class="roi-profile-title">Enterprise</span>
+<span class="roi-profile-sub">75% of the commission</span>
+</button>
+</div>
 </div>
 </div>
 <div class="roi-simple-result">
@@ -5488,69 +5496,67 @@ function abrirPreferenciasCookies() {
     return false;
 }
 
-/* ===== ROI CALCULATOR (simplificado) ===== */
+/* ===== ROI CALCULATOR (general, by plan) ===== */
 function initROI(){
     const $ = (id) => document.getElementById(id);
     if (!$('roiLeads')) return;
 
-    const LTV = 0.70;            // parcela do ticket que costuma ser financiada
-    const BANK_FEE = 0.01;       // comissão média paga pelo banco ao correspondente
-                                 // fatia do cliente: 40% = 0,4% do financiado | 75% = 0,75%
-    const SCENARIOS = { conservador: 0.40, realista: 0.60, otimista: 0.80 }; // vendas financiadas na operação
+    const LTV = 0.70;
+    const BANK_FEE = 0.01;
+    const SCENARIOS = { conservador: 0.40, realista: 0.60, otimista: 0.80 };
     const PLAN_PRICE = 297;
+    const GROWTH_SHARE = 0.40;
     let scenario = 'conservador';
-    let profile = 'imobiliaria';
+    let share = GROWTH_SHARE;
 
-    const DEFAULTS = {
-        imobiliaria:   { leads: 12, ticket: 450000, margin: 40, marginLabel: 'Sua fatia da comissão' },
-        incorporadora: { leads: 25, ticket: 650000, margin: 75, marginLabel: 'Sua fatia da comissão' }
-    };
-
-    const leadsEl = $('roiLeads'), ticketEl = $('roiTicket'), marginEl = $('roiMargin');
-    const fmtBRL = (n) => 'R$ ' + Math.round(n).toLocaleString('pt-BR');
-
-    function applyProfile(p) {
-        const d = DEFAULTS[p];
-        leadsEl.value = d.leads; ticketEl.value = d.ticket; marginEl.value = d.margin;
-        $('roiMarginLabel').textContent = d.marginLabel;
-    }
+    const leadsEl = $('roiLeads'), ticketEl = $('roiTicket');
+    const fmtBRL = (n) => 'R$ ' + Math.round(n).toLocaleString('en-US');
 
     function compute() {
-        const V = +leadsEl.value, T = +ticketEl.value, share = +marginEl.value / 100;
+        const V = +leadsEl.value, T = +ticketEl.value;
         $('roiLeadsVal').textContent = V;
         $('roiTicketVal').textContent = fmtBRL(T);
-        $('roiMarginVal').textContent = (+marginEl.value) + '%';
+        $('roiMarginVal').textContent = Math.round(share * 100) + '% of the commission';
 
         const financed = SCENARIOS[scenario];
-        const extraMonth = V * financed * (T * LTV) * BANK_FEE * share;
-        const extraYear = extraMonth * 12;
+        const base = V * financed * (T * LTV) * BANK_FEE;
+        const extraMonth = base * share;
 
         $('roiResultBig').textContent = fmtBRL(extraMonth);
-        $('roiResultYear').textContent = fmtBRL(extraYear);
+        $('roiResultYear').textContent = fmtBRL(extraMonth * 12);
 
-        const mult = extraMonth / PLAN_PRICE;
         let cmp;
         if (extraMonth <= 0) {
-            cmp = 'Ajuste os números da sua operação para ver a receita.';
-        } else if (mult >= 1) {
-            cmp = 'Isso é <strong>' + Math.round(mult) + '×</strong> o custo do plano Growth (R$ 297/mês).';
+            cmp = 'Adjust your operation numbers to see the revenue.';
+        } else if (share > GROWTH_SHARE) {
+            const diff = extraMonth - (base * GROWTH_SHARE);
+            cmp = 'That is <strong>' + fmtBRL(diff) + '</strong> more per month than the 40% Growth share.';
         } else {
-            cmp = 'Equivale a ' + Math.round(mult * 100) + '% do custo do plano Growth (R$ 297/mês).';
+            const mult = extraMonth / PLAN_PRICE;
+            cmp = (mult >= 1)
+                ? 'That is <strong>' + Math.round(mult) + '\u00d7</strong> the cost of the Growth plan (R$ 297/mo).'
+                : 'That is ' + Math.round(mult * 100) + '% of the cost of the Growth plan (R$ 297/mo).';
         }
         $('roiResultCompare').innerHTML = cmp;
     }
 
-    [leadsEl, ticketEl, marginEl].forEach(el => el.addEventListener('input', compute));
+    [leadsEl, ticketEl].forEach(el => el.addEventListener('input', compute));
 
-    document.querySelectorAll('.roi-profile-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            document.querySelectorAll('.roi-profile-btn').forEach(b => b.classList.remove('active'));
+    const planGroup = $('roiPlan');
+    if (planGroup) {
+        planGroup.addEventListener('click', (e) => {
+            const btn = e.target.closest('button[data-share]');
+            if (!btn) return;
+            planGroup.querySelectorAll('button').forEach(b => {
+                b.classList.remove('active');
+                b.setAttribute('aria-selected', 'false');
+            });
             btn.classList.add('active');
-            profile = btn.dataset.profile;
-            applyProfile(profile);
+            btn.setAttribute('aria-selected', 'true');
+            share = (+btn.dataset.share) / 100;
             compute();
         });
-    });
+    }
 
     const scenGroup = $('roiScenario');
     if (scenGroup) {
@@ -5564,7 +5570,6 @@ function initROI(){
         });
     }
 
-    applyProfile(profile);
     compute();
 }
 if (document.readyState === 'loading') {
