@@ -1,0 +1,55 @@
+name: Apply Credituz Score links
+
+on:
+  push:
+    branches:
+      - feat/score-self-service-mvp
+    paths:
+      - .github/workflows/apply-credituz-score-links.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/score-self-service-mvp
+          fetch-depth: 0
+      - name: Connect Credituz Score to home and B2B page
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          home = Path('index.html')
+          text = home.read_text(encoding='utf-8')
+          old = './pages/analise-de-credito-score-incorporadoras.html">Crédito e score</a>'
+          new = './pages/credituz-score.html">Credituz Score</a>'
+          if old not in text:
+              raise SystemExit('home score link not found')
+          text = text.replace(old, new)
+          home.write_text(text, encoding='utf-8')
+
+          score = Path('pages/analise-de-credito-score-incorporadoras.html')
+          s = score.read_text(encoding='utf-8')
+          old_cta = '<a class="btn primary" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=lp-score-incorporadoras" target="_blank" rel="noopener">Testar análise de crédito</a>'
+          new_cta = '<a class="btn primary" href="credituz-score.html">Fazer consulta por R$ 21,90</a>'
+          if old_cta not in s:
+              raise SystemExit('B2B hero CTA not found')
+          s = s.replace(old_cta, new_cta, 1)
+          old_lead = 'A Credituz ajuda incorporadoras, construtoras e imobiliárias a analisar compradores em uma única jornada: dados de bureau, score, restrições, capacidade de renda e sua própria política de crédito antes de financiar a entrada ou encaminhar o financiamento.'
+          new_lead = 'A Credituz ajuda incorporadoras, construtoras e imobiliárias a analisar compradores em uma única jornada. Para começar de forma simples, o Credituz Score oferece uma consulta avulsa por R$ 21,90, sem assinatura. Empresas que precisam de volume, política própria e integração podem evoluir para a solução completa.'
+          if old_lead not in s:
+              raise SystemExit('B2B lead not found')
+          s = s.replace(old_lead, new_lead, 1)
+          score.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html pages/analise-de-credito-score-incorporadoras.html
+          git commit -m "feat: connect Credituz Score MVP to site navigation"
+          git push origin HEAD:feat/score-self-service-mvp
