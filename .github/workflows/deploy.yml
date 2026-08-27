@@ -73,6 +73,23 @@ jobs:
           const viewports=[['desktop',1440,1000],['mobile',390,844]];
           const browser=await chromium.launch({headless:true});
           let failed=false;
+          async function revealAnimatedSections(page){
+            await page.evaluate(async()=>{
+              await new Promise(resolve=>{
+                let last=-1,stable=0;
+                const step=Math.max(320,Math.floor(window.innerHeight*0.75));
+                const timer=setInterval(()=>{
+                  window.scrollBy(0,step);
+                  const y=window.scrollY;
+                  const bottom=window.innerHeight+y>=document.documentElement.scrollHeight-4;
+                  if(y===last) stable++; else stable=0;
+                  last=y;
+                  if(bottom||stable>3){clearInterval(timer);resolve();}
+                },80);
+              });
+            });
+            await page.waitForTimeout(500);
+          }
           for(const [name,path] of pages){
             for(const [device,width,height] of viewports){
               const page=await browser.newPage({viewport:{width,height}});
@@ -80,6 +97,7 @@ jobs:
               page.on('pageerror',e=>errors.push(String(e)));
               const res=await page.goto(base+path,{waitUntil:'networkidle',timeout:60000});
               if(!res || !res.ok()){console.error(name,device,'HTTP',res&&res.status());failed=true;}
+              await revealAnimatedSections(page);
               await page.screenshot({path:`qa-screenshots/${name}-${device}.png`,fullPage:true});
               const metrics=await page.evaluate(()=>({sw:document.documentElement.scrollWidth,cw:document.documentElement.clientWidth,h1:document.querySelectorAll('h1').length,body:document.body.innerText.length}));
               console.log(name,device,metrics,'pageErrors',errors.length);
