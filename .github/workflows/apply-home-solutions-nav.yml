@@ -1,0 +1,74 @@
+name: Apply home solutions navigation
+
+on:
+  push:
+    branches:
+      - feat/home-solutions-navigation
+    paths:
+      - .github/workflows/apply-home-solutions-nav.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/home-solutions-navigation
+          fetch-depth: 0
+      - name: Update index
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          old_nav = '            <li><a href="#produto-por-dentro">Produto</a></li>'
+          new_nav = '''            <li class="nav-has-sub">
+                <a href="#produto" class="nav-sub-trigger">Soluções <span class="nav-caret">▾</span></a>
+                <ul class="nav-submenu">
+                    <li><a href="#produto">CRM com IA</a></li>
+                    <li><a href="./pages/analise-de-credito-score-incorporadoras.html">Crédito e score</a></li>
+                    <li><a href="./pages/contratos-imobiliarios-digitais.html">Contratos e assinatura</a></li>
+                    <li><a href="./pages/cobranca-e-recebiveis-imobiliarios.html">Cobrança e recebíveis</a></li>
+                    <li><a href="./pages/portal-vendas-empreendimentos.html">Portal de vendas</a></li>
+                    <li><a href="./pages/gestao-de-unidades-imobiliarias.html">Gestão de unidades</a></li>
+                </ul>
+            </li>'''
+          old_footer = '''            <div class="footer-col">
+                <h4>Produto</h4>
+                <ul>
+                    <li><a href="#produto">CRM com IA</a></li>
+                    <li><a href="#produto">Simulação de Crédito</a></li>
+                    <li><a href="#produto">Intelligence AI</a></li>
+                    <li><a href="#financeiro">Gestão Financeira</a></li>
+                    <li><a href="#produto">Régua de cobrança</a></li>
+                </ul>
+            </div>'''
+          new_footer = '''            <div class="footer-col">
+                <h4>Soluções</h4>
+                <ul>
+                    <li><a href="#produto">CRM com IA</a></li>
+                    <li><a href="./pages/analise-de-credito-score-incorporadoras.html">Crédito e score</a></li>
+                    <li><a href="./pages/contratos-imobiliarios-digitais.html">Contratos e assinatura</a></li>
+                    <li><a href="./pages/cobranca-e-recebiveis-imobiliarios.html">Cobrança e recebíveis</a></li>
+                    <li><a href="./pages/portal-vendas-empreendimentos.html">Portal de vendas</a></li>
+                    <li><a href="./pages/gestao-de-unidades-imobiliarias.html">Gestão de unidades</a></li>
+                </ul>
+            </div>'''
+          if old_nav not in s:
+              raise SystemExit('nav target not found')
+          if old_footer not in s:
+              raise SystemExit('footer target not found')
+          s = s.replace(old_nav, new_nav, 1)
+          s = s.replace(old_footer, new_footer, 1)
+          p.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "feat: expose solution hubs in home navigation"
+          git push origin HEAD:feat/home-solutions-navigation
