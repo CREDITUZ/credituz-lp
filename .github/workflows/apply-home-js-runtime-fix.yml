@@ -27,10 +27,11 @@ jobs:
           for i,x in enumerate(scripts,1): (Path('/tmp/js')/f'{i:02d}.js').write_text(x,encoding='utf-8')
           PY
           for f in /tmp/js/*.js; do node --check "$f"; done
-      - name: Commit
+      - name: Commit index fix
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html .github/workflows/deploy.yml
-          git commit -m "fix: repair attribution runtime JS and gate deploy on syntax"
+          git checkout -- .github/workflows/deploy.yml
+          git add index.html
+          git commit -m "fix: repair attribution runtime JS"
           git push origin HEAD:fix/home-js-runtime
