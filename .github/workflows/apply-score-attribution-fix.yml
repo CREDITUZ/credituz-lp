@@ -1,0 +1,36 @@
+name: Apply Score attribution fix
+on:
+  push:
+    branches: [ci/tracking-runtime-smoke]
+    paths:
+      - scripts/fix_score_attribution_runtime.py
+      - .github/workflows/apply-score-attribution-fix.yml
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ci/tracking-runtime-smoke
+          fetch-depth: 0
+      - run: python3 scripts/fix_score_attribution_runtime.py
+      - name: Validate score inline JS syntax
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          s=Path('pages/credituz-score.html').read_text(encoding='utf-8')
+          scripts=re.findall(r'<script(?![^>]*type=["\']application/ld\+json["\'])[^>]*>(.*?)</script>',s,re.I|re.S)
+          Path('/tmp/score-js').mkdir(exist_ok=True)
+          for i,x in enumerate(scripts,1): (Path('/tmp/score-js')/f'{i:02d}.js').write_text(x,encoding='utf-8')
+          PY
+          for f in /tmp/score-js/*.js; do node --check "$f"; done
+      - name: Commit score fix
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pages/credituz-score.html
+          git commit -m "fix: preserve paid attribution on Score CTAs"
+          git push origin HEAD:ci/tracking-runtime-smoke
