@@ -49,13 +49,13 @@ A Credituz integra tudo isso em uma plataforma, com IA da comparação de crédi
 
 ## Planos e preços
 
-A Credituz tem um plano único, cobrado por operação (não por usuário individual), mais um plano Enterprise para escopo customizado. Clientes que assinaram os planos anteriores (Free, Starter, Growth, Pro e Business) mantêm preço e funcionalidades do plano contratado.
+A Credituz tem três formas de uso, conforme a maturidade e o volume da operação:
 
-- **Growth — R$ 297/mês, 30 dias grátis**: plano único para corretor, imobiliária ou construtora. Inclui portal de vendas em domínio próprio indexado no Google (com página por imóvel e por cidade) e módulo de crédito embutido no portal, configuração do Google Meu Negócio, CRM imobiliário + CRM de crédito com contatos ilimitados, 10 usuários, até 100 empreendimentos e 100 LPs, contratos com IA ilimitados com cartórios digitais, simulação multibancos ilimitada, analytics IA-generativo, suporte humano via chat e 20 GB de armazenamento. Na originação de crédito, o cliente fica com 40% da comissão.
-- **Enterprise — preço customizado (contrato anual)**: redes, holdings, incorporadoras e construtoras com operação financeira própria. Tudo do plano Growth, mais usuários, empreendimentos e contratos ilimitados, multi-empresa (razões sociais), 60% da comissão de originação, back office operacional e financeiro (repasses, pós-venda, carteira, cobrança e conciliação), régua de cobrança automatizada e customizada, NFe a R$ 0,49/nota, contas Credituz by Asaas ou banco escolhido pelo cliente via API, boleto/Pix/link de pagamento, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
+- **Credituz Score — R$ 27,70 por análise**: consulta avulsa, sem assinatura ou mensalidade. Entrega score e sinais de risco, renda estimada e parcela máxima, restrições, protestos, processos e demais dados disponíveis no relatório.
+- **Credituz OS — R$ 297/mês + R$ 16 por análise**: uso profissional recorrente. Inclui CRM de crédito + CORBAN AI, simulação, solicitação e acompanhamento de financiamento, contratos com IA, assinatura e cartório digital, cobrança e recebíveis, portal de vendas, espelho de empreendimento, gestão de unidades, analytics e 40% da comissão de originação.
+- **Enterprise — preço sob medida, contrato anual**: tudo do Credituz OS, mais multiempresa, usuários, empreendimentos e contratos ilimitados, 75% da comissão de originação, políticas por empresa e produto, back office operacional e financeiro, cobrança customizada, NFe, contas via API, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
 
-O teste de 30 dias vale para o plano de R$ 297; o Enterprise começa com demonstração guiada. A cobrança é mensal, sem fidelidade.
-
+Considerando apenas mensalidade e consultas, a partir de 26 análises por mês o Credituz OS fica mais barato do que pagar R$ 27,70 por análise avulsa.
 ## Locação e temporada
 
 A Credituz também opera locação (longa duração e temporada): atendimento de inquilinos com IA no WhatsApp, contratos de locação com assinatura eletrônica, cobrança recorrente de aluguel (boleto, Pix, NFe) e gestão da carteira. Essas funcionalidades estão disponíveis hoje. A sincronização automática com OTAs (Airbnb, Booking e Google Hotels) está em desenvolvimento, com lista de prioridade aberta. Página dedicada: https://www.credituz.ai/pages/locacao-temporada.html
