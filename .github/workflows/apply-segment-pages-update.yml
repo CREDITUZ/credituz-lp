@@ -3,7 +3,7 @@ on:
   push:
     branches: [feat/segment-pages-credit-positioning]
     paths:
-      - scripts/update_segment_pages.py
+      - scripts/update_segment_pages_v2.py
       - .github/workflows/apply-segment-pages-update.yml
 permissions:
   contents: write
@@ -16,9 +16,7 @@ jobs:
           ref: feat/segment-pages-credit-positioning
           fetch-depth: 0
       - name: Run transformation
-        run: |
-          sed -i 's/id="modulos"/id="funcionalidades"/g' scripts/update_segment_pages.py
-          python3 scripts/update_segment_pages.py
+        run: python3 scripts/update_segment_pages_v2.py
       - name: Validate HTML basics
         run: |
           python3 - <<'PY'
