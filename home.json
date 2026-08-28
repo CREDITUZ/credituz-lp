@@ -42,7 +42,7 @@
         "Simulação de crédito multibancos",
         "CRM imobiliário e de crédito",
         "Contratos digitais com IA (agente Ana)",
-        "Régua de cobrança automatizada em WhatsApp, SMS e e-mail (agente Max)",
+        "Régua de cobrança com IA em WhatsApp e e-mail por R$ 0,15 por envio; SMS disponível exclusivamente no Enterprise",
         "Baixa automática, conciliação e emissão de NFe",
         "Back office operacional e financeiro: repasses, contratos de locação, pós-venda e gestão da carteira",
         "Analytics de crédito e carteira (agente Iris)"
@@ -60,13 +60,13 @@
           "name": "Credituz OS",
           "price": "297",
           "priceCurrency": "BRL",
-          "description": "R$ 297 por mês mais R$ 16 por análise. CRM de crédito, CORBAN AI, financiamento, contratos, cobrança, recebíveis, portal, gestão de unidades e analytics. 40% da comissão de originação."
+          "description": "R$ 297 por mês mais R$ 16 por análise. CRM de crédito, CORBAN AI, financiamento, contratos, régua de cobrança com IA em WhatsApp e e-mail por R$ 0,15 por envio, recebíveis, portal, gestão de unidades e analytics. 40% da comissão de originação."
         },
         {
           "@type": "Offer",
           "name": "Enterprise",
           "priceCurrency": "BRL",
-          "description": "Preço sob medida, contrato anual: tudo do Credituz OS, mais multiempresa, escala, 75% da comissão, políticas customizadas, back office operacional e financeiro, White Label, API, SSO, auditoria e SLA 99,9%."
+          "description": "Preço sob medida, contrato anual: tudo do Credituz OS, mais multiempresa, escala, 75% da comissão, políticas customizadas, back office operacional e financeiro, cobrança customizada com SMS disponível, White Label, API, SSO, auditoria e SLA 99,9%."
         }
       ]
     },
