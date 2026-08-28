@@ -1,0 +1,38 @@
+name: Apply segment pages update
+on:
+  push:
+    branches: [feat/segment-pages-credit-positioning]
+    paths:
+      - scripts/update_segment_pages.py
+      - .github/workflows/apply-segment-pages-update.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/segment-pages-credit-positioning
+          fetch-depth: 0
+      - run: python3 scripts/update_segment_pages.py
+      - name: Validate HTML basics
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          for f in ['pages/construtoras.html','pages/imobiliarias.html']:
+              s=Path(f).read_text(encoding='utf-8')
+              assert s.count('<h1') == 1, f'{f}: expected one H1'
+              assert 'https://www.credituz.ai/' not in s.split('</head>',1)[0], f'{f}: www canonical remains'
+              assert 'application/ld+json' in s, f'{f}: missing JSON-LD'
+              assert 'id="jornada-credito"' in s, f'{f}: missing credit journey'
+          print('segment pages validation passed')
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pages/construtoras.html pages/imobiliarias.html
+          git commit -m "feat: reposition segment pages around credit journey"
+          git push origin HEAD:feat/segment-pages-credit-positioning
