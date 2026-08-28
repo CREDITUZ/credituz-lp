@@ -10,7 +10,7 @@
 
 ## O que é a Credituz?
 
-A Credituz é uma plataforma de software (SaaS) com inteligência artificial nativa para operações brasileiras que vendem financiado ou cobram de forma recorrente. Automatiza o crédito, os contratos, a cobrança e a gestão financeira, da simulação da proposta até a última parcela recebida.
+A Credituz é uma plataforma de software (SaaS) com inteligência artificial nativa para operações brasileiras que vendem financiado ou cobram de forma recorrente. Automatiza crédito, contratos, repasses, cobrança, recebíveis e gestão financeira, concentrando o back office operacional e financeiro em uma única plataforma.
 
 - **Nome oficial**: Credituz
 - **Categoria**: Sistema operacional AI-First de crédito e cobrança (CRM + crédito + contratos + cobrança + gestão financeira)
@@ -35,7 +35,7 @@ A plataforma é organizada em quatro agentes de IA, cada um responsável por uma
 
 1. **Carlos — Agente de Crédito**: simulação multibancos em menos de 30 segundos. Bancos parceiros: Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe.
 2. **Ana — Contratos com IA**: gera proposta e contrato digital com validade jurídica em menos de 1 minuto; assinatura eletrônica.
-3. **Max — Agente de Pós-venda**: cuida de repasse bancário, registro em cartório, medições de obra e atendimento técnico, do contrato à entrega das chaves.
+3. **Max — Agente de Back Office**: acompanha repasse bancário, registro em cartório, pendências operacionais e pós-venda, mantendo a equipe com visão do processo até a conclusão.
 4. **Iris — Agente de Analytics**: analisa aprovação de crédito por banco, ticket financiado, prazo até a contratação, inadimplência da carteira e produtividade por vendedor; relatórios em linguagem natural com recomendações.
 
 ## O problema que a Credituz resolve
@@ -52,7 +52,7 @@ A Credituz integra tudo isso em uma plataforma, com IA da comparação de crédi
 A Credituz tem um plano único, cobrado por operação (não por usuário individual), mais um plano Enterprise para escopo customizado. Clientes que assinaram os planos anteriores (Free, Starter, Growth, Pro e Business) mantêm preço e funcionalidades do plano contratado.
 
 - **Growth — R$ 297/mês, 30 dias grátis**: plano único para corretor, imobiliária ou construtora. Inclui portal de vendas em domínio próprio indexado no Google (com página por imóvel e por cidade) e módulo de crédito embutido no portal, configuração do Google Meu Negócio, CRM imobiliário + CRM de crédito com contatos ilimitados, 10 usuários, até 100 empreendimentos e 100 LPs, contratos com IA ilimitados com cartórios digitais, simulação multibancos ilimitada, analytics IA-generativo, suporte humano via chat e 20 GB de armazenamento. Na originação de crédito, o cliente fica com 40% da comissão.
-- **Enterprise — preço customizado (contrato anual)**: redes, holdings, incorporadoras e construtoras com operação financeira própria. Tudo do plano Growth, mais usuários, empreendimentos e contratos ilimitados, multi-empresa (razões sociais), 60% da comissão de originação, gestão da operação imobiliária (obras, repasses e pós-venda), régua de cobrança automatizada e customizada, NFe a R$ 0,49/nota, contas Credituz by Asaas ou banco escolhido pelo cliente via API, boleto/Pix/link de pagamento, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
+- **Enterprise — preço customizado (contrato anual)**: redes, holdings, incorporadoras e construtoras com operação financeira própria. Tudo do plano Growth, mais usuários, empreendimentos e contratos ilimitados, multi-empresa (razões sociais), 60% da comissão de originação, back office operacional e financeiro (repasses, pós-venda, carteira, cobrança e conciliação), régua de cobrança automatizada e customizada, NFe a R$ 0,49/nota, contas Credituz by Asaas ou banco escolhido pelo cliente via API, boleto/Pix/link de pagamento, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
 
 O teste de 30 dias vale para o plano de R$ 297; o Enterprise começa com demonstração guiada. A cobrança é mensal, sem fidelidade.
 

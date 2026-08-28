@@ -44,7 +44,7 @@
         "Contratos digitais com IA (agente Ana)",
         "Régua de cobrança automatizada em WhatsApp, SMS e e-mail (agente Max)",
         "Baixa automática, conciliação e emissão de NFe",
-        "Gestão da operação: obras, contratos de locação, pós-venda e repasses (agente Max)",
+        "Back office operacional e financeiro: repasses, contratos de locação, pós-venda e gestão da carteira",
         "Analytics de crédito e carteira (agente Iris)"
       ],
       "offers": [
@@ -59,7 +59,7 @@
           "@type": "Offer",
           "name": "Enterprise",
           "priceCurrency": "BRL",
-          "description": "Preço customizado, contrato anual: tudo do plano Growth, mais usuários e contratos ilimitados, multi-empresa, 60% da comissão de originação, gestão da operação imobiliária, régua de cobrança customizada, NFe, contas Asaas ou banco via API, White Label, API pública, SSO e SLA 99,9%."
+          "description": "Preço customizado, contrato anual: tudo do plano Growth, mais usuários e contratos ilimitados, multi-empresa, 60% da comissão de originação, back office operacional e financeiro, régua de cobrança customizada, NFe, contas Asaas ou banco via API, White Label, API pública, SSO e SLA 99,9%."
         }
       ]
     },

@@ -1,6 +1,6 @@
 # Credituz
 
-> Plataforma AI-First para o mercado imobiliário brasileiro: CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão. Do primeiro lead à entrega das chaves. Plano gratuito permanente.
+> Plataforma AI-First para o back office operacional e financeiro do mercado imobiliário: crédito multibancos, CRM de crédito, contratos digitais, repasses, cobrança, recebíveis, conciliação e gestão da carteira.
 
 ## Principais páginas
 
