@@ -10,7 +10,7 @@
 
 ## What is Credituz?
 
-Credituz is an AI-native software platform (SaaS) for the Brazilian real estate market. It automates the credit, contracts, collections and management of a real estate operation, from the simulation to the handover of keys.
+Credituz is an AI-native software platform (SaaS) for the Brazilian real estate market. It automates credit, contracts, transfers, collections, receivables and financial operations, concentrating the real estate back office in one platform.
 
 - **Official name**: Credituz
 - **Category**: AI-First platform for real estate (CRM + credit + contracts + management)
@@ -35,7 +35,7 @@ The platform is organized into four AI agents, each responsible for a stage of t
 
 1. **Carlos — Credit Agent**: multi-bank simulation in under 30 seconds. Partner banks: Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte and CashMe.
 2. **Ana — AI Contracts**: generates legally valid proposals and digital contracts in under 1 minute; electronic signature.
-3. **Max — Post-sale Agent**: handles bank transfers, registry, construction measurements and technical support, from contract to key handover.
+3. **Max — Back Office Agent**: follows bank transfers, registry, operational pending items and post-sale tasks, keeping the team informed until completion.
 4. **Iris — Analytics Agent**: analyzes credit approval by bank, financed ticket, time to signing, portfolio defaults and productivity per broker; natural-language reports with recommendations.
 
 ## The problem Credituz solves
@@ -45,14 +45,14 @@ The platform is organized into four AI agents, each responsible for a stage of t
 - Real estate financing takes, on average, more than 30 days.
 - Operations pay over R$ 2,000 per month on separate tools (CRM, credit, signature, billing, invoicing, BI).
 
-Credituz integrates all of this into one platform, with AI from the credit simulation to the handover of keys.
+Credituz integrates all of this into one platform, with AI from credit simulation through the operational and financial back office.
 
 ## Plans and pricing
 
 Credituz charges per operation (not per individual user) and has a single plan, plus an Enterprise tier for custom scope. Customers on the previous plans (Free, Starter, Growth, Pro and Business) keep the price and features they signed up for.
 
 - **Credituz — R$ 297/month, 30-day free trial**: the single plan for brokers, agencies and construction companies. Includes a sales portal on the customer's own domain, indexed on Google (with a page per property and per city) and a credit module embedded in the portal, Google Business Profile setup, real estate + credit CRM with unlimited contacts, 10 users, up to 100 developments and 100 landing pages, ZAP/OLX/VivaReal integration with two-way sync, AI base reactivation, unlimited AI contracts with digital registry offices, unlimited multi-bank simulation, generative AI analytics, human chat support and 20 GB of storage. On credit origination, the customer keeps 40% of the commission.
-- **Enterprise — custom pricing (annual contract)**: networks, holdings, developers and construction companies with their own financial operation. Everything in the Credituz plan, plus unlimited users, developments and contracts, multi-company, 60% of the origination commission, real estate operation management (construction, transfers and post-sale), automated and custom billing, NFe at R$ 0.49/invoice, Credituz by Asaas accounts or the customer's own bank via API, boleto/Pix/payment links, White Label, public API, channel manager, SSO, audit, 99.9% SLA, named CS and custom storage.
+- **Enterprise — custom pricing (annual contract)**: networks, holdings, developers and construction companies with their own financial operation. Everything in the Credituz plan, plus unlimited users, developments and contracts, multi-company, 60% of the origination commission, operational and financial back office (transfers, post-sale, portfolio, collections and reconciliation), automated and custom billing, NFe at R$ 0.49/invoice, Credituz by Asaas accounts or the customer's own bank via API, boleto/Pix/payment links, White Label, public API, channel manager, SSO, audit, 99.9% SLA, named CS and custom storage.
 
 The 30-day trial applies to the R$ 297 plan; Enterprise starts with a guided demo instead. Billing is monthly, with no lock-in.
 
