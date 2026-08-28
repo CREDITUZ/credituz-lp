@@ -52,8 +52,8 @@ A Credituz integra tudo isso em uma plataforma, com IA da comparação de crédi
 A Credituz tem três formas de uso, conforme a maturidade e o volume da operação:
 
 - **Credituz Score — R$ 27,70 por análise**: consulta avulsa, sem assinatura ou mensalidade. Entrega score e sinais de risco, renda estimada e parcela máxima, restrições, protestos, processos e demais dados disponíveis no relatório.
-- **Credituz OS — R$ 297/mês + R$ 16 por análise**: uso profissional recorrente. Inclui CRM de crédito + CORBAN AI, simulação, solicitação e acompanhamento de financiamento, contratos com IA, assinatura e cartório digital, cobrança e recebíveis, portal de vendas, espelho de empreendimento, gestão de unidades, analytics e 40% da comissão de originação.
-- **Enterprise — preço sob medida, contrato anual**: tudo do Credituz OS, mais multiempresa, usuários, empreendimentos e contratos ilimitados, 75% da comissão de originação, políticas por empresa e produto, back office operacional e financeiro, cobrança customizada, NFe, contas via API, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
+- **Credituz OS — R$ 297/mês + R$ 16 por análise**: uso profissional recorrente. Inclui CRM de crédito + CORBAN AI, simulação, solicitação e acompanhamento de financiamento, contratos com IA, assinatura e cartório digital, régua de cobrança com IA em WhatsApp e e-mail por R$ 0,15 por envio, recebíveis, portal de vendas, espelho de empreendimento, gestão de unidades, analytics e 40% da comissão de originação.
+- **Enterprise — preço sob medida, contrato anual**: tudo do Credituz OS, mais multiempresa, usuários, empreendimentos e contratos ilimitados, 75% da comissão de originação, políticas por empresa e produto, back office operacional e financeiro, cobrança customizada com SMS disponível exclusivamente neste plano, NFe, contas via API, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
 
 Considerando apenas mensalidade e consultas, a partir de 26 análises por mês o Credituz OS fica mais barato do que pagar R$ 27,70 por análise avulsa.
 ## Locação e temporada
