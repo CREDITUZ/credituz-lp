@@ -1,0 +1,100 @@
+name: Remove construction management positioning v3
+on:
+  push:
+    branches: [fix/remove-construction-management-positioning]
+    paths:
+      - .github/workflows/remove-construction-management-positioning-v3.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/remove-construction-management-positioning
+          fetch-depth: 0
+      - name: Update core positioning
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          def replace_ci(s, pattern, repl):
+              return re.sub(pattern, repl, s, flags=re.I)
+
+          files=['index.html','pages/construtoras.html','home.md','home.json','llms.txt','llms-full.txt','home.en.md','en/index.html','pages/integracoes.html']
+          for f in files:
+              p=Path(f); s=p.read_text(encoding='utf-8')
+              s=replace_ci(s,r'mediç(?:ão|ões) de obra', 'pendências operacionais')
+              s=replace_ci(s,r'cronograma de entrega', 'acompanhamento operacional')
+              s=replace_ci(s,r'construction measurements?', 'operational pending items')
+              s=replace_ci(s,r'delivery schedule', 'operational follow-up')
+              p.write_text(s,encoding='utf-8')
+
+          def exact(file,pairs):
+              p=Path(file); s=p.read_text(encoding='utf-8')
+              for a,b in pairs: s=s.replace(a,b)
+              p.write_text(s,encoding='utf-8')
+
+          exact('index.html',[
+            ('Gestão da operação: obras, contratos de locação, pós-venda e repasses','Back office operacional: repasses, contratos de locação, pós-venda e gestão da carteira'),
+            ('gestão da operação (obras, repasses, locação e pós-venda)','back office operacional e financeiro (repasses, locação, pós-venda e gestão da carteira)'),
+            ('Gestão da operação · obras, repasses, contratos de locação e pós-venda','Back office operacional e financeiro · repasses, contratos de locação, pós-venda e gestão da carteira')])
+          exact('pages/construtoras.html',[
+            ('<b>Obra e cobrança</b><span class="j-d">Espelho do empreendimento, régua automática, baixa e conciliação</span>','<b>Carteira e cobrança</b><span class="j-d">Espelho do empreendimento, régua automática, baixa e conciliação</span>'),
+            ('Espelho vivo, igual para comercial, obra e financeiro','Espelho vivo, igual para comercial, operações e financeiro'),
+            ('Multi-empresa, políticas por empresa e produto, obras e repasses, régua customizada, NFe, White Label, API e SLA.','Multi-empresa, políticas por empresa e produto, repasses, carteira, pós-venda, régua customizada, NFe, White Label, API e SLA.'),
+            ('que comercial, obra e financeiro enxergam ao mesmo tempo','que comercial, operações e financeiro enxergam ao mesmo tempo')])
+          exact('home.md',[
+            ('**Max — Agente de Pós-venda**: cuida de repasse bancário, registro em cartório, pendências operacionais e atendimento técnico, do contrato à entrega das chaves.','**Max — Agente de Back Office**: acompanha repasse bancário, registro em cartório, pendências operacionais e pós-venda, mantendo a equipe com visão do processo até a conclusão.'),
+            ('gestão da operação imobiliária (obras, repasses e pós-venda)','back office operacional e financeiro (repasses, pós-venda, carteira, cobrança e conciliação)'),
+            ('Automatiza o crédito, os contratos, a cobrança e a gestão financeira, da simulação da proposta até a última parcela recebida.','Automatiza crédito, contratos, repasses, cobrança, recebíveis e gestão financeira, concentrando o back office operacional e financeiro em uma única plataforma.')])
+          exact('llms-full.txt',[
+            ('**Max — Agente de Pós-venda**: cuida de repasse bancário, registro em cartório, pendências operacionais e atendimento técnico, do contrato à entrega das chaves.','**Max — Agente de Back Office**: acompanha repasse bancário, registro em cartório, pendências operacionais e pós-venda, mantendo a equipe com visão do processo até a conclusão.'),
+            ('gestão da operação imobiliária (obras, repasses e pós-venda)','back office operacional e financeiro (repasses, pós-venda, carteira, cobrança e conciliação)'),
+            ('Automatiza o crédito, os contratos, a cobrança e a gestão financeira, da simulação da proposta até a última parcela recebida.','Automatiza crédito, contratos, repasses, cobrança, recebíveis e gestão financeira, concentrando o back office operacional e financeiro em uma única plataforma.')])
+          exact('llms.txt',[
+            ('Plataforma AI-First para o mercado imobiliário brasileiro: CRM, SDR com IA no WhatsApp, simulação de crédito multibancos, contratos digitais, régua de cobrança, NFe e gestão. Do primeiro lead à entrega das chaves. Plano gratuito permanente.','Plataforma AI-First para o back office operacional e financeiro do mercado imobiliário: crédito multibancos, CRM de crédito, contratos digitais, repasses, cobrança, recebíveis, conciliação e gestão da carteira.')])
+          exact('home.en.md',[
+            ('It automates the credit, contracts, collections and management of a real estate operation, from the simulation to the handover of keys.','It automates credit, contracts, transfers, collections, receivables and financial operations, concentrating the real estate back office in one platform.'),
+            ('**Max — Post-sale Agent**: handles bank transfers, registry, operational pending items and technical support, from contract to key handover.','**Max — Back Office Agent**: follows bank transfers, registry, operational pending items and post-sale tasks, keeping the team informed until completion.'),
+            ('real estate operation management (construction, transfers and post-sale)','operational and financial back office (transfers, post-sale, portfolio, collections and reconciliation)'),
+            ('with AI from the credit simulation to the handover of keys.','with AI from credit simulation through the operational and financial back office.')])
+          exact('en/index.html',[
+            ('Gestão da operação: obras, contratos de locação, pós-venda e repasses','Back office operacional: repasses, contratos de locação, pós-venda e gestão da carteira'),
+            ('gestão da operação (obras, repasses, locação e pós-venda)','back office operacional e financeiro (repasses, locação, pós-venda e gestão da carteira)'),
+            ('Manages funding transfers, record-keeping, and construction projects.','Manages transfers, records, and operational follow-up.'),
+            ('Transfer, registration, and construction under control.','Transfers, registration, and operational follow-up under control.'),
+            ('Construction Measurements','Operational status')])
+          exact('pages/integracoes.html',[
+            ('Analytics unificado sobre toda a operação, com os dados de obra e financeiro do Sienge.','Analytics unificado sobre crédito, contratos, carteira e financeiro, usando os dados disponíveis no Sienge.'),
+            ('O Sienge permanece como ERP de gestão de obras, contratos e financeiro. A Credituz se conecta via API e passa a ser a plataforma onde sua equipe opera: qualificação de leads, simulação de crédito, cobrança e analytics — tudo em um único lugar, alimentado pelos dados do Sienge.','O Sienge permanece como ERP para engenharia e execução física da obra. A Credituz se conecta via API para concentrar o back office operacional e financeiro: crédito, contratos, repasses, cobrança, recebíveis, carteira e analytics.')])
+          p=Path('home.json'); s=p.read_text(encoding='utf-8')
+          s=s.replace('Gestão da operação: obras, contratos de locação, pós-venda e repasses (agente Max)','Back office operacional e financeiro: repasses, contratos de locação, pós-venda e gestão da carteira')
+          s=s.replace('gestão da operação imobiliária, régua de cobrança customizada','back office operacional e financeiro, régua de cobrança customizada')
+          p.write_text(s,encoding='utf-8')
+          PY
+      - name: Validate core claims
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          files=['index.html','pages/construtoras.html','home.md','home.json','llms.txt','home.en.md','en/index.html','pages/integracoes.html']
+          banned=['medições de obra','medição de obra','construction measurement','delivery schedule','gestão da operação: obras','gestão da operação (obras','gestão da operação · obras','obras e repasses']
+          bad=[]
+          for f in files:
+              s=Path(f).read_text(encoding='utf-8').lower()
+              for x in banned:
+                  if x.lower() in s: bad.append((f,x))
+          assert not bad, bad
+          assert 'back office operacional e financeiro' in Path('index.html').read_text(encoding='utf-8').lower()
+          assert 'Carteira e cobrança' in Path('pages/construtoras.html').read_text(encoding='utf-8')
+          print('core positioning validated')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html pages/construtoras.html home.md home.json llms.txt llms-full.txt home.en.md en/index.html pages/integracoes.html
+          git commit -m "fix: align product with operational and financial back office"
+          git push origin HEAD:fix/remove-construction-management-positioning
