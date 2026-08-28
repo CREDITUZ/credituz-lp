@@ -50,16 +50,23 @@
       "offers": [
         {
           "@type": "Offer",
-          "name": "Growth",
+          "name": "Credituz Score",
+          "price": "27.70",
+          "priceCurrency": "BRL",
+          "description": "Análise completa de crédito avulsa, sem assinatura ou mensalidade."
+        },
+        {
+          "@type": "Offer",
+          "name": "Credituz OS",
           "price": "297",
           "priceCurrency": "BRL",
-          "description": "Plano único: portal de vendas em domínio próprio com módulo de crédito embutido, Google Meu Negócio configurado, CRM imobiliário e de crédito com contatos ilimitados, 10 usuários, contratos com IA ilimitados, simulação multibancos ilimitada, analytics IA e 40% da comissão de originação de crédito."
+          "description": "R$ 297 por mês mais R$ 16 por análise. CRM de crédito, CORBAN AI, financiamento, contratos, cobrança, recebíveis, portal, gestão de unidades e analytics. 40% da comissão de originação."
         },
         {
           "@type": "Offer",
           "name": "Enterprise",
           "priceCurrency": "BRL",
-          "description": "Preço customizado, contrato anual: tudo do plano Growth, mais usuários e contratos ilimitados, multi-empresa, 60% da comissão de originação, back office operacional e financeiro, régua de cobrança customizada, NFe, contas Asaas ou banco via API, White Label, API pública, SSO e SLA 99,9%."
+          "description": "Preço sob medida, contrato anual: tudo do Credituz OS, mais multiempresa, escala, 75% da comissão, políticas customizadas, back office operacional e financeiro, White Label, API, SSO, auditoria e SLA 99,9%."
         }
       ]
     },
@@ -90,7 +97,7 @@
           "name": "Quanto custa começar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "R$ 297 por mês. É um plano único, com a plataforma inteira: CRM, agentes de IA, simulação multibancos, contratos, portal de vendas no domínio do cliente e originação de crédito. O cartão é pedido no cadastro, mas a primeira cobrança só acontece depois dos 30 dias e o cancelamento é self-serve."
+            "text": "Você pode começar pelo Credituz Score por R$ 27,70 por análise, sem mensalidade. Para uso recorrente, o Credituz OS custa R$ 297 por mês mais R$ 16 por análise. O Enterprise tem preço sob medida para operações em escala."
           }
         },
         {
