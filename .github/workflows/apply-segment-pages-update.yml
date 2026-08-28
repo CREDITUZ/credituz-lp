@@ -15,12 +15,14 @@ jobs:
         with:
           ref: feat/segment-pages-credit-positioning
           fetch-depth: 0
-      - run: python3 scripts/update_segment_pages.py
+      - name: Run transformation
+        run: |
+          sed -i 's/id="modulos"/id="funcionalidades"/g' scripts/update_segment_pages.py
+          python3 scripts/update_segment_pages.py
       - name: Validate HTML basics
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import re
           for f in ['pages/construtoras.html','pages/imobiliarias.html']:
               s=Path(f).read_text(encoding='utf-8')
               assert s.count('<h1') == 1, f'{f}: expected one H1'
