@@ -24,6 +24,9 @@ jobs:
               ('Gestão da operação: obras, contratos de locação, pós-venda e repasses','Back office operacional: repasses, contratos de locação, pós-venda e gestão da carteira'),
               ('gestão da operação (obras, repasses, locação e pós-venda)','back office operacional e financeiro (repasses, locação, pós-venda e gestão da carteira)'),
               ('Gestão da operação · obras, repasses, contratos de locação e pós-venda','Back office operacional e financeiro · repasses, contratos de locação, pós-venda e gestão da carteira'),
+              ('medições de obra','pendências operacionais'),
+              ('medição de obra','pendência operacional'),
+              ('cronograma de entrega','acompanhamento operacional'),
             ],
             'pages/construtoras.html': [
               ('<b>Obra e cobrança</b><span class="j-d">Espelho do empreendimento, régua automática, baixa e conciliação</span>','<b>Carteira e cobrança</b><span class="j-d">Espelho do empreendimento, régua automática, baixa e conciliação</span>'),
@@ -56,6 +59,8 @@ jobs:
               ('<h4>Manages funding transfers, record-keeping, and construction projects.</h4>\n<p>We monitor the bank transfer until funds are released, the registration at the notary’s office, and the construction measurements—from the signing of the contract to the handover of the keys.</p>','<h4>Manages transfers, records, and operational follow-up.</h4>\n<p>We follow the bank transfer until funds are released, organize registry steps and operational pending items, and keep the team informed until the process is completed.</p>'),
               ('<h3>Transfer, registration, and construction under control.</h3>\n<p>It guides the client from the signing of the contract to the handover of the keys. It handles bank transfers, notary registrations, construction measurements, and the delivery schedule. Everything is automated, with you in control.</p>','<h3>Transfers, registration, and operational follow-up under control.</h3>\n<p>It centralizes bank transfers, notary registration, pending items, post-sale follow-up and portfolio visibility. The physical execution of construction remains in the customer’s ERP or construction management system.</p>'),
               ('<div class="row best"><span>Construction Measurements</span><span>real time</span></div>','<div class="row best"><span>Operational status</span><span>centralized</span></div>'),
+              ('construction measurements','operational pending items'),
+              ('delivery schedule','operational follow-up'),
             ],
             'pages/integracoes.html': [
               ('Analytics unificado sobre toda a operação, com os dados de obra e financeiro do Sienge.','Analytics unificado sobre crédito, contratos, carteira e financeiro, usando os dados disponíveis no Sienge.'),
@@ -82,7 +87,7 @@ jobs:
           python3 - <<'PY'
           from pathlib import Path
           files=['index.html','pages/construtoras.html','home.md','home.json','llms.txt','home.en.md','en/index.html','pages/integracoes.html']
-          banned=['medições de obra','construction measurements','delivery schedule','gestão da operação: obras','gestão da operação (obras','Gestão da operação · obras','obras e repasses']
+          banned=['medições de obra','medição de obra','construction measurements','delivery schedule','gestão da operação: obras','gestão da operação (obras','Gestão da operação · obras','obras e repasses']
           for f in files:
               s=Path(f).read_text(encoding='utf-8').lower()
               for b in banned:
