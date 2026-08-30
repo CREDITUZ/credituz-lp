@@ -1,0 +1,155 @@
+name: Update home problem positioning
+on:
+  push:
+    branches: [feat/home-problem-backoffice-positioning]
+    paths:
+      - .github/workflows/update-home-problem-backoffice.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/home-problem-backoffice-positioning
+          fetch-depth: 0
+      - name: Reframe problem section and user limits
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re, json
+
+          p=Path('index.html')
+          s=p.read_text(encoding='utf-8')
+
+          old='''<!-- DOR -->
+<section class="dor">
+    <div class="dor-inner">
+        <div class="section-tag">O problema</div>
+        <h2>O prejuízo já <em>começou</em><br>e ainda não apareceu.</h2>
+
+        <div class="dor-grid">
+            <div class="dor-card">
+                <div class="dor-number">0<sub>%</sub></div>
+                <h3>Da comissão do financiamento fica com você.</h3>
+                <p>O comprador sai da sua venda e fecha o crédito com o gerente do banco. A originação, que é receita, vira comissão de outra pessoa. E você ainda perde o controle do prazo da própria venda.</p>
+            </div>
+            <div class="dor-card">
+                <div class="dor-number">24<sub>meses</sub></div>
+                <h3>Depois é quando você descobre que errou na análise.</h3>
+                <p>Você financia a entrada, recebe por dois anos e só no repasse o banco analisa de verdade — e reprova. A unidade volta ao estoque, o dinheiro volta ao comprador e a comissão já foi paga. O distrato não começa no distrato: começa na análise que ninguém fez no dia da venda.</p>
+            </div>
+            <div class="dor-card">
+                <div class="dor-number">4<sub>sistemas</sub></div>
+                <h3>Entre o “sim” do cliente e a chave na mão.</h3>
+                <p>Proposta num editor, assinatura em outro, cartório à parte e o espelho do empreendimento numa planilha. Cada troca é retrabalho entre comercial e jurídico, e cada dia parado é caixa que não entra.</p>
+            </div>
+            <div class="dor-card">
+                <div class="dor-number">1<sub>×/mês</sub></div>
+                <h3>É quando a inadimplência é olhada.</h3>
+                <p>Parcela, aluguel ou mensalidade: a cobrança vive numa planilha e só é revista no fechamento. Quem atrasou no dia 5 é lembrado no dia 30, quando já atrasou de novo. Sem régua, sem baixa automática, sem previsão de caixa.</p>
+            </div>
+        </div>
+    </div>
+</section>'''
+
+          new='''<!-- DOR -->
+<section class="dor">
+    <div class="dor-inner">
+        <div class="section-tag">O problema</div>
+        <h2>O imóvel é vendido.<br><em>Depois disso, a operação se espalha.</em></h2>
+        <p class="dor-lead">Crédito, financiamento, contratos, repasses e cobrança acabam distribuídos entre planilhas, WhatsApp, bancos e sistemas que não conversam. O resultado é mais trabalho manual, menos controle e decisões financeiras piores.</p>
+
+        <div class="dor-grid">
+            <div class="dor-card">
+                <div class="dor-number">01</div>
+                <h3>O risco é descoberto tarde demais.</h3>
+                <p>Compradores e inquilinos avançam sem uma análise de crédito consistente. Sem score, capacidade de pagamento e política padronizada, o problema aparece depois em inadimplência, distrato ou dificuldade no financiamento.</p>
+                <span class="dor-solution">Credituz Score + política de crédito</span>
+            </div>
+            <div class="dor-card">
+                <div class="dor-number">02</div>
+                <h3>O financiamento vira uma caixa-preta.</h3>
+                <p>Depois que o crédito é solicitado, comercial, cliente e financeiro passam a depender de mensagens para descobrir documentos pendentes, banco em análise, status e próximo passo.</p>
+                <span class="dor-solution">CRM de crédito + CORBAN AI</span>
+            </div>
+            <div class="dor-card">
+                <div class="dor-number">03</div>
+                <h3>O back office está espalhado.</h3>
+                <p>Venda em um sistema, contrato em outro, status no WhatsApp e controles paralelos para unidades, repasses, recebíveis e pendências. Quanto mais a operação cresce, mais gente trabalha copiando informação.</p>
+                <span class="dor-solution">Contratos + formalização + gestão operacional</span>
+            </div>
+            <div class="dor-card">
+                <div class="dor-number">04</div>
+                <h3>A cobrança começa quando o cliente já atrasou.</h3>
+                <p>Sem uma régua automatizada, o financeiro depende de alguém lembrar de cobrar e acompanhar cada parcela. A operação se torna reativa justamente quando a carteira cresce.</p>
+                <span class="dor-solution">Régua de cobrança com IA + financeiro</span>
+            </div>
+        </div>
+        <div class="dor-flow"><strong>A Credituz transforma essas etapas em uma única operação.</strong><span>Analisar</span><i>→</i><span>Financiar</span><i>→</i><span>Acompanhar</span><i>→</i><span>Formalizar</span><i>→</i><span>Cobrar</span><i>→</i><span>Receber</span></div>
+        <div class="dor-close"><strong>Venda na frente. Credituz no back office.</strong><p>Da análise do cliente ao recebimento da carteira, sua equipe opera crédito e financeiro em um único lugar.</p></div>
+    </div>
+</section>'''
+          if old not in s:
+              raise SystemExit('old problem section not found')
+          s=s.replace(old,new,1)
+
+          # Add styles alongside existing dor styles without rewriting the design system.
+          css='''\n/* Back office problem narrative */\n.dor-lead{max-width:820px;margin:18px 0 34px;color:var(--gray-2);font-size:18px;line-height:1.55}\n.dor-solution{display:inline-flex;margin-top:18px;padding:7px 11px;border-radius:999px;background:var(--accent-soft);color:var(--lime-deep);font-size:12.5px;font-weight:650}\n.dor-flow{margin-top:22px;padding:24px;border:1px solid var(--gray-soft);border-radius:20px;display:flex;flex-wrap:wrap;align-items:center;gap:10px;background:var(--paper)}\n.dor-flow strong{width:100%;font-size:16px;margin-bottom:4px}.dor-flow span{font-size:14px;font-weight:650}.dor-flow i{font-style:normal;color:var(--gray-3)}\n.dor-close{margin-top:22px;padding:30px;border-radius:22px;background:var(--ink);color:#fff}.dor-close strong{display:block;font-size:clamp(23px,3vw,34px);letter-spacing:-.03em}.dor-close p{margin-top:8px;color:rgba(255,255,255,.68);max-width:760px}\n@media(max-width:760px){.dor-lead{font-size:16px}.dor-flow{align-items:flex-start}.dor-flow strong{margin-bottom:8px}.dor-close{padding:24px}}\n'''
+          s=s.replace('</style>\n<!-- Microsoft Clarity -->', css+'\n</style>\n<!-- Microsoft Clarity -->',1)
+
+          # Explicit user limits in pricing.
+          s=s.replace('3 usuários · até 100 empreendimentos · 20 GB','Até 3 usuários · até 100 empreendimentos · 20 GB')
+          s=s.replace('Usuários, empreendimentos e contratos ilimitados · multiempresa','Usuários, empreendimentos e contratos sob medida · multiempresa')
+          s=s.replace('mais multiempresa, usuários e contratos ilimitados','mais multiempresa, usuários, empreendimentos e contratos sob medida')
+
+          p.write_text(s,encoding='utf-8')
+
+          # Update machine-readable product framing.
+          for file in ['home.md','llms-full.txt']:
+              fp=Path(file); text=fp.read_text(encoding='utf-8')
+              text=re.sub(r'## O problema que a Credituz resolve\n.*?(?=\n## )', '''## O problema que a Credituz resolve\n\nO imóvel é vendido ou alugado, mas o back office passa a se espalhar entre planilhas, WhatsApp, bancos e sistemas desconectados. A Credituz concentra os principais gargalos operacionais e financeiros:\n\n- **Risco descoberto tarde demais**: compradores e inquilinos avançam sem score, capacidade de pagamento e política de crédito consistente.\n- **Financiamento como caixa-preta**: depois da solicitação, comercial, cliente e financeiro perdem visibilidade de pendências, banco em análise, status e próximo passo.\n- **Back office fragmentado**: contratos, formalização, unidades, repasses, recebíveis e pendências ficam distribuídos entre ferramentas e controles paralelos.\n- **Cobrança reativa**: sem régua automatizada, o financeiro depende de acompanhamento manual de cada vencimento e atraso.\n\nA Credituz conecta a jornada: **Analisar → Financiar → Acompanhar → Formalizar → Cobrar → Receber**. A proposta é operar o back office de crédito e financeiro do setor imobiliário em um único lugar.\n''', text, count=1, flags=re.S)
+              text=text.replace('3 usuários', 'até 3 usuários')
+              text=text.replace('usuários, empreendimentos e contratos ilimitados', 'usuários, empreendimentos e contratos sob medida')
+              fp.write_text(text,encoding='utf-8')
+
+          hp=Path('home.json')
+          data=json.loads(hp.read_text(encoding='utf-8'))
+          for node in data.get('@graph',[]):
+              if node.get('@type')=='SoftwareApplication':
+                  for offer in node.get('offers',[]):
+                      if offer.get('name')=='Credituz OS':
+                          desc=offer.get('description','')
+                          if 'até 3 usuários' not in desc.lower(): desc += ' Plano para até 3 usuários.'
+                          offer['description']=desc
+                      elif offer.get('name')=='Enterprise':
+                          offer['description']=offer.get('description','').replace('usuários e contratos ilimitados','usuários, empreendimentos e contratos sob medida')
+          hp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          PY
+      - name: Validate positioning
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          s=Path('index.html').read_text(encoding='utf-8')
+          assert 'O imóvel é vendido.' in s
+          assert 'O risco é descoberto tarde demais.' in s
+          assert 'O financiamento vira uma caixa-preta.' in s
+          assert 'O back office está espalhado.' in s
+          assert 'A cobrança começa quando o cliente já atrasou.' in s
+          assert 'Venda na frente. Credituz no back office.' in s
+          assert 'Analisar</span><i>→</i><span>Financiar' in s
+          assert 'Até 3 usuários' in s
+          assert 'Usuários, empreendimentos e contratos sob medida' in s
+          assert '24<sub>meses</sub>' not in s
+          assert '0<sub>%</sub>' not in s
+          print('home problem and user limits validated')
+          PY
+      - name: Commit and remove one-time workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/update-home-problem-backoffice.yml
+          git add index.html home.md llms-full.txt home.json
+          git commit -m "feat: align home problem section with back office positioning"
+          git push origin HEAD:feat/home-problem-backoffice-positioning
