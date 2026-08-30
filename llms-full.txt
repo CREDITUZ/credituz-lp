@@ -40,20 +40,21 @@ A plataforma é organizada em quatro agentes de IA, cada um responsável por uma
 
 ## O problema que a Credituz resolve
 
-- Quando o comprador fecha o financiamento direto no banco, a comissão de originação, que é receita, fica com o gerente.
-- A cobrança de parcelas, aluguéis e mensalidades costuma viver em planilha e só é revista no fechamento do mês, sem régua, baixa automática ou previsão de caixa.
-- O financiamento leva, em média, mais de 30 dias, com o cliente rodando banco por banco.
-- Operações pagam mais de R$ 2 mil por mês em ferramentas separadas (CRM, crédito, assinatura, cobrança, NFe, BI).
+O imóvel é vendido ou alugado, mas o back office passa a se espalhar entre planilhas, WhatsApp, bancos e sistemas desconectados. A Credituz concentra os principais gargalos operacionais e financeiros:
 
-A Credituz integra tudo isso em uma plataforma, com IA da comparação de crédito à última parcela recebida.
+- **Risco descoberto tarde demais**: compradores e inquilinos avançam sem score, capacidade de pagamento e política de crédito consistente.
+- **Financiamento como caixa-preta**: depois da solicitação, comercial, cliente e financeiro perdem visibilidade de pendências, banco em análise, status e próximo passo.
+- **Back office fragmentado**: contratos, formalização, unidades, repasses, recebíveis e pendências ficam distribuídos entre ferramentas e controles paralelos.
+- **Cobrança reativa**: sem régua automatizada, o financeiro depende de acompanhamento manual de cada vencimento e atraso.
 
+A Credituz conecta a jornada: **Analisar → Financiar → Acompanhar → Formalizar → Cobrar → Receber**. A proposta é operar o back office de crédito e financeiro do setor imobiliário em um único lugar.
 ## Planos e preços
 
 A Credituz tem três formas de uso, conforme a maturidade e o volume da operação:
 
 - **Credituz Score — R$ 27,70 por análise**: consulta avulsa, sem assinatura ou mensalidade. Entrega score e sinais de risco, renda estimada e parcela máxima, restrições, protestos, processos e demais dados disponíveis no relatório.
 - **Credituz OS — R$ 297/mês + R$ 16 por análise**: uso profissional recorrente. Inclui CRM de crédito + CORBAN AI, simulação, solicitação e acompanhamento de financiamento, contratos com IA, assinatura e cartório digital, régua de cobrança com IA em WhatsApp e e-mail por R$ 0,15 por envio, recebíveis, portal de vendas, espelho de empreendimento, gestão de unidades, analytics e 40% da comissão de originação.
-- **Enterprise — preço sob medida, contrato anual**: tudo do Credituz OS, mais multiempresa, usuários, empreendimentos e contratos ilimitados, 75% da comissão de originação, políticas por empresa e produto, back office operacional e financeiro, cobrança customizada com SMS disponível exclusivamente neste plano, NFe, contas via API, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
+- **Enterprise — preço sob medida, contrato anual**: tudo do Credituz OS, mais multiempresa, usuários, empreendimentos e contratos sob medida, 75% da comissão de originação, políticas por empresa e produto, back office operacional e financeiro, cobrança customizada com SMS disponível exclusivamente neste plano, NFe, contas via API, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
 
 Considerando apenas mensalidade e consultas, a partir de 26 análises por mês o Credituz OS fica mais barato do que pagar R$ 27,70 por análise avulsa.
 ## Locação e temporada
