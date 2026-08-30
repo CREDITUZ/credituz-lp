@@ -1,0 +1,68 @@
+from pathlib import Path
+import re, json
+
+p = Path('index.html')
+s = p.read_text(encoding='utf-8')
+start = s.index('<!-- DOR -->')
+end = s.index('</section>', start) + len('</section>')
+new = '''<!-- DOR -->
+<section class="dor">
+  <div class="dor-inner">
+    <div class="section-tag">O problema</div>
+    <h2>O imóvel é vendido.<br><em>Depois disso, a operação se espalha.</em></h2>
+    <p class="dor-lead">Crédito, financiamento, contratos, repasses e cobrança acabam distribuídos entre planilhas, WhatsApp, bancos e sistemas que não conversam. O resultado é mais trabalho manual, menos controle e decisões financeiras piores.</p>
+    <div class="dor-grid">
+      <div class="dor-card"><div class="dor-number">01</div><h3>O risco é descoberto tarde demais.</h3><p>Compradores e inquilinos avançam sem uma análise de crédito consistente. Sem score, capacidade de pagamento e política padronizada, o problema aparece depois em inadimplência, distrato ou dificuldade no financiamento.</p><span class="dor-solution">Credituz Score + política de crédito</span></div>
+      <div class="dor-card"><div class="dor-number">02</div><h3>O financiamento vira uma caixa-preta.</h3><p>Depois que o crédito é solicitado, comercial, cliente e financeiro passam a depender de mensagens para descobrir documentos pendentes, banco em análise, status e próximo passo.</p><span class="dor-solution">CRM de crédito + CORBAN AI</span></div>
+      <div class="dor-card"><div class="dor-number">03</div><h3>O back office está espalhado.</h3><p>Venda em um sistema, contrato em outro, status no WhatsApp e controles paralelos para unidades, repasses, recebíveis e pendências. Quanto mais a operação cresce, mais gente trabalha copiando informação.</p><span class="dor-solution">Contratos + formalização + gestão operacional</span></div>
+      <div class="dor-card"><div class="dor-number">04</div><h3>A cobrança começa quando o cliente já atrasou.</h3><p>Sem uma régua automatizada, o financeiro depende de alguém lembrar de cobrar e acompanhar cada parcela. A operação se torna reativa justamente quando a carteira cresce.</p><span class="dor-solution">Régua de cobrança com IA + financeiro</span></div>
+    </div>
+    <div class="dor-flow"><strong>A Credituz transforma essas etapas em uma única operação.</strong><span>Analisar</span><i>→</i><span>Financiar</span><i>→</i><span>Acompanhar</span><i>→</i><span>Formalizar</span><i>→</i><span>Cobrar</span><i>→</i><span>Receber</span></div>
+    <div class="dor-close"><strong>Venda na frente. Credituz no back office.</strong><p>Da análise do cliente ao recebimento da carteira, sua equipe opera crédito e financeiro em um único lugar.</p></div>
+  </div>
+</section>'''
+s = s[:start] + new + s[end:]
+css = '''<style id="dor-backoffice-v2">.dor-lead{max-width:820px;margin:18px 0 34px;color:var(--gray-2);font-size:18px;line-height:1.55}.dor-solution{display:inline-flex;margin-top:18px;padding:7px 11px;border-radius:999px;background:var(--accent-soft);color:var(--lime-deep);font-size:12.5px;font-weight:650}.dor-flow{margin-top:22px;padding:24px;border:1px solid var(--gray-soft);border-radius:20px;display:flex;flex-wrap:wrap;align-items:center;gap:10px;background:var(--paper)}.dor-flow strong{width:100%;font-size:16px;margin-bottom:4px}.dor-flow span{font-size:14px;font-weight:650}.dor-flow i{font-style:normal;color:var(--gray-3)}.dor-close{margin-top:22px;padding:30px;border-radius:22px;background:var(--ink);color:#fff}.dor-close strong{display:block;font-size:clamp(23px,3vw,34px);letter-spacing:-.03em}.dor-close p{margin-top:8px;color:rgba(255,255,255,.68);max-width:760px}@media(max-width:760px){.dor-lead{font-size:16px}.dor-flow{align-items:flex-start}.dor-close{padding:24px}}</style>'''
+if 'id="dor-backoffice-v2"' not in s:
+    s = s.replace('</head>', css + '</head>', 1)
+s = s.replace('3 usuários · até 100 empreendimentos · 20 GB', 'Até 3 usuários · até 100 empreendimentos · 20 GB')
+s = s.replace('Usuários, empreendimentos e contratos ilimitados · multiempresa', 'Usuários, empreendimentos e contratos sob medida · multiempresa')
+s = s.replace('mais multiempresa, usuários e contratos ilimitados', 'mais multiempresa, usuários, empreendimentos e contratos sob medida')
+p.write_text(s, encoding='utf-8')
+
+section = '''## O problema que a Credituz resolve
+
+O imóvel é vendido ou alugado, mas o back office passa a se espalhar entre planilhas, WhatsApp, bancos e sistemas desconectados. A Credituz concentra os principais gargalos operacionais e financeiros:
+
+- **Risco descoberto tarde demais**: compradores e inquilinos avançam sem score, capacidade de pagamento e política de crédito consistente.
+- **Financiamento como caixa-preta**: depois da solicitação, comercial, cliente e financeiro perdem visibilidade de pendências, banco em análise, status e próximo passo.
+- **Back office fragmentado**: contratos, formalização, unidades, repasses, recebíveis e pendências ficam distribuídos entre ferramentas e controles paralelos.
+- **Cobrança reativa**: sem régua automatizada, o financeiro depende de acompanhamento manual de cada vencimento e atraso.
+
+A Credituz conecta a jornada: **Analisar → Financiar → Acompanhar → Formalizar → Cobrar → Receber**. A proposta é operar o back office de crédito e financeiro do setor imobiliário em um único lugar.
+'''
+for file in ['home.md', 'llms-full.txt']:
+    fp = Path(file)
+    t = fp.read_text(encoding='utf-8')
+    t, n = re.subn(r'## O problema que a Credituz resolve\n.*?(?=\n## )', section.rstrip(), t, count=1, flags=re.S)
+    if n != 1:
+        raise SystemExit(f'problem section not found in {file}')
+    t = t.replace('3 usuários', 'até 3 usuários').replace('usuários, empreendimentos e contratos ilimitados', 'usuários, empreendimentos e contratos sob medida')
+    fp.write_text(t, encoding='utf-8')
+
+hp = Path('home.json')
+data = json.loads(hp.read_text(encoding='utf-8'))
+for node in data.get('@graph', []):
+    if node.get('@type') == 'SoftwareApplication':
+        for offer in node.get('offers', []):
+            if offer.get('name') == 'Credituz OS' and 'até 3 usuários' not in offer.get('description', '').lower():
+                offer['description'] += ' Plano para até 3 usuários.'
+            if offer.get('name') == 'Enterprise':
+                offer['description'] = offer.get('description', '').replace('usuários e contratos ilimitados', 'usuários, empreendimentos e contratos sob medida')
+hp.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+assert 'O imóvel é vendido.' in s
+assert 'Venda na frente. Credituz no back office.' in s
+assert 'Até 3 usuários' in s
+assert 'Usuários, empreendimentos e contratos sob medida' in s
+print('OK')
