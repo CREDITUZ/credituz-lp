@@ -1,0 +1,46 @@
+name: Update OS collection packaging
+on:
+  push:
+    branches:
+      - fix/os-300-devedores-regua-configuravel
+    paths:
+      - .github/workflows/run-update-os-300-devedores.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/os-300-devedores-regua-configuravel
+          fetch-depth: 0
+      - name: Apply collection packaging update
+        run: python3 scripts/update-os-300-devedores.py
+      - name: Validate messaging
+        run: |
+          grep -q 'Cobre até 300 devedores por mês' index.html
+          grep -q 'Você define quando cobrar' index.html
+          grep -q 'Exemplo de configuração' index.html
+          grep -q 'D-3' index.html
+          grep -q 'D0' index.html
+          grep -q 'D+3' index.html
+          grep -q 'até 300 devedores por mês' home.md
+          grep -q 'outros dias e intervalos de cobrança' home.md
+          grep -q 'até 300 devedores por mês' pages/regua-de-cobranca-imobiliaria.html
+          grep -q 'escolha livremente os dias e intervalos' pages/regua-de-cobranca-imobiliaria.html
+          ! grep -q 'R$ 0,15 por envio' index.html
+          ! grep -q 'R$ 0,15 por envio' home.md
+          ! grep -q 'R$ 0,15 por envio' llms-full.txt
+          ! grep -q 'R$ 0,15 por envio' pages/regua-de-cobranca-imobiliaria.html
+          ! grep -q 'R$ 0,15 por envio' pages/cobranca-e-recebiveis-imobiliarios.html
+          ! grep -q 'R$ 0,15 por envio' pages/construtoras.html
+          ! grep -q 'R$ 0,15 por envio' pages/imobiliarias.html
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm scripts/update-os-300-devedores.py .github/workflows/run-update-os-300-devedores.yml
+          git add index.html home.md home.json llms-full.txt pages/regua-de-cobranca-imobiliaria.html pages/cobranca-e-recebiveis-imobiliarios.html pages/construtoras.html pages/imobiliarias.html
+          git commit -m "feat: comunica 300 devedores e régua configurável no Credituz OS"
+          git push origin HEAD:fix/os-300-devedores-regua-configuravel
