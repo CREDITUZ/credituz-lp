@@ -1,10 +1,10 @@
 # Credituz
 
-> Plataforma AI-First para o back office operacional e financeiro do mercado imobiliário: crédito multibancos, CRM de crédito, contratos digitais, repasses, cobrança, recebíveis, conciliação e gestão da carteira.
+> Plataforma de análise de crédito, cobrança e embedded finance com IA para empresas. Credituz OS reúne análise de crédito, CRM de crédito e cobrança; CORBAN AI reúne simulação multibanco, pedido de crédito e CRM Corban; Enterprise combina infraestrutura financeira, gestão operacional e soluções customizadas.
 
 ## Principais páginas
 
-- [Plataforma Credituz (home)](https://www.credituz.ai/): visão geral, 5 agentes de IA, planos e preços
+- [Plataforma Credituz (home)](https://www.credituz.ai/): visão geral de Credituz OS, CORBAN AI, Enterprise, Credituz Score e preços
 - [Versão markdown da home](https://www.credituz.ai/home.md): home em texto limpo para IA
 - [Blog Credituz](https://www.credituz.ai/pages/blog.html): 119 artigos sobre IA, crédito e gestão imobiliária
 - [Glossário Credituz](https://www.credituz.ai/pages/glossario.html): 55+ termos de mercado imobiliário, crédito e IA (GEO/AEO/AIO)
