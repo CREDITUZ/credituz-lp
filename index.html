@@ -2851,6 +2851,43 @@ h2 em {
     align-items: flex-start;
     gap: 24px;
 }
+/* O markup usa <button class="faq-q">: sem reset o navegador aplica
+   fundo cinza, borda e largura do conteudo. */
+button.faq-q {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    text-align: left;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+}
+button.faq-q:focus-visible { outline: 2px solid var(--lime); outline-offset: 4px; }
+.faq-q > span {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--paper-warm);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 20px;
+    color: var(--gray-2);
+    line-height: 1;
+    transition: transform 0.25s, background 0.2s, color 0.2s;
+}
+.faq-item.open .faq-q > span {
+    background: var(--ink);
+    color: var(--paper);
+    transform: rotate(45deg);
+}
 
 .faq-q h4 {
     font-family: var(--font-sans);
