@@ -45,7 +45,7 @@ Inclui:
 - **CRM de crédito**;
 - análises Credituz Score por **R$ 16 cada**;
 - régua de cobrança com IA em WhatsApp e e-mail;
-- cobrança por **R$ 0,15 por envio**;
+- cobrança de até **300 devedores por mês**;
 - recebíveis, baixa e conciliação;
 - analytics;
 - **até 3 usuários**.
@@ -75,7 +75,7 @@ Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R
 
 ## Cobrança com IA
 
-No Credituz OS, a régua de cobrança automatiza contatos em **WhatsApp e e-mail** por **R$ 0,15 por envio**. SMS fica disponível em projetos **Enterprise sob medida**.
+No Credituz OS, a régua de cobrança automatiza contatos em **WhatsApp e e-mail** para até **300 devedores por mês**. A operação pode usar uma configuração como **D-3, D0 e D+3** ou definir outros dias e intervalos de cobrança. O limite de devedores é mensal e não cumulativo. SMS fica disponível em projetos **Enterprise sob medida**.
 
 ## Enterprise
 
@@ -112,7 +112,7 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 
 A comparação principal da home tem três produtos:
 
-1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários.
+1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários e cobrança de até 300 devedores por mês.
 2. **CORBAN AI — modelo comercial conforme a operação**.
 3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
 
