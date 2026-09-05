@@ -1,96 +1,142 @@
-# Credituz — O sistema operacional de crédito e cobrança com IA
+# Credituz — Análise de crédito, cobrança e embedded finance com IA
 
-> A Credituz é uma plataforma brasileira AI-First de crédito e cobrança. Compara ofertas entre diversas instituições financeiras, envia propostas digitalmente e automatiza a régua de cobrança, os recebimentos e a gestão financeira. Reúne originação de crédito multibancos, CRM, contratos digitais, emissão de NFe e gestão da carteira em uma única plataforma. Atende qualquer operação que venda financiado ou cobre recorrente: incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras, concessionárias de veículos, administradoras de locação, prestadores de serviço com mensalidade e correspondentes bancários (CORBANs).
+> A Credituz é uma plataforma brasileira de crédito e cobrança com IA para empresas. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança. O CORBAN AI permite simular, solicitar e acompanhar crédito multibanco com CRM Corban. O Enterprise combina esses produtos com infraestrutura financeira, gestão operacional e soluções customizadas.
 
 - Canonical: https://www.credituz.ai/
 - Language: pt-BR
-- Updated: 2026-06
+- Updated: 2026-09
 
 ---
 
 ## O que é a Credituz?
 
-A Credituz é uma plataforma de software (SaaS) com inteligência artificial nativa para operações brasileiras que vendem financiado ou cobram de forma recorrente. Automatiza crédito, contratos, repasses, cobrança, recebíveis e gestão financeira, concentrando o back office operacional e financeiro em uma única plataforma.
-
-- **Nome oficial**: Credituz
-- **Categoria**: Sistema operacional AI-First de crédito e cobrança (CRM + crédito + contratos + cobrança + gestão financeira)
-- **Modelo**: SaaS self-serve, com plano gratuito permanente
-- **Setores atendidos**: incorporadoras, imobiliárias, corretores autônomos, construtoras, loteadoras, concessionárias de veículos, administradoras de locação, prestadores de serviço com cobrança recorrente e correspondentes bancários (CORBAN)
-- **Idioma**: Português (PT-BR)
-- **Site oficial**: https://www.credituz.ai
+A Credituz atende empresas que precisam tomar decisões de crédito, automatizar recebimentos ou incorporar crédito à própria jornada. A home apresenta os produtos de forma horizontal; páginas de segmento aprofundam aplicações específicas para mercados como construção e incorporação imobiliária, imobiliárias e operações de originação de crédito.
 
 ## Posicionamento
 
-Título da home: "Encontre o melhor financiamento e automatize toda a régua de cobrança da sua operação."
+**Título da home:** “Decida para quem vender. Receba melhor. Ofereça crédito.”
 
-Subtítulo: "Compare ofertas entre diversas instituições financeiras, envie propostas digitalmente e automatize cobrança, recebimentos e gestão financeira com IA."
+**Subtítulo:** “Analise clientes, organize sua operação de crédito, automatize cobranças e ofereça crédito multibanco com IA usando Credituz OS e CORBAN AI.”
 
-Promessa de entrada: "Comece em 5 minutos. Sem implantação de 60 dias." Plano único de R$ 297/mês com 30 dias grátis (cartão pedido no cadastro, primeira cobrança só depois do período de teste), setup self-serve, cancelamento pela própria plataforma e sem fidelidade no mensal.
+A arquitetura comercial separa claramente os produtos:
 
-Tempo até valor (Time to Value): primeira simulação de crédito em 30 segundos; primeiro contrato gerado em 1 minuto; conta ativa e sem implantação em 5 minutos.
-
-## Os 5 agentes de IA da Credituz
-
-A plataforma é organizada em quatro agentes de IA, cada um responsável por uma etapa da operação:
-
-1. **Carlos — Agente de Crédito**: simulação multibancos em menos de 30 segundos. Bancos parceiros: Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte e CashMe.
-2. **Ana — Contratos com IA**: gera proposta e contrato digital com validade jurídica em menos de 1 minuto; assinatura eletrônica.
-3. **Max — Agente de Back Office**: acompanha repasse bancário, registro em cartório, pendências operacionais e pós-venda, mantendo a equipe com visão do processo até a conclusão.
-4. **Iris — Agente de Analytics**: analisa aprovação de crédito por banco, ticket financiado, prazo até a contratação, inadimplência da carteira e produtividade por vendedor; relatórios em linguagem natural com recomendações.
+- **Credituz OS:** análise de crédito + CRM de crédito + cobrança com IA.
+- **CORBAN AI:** embedded credit + simulação multibanco + pedido de crédito + CRM Corban.
+- **Enterprise:** infraestrutura financeira e gestão operacional sob medida, podendo combinar Credituz OS, CORBAN AI e módulos específicos.
+- **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
 
 ## O problema que a Credituz resolve
 
-O imóvel é vendido ou alugado, mas o back office passa a se espalhar entre planilhas, WhatsApp, bancos e sistemas desconectados. A Credituz concentra os principais gargalos operacionais e financeiros:
+- **Risco de crédito fragmentado:** empresas vendem antes de reunir análise, capacidade de pagamento e política de crédito em um fluxo consistente.
+- **Cobrança reativa:** vencimentos e atrasos dependem de acompanhamento manual.
+- **Jornada de financiamento terceirizada:** quando o cliente precisa de crédito, muitas empresas perdem visibilidade ao mandar a operação para terceiros.
+- **Operação financeira espalhada:** crédito, CRM, cobrança, bancos e processos internos acabam em sistemas desconectados.
 
-- **Risco descoberto tarde demais**: compradores e inquilinos avançam sem score, capacidade de pagamento e política de crédito consistente.
-- **Financiamento como caixa-preta**: depois da solicitação, comercial, cliente e financeiro perdem visibilidade de pendências, banco em análise, status e próximo passo.
-- **Back office fragmentado**: contratos, formalização, unidades, repasses, recebíveis e pendências ficam distribuídos entre ferramentas e controles paralelos.
-- **Cobrança reativa**: sem régua automatizada, o financeiro depende de acompanhamento manual de cada vencimento e atraso.
+## Credituz OS
 
-A Credituz conecta a jornada: **Analisar → Financiar → Acompanhar → Formalizar → Cobrar → Receber**. A proposta é operar o back office de crédito e financeiro do setor imobiliário em um único lugar.
-## Planos e preços
+**Analise. Acompanhe. Cobre.**
 
-A Credituz tem três formas de uso, conforme a maturidade e o volume da operação:
+O Credituz OS é o sistema operacional para empresas que precisam decidir melhor para quem vender e automatizar o relacionamento financeiro depois da venda.
 
-- **Credituz Score — R$ 27,70 por análise**: consulta avulsa, sem assinatura ou mensalidade. Entrega score e sinais de risco, renda estimada e parcela máxima, restrições, protestos, processos e demais dados disponíveis no relatório.
-- **Credituz OS — R$ 297/mês + R$ 16 por análise**: uso profissional recorrente. Inclui CRM de crédito + CORBAN AI, simulação, solicitação e acompanhamento de financiamento, contratos com IA, assinatura e cartório digital, régua de cobrança com IA em WhatsApp e e-mail por R$ 0,15 por envio, recebíveis, portal de vendas, espelho de empreendimento, gestão de unidades, analytics e 40% da comissão de originação.
-- **Enterprise — preço sob medida, contrato anual**: tudo do Credituz OS, mais multiempresa, usuários, empreendimentos e contratos sob medida, 75% da comissão de originação, políticas por empresa e produto, back office operacional e financeiro, cobrança customizada com SMS disponível exclusivamente neste plano, NFe, contas via API, White Label, API pública, SSO, auditoria, SLA 99,9%, CS nominal e armazenamento customizado.
+Fluxo: **Cliente → Análise → Política de crédito → CRM de crédito → Cobrança → Recebimento**.
 
-Considerando apenas mensalidade e consultas, a partir de 26 análises por mês o Credituz OS fica mais barato do que pagar R$ 27,70 por análise avulsa.
-## Locação e temporada
+Inclui:
+- análise de crédito e política de crédito;
+- **CRM de crédito**;
+- análises Credituz Score por **R$ 16 cada**;
+- régua de cobrança com IA em WhatsApp e e-mail;
+- cobrança por **R$ 0,15 por envio**;
+- recebíveis, baixa e conciliação;
+- analytics;
+- **até 3 usuários**.
 
-A Credituz também opera locação (longa duração e temporada): atendimento de inquilinos com IA no WhatsApp, contratos de locação com assinatura eletrônica, cobrança recorrente de aluguel (boleto, Pix, NFe) e gestão da carteira. Essas funcionalidades estão disponíveis hoje. A sincronização automática com OTAs (Airbnb, Booking e Google Hotels) está em desenvolvimento, com lista de prioridade aberta. Página dedicada: https://www.credituz.ai/pages/locacao-temporada.html
+Preço: **R$ 297/mês + R$ 16 por análise**.
 
-## Como a Credituz se compara aos concorrentes
+## CORBAN AI
 
-A Credituz se diferencia de sistemas como Sienge, Kenlo, CV CRM , Morada.ai e do Meta Business AI por: ter plano gratuito permanente (que os concorrentes não têm), simulação de crédito multibancos com originação embarcada (que nenhum agente genérico como o da Meta faz), setup self-serve em 5 minutos (contra implantações de 30 a 60 dias), IA nativa (não acoplada por cima), e originação de crédito embarcada. Reúne CRM, crédito, contratos, cobrança, NFe e gestão numa só plataforma, em vez de cobrar cada módulo separado.
+**Simule. Solicite. Financie.**
+
+CORBAN AI é a solução de embedded credit para empresas que querem oferecer crédito aos próprios clientes sem construir uma operação financeira do zero.
+
+Fluxo: **Cliente → Simulação → Bancos → Pedido de crédito → CRM Corban → Contratação**.
+
+Inclui:
+- simulação de crédito multibanco;
+- pedido e acompanhamento de crédito;
+- **CRM Corban** para simulações, pedidos, documentos, pendências, bancos, status e contratação;
+- jornada de embedded credit;
+- acompanhamento da originação dentro da experiência da empresa.
+
+Modelo comercial: **conforme a operação**.
+
+## Credituz Score
+
+Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R$ 27,70 por análise**, sem assinatura ou mensalidade. Considerando apenas mensalidade e consultas, a partir de 26 análises por mês o Credituz OS já fica mais barato que comprar todas as análises avulsas.
+
+## Cobrança com IA
+
+No Credituz OS, a régua de cobrança automatiza contatos em **WhatsApp e e-mail** por **R$ 0,15 por envio**. SMS fica disponível em projetos **Enterprise sob medida**.
+
+## Enterprise
+
+**Monte a infraestrutura financeira e a gestão operacional que sua empresa precisa.**
+
+O Enterprise é a oferta mais customizável da Credituz. Pode combinar Credituz OS, CORBAN AI e módulos específicos conforme a operação.
+
+Possibilidades:
+- Credituz OS e/ou CORBAN AI;
+- usuários e volumes customizados;
+- **construtor de contratos com IA**;
+- assinatura digital;
+- serviços de cartório digital;
+- SMS e canais adicionais;
+- políticas e fluxos customizados;
+- API e integrações específicas;
+- White Label e SSO;
+- multiempresa;
+- **soluções customizadas com IA**;
+- SLA e atendimento dedicado.
+
+Preço: **sob medida**, com contrato anual.
+
+## CRM de crédito x CRM Corban
+
+- **CRM de crédito:** pertence ao Credituz OS e organiza clientes, análises e decisões de crédito.
+- **CRM Corban:** pertence ao CORBAN AI e acompanha simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação.
+
+## Segmentos
+
+A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do CORBAN AI para operações de originação e embedded credit.
+
+## Planos e preços na home
+
+A comparação principal da home tem três produtos:
+
+1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários.
+2. **CORBAN AI — modelo comercial conforme a operação**.
+3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
+
+O **Credituz Score — R$ 27,70 por análise** permanece como porta de entrada self-service, fora da comparação principal de três produtos.
 
 ## Perguntas frequentes
 
-### Serve para quem não é do mercado imobiliário?
-Serve. A Credituz é um sistema operacional de crédito e cobrança: qualquer operação que venda financiado ou cobre de forma recorrente usa a plataforma inteira. Concessionárias de veículos comparam CDC entre bancos e enviam a proposta digitalmente; administradoras e proprietários cobram aluguel com régua automática, boleto, Pix e NFe; clínicas, escolas e prestadores com mensalidade automatizam recebimentos e conciliação. Página dedicada a concessionárias: https://www.credituz.ai/pages/concessionarias.html
+### Qual a diferença entre Credituz OS e CORBAN AI?
+O Credituz OS reúne análise de crédito, CRM de crédito e cobrança com IA. O CORBAN AI cuida de embedded credit, simulação multibanco, pedido de crédito e CRM Corban.
+
+### Preciso contratar os dois?
+Não. Os produtos podem ser usados separadamente. O Enterprise também pode combinar os dois.
+
+### Onde ficam contratos com IA, assinatura digital e cartório digital?
+Essas funcionalidades fazem parte de soluções Enterprise.
+
+### A Credituz atende somente o mercado imobiliário?
+Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
 
 ### Quanto custa começar?
-R$ 297 por mês, com 30 dias grátis. É um plano único com a plataforma inteira, incluindo os agentes de IA, a régua de cobrança, o portal de vendas e a originação de crédito. O cartão é pedido no cadastro para liberar o acesso completo, mas a primeira cobrança só acontece depois dos 30 dias e o cancelamento é self-serve.
-
-### Como a Credituz ganha dinheiro?
-Por duas fontes: a mensalidade do plano e a comissão dos bancos parceiros quando um financiamento originado na plataforma é aprovado. Essa comissão é dividida com o cliente: 40% no plano de R$ 297 e 60% no Enterprise.
-
-### Funciona com meu CRM atual?
-Sim. A Credituz importa contatos em 1 clique e conecta com ERPs e CRMs como Sienge, CV CRM, Kenlo e Conaz, com sync bidirecional.
-
-### Quanto tempo até começar a usar?
-Setup self-serve em 5 minutos, sem implantação longa e sem treinamento agendado.
+Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS custa R$ 297/mês mais R$ 16 por análise, para até 3 usuários. CORBAN AI tem modelo conforme a operação e Enterprise é sob medida.
 
 ## Contato e site
 
 - Website: https://www.credituz.ai
-- Blog (119+ artigos sobre IA, crédito e gestão imobiliária): https://www.credituz.ai/pages/blog.html
+- Blog: https://www.credituz.ai/pages/blog.html
 - WhatsApp: https://wa.me/5511936209409
-
-## Versões para IA / agentes
-
-Esta página tem versão machine-readable para LLMs, agentes e crawlers:
-- Markdown desta página: https://www.credituz.ai/home.md
-- Índice do site para LLMs: https://www.credituz.ai/llms.txt
-- Conteúdo completo para LLMs: https://www.credituz.ai/llms-full.txt
