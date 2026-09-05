@@ -6,7 +6,7 @@
       "@id": "https://www.credituz.ai/#organization",
       "name": "Credituz",
       "url": "https://www.credituz.ai",
-      "description": "Plataforma de análise de crédito, cobrança e embedded finance com IA para empresas.",
+      "description": "Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas.",
       "foundingDate": "2024",
       "areaServed": {
         "@type": "Country",
@@ -30,7 +30,7 @@
       "name": "Credituz",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "A Credituz reúne análise de crédito, CRM de crédito e cobrança com IA no Credituz OS; simulação, pedido de crédito multibanco e CRM Corban no CORBAN AI; e infraestrutura financeira e gestão operacional customizadas no Enterprise.",
+      "description": "Sistema operacional e financeiro com agentes de IA. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança; o CORBAN AI reúne simulação, pedido de crédito multibanco e CRM Corban; e o Enterprise adiciona infraestrutura financeira, gestão operacional e soluções customizadas.",
       "publisher": {
         "@id": "https://www.credituz.ai/#organization"
       },

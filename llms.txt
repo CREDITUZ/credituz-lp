@@ -1,6 +1,6 @@
 # Credituz
 
-> Plataforma de análise de crédito, cobrança e embedded finance com IA para empresas. Credituz OS reúne análise de crédito, CRM de crédito e cobrança; CORBAN AI reúne simulação multibanco, pedido de crédito e CRM Corban; Enterprise combina infraestrutura financeira, gestão operacional e soluções customizadas.
+> Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento. Credituz OS para analisar e cobrar, CORBAN AI para financiar e Enterprise para customizar a operação.
 
 ## Principais páginas
 
