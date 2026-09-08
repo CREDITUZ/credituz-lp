@@ -65,6 +65,8 @@
         "Análise de crédito e política de crédito",
         "CRM de crédito no Credituz OS",
         "Régua de cobrança com IA em WhatsApp e e-mail",
+        "Até 300 cobranças por mês no Credituz OS",
+        "Cada cobrança inclui três momentos de contato configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail",
         "Simulação de crédito multibanco no CORBAN AI",
         "Pedido de crédito e acompanhamento da originação",
         "CRM Corban para simulações, pedidos, pendências e status",
@@ -84,7 +86,7 @@
           "name": "Credituz OS",
           "price": "297",
           "priceCurrency": "BRL",
-          "description": "R$ 297 por mês mais R$ 16 por análise, para até 3 usuários. Inclui análise de crédito, CRM de crédito e régua de cobrança com IA em WhatsApp e e-mail para até 300 devedores por mês."
+          "description": "R$ 297 por mês mais R$ 16 por análise, para até 3 usuários. Inclui análise de crédito, CRM de crédito e até 300 cobranças por mês. Na Credituz, cada cobrança é uma régua multicanal com três momentos de contato configuráveis, como D-3, D0 e D+3, enviados por WhatsApp e e-mail."
         },
         {
           "@type": "Offer",
@@ -156,10 +158,18 @@
         },
         {
           "@type": "Question",
+          "name": "O que conta como uma cobrança na Credituz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na Credituz, uma cobrança é uma régua completa, e não uma mensagem isolada. Cada cobrança inclui três momentos de contato configuráveis, como D-3, D0 e D+3, e cada momento pode ser enviado por WhatsApp e e-mail."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS custa R$ 297 por mês, mais R$ 16 por análise de crédito, para até 3 usuários. A régua de cobrança em WhatsApp e e-mail atende até 300 devedores por mês, com os momentos de contato definidos pela própria operação."
+            "text": "O Credituz OS custa R$ 297 por mês, mais R$ 16 por análise de crédito, para até 3 usuários. O plano inclui até 300 cobranças por mês, sendo cada cobrança uma régua multicanal com três momentos de contato configuráveis em WhatsApp e e-mail."
           }
         }
       ]
