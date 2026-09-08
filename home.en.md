@@ -1,75 +1,171 @@
-# Credituz — The AI platform for real estate credit, finance and management
+# Credituz — Credit analysis, collections, and financing with AI agents
 
-> Credituz is a Brazilian AI-First platform for the real estate market. It combines multi-bank credit origination, CRM, digital contracts, automated collection flows, invoice (NFe) issuance and portfolio management, all in a single platform. It serves developers, real estate agencies, independent brokers, construction companies, land developers and banking correspondents (CORBANs).
+> Credituz is an operating and financial system with AI agents for business credit analysis, collections, and financing. Credituz OS combines credit analysis, credit CRM, and collections. CORBAN AI lets companies simulate, request, and track multi-bank credit through its own Corban CRM. Enterprise combines these products with customized financial infrastructure and operations management.
 
-- Canonical: https://www.credituz.ai/
+- Canonical: https://credituz.ai/
 - Language: en-US
-- Updated: 2026-05
+- Updated: 2026-09
 
 ---
 
 ## What is Credituz?
 
-Credituz is an AI-native software platform (SaaS) for the Brazilian real estate market. It automates credit, contracts, transfers, collections, receivables and financial operations, concentrating the real estate back office in one platform.
-
-- **Official name**: Credituz
-- **Category**: AI-First platform for real estate (CRM + credit + contracts + management)
-- **Model**: Self-serve SaaS with a single plan and a 30-day free trial
-- **Industries served**: developers, real estate agencies, independent brokers, construction companies, land developers, banking correspondents (CORBAN)
-- **Language**: Portuguese (PT-BR), serving the Brazilian market
-- **Official website**: https://www.credituz.ai
+Credituz serves companies that need to make credit decisions, automate receivables, or embed credit into their own customer journey. The homepage presents the products horizontally, while segment pages cover specific applications for construction and real estate development companies, real estate agencies, and credit origination operations.
 
 ## Positioning
 
-Homepage headline: "Approve the mortgage and collect every installment without leaving the platform."
+**Homepage title:** “Credit analysis, collections, and financing with AI agents.”
 
-Subtitle: "The AI platform that originates multi-bank real estate credit and runs the portfolio's finance: collection workflows, automatic reconciliation, e-invoicing and cash forecasting."
+**Subtitle:** “Analyze customers, organize your credit operation, automate collections, and offer multi-bank credit with AI using Credituz OS and CORBAN AI.”
 
-Entry promise: "Get started in 5 minutes. No 60-day implementation." Single plan at R$ 297/month with a 30-day free trial (card required at signup, first charge only after the trial), self-serve setup, self-serve cancellation and no lock-in on the monthly plan.
+The commercial architecture clearly separates the products:
 
-Time to Value: first credit simulation in 30 seconds; first contract generated in 1 minute; account live with no implementation in 5 minutes.
+- **Credituz OS:** credit analysis + credit CRM + AI-powered collections.
+- **CORBAN AI:** embedded credit + multi-bank simulation + credit application + Corban CRM.
+- **Enterprise:** customized financial infrastructure and operations management that can combine Credituz OS, CORBAN AI, and specific modules.
+- **Credituz Score:** standalone credit analysis for companies that do not yet need an ongoing operation.
 
-## The 5 AI agents
+## The problems Credituz solves
 
-The platform is organized into four AI agents, each responsible for a stage of the operation:
+- **Fragmented credit risk:** companies sell before combining credit analysis, payment capacity, and credit policy in a consistent flow.
+- **Reactive collections:** due dates and late payments depend on manual follow-up.
+- **Outsourced financing journey:** companies often lose visibility when customers are referred to third parties for credit.
+- **Scattered financial operations:** credit, CRM, collections, banks, and internal processes end up in disconnected systems.
 
-1. **Carlos — Credit Agent**: multi-bank simulation in under 30 seconds. Partner banks: Itaú, Bradesco, Santander, Inter, C6, Bari, Creditas, Pontte and CashMe.
-2. **Ana — AI Contracts**: generates legally valid proposals and digital contracts in under 1 minute; electronic signature.
-3. **Max — Back Office Agent**: follows bank transfers, registry, operational pending items and post-sale tasks, keeping the team informed until completion.
-4. **Iris — Analytics Agent**: analyzes credit approval by bank, financed ticket, time to signing, portfolio defaults and productivity per broker; natural-language reports with recommendations.
+## Credituz OS
 
-## The problem Credituz solves
+**Analyze. Track. Collect.**
 
-- When the buyer closes the financing directly at the bank, the origination commission, which is revenue, goes to the bank manager.
-- Collections usually live in a spreadsheet and are only reviewed at month-end, with no cadence, automatic reconciliation or cash forecast.
-- Real estate financing takes, on average, more than 30 days.
-- Operations pay over R$ 2,000 per month on separate tools (CRM, credit, signature, billing, invoicing, BI).
+Credituz OS is the operating system for companies that need to make better decisions about whom to sell to and automate the financial relationship after the sale.
 
-Credituz integrates all of this into one platform, with AI from credit simulation through the operational and financial back office.
+Flow: **Customer → Analysis → Credit policy → Credit CRM → Collection → Payment**.
 
-## Plans and pricing
+Includes:
 
-Credituz charges per operation (not per individual user) and has a single plan, plus an Enterprise tier for custom scope. Customers on the previous plans (Free, Starter, Growth, Pro and Business) keep the price and features they signed up for.
+- credit analysis and credit policy;
+- **credit CRM**;
+- Credituz Score analyses for **R$ 16 each**;
+- AI-powered collection rules via WhatsApp and email;
+- up to **300 collections per month**;
+- each collection is a complete workflow with **up to 3 configurable dates**, such as **D-3, D0, and D+3**, via **WhatsApp and email**;
+- receivables, payment matching, and reconciliation;
+- analytics;
+- **up to 3 users**.
 
-- **Credituz — R$ 297/month, 30-day free trial**: the single plan for brokers, agencies and construction companies. Includes a sales portal on the customer's own domain, indexed on Google (with a page per property and per city) and a credit module embedded in the portal, Google Business Profile setup, real estate + credit CRM with unlimited contacts, 10 users, up to 100 developments and 100 landing pages, ZAP/OLX/VivaReal integration with two-way sync, AI base reactivation, unlimited AI contracts with digital registry offices, unlimited multi-bank simulation, generative AI analytics, human chat support and 20 GB of storage. On credit origination, the customer keeps 40% of the commission.
-- **Enterprise — custom pricing (annual contract)**: networks, holdings, developers and construction companies with their own financial operation. Everything in the Credituz plan, plus unlimited users, developments and contracts, multi-company, 60% of the origination commission, operational and financial back office (transfers, post-sale, portfolio, collections and reconciliation), automated and custom billing, NFe at R$ 0.49/invoice, Credituz by Asaas accounts or the customer's own bank via API, boleto/Pix/payment links, White Label, public API, channel manager, SSO, audit, 99.9% SLA, named CS and custom storage.
+Price: **R$ 297/month + R$ 16 per analysis**.
 
-The 30-day trial applies to the R$ 297 plan; Enterprise starts with a guided demo instead. Billing is monthly, with no lock-in.
+## CORBAN AI
 
-## How Credituz compares to competitors
+**Simulate. Request. Finance.**
 
-Credituz differentiates itself from systems like Sienge, Kenlo, CV CRM and Morada.ai by: pricing a single plan that includes the whole platform instead of selling each module separately, self-serve setup in 5 minutes (versus 30 to 60-day implementations), native AI (not bolted on top), and embedded credit origination. It combines CRM, credit, contracts, billing, invoicing and management in a single platform, instead of charging for each module separately.
+CORBAN AI is the embedded credit solution for companies that want to offer credit to their own customers without building a financial operation from scratch.
+
+Flow: **Customer → Simulation → Banks → Credit application → Corban CRM → Closing**.
+
+Includes:
+
+- multi-bank credit simulation;
+- credit application and tracking;
+- **Corban CRM** for simulations, credit applications, documents, pending items, banks, status, and closing;
+- embedded credit journey;
+- origination tracking within the company's own experience.
+
+Commercial model: **based on the operation**.
+
+## Credituz Score
+
+For companies that only need a credit check, Credituz Score costs **R$ 27.70 per analysis**, with no subscription or monthly fee. Considering only the subscription and analysis fees, Credituz OS becomes less expensive than standalone analyses starting at 26 analyses per month.
+
+## AI-powered collections
+
+Credituz OS includes up to **300 collections per month**. At Credituz, **a collection is not a single message**: it is a complete collection workflow.
+
+Each workflow can use **up to 3 configurable dates**, such as **D-3, D0, and D+3**, via **WhatsApp and email**. A single collection can therefore generate up to **6 automated contacts**: 3 dates × 2 channels.
+
+This model treats collections as a conversion and recovery journey instead of a one-off message. SMS is available in customized **Enterprise** projects.
+
+## Enterprise
+
+**Build the financial infrastructure and operations management your company needs.**
+
+Enterprise is Credituz's most customizable offering. It can combine Credituz OS, CORBAN AI, and specific modules according to the operation.
+
+Possibilities include:
+
+- Credituz OS and/or CORBAN AI;
+- customized users and volumes;
+- **AI contract builder**;
+- digital signatures;
+- digital registry services;
+- SMS and additional channels;
+- customized policies and workflows;
+- API and specific integrations;
+- White Label and SSO;
+- multi-company support;
+- **custom AI solutions**;
+- SLA and dedicated support.
+
+Price: **custom**, with an annual contract.
+
+## Credit CRM vs. Corban CRM
+
+- **Credit CRM:** part of Credituz OS; organizes customers, analyses, and credit decisions.
+- **Corban CRM:** part of CORBAN AI; tracks simulations, credit applications, documents, pending items, banks, status, and closing.
+
+## Segments
+
+Credituz is not limited to the real estate market. The platform can serve companies that sell on credit, collect recurring payments, or want to embed credit into their own experience. There are specific pages for construction and real estate development companies and real estate agencies, while CORBAN AI serves origination and embedded credit operations.
+
+## Plans and prices on the homepage
+
+The homepage compares three products:
+
+1. **Credituz OS — R$ 297/month + R$ 16 per analysis**, for up to 3 users and up to 300 collections per month. Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
+2. **CORBAN AI — commercial model based on the operation**.
+3. **Enterprise — custom**, with customized financial infrastructure and operations management.
+
+**Credituz Score — R$ 27.70 per analysis** remains the self-service entry product, outside the main three-product comparison.
+
+## Frequently asked questions
+
+### What is the difference between Credituz OS and CORBAN AI?
+
+Credituz OS combines credit analysis, credit CRM, and AI-powered collections. CORBAN AI handles embedded credit, multi-bank simulation, credit applications, and Corban CRM.
+
+### Do I need to purchase both?
+
+No. The products can be used separately. Enterprise can also combine both.
+
+### What counts as a collection at Credituz?
+
+A collection is a complete workflow, not a single message. It includes up to 3 configurable dates — for example, D-3, D0, and D+3 — via WhatsApp and email.
+
+### How many contacts can one collection generate?
+
+With 3 dates and 2 channels, one collection can generate up to 6 automated contacts.
+
+### Where are AI contracts, digital signatures, and digital registry services included?
+
+These features are part of Enterprise solutions.
+
+### Does Credituz only serve the real estate market?
+
+No. Credituz serves companies that need to analyze customers, automate collections, or embed credit into their own journey. The segment pages detail specific applications.
+
+### How much does it cost to get started?
+
+A standalone Credituz Score analysis costs R$ 27.70. Credituz OS costs R$ 297/month plus R$ 16 per analysis, for up to 3 users, and includes up to 300 collections per month. CORBAN AI pricing depends on the operation, and Enterprise is custom.
 
 ## Contact and site
 
-- Website: https://www.credituz.ai
-- Blog (119+ articles on AI, credit and real estate management): https://www.credituz.ai/pages/blog.html
+- Website: https://credituz.ai
+- Blog: https://credituz.ai/pages/blog.html
 - WhatsApp: https://wa.me/5511936209409
 
 ## Machine-readable versions
 
-- Markdown (PT-BR): https://www.credituz.ai/home.md
-- Markdown (EN): https://www.credituz.ai/home.en.md
-- JSON-LD: https://www.credituz.ai/home.json
-- LLMs index: https://www.credituz.ai/llms.txt
-- LLMs full content: https://www.credituz.ai/llms-full.txt
+- Markdown (PT-BR): https://credituz.ai/home.md
+- Markdown (EN): https://credituz.ai/home.en.md
+- JSON-LD: https://credituz.ai/home.json
+- LLMs index: https://credituz.ai/llms.txt
+- Full LLM content: https://credituz.ai/llms-full.txt

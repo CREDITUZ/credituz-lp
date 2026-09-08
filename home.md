@@ -46,8 +46,7 @@ Inclui:
 - análises Credituz Score por **R$ 16 cada**;
 - régua de cobrança com IA em WhatsApp e e-mail;
 - até **300 cobranças por mês**;
-- cada cobrança é uma régua completa com **3 momentos de contato configuráveis**, como **D-3, D0 e D+3**;
-- os momentos de cobrança podem ser enviados em **WhatsApp e e-mail**;
+- cada cobrança é uma régua completa com **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**;
 - recebíveis, baixa e conciliação;
 - analytics;
 - **até 3 usuários**.
@@ -79,7 +78,7 @@ Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R
 
 No Credituz OS, o plano inclui até **300 cobranças por mês**. Para a Credituz, **uma cobrança não é uma mensagem isolada**: é uma régua completa de cobrança.
 
-Por padrão, a régua pode usar **D-3, D0 e D+3**, mas o usuário pode definir outros dias e intervalos. Em cada momento, a cobrança pode ser enviada em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**: 3 momentos × 2 canais.
+Cada régua pode usar **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**: 3 datas × 2 canais.
 
 Esse desenho permite tratar cobrança como jornada de conversão e recuperação, em vez de simples disparo unitário. O objetivo é aumentar a chance de pagamento com contatos distribuídos antes, no dia e depois do vencimento, usando dois canais complementares.
 
@@ -120,7 +119,7 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 
 A comparação principal da home tem três produtos:
 
-1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários e até 300 cobranças por mês. Cada cobrança é uma régua completa com 3 momentos configuráveis e envio em WhatsApp e e-mail.
+1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários e até 300 cobranças por mês. Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
 2. **CORBAN AI — modelo comercial conforme a operação**.
 3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
 
@@ -135,10 +134,10 @@ O Credituz OS reúne análise de crédito, CRM de crédito e cobrança com IA. O
 Não. Os produtos podem ser usados separadamente. O Enterprise também pode combinar os dois.
 
 ### O que conta como uma cobrança na Credituz?
-Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui 3 momentos de contato configuráveis — por exemplo, D-3, D0 e D+3 — e cada momento pode ser enviado por WhatsApp e e-mail.
+Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui até 3 datas configuráveis — por exemplo, D-3, D0 e D+3 — em WhatsApp e e-mail.
 
 ### Quantos contatos uma cobrança pode gerar?
-Com 3 momentos e 2 canais, uma cobrança pode gerar até 6 contatos automatizados. O usuário também pode definir outros dias e intervalos para a régua.
+Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
 
 ### Onde ficam contratos com IA, assinatura digital e cartório digital?
 Essas funcionalidades fazem parte de soluções Enterprise.
