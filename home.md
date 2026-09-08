@@ -2,7 +2,7 @@
 
 > A Credituz é um sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança. O CORBAN AI permite simular, solicitar e acompanhar crédito multibanco com CRM Corban. O Enterprise combina esses produtos com infraestrutura financeira, gestão operacional e soluções customizadas.
 
-- Canonical: https://www.credituz.ai/
+- Canonical: https://credituz.ai/
 - Language: pt-BR
 - Updated: 2026-09
 
@@ -45,7 +45,9 @@ Inclui:
 - **CRM de crédito**;
 - análises Credituz Score por **R$ 16 cada**;
 - régua de cobrança com IA em WhatsApp e e-mail;
-- cobrança de até **300 devedores por mês**;
+- até **300 cobranças por mês**;
+- cada cobrança é uma régua completa com **3 momentos de contato configuráveis**, como **D-3, D0 e D+3**;
+- os momentos de cobrança podem ser enviados em **WhatsApp e e-mail**;
 - recebíveis, baixa e conciliação;
 - analytics;
 - **até 3 usuários**.
@@ -63,7 +65,7 @@ Fluxo: **Cliente → Simulação → Bancos → Pedido de crédito → CRM Corba
 Inclui:
 - simulação de crédito multibanco;
 - pedido e acompanhamento de crédito;
-- **CRM Corban** para simulações, pedidos, documentos, pendências, bancos, status e contratação;
+- **CRM Corban** para simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação;
 - jornada de embedded credit;
 - acompanhamento da originação dentro da experiência da empresa.
 
@@ -75,7 +77,13 @@ Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R
 
 ## Cobrança com IA
 
-No Credituz OS, a régua de cobrança automatiza contatos em **WhatsApp e e-mail** para até **300 devedores por mês**. A operação pode usar uma configuração como **D-3, D0 e D+3** ou definir outros dias e intervalos de cobrança. O limite de devedores é mensal e não cumulativo. SMS fica disponível em projetos **Enterprise sob medida**.
+No Credituz OS, o plano inclui até **300 cobranças por mês**. Para a Credituz, **uma cobrança não é uma mensagem isolada**: é uma régua completa de cobrança.
+
+Por padrão, a régua pode usar **D-3, D0 e D+3**, mas o usuário pode definir outros dias e intervalos. Em cada momento, a cobrança pode ser enviada em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**: 3 momentos × 2 canais.
+
+Esse desenho permite tratar cobrança como jornada de conversão e recuperação, em vez de simples disparo unitário. O objetivo é aumentar a chance de pagamento com contatos distribuídos antes, no dia e depois do vencimento, usando dois canais complementares.
+
+SMS fica disponível em projetos **Enterprise sob medida**.
 
 ## Enterprise
 
@@ -112,7 +120,7 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 
 A comparação principal da home tem três produtos:
 
-1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários e cobrança de até 300 devedores por mês.
+1. **Credituz OS — R$ 297/mês + R$ 16 por análise**, para até 3 usuários e até 300 cobranças por mês. Cada cobrança é uma régua completa com 3 momentos configuráveis e envio em WhatsApp e e-mail.
 2. **CORBAN AI — modelo comercial conforme a operação**.
 3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
 
@@ -126,6 +134,12 @@ O Credituz OS reúne análise de crédito, CRM de crédito e cobrança com IA. O
 ### Preciso contratar os dois?
 Não. Os produtos podem ser usados separadamente. O Enterprise também pode combinar os dois.
 
+### O que conta como uma cobrança na Credituz?
+Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui 3 momentos de contato configuráveis — por exemplo, D-3, D0 e D+3 — e cada momento pode ser enviado por WhatsApp e e-mail.
+
+### Quantos contatos uma cobrança pode gerar?
+Com 3 momentos e 2 canais, uma cobrança pode gerar até 6 contatos automatizados. O usuário também pode definir outros dias e intervalos para a régua.
+
 ### Onde ficam contratos com IA, assinatura digital e cartório digital?
 Essas funcionalidades fazem parte de soluções Enterprise.
 
@@ -133,10 +147,10 @@ Essas funcionalidades fazem parte de soluções Enterprise.
 Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
 
 ### Quanto custa começar?
-Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS custa R$ 297/mês mais R$ 16 por análise, para até 3 usuários. CORBAN AI tem modelo conforme a operação e Enterprise é sob medida.
+Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS custa R$ 297/mês mais R$ 16 por análise, para até 3 usuários e inclui até 300 cobranças por mês. CORBAN AI tem modelo conforme a operação e Enterprise é sob medida.
 
 ## Contato e site
 
-- Website: https://www.credituz.ai
-- Blog: https://www.credituz.ai/pages/blog.html
+- Website: https://credituz.ai
+- Blog: https://credituz.ai/pages/blog.html
 - WhatsApp: https://wa.me/5511936209409
