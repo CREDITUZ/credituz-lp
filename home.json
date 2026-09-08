@@ -3,11 +3,37 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.credituz.ai/#organization",
+      "@id": "https://credituz.ai/#organization",
       "name": "Credituz",
-      "url": "https://www.credituz.ai",
+      "url": "https://credituz.ai/",
       "description": "Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas.",
-      "foundingDate": "2024",
+      "foundingDate": "2023",
+      "founder": [
+        {
+          "@type": "Person",
+          "name": "Pedro Henrique Braz Silva",
+          "sameAs": "https://www.linkedin.com/in/pedrohbraz/"
+        },
+        {
+          "@type": "Person",
+          "name": "Lídia Alla"
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/credituz"
+      ],
+      "subjectOf": [
+        {
+          "@type": "NewsArticle",
+          "name": "Sebrae For Startups: Fintech Credituz recebe aporte de R$31 milhões para expandir financiamento imobiliário",
+          "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-for-startups-fintech-credituz-recebe-aporte-de-r31-milhoes-para-expandir-financiamento-imobiliario/",
+          "datePublished": "2025-06-16",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Agência Sebrae de Notícias"
+          }
+        }
+      ],
       "areaServed": {
         "@type": "Country",
         "name": "Brasil"
@@ -26,13 +52,14 @@
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://www.credituz.ai/#software",
+      "@id": "https://credituz.ai/#software",
       "name": "Credituz",
+      "url": "https://credituz.ai/",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
       "description": "Sistema operacional e financeiro com agentes de IA. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança; o CORBAN AI reúne simulação, pedido de crédito multibanco e CRM Corban; e o Enterprise adiciona infraestrutura financeira, gestão operacional e soluções customizadas.",
       "publisher": {
-        "@id": "https://www.credituz.ai/#organization"
+        "@id": "https://credituz.ai/#organization"
       },
       "featureList": [
         "Análise de crédito e política de crédito",
@@ -75,17 +102,17 @@
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.credituz.ai/#website",
-      "url": "https://www.credituz.ai",
+      "@id": "https://credituz.ai/#website",
+      "url": "https://credituz.ai/",
       "name": "Credituz",
       "publisher": {
-        "@id": "https://www.credituz.ai/#organization"
+        "@id": "https://credituz.ai/#organization"
       },
       "inLanguage": "pt-BR"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.credituz.ai/#faq",
+      "@id": "https://credituz.ai/#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -132,7 +159,7 @@
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS custa R$ 297 por mês, mais R$ 16 por análise de crédito, para até 3 usuários. A régua de cobrança em WhatsApp e e-mail custa R$ 0,15 por envio."
+            "text": "O Credituz OS custa R$ 297 por mês, mais R$ 16 por análise de crédito, para até 3 usuários. A régua de cobrança em WhatsApp e e-mail atende até 300 devedores por mês, com os momentos de contato definidos pela própria operação."
           }
         }
       ]
