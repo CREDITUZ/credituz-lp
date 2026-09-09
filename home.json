@@ -40,14 +40,10 @@
       ],
       "subjectOf": [
         {
-          "@type": "NewsArticle",
+          "@type": "WebPage",
           "name": "Sebrae For Startups: Fintech Credituz recebe aporte de R$31 milhões para expandir financiamento imobiliário",
           "url": "https://sp.agenciasebrae.com.br/cultura-empreendedora/sebrae-for-startups-fintech-credituz-recebe-aporte-de-r31-milhoes-para-expandir-financiamento-imobiliario/",
-          "datePublished": "2025-06-16",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Agência Sebrae de Notícias"
-          }
+          "datePublished": "2025-06-16"
         }
       ],
       "areaServed": {

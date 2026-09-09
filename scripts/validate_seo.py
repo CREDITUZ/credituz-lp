@@ -31,9 +31,24 @@ JSON_LD_REQUIRED = {
     "pages/credituz-os.html",
     "pages/corban-ai.html",
     "pages/enterprise.html",
+    "pages/construtoras.html",
+    "pages/imobiliarias.html",
+    "white-label.html",
+    "pages/integracoes.html",
     "pages/artigos/roi-tecnologia-imobiliarias-como-calcular-apresentar-socios.html",
     "pages/artigos/corretor-imoveis-crm-ia-follow-up.html",
 }
+
+
+def walk_json(value):
+    """Percorre todos os objetos JSON-LD para validar entidades aninhadas."""
+    if isinstance(value, dict):
+        yield value
+        for child in value.values():
+            yield from walk_json(child)
+    elif isinstance(value, list):
+        for child in value:
+            yield from walk_json(child)
 
 
 class PageParser(HTMLParser):
@@ -121,9 +136,19 @@ def main():
             )
         for document in parser.json_documents:
             try:
-                json.loads(document)
+                schema = json.loads(document)
             except ValueError as exc:
                 errors.append(f"JSON-LD inválido em {relative}: {exc}")
+                continue
+            for entity in walk_json(schema):
+                entity_type = entity.get("@type")
+                if entity_type == "Organization" and not (
+                    entity.get("logo") or set(entity) == {"@id"}
+                ):
+                    errors.append(
+                        f'Organization sem logo em {relative}: '
+                        f'{entity.get("name", entity.get("@id", "sem identificação"))}'
+                    )
         if relative in JSON_LD_REQUIRED and not parser.json_documents:
             errors.append(f"JSON-LD obrigatório ausente em {relative}")
 

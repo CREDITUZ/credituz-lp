@@ -47,7 +47,7 @@ PAGES = [
 # Paginas que NAO sao traduzidas; links para elas no EN apontam para o PT.
 LEGAL_BASENAMES = {
     "privacidade.html", "termos.html", "dpo.html", "uso-aceitavel.html",
-    "glossario.html", "blog.html",
+    "glossario.html", "blog.html", "cobranca-e-recebiveis-imobiliarios.html",
 }
 
 PROTECT = [
