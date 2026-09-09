@@ -3,12 +3,9 @@ html
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>AI Platform for Homebuilders | Credituz</title>
-<meta content="CRM, multi-bank loan simulation, digital contracts, and accounts receivable management to help real estate developers sell faster—from proposal to key handover." name="description"/>
+<title>Credit and Financing for Construction Companies | Credituz</title>
+<meta content="Analyze buyers with Credituz OS and track financing until funds are disbursed with CORBAN AI. Add contracts and integrations in Enterprise." name="description"/>
 <link href="https://credituz.ai/en/pages/construtoras.html" rel="canonical"/>
-<link href="https://credituz.ai/pages/construtoras.html" hreflang="pt-BR" rel="alternate"/>
-<link href="https://credituz.ai/en/pages/construtoras.html" hreflang="en" rel="alternate"/>
-<link href="https://credituz.ai/pages/construtoras.html" hreflang="x-default" rel="alternate"/>
 <link href="../favicon.ico" rel="icon"/>
 <style>
 :root {
@@ -112,57 +109,337 @@ footer a { color: #f5f5f7; }
   h2{font-size:clamp(22px,6.5vw,30px) !important;}
   .card,.plan-mini{padding:22px !important;}
 }
+
+/* ===== v2 segmento: prova, dor, motor, jornada, modulos, antes/depois, logos, preco ===== */
+.proof-strip{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:26px;padding-top:20px;border-top:1px solid var(--gray-soft);font-size:13.5px;color:var(--gray-2)}
+.proof-strip b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
+.dor-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
+.dor-card{background:var(--paper-warm);border-radius:22px;padding:26px 24px}
+.dor-num{font-size:44px;font-weight:600;letter-spacing:-.03em;line-height:1;color:var(--lime);margin-bottom:14px;font-variant-numeric:tabular-nums}
+.dor-num sub{font-size:15px;font-weight:500;color:var(--gray-3);margin-left:5px;vertical-align:baseline}
+.dor-card h3{font-size:18px;font-weight:600;letter-spacing:-.02em;margin-bottom:8px}
+.dor-card p{font-size:14.5px;color:var(--gray-2);line-height:1.55}
+.motor-box{background:var(--ink);color:var(--paper);border-radius:26px;padding:44px 38px}
+.motor-box h2{color:var(--paper)}
+.motor-box .sub{color:rgba(255,255,255,.68);max-width:70ch}
+.motor-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:30px}
+.motor-item{background:rgba(255,255,255,.06);border-radius:16px;padding:22px 20px}
+.motor-item h3{font-size:16.5px;font-weight:600;margin:12px 0 6px;color:var(--paper)}
+.motor-item p{font-size:14px;line-height:1.55;color:rgba(255,255,255,.66);margin:0}
+.ico{display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:11px;background:var(--accent-soft);color:var(--lime)}
+.ico svg{width:20px;height:20px}
+.motor-item .ico{background:rgba(107,178,255,.16);color:var(--accent-bright)}
+.jornada{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:26px}
+.j-step{background:var(--paper-warm);border-radius:16px;padding:20px}
+.j-step.hot{background:var(--accent-soft);outline:1px solid rgba(0,113,227,.22)}
+.j-n{display:block;font-family:var(--font-mono);font-size:12px;color:var(--lime);font-weight:600;margin-bottom:8px}
+.j-step b{display:block;font-size:16px;font-weight:600;letter-spacing:-.02em}
+.j-d{display:block;font-size:13.5px;color:var(--gray-2);line-height:1.5;margin-top:5px}
+.mod-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
+.mod-card{background:var(--paper-warm);border-radius:22px;padding:26px 24px}
+.mod-card h3{font-size:17.5px;font-weight:600;letter-spacing:-.02em;margin:14px 0 8px}
+.mod-card p{font-size:14.5px;color:var(--gray-2);line-height:1.55;margin:0}
+.ba{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:24px}
+.ba-col{border-radius:22px;padding:26px 24px}
+.ba-col.before{background:var(--paper-warm)}
+.ba-col.after{background:var(--accent-soft)}
+.ba-col h4{font-family:var(--font-mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;margin-bottom:14px}
+.ba-col.before h4{color:var(--gray-3)}
+.ba-col.after h4{color:var(--lime)}
+.ba-col ul{list-style:none;padding:0;margin:0}
+.ba-col li{font-size:14.5px;line-height:1.5;color:var(--gray-2);padding:9px 0 9px 24px;position:relative;border-top:1px solid rgba(0,0,0,.05)}
+.ba-col li:first-child{border-top:none}
+.ba-col.before li::before{content:"\2715";position:absolute;left:0;color:var(--gray-3);font-size:13px}
+.ba-col.after li::before{content:"\2713";position:absolute;left:0;color:var(--lime);font-weight:700;font-size:13px}
+.ba-col.after li{color:var(--ink)}
+.prova-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:24px}
+.prova-stat{background:var(--paper-warm);border-radius:18px;padding:24px;text-align:center}
+.prova-stat b{display:block;font-size:34px;font-weight:600;letter-spacing:-.03em;color:var(--lime);line-height:1;font-variant-numeric:tabular-nums}
+.prova-stat span{display:block;font-size:13.5px;color:var(--gray-2);margin-top:8px}
+.depo{margin:20px 0 0;padding:28px 26px;background:var(--paper-warm);border-radius:22px}
+.depo p{font-size:19px;line-height:1.45;letter-spacing:-.02em;color:var(--ink);margin:0}
+.depo strong{font-weight:600;color:var(--lime)}
+.depo footer{display:flex;align-items:center;gap:12px;margin-top:18px;font-size:13.5px;color:var(--gray-2)}
+.depo .av{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;background:var(--lime);color:#fff;font-weight:600;font-size:14px;flex:0 0 auto}
+.depo footer b{color:var(--ink);font-weight:600}
+.logos{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.logos span{background:var(--paper-warm);border-radius:100px;padding:10px 18px;font-size:14px;font-weight:600;color:var(--ink)}
+.preco-box{display:grid;grid-template-columns:1.35fr 1fr;gap:16px;margin-top:24px}
+.preco-main,.preco-ent{border-radius:22px;padding:26px 24px}
+.preco-main{background:var(--accent-soft)}
+.preco-ent{background:var(--paper-warm)}
+.preco-name{font-family:var(--font-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--gray-3);font-weight:600}
+.preco-val{font-size:34px;font-weight:600;letter-spacing:-.03em;margin:6px 0 10px;color:var(--ink)}
+.preco-val span{font-size:15px;font-weight:400;color:var(--gray-3);letter-spacing:-.01em}
+.preco-val.small{font-size:24px}
+.preco-box p{font-size:14px;color:var(--gray-2);line-height:1.55;margin:0}
+@media (max-width:900px){
+  .dor-grid,.motor-grid,.jornada,.mod-grid,.prova-grid{grid-template-columns:repeat(2,1fr)}
+  .preco-box{grid-template-columns:1fr}
+}
+@media (max-width:640px){
+  .dor-grid,.motor-grid,.jornada,.mod-grid,.prova-grid,.ba{grid-template-columns:1fr}
+  .motor-box{padding:30px 22px}
+  .depo p{font-size:17px}
+}
+
+/* ===== v3: respiro e contraste entre blocos ===== */
+section{padding:96px 0}
+.grid{gap:20px}
+.card,.dor-card,.mod-card,.j-step,.prova-stat{
+  background:var(--paper);
+  border:1px solid var(--gray-soft);
+  box-shadow:0 1px 2px rgba(29,29,31,.04),0 14px 30px -22px rgba(29,29,31,.30);
+}
+.j-step.hot{background:var(--accent-soft);border-color:rgba(0,113,227,.28);box-shadow:none}
+.dor-grid,.mod-grid,.prova-grid{gap:20px}
+.jornada{gap:16px}
+.otas{background:var(--ink);color:var(--paper);padding:60px 44px;border-radius:26px}
+.otas h2{color:var(--paper)}
+.otas .sub{color:rgba(255,255,255,.70)}
+.otas .badge-soon{background:rgba(107,178,255,.18);color:var(--accent-bright)}
+.otas .btn-soft{background:rgba(255,255,255,.14);color:var(--paper)}
+.depo{background:var(--cream)}
+@media (max-width:640px){ section{padding:64px 0} .otas{padding:34px 24px} }
+
+/* ===== v4: corrige especificidade — .wrap (classe) anulava section (elemento) ===== */
+section.wrap{padding:96px 24px}
+header.hero.wrap{padding:96px 24px 64px}
+.hero h1{text-wrap:balance}
+.proof-strip{gap:14px 34px}
+.proof-strip b{font-size:17px}
+@media (max-width:900px){
+  section.wrap{padding:72px 22px}
+  header.hero.wrap{padding:72px 22px 48px}
+}
+@media (max-width:640px){
+  section.wrap{padding:56px 18px}
+  header.hero.wrap{padding:52px 18px 36px}
+}
+
+/* ===== v5: colisoes de cascata e refinos ===== */
+.depo footer{background:transparent;padding:0;margin-top:18px;color:var(--gray-2);font-size:13.5px}
+.depo footer b{color:var(--ink)}
+.dor-num sub{vertical-align:baseline;font-size:15px;bottom:auto;margin-left:6px}
+#faq .faq-item{max-width:860px}
+.preco-main,.preco-ent{display:flex;flex-direction:column}
+
+/* ===== v6: barra de prova no mobile ===== */
+@media (max-width:640px){
+  .proof-strip{display:grid;grid-template-columns:1fr 1fr;gap:14px 18px}
+  .proof-strip span{display:flex;flex-direction:column;font-size:12.5px;line-height:1.35}
+  .proof-strip b{font-size:18px}
+}
 </style>
-</head>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","name":"Análise de crédito e financiamento para construtoras","url":"https://credituz.ai/en/pages/construtoras.html","description":"Análise de crédito, acompanhamento de financiamento, contratos, cobrança e gestão de unidades para construtoras e incorporadoras."},{"@type":"Service","name":"Credituz para construtoras e incorporadoras","provider":{"@type":"Organization","name":"Credituz","url":"https://credituz.ai/"},"areaServed":"BR","serviceType":"Análise de crédito e operação de financiamento imobiliário","url":"https://credituz.ai/en/pages/construtoras.html"}]}</script>
+<link href="https://credituz.ai/pages/construtoras.html" hreflang="pt-BR" rel="alternate"/><link href="https://credituz.ai/en/pages/construtoras.html" hreflang="en" rel="alternate"/><link href="https://credituz.ai/pages/construtoras.html" hreflang="x-default" rel="alternate"/></head>
 <body>
 <nav>
 <div class="inner">
 <a aria-label="Credituz" class="logo" href="../index.html"><img alt="Credituz" class="logo-mark" height="26" src="/assets/logo-credituz.png" width="112"/></a>
-<a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it free for 30 days</a>
+<a class="nav-cta" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it now!</a>
 </div>
 </nav>
 <header class="hero wrap">
-<div class="tag">For real estate developers</div>
-<h1>Sell more units <span class="hl">From the launch to the handover of the keys</span>.</h1>
-<p class="lead">Credituz qualifies each lead from your campaign in WhatsApp, instantly simulates credit checks at 10 banks, and generates the contract in minutes. Your sales team can focus on closing deals, not on spreadsheets.</p>
+<div class="tag">For construction companies and real estate developers</div>
+<h1>Sell it today to whoever the bank <span class="hl">will provide funding tomorrow.</span></h1>
+<p class="lead">Evaluate the buyer before financing the down payment, run credit simulations at multiple banks, and monitor each transaction until the funds are disbursed. This results in less risk of contract termination, greater portfolio predictability, and a single view of the sale all the way through to the handover.</p>
 <div class="hero-actions">
-<a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it free for 30 days</a>
-<a class="btn btn-soft" href="#faq">Ask questions</a>
+<a class="btn btn-dark" data-track="segment_construtoras_start" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=construtoras" rel="noopener" target="_blank">Get Started Now</a>
+<a class="btn btn-soft" data-track="segment_construtoras_how" href="#jornada-credito">See how it works</a>
 </div>
-<div class="hero-meta">Single plan for R$ 297/month · 30-day free trial · no setup fee</div>
+<div class="proof-strip">
+<span><b>Score</b> and its own credit policy</span>
+<span><b>ATMs</b> in a single day</span>
+<span><b>Credit CRM</b> until the transfer</span>
+<span><b>Wallet</b> by unit</span>
+</div>
 </header>
+<section class="wrap" id="problema">
+<div class="tag">The problem</div>
+<h2>The risk arises at the time of sale. The problem only becomes apparent when the contract is transferred.</h2>
+<p class="sub">When a construction company allows the down payment to be paid in installments without properly assessing the buyer’s creditworthiness, it may bear the risk for months until it discovers that the buyer is unable to secure bank financing.</p>
+<div class="dor-grid">
+<div class="dor-card">
+<div class="dor-num">24<sub>months</sub></div>
+<h3>Until the results reveal the failure.</h3>
+<p>You paid the down payment in installments, received payments for two years, and when it came time to transfer the funds, the bank reviewed the case according to its own criteria and denied the request. The sale falls through at the end of the process, not at the beginning.</p>
+</div>
+<div class="dor-card">
+<div class="dor-num">1<sub>unit</sub></div>
+<h3>Returns to inventory with each cancellation.</h3>
+<p>Money refunded, commission already paid, two years of development, and a unit that needs to be resold—now that the project is more mature.</p>
+</div>
+<div class="dor-card">
+<div class="dor-num">0<sub>%</sub></div>
+<h3>The financing commission is up to you.</h3>
+<p>The buyer finalizes the loan with the bank manager. The origination fee—which is revenue—becomes someone else’s commission—and you lose control over the timeline of the sale itself.</p>
+</div>
+</div>
+</section>
+<section class="wrap" id="motor">
+<div class="motor-box">
+<div class="tag" style="color:var(--accent-bright)">The core of Credituz</div>
+<h2>Increase your chances of securing financing through the transfer before taking on the risk.</h2>
+<p class="sub">Use your own policies, credit bureau data, payment capacity, and credit indicators to better select which borrowers to include in your portfolio. The final decision on financing remains with the bank, but your operation provides the bank with much more context and control when the loan is passed on.</p>
+<div class="motor-grid">
+<div class="motor-item">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 6h16M4 12h10M4 18h7"></path></svg></span>
+<h3>Your Credit Policy</h3>
+<p>Income, commitment, minimum down payment, and accepted profile—set by you and applied consistently to every sale, by any salesperson.</p>
+</div>
+<div class="motor-item">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-3.5-3.5"></path></svg></span>
+<h3>Check with credit bureaus</h3>
+<p>Credit scores, credit limits, and financial history are retrieved directly within the workflow, without leaving the platform and without waiting for a response from a third party.</p>
+</div>
+<div class="motor-item">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M3 17l5-5 4 3 6-7"></path><path d="M14 8h5v5"></path></svg></span>
+<h3>Income capacity</h3>
+<p>Verified income, household composition, and financial commitment are calculated on the spot to determine how much the buyer can actually afford.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="wrap" id="jornada">
+<div class="tag">The Journey</div>
+<h2>From the launch to the handover of the keys.</h2>
+<p class="sub">Where every stage of your operation meets the platform.</p>
+<div class="jornada">
+<div class="j-step"><span class="j-n">01</span><b>Launch</b><span class="j-d">Sales portal on your domain, Google My Business, and leads in the CRM</span></div>
+<div class="j-step hot"><span class="j-n">02</span><b>Analysis</b><span class="j-d">Motor uses its own criteria to decide who is included in the portfolio</span></div>
+<div class="j-step"><span class="j-n">03</span><b>Credit · CORBAN AI</b><span class="j-d">Simulation, ATM request, and tracking in Corban CRM</span></div>
+<div class="j-step"><span class="j-n">04</span><b>Contract · Enterprise</b><span class="j-d">Documents with AI, digital signatures, and digital notary services when contracted</span></div>
+<div class="j-step"><span class="j-n">05</span><b>Accounts Receivable and Collections</b><span class="j-d">Project summary, automatic adjustment, closing, and reconciliation</span></div>
+<div class="j-step"><span class="j-n">06</span><b>Pass it on</b><span class="j-d">Monitored until approval—which came as no surprise, since the analysis was conducted in stage 02</span></div>
+</div>
+</section>
+<section class="wrap" id="jornada-credito">
+<div class="tag">From Contract to Disbursement</div>
+<h2>After applying for financing, you can still monitor the transaction.</h2>
+<p class="sub">Credituz OS supports analysis and billing; CORBAN AI links simulations, requests, documents, pending items, and bank status. Sales, back office, and customers no longer have to rely on spreadsheets and scattered messages to know what to do next.</p>
+<div class="jornada">
+<div class="j-step hot"><span class="j-n">01</span><b>Pre-sale Analysis</b><span class="j-d">Credit scores, credit policies, and ability to pay help determine who is added to the portfolio.</span></div>
+<div class="j-step"><span class="j-n">02</span><b>Simulate and request</b><span class="j-d">Compare scenarios and organize your financing application in a single step.</span></div>
+<div class="j-step"><span class="j-n">03</span><b>Track open issues</b><span class="j-d">Find out what's missing, where the process stands, and what the next step is with the customer.</span></div>
+<div class="j-step"><span class="j-n">04</span><b>Get to the transfer</b><span class="j-d">Keep track of the hire and the department until the end of the fiscal period.</span></div>
+</div>
+<div class="depo" style="margin-top:24px;border-radius:22px;padding:28px 26px">
+<div class="tag" style="margin-bottom:10px">NJS Engineering</div>
+<p style="font-size:19px;line-height:1.5;max-width:850px">“We’ve gone from having little control to having complete control over our portfolio. Today, we know exactly the status of every unit, every contract, and every transfer.”</p>
+<p style="margin-top:10px;color:var(--gray-2);font-size:14px">Adson Soares · Development Manager</p>
+</div>
+</section>
 <section class="wrap" id="funcionalidades">
-<div class="tag">How Credituz Works</div>
-<h2>How the platform helps real estate developers.</h2>
-<p class="sub">From the sales floor to after-sales service, Credituz's AI agents cover your entire sales funnel.</p>
-<div class="grid">
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">01 / Carlos · Credit</div>
-<h3>Multi-bank pre-approval in seconds.</h3>
-<p>Income, FGTS, credit score, and commitment assessed by 10 banks and fintech companies in a single consultation. The customer arrives at the appointment knowing exactly what they can afford.</p>
+<div class="tag">What do you trade?</div>
+<h2>Modular solutions for the real estate journey.</h2>
+<p class="sub">Credituz OS analyzes and bills; CORBAN AI manages origination; Enterprise adds custom contracts, integrations, and workflows.</p>
+<div class="mod-grid">
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M12 3v18"></path><path d="M5 8h9a3 3 0 010 6H5"></path></svg></span>
+<h3>Analysis + Origination</h3>
+<p>Credituz OS applies its own policies and credit analysis. CORBAN AI adds a simulation feature, ATM requests, and tracking of the origination process in the Corban CRM.</p>
 </div>
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">02 / Ana · Contracts</div>
-<h3>A quote and contract in minutes.</h3>
-<p>AI-generated documents with legal validity and electronic signatures ICP-Brasil. No need to visit a physical notary office, and no back-and-forth between the sales and legal departments.</p>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"></path><path d="M14 3v5h5"></path><path d="M9 14l2 2 4-4"></path></svg></span>
+<h3>Contracts and Signatures · Enterprise</h3>
+<p>Contracts using AI, digital signatures, and digital notary services can be included in Enterprise projects.</p>
 </div>
-<div class="card">
-<span class="badge-ready">AVAILABLE</span>
-<div class="num">03 / Iris · Intelligence</div>
-<h3>Real-time launch dashboard.</h3>
-<p>Sales velocity, inventory by category, conversion rates by channel, and the sales funnel—all on a single dashboard, with Iris responding in natural language.</p>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><rect height="16" rx="2" width="18" x="3" y="4"></rect><path d="M3 10h18M9 10v10"></path></svg></span>
+<h3>Entrepreneurship Mirror</h3>
+<p>Units, reservations, the status of each contract, and availability by type—all in a single source—putting an end to the use of separate spreadsheets by sales and administrative teams.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg></span>
+<h3>Billing and Accounts Receivable</h3>
+<p>AI-powered billing schedule for down payment installments, with up to 300 billing events per month. Each billing cycle includes up to 3 configurable due dates via WhatsApp and email, as well as payment slips, Pix, write-offs, and reconciliation. SMS is available via Enterprise on a custom basis.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M3 21h18"></path><path d="M6 21V9l6-5 6 5v12"></path><path d="M10 21v-6h4v6"></path></svg></span>
+<h3>Sales Portal and CRM</h3>
+<p>A portal on your own domain with a built-in credit module, Google Meu Negócio configured, and a sales and credit CRM with unlimited contacts.</p>
+</div>
+<div class="mod-card">
+<span class="ico"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"></path></svg></span>
+<h3>Portfolio Intelligence</h3>
+<p>Sales velocity, inventory by type, bank approval, delinquency, and cash flow forecast—all in plain language, without a confusing dashboard.</p>
 </div>
 </div>
+</section>
+<section class="wrap" id="antes-depois">
+<div class="tag">In practice</div>
+<h2>What's changing in the operation.</h2>
+<div class="ba">
+<div class="ba-col before">
+<h4>Today</h4>
+<ul>
+<li>A buyer who resonates with the seller</li>
+<li>Overview of the project in a shared spreadsheet</li>
+<li>A contract that keeps going back and forth between the sales and legal departments</li>
+<li>Down payment installments billed based on a manual reminder</li>
+<li>Failure to make the transfer discovered at the end of the process</li>
+<li>Commission on financing for the bank manager</li>
+</ul>
+</div>
+<div class="ba-col after">
+<h4>With the Credituz</h4>
+<ul>
+<li>Buyer vetted based on its policy, through a credit bureau, on the spot</li>
+<li>Live ledger, consistent across sales, operations, and finance</li>
+<li>Contract and signature available on Enterprise</li>
+<li>An automated ledger that records, posts, and reconciles entries on its own</li>
+<li>Predictable approval: Those who were hired already met the bank's criteria</li>
+<li>Origination remains visible in Corban CRM</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="wrap" id="prova">
+<div class="tag">Results from users</div>
+<h2>Real-world traction, in production.</h2>
+<div class="prova-grid">
+<div class="prova-stat"><b>R$ 300 million</b><span>in requested credit</span></div>
+<div class="prova-stat"><b>+40</b><span>platform operations</span></div>
+<div class="prova-stat"><b>80%</b><span>shorter shutter speed</span></div>
+</div>
+<blockquote class="depo">
+<p>“We’ve moved from a situation of low control to the <strong>full control of our portfolio</strong>. “Today we know exactly the status of each unit, each contract, and each payment.”</p>
+<footer><span class="av">AS</span><span><b>Adson Soares</b><br/>Development Manager · NJS Engineering</span></footer>
+</blockquote>
+</section>
+<section class="wrap" id="integracoes">
+<div class="tag">Integrations</div>
+<h2>Keep using the Sienge and the CV you already use.</h2>
+<p class="sub">Credituz acts as an AI layer on top of what your team is already using, with real-time bidirectional read and write capabilities. Active account in 5 minutes; ERP integration within 24 hours.</p>
+<div class="logos">
+<span>Sienge</span><span>CV CRM</span><span>Kenlo</span><span>Conaz</span><span>Asaas</span><span>+20 via API</span>
+</div>
+</section>
+<section class="wrap" id="preco">
+<div class="tag">Price</div>
+<h2>Start with Credituz OS, scale up to Enterprise.</h2>
+<div class="preco-box">
+<div class="preco-main">
+<div class="preco-name">Credituz OS</div>
+<div class="preco-val">R$ 297<span>/mês</span></div>
+<p>Credit analysis with custom policies, credit CRM, collections, and receivables management powered by AI. Includes up to 300 collections per month, up to 3 users, and analyses for R$ 16 each.</p>
+</div>
+<div class="preco-ent">
+<div class="preco-name">Enterprise</div>
+<div class="preco-val small">Custom-made</div>
+<p>You can combine Credituz OS and CORBAN AI with multi-company support, contracts, subscriptions, digital notary services, fund transfers, White Label, API, SSO, and SLA.</p>
+</div>
+</div>
+<p class="sub" style="margin-top:14px">For simulations, loan applications, and Corban CRM, learn more about the <a href="./corban-ai.html">CORBAN AI</a>, with a business model tailored to the operation. <a href="../index.html#pricing">View the complete list of plans →</a></p>
 </section>
 <section class="wrap" id="cta-final">
 <div class="otas">
 <span class="badge-soon">Get started now</span>
 <h2>List your next release for sale using AI.</h2>
-<p class="sub">Create your account and activate the agents with a 30-day trial, or speak with an expert for an assessment of your operation.</p>
+<p class="sub">Create your account and activate the platform in minutes, or speak with an expert for an assessment of your operations.</p>
 <div class="hero-actions" style="margin-top:18px">
-<a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it free for 30 days</a>
+<a class="btn btn-dark" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=saas-credituzai" rel="noopener" target="_blank">Try it now!</a>
 <a class="btn btn-soft" href="https://wa.me/5511936209409" rel="noopener" target="_blank">Talk to an expert</a>
 </div>
 </div>
@@ -171,9 +448,14 @@ footer a { color: #f5f5f7; }
 <div class="tag">Frequently Asked Questions</div>
 <h2>Frequently Asked Questions</h2>
 <div style="margin-top:18px">
-<div class="faq-item"><h4>Does this work for high VGV and tickets ranging from R$ 500,000 to R$ 2 million?<span>+</span></h4><div class="a">Yes. The multi-bank credit line was designed for real estate transactions. The more complex the financing, the more early pre-approval speeds up the closing process.</div></div>
-<div class="faq-item"><h4>Will it replace my current CRM (CV, Sienge, etc.)?<span>+</span></h4><div class="a">You can either replace it or use it alongside your existing system. Credituz imports contacts with a single click, and integration with real estate portals is already included in the plan. Many real estate developers are making the switch gradually.</div></div>
-<div class="faq-item"><h4>How long will it take to go live?<span>+</span></h4><div class="a">Self-service in 5 minutes. Integration with your ERP within 24 hours. No 60-day implementation period.</div></div>
+<div class="faq-item"><h4>How does the analysis prevent contract termination during the transfer?<span>+</span></h4><div class="a">The dealership applies its credit policy and checks credit bureaus at the time of sale, before you finance the down payment. Instead of finding out that the application was denied two years later, you’ll already know on the day of the offer whether that buyer will be approved for financing.</div></div>
+<div class="faq-item"><h4>Can I write my own credit policy?<span>+</span></h4><div class="a">Yes—that’s the core of the product. You set the minimum income, maximum loan-to-income ratio, down payment, eligible borrower profile, and any other rules you want. In Enterprise, policies can vary by company and by product.</div></div>
+<div class="faq-item"><h4>What types of credit lines do you originate?<span>+</span></h4><div class="a">Real estate financing, construction loans, home equity loans, and auto equity loans—with loan calculators and application processing through the country’s largest financial institutions, all in a single consultation.</div></div>
+<div class="faq-item"><h4>Does this work for high VGV and tickets ranging from R$ 500,000 to R$ 2 million?<span>+</span></h4><div class="a">Yes. The workflow was designed for real estate financing. The more complex the financing, the more a preliminary analysis protects the sale and speeds up the closing.</div></div>
+<div class="faq-item"><h4>Will it replace my current ERP or CRM (Sienge, CV)?<span>+</span></h4><div class="a">You can either replace your existing system or use it alongside it. Credituz acts as an AI layer on top of your ERP, with real-time, two-way synchronization, and imports contacts with a single click. Many construction companies are making the switch gradually.</div></div>
+<div class="faq-item"><h4>Does the business plan replace my spreadsheet?<span>+</span></h4><div class="a">Yes. Units, reservations, contract status, and availability by category are all stored in a single source that sales, operations, and finance can view simultaneously.</div></div>
+<div class="faq-item"><h4>Is the admission fee charged automatically?<span>+</span></h4><div class="a">Yes. In Credituz OS, the workflow automates up to 300 billings per month via WhatsApp and email, with up to three configurable dates per billing. SMS and additional workflows can be included in Enterprise projects.</div></div>
+<div class="faq-item"><h4>How long will it take to go live?<span>+</span></h4><div class="a">Active account in 5 minutes, self-service. Integration with your ERP (API token, field mapping, and activation) takes up to 24 hours. No 60-day implementation period.</div></div>
 </div>
 </section>
 <footer>
