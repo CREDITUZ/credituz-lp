@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
+- Canonical: https://credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
 
 ---
 
@@ -80,7 +80,7 @@ O marketing digital para lançamentos imobiliários em 2025 exige uma abordagem 
 
 Ao adotar essas tecnologias e focar em dados reais, as empresas do setor não apenas sobreviverão à concorrência, mas liderarão o mercado, transformando leads em clientes satisfeitos e impulsionando o VGV de seus lançamentos.
 
-Para potencializar ainda mais seus resultados, conheça as soluções da Credituz. Nosso [CRM](/crm) especializado e nossa rede de [agentes](/agentes) parceiros estão prontos para integrar suas estratégias de marketing com uma gestão de vendas eficiente. Acesse nosso [simulador](/simulador) e descubra como podemos ajudar sua incorporadora a decolar, ou [seja parceiro](/seja-parceiro) e faça parte da revolução do crédito imobiliário.
+Para potencializar ainda mais seus resultados, conheça as soluções da Credituz. Nosso [CRM](/pages/crm-de-credito.html) especializado e nossa rede de [agentes](/pages/seja-parceiro.html) parceiros estão prontos para integrar suas estratégias de marketing com uma gestão de vendas eficiente. Acesse nosso [simulador](/pages/corban-ai.html) e descubra como podemos ajudar sua incorporadora a decolar, ou [seja parceiro](/pages/seja-parceiro.html) e faça parte da revolução do crédito imobiliário.
 
 ---
 

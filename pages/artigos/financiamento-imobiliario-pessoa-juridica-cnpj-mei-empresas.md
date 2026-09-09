@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.html
+- Canonical: https://credituz.ai/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.html
 
 ---
 
@@ -69,7 +69,7 @@ O setor tem se adaptado às mudanças econômicas e regulatórias, buscando inov
 
 A Credituz se posiciona como um parceiro estratégico para empresas que buscam financiamento imobiliário. Com expertise no mercado de crédito e imobiliário, a Credituz oferece soluções personalizadas, auxiliando na análise de perfil, na busca pelas melhores condições e na otimização do processo de aprovação. Seja para um MEI que busca sua primeira sede ou uma incorporadora que planeja um grande empreendimento, a Credituz está preparada para oferecer suporte completo.
 
-Explore nossas soluções em [credituz.com.br/simulador](/simulador) para simular seu financiamento, ou entre em contato com nossa equipe de especialistas em [credituz.com.br/agentes](/agentes) para um atendimento personalizado. Se você é um corretor ou construtor, conheça nosso [CRM](/crm) e as vantagens de [ser um parceiro Credituz](/seja-parceiro).
+Explore nossas soluções em [credituz.com.br/simulador](/pages/corban-ai.html) para simular seu financiamento, ou entre em contato com nossa equipe de especialistas em [credituz.com.br/agentes](/pages/seja-parceiro.html) para um atendimento personalizado. Se você é um corretor ou construtor, conheça nosso [CRM](/pages/crm-de-credito.html) e as vantagens de [ser um parceiro Credituz](/pages/seja-parceiro.html).
 
 ### Conclusão
 

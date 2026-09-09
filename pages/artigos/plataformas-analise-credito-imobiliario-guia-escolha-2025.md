@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html
+- Canonical: https://credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html
 
 ---
 
@@ -80,4 +80,4 @@ Os dados incluem histórico de pagamentos, score de crédito, renda, endividamen
 [1] BANCO CENTRAL DO BRASIL. Informações do Mercado Imobiliário. Disponível em: https://www.bcb.gov.br/estatisticas/mercadoimobiliario. Acesso em: 20 abr. 2026.
 [2] FC ANÁLISE. Análise de Crédito Para Locação. Disponível em: https://fcanalise.com.br/. Acesso em: 20 abr. 2026.
 [3] SERASA. Simulador de Financiamento Imobiliário. Disponível em: https://www.serasa.com.br/calculadoras/simulador-financiamento-imobiliario/. Acesso em: 20 abr. 2026.
-[4] CREDITUZ. Simule, analise e aprove financiamentos de forma 100% digital. Disponível em: https://usecredituz.com/. Acesso em: 20 abr. 2026.
+[4] CREDITUZ. Análise de crédito e política de crédito. Disponível em: [https://credituz.ai/pages/credituz-os.html](https://credituz.ai/pages/credituz-os.html). Acesso em: 20 abr. 2026.

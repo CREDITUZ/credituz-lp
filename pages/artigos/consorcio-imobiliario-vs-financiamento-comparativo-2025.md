@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html
+- Canonical: https://credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html
 
 ---
 
@@ -120,8 +120,8 @@ A decisão entre consórcio imobiliário e financiamento é multifacetada e deve
 [8] QuintoAndar. **Consórcio ou financiamento imobiliário: qual é melhor?**. Disponível em: [https://www.quintoandar.com.br/guias/como-comprar/consorcio-ou-financiamento-imobiliario/](https://www.quintoandar.com.br/guias/como-comprar/consorcio-ou-financiamento-imobiliario/). Acesso em: 19 abr. 2026.
 [9] Banco Central do Brasil. **Taxa de juros (taxas anuais)**. Disponível em: [https://www.bcb.gov.br/estatisticas/reporttxjuros?codigoSegmento=1&codigoModalidade=905201](https://www.bcb.gov.br/estatisticas/reporttxjuros?codigoSegmento=1&codigoModalidade=905201). Acesso em: 19 abr. 2026.
 [10] MySide. **Radar de taxas de juros do financiamento imobiliário 2026**. Disponível em: [https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario](https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario). Acesso em: 19 abr. 2026.
-[11] Credituz. **Simulador de Crédito**. Disponível em: [/simulador](/simulador). Acesso em: 19 abr. 2026.
-[12] Credituz. **Simulador de Crédito**. Disponível em: [/simulador](/simulador). Acesso em: 19 abr. 2026.
-[13] Credituz. **Seja Parceiro**. Disponível em: [/seja-parceiro](/seja-parceiro). Acesso em: 19 abr. 2026.
+[11] Credituz. **Simulador de Crédito**. Disponível em: [/simulador](/pages/corban-ai.html). Acesso em: 19 abr. 2026.
+[12] Credituz. **Simulador de Crédito**. Disponível em: [/simulador](/pages/corban-ai.html). Acesso em: 19 abr. 2026.
+[13] Credituz. **Seja Parceiro**. Disponível em: [/seja-parceiro](/pages/seja-parceiro.html). Acesso em: 19 abr. 2026.
 [14] Embracon. **Taxa administrativa de consorcio**. Disponível em: [https://www.embracon.com.br/consorcio/taxa-administrativa-de-consorcio](https://www.embracon.com.br/consorcio/taxa-administrativa-de-consorcio). Acesso em: 19 abr. 2026.
-[15] Credituz. **Agentes**. Disponível em: [/agentes](/agentes). Acesso em: 19 abr. 2026.
+[15] Credituz. **Agentes**. Disponível em: [/agentes](/pages/seja-parceiro.html). Acesso em: 19 abr. 2026.

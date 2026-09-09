@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.html
+- Canonical: https://credituz.ai/pages/artigos/cobranca-inteligente-com-ia-como-reduzir-inadimplencia-no-mercado-imobiliario.html
 
 ---
 
@@ -56,10 +56,10 @@ A adoção da IA na gestão da inadimplência traz uma série de benefícios tan
 
 | Benefício | Descrição | Impacto | Link Interno Credituz (Exemplo) |
 |---|---|---|---|
-| **Redução da Inadimplência** | Identificação precoce de riscos e abordagens personalizadas. | Melhoria do fluxo de caixa e saúde financeira. | [/crm](/crm) |
-| **Otimização de Custos** | Automação de tarefas repetitivas e redução da necessidade de mão de obra manual. | Diminuição de despesas operacionais. | [/agentes](/agentes) |
-| **Melhora do Relacionamento com o Cliente** | Comunicações mais empáticas e ofertas de renegociação justas. | Preservação da imagem da empresa e fidelização. | [/seja-parceiro](/seja-parceiro) |
-| **Aumento da Eficiência Operacional** | Processamento rápido de dados e automação de processos. | Liberação da equipe para tarefas estratégicas. | [/simulador](/simulador) |
+| **Redução da Inadimplência** | Identificação precoce de riscos e abordagens personalizadas. | Melhoria do fluxo de caixa e saúde financeira. | [/crm](/pages/crm-de-credito.html) |
+| **Otimização de Custos** | Automação de tarefas repetitivas e redução da necessidade de mão de obra manual. | Diminuição de despesas operacionais. | [/agentes](/pages/seja-parceiro.html) |
+| **Melhora do Relacionamento com o Cliente** | Comunicações mais empáticas e ofertas de renegociação justas. | Preservação da imagem da empresa e fidelização. | [/seja-parceiro](/pages/seja-parceiro.html) |
+| **Aumento da Eficiência Operacional** | Processamento rápido de dados e automação de processos. | Liberação da equipe para tarefas estratégicas. | [/simulador](/pages/corban-ai.html) |
 | **Tomada de Decisão Baseada em Dados** | Insights precisos sobre o perfil do devedor e tendências de mercado. | Estratégias mais eficazes e redução de riscos. | |
 
 ## O Futuro da Cobrança no Mercado Imobiliário

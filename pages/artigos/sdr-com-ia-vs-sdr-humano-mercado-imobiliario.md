@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/sdr-com-ia-vs-sdr-humano-mercado-imobiliario.html
+- Canonical: https://credituz.ai/pages/artigos/sdr-com-ia-vs-sdr-humano-mercado-imobiliario.html
 
 ---
 
@@ -71,7 +71,7 @@ A Credituz oferece uma plataforma de IA que integra e automatiza o processo de q
 [2] PATAGON AI. Custos de gestão de leads por humanos vs IA na indústria automobilística. Disponível em: <https://www.patagon.ai/pt/blog-posts/custos-de-gestao-de-leads-por-humanos-vs-ia-na-industria-automobilistica>. Acesso em: 20 abr. 2026.
 [3] GROWTH MACHINE. Diferença entre SDR humano e SDR com IA. Disponível em: <https://blog.growthmachine.com.br/diferenca-entre-sdr-humano-e-sdr-com-ia/>. Acesso em: 20 abr. 2026.
 [4] VERBOO. IA no Imobiliário: 35% Mais Conversão Via WhatsApp. Disponível em: <https://verboo.ai/blog/ia-imobiliario-conversao-whatsapp>. Acesso em: 20 abr. 2026.
-[5] CREDITUZ AI. Como aumentar a conversão de leads imobiliários. Disponível em: <https://www.credituz.ai/blog/como-aumentar-conversao-leads-imobiliarios>. Acesso em: 20 abr. 2026.
+[5] CREDITUZ AI. Como aumentar a conversão de leads imobiliários. Disponível em: <https://credituz.ai/blog/como-aumentar-conversao-leads-imobiliarios>. Acesso em: 20 abr. 2026.
 [6] UOL. Como a inteligência artificial tem transformado o mercado imobiliário. Disponível em: <https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/04/13/como-a-inteligencia-artificial-tem-transformado-o-mercado-imobiliario.htm>. Acesso em: 20 abr. 2026.
 [7] EXAME. Mercado imobiliário bate recorde, movimenta R$ 264 bi e SC lidera. Disponível em: <https://exame.com/mercado-imobiliario/mercado-imobiliario-bate-recorde-movimenta-r-264-bi-e-sc-lidera-no-sul/>. Acesso em: 20 abr. 2026.
 [8] REGISTRO DE IMÓVEIS. Mercado imobiliário registra recordes em 2025. Disponível em: <https://www.registrodeimoveis.org.br/mercado-imobiliario-registra-recordes-em-2025>. Acesso em: 20 abr. 2026.

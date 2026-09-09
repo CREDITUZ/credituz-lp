@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.html
+- Canonical: https://credituz.ai/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.html
 
 ---
 
@@ -99,7 +99,7 @@ A Credituz opera em total conformidade com a Lei Geral de Proteção de Dados (L
 ## Referências
 
 [1] Botpress. Como usar chatbots de IA para o mercado imobiliário (2026). Disponível em: [https://botpress.com/pt/blog/chatbot-for-real-estate](https://botpress.com/pt/blog/chatbot-for-real-estate). Acesso em: 20 abr. 2026.
-[2] Credituz AI. AI-First Real Estate | Crédito Imobiliário com IA. Disponível em: [https://www.credituz.ai/](https://www.credituz.ai/). Acesso em: 20 abr. 2026.
+[2] Credituz AI. AI-First Real Estate | Crédito Imobiliário com IA. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026.
 [3] ManyChat. Chat Marketing Made Easy with Manychat. Disponível em: [https://manychat.com/](https://manychat.com/). Acesso em: 20 abr. 2026.
 [4] Typebot. Build Interactive Chat Forms with Typebot. Disponível em: [https://typebot.com/](https://typebot.com/). Acesso em: 20 abr. 2026.
 [5] Thunderbit. Estatísticas e Números de Chatbots de IA em 2026. Disponível em: [https://thunderbit.com/pt/blog/ai-chatbot-stats](https://thunderbit.com/pt/blog/ai-chatbot-stats). Acesso em: 20 abr. 2026.

@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.html
+- Canonical: https://credituz.ai/pages/artigos/gestao-de-obra-com-ia-controle-de-cronograma-custos-e-desvios-em-tempo-real.html
 
 ---
 
@@ -75,7 +75,7 @@ Para construtoras e incorporadoras, investir em soluções de IA significa não 
 
 ## Como a Credituz Pode Ajudar na Jornada da Inovação
 
-Na Credituz, entendemos os desafios e as oportunidades que a inovação tecnológica traz para o mercado imobiliário e de crédito. Oferecemos soluções financeiras e tecnológicas que podem complementar a sua jornada de digitalização e otimização com IA. Seja através de um [simulador](/simulador) de crédito imobiliário para seus clientes, um [CRM](/crm) robusto para gerenciar seus leads e vendas, ou a oportunidade de [seja-parceiro](/seja-parceiro) e expandir seus negócios, estamos aqui para apoiar o seu crescimento.
+Na Credituz, entendemos os desafios e as oportunidades que a inovação tecnológica traz para o mercado imobiliário e de crédito. Oferecemos soluções financeiras e tecnológicas que podem complementar a sua jornada de digitalização e otimização com IA. Seja através de um [simulador](/pages/corban-ai.html) de crédito imobiliário para seus clientes, um [CRM](/pages/crm-de-credito.html) robusto para gerenciar seus leads e vendas, ou a oportunidade de [seja-parceiro](/pages/seja-parceiro.html) e expandir seus negócios, estamos aqui para apoiar o seu crescimento.
 
 Nossas ferramentas são projetadas para integrar-se perfeitamente aos seus processos, garantindo que você tenha o suporte necessário para alavancar a eficiência da sua gestão de obras com IA e alcançar resultados ainda mais expressivos. Convidamos você a explorar as soluções da Credituz e descobrir como podemos ser o seu parceiro estratégico na construção do futuro.
 

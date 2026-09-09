@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.html
+- Canonical: https://credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.html
 
 ---
 
@@ -108,7 +108,7 @@ O mercado de financiamento imobiliário no Brasil demonstra resiliência. Em 202
 
 ## Conclusão: O Caminho para o Financiamento Imobiliário Bem-Sucedido
 
-O score de crédito é um passaporte para o financiamento imobiliário, mas não o único. Boa pontuação, capacidade de pagamento, estabilidade financeira, relacionamento bancário e documentação impecável são pilares para o sucesso. Construtores e incorporadores devem orientar clientes sobre esses aspectos para acelerar vendas. Manter a vida financeira organizada, pagar contas em dia, evitar dívidas e monitorar o score são práticas benéficas. A Credituz oferece ferramentas e soluções, como o [simulador](/simulador) e suporte de [agentes](/agentes). Profissionais do mercado imobiliário podem conhecer nosso [CRM](/crm) e as vantagens de [ser um parceiro Credituz](/seja-parceiro). A preparação e compreensão dos critérios do crédito imobiliário tornam o sonho da casa própria mais acessível.
+O score de crédito é um passaporte para o financiamento imobiliário, mas não o único. Boa pontuação, capacidade de pagamento, estabilidade financeira, relacionamento bancário e documentação impecável são pilares para o sucesso. Construtores e incorporadores devem orientar clientes sobre esses aspectos para acelerar vendas. Manter a vida financeira organizada, pagar contas em dia, evitar dívidas e monitorar o score são práticas benéficas. A Credituz oferece ferramentas e soluções, como o [simulador](/pages/corban-ai.html) e suporte de [agentes](/pages/seja-parceiro.html). Profissionais do mercado imobiliário podem conhecer nosso [CRM](/pages/crm-de-credito.html) e as vantagens de [ser um parceiro Credituz](/pages/seja-parceiro.html). A preparação e compreensão dos critérios do crédito imobiliário tornam o sonho da casa própria mais acessível.
 
 [^1]: ABECIP. **Crédito imobiliário cresce 22,3% em 2024 e totaliza R$ 186,7 bilhões**. Disponível em: [https://www.abecip.org.br/imprensa/noticias/credito-imobiliario-cresce-22-3-em-2024-e-totaliza-r-186-7-bilhoes-aponta-abecip-diario-do-comercio](https://www.abecip.org.br/imprensa/noticias/credito-imobiliario-cresce-22-3-em-2024-e-totaliza-r-186-7-bilhoes-aponta-abecip-diario-do-comercio). Acesso em: 19 abr. 2026.
 [^2]: QuintoAndar. **Juros imobiliários: como está o mercado em 2025?**. Disponível em: [https://www.quintoandar.com.br/guias/dados-indices/juros-imobiliarios/](https://www.quintoandar.com.br/guias/dados-indices/juros-imobiliarios/). Acesso em: 19 abr. 2026.

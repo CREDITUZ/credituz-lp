@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-imobzi-comparativo-sistemas-gestao-imobiliarias.html
+- Canonical: https://credituz.ai/pages/artigos/credituz-vs-imobzi-comparativo-sistemas-gestao-imobiliarias.html
 
 ---
 
@@ -86,7 +86,7 @@ A escolha depende do foco. Para gestão completa de CRM e ERP com histórico com
 
 ## Referências Bibliográficas
 
-[1] Credituz. **Credituz AI – AI-First Real Estate | Crédito Imobiliário com IA**. Disponível em: https://www.credituz.ai/. Acesso em: 20 abr. 2026.
+[1] Credituz. **Credituz AI – AI-First Real Estate | Crédito Imobiliário com IA**. Disponível em: https://credituz.ai/. Acesso em: 20 abr. 2026.
 [2] Imobzi. **Site e Sistema para Imobiliária e Cobrança Recorrente | Imobzi**. Disponível em: https://www.imobzi.com/. Acesso em: 20 abr. 2026.
 [3] Banco Central do Brasil. **Informações do Mercado Imobiliário**. Disponível em: https://www.bcb.gov.br/estatisticas/mercadoimobiliario. Acesso em: 20 abr. 2026.
 [4] ABECIP. **Indicadores – Financiamento**. Disponível em: https://www.abecip.org.br/credito-imobiliario/indicadores/financiamento. Acesso em: 20 abr. 2026.

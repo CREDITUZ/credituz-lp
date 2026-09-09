@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-credituz-vs-kommo-vs-wati-comparativo.html
+- Canonical: https://credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-credituz-vs-kommo-vs-wati-comparativo.html
 
 ---
 
@@ -94,4 +94,4 @@ O agente de IA da Credituz, Carlos, interage com o cliente pelo WhatsApp de form
 [1] IBGE. Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC). Disponível em: [https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html). Acesso em: 20 abr. 2026.
 [2] Statista. Número de usuários de WhatsApp no Brasil. Disponível em: [https://www.statista.com/statistics/1230000/whatsapp-users-brazil/](https://www.statista.com/statistics/1230000/whatsapp-users-brazil/). Acesso em: 20 abr. 2026.
 [3] BACEN. Relatório de Estabilidade Financeira. Disponível em: [https://www.bcb.gov.br/publicacoes/relatorioestabilidade](https://www.bcb.gov.br/publicacoes/relatorioestabilidade). Acesso em: 20 abr. 2026.
-[4] Credituz. Credituz AI – AI-First Real Estate. Disponível em: [https://www.credituz.ai/](https://www.credituz.ai/). Acesso em: 20 abr. 2026).
+[4] Credituz. Credituz AI – AI-First Real Estate. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026).

@@ -4,7 +4,7 @@
 
 - Categoria: Jurídico
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.html
+- Canonical: https://credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.html
 
 ---
 
@@ -123,7 +123,7 @@ A IA emerge como aliada na prevenção da inadimplência. Sua capacidade de aná
 2.  {"title": "O impacto da inteligência artificial no mercado imobiliário", "url": "https://www.jetimob.com/blog/impacto-da-inteligencia-artificial/", "author": "Jetimob", "year": 2025}
 3.  {"title": "Financiamento De Imoveis Como A Ia Pode Trazer Melhorias Para ...", "url": "https://acnconsultoria.cnt.br/noticias/artigos/2024/10/15/financiamento-de-imoveis-como-a-ia-pode-trazer-melhorias-para-o-segmento", "author": "ACN Consultoria", "year": 2024}
 4.  {"title": "Estratégias de previsão do mercado imobiliário com machine learning", "url": "https://www.vouvenderjavendi.com.br/estrategias-de-previsao-do-mercado-imobiliario-com-machine-learning", "author": "Vou Vender Já Vendi", "year": 2025}
-5.  {"title": "Credituz AI — AI-First Real Estate | Crédito Imobiliário com IA", "url": "https://www.credituz.ai/", "author": "Credituz", "year": 2024}
+5.  {"title": "Credituz AI — AI-First Real Estate | Crédito Imobiliário com IA", "url": "https://credituz.ai/", "author": "Credituz", "year": 2024}
 6.  {"title": "Plataforma de IA para crédito imobiliário capta R$ 12 milhões", "url": "https://finsidersbrasil.com.br/giro-noticias/liquid-capta-r-12-milhoes-para-se-tornar-a-infraestrutura-de-credito-imobiliario-no-brasil/", "author": "Finsiders Brasil", "year": 2025}
 7.  {"title": "Inteligência Artificial no crédito imobiliário: mais eficiência, menos ...", "url": "https://bel.vc/blog/inteligencia-artificial-no-credito-imobiliario-mais-eficiencia-menos-exclusao/", "author": "BEL.VC", "year": 2025}
 8.  {"title": "Mercado imobiliário encerra 2025 com recordes", "url": "https://www.terra.com.br/noticias/mercado-imobiliario-encerra-2025-com-recordes,e619a102ea5bfca40dbcb8e2102986b7xlgq67fh.html", "author": "Terra", "year": 2026}

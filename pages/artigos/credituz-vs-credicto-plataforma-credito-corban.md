@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.html
+- Canonical: https://credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.html
 
 ---
 
@@ -87,6 +87,6 @@ Não. A Credicto foi desenhada para atender a um ecossistema amplo de profission
 
 [2] ABECIP. **Informativos mensais**. Disponível em: [https://www.abecip.org.br/imprensa/informativos-mensais](https://www.abecip.org.br/imprensa/informativos-mensais). Acesso em: 20 abr. 2026.
 
-[3] CREDITUZ. **Credituz AI — AI-First Real Estate | Crédito Imobiliário com IA**. Disponível em: [https://www.credituz.ai/](https://www.credituz.ai/). Acesso em: 20 abr. 2026.
+[3] CREDITUZ. **Credituz AI — AI-First Real Estate | Crédito Imobiliário com IA**. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026.
 
 [4] CREDICTO. **Credicto: A Melhor Plataforma Para Quem Trabalha Com Crédito**. Disponível em: [https://credicto.com.br/](https://credicto.com.br/). Acesso em: 20 abr. 2026.

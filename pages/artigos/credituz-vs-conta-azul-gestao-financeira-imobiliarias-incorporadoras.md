@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.html
+- Canonical: https://credituz.ai/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.html
 
 ---
 
@@ -61,7 +61,7 @@ A Credituz oferece uma régua de pagamentos, controle de repasses e split de pag
 
 ## Referências
 
-[1] CREDITUZ. **Transformação digital do mercado imobiliário com crédito inteligente e inteligência artificial**. Disponível em: https://usecredituz.com/pt/mercado-imobiliario. Acesso em: 20 abr. 2026.
+[1] CREDITUZ. **Crédito, cobrança e financiamento com inteligência artificial**. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026.
 
 [2] CONTA AZUL. **Sistema ERP de Controle Financeiro Empresarial**. Disponível em: https://contaazul.com/. Acesso em: 20 abr. 2026.
 

@@ -2,7 +2,7 @@
 
 > Credituz is an operating and financial system with AI agents for business credit analysis, collections, and financing. Credituz OS combines credit analysis, credit CRM, and collections. CORBAN AI lets companies simulate, request, and track multi-bank credit through its own Corban CRM. Enterprise combines these products with customized financial infrastructure and operations management.
 
-- Canonical: https://credituz.ai/
+- Canonical: https://credituz.ai/en/
 - Language: en-US
 - Updated: 2026-09
 
@@ -54,6 +54,8 @@ Includes:
 
 Price: **R$ 297/month + R$ 16 per analysis**.
 
+Official page: [Credituz OS](https://credituz.ai/en/pages/credituz-os.html).
+
 ## CORBAN AI
 
 **Simulate. Request. Finance.**
@@ -72,9 +74,13 @@ Includes:
 
 Commercial model: **based on the operation**.
 
+Official page: [CORBAN AI](https://credituz.ai/en/pages/corban-ai.html).
+
 ## Credituz Score
 
 For companies that only need a credit check, Credituz Score costs **R$ 27.70 per analysis**, with no subscription or monthly fee. Considering only the subscription and analysis fees, Credituz OS becomes less expensive than standalone analyses starting at 26 analyses per month.
+
+Official page: [Credituz Score](https://credituz.ai/pages/credituz-score.html).
 
 ## AI-powered collections
 
@@ -106,6 +112,8 @@ Possibilities include:
 - SLA and dedicated support.
 
 Price: **custom**, with an annual contract.
+
+Official page: [Credituz Enterprise](https://credituz.ai/en/pages/enterprise.html).
 
 ## Credit CRM vs. Corban CRM
 
@@ -143,6 +151,10 @@ A collection is a complete workflow, not a single message. It includes up to 3 c
 ### How many contacts can one collection generate?
 
 With 3 dates and 2 channels, one collection can generate up to 6 automated contacts.
+
+### What is a credit pipeline?
+
+A credit pipeline is the view of operations from simulation to closing. In CORBAN AI, it organizes the stage, institution, documents, pending items, owner, next action, and status of each application in the Corban CRM.
 
 ### Where are AI contracts, digital signatures, and digital registry services included?
 

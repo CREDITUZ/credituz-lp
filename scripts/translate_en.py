@@ -33,6 +33,10 @@ DEEPL_KEY = os.environ.get("DEEPL_API_KEY")
 PAGES = [
     ("index.html", "en/index.html"),
     ("white-label.html", "en/white-label.html"),
+    ("pages/credituz-os.html", "en/pages/credituz-os.html"),
+    ("pages/corban-ai.html", "en/pages/corban-ai.html"),
+    ("pages/enterprise.html", "en/pages/enterprise.html"),
+    ("pages/construtoras.html", "en/pages/construtoras.html"),
     ("pages/incorporadoras.html", "en/pages/incorporadoras.html"),
     ("pages/imobiliarias.html", "en/pages/imobiliarias.html"),
     ("pages/seja-parceiro.html", "en/pages/seja-parceiro.html"),
@@ -47,7 +51,8 @@ LEGAL_BASENAMES = {
 }
 
 PROTECT = [
-    "Credituz OS", "Credituz", "WhatsApp", "Sienge", "UAU", "Open Finance",
+    "Credituz OS", "CORBAN AI", "Credituz Score", "Credituz Enterprise",
+    "Enterprise", "Credituz", "WhatsApp", "Sienge", "UAU", "Open Finance",
     "ICP-Brasil", "BACEN", "NFe", "Open Banking", "Microsoft for Startups",
     "Google for Startups", "Salesforce", "HubSpot", "Meta", "Google",
     "LinkedIn", "Instagram", "Facebook", "Pix", "FGTS", "Kenlo", "CV CRM",
@@ -67,6 +72,8 @@ ONLY_SYMBOLS = re.compile(r"^[\W\d_]+$")
 CACHE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                           "translation-cache.json")
 CACHE_BUST = os.environ.get("TRANSLATION_CACHE_BUST") == "1"
+METADATA_ONLY = os.environ.get("TRANSLATE_METADATA_ONLY") == "1"
+SITE_URL = "https://credituz.ai"
 
 CACHE = {}
 # Chaves usadas nesta execucao. O arquivo e reescrito so com elas, para nao
@@ -190,6 +197,91 @@ def rewrite_legal_links(soup):
             a["href"] = "/pages/" + base
 
 
+def page_url(path, english=False):
+    if path == "index.html" or path == "en/index.html":
+        return SITE_URL + ("/en/" if english else "/")
+    return SITE_URL + "/" + path
+
+
+def localize_metadata(soup, src, out, source_soup=None):
+    """Faz cada espelho EN apontar para si mesmo e para o original PT."""
+    pt_url = page_url(src)
+    en_url = page_url(out, english=True)
+
+    canonical = soup.find("link", rel=lambda value: value and "canonical" in value)
+    source_canonical = (
+        source_soup.find("link", rel=lambda value: value and "canonical" in value)
+        if source_soup is not None else canonical
+    )
+    en_canonical = en_url
+    if source_canonical and source_canonical.get("href"):
+        pt_canonical = urllib.parse.urljoin(pt_url, source_canonical["href"])
+        if pt_canonical.rstrip("/") != pt_url.rstrip("/"):
+            target_path = urllib.parse.urlparse(pt_canonical).path
+            en_canonical = SITE_URL + "/en" + target_path
+    if canonical:
+        canonical["href"] = en_canonical
+    else:
+        canonical = soup.new_tag("link", rel="canonical", href=en_canonical)
+        soup.head.append(canonical)
+
+    alternates = {}
+    for link in soup.find_all("link", rel=lambda value: value and "alternate" in value):
+        lang = link.get("hreflang")
+        if lang:
+            alternates[lang] = link
+    for lang, href in (("pt-BR", pt_url), ("en", en_url), ("x-default", pt_url)):
+        link = alternates.get(lang)
+        if link:
+            link["href"] = href
+        else:
+            soup.head.append(soup.new_tag("link", rel="alternate", hreflang=lang, href=href))
+
+    og_url = soup.find("meta", attrs={"property": "og:url"})
+    if og_url:
+        og_url["content"] = en_url
+
+    markdown = soup.find("link", attrs={"type": "text/markdown"})
+    if src == "index.html" and markdown:
+        markdown["href"] = "/home.en.md"
+
+    # Atualiza apenas as entidades específicas da página; a Organization global
+    # continua canônica em https://credituz.ai/#organization.
+    for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
+        try:
+            payload = json.loads(script.string or "")
+        except (TypeError, ValueError):
+            continue
+
+        def visit(node):
+            if isinstance(node, list):
+                for item in node:
+                    visit(item)
+                return
+            if not isinstance(node, dict):
+                return
+            kind = node.get("@type")
+            page_entity = kind in {"WebPage", "FAQPage"}
+            if src == "index.html" and kind == "WebSite":
+                page_entity = True
+            if src != "index.html" and kind in {"SoftwareApplication", "Service"}:
+                page_entity = True
+            if page_entity:
+                if isinstance(node.get("url"), str) and node["url"] == pt_url:
+                    node["url"] = en_url
+                if isinstance(node.get("@id"), str) and node["@id"].startswith(pt_url):
+                    node["@id"] = en_url + node["@id"][len(pt_url):]
+                if "inLanguage" in node:
+                    node["inLanguage"] = "en-US"
+            if kind == "ListItem" and node.get("item") == pt_url:
+                node["item"] = en_url
+            for value in node.values():
+                visit(value)
+
+        visit(payload)
+        script.string = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+
+
 def translate_file(src, out):
     with open(src, encoding="utf-8") as f:
         soup = BeautifulSoup(f.read(), "html.parser")
@@ -235,6 +327,7 @@ def translate_file(src, out):
     for el, attr in attr_setters:
         el[attr] = tr(el.get(attr))
     rewrite_legal_links(soup)
+    localize_metadata(soup, src, out)
     html_tag = soup.find("html")
     if html_tag:
         html_tag["lang"] = "en"
@@ -247,6 +340,20 @@ def translate_file(src, out):
 
 
 def main():
+    if METADATA_ONLY:
+        for src, out in PAGES:
+            if not os.path.exists(out):
+                print("Espelho EN ausente, pulando:", out)
+                continue
+            with open(out, encoding="utf-8") as f:
+                soup = BeautifulSoup(f.read(), "html.parser")
+            with open(src, encoding="utf-8") as f:
+                source_soup = BeautifulSoup(f.read(), "html.parser")
+            localize_metadata(soup, src, out, source_soup=source_soup)
+            with open(out, "w", encoding="utf-8") as f:
+                f.write(str(soup))
+            print("Metadados atualizados:", out)
+        return
     load_cache()
     print("Cache: {} trechos ja traduzidos{}".format(
         len(CACHE), " (ignorado por TRANSLATION_CACHE_BUST)" if CACHE_BUST else ""))

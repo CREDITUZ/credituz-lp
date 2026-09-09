@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/inteligencia-artificial-incorporadoras-reduzir-ciclo-vendas.html
+- Canonical: https://credituz.ai/pages/artigos/inteligencia-artificial-incorporadoras-reduzir-ciclo-vendas.html
 
 ---
 
@@ -100,7 +100,7 @@ O futuro da inteligência artificial no setor imobiliário aponta para uma integ
 
 A inteligência artificial representa um divisor de águas para as incorporadoras brasileiras. Ao otimizar a prospecção de terrenos, a definição de produtos, as estratégias de marketing e vendas, e a gestão financeira, a IA oferece o caminho para uma redução significativa do ciclo de vendas, de 90 para 30 dias. Os dados e casos de sucesso apresentados reforçam que a tecnologia não é mais uma opção, mas uma necessidade para quem busca competitividade e rentabilidade no mercado imobiliário atual.
 
-Para as incorporadoras que desejam se manter à frente, investir em soluções de IA é um passo estratégico. A Credituz, com suas soluções de CRM (/crm) e programas para agentes (/agentes) e parceiros (/seja-parceiro), está pronta para apoiar essa jornada de transformação digital, oferecendo as ferramentas necessárias para otimizar processos e alcançar novos patamares de sucesso.
+Para as incorporadoras que desejam se manter à frente, investir em soluções de IA é um passo estratégico. A Credituz, com suas soluções de CRM (/pages/crm-de-credito.html) e programas para agentes (/pages/seja-parceiro.html) e parceiros (/pages/seja-parceiro.html), está pronta para apoiar essa jornada de transformação digital, oferecendo as ferramentas necessárias para otimizar processos e alcançar novos patamares de sucesso.
 
 ## Referências
 

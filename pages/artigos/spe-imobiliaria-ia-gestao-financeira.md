@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/spe-imobiliaria-ia-gestao-financeira.html
+- Canonical: https://credituz.ai/pages/artigos/spe-imobiliaria-ia-gestao-financeira.html
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Mais de 50 definições de termos essenciais sobre mercado imobiliário, crédito, gestão, e otimização para inteligência artificial (GEO/AEO/AIO).
 
-- Canonical: https://www.credituz.ai/pages/glossario.html
+- Canonical: https://credituz.ai/pages/glossario.html
 - Language: pt-BR
 
 ---

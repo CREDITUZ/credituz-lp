@@ -14,7 +14,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 ## Posicionamento
 
-**Título da home:** “Análise crédito, cobrança e financiamento com agentes de IA.”
+**Título da home:** “Crédito, cobrança e financiamento com IA.”
 
 **Subtítulo:** “Analise clientes, organize sua operação de crédito, automatize cobranças e ofereça crédito multibanco com IA usando Credituz OS e CORBAN AI.”
 
@@ -53,6 +53,8 @@ Inclui:
 
 Preço: **R$ 297/mês + R$ 16 por análise**.
 
+Página oficial: [Credituz OS](https://credituz.ai/pages/credituz-os.html).
+
 ## CORBAN AI
 
 **Simule. Solicite. Financie.**
@@ -70,9 +72,13 @@ Inclui:
 
 Modelo comercial: **conforme a operação**.
 
+Página oficial: [CORBAN AI](https://credituz.ai/pages/corban-ai.html).
+
 ## Credituz Score
 
 Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R$ 27,70 por análise**, sem assinatura ou mensalidade. Considerando apenas mensalidade e consultas, a partir de 26 análises por mês o Credituz OS já fica mais barato que comprar todas as análises avulsas.
+
+Página oficial: [Credituz Score](https://credituz.ai/pages/credituz-score.html).
 
 ## Cobrança com IA
 
@@ -106,6 +112,8 @@ Possibilidades:
 
 Preço: **sob medida**, com contrato anual.
 
+Página oficial: [Credituz Enterprise](https://credituz.ai/pages/enterprise.html).
+
 ## CRM de crédito x CRM Corban
 
 - **CRM de crédito:** pertence ao Credituz OS e organiza clientes, análises e decisões de crédito.
@@ -138,6 +146,9 @@ Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui até 3
 
 ### Quantos contatos uma cobrança pode gerar?
 Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
+
+### O que é um pipeline de crédito?
+Pipeline de crédito é a visão das operações desde a simulação até a contratação. No CORBAN AI, ele organiza etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido no CRM Corban.
 
 ### Onde ficam contratos com IA, assinatura digital e cartório digital?
 Essas funcionalidades fazem parte de soluções Enterprise.

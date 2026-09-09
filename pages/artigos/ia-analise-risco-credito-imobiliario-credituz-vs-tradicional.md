@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.html
+- Canonical: https://credituz.ai/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.html
 
 ---
 

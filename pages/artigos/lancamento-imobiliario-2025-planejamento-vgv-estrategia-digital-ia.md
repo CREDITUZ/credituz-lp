@@ -4,7 +4,7 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
+- Canonical: https://credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
 
 ---
 
@@ -61,7 +61,7 @@ A Inteligência Artificial não é mais uma promessa futurista, mas uma realidad
 
 O mercado imobiliário em 2025 é um ecossistema vibrante, repleto de oportunidades para incorporadoras que souberem aliar um planejamento estratégico sólido a uma visão inovadora. A resiliência demonstrada pelo setor, os recordes de lançamentos e vendas, e a crescente adoção de tecnologias digitais e Inteligência Artificial, apontam para um futuro de contínuo crescimento e transformação.
 
-Para se manterem competitivas, as incorporadoras devem investir em conhecimento, tecnologia e na construção de relacionamentos duradouros com seus clientes. A Credituz, com suas soluções de CRM e simulação de crédito, está pronta para ser sua parceira nessa jornada, oferecendo as ferramentas necessárias para otimizar seus processos e impulsionar seus resultados. Conheça nossas soluções em [credituz.com.br/crm](/crm) e [credituz.com.br/simulador](/simulador).
+Para se manterem competitivas, as incorporadoras devem investir em conhecimento, tecnologia e na construção de relacionamentos duradouros com seus clientes. A Credituz, com suas soluções de CRM e simulação de crédito, está pronta para ser sua parceira nessa jornada, oferecendo as ferramentas necessárias para otimizar seus processos e impulsionar seus resultados. Conheça nossas soluções em [credituz.com.br/crm](/pages/crm-de-credito.html) e [credituz.com.br/simulador](/pages/corban-ai.html).
 
 ## Referências Bibliográficas
 

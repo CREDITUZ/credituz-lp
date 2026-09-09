@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.html
+- Canonical: https://credituz.ai/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.html
 
 ---
 
@@ -96,6 +96,6 @@ O Agente Carlos (IA de Crédito) da Credituz analisa o perfil do cliente e reali
 
 [2] FACILITA. Facilita Vendas Incorporadora. Goiânia: Facilita, 2024. Disponível em: https://www.appfacilita.com/facilita-vendas-incorporadora/. Acesso em: 20 abr. 2026.
 
-[3] CREDITUZ. Credituz AI — AI-First Real Estate. São Paulo: Credituz, 2026. Disponível em: https://www.credituz.ai/. Acesso em: 20 abr. 2026.
+[3] CREDITUZ. Credituz AI — AI-First Real Estate. São Paulo: Credituz, 2026. Disponível em: https://credituz.ai/. Acesso em: 20 abr. 2026.
 
 [4] BANCO CENTRAL DO BRASIL (BACEN). Informações do Mercado Imobiliário. Brasília: BACEN, 2026. Disponível em: https://www.bcb.gov.br/estatisticas/mercadoimobiliario. Acesso em: 20 abr. 2026.

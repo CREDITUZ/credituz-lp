@@ -4,7 +4,7 @@
 
 - Categoria: Gestão
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/gestao-financeira-incorporadoras-fluxo-de-caixa-dre-ia.html
+- Canonical: https://credituz.ai/pages/artigos/gestao-financeira-incorporadoras-fluxo-de-caixa-dre-ia.html
 
 ---
 
@@ -35,7 +35,7 @@ A proteção do caixa é vital. Estratégias incluem [2]:
 *   **Renegociação de Contratos:** Com suporte jurídico.
 *   **Revisão de Custos:** Reavaliar contratos e buscar eficiência.
 
-Para otimizar o fluxo de caixa, utilize um [simulador de financiamento imobiliário](/simulador) ou um [CRM para incorporadoras](/crm) para integrar dados e obter insights.
+Para otimizar o fluxo de caixa, utilize um [simulador de financiamento imobiliário](/pages/corban-ai.html) ou um [CRM para incorporadoras](/pages/crm-de-credito.html) para integrar dados e obter insights.
 
 ### Erros Comuns a Evitar na Gestão do Fluxo de Caixa
 
@@ -91,7 +91,7 @@ Benefícios da IA no controle de custos:
 *   **Tomada de Decisão Aprimorada:** Insights baseados em dados.
 *   **Maior Precisão:** Previsões de custos e orçamentos mais realistas.
 
-Incorporadoras que buscam inovação podem considerar parcerias com [agentes de IA](/agentes) ou soluções tecnológicas. Desenvolvedores de IA para o setor podem [ser um parceiro Credituz](/seja-parceiro).
+Incorporadoras que buscam inovação podem considerar parcerias com [agentes de IA](/pages/seja-parceiro.html) ou soluções tecnológicas. Desenvolvedores de IA para o setor podem [ser um parceiro Credituz](/pages/seja-parceiro.html).
 
 ## A Tecnologia como Pilar Fundamental da Gestão
 

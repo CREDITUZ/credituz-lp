@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.html
+- Canonical: https://credituz.ai/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.html
 
 ---
 
@@ -45,7 +45,7 @@ Devido à complexidade do setor imobiliário brasileiro, as Proptechs atuam em d
 *   **Marketplaces:** Plataformas que conectam compradores e vendedores de imóveis, ampliando o alcance dos anúncios e facilitando a busca por propriedades.
 *   **Ferramentas de Inteligência de Dados:** Soluções que utilizam dados para auxiliar nas fases de estudo, planejamento, execução da obra e comercialização de imóveis, oferecendo insights valiosos para construtoras e incorporadoras.
 *   **Tecnologias de Visualização de Imóveis e Experiência do Cliente:** Incluem realidade aumentada, realidade virtual e digital twins, que proporcionam experiências imersivas e detalhadas dos imóveis, mesmo à distância.
-*   **Ferramentas de Gestão e Relacionamento com o Cliente (CRMs Imobiliários):** CRMs avançados que contemplam toda a jornada de vendas imobiliárias, integrando diversas soluções para formar um ecossistema robusto para a construção civil. Um exemplo de link interno relevante aqui seria para a página do [CRM da Credituz](/crm).
+*   **Ferramentas de Gestão e Relacionamento com o Cliente (CRMs Imobiliários):** CRMs avançados que contemplam toda a jornada de vendas imobiliárias, integrando diversas soluções para formar um ecossistema robusto para a construção civil. Um exemplo de link interno relevante aqui seria para a página do [CRM da Credituz](/pages/crm-de-credito.html).
 
 ## Startups Brasileiras que se Destacam no Cenário Proptech
 

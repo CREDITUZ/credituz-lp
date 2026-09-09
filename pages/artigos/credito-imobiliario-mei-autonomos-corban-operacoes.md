@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-18
-- Canonical: https://www.credituz.ai/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.html
+- Canonical: https://credituz.ai/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.html
 
 ---
 

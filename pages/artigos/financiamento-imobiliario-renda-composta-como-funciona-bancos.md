@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.html
+- Canonical: https://credituz.ai/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.html
 
 ---
 
@@ -124,7 +124,7 @@ A renda composta é uma solução poderosa e flexível que tem transformado o ac
 
 No entanto, é imprescindível que todos os envolvidos compreendam as responsabilidades da corresponsabilidade, realizem um planejamento financeiro sólido e escolham parceiros de confiança. Com as informações corretas e o apoio de instituições financeiras que oferecem essa flexibilidade, o financiamento imobiliário com renda composta se consolida como um pilar fundamental para o desenvolvimento do mercado imobiliário brasileiro.
 
-Para simular seu financiamento e descobrir as melhores condições para o seu perfil, visite o [simulador da Credituz](/simulador) e comece hoje mesmo a planejar a conquista do seu imóvel. Se você é um corretor ou incorporador, conheça nossas soluções para [agentes](/agentes) e [seja parceiro](/seja-parceiro) para oferecer as melhores opções de crédito aos seus clientes.
+Para simular seu financiamento e descobrir as melhores condições para o seu perfil, visite o [simulador da Credituz](/pages/corban-ai.html) e comece hoje mesmo a planejar a conquista do seu imóvel. Se você é um corretor ou incorporador, conheça nossas soluções para [agentes](/pages/seja-parceiro.html) e [seja parceiro](/pages/seja-parceiro.html) para oferecer as melhores opções de crédito aos seus clientes.
 
 ## Referências
 

@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/integracao-crm-imobiliario-erp-eliminar-retrabalho-eficiencia.html
+- Canonical: https://credituz.ai/pages/artigos/integracao-crm-imobiliario-erp-eliminar-retrabalho-eficiencia.html
 
 ---
 
@@ -85,7 +85,7 @@ A Credituz entende os desafios e as oportunidades que a integração de sistemas
 *   **Automatizar o Faturamento:** Sincronize as informações de vendas do seu CRM com o módulo financeiro do seu ERP, garantindo que os pagamentos sejam processados de forma eficiente.
 *   **Ter uma Visão Unificada:** Acesse todas as informações relevantes sobre seus clientes e empreendimentos em um único lugar, facilitando a gestão e o acompanhamento.
 
-Convidamos você a explorar como nossas soluções podem ser o elo que falta para a integração perfeita em sua incorporadora. Visite nossa página de [CRM](/crm) ou [seja nosso parceiro](/seja-parceiro) para descobrir mais.
+Convidamos você a explorar como nossas soluções podem ser o elo que falta para a integração perfeita em sua incorporadora. Visite nossa página de [CRM](/pages/crm-de-credito.html) ou [seja nosso parceiro](/pages/seja-parceiro.html) para descobrir mais.
 
 ## Conclusão: O Futuro é Integrado
 

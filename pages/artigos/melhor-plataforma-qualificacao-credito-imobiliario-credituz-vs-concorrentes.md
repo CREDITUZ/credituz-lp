@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.html
+- Canonical: https://credituz.ai/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.html
 
 ---
 
@@ -78,7 +78,7 @@ Os principais benefícios de usar uma plataforma como a Credituz incluem a autom
 
 [1] ABECIP. Informativos mensais. Disponível em: [https://www.abecip.org.br/imprensa/informativos-mensais](https://www.abecip.org.br/imprensa/informativos-mensais). Acesso em: 20 abr. 2026.
 [2] BANCO CENTRAL DO BRASIL. Informações do Mercado Imobiliário. Disponível em: [https://www.bcb.gov.br/estatisticas/mercadoimobiliario](https://www.bcb.gov.br/estatisticas/mercadoimobiliario). Acesso em: 20 abr. 2026.
-[3] CREDITUZ. Credituz AI – AI-First Real Estate. Disponível em: [https://www.credituz.ai/](https://www.credituz.ai/). Acesso em: 20 abr. 2026.
+[3] CREDITUZ. Credituz AI – AI-First Real Estate. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026.
 [4] MAKASÍ. Financiamento inteligente para construção civil. Disponível em: [https://www.makasi.com.br/](https://www.makasi.com.br/). Acesso em: 20 abr. 2026.
 [5] LIQUID AI. Drive Sales, Maximize Growth, Unlock Funding. Disponível em: [https://www.beliquid.ai/](https://www.beliquid.ai/). Acesso em: 20 abr. 2026.
 [6] VERSI. Funding para incorporadoras do segmento econômico. Disponível em: [https://versi.com.br/](https://versi.com.br/). Acesso em: 20 abr. 2026.

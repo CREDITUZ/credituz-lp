@@ -4,7 +4,7 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/ferramentas-automacao-corretores-credituz-vs-activecampaign-vs-brevo.html
+- Canonical: https://credituz.ai/pages/artigos/ferramentas-automacao-corretores-credituz-vs-activecampaign-vs-brevo.html
 
 ---
 
@@ -93,7 +93,7 @@ A automação aumenta as vendas de imóveis de diversas formas: otimiza a qualif
 
 ## Referências
 
-[1] Credituz AI. **AI-First Real Estate | Crédito Imobiliário com IA**. Disponível em: https://www.credituz.ai/. Acesso em: 20 abr. 2026.
+[1] Credituz AI. **AI-First Real Estate | Crédito Imobiliário com IA**. Disponível em: https://credituz.ai/. Acesso em: 20 abr. 2026.
 [2] ActiveCampaign. **Plataforma de automação de marketing para o setor imobiliário**. Disponível em: https://www.activecampaign.com/br/industry/real-estate. Acesso em: 20 abr. 2026.
 [3] Brevo. **Faça seu negócio crescer, sem estourar o orçamento**. Disponível em: https://www.brevo.com/pt/solutions/small-business/. Acesso em: 20 abr. 2026.
 [4] Brevo. **6 Ways to Use Real Estate Marketing Automation to Close More Deals**. Disponível em: https://www.brevo.com/blog/real-estate-marketing-automation/. Acesso em: 20 abr. 2026.

@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
+- Canonical: https://credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
 
 ---
 
@@ -66,7 +66,7 @@ Antes de iniciar o processo, é fundamental ter clareza sobre as condições do 
 
 #### Passo 2: Pesquise e Compare Ofertas
 
-Com as informações do seu contrato em mãos, procure outras instituições financeiras e solicite simulações de portabilidade. Não se limite a um ou dois bancos; explore o máximo de opções para encontrar a melhor oferta. Compare não apenas a taxa de juros, mas também o Custo Efetivo Total (CET), que inclui todas as taxas e encargos da operação. A Credituz oferece ferramentas e assessoria para auxiliar nessa pesquisa e comparação, garantindo que você encontre as condições mais vantajosas. [Simulador Credituz](/simulador)
+Com as informações do seu contrato em mãos, procure outras instituições financeiras e solicite simulações de portabilidade. Não se limite a um ou dois bancos; explore o máximo de opções para encontrar a melhor oferta. Compare não apenas a taxa de juros, mas também o Custo Efetivo Total (CET), que inclui todas as taxas e encargos da operação. A Credituz oferece ferramentas e assessoria para auxiliar nessa pesquisa e comparação, garantindo que você encontre as condições mais vantajosas. [Simulador Credituz](/pages/corban-ai.html)
 
 #### Passo 3: Solicite a Portabilidade
 
@@ -104,7 +104,7 @@ Embora a portabilidade seja isenta de algumas taxas, como o IOF (Imposto sobre O
 Para garantir que a portabilidade seja realmente vantajosa, siga estas dicas:
 
 *   **Planejamento Financeiro:** Analise suas finanças a fundo para entender o impacto da portabilidade no seu orçamento mensal e de longo prazo.
-*   **Assessoria Especializada:** Contar com o apoio de uma empresa como a Credituz pode fazer toda a diferença. Nossos especialistas podem ajudar na análise das propostas, na negociação com os bancos e na organização da documentação, simplificando o processo para você. [Seja Parceiro Credituz](/seja-parceiro)
+*   **Assessoria Especializada:** Contar com o apoio de uma empresa como a Credituz pode fazer toda a diferença. Nossos especialistas podem ajudar na análise das propostas, na negociação com os bancos e na organização da documentação, simplificando o processo para você. [Seja Parceiro Credituz](/pages/seja-parceiro.html)
 *   **Atenção aos Detalhes do Contrato:** Não hesite em questionar qualquer ponto que não esteja claro no novo contrato. Conhecer seus direitos e deveres é fundamental.
 
 ### Conclusão

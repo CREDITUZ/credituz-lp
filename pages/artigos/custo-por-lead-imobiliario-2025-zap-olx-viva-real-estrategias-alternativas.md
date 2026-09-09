@@ -4,7 +4,7 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
+- Canonical: https://credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
 
 ---
 
@@ -93,6 +93,6 @@ O mercado de leads imobiliários em 2025 exige uma abordagem estratégica e adap
 
 ## Referências
 
-[1] Credituz AI. Custo por Lead Imobiliário nos Portais em 2025: ZAP, OLX, Viva Real e Estratégias Alternativas. Disponível em: [https://www.credituz.ai/blog/custo-lead-imobiliario-portais-2025](https://www.credituz.ai/blog/custo-lead-imobiliario-portais-2025). Acesso em: 19 abr. 2026.
+[1] Credituz AI. Custo por Lead Imobiliário nos Portais em 2025: ZAP, OLX, Viva Real e Estratégias Alternativas. Disponível em: [https://credituz.ai/blog/custo-lead-imobiliario-portais-2025](https://credituz.ai/blog/custo-lead-imobiliario-portais-2025). Acesso em: 19 abr. 2026.
 [2] SECOVI-SP. Anuário do Mercado Imobiliário 2024. Disponível em: [https://secovi.com.br/wp-content/uploads/2025/03/anuario-secovisp-2024.pdf](https://secovi.com.br/wp-content/uploads/2025/03/anuario-secovisp-2024.pdf). Acesso em: 19 abr. 2026.
 [3] Banco Central do Brasil. Informações do Mercado Imobiliário. Disponível em: [https://www.bcb.gov.br/estatisticas/mercadoimobiliario](https://www.bcb.gov.br/estatisticas/mercadoimobiliario). Acesso em: 19 abr. 2026.

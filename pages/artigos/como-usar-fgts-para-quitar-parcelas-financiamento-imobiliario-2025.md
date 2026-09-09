@@ -4,7 +4,7 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
-- Canonical: https://www.credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
+- Canonical: https://credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
 
 ---
 
@@ -84,8 +84,8 @@ Para construtores e incorporadores, o uso do FGTS para quitar ou amortizar finan
 Corretores de imóveis são fundamentais na jornada de compra. Estar bem-informado sobre as regras e aplicações do FGTS otimiza o trabalho e gera mais vendas.
 
 *   **Orientar Clientes sobre as Regras:** Eduque seus clientes sobre os requisitos e modalidades do FGTS. Uma simulação do impacto do FGTS no financiamento é um poderoso argumento de venda.
-*   **Ferramentas de Simulação:** Utilize ferramentas de simulação de financiamento com cálculo do FGTS. A Credituz oferece um [simulador](/simulador) completo que auxilia clientes a visualizar o impacto do FGTS nas parcelas e no saldo devedor, facilitando a decisão e agilizando o processo.
-*   **Parceria com a Credituz:** Para corretores que buscam otimizar o trabalho e oferecer as melhores soluções financeiras, a parceria com a Credituz é um diferencial. Conheça as vantagens de [ser um parceiro Credituz](/seja-parceiro) e acesse ferramentas e suporte especializado.
+*   **Ferramentas de Simulação:** Utilize ferramentas de simulação de financiamento com cálculo do FGTS. A Credituz oferece um [simulador](/pages/corban-ai.html) completo que auxilia clientes a visualizar o impacto do FGTS nas parcelas e no saldo devedor, facilitando a decisão e agilizando o processo.
+*   **Parceria com a Credituz:** Para corretores que buscam otimizar o trabalho e oferecer as melhores soluções financeiras, a parceria com a Credituz é um diferencial. Conheça as vantagens de [ser um parceiro Credituz](/pages/seja-parceiro.html) e acesse ferramentas e suporte especializado.
 
 ### Conclusão
 

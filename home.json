@@ -5,7 +5,23 @@
       "@type": "Organization",
       "@id": "https://credituz.ai/#organization",
       "name": "Credituz",
+      "legalName": "Credituz Tecnologia Ltda",
+      "taxID": "51.934.531/0001-92",
       "url": "https://credituz.ai/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://credituz.ai/icon-512.png",
+        "width": 512,
+        "height": 512
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. Rebouças, 1585",
+        "addressLocality": "São Paulo",
+        "addressRegion": "SP",
+        "postalCode": "05401-200",
+        "addressCountry": "BR"
+      },
       "description": "Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas.",
       "foundingDate": "2023",
       "founder": [
@@ -77,6 +93,7 @@
         {
           "@type": "Offer",
           "name": "Credituz Score",
+          "url": "https://credituz.ai/pages/credituz-score.html",
           "price": "27.70",
           "priceCurrency": "BRL",
           "description": "Análise de crédito avulsa, sem assinatura ou mensalidade."
@@ -84,6 +101,7 @@
         {
           "@type": "Offer",
           "name": "Credituz OS",
+          "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
           "description": "R$ 297 por mês mais R$ 16 por análise, para até 3 usuários. Inclui análise de crédito, CRM de crédito e até 300 cobranças por mês. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
@@ -91,12 +109,14 @@
         {
           "@type": "Offer",
           "name": "CORBAN AI",
+          "url": "https://credituz.ai/pages/corban-ai.html",
           "priceCurrency": "BRL",
           "description": "Embedded credit com simulação multibanco, pedido de crédito e CRM Corban. Modelo comercial conforme a operação."
         },
         {
           "@type": "Offer",
           "name": "Enterprise",
+          "url": "https://credituz.ai/pages/enterprise.html",
           "priceCurrency": "BRL",
           "description": "Infraestrutura financeira e gestão operacional sob medida, podendo combinar Credituz OS, CORBAN AI, construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
         }
@@ -162,6 +182,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Na Credituz, uma cobrança é uma régua completa, e não uma mensagem isolada. Cada cobrança inclui até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é um pipeline de crédito?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pipeline de crédito é a visão das operações desde a simulação até a contratação. No CORBAN AI, ele organiza etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido no CRM Corban."
           }
         },
         {
