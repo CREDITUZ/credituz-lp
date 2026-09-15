@@ -1,0 +1,82 @@
+name: Adicionar Incorporador OS
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/add-incorporador-os-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  add-incorporador-os:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Atualizar portfolio e navegacao
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          def replace_once(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              if old not in text:
+                  raise SystemExit(f'Texto nao encontrado em {path}: {old[:120]}')
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          replace_once(
+              'index.html',
+              '                    <li><a href="./pages/corban-ai.html">CORBAN AI</a></li>\n                    <li><a href="/pages/credituz-score.html">Credituz Score</a></li>',
+              '                    <li><a href="./pages/corban-ai.html">CORBAN AI</a></li>\n                    <li><a href="https://viabilidade.credituz.ai/" data-track="nav_incorporador_os">Incorporador OS</a></li>\n                    <li><a href="/pages/credituz-score.html">Credituz Score</a></li>'
+          )
+
+          replace_once(
+              'scripts/translate_en.py',
+              '    "Credituz OS", "CORBAN AI", "Credituz Score", "Credituz Enterprise",',
+              '    "Credituz OS", "CORBAN AI", "Incorporador OS", "Credituz Score", "Credituz Enterprise",'
+          )
+
+          replace_once(
+              'home.md',
+              '- **CORBAN AI:** embedded credit + simulação multibanco + pedido de crédito + CRM Corban.\n- **Enterprise:**',
+              '- **CORBAN AI:** embedded credit + simulação multibanco + pedido de crédito + CRM Corban.\n- **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.\n- **Enterprise:**'
+          )
+
+          replace_once(
+              'home.en.md',
+              '- **CORBAN AI:** embedded credit + multi-bank simulation + credit application + Corban CRM.\n- **Enterprise:**',
+              '- **CORBAN AI:** embedded credit + multi-bank simulation + credit application + Corban CRM.\n- **Incorporador OS:** From land analysis to the investment decision, the full feasibility of the development in one place. Visit https://viabilidade.credituz.ai/.\n- **Enterprise:**'
+          )
+
+          replace_once(
+              'llms-full.txt',
+              '- **CORBAN AI:** embedded credit + simulação multibanco + pedido de crédito + CRM Corban.\n- **Enterprise:**',
+              '- **CORBAN AI:** embedded credit + simulação multibanco + pedido de crédito + CRM Corban.\n- **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.\n- **Enterprise:**'
+          )
+
+          replace_once(
+              'llms.txt',
+              '- [CORBAN AI](https://credituz.ai/pages/corban-ai.html): embedded credit, simulação multibanco, pedido de crédito e CRM Corban\n- [Credituz Enterprise]',
+              '- [CORBAN AI](https://credituz.ai/pages/corban-ai.html): embedded credit, simulação multibanco, pedido de crédito e CRM Corban\n- [Incorporador OS](https://viabilidade.credituz.ai/): da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar\n- [Credituz Enterprise]'
+          )
+          PY
+
+      - name: Remover workflow temporario
+        run: rm .github/workflows/add-incorporador-os-once.yml
+
+      - name: Commit e push
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html scripts/translate_en.py home.md home.en.md llms.txt llms-full.txt .github/workflows/add-incorporador-os-once.yml
+          git commit -m "feat(home): adiciona Incorporador OS ao portfolio e menu"
+          git pull --rebase origin main
+          git push origin main
