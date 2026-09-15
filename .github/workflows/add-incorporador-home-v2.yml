@@ -1,0 +1,48 @@
+name: Atualizar home com Incorporador OS
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/add-incorporador-home-v2.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gerar imagem
+        run: base64 -d .tmp/incorporador-os/image-tiny.b64 > assets/incorporador-os-waterfall.webp
+
+      - name: Atualizar HTML
+        run: python3 .tmp/incorporador-os/update_home.py
+
+      - name: Validar
+        run: |
+          test -s assets/incorporador-os-waterfall.webp
+          grep -q 'id="incorporador-os"' index.html
+          grep -q 'id="ecossistema"' index.html
+          git diff --check
+
+      - name: Limpar arquivos temporarios
+        run: |
+          rm -rf .tmp/incorporador-os
+          rm -f .github/workflows/add-incorporador-home-once.yml
+          rm -f .github/workflows/add-incorporador-home-v2.yml
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "feat(home): destaca Incorporador OS e jornada imobiliaria"
+          git pull --rebase origin main
+          git push origin main
