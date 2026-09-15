@@ -29,6 +29,7 @@ A arquitetura comercial separa claramente os produtos:
 
 - **Credituz OS:** análise de crédito + CRM de crédito + cobrança com IA.
 - **CORBAN AI:** embedded credit + simulação multibanco + pedido de crédito + CRM Corban.
+- **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
 - **Enterprise:** infraestrutura financeira e gestão operacional sob medida, podendo combinar Credituz OS, CORBAN AI e módulos específicos.
 - **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
 

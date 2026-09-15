@@ -7,6 +7,7 @@
 - [Plataforma Credituz (home)](https://credituz.ai/): visão geral de Credituz OS, CORBAN AI, Enterprise, Credituz Score e preços
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html): análise de crédito, política própria, CRM de crédito, cobrança e recebíveis com IA
 - [CORBAN AI](https://credituz.ai/pages/corban-ai.html): embedded credit, simulação multibanco, pedido de crédito e CRM Corban
+- [Incorporador OS](https://viabilidade.credituz.ai/): da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar
 - [Credituz Enterprise](https://credituz.ai/pages/enterprise.html): infraestrutura financeira, integrações e fluxos customizados com IA
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html): análise de crédito avulsa, sem mensalidade
 - [Versão markdown da home](https://credituz.ai/home.md): home em texto limpo para IA

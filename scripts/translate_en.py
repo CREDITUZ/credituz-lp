@@ -51,7 +51,7 @@ LEGAL_BASENAMES = {
 }
 
 PROTECT = [
-    "Credituz OS", "CORBAN AI", "Credituz Score", "Credituz Enterprise",
+    "Credituz OS", "CORBAN AI", "Incorporador OS", "Credituz Score", "Credituz Enterprise",
     "Enterprise", "Credituz", "WhatsApp", "Sienge", "UAU", "Open Finance",
     "ICP-Brasil", "BACEN", "NFe", "Open Banking", "Microsoft for Startups",
     "Google for Startups", "Salesforce", "HubSpot", "Meta", "Google",
