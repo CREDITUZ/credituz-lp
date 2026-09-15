@@ -1,0 +1,54 @@
+name: Atualizar proofbar da LP
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-proofbar-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-proofbar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Atualizar textos da proofbar
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('index.html')
+          text = path.read_text(encoding='utf-8')
+
+          replacements = {
+              'conectadas para simular crédito': 'simular e solicitar crédito em poucos segundos',
+              '<span class="pb-num">+40</span><span class="pb-lbl">operações usando a plataforma</span>': '<span class="pb-num">+100</span><span class="pb-lbl">clientes crescendo com a Credituz</span>',
+          }
+
+          for old, new in replacements.items():
+              if old not in text:
+                  raise SystemExit(f'Texto nao encontrado: {old}')
+              text = text.replace(old, new, 1)
+
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Remover workflow temporario
+        run: rm .github/workflows/update-proofbar-once.yml
+
+      - name: Commit e push
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html .github/workflows/update-proofbar-once.yml
+          git commit -m "feat(home): atualiza indicadores da proofbar"
+          git pull --rebase origin main
+          git push origin main
