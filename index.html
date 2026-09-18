@@ -4337,6 +4337,75 @@ h1 em, h2 em, h3 em, .hero-title em {
 <style id="seo-product-links">
 .arch-detail{display:inline-flex;margin-top:14px;color:var(--lime);font-size:14px;font-weight:750;text-decoration:none}.arch-detail:hover{text-decoration:underline}.arch-detail-light{display:block;color:var(--accent-bright)}
 </style>
+<style id="btn-beam-solicitar-credito">
+/* --- Botao "Solicitar credito": fundo metalico e um feixe azul girando na
+   borda. O anel e um pseudo-elemento com conic-gradient recortado por mascara,
+   entao so a borda recebe o feixe. */
+@property --beam-angle { syntax: '<angle>'; initial-value: 0deg; inherits: false; }
+@keyframes beam-spin { to { --beam-angle: 360deg; } }
+.btn-beam {
+    position: relative;
+    isolation: isolate;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    /* Fundo metalico: faixa escura no meio do degrade imita o reflexo de uma
+       superficie escovada, e os fios internos dao o volume. */
+    background: linear-gradient(180deg, #ffffff 0%, #eef0f3 38%, #dfe2e7 52%, #e9ebef 70%, #f7f8fa 100%);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95),
+                inset 0 -1px 0 rgba(29, 29, 31, 0.06),
+                0 1px 2px rgba(29, 29, 31, 0.08),
+                0 6px 16px rgba(29, 29, 31, 0.06);
+    color: var(--lime);
+    border: 0;
+    border-radius: 100px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.btn-beam::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    padding: 1.5px;
+    border-radius: inherit;
+    background:
+        conic-gradient(from var(--beam-angle), transparent 0 62%, rgba(0, 113, 227, 0.9) 80%, #6bb2ff 90%, transparent 100%),
+        linear-gradient(rgba(0, 113, 227, 0.22), rgba(0, 113, 227, 0.22));
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    animation: beam-spin 3s linear infinite;
+}
+.btn-beam:hover { transform: scale(1.02); }
+.hero-actions .btn-beam { height: 56px; padding: 0 28px; font-size: 16px; }
+nav ul a.nav-beam { height: 40px; padding: 0 16px; margin-left: 8px; color: var(--lime); }
+nav ul a.nav-beam:hover { background: linear-gradient(180deg, #ffffff 0%, #eef0f3 38%, #dfe2e7 52%, #e9ebef 70%, #f7f8fa 100%); color: var(--lime-deep); }
+nav.on-dark ul a.nav-beam,
+nav.on-dark ul a.nav-beam:hover {
+    color: #f5f5f7;
+    background: linear-gradient(180deg, #4a4a50 0%, #2c2c30 45%, #1d1d1f 55%, #333338 100%);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.18), inset 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+nav.on-dark .btn-beam::before {
+    background:
+        conic-gradient(from var(--beam-angle), transparent 0 62%, #6bb2ff 80%, #ffffff 90%, transparent 100%),
+        linear-gradient(rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.18));
+}
+@media (max-width: 1024px) {
+    #navMenu a.nav-beam { display: flex; height: 52px; margin: 14px 0 0; border-bottom: 0; font-size: 16px; color: var(--lime); }
+}
+@media (max-width: 768px) {
+    .hero-actions .btn-beam { width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .btn-beam::before { animation: none; --beam-angle: 120deg; }
+}
+</style>
 </head>
 <body id="top">
 
@@ -4371,6 +4440,7 @@ h1 em, h2 em, h3 em, .hero-title em {
             <li><a href="#pricing">Preços</a></li>
             <li><a href="./pages/blog.html">Conteúdo</a></li>
             <li class="nav-lang"><a href="https://credituz.ai/en/" data-track="lang_en" aria-label="View in English">🇺🇸 EN</a></li>
+            <li><a href="https://dashboard.usecredituz.com/o/crdtz/credit/landing/embed" class="btn-beam nav-beam" target="_blank" rel="noopener" data-credituz-link data-track="cta_nav_credit">Solicitar crédito</a></li>
             <li><a href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=saas-credituzai" class="nav-cta" target="_blank" rel="noopener" data-track="cta_nav">Começar agora</a></li>
         </ul>
     </div>
@@ -4389,6 +4459,7 @@ h1 em, h2 em, h3 em, .hero-title em {
             Começar com Credituz OS
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
         </a>
+        <a href="https://dashboard.usecredituz.com/o/crdtz/credit/landing/embed" id="simular-credito" class="btn-beam" target="_blank" rel="noopener" data-track="cta_hero_credit">Solicitar crédito</a>
         <a href="https://wa.me/5511936209409" class="btn-secondary" target="_blank" rel="noopener" data-track="cta_hero_demo">
             <svg class="ic-whatsapp" width="17" height="17" viewBox="0 0 26 26" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.163818 12.8867C0.166664 5.81256 5.94855 0.0588226 13.0527 0.0588226C16.4986 0.0602377 19.7359 1.39611 22.1691 3.82048C24.6023 6.24484 25.9425 9.46952 25.9412 12.897C25.9383 19.9711 20.156 25.7255 13.0526 25.7255C10.9484 25.7248 8.8827 25.2146 7.0352 24.2426L0.582186 25.9272C0.27122 26.0084 -0.010998 25.7225 0.0742471 25.4126L1.79752 19.1482C0.725028 17.2382 0.162919 15.0869 0.163818 12.8867ZM13.0463 23.4359H13.042C11.1611 23.4352 9.31626 22.9322 7.70688 21.9817L7.32411 21.7556L3.35691 22.7914L4.41576 18.9417L4.16659 18.547C3.11733 16.886 2.56313 14.9663 2.56399 12.9951C2.56629 7.24319 7.26856 2.5636 13.0505 2.5636C15.8502 2.56454 18.482 3.65114 20.4612 5.62307C22.4402 7.59489 23.5294 10.216 23.5283 13.0035C23.526 18.7559 18.8237 23.4359 13.0463 23.4359ZM16.5806 14.4974C16.8678 14.6029 18.4084 15.3667 18.7217 15.5247C18.7829 15.5556 18.84 15.5834 18.893 15.6092C19.1116 15.7156 19.2593 15.7875 19.3223 15.8935C19.4006 16.0252 19.4006 16.6574 19.1395 17.3951C18.8784 18.1326 17.6265 18.8058 17.0245 18.8964C16.4846 18.9777 15.8015 19.0116 15.0509 18.7713C14.5958 18.6258 14.0121 18.4315 13.2645 18.1061C10.3272 16.8281 8.34221 13.9596 7.96671 13.4169C7.94028 13.3789 7.92191 13.3522 7.91159 13.3384L7.90913 13.335C7.74332 13.1122 6.63209 11.6183 6.63209 10.0721C6.63209 8.6177 7.34113 7.85529 7.66749 7.50441C7.68983 7.48025 7.71041 7.45822 7.72879 7.43791C8.01609 7.12193 8.35562 7.04293 8.56454 7.04293C8.77326 7.04293 8.98238 7.04481 9.16504 7.05399C9.18746 7.05512 9.21099 7.05497 9.23519 7.05483C9.41784 7.05377 9.64551 7.05245 9.86997 7.59587C9.95621 7.80473 10.0823 8.11403 10.2153 8.44025C10.4852 9.10239 10.7836 9.83472 10.8361 9.94053C10.9145 10.0985 10.9667 10.2829 10.8622 10.4937C10.8466 10.5253 10.8321 10.5551 10.8182 10.5836C10.7398 10.745 10.6821 10.8637 10.5489 11.0204C10.4968 11.0818 10.4429 11.1479 10.389 11.2141C10.281 11.3466 10.1729 11.4792 10.0789 11.5736C9.92196 11.731 9.75866 11.9019 9.94147 12.218C10.1243 12.5341 10.7532 13.5681 11.6846 14.4053C12.686 15.3054 13.5563 15.6858 13.9974 15.8786C14.0835 15.9162 14.1533 15.9467 14.2045 15.9725C14.5178 16.1307 14.7007 16.1042 14.8834 15.8935C15.0662 15.6828 15.6667 14.9715 15.8756 14.6554C16.0845 14.3395 16.2934 14.3921 16.5806 14.4974Z"/></svg>
             Falar com um especialista
@@ -6574,6 +6645,16 @@ footer { background: var(--void); }
   },true);
   push('landing_view',{ref:(new URLSearchParams(location.search)).get('ref')||'saas-credituzai'});
 })();
+</script>
+<!-- Formulario de proposta de credito da Credituz: abre em janela sobreposta ao
+     clicar em #simular-credito (hero) ou em [data-credituz-link] (nav). O href
+     dos botoes e so o fallback caso o script nao carregue. -->
+<script src="https://dashboard.usecredituz.com/embed/embed.js" async></script>
+<script>
+  (window.Credituz = window.Credituz || []).push(["trigger", {
+    url: "https://dashboard.usecredituz.com/o/crdtz/credit/landing/embed",
+    selector: "#simular-credito"
+  }])
 </script>
 </body>
 </html>
