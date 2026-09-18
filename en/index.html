@@ -354,7 +354,10 @@ body {
         right: auto;
         left: auto;
         opacity: 1;
-        visibility: visible;
+        /* `inherit`, nao `visible`: filho `visible` aparece mesmo com o pai
+           `hidden`, e com o menu fechado os links ficavam invisiveis (opacidade
+           0 do #navMenu) mas clicaveis por cima do hero. */
+        visibility: inherit;
         transform: none;
         box-shadow: none;
         border: none;
