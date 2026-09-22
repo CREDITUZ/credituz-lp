@@ -14,7 +14,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 ## Posicionamento
 
-**Título da home:** “Crédito, cobrança e financiamento com IA.”
+**Título da home:** “Plataforma de integração de serviços financeiros para o setor imobiliário.”
 
 **Subtítulo:** “Analise clientes, organize sua operação de crédito, automatize cobranças e ofereça crédito multibanco com IA usando Credituz OS e CORBAN AI.”
 
