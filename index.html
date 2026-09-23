@@ -4464,7 +4464,7 @@ nav.on-dark .btn-beam::before {
     </div>
 
     <div class="hero-phone">
-        <img class="hero-phone-img" src="/assets/macbook-mockup.webp?v=2" alt="Credituz OS aberto no MacBook, na tela de análise de crédito" width="1600" height="1000" fetchpriority="high">
+        <img class="hero-phone-img" src="/assets/macbook-mockup-front.webp" alt="Credituz OS aberto no MacBook, na tela de análise de crédito" width="1600" height="936" fetchpriority="high">
         <div class="hero-screen-fit">
         <div class="hero-screen" aria-hidden="true">
     <div class="os-app">
@@ -5372,10 +5372,10 @@ nav.on-dark .nav-agents { border-color: var(--dark-hair); }
 }
 .nav-agents { border-color: var(--gray-soft); }
 
-/* --- Aparelho do hero: MacBook (sem pedestal). `assets/macbook-mockup.webp` sai
-   do PNG original (3198x2394) recortado e reduzido para 1600px, com a area da
-   tela vazada em alpha: a interface fica ATRAS da foto, que desenha por cima o
-   bezel, o notch e a base que cobre o canto inferior esquerdo da tela. A area
+/* --- Aparelho do hero: MacBook de frente. `assets/macbook-mockup-front.webp`
+   sai de `macbook-mockup-front.png` (6182x3734) sem a faixa escura sob a tela,
+   reduzido para 1600x936 e com a tela vazada em alpha: a interface fica ATRAS
+   da foto, que desenha por cima o bezel e o notch. A area
    util e percentual, entao vale para qualquer largura; a interface la dentro e
    dimensionada em px logicos e escalada com o aparelho. */
 .hero-phone {
@@ -5393,12 +5393,11 @@ nav.on-dark .nav-agents { border-color: var(--dark-hair); }
 .hero-phone::after {
     content: "";
     position: absolute;
-    left: -2%;
+    left: 2%;
     right: 2%;
     bottom: 0;
     height: 10%;
     background: radial-gradient(ellipse at 50% 40%, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.18) 40%, transparent 70%);
-    transform: rotate(-1.6deg);
     filter: blur(6px);
     pointer-events: none;
 }
@@ -5421,37 +5420,24 @@ nav.on-dark .nav-agents { border-color: var(--dark-hair); }
     top: 0;
     left: 0;
     width: 1600px;
-    height: 1000px;
+    height: 936px;
     transform-origin: 0 0;
     transform: scale(calc(1cqw / 16px));
     pointer-events: none;
 }
 .hero-screen {
-    /* Tela logica de 640x415 (proporcao do painel do MacBook) projetada nos
-       quatro cantos do vidro. Os cantos vieram de retas ajustadas as bordas da
-       mascara clara do PNG; a `matrix3d` e a homografia que leva um no outro.
-       O retangulo passa um pouco sob o bezel, que a foto cobre. */
+    /* Tela logica de 640x414 (proporcao do painel do MacBook) escalada sobre o
+       vidro, que na foto de 1600px vai de (163.8, 23.8) a (1437.2, 846.6). O
+       retangulo passa um pouco sob o bezel, que a foto cobre. */
     position: absolute;
     top: 0;
     left: 0;
     width: 640px;
-    height: 415px;
+    height: 414px;
     transform-origin: 0 0;
-    transform: matrix3d(1.22198, -0.193268, 0, -0.000103135,
-                        -0.0371344, 1.81616, 0, -0.0000146979,
-                        0, 0, 1, 0,
-                        664.286, 155.714, 0, 1);
+    transform: translate(163px, 23px) scale(1.992);
     background: #fff;
     overflow: hidden;
-}
-/* A foto tinha luz caindo da direita sobre a tela; ao vazar a tela ela se perde,
-   entao volta aqui como veu por cima da interface. */
-.hero-screen::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(100deg, transparent 58%, rgba(0, 0, 0, 0.05) 78%, rgba(0, 0, 0, 0.08));
-    pointer-events: none;
 }
 
 /* --- Interface: o Credituz OS na tela de analise de crédito. Fundo branco,
@@ -5876,14 +5862,12 @@ footer { background: var(--void); }
         padding-bottom: 4px !important;
     }
     .hero-actions { margin-top: 4px !important; }
-    /* A tela ocupa so a metade direita da foto, entao limita-la a coluna deixa
-       a interface pequena. A foto cresce e sangra para a esquerda — o que sai e
-       a ponta do teclado — com a borda da tampa alinhada a direita da coluna; o
-       `overflow-x: hidden` do body segura a sobra. */
+    /* MacBook de frente: a tela ocupa quase toda a largura da foto, entao ela
+       cabe na coluna sem sangrar. */
     .hero-phone {
         max-width: none;
-        width: 140%;
-        margin: 4px 0 0 -37%;
+        width: 100%;
+        margin: 4px 0 0;
     }
 
     /* Menu: o item herdava o pill de 40px do desktop e lia como campo de
@@ -5998,13 +5982,12 @@ footer { background: var(--void); }
 .hero-kicker { order: -1; margin-bottom: 10px; }
 .hero-tag { order: -2; }
 
-/* --- O aparelho encosta na borda inferior da cena (o `self-end` do
-   correspondente). O respiro que o `.hero` dava embaixo passa para a coluna de
-   texto, senao o padding empurraria a foto para cima. */
+/* --- O aparelho fica centralizado na altura da coluna de texto. O respiro que
+   o `.hero` dava embaixo passa para a coluna de texto. */
 .hero { padding-bottom: 0 !important; }
 @media (min-width: 901px) {
     .hero-content { padding-bottom: 56px; }
-    .hero-phone { align-self: end; }
+    .hero-phone { align-self: center; }
 }
 @media (max-width: 900px) {
     .hero-content { padding-bottom: 12px; }
