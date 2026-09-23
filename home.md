@@ -31,7 +31,6 @@ A arquitetura comercial separa claramente os produtos:
 ## Página principal da categoria
 
 - Análise de crédito com IA: https://credituz.ai/pages/analise-de-credito-com-ia.html
-- Comparativo Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html
 
 ## O problema que a Credituz resolve
 

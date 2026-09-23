@@ -26,7 +26,7 @@ Credituz serves companies that need to make credit decisions, automate receivabl
 - **Enterprise:** customized financial infrastructure and operations management that can combine Credituz OS, CORBAN AI, and specific modules.
 - **Credituz Score:** standalone credit analysis for companies that do not yet need an ongoing operation.
 
-## Core category pages\n\n- AI credit analysis: https://credituz.ai/pages/analise-de-credito-com-ia.html\n- Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html\n\n## The problems Credituz solves
+## Core category pages\n\n- AI credit analysis: https://credituz.ai/pages/analise-de-credito-com-ia.html\n\n## The problems Credituz solves
 
 - **Fragmented credit risk:** companies sell before combining credit analysis, payment capacity, and credit policy in a consistent flow.
 - **Reactive collections:** due dates and late payments depend on manual follow-up.

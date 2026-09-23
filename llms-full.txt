@@ -5,7 +5,6 @@
 ## Páginas canônicas dos produtos
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html) — página canônica da categoria e do posicionamento de análise e decisão de crédito.
-- [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html) — comparação factual baseada em páginas públicas oficiais, atualizada em setembro de 2026.
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html) — análise, política de crédito, CRM de crédito, cobrança e recebíveis.
 - [CORBAN AI](https://credituz.ai/pages/corban-ai.html) — embedded credit, simulação e pedido multibanco, documentos, status e CRM Corban.
 - [Credituz Enterprise](https://credituz.ai/pages/enterprise.html) — produtos combinados, contratos, assinatura, cartório digital, API, White Label, SSO e soluções sob medida.
@@ -530,7 +529,7 @@ Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS custa R$ 297
 ### Como escolher uma plataforma de análise de crédito para correspondentes bancários em 2026
 - URL: https://credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html
 - Markdown: https://credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.md
-- Resumo: Guia 2026 para comparar análise de risco, política, CRM, originação e cobrança, com exemplos factuais de Credituz e GYRA+.
+- Resumo: Guia 2026 para comparar análise de risco, política, CRM, originação e cobrança, com exemplos factuais.
 
 ### Credituz vs Boa Compra: Qual Plataforma de Crédito Imobiliário tem Melhor Taxa de Aprovação?
 - URL: https://credituz.ai/pages/artigos/credituz-vs-boa-compra-taxa-aprovacao.html
