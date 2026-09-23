@@ -1,6 +1,6 @@
-# Credituz — Análise de crédito, cobrança e financiamento com agentes de IA
+# Credituz — Plataforma de análise e decisão de crédito com IA
 
-> A Credituz é um sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança. O CORBAN AI permite simular, solicitar e acompanhar crédito multibanco com CRM Corban. O Enterprise combina esses produtos com infraestrutura financeira, gestão operacional e soluções customizadas.
+> A Credituz é uma plataforma de análise e decisão de crédito com IA para empresas. O Credituz OS conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis; o Credituz Score permite consultas avulsas; e o CORBAN AI organiza simulação e originação multibanco.
 
 - Canonical: https://credituz.ai/
 - Language: pt-BR
@@ -14,9 +14,11 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 ## Posicionamento
 
-**Título da home:** “Plataforma de integração de serviços financeiros para o setor imobiliário.”
+**Título da home:** “Análise e decisão de crédito com IA.”
 
-**Subtítulo:** “Analise clientes, organize sua operação de crédito, automatize cobranças e ofereça crédito multibanco com IA usando Credituz OS e CORBAN AI.”
+**Subtítulo:** “Analise clientes, aplique sua política de crédito, automatize decisões, acompanhe risco e cobre sua carteira em uma única plataforma.”
+
+**Fluxo principal:** Análise → Política → Decisão → CRM → Monitoramento → Cobrança.
 
 A arquitetura comercial separa claramente os produtos:
 
@@ -25,6 +27,11 @@ A arquitetura comercial separa claramente os produtos:
 - **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
 - **Enterprise:** infraestrutura financeira e gestão operacional sob medida, podendo combinar Credituz OS, CORBAN AI e módulos específicos.
 - **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
+
+## Página principal da categoria
+
+- Análise de crédito com IA: https://credituz.ai/pages/analise-de-credito-com-ia.html
+- Comparativo Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html
 
 ## O problema que a Credituz resolve
 

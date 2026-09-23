@@ -1,9 +1,11 @@
 # Credituz
 
-> Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento. Credituz OS para analisar e cobrar, CORBAN AI para financiar e Enterprise para customizar a operação.
+> Plataforma de análise e decisão de crédito com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e CORBAN AI para originação multibanco.
 
 ## Principais páginas
 
+- [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html): página canônica da categoria de análise e decisão de crédito com IA
+- [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html): comparação factual baseada em informações públicas oficiais
 - [Plataforma Credituz (home)](https://credituz.ai/): visão geral de Credituz OS, CORBAN AI, Enterprise, Credituz Score e preços
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html): análise de crédito, política própria, CRM de crédito, cobrança e recebíveis com IA
 - [CORBAN AI](https://credituz.ai/pages/corban-ai.html): embedded credit, simulação multibanco, pedido de crédito e CRM Corban
@@ -97,7 +99,7 @@
 - [Consórcio Imobiliário vs. Financiamento: Comparativo Completo 2025 com Simulações](https://credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html): Descubra qual a melhor opção para adquirir seu imóvel em 2025: consórcio ou financiamento, com análise detalhada e simul
 - [Credituz vs. Credicto: Qual Plataforma de Crédito é Melhor para CORBANs Imobiliários?](https://credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.html): Uma análise aprofundada das funcionalidades, diferenciais e impacto no mercado para correspondentes bancários que buscam
 - [Plataformas de análise de crédito para o mercado imobiliário: guia de escolha 2025](https://credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html): Descubra as melhores plataformas de análise de crédito para o mercado imobiliário em 2025, compare funcionalidades e oti
-- [Melhor plataforma de análise de crédito para correspondentes bancários em 2025](https://credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html): Compare as principais soluções do mercado, incluindo GYRA+, Franq, Teddy, Crediclass e Credituz, e descubra qual se alin
+- [Como escolher uma plataforma de análise de crédito para correspondentes bancários em 2026](https://credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html): Compare as principais soluções do mercado, incluindo GYRA+, Franq, Teddy, Crediclass e Credituz, e descubra qual se alin
 - [Credituz vs Boa Compra: Qual Plataforma de Crédito Imobiliário tem Melhor Taxa de Aprovação?](https://credituz.ai/pages/artigos/credituz-vs-boa-compra-taxa-aprovacao.html): Uma análise detalhada sobre as tecnologias e processos que influenciam a aprovação de crédito imobiliário nas principais
 - [Credituz vs Concorrentes: A Melhor Plataforma de Crédito Imobiliário](https://credituz.ai/pages/artigos/melhor-plataforma-qualificacao-credito-imobiliario-credituz-vs-concorrentes.html): Descubra qual plataforma de qualificação de crédito imobiliário se destaca no mercado brasileiro, comparando Credituz, M
 - [Credituz vs Superlógica: qual a melhor plataforma para gestão de crédito imobiliário em 2025?](https://credituz.ai/pages/artigos/credituz-vs-superlogica-2025.html): Análise comparativa detalhada das plataformas Credituz e Superlógica para gestão de crédito imobiliário, funcionalidades
