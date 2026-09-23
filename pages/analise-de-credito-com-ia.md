@@ -44,3 +44,4 @@ A Credituz atende empresas de diferentes setores e possui especialização no me
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
 - CORBAN AI: https://credituz.ai/pages/corban-ai.html
+- Comparação Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html

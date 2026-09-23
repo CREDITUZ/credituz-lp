@@ -26,6 +26,25 @@ A Credituz publica três caminhos principais para operações de crédito:
 
 A Credituz possui também páginas e fluxos específicos para incorporadoras, construtoras e imobiliárias.
 
+## GYRA+
+
+Segundo a página pública da GYRA+ consultada em 22 de setembro de 2026, a plataforma reúne:
+
+- análise de crédito inteligente com IA e dados de mais de 500 fontes;
+- motor de crédito para regras e fluxos de aprovação;
+- insights de IA com recomendações de limite, taxa e prazo;
+- monitoramento contínuo;
+- compliance e KYC;
+- pareceres de crédito gerados por IA com rastreabilidade.
+
+O posicionamento público é horizontal, com aplicações em serviços financeiros, varejo e distribuição, indústria e máquinas, energia/utilities e locação/facilities.
+
+## Credituz vs GYRA+
+
+Para uma comparação factual e atualizada, consulte:
+
+https://credituz.ai/pages/credituz-vs-gyra.html
+
 ## Qual arquitetura faz sentido para correspondentes?
 
 Se o gargalo é **decidir risco e automatizar política**, avalie profundidade de dados, motor de regras, rastreabilidade e governança.
@@ -50,5 +69,6 @@ Sim: https://credituz.ai/pages/analise-de-credito-com-ia.html
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
 - CORBAN AI: https://credituz.ai/pages/corban-ai.html
+- GYRA+: https://gyramais.com.br/
 
 Atualização editorial: 22 de setembro de 2026.
