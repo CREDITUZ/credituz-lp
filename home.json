@@ -22,7 +22,7 @@
         "postalCode": "05401-200",
         "addressCountry": "BR"
       },
-      "description": "Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas.",
+      "description": "Plataforma de análise e decisão de crédito com IA para empresas, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
       "foundingDate": "2023",
       "founder": [
         {
@@ -60,7 +60,17 @@
         "availableLanguage": [
           "Portuguese"
         ]
-      }
+      },
+      "knowsAbout": [
+        "Análise de crédito",
+        "Decisão de crédito",
+        "Política de crédito",
+        "CRM de crédito",
+        "Cobrança automatizada",
+        "Crédito imobiliário",
+        "Embedded credit",
+        "Inteligência artificial aplicada ao crédito"
+      ]
     },
     {
       "@type": "SoftwareApplication",
@@ -69,7 +79,7 @@
       "url": "https://credituz.ai/",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "Sistema operacional e financeiro com agentes de IA. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança; o CORBAN AI reúne simulação, pedido de crédito multibanco e CRM Corban; e o Enterprise adiciona infraestrutura financeira, gestão operacional e soluções customizadas.",
+      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS reúne análise, política de crédito, decisão, CRM e cobrança; o CORBAN AI reúne simulação e pedido de crédito multibanco; e o Enterprise adiciona infraestrutura, integrações e fluxos customizados.",
       "publisher": {
         "@id": "https://credituz.ai/#organization"
       },
