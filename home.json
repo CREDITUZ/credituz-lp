@@ -119,7 +119,7 @@
           "url": "https://credituz.ai/pages/corban-ai.html",
           "priceCurrency": "BRL",
           "price": "697",
-          "description": "R$ 697 por mês com 50 análises de crédito, até 600 cobranças e 10 usuários, mais embedded credit: simulação multibanco, pedido de crédito e CRM Corban. Análise adicional por R$ 16."
+          "description": "R$ 697 por mês com 50 análises de crédito, até 600 cobranças e 10 usuários, mais embedded credit: simulação multibanco, pedido de crédito e CRM Corban. Análise adicional por R$ 20."
         },
         {
           "@type": "Offer",
@@ -157,7 +157,7 @@
           "name": "O que acontece se eu passar da franquia de análises?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cada análise adicional custa R$ 20 no Start e R$ 16 no Growth. Análises não usadas não acumulam para o mês seguinte."
+            "text": "Cada análise adicional custa R$ 20, nos dois planos. Análises não usadas não acumulam para o mês seguinte."
           }
         },
         {

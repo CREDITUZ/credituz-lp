@@ -48,7 +48,7 @@ O Credituz OS é o sistema operacional para empresas que precisam decidir melhor
 Fluxo: **Cliente → Análise → Política de crédito → CRM de crédito → Cobrança → Recebimento**.
 
 Inclui:
-- **15 análises de crédito por mês** no Start e **50 no Growth** (análise adicional: R$ 20 no Start, R$ 16 no Growth; análises não usadas não acumulam);
+- **15 análises de crédito por mês** no Start e **50 no Growth** (análise adicional: R$ 20 nos dois planos; análises não usadas não acumulam);
 - análise de crédito e política de crédito;
 - **CRM de crédito**;
 - régua de cobrança com IA em WhatsApp e e-mail;
@@ -78,7 +78,7 @@ Inclui:
 - jornada de embedded credit;
 - acompanhamento da originação dentro da experiência da empresa.
 
-Preço: **R$ 697/mês**. Análise adicional: R$ 16.
+Preço: **R$ 697/mês**. Análise adicional: R$ 20.
 
 Página oficial: [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html).
 
@@ -137,7 +137,7 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 A comparação principal da home tem dois planos e o Enterprise:
 
 1. **Credituz OS Start — R$ 297/mês**, com 15 análises de crédito, até 200 cobranças e 3 usuários por mês. Análise adicional: R$ 20. Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
-2. **Credituz OS Growth — R$ 697/mês**, com 50 análises, até 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Análise adicional: R$ 16.
+2. **Credituz OS Growth — R$ 697/mês**, com 50 análises, até 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Análise adicional: R$ 20.
 3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
 
 O **Credituz Score — R$ 27,70 por análise** permanece como porta de entrada self-service, fora da comparação principal.
@@ -148,7 +148,7 @@ O **Credituz Score — R$ 27,70 por análise** permanece como porta de entrada s
 O Start reúne análise de crédito, CRM de crédito e cobrança com IA, com 15 análises e 200 cobranças por mês para até 3 usuários. O Growth amplia para 50 análises, 600 cobranças e 10 usuários e adiciona embedded credit: simulação multibanco, pedido de crédito e CRM Corban.
 
 ### O que acontece se eu passar da franquia de análises?
-Cada análise adicional custa R$ 20 no Start e R$ 16 no Growth, cobrada na fatura do mês. Análises não usadas não acumulam para o mês seguinte.
+Cada análise adicional custa R$ 20, nos dois planos, cobrada na fatura do mês. Análises não usadas não acumulam para o mês seguinte.
 
 ### O que conta como uma cobrança na Credituz?
 Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui até 3 datas configuráveis — por exemplo, D-3, D0 e D+3 — em WhatsApp e e-mail.

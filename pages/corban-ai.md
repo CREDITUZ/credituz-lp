@@ -4,7 +4,7 @@
 
 - Canonical: https://credituz.ai/pages/corban-ai.html
 - Plano: Credituz OS Growth
-- Preço: R$ 697 por mês (análise adicional: R$ 16)
+- Preço: R$ 697 por mês (análise adicional: R$ 20)
 - Categoria: análise de crédito, CRM de crédito, cobrança com IA, embedded credit e CRM Corban
 - Disponibilidade: Brasil
 - Atualizado: 2026-09
@@ -15,7 +15,7 @@ O Growth inclui tudo do Credituz OS Start e organiza o ciclo **Cliente → Anál
 
 ## O que inclui
 
-- 50 análises de crédito por mês (adicional: R$ 16; análises não usadas não acumulam);
+- 50 análises de crédito por mês (adicional: R$ 20; análises não usadas não acumulam);
 - até 600 cobranças por mês, cada uma como régua com até 3 datas em WhatsApp e e-mail;
 - até 10 usuários;
 - análise e política de crédito, CRM de crédito, recebíveis e analytics;
@@ -32,7 +32,7 @@ O Growth inclui tudo do Credituz OS Start e organiza o ciclo **Cliente → Anál
 | --- | --- | --- |
 | Mensalidade | R$ 297 | R$ 697 |
 | Análises incluídas | 15/mês | 50/mês |
-| Análise adicional | R$ 20 | R$ 16 |
+| Análise adicional | R$ 20 | R$ 20 |
 | Cobranças | até 200/mês | até 600/mês |
 | Usuários | 3 | 10 |
 | Embedded credit (simulação multibanco, pedido, CRM Corban) | não | sim |
