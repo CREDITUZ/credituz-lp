@@ -1,9 +1,11 @@
 # Credituz
 
-> Sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento. Credituz OS para analisar e cobrar, CORBAN AI para financiar e Enterprise para customizar a operação.
+> Plataforma de análise e decisão de crédito com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e CORBAN AI para originação multibanco.
 
 ## Principais páginas
 
+- [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html): página canônica da categoria de análise e decisão de crédito com IA
+- [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html): comparação factual baseada em informações públicas oficiais
 - [Plataforma Credituz (home)](https://credituz.ai/): visão geral de Credituz OS, CORBAN AI, Enterprise, Credituz Score e preços
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html): análise de crédito, política própria, CRM de crédito, cobrança e recebíveis com IA
 - [CORBAN AI](https://credituz.ai/pages/corban-ai.html): embedded credit, simulação multibanco, pedido de crédito e CRM Corban
