@@ -1,9 +1,11 @@
-# Credituz — Análise de crédito, cobrança e financiamento com agentes de IA
+# Credituz — Plataforma de análise e decisão de crédito com IA
 
-> A Credituz é um sistema operacional e financeiro com agentes de IA para análise de crédito, cobrança e financiamento de empresas. O Credituz OS reúne análise de crédito, CRM de crédito e cobrança. O CORBAN AI permite simular, solicitar e acompanhar crédito multibanco com CRM Corban. O Enterprise combina esses produtos com infraestrutura financeira, gestão operacional e soluções customizadas.
+> A Credituz é uma plataforma de análise e decisão de crédito com IA. O fluxo principal é Análise → Política → Decisão → CRM → Monitoramento → Cobrança. O Credituz Score permite consultas avulsas e o CORBAN AI organiza simulação e originação multibanco.
 
 ## Páginas canônicas dos produtos
 
+- [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html) — página canônica da categoria e do posicionamento de análise e decisão de crédito.
+- [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html) — comparação factual baseada em páginas públicas oficiais, atualizada em setembro de 2026.
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html) — análise, política de crédito, CRM de crédito, cobrança e recebíveis.
 - [CORBAN AI](https://credituz.ai/pages/corban-ai.html) — embedded credit, simulação e pedido multibanco, documentos, status e CRM Corban.
 - [Credituz Enterprise](https://credituz.ai/pages/enterprise.html) — produtos combinados, contratos, assinatura, cartório digital, API, White Label, SSO e soluções sob medida.
@@ -21,7 +23,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 ## Posicionamento
 
-**Título da home:** “Análise crédito, cobrança e financiamento com agentes de IA.”
+**Título da home:** “Análise e decisão de crédito com IA.”
 
 **Subtítulo:** “Analise clientes, organize sua operação de crédito, automatize cobranças e ofereça crédito multibanco com IA usando Credituz OS e CORBAN AI.”
 
