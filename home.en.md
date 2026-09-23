@@ -1,6 +1,6 @@
-# Credituz — Credit analysis, collections, and financing with AI agents
+# Credituz — AI-powered credit analysis and decision platform
 
-> Credituz is an operating and financial system with AI agents for business credit analysis, collections, and financing. Credituz OS combines credit analysis, credit CRM, and collections. CORBAN AI lets companies simulate, request, and track multi-bank credit through its own Corban CRM. Enterprise combines these products with customized financial infrastructure and operations management.
+> Credituz is an AI-powered credit analysis and decision platform for businesses. Credituz OS connects analysis, credit policy, decisioning, CRM, collections, and receivables; Credituz Score enables standalone analyses; and CORBAN AI supports multi-bank simulation and origination.
 
 - Canonical: https://credituz.ai/en/
 - Language: en-US
@@ -14,11 +14,11 @@ Credituz serves companies that need to make credit decisions, automate receivabl
 
 ## Positioning
 
-**Homepage title:** “Credit analysis, collections, and financing with AI agents.”
+**Homepage title:** “AI-powered credit analysis and decision-making.”
 
-**Subtitle:** “Analyze customers, organize your credit operation, automate collections, and offer multi-bank credit with AI using Credituz OS and CORBAN AI.”
+**Subtitle:** “Analyze customers, apply your credit policy, automate decisions, monitor risk, and manage collections in one platform.”
 
-The commercial architecture clearly separates the products:
+**Primary flow:** Analysis → Policy → Decision → CRM → Monitoring → Collections.\n\nThe commercial architecture clearly separates the products:
 
 - **Credituz OS:** credit analysis + credit CRM + AI-powered collections.
 - **CORBAN AI:** embedded credit + multi-bank simulation + credit application + Corban CRM.
@@ -26,7 +26,7 @@ The commercial architecture clearly separates the products:
 - **Enterprise:** customized financial infrastructure and operations management that can combine Credituz OS, CORBAN AI, and specific modules.
 - **Credituz Score:** standalone credit analysis for companies that do not yet need an ongoing operation.
 
-## The problems Credituz solves
+## Core category pages\n\n- AI credit analysis: https://credituz.ai/pages/analise-de-credito-com-ia.html\n- Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html\n\n## The problems Credituz solves
 
 - **Fragmented credit risk:** companies sell before combining credit analysis, payment capacity, and credit policy in a consistent flow.
 - **Reactive collections:** due dates and late payments depend on manual follow-up.
