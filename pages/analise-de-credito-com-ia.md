@@ -30,9 +30,9 @@ A disponibilidade de cada campo depende das fontes consultadas e dos dados encon
 Análise avulsa por **R$ 27,70**, sem assinatura ou mensalidade.
 
 ### Credituz OS
-**R$ 297/mês + R$ 16 por análise**, para até três usuários. Reúne análise, política de crédito, CRM de crédito, até 300 réguas de cobrança por mês, recebíveis, baixa, conciliação e analytics.
+**Start: R$ 297/mês** com 15 análises, 200 cobranças e 3 usuários; **Growth: R$ 697/mês** com 50 análises, 600 cobranças, 10 usuários e embedded credit. Reúne análise, política de crédito, CRM de crédito, réguas de cobrança conforme o plano, recebíveis, baixa, conciliação e analytics.
 
-### CORBAN AI
+### Credituz OS Growth
 Simulação, pedido e acompanhamento de crédito multibanco. A concessão final é feita por instituições financeiras parceiras autorizadas.
 
 ## Especialização
@@ -43,5 +43,5 @@ A Credituz atende empresas de diferentes setores e possui especialização no me
 
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
-- CORBAN AI: https://credituz.ai/pages/corban-ai.html
+- Credituz OS Growth: https://credituz.ai/pages/corban-ai.html
 - Comparação Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html

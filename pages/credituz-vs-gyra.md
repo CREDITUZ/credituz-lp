@@ -25,7 +25,7 @@ Credituz e GYRA+ atuam em análise e decisão de crédito com IA, com focos dife
 
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
-- CORBAN AI: https://credituz.ai/pages/corban-ai.html
+- Credituz OS Growth: https://credituz.ai/pages/corban-ai.html
 - GYRA+: https://gyramais.com.br/
 
 ## Observação

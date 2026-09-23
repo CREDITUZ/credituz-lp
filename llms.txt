@@ -1,20 +1,20 @@
 # Credituz
 
-> Plataforma de análise e decisão de crédito com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e CORBAN AI para originação multibanco.
+> Plataforma de análise e decisão de crédito com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e o plano Credituz OS Growth para originação multibanco.
 
 ## Principais páginas
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html): página canônica da categoria de análise e decisão de crédito com IA
 - [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html): comparação factual baseada em informações públicas oficiais
-- [Plataforma Credituz (home)](https://credituz.ai/): visão geral de Credituz OS, CORBAN AI, Enterprise, Credituz Score e preços
+- [Plataforma Credituz (home)](https://credituz.ai/): visão geral dos planos Credituz OS Start e Growth, Enterprise, Credituz Score e preços
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html): análise de crédito, política própria, CRM de crédito, cobrança e recebíveis com IA
-- [CORBAN AI](https://credituz.ai/pages/corban-ai.html): embedded credit, simulação multibanco, pedido de crédito e CRM Corban
+- [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html): plano com 50 análises, 600 cobranças e 10 usuários por mês, embedded credit, simulação multibanco, pedido de crédito e CRM Corban
 - [Incorporador OS](https://viabilidade.credituz.ai/): da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar
 - [Credituz Enterprise](https://credituz.ai/pages/enterprise.html): infraestrutura financeira, integrações e fluxos customizados com IA
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html): análise de crédito avulsa, sem mensalidade
 - [Versão markdown da home](https://credituz.ai/home.md): home em texto limpo para IA
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo
-- [CORBAN AI em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico do produto em texto limpo
+- [Credituz OS Growth em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico do plano em texto limpo
 - [Enterprise em Markdown](https://credituz.ai/pages/enterprise.md): escopo canônico da oferta em texto limpo
 - [Blog Credituz](https://credituz.ai/pages/blog.html): 119 artigos sobre IA, crédito e gestão imobiliária
 - [Glossário Credituz](https://credituz.ai/pages/glossario.html): 55+ termos de mercado imobiliário, crédito e IA (GEO/AEO/AIO)

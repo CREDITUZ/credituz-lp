@@ -79,7 +79,7 @@
       "url": "https://credituz.ai/",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS reúne análise, política de crédito, decisão, CRM e cobrança; o CORBAN AI reúne simulação e pedido de crédito multibanco; e o Enterprise adiciona infraestrutura, integrações e fluxos customizados.",
+      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS Start reúne análise, política de crédito, decisão, CRM e cobrança; o Credituz OS Growth adiciona simulação e pedido de crédito multibanco; e o Enterprise adiciona infraestrutura, integrações e fluxos customizados.",
       "publisher": {
         "@id": "https://credituz.ai/#organization"
       },
@@ -87,9 +87,10 @@
         "Análise de crédito e política de crédito",
         "CRM de crédito no Credituz OS",
         "Régua de cobrança com IA em WhatsApp e e-mail",
-        "Até 300 cobranças por mês no Credituz OS",
+        "15 análises e até 200 cobranças por mês no Credituz OS Start",
+        "50 análises e até 600 cobranças por mês no Credituz OS Growth",
         "Cada cobrança inclui uma régua com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail",
-        "Simulação de crédito multibanco no CORBAN AI",
+        "Simulação de crédito multibanco no Credituz OS Growth",
         "Pedido de crédito e acompanhamento da originação",
         "CRM Corban para simulações, pedidos, pendências e status",
         "Embedded credit para empresas",
@@ -110,21 +111,22 @@
           "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
-          "description": "R$ 297 por mês mais R$ 16 por análise, para até 3 usuários. Inclui análise de crédito, CRM de crédito e até 300 cobranças por mês. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
+          "description": "R$ 297 por mês com 15 análises de crédito e até 200 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 20. Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
         },
         {
           "@type": "Offer",
-          "name": "CORBAN AI",
+          "name": "Credituz OS Growth",
           "url": "https://credituz.ai/pages/corban-ai.html",
           "priceCurrency": "BRL",
-          "description": "Embedded credit com simulação multibanco, pedido de crédito e CRM Corban. Modelo comercial conforme a operação."
+          "price": "697",
+          "description": "R$ 697 por mês com 50 análises de crédito, até 600 cobranças e 10 usuários, mais embedded credit: simulação multibanco, pedido de crédito e CRM Corban. Análise adicional por R$ 16."
         },
         {
           "@type": "Offer",
           "name": "Enterprise",
           "url": "https://credituz.ai/pages/enterprise.html",
           "priceCurrency": "BRL",
-          "description": "Infraestrutura financeira e gestão operacional sob medida, podendo combinar Credituz OS, CORBAN AI, construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
+          "description": "Infraestrutura financeira e gestão operacional sob medida, podendo combinar o Credituz OS Growth, construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
         }
       ]
     },
@@ -144,18 +146,18 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Qual a diferença entre Credituz OS e CORBAN AI?",
+          "name": "Qual a diferença entre Credituz OS Start e Growth?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS reúne análise de crédito, CRM de crédito e cobrança com IA. O CORBAN AI é a solução de embedded credit para simular, solicitar e acompanhar crédito multibanco, com CRM Corban próprio."
+            "text": "O Start reúne análise de crédito, CRM de crédito e cobrança com IA, com 15 análises e 200 cobranças por mês para até 3 usuários. O Growth amplia para 50 análises, 600 cobranças e 10 usuários e adiciona embedded credit: simulação multibanco, pedido de crédito e CRM Corban."
           }
         },
         {
           "@type": "Question",
-          "name": "Preciso contratar Credituz OS e CORBAN AI juntos?",
+          "name": "O que acontece se eu passar da franquia de análises?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Não. Os produtos podem ser usados separadamente. Em projetos Enterprise, eles também podem ser combinados de acordo com a operação."
+            "text": "Cada análise adicional custa R$ 20 no Start e R$ 16 no Growth. Análises não usadas não acumulam para o mês seguinte."
           }
         },
         {
@@ -163,7 +165,7 @@
           "name": "Qual a diferença entre CRM de crédito e CRM Corban?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O CRM de crédito pertence ao Credituz OS e organiza clientes, análises e decisões de crédito. O CRM Corban pertence ao CORBAN AI e acompanha simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação."
+            "text": "O CRM de crédito pertence ao Credituz OS e organiza clientes, análises e decisões de crédito. O CRM Corban faz parte do plano Growth e acompanha simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação."
           }
         },
         {
@@ -171,7 +173,7 @@
           "name": "Onde ficam contratos com IA, assinatura digital e cartório digital?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Essas funcionalidades fazem parte de soluções Enterprise e podem ser combinadas com Credituz OS, CORBAN AI e outras integrações conforme a necessidade da empresa."
+            "text": "Essas funcionalidades fazem parte de soluções Enterprise e podem ser combinadas com o Credituz OS Growth e outras integrações conforme a necessidade da empresa."
           }
         },
         {
@@ -195,7 +197,7 @@
           "name": "O que é um pipeline de crédito?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Pipeline de crédito é a visão das operações desde a simulação até a contratação. No CORBAN AI, ele organiza etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido no CRM Corban."
+            "text": "Pipeline de crédito é a visão das operações desde a simulação até a contratação. No plano Credituz OS Growth, ele organiza etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido no CRM Corban."
           }
         },
         {
@@ -203,7 +205,7 @@
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS custa R$ 297 por mês, mais R$ 16 por análise de crédito, para até 3 usuários. O plano inclui até 300 cobranças por mês, sendo cada cobrança uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
+            "text": "O Credituz OS Start custa R$ 297 por mês com 15 análises de crédito, até 200 cobranças e 3 usuários. O Growth custa R$ 697 por mês com 50 análises, até 600 cobranças, 10 usuários e embedded credit. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
           }
         }
       ]
