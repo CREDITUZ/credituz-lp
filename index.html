@@ -5387,6 +5387,20 @@ nav.on-dark .nav-agents { border-color: var(--dark-hair); }
        apoiado no pedestal. */
     container-type: inline-size;
     overflow: clip;
+    padding-bottom: 6%;
+}
+/* Sombra suave sob a base do MacBook (o mockup nao tem mais pedestal). */
+.hero-phone::after {
+    content: "";
+    position: absolute;
+    left: -2%;
+    right: 2%;
+    bottom: 0;
+    height: 10%;
+    background: radial-gradient(ellipse at 50% 40%, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.18) 40%, transparent 70%);
+    transform: rotate(-1.6deg);
+    filter: blur(6px);
+    pointer-events: none;
 }
 .hero-phone-img {
     position: relative;
