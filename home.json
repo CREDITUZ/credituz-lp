@@ -94,7 +94,9 @@
         "Pedido de crédito e acompanhamento da originação",
         "CRM Corban para simulações, pedidos, pendências e status",
         "Embedded credit para empresas",
-        "Enterprise com construtor de contratos com IA, assinatura digital, cartório digital e soluções customizadas com IA"
+        "Enterprise com construtor de contratos com IA, assinatura digital, cartório digital e soluções customizadas com IA",
+        "Incorporador OS: análise e viabilidade de empreendimentos imobiliários no Enterprise",
+        "Estudo rápido, completo e impacto de premissas de projetos no Enterprise"
       ],
       "offers": [
         {
@@ -126,7 +128,7 @@
           "name": "Enterprise",
           "url": "https://credituz.ai/pages/enterprise.html",
           "priceCurrency": "BRL",
-          "description": "Infraestrutura financeira e gestão operacional sob medida, podendo combinar o Credituz OS Growth, construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
+          "description": "Infraestrutura financeira e gestão operacional sob medida, podendo combinar o Credituz OS Growth, Incorporador OS (análise de viabilidade de empreendimentos), construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
         }
       ]
     },
@@ -198,6 +200,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Pipeline de crédito é a visão das operações desde a simulação até a contratação. No plano Credituz OS Growth, ele organiza etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido no CRM Corban."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é o Incorporador OS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O Incorporador OS é um módulo Enterprise para análise de viabilidade de empreendimentos imobiliários. Permite avaliar a viabilidade financeira de projetos, simular cenários, analisar impacto de premissas e emitir parecer estruturado. Integra-se ao Credituz OS para auxiliar na decisão de concessão de crédito."
           }
         },
         {

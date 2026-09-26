@@ -24,6 +24,7 @@ O Enterprise parte do Credituz OS Growth e combina módulos documentais, integra
 
 ### Módulos específicos
 
+- Incorporador OS: viabilidade de empreendimentos imobiliários (análise rápida, estudo completo, simulação de cenários, parecer estruturado);
 - construtor de contratos com IA;
 - assinatura digital;
 - serviços de cartório digital;
