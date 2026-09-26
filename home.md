@@ -1,6 +1,6 @@
 # Credituz — Plataforma de análise e decisão de crédito com IA
 
-> A Credituz é uma plataforma de análise e decisão de crédito com IA para empresas. O Credituz OS conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis; o Credituz Score permite consultas avulsas; e o plano Credituz OS Growth soma simulação e originação multibanco.
+> A Credituz é uma plataforma de análise e decisão de crédito com IA. O Credituz OS é o produto único que conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis em diferentes planos (Start, Growth e Enterprise); o Credituz Score é uma consulta avulsa para quem ainda não precisa de recorrência.
 
 - Canonical: https://credituz.ai/
 - Language: pt-BR
@@ -10,7 +10,7 @@
 
 ## O que é a Credituz?
 
-A Credituz atende empresas que precisam tomar decisões de crédito, automatizar recebimentos ou incorporar crédito à própria jornada. A home apresenta os produtos de forma horizontal; páginas de segmento aprofundam aplicações específicas para mercados como construção e incorporação imobiliária, imobiliárias e operações de originação de crédito.
+A Credituz atende empresas que precisam tomar decisões de crédito, automatizar recebimentos ou incorporar crédito à própria jornada. O Credituz OS é a plataforma única que oferece esses serviços; páginas de segmento aprofundam aplicações específicas para mercados como construção e incorporação imobiliária, imobiliárias e operações de originação de crédito.
 
 ## Posicionamento
 
@@ -20,7 +20,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 **Fluxo principal:** Análise → Política → Decisão → CRM → Monitoramento → Cobrança.
 
-A arquitetura comercial separa claramente os planos e produtos:
+O Credituz OS oferece diferentes planos para diferentes escalas de operação:
 
 - **Credituz OS Start (R$ 297/mês):** análise de crédito + CRM de crédito + cobrança com IA, com 15 análises, 200 cobranças e 3 usuários por mês.
 - **Credituz OS Growth (R$ 697/mês):** tudo do Start com 50 análises, 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
