@@ -134,13 +134,14 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 
 ## Planos e preços na home
 
-A comparação principal da home tem dois planos e o Enterprise:
+A comparação principal da home tem quatro planos do Credituz OS:
 
-1. **Credituz OS Start — R$ 297/mês**, com 15 análises de crédito, até 200 cobranças e 3 usuários por mês. Análise adicional: R$ 20. Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
-2. **Credituz OS Growth — R$ 697/mês**, com 50 análises, até 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Análise adicional: R$ 20.
-3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
+1. **Credituz OS Essencial — R$ 99/mês**, com 5 análises de crédito, CRM de crédito básico e 1 usuário por mês. Análise adicional: R$ 25. Porta de entrada para freelancers, consultores e pequenas operações, sem cobrança inclusa.
+2. **Credituz OS Start — R$ 297/mês**, com 15 análises de crédito, até 200 cobranças e 3 usuários por mês. Análise adicional: R$ 20. Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
+3. **Credituz OS Growth — R$ 697/mês**, com 50 análises, até 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Análise adicional: R$ 20.
+4. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
 
-O **Credituz Score — R$ 27,70 por análise** permanece como porta de entrada self-service, fora da comparação principal.
+O **Credituz Score — R$ 27,70 por análise** permanece como porta de entrada self-service, fora da comparação principal, para quem precisa de análises completamente avulsas sem comprometimento.
 
 ## Perguntas frequentes
 

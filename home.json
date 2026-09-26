@@ -109,7 +109,15 @@
         },
         {
           "@type": "Offer",
-          "name": "Credituz OS",
+          "name": "Credituz OS Essencial",
+          "url": "https://credituz.ai/",
+          "price": "99",
+          "priceCurrency": "BRL",
+          "description": "R$ 99 por mês com 5 análises de crédito, CRM de crédito básico e 1 usuário. Análise adicional por R$ 25. Ideal para freelancers, consultores e pequenas operações."
+        },
+        {
+          "@type": "Offer",
+          "name": "Credituz OS Start",
           "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
