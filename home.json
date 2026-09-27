@@ -79,7 +79,7 @@
       "url": "https://credituz.ai/",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS Start reúne análise, política de crédito, decisão, CRM e cobrança; o Credituz OS Growth adiciona simulação e pedido de crédito multibanco; e o Enterprise adiciona infraestrutura, integrações e fluxos customizados.",
+      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS Start reúne análise, política de crédito, decisão, CRM e cobrança; o Credituz OS Growth adiciona simulação e pedido de crédito multibanco; e o Service adiciona a operação de análise e cobrança feita pela Credituz, com integrações e fluxos customizados.",
       "publisher": {
         "@id": "https://credituz.ai/#organization"
       },
@@ -94,9 +94,9 @@
         "Pedido de crédito e acompanhamento da originação",
         "CRM Corban para simulações, pedidos, pendências e status",
         "Embedded credit para empresas",
-        "Enterprise com construtor de contratos com IA, assinatura digital, cartório digital e soluções customizadas com IA",
-        "Incorporador OS: análise e viabilidade de empreendimentos imobiliários no Enterprise",
-        "Estudo rápido, completo e impacto de premissas de projetos no Enterprise"
+        "Service com operação feita pela Credituz, construtor de contratos com IA, assinatura digital, cartório digital e soluções customizadas com IA",
+        "Incorporador OS: análise e viabilidade de empreendimentos imobiliários no Service",
+        "Estudo rápido, completo e impacto de premissas de projetos no Service"
       ],
       "offers": [
         {
@@ -133,10 +133,10 @@
         },
         {
           "@type": "Offer",
-          "name": "Enterprise",
+          "name": "Service",
           "url": "https://credituz.ai/pages/enterprise.html",
           "priceCurrency": "BRL",
-          "description": "Infraestrutura financeira e gestão operacional sob medida, podendo combinar o Credituz OS Growth, Incorporador OS (análise de viabilidade de empreendimentos), construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
+          "description": "Operação de crédito e cobrança feita pela Credituz com agentes de IA e supervisão humana, sob medida, podendo combinar o Credituz OS Growth, Incorporador OS (análise de viabilidade de empreendimentos), construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
         }
       ]
     },
@@ -183,7 +183,7 @@
           "name": "Onde ficam contratos com IA, assinatura digital e cartório digital?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Essas funcionalidades fazem parte de soluções Enterprise e podem ser combinadas com o Credituz OS Growth e outras integrações conforme a necessidade da empresa."
+            "text": "Essas funcionalidades fazem parte do plano Service e podem ser combinadas com o Credituz OS Growth e outras integrações conforme a necessidade da empresa."
           }
         },
         {
@@ -215,7 +215,7 @@
           "name": "O que é o Incorporador OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Incorporador OS é um módulo Enterprise para análise de viabilidade de empreendimentos imobiliários. Permite avaliar a viabilidade financeira de projetos, simular cenários, analisar impacto de premissas e emitir parecer estruturado. Integra-se ao Credituz OS para auxiliar na decisão de concessão de crédito."
+            "text": "O Incorporador OS é um módulo do plano Service para análise de viabilidade de empreendimentos imobiliários. Permite avaliar a viabilidade financeira de projetos, simular cenários, analisar impacto de premissas e emitir parecer estruturado. Integra-se ao Credituz OS para auxiliar na decisão de concessão de crédito."
           }
         },
         {
