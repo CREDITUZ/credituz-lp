@@ -4026,6 +4026,11 @@ footer {
     .wa-bubble-tooltip { display: none; }
 }
 
+/* Chat do Edu (Zyvo) substitui a bolha do WhatsApp. A bolha so aparece
+   como reserva quando o chat nao carrega: html[data-zyvo-chat="off"]. */
+.wa-bubble { display: none; }
+html[data-zyvo-chat="off"] .wa-bubble { display: flex; }
+
 /* Acessibilidade: reduce motion */
 @media (prefers-reduced-motion: reduce) {
     .wa-bubble::before { animation: none; }
@@ -4957,7 +4962,17 @@ if (document.readyState === 'loading') {
 
 </script>
 
-<!-- WhatsApp floating bubble (direct wa.me, no third-party) -->
+<!-- Chat do Edu, agente de IA da Credituz no Zyvo: qualifica o visitante na
+     propria pagina e grava o lead no CRM. Configuracao: Zyvo > Agente de
+     atendimento > Chat no site. Se o chat nao carregar em 6 s (bloqueador,
+     chat desligado, fora do ar), a bolha do WhatsApp abaixo volta a aparecer. -->
+<script src="https://zyvo.marketing/webchat.js" data-zyvo-chat="wc_wGnK7wYvIARatDdu6vbefiQ9" async></script>
+<script>
+setTimeout(function () {
+    if (!document.documentElement.getAttribute('data-zyvo-chat')) document.documentElement.setAttribute('data-zyvo-chat', 'off');
+}, 6000);
+</script>
+<!-- WhatsApp floating bubble: reserva do chat (so aparece com data-zyvo-chat="off") -->
 <a href="https://wa.me/5511936209409?text=Ol%C3%A1%21%20Vim%20pela%20Landing%20Page%20da%20Credituz%20e%20gostaria%20de%20conversar."
    class="wa-bubble"
    target="_blank"
