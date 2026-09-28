@@ -8,7 +8,7 @@
 - [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html) — comparação factual baseada em páginas públicas oficiais, atualizada em setembro de 2026.
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html) — análise, política de crédito, CRM de crédito, cobrança e recebíveis.
 - [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html) — plano com 50 análises, 600 cobranças, 10 usuários e embedded credit: simulação e pedido multibanco, documentos, status e CRM Corban.
-- [Credituz Enterprise](https://credituz.ai/pages/enterprise.html) — produtos combinados, contratos, assinatura, cartório digital, API, White Label, SSO e soluções sob medida.
+- [Credituz Service](https://credituz.ai/pages/enterprise.html): produtos combinados, contratos, assinatura, cartório digital, API, White Label, SSO e soluções sob medida.
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html) — análise avulsa sem mensalidade.
 
 - Canonical: https://credituz.ai/
@@ -32,7 +32,7 @@ A arquitetura comercial separa claramente os planos e produtos:
 - **Credituz OS Start (R$ 297/mês):** análise de crédito + CRM de crédito + cobrança com IA, com 15 análises, 200 cobranças e 3 usuários por mês.
 - **Credituz OS Growth (R$ 697/mês):** tudo do Start com 50 análises, 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
 - **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
-- **Enterprise:** infraestrutura financeira e gestão operacional sob medida, podendo partir do Credituz OS Growth e adicionar módulos específicos.
+- **Service:** a Credituz opera análise, decisão e cobrança sob medida, com infraestrutura financeira e gestão operacional, podendo partir do Credituz OS Growth e adicionar módulos específicos.
 - **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
 
 ## O problema que a Credituz resolve
@@ -87,30 +87,28 @@ Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R
 
 ## Cobrança com IA
 
-No Credituz OS, o Start inclui até **200 cobranças por mês** e o Growth até **600**. Uma cobrança é uma régua completa, e não uma mensagem isolada: ela pode usar **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**. SMS fica disponível em projetos **Enterprise sob medida**.
+No Credituz OS, o Start inclui até **200 cobranças por mês** e o Growth até **600**. Uma cobrança é uma régua completa, e não uma mensagem isolada: ela pode usar **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**. SMS fica disponível em projetos do plano **Service**, sob medida.
 
-## Enterprise
+## Service
 
-**Monte a infraestrutura financeira e a gestão operacional que sua empresa precisa.**
+**A Credituz não entrega só o software. Entrega o trabalho feito.**
 
-O Enterprise é a oferta mais customizável da Credituz. Parte do Credituz OS Growth e adiciona módulos específicos conforme a operação.
+O Service é o plano mais completo da Credituz, inspirado na tese de service as software: em vez de vender apenas a ferramenta, a Credituz opera o crédito e a cobrança da empresa com agentes de IA e supervisão da equipe. Análise, decisão, cobrança e acompanhamento da carteira são executados pela Credituz sobre o Credituz OS Growth, e a empresa define a política e as metas.
 
-Possibilidades:
-- Credituz OS Growth como base;
-- análises e cobranças sem franquia fixa;
-- usuários e volumes customizados;
-- **construtor de contratos com IA**;
-- assinatura digital;
-- serviços de cartório digital;
+Inclui, sob medida:
+
+- operação de análise e decisão de crédito feita pela Credituz;
+- cobrança da carteira de ponta a ponta, com supervisão humana;
+- análises, cobranças e usuários customizados;
+- **construtor de contratos com IA**, assinatura digital e cartório digital;
 - SMS e canais adicionais;
-- políticas e fluxos customizados;
-- API e integrações específicas;
-- White Label e SSO;
-- multiempresa;
+- API, White Label, SSO, multiempresa e integrações;
 - **soluções customizadas com IA**;
 - SLA e atendimento dedicado.
 
 Preço: **sob medida**, com contrato anual.
+
+Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
 ## CRM de crédito x CRM Corban
 
@@ -123,11 +121,11 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 
 ## Planos e preços na home
 
-A comparação principal da home tem dois planos e o Enterprise:
+A comparação principal da home tem os planos Credituz OS e o Service:
 
 1. **Credituz OS Start — R$ 297/mês**, com 15 análises de crédito, até 200 cobranças e 3 usuários por mês. Análise adicional: R$ 20. Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
 2. **Credituz OS Growth — R$ 697/mês**, com 50 análises, até 600 cobranças e 10 usuários por mês, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Análise adicional: R$ 20.
-3. **Enterprise — sob medida**, com infraestrutura financeira e gestão operacional customizadas.
+3. **Service, sob medida**, com a operação de análise e cobrança feita pela Credituz e infraestrutura customizada.
 
 O **Credituz Score — R$ 27,70 por análise** permanece como porta de entrada self-service, fora da comparação principal.
 
@@ -146,13 +144,13 @@ Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui até 3
 Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
 
 ### Onde ficam contratos com IA, assinatura digital e cartório digital?
-Essas funcionalidades fazem parte de soluções Enterprise.
+Essas funcionalidades fazem parte do plano Service.
 
 ### A Credituz atende somente o mercado imobiliário?
 Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
 
 ### Quanto custa começar?
-Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS Start custa R$ 297/mês com 15 análises, 200 cobranças e 3 usuários. O Growth custa R$ 697/mês com 50 análises, 600 cobranças, 10 usuários e embedded credit. O Enterprise é sob medida.
+Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS Start custa R$ 297/mês com 15 análises, 200 cobranças e 3 usuários. O Growth custa R$ 697/mês com 50 análises, 600 cobranças, 10 usuários e embedded credit. O Service é sob medida.
 
 ## Contato e site
 
