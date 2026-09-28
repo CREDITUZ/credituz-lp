@@ -47,7 +47,7 @@ O Growth inclui tudo do Credituz OS Start e organiza o ciclo **Cliente → Anál
 
 Pipeline de crédito é a visão das operações desde a simulação até a contratação. Ele mostra etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido. No Growth, esse pipeline fica no CRM Corban para que comercial e operação trabalhem sobre o mesmo contexto.
 
-Para análise, política interna, CRM de crédito e cobrança com volume menor, o [Credituz OS Start](https://credituz.ai/pages/credituz-os.html) atende. Para volumes e módulos customizados, o [Enterprise](https://credituz.ai/pages/enterprise.html).
+Para análise, política interna, CRM de crédito e cobrança com volume menor, o [Credituz OS Start](https://credituz.ai/pages/credituz-os.html) atende. Para volumes e módulos customizados, o [Service](https://credituz.ai/pages/enterprise.html).
 
 ## Indicadores divulgados
 
@@ -58,5 +58,5 @@ Para análise, política interna, CRM de crédito e cobrança com volume menor, 
 
 - Plano Growth: https://credituz.ai/pages/corban-ai.html
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
-- Enterprise: https://credituz.ai/pages/enterprise.html
+- Service: https://credituz.ai/pages/enterprise.html
 - Contato: https://wa.me/5511936209409
