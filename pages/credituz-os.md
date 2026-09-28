@@ -32,7 +32,7 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 - **Credituz OS:** análise, política, CRM de crédito, cobrança e recebíveis.
 - **Credituz OS Growth:** o plano que soma simulação, solicitação e acompanhamento de crédito multibanco no CRM Corban.
 - **Credituz Score:** análise avulsa por R$ 27,70, sem mensalidade.
-- **Enterprise:** combinação de produtos, integrações e módulos sob medida.
+- **Service:** combinação de produtos, integrações e módulos sob medida.
 
 ## Perguntas frequentes
 
@@ -42,7 +42,7 @@ Uma cobrança é uma régua completa, não um envio isolado. Pode conter até tr
 
 ### O Credituz OS inclui financiamento multibanco?
 
-A jornada de simulação, pedido e acompanhamento de financiamento multibanco faz parte do plano Growth e do Enterprise.
+A jornada de simulação, pedido e acompanhamento de financiamento multibanco faz parte do plano Growth e do Service.
 
 ### O Credituz OS concede crédito?
 
@@ -53,5 +53,5 @@ Não. Ele apoia a análise, a decisão interna e a gestão da operação. A conc
 - Produto: https://credituz.ai/pages/credituz-os.html
 - Credituz OS Growth: https://credituz.ai/pages/corban-ai.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
-- Enterprise: https://credituz.ai/pages/enterprise.html
+- Service: https://credituz.ai/pages/enterprise.html
 - Contato: https://wa.me/5511936209409
