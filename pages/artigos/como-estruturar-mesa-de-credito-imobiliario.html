@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Como estruturar uma mesa de crédito imobiliário · Credituz</title>
+<meta name="description" content="Como estruturar uma mesa de crédito imobiliário: política de crédito, dados, critérios, alçadas de aprovação, garantias, SLA e indicadores.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html">
+<link rel="alternate" type="text/markdown" href="https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.md">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Como estruturar uma mesa de crédito imobiliário: guia passo a passo">
+<meta property="og:description" content="Passo a passo para montar a mesa de crédito: política, alçadas, garantias, SLA e indicadores.">
+<meta property="og:url" content="https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html">
+<meta property="og:image" content="https://credituz.ai/assets/credituz-ai.png">
+<meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="2026-09-28">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Como estruturar uma mesa de crédito imobiliário: guia passo a passo", "description": "Como estruturar uma mesa de crédito imobiliário: política de crédito, dados, critérios, alçadas de aprovação, garantias, SLA e indicadores.", "datePublished": "2026-09-28", "dateModified": "2026-09-28", "inLanguage": "pt-BR", "mainEntityOfPage": "https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html", "image": "https://credituz.ai/assets/credituz-ai.png", "author": {"@type": "Person", "name": "Pedro Braz"}, "publisher": {"@type": "Organization", "name": "Credituz", "url": "https://credituz.ai/", "logo": {"@type": "ImageObject", "url": "https://credituz.ai/icon-512.png"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Qual o primeiro passo para estruturar uma mesa de crédito imobiliário?", "acceptedAnswer": {"@type": "Answer", "text": "Definir os objetivos com a diretoria (taxa de aprovação desejada, inadimplência tolerada e prazo de resposta) e, a partir deles, escrever a política de crédito."}}, {"@type": "Question", "name": "O que são alçadas de aprovação?", "acceptedAnswer": {"@type": "Answer", "text": "São os limites de decisão de cada papel da mesa. Casos dentro da política são aprovados na primeira instância; desvios sobem para coordenação e exceções relevantes vão ao comitê de crédito."}}, {"@type": "Question", "name": "Qual garantia usar no financiamento direto de imóveis?", "acceptedAnswer": {"@type": "Answer", "text": "A mais comum é a alienação fiduciária de imóvel, prevista na Lei 9.514/1997, que permite a consolidação da propriedade pela via extrajudicial em caso de inadimplência, seguindo os procedimentos da lei."}}, {"@type": "Question", "name": "Como medir se a política de crédito está funcionando?", "acceptedAnswer": {"@type": "Answer", "text": "Acompanhando a inadimplência por safra (mês de aprovação), junto com taxa de aprovação, tempo de decisão, taxa de exceções e recuperação."}}, {"@type": "Question", "name": "Preciso de equipe própria para ter uma mesa de crédito?", "acceptedAnswer": {"@type": "Answer", "text": "Não necessariamente. É possível operar com equipe enxuta apoiada em software, como o Credituz OS, ou contratar a operação completa no plano Service, mantendo a política e as metas sob controle da empresa."}}]}
+</script>
+<style>
+:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.answer-box { background:var(--paper-warm); border-radius:20px; padding:24px; margin:0 0 38px; }
+.answer-box h2 { font-size:24px; margin:0 0 12px; }
+.answer-box p:last-child { margin-bottom:0; }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:19px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Gestão</span>
+        <span>28 set 2026</span>
+        <span>8 min</span>
+    </div>
+    <h1 class="title">Como estruturar uma mesa de crédito imobiliário: guia passo a passo</h1>
+    <p class="article-sub">Objetivos, política de crédito, fontes de dados, alçadas, garantias e indicadores para incorporadoras, loteadoras e construtoras.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<section class="answer-box" aria-labelledby="resposta-como-estruturar-mesa-de-credito-imobiliario"><h2 id="resposta-como-estruturar-mesa-de-credito-imobiliario">Como estruturar uma mesa de crédito imobiliário?</h2><p><strong>Para estruturar uma mesa de crédito imobiliário, defina objetivos, escreva a política de crédito, escolha fontes de dados, fixe critérios e alçadas de aprovação, estabeleça SLA, formalize com garantias e monitore a carteira por safra.</strong> A mesa pode ser operada por equipe própria, por uma equipe apoiada em software ou por um parceiro que entrega a operação como serviço. O que não muda é que a política, as alçadas e as metas precisam estar escritas antes da primeira aprovação.</p></section>
+
+<h2>Para quem serve uma mesa de crédito no setor imobiliário</h2>
+<p>A mesa de crédito é o conjunto de pessoas, regras e sistemas que decide quem recebe crédito, em que condições e como esse crédito será acompanhado. No setor imobiliário, ela é necessária em dois cenários principais:</p>
+<ul>
+<li><strong>Financiamento direto:</strong> incorporadoras, loteadoras e construtoras que vendem parcelado com recursos próprios e passam a ser credoras do comprador, muitas vezes por anos.</li>
+<li><strong>Pré-aprovação antes do repasse:</strong> empresas que vendem na planta e precisam saber, antes da assinatura, se o comprador terá condição de obter financiamento bancário na entrega das chaves.</li>
+</ul>
+<p>Nos dois casos, uma venda aprovada sem critério tende a voltar como distrato ou inadimplência. A Lei 13.786/2018 (Lei do Distrato) regulou as consequências do desfazimento do contrato [4], mas a melhor defesa continua sendo selecionar bem o comprador desde o início. O ambiente pede cuidado: a Serasa registrou 81,7 milhões de inadimplentes no Brasil em fevereiro de 2026 [3].</p>
+
+<h2>Passo a passo: como estruturar uma mesa de crédito imobiliário</h2>
+
+<h3>1. Defina os objetivos da mesa</h3>
+<p>Antes de qualquer regra, a diretoria precisa responder: qual taxa de aprovação é aceitável? Qual inadimplência a empresa tolera por empreendimento? Qual o prazo máximo de resposta ao corretor? Esses objetivos orientam todas as escolhas seguintes e evitam que a mesa vire só um "freio de vendas".</p>
+
+<h3>2. Escreva a política de crédito</h3>
+<p>A <strong>política de crédito</strong> é o documento que traduz os objetivos em regras. Ela deve cobrir público-alvo, entrada mínima, prazo máximo, comprometimento de renda, garantias exigidas, tratamento de restrições e condições de renegociação. Um roteiro detalhado está em <a href="/pages/politica-de-credito-para-incorporadoras.html">política de crédito para incorporadoras</a>.</p>
+
+<h3>3. Escolha dados e fontes</h3>
+<ul>
+<li><strong>Bureaus de crédito:</strong> restrições, protestos, histórico de consultas e score.</li>
+<li><strong>Cadastro Positivo:</strong> histórico de pagamentos em dia, regulado pela Lei 12.414/2011 [2].</li>
+<li><strong>Renda:</strong> holerites, extratos, declaração de imposto de renda, pró-labore para autônomos e empresários.</li>
+<li><strong>Documentos:</strong> identidade, comprovante de residência, estado civil (relevante para garantias e anuência do cônjuge).</li>
+</ul>
+<p>Todo esse tratamento de dados precisa seguir a LGPD, que admite a proteção do crédito como base legal, com finalidade definida e segurança adequada [5].</p>
+
+<h3>4. Defina critérios de decisão</h3>
+<p>Critérios objetivos reduzem subjetividade. Exemplos comuns: score mínimo por faixa de produto, comprometimento máximo da renda com a parcela, ausência de restrições acima de determinado valor, entrada mínima maior para perfis de maior risco. Combine critérios eliminatórios (reprova direto) com critérios de pontuação (definem condição). Veja como o <a href="/pages/analise-de-credito-score-incorporadoras.html">score para incorporadoras</a> pode apoiar essa etapa.</p>
+
+<h3>5. Estabeleça alçadas de aprovação e comitê</h3>
+<p>As <strong>alçadas de aprovação</strong> definem quem pode decidir o quê. Casos dentro da política podem ser aprovados pelo analista ou automaticamente; casos com desvio sobem para coordenação; exceções relevantes vão ao comitê de crédito. O comitê deve ter reunião com periodicidade fixa, ata e registro do motivo de cada exceção.</p>
+
+<h3>6. Fixe o SLA</h3>
+<p>Defina prazos por etapa: recebimento da documentação completa, análise, decisão, formalização. O SLA protege a venda (o comprador não esfria) e dá previsibilidade para o time comercial.</p>
+
+<h3>7. Formalize com garantias</h3>
+<p>No financiamento direto, a garantia mais usada é a <strong>alienação fiduciária de imóvel</strong>, prevista na Lei 9.514/1997 [1]: o comprador transfere a propriedade fiduciária ao credor até quitar a dívida, e em caso de inadimplência o procedimento de consolidação da propriedade é extrajudicial, via cartório de registro de imóveis. O contrato deve prever prazo de carência, intimação e leilão conforme a lei. Contratos e assinatura podem ser digitais, como explicado em <a href="/pages/contratos-imobiliarios-digitais.html">contratos imobiliários digitais</a>.</p>
+
+<h3>8. Monitore e cobre</h3>
+<p>A mesa não termina na aprovação. Monitore mudanças no perfil do cliente, dispare lembretes antes do vencimento e tenha uma régua clara para atrasos. A cobrança deve respeitar o CDC, que proíbe expor o consumidor a ridículo ou constrangimento (art. 42) [6]. Uma <a href="/pages/regua-de-cobranca-imobiliaria.html">régua de cobrança imobiliária</a> bem desenhada resolve boa parte dos atrasos antes que virem inadimplência.</p>
+
+<h2>Mesa de crédito na pré-aprovação antes do repasse</h2>
+<p>Quando a venda é na planta e o saldo será financiado por banco na entrega das chaves, a mesa de crédito tem outro papel: estimar, no momento da venda, se o comprador terá condição de ser aprovado anos depois. Isso exige olhar renda e comprometimento projetados, simular o valor da parcela bancária e reavaliar a carteira periodicamente durante a obra. Compradores que perdem capacidade de pagamento no meio do caminho devem ser identificados cedo, para negociar alternativas antes do repasse e reduzir o risco de distrato.</p>
+
+<h2>Indicadores que a mesa de crédito deve acompanhar</h2>
+<ul>
+<li><strong>Taxa de aprovação:</strong> propostas aprovadas sobre propostas analisadas, por empreendimento e por canal.</li>
+<li><strong>Tempo de decisão:</strong> da documentação completa à resposta ao corretor.</li>
+<li><strong>Inadimplência por safra:</strong> atraso acima de 30, 60 e 90 dias, agrupado pelo mês de aprovação. É o indicador que mostra se a política está funcionando.</li>
+<li><strong>Taxa de exceções:</strong> quanto do volume foi aprovado fora da política, e como essas exceções performam.</li>
+<li><strong>Recuperação:</strong> percentual de valores em atraso recuperados por faixa de atraso.</li>
+</ul>
+
+<h2>Papéis e alçadas: exemplo hipotético</h2>
+<p>A tabela abaixo é um <strong>exemplo hipotético</strong>, para ilustrar a lógica. Os valores e percentuais devem ser definidos na política de cada empresa.</p>
+<div class="table-wrap" style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:24px"><table>
+<thead>
+<tr><th>Papel</th><th>Responsabilidade</th><th>Alçada (exemplo hipotético)</th></tr>
+</thead>
+<tbody>
+<tr><td>Analista de crédito (ou agente automatizado)</td><td>Coleta, conferência, consulta e parecer</td><td>Aprova casos 100% dentro da política, saldo financiado até R$ 300 mil</td></tr>
+<tr><td>Coordenador de crédito</td><td>Revisa desvios leves e exceções documentais</td><td>Até R$ 600 mil ou comprometimento de renda até 5 pontos acima do limite</td></tr>
+<tr><td>Comitê de crédito</td><td>Decide exceções relevantes e revisa a política</td><td>Acima de R$ 600 mil, restrições ativas ou entrada abaixo do mínimo</td></tr>
+<tr><td>Diretoria</td><td>Define objetivos, aprova a política e metas</td><td>Mudanças de política e condições especiais de lançamento</td></tr>
+<tr><td>Cobrança e carteira</td><td>Régua, renegociação e monitoramento</td><td>Renegocia dentro das regras; acima disso, sobe ao coordenador</td></tr>
+</tbody>
+</table></div>
+
+<h2>Erros comuns ao montar uma mesa de crédito</h2>
+<ul>
+<li><strong>Política só na cabeça do diretor:</strong> sem documento, cada analista decide de um jeito.</li>
+<li><strong>Olhar só o score:</strong> score sem renda, entrada e garantia é decisão incompleta.</li>
+<li><strong>Exceção vira regra:</strong> aprovar "só dessa vez" repetidamente sem medir o resultado.</li>
+<li><strong>Cobrança só depois do atraso:</strong> a cobrança preventiva custa menos e preserva o relacionamento.</li>
+<li><strong>Não medir por safra:</strong> sem safra, a empresa só descobre que a política falhou anos depois.</li>
+<li><strong>Planilhas soltas:</strong> sem histórico e trilha de decisão, fica difícil auditar e melhorar.</li>
+</ul>
+
+<h2>Montar equipe, usar software ou contratar a operação?</h2>
+<p>Com a estrutura desenhada, falta decidir quem executa. Há três caminhos:</p>
+<ol>
+<li><strong>Montar equipe própria:</strong> maior controle, mas exige contratar, treinar e manter analistas e cobradores, além de ferramentas.</li>
+<li><strong>Usar software:</strong> o <a href="/pages/credituz-os.html">Credituz OS</a> conecta análise de crédito, política de crédito própria, decisão, CRM de crédito, monitoramento e cobrança. O plano Start custa R$ 297/mês (15 análises, até 200 cobranças, 3 usuários) e o Growth, R$ 697/mês (50 análises, até 600 cobranças, 10 usuários, mais embedded credit com simulação multibanco).</li>
+<li><strong>Contratar a operação:</strong> no plano <a href="/pages/enterprise.html">Service</a>, a Credituz opera análise, decisão, cobrança e acompanhamento da carteira com agentes de IA e supervisão humana, e a empresa define política e metas. Entenda o modelo em <a href="/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html">BPO de análise de crédito</a>.</li>
+</ol>
+<p>Para empresas que ainda estão testando o modelo, o Credituz Score permite análises avulsas por R$ 27,70, sem mensalidade.</p>
+
+<h2>Perguntas frequentes</h2>
+<h3>Qual o primeiro passo para estruturar uma mesa de crédito imobiliário?</h3>
+<p>Definir os objetivos com a diretoria (taxa de aprovação desejada, inadimplência tolerada e prazo de resposta) e, a partir deles, escrever a política de crédito.</p>
+<h3>O que são alçadas de aprovação?</h3>
+<p>São os limites de decisão de cada papel da mesa. Casos dentro da política são aprovados na primeira instância; desvios sobem para coordenação e exceções relevantes vão ao comitê de crédito.</p>
+<h3>Qual garantia usar no financiamento direto de imóveis?</h3>
+<p>A mais comum é a alienação fiduciária de imóvel, prevista na Lei 9.514/1997, que permite a consolidação da propriedade pela via extrajudicial em caso de inadimplência, seguindo os procedimentos da lei.</p>
+<h3>Como medir se a política de crédito está funcionando?</h3>
+<p>Acompanhando a inadimplência por safra (mês de aprovação), junto com taxa de aprovação, tempo de decisão, taxa de exceções e recuperação.</p>
+<h3>Preciso de equipe própria para ter uma mesa de crédito?</h3>
+<p>Não necessariamente. É possível operar com equipe enxuta apoiada em software, como o Credituz OS, ou contratar a operação completa no plano Service, mantendo a política e as metas sob controle da empresa.</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://www.planalto.gov.br/ccivil_03/leis/l9514.htm" target="_blank" rel="noopener">Lei 9.514/1997 (alienação fiduciária de coisa imóvel)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm" target="_blank" rel="noopener">Lei 12.414/2011 (Cadastro Positivo)</a> (Planalto)</li>
+<li><a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">10 anos do Mapa da Inadimplência</a> (Serasa)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm" target="_blank" rel="noopener">Lei 13.786/2018 (Lei do Distrato)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank" rel="noopener">Lei 13.709/2018 (Lei Geral de Proteção de Dados Pessoais)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm" target="_blank" rel="noopener">Lei 8.078/1990 (Código de Defesa do Consumidor)</a> (Planalto)</li></ol></div>
+    <div class="cta-box">
+        <h3>Sua mesa de crédito em um só sistema</h3>
+        <p>O Credituz OS conecta análise, política de crédito própria, decisão, CRM, monitoramento e cobrança.</p>
+        <a href="/pages/credituz-os.html" class="cta-btn">Conhecer o Credituz OS →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
+</body>
+</html>

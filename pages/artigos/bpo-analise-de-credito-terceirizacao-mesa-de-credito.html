@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BPO de análise de crédito: terceirizar a mesa de crédito</title>
+<meta name="description" content="BPO de análise de crédito: quando terceirizar a mesa de crédito, o que fica com a empresa, riscos, LGPD, SLA e checklist para contratar.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html">
+<link rel="alternate" type="text/markdown" href="https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.md">
+<meta property="og:type" content="article">
+<meta property="og:title" content="BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário">
+<meta property="og:description" content="Quando terceirizar a mesa de crédito, o que fica com a empresa e como contratar com segurança.">
+<meta property="og:url" content="https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html">
+<meta property="og:image" content="https://credituz.ai/assets/credituz-ai.png">
+<meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="2026-09-28">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário", "description": "BPO de análise de crédito: quando terceirizar a mesa de crédito, o que fica com a empresa, riscos, LGPD, SLA e checklist para contratar.", "datePublished": "2026-09-28", "dateModified": "2026-09-28", "inLanguage": "pt-BR", "mainEntityOfPage": "https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html", "image": "https://credituz.ai/assets/credituz-ai.png", "author": {"@type": "Person", "name": "Pedro Braz"}, "publisher": {"@type": "Organization", "name": "Credituz", "url": "https://credituz.ai/", "logo": {"@type": "ImageObject", "url": "https://credituz.ai/icon-512.png"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "BPO de análise de crédito substitui a política de crédito da empresa?", "acceptedAnswer": {"@type": "Answer", "text": "Não. O BPO executa a análise e decide dentro da política que a empresa define. Critérios, alçadas, garantias e metas continuam sendo responsabilidade da empresa."}}, {"@type": "Question", "name": "Qual a diferença entre BPO tradicional e operação de crédito como serviço?", "acceptedAnswer": {"@type": "Answer", "text": "O BPO tradicional escala com pessoas alocadas pelo fornecedor. A operação como serviço usa software com agentes de IA para executar as etapas repetitivas e supervisão humana para as exceções, com mais padronização e rastreabilidade."}}, {"@type": "Question", "name": "Terceirizar a análise de crédito é compatível com a LGPD?", "acceptedAnswer": {"@type": "Answer", "text": "Sim, desde que haja base legal (a proteção do crédito está prevista na LGPD), contrato que defina controlador e operador, medidas de segurança e registro das operações de tratamento."}}, {"@type": "Question", "name": "Imobiliárias também podem terceirizar a mesa de crédito?", "acceptedAnswer": {"@type": "Answer", "text": "Sim. Imobiliárias que intermediam vendas parceladas ou encaminham crédito para bancos podem terceirizar a análise e o acompanhamento, mantendo as regras de aprovação sob seu controle."}}, {"@type": "Question", "name": "Quanto custa o plano Service da Credituz?", "acceptedAnswer": {"@type": "Answer", "text": "O Service é sob medida, com contrato anual, e roda sobre o Credituz OS Growth. O valor depende do volume de análises, cobranças e integrações necessárias."}}]}
+</script>
+<style>
+:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.answer-box { background:var(--paper-warm); border-radius:20px; padding:24px; margin:0 0 38px; }
+.answer-box h2 { font-size:24px; margin:0 0 12px; }
+.answer-box p:last-child { margin-bottom:0; }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:19px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Gestão</span>
+        <span>28 set 2026</span>
+        <span>8 min</span>
+    </div>
+    <h1 class="title">BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário</h1>
+    <p class="article-sub">O que um BPO de crédito faz, a diferença entre BPO tradicional e operação como serviço com IA, riscos e um checklist para contratar.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<section class="answer-box" aria-labelledby="resposta-bpo-analise-de-credito-terceirizacao-mesa-de-credito"><h2 id="resposta-bpo-analise-de-credito-terceirizacao-mesa-de-credito">O que é BPO de análise de crédito e quando faz sentido contratar?</h2><p><strong>BPO de análise de crédito é a terceirização da operação da mesa de crédito: um parceiro analisa, decide dentro da sua política, formaliza, cobra e acompanha a carteira, enquanto a empresa mantém a política, as alçadas e as metas.</strong> Faz sentido quando o volume de propostas oscila, quando montar uma equipe própria custa mais do que o crédito gera de margem ou quando a empresa precisa de padrão e rastreabilidade que a planilha não entrega. Para incorporadoras, loteadoras, construtoras com financiamento direto e imobiliárias, o modelo permite vender parcelado sem transformar a empresa em financeira.</p></section>
+
+<h2>Por que empresas do setor imobiliário estão terceirizando a mesa de crédito</h2>
+<p>Quem vende imóvel ou lote com financiamento direto assume o papel de credor. Isso exige analisar o comprador antes do contrato, formalizar garantias, emitir boletos ou Pix, cobrar em dia e agir rápido quando a parcela atrasa. Na prática, muitas empresas fazem isso com uma pessoa do financeiro, uma planilha e consultas avulsas a bureaus. Funciona até o volume crescer.</p>
+<p>O contexto reforça o cuidado. Segundo o Mapa da Inadimplência da Serasa, o Brasil tinha 81,7 milhões de pessoas inadimplentes em fevereiro de 2026, com dívida média de R$ 6.598,13 [2]. Em uma carteira de recebíveis imobiliários, cada decisão de crédito mal feita pode virar anos de cobrança. Por isso a pergunta deixou de ser "precisamos de uma mesa de crédito?" e passou a ser "quem vai operar essa mesa?".</p>
+
+<h3>Sinais de que é hora de terceirizar a análise de crédito</h3>
+<ul>
+<li>Propostas ficam dias paradas esperando análise e o corretor perde o comprador.</li>
+<li>Cada analista decide de um jeito, sem critério escrito nem registro do motivo.</li>
+<li>A cobrança começa só depois que a parcela vence e ninguém acompanha safras.</li>
+<li>O volume é sazonal (lançamentos, feirões) e não justifica equipe fixa.</li>
+<li>A diretoria não consegue responder, com dados, qual é a inadimplência por empreendimento.</li>
+</ul>
+
+<h2>O que um BPO de crédito faz na prática</h2>
+<p>Um BPO de análise de crédito não é só um "analista terceirizado". Uma operação completa cobre o ciclo de vida do crédito, do cadastro à quitação.</p>
+<ol>
+<li><strong>Análise:</strong> coleta de documentos, consulta a bureaus e ao Cadastro Positivo (dentro das regras da Lei 12.414/2011 [3]), verificação de renda e comprometimento, cálculo de score. Veja como funciona a <a href="/pages/analise-de-credito-com-ia.html">análise de crédito com IA</a>.</li>
+<li><strong>Decisão dentro da política do cliente:</strong> aprova, reprova ou aprova com condição (entrada maior, prazo menor, coobrigado), sempre respeitando os limites que a empresa definiu.</li>
+<li><strong>Formalização:</strong> contrato, assinatura eletrônica (Lei 14.063/2020 [4]) e registro de garantias, como a alienação fiduciária da Lei 9.514/1997 [5].</li>
+<li><strong>Cobrança:</strong> régua preventiva antes do vencimento, lembrete no dia e contato após o atraso, com tom adequado. Detalhes em <a href="/pages/regua-de-cobranca-imobiliaria.html">régua de cobrança imobiliária</a>.</li>
+<li><strong>Acompanhamento de carteira:</strong> monitoramento de clientes, renegociação dentro de regras, relatórios por safra e por empreendimento.</li>
+</ol>
+
+<h2>BPO tradicional x operação de crédito como serviço</h2>
+<p>O BPO tradicional é baseado em gente: o fornecedor aloca analistas e cobradores, cobra por posição ou por volume e escala contratando mais pessoas. É um modelo conhecido, mas herda os limites de qualquer operação manual: fila, variação de critério entre analistas, custo que cresce junto com o volume e pouca visibilidade para o contratante.</p>
+<p>A <strong>operação de crédito como serviço</strong> segue outra lógica, próxima da tese conhecida como "service as software": em vez de vender uma ferramenta para a empresa operar, o fornecedor entrega o trabalho feito, executado por software com agentes de IA e revisado por pessoas. Os agentes fazem a parte repetitiva (coleta, conferência de documentos, consultas, cálculo, disparo da régua), e a supervisão humana cuida das exceções, dos casos fora da política e do relacionamento.</p>
+
+<h3>O que muda para quem contrata</h3>
+<ul>
+<li><strong>Consistência:</strong> a política vira regra executada, não interpretação individual.</li>
+<li><strong>Rastreabilidade:</strong> cada decisão fica registrada com dados consultados, regra aplicada e responsável.</li>
+<li><strong>Escala:</strong> um pico de propostas não exige contratar e treinar gente às pressas.</li>
+<li><strong>Visibilidade:</strong> a empresa acompanha fila, prazos e carteira no mesmo sistema.</li>
+</ul>
+<p>É o desenho do plano <a href="/pages/enterprise.html">Service da Credituz</a>: a Credituz opera análise, decisão, cobrança e acompanhamento da carteira com agentes de IA e supervisão humana, sobre o <a href="/pages/credituz-os.html">Credituz OS</a> Growth, e a empresa define política e metas. Em outras palavras, a Credituz não entrega só o software, entrega o trabalho feito.</p>
+
+<h2>Comparativo: equipe própria, BPO tradicional, software self-service e Service</h2>
+<div class="table-wrap" style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:24px"><table>
+<thead>
+<tr><th>Critério</th><th>Equipe própria</th><th>BPO tradicional</th><th>Software self-service</th><th>Service (operação como serviço)</th></tr>
+</thead>
+<tbody>
+<tr><td>Quem executa</td><td>Seus analistas</td><td>Analistas do fornecedor</td><td>Sua equipe, com apoio da ferramenta</td><td>Agentes de IA com supervisão humana do fornecedor</td></tr>
+<tr><td>Quem define a política</td><td>Empresa</td><td>Empresa (às vezes com sugestão do fornecedor)</td><td>Empresa</td><td>Empresa</td></tr>
+<tr><td>Escala em picos</td><td>Lenta (contratação)</td><td>Média (alocação de pessoas)</td><td>Depende da equipe interna</td><td>Alta (capacidade do software)</td></tr>
+<tr><td>Padronização da decisão</td><td>Varia por pessoa</td><td>Varia por pessoa</td><td>Alta, se a equipe seguir as regras</td><td>Alta, regras executadas e exceções revisadas</td></tr>
+<tr><td>Rastreabilidade</td><td>Baixa a média</td><td>Depende dos relatórios do fornecedor</td><td>Alta</td><td>Alta, com trilha de auditoria</td></tr>
+<tr><td>Esforço de gestão interna</td><td>Alto</td><td>Médio</td><td>Médio a alto</td><td>Baixo (foco em política e metas)</td></tr>
+<tr><td>Indicado para</td><td>Grandes operações com time maduro</td><td>Volumes estáveis e processos simples</td><td>Empresas com equipe e volume previsível</td><td>Quem quer o resultado sem montar a operação</td></tr>
+</tbody>
+</table></div>
+<p>Para quem já tem equipe e quer apenas ferramenta, o Credituz OS em modalidade self-service (Start, R$ 297/mês, ou Growth, R$ 697/mês) pode ser suficiente. Para consultas pontuais, o <a href="/pages/credituz-score.html">Credituz Score</a> custa R$ 27,70 por análise avulsa, sem mensalidade.</p>
+
+<h2>Terceirização de mesa de crédito: o que fica com a empresa</h2>
+<p>Terceirizar a operação não é terceirizar a responsabilidade pelo risco. Alguns pontos devem continuar dentro de casa:</p>
+<ul>
+<li><strong>Política de crédito:</strong> público-alvo, critérios mínimos, entrada, prazo, comprometimento de renda e garantias. Um bom ponto de partida é o guia de <a href="/pages/politica-de-credito-para-incorporadoras.html">política de crédito para incorporadoras</a>.</li>
+<li><strong>Alçadas:</strong> até onde o parceiro decide sozinho e a partir de onde a decisão sobe para a diretoria ou o comitê.</li>
+<li><strong>Metas:</strong> taxa de aprovação desejada, inadimplência tolerada, prazo de resposta e metas de recuperação.</li>
+<li><strong>Exceções estratégicas:</strong> condições especiais de lançamento, permutas, vendas para investidores.</li>
+</ul>
+<p>Na prática, a empresa passa a gerir a mesa pelo que importa (regras e resultados) e deixa a execução com quem tem escala para isso.</p>
+
+<h2>Riscos de terceirizar a análise de crédito e como mitigar</h2>
+<h3>LGPD e dados pessoais</h3>
+<p>A análise de crédito trata dados pessoais e financeiros do comprador. A LGPD prevê a proteção do crédito como base legal para tratamento (art. 7º, X) [1], mas exige finalidade clara, segurança e contrato que defina os papéis de controlador e operador. Exija do fornecedor controle de acesso, registro das operações e plano de resposta a incidentes.</p>
+<h3>Governança e perda de controle</h3>
+<p>Um risco comum é o parceiro aprovar demais para bater volume ou reprovar demais por excesso de cautela. A mitigação é política escrita, alçadas claras e relatórios periódicos de aprovação e inadimplência por safra, com reuniões de revisão.</p>
+<h3>SLA</h3>
+<p>Defina prazos por etapa: tempo de análise, tempo de formalização, tempo de primeiro contato em atraso. Sem SLA, a terceirização vira mais uma fila.</p>
+<h3>Auditoria de decisões</h3>
+<p>Cada aprovação ou reprovação precisa mostrar quais dados foram consultados, qual regra foi aplicada e quem revisou. Quando há agentes de IA no processo, isso é ainda mais importante: a decisão precisa ser explicável e revisável por um humano.</p>
+
+<h2>Checklist para contratar um BPO de análise de crédito</h2>
+<ol>
+<li>O fornecedor decide dentro da <strong>sua</strong> política ou impõe um modelo próprio?</li>
+<li>Existe trilha de auditoria de cada decisão, acessível pela empresa?</li>
+<li>O contrato define papéis na LGPD, confidencialidade e devolução dos dados ao fim da relação?</li>
+<li>Há SLA por etapa, com relatórios e consequências em caso de descumprimento?</li>
+<li>A operação cobre análise, formalização, cobrança e carteira, ou só uma parte?</li>
+<li>A cobrança respeita o CDC e evita constrangimento do devedor?</li>
+<li>A empresa tem acesso em tempo real a fila, carteira e indicadores, por exemplo em um CRM de crédito?</li>
+<li>Existem integrações com ERP, contratos digitais, assinatura e meios de pagamento?</li>
+<li>Como são tratadas as exceções e quem as aprova?</li>
+</ol>
+<p>Se a operação ainda está sendo desenhada, vale ler também <a href="/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html">como estruturar uma mesa de crédito imobiliário</a> antes de decidir entre montar equipe, comprar software ou contratar o serviço.</p>
+
+<h2>Perguntas frequentes</h2>
+<h3>BPO de análise de crédito substitui a política de crédito da empresa?</h3>
+<p>Não. O BPO executa a análise e decide dentro da política que a empresa define. Critérios, alçadas, garantias e metas continuam sendo responsabilidade da empresa.</p>
+<h3>Qual a diferença entre BPO tradicional e operação de crédito como serviço?</h3>
+<p>O BPO tradicional escala com pessoas alocadas pelo fornecedor. A operação como serviço usa software com agentes de IA para executar as etapas repetitivas e supervisão humana para as exceções, com mais padronização e rastreabilidade.</p>
+<h3>Terceirizar a análise de crédito é compatível com a LGPD?</h3>
+<p>Sim, desde que haja base legal (a proteção do crédito está prevista na LGPD), contrato que defina controlador e operador, medidas de segurança e registro das operações de tratamento.</p>
+<h3>Imobiliárias também podem terceirizar a mesa de crédito?</h3>
+<p>Sim. Imobiliárias que intermediam vendas parceladas ou encaminham crédito para bancos podem terceirizar a análise e o acompanhamento, mantendo as regras de aprovação sob seu controle.</p>
+<h3>Quanto custa o plano Service da Credituz?</h3>
+<p>O Service é sob medida, com contrato anual, e roda sobre o Credituz OS Growth. O valor depende do volume de análises, cobranças e integrações necessárias.</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank" rel="noopener">Lei 13.709/2018 (Lei Geral de Proteção de Dados Pessoais)</a> (Planalto)</li>
+<li><a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">10 anos do Mapa da Inadimplência</a> (Serasa)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm" target="_blank" rel="noopener">Lei 12.414/2011 (Cadastro Positivo)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14063.htm" target="_blank" rel="noopener">Lei 14.063/2020 (assinaturas eletrônicas)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/leis/l9514.htm" target="_blank" rel="noopener">Lei 9.514/1997 (alienação fiduciária de coisa imóvel)</a> (Planalto)</li></ol></div>
+    <div class="cta-box">
+        <h3>Quer a mesa de crédito operando sem montar a equipe?</h3>
+        <p>No plano Service, a Credituz opera análise, decisão, cobrança e carteira com IA e supervisão humana, dentro da sua política.</p>
+        <a href="/pages/enterprise.html" class="cta-btn">Conhecer o plano Service →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
+</body>
+</html>

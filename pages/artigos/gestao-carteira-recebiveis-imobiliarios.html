@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gestão de carteira de recebíveis imobiliários: guia</title>
+<meta name="description" content="Gestão de carteira de recebíveis imobiliários: aging, roll rate, safra, concentração, conciliação e dados prontos para auditoria, funding e CRI.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.html">
+<link rel="alternate" type="text/markdown" href="https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.md">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Gestão de carteira de recebíveis imobiliários: indicadores e rotina">
+<meta property="og:description" content="Aging, roll rate, safra e rotina de monitoramento para quem vende imóveis com parcelamento próprio.">
+<meta property="og:url" content="https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.html">
+<meta property="og:image" content="https://credituz.ai/assets/credituz-ai.png">
+<meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="2026-09-28">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Gestão de carteira de recebíveis imobiliários: indicadores e rotina", "description": "Gestão de carteira de recebíveis imobiliários: aging, roll rate, safra, concentração, conciliação e dados prontos para auditoria, funding e CRI.", "datePublished": "2026-09-28", "dateModified": "2026-09-28", "inLanguage": "pt-BR", "mainEntityOfPage": "https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.html", "image": "https://credituz.ai/assets/credituz-ai.png", "author": {"@type": "Person", "name": "Pedro Braz"}, "publisher": {"@type": "Organization", "name": "Credituz", "url": "https://credituz.ai/", "logo": {"@type": "ImageObject", "url": "https://credituz.ai/icon-512.png"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Qual a diferença entre aging e inadimplência por faixa?", "acceptedAnswer": {"@type": "Answer", "text": "A inadimplência por faixa olha só o saldo vencido, separado por dias de atraso. O aging distribui todo o saldo da carteira, incluindo o que ainda vai vencer, por janelas de tempo. Um mostra o problema atual, o outro mostra o fluxo completo."}}, {"@type": "Question", "name": "O que é análise por safra em uma carteira imobiliária?", "acceptedAnswer": {"@type": "Answer", "text": "É agrupar os contratos pelo período em que foram vendidos e comparar o desempenho de cada grupo com o mesmo tempo de vida. Isso mostra se mudanças na política de crédito ou no perfil de venda melhoraram ou pioraram a qualidade da carteira."}}, {"@type": "Question", "name": "Recebíveis de loteamento podem lastrear CRI?", "acceptedAnswer": {"@type": "Answer", "text": "Créditos imobiliários, incluindo os de venda de lotes, podem ser usados como lastro de CRI dentro do regime da Lei 14.430/2022. A viabilidade de cada operação depende da qualidade da carteira, da documentação e da estruturação feita pela securitizadora."}}, {"@type": "Question", "name": "Com que frequência a carteira deve ser monitorada?", "acceptedAnswer": {"@type": "Answer", "text": "Conciliação e alertas de atraso curto pedem acompanhamento diário ou semanal. Aging, roll rate, safras e concentração costumam ser fechados mensalmente, com revisão trimestral da política de crédito."}}, {"@type": "Question", "name": "Quais dados um investidor pede para avaliar uma carteira?", "acceptedAnswer": {"@type": "Answer", "text": "Normalmente base de contratos com saldo e garantia, histórico de pagamentos, aging, inadimplência por faixa, curvas de safra, concentração e documentação dos contratos. Ter tudo em base única reduz o prazo de análise."}}]}
+</script>
+<style>
+:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.answer-box { background:var(--paper-warm); border-radius:20px; padding:24px; margin:0 0 38px; }
+.answer-box h2 { font-size:24px; margin:0 0 12px; }
+.answer-box p:last-child { margin-bottom:0; }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:19px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Gestão</span>
+        <span>28 set 2026</span>
+        <span>9 min</span>
+    </div>
+    <h1 class="title">Gestão de carteira de recebíveis imobiliários: indicadores e rotina</h1>
+    <p class="article-sub">Como incorporadoras e loteadoras com parcelamento próprio medem, monitoram e organizam a carteira para cobrar melhor e captar funding.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<section class="answer-box" aria-labelledby="resposta-gestao-carteira-recebiveis-imobiliarios"><h2 id="resposta-gestao-carteira-recebiveis-imobiliarios">O que é gestão de carteira de recebíveis imobiliários?</h2><p><strong>Gestão de carteira de recebíveis imobiliários é o acompanhamento contínuo das parcelas a receber de vendas parceladas, para medir risco, garantir o recebimento e manter a carteira pronta para servir de lastro a funding.</strong> Envolve conciliar pagamentos, acompanhar indicadores como aging, roll rate e desempenho por safra, monitorar o comprador ao longo do contrato e organizar os dados para auditoria e investidores. Para incorporadoras e loteadoras com parcelamento próprio, a carteira é um dos principais ativos do balanço.</p></section>
+
+<p>Quem vende com financiamento direto (venda na planta com parcelas até as chaves, loteamento em 100 ou mais meses, tabela própria após o habite-se) acumula, a cada venda, um contrato que gera fluxo de caixa por anos. Somados, esses contratos formam a <strong>carteira de recebíveis</strong>. Muitas empresas tratam essa carteira apenas como contas a receber no financeiro. Tratar como ativo, com gestão própria, muda o que é possível fazer com ela.</p>
+
+<h2>O que compõe a carteira de recebíveis</h2>
+
+<p>Uma carteira de recebíveis imobiliários reúne todos os direitos de crédito gerados por contratos de compra e venda parcelada. Para cada contrato, os dados essenciais são:</p>
+
+<ul>
+<li>Identificação do comprador e do imóvel (unidade ou lote).</li>
+<li>Valor original, saldo devedor e índice de correção (INCC, IPCA ou outro previsto em contrato).</li>
+<li>Cronograma de parcelas: mensais, intermediárias, anuais e chaves.</li>
+<li>Histórico de pagamentos, com data, valor e meio de pagamento.</li>
+<li>Garantia vinculada, como alienação fiduciária (Lei 9.514/1997) [2] ou, nos loteamentos, o próprio compromisso de compra e venda registrado, regido pela Lei 6.766/1979 [3].</li>
+<li>Status: em dia, em atraso, renegociado, distratado ou quitado.</li>
+</ul>
+
+<p>Se esses dados estão espalhados entre planilhas, sistema financeiro e pastas de contratos, a gestão fica lenta e sujeita a erro. O primeiro passo é ter uma base única e confiável.</p>
+
+<h2>Por que a carteira é um ativo</h2>
+
+<p>Uma carteira bem gerida pode ser usada para levantar recursos. As alternativas mais comuns são a cessão de recebíveis, empréstimos com a carteira em garantia e a securitização, em que os créditos servem de lastro para a emissão de Certificados de Recebíveis Imobiliários (CRI). A Lei 14.430/2022 [1] consolidou o marco legal da securitização no Brasil, tratando das companhias securitizadoras, do regime fiduciário e da emissão de certificados de recebíveis.</p>
+
+<p>Em qualquer dessas operações, quem financia ou investe vai analisar a qualidade da carteira. As perguntas são previsíveis: qual a inadimplência por faixa de atraso, como as safras antigas se comportaram, quanto da carteira está concentrado em poucos compradores ou em um único empreendimento, qual o prazo médio de recebimento. Quem já tem essas respostas prontas negocia melhor e em menos tempo.</p>
+
+<h2>Indicadores de monitoramento de carteira de crédito</h2>
+
+<p>O <strong>monitoramento de carteira de crédito</strong> depende de poucos indicadores, calculados sempre da mesma forma e acompanhados ao longo do tempo.</p>
+
+<h3>Inadimplência por faixa de atraso</h3>
+<p>Separar o saldo em atraso por faixas (1 a 30 dias, 31 a 60, 61 a 90, acima de 90) mostra onde está o problema. Um atraso curto elevado pode indicar falha operacional (boleto não chegou, cliente trocou de conta). Um volume crescente acima de 90 dias indica risco de perda e pode exigir medidas contratuais.</p>
+
+<h3>Aging da carteira</h3>
+<p>O <strong>aging da carteira</strong> é a distribuição de todo o saldo, em dia e em atraso, por tempo de vencimento. Ele responde a duas perguntas: quanto a empresa tem a receber em cada janela futura e quanto já está vencido em cada faixa. É a base para projeção de caixa e para conversas com financiadores.</p>
+
+<h3>Roll rate</h3>
+<p>O roll rate mede a migração entre faixas de atraso de um mês para o outro. Exemplo hipotético: se, de R$ 1 milhão em atraso de 1 a 30 dias em março, R$ 250 mil chegaram a abril na faixa de 31 a 60 dias, o roll rate dessa transição foi de 25%. Roll rates crescentes antecipam aumento de inadimplência grave antes que ele apareça no saldo acima de 90 dias.</p>
+
+<h3>Análise por safra (vintage)</h3>
+<p>Na análise por safra, os contratos são agrupados pelo mês ou trimestre de venda, e cada grupo é acompanhado pelo mesmo número de meses desde a origem. Isso permite comparar safras de forma justa: se as vendas do segundo semestre têm inadimplência maior aos 12 meses do que as do primeiro, algo mudou na política de crédito, no perfil de comprador ou no canal de vendas. É o indicador que mais conversa com a <a href="/pages/analise-de-credito-score-incorporadoras.html">análise de crédito e score para incorporadoras</a>.</p>
+
+<h3>Concentração</h3>
+<p>Mede quanto do saldo está em poucos compradores, em um único empreendimento ou em uma única região. Carteiras concentradas são mais sensíveis a eventos isolados.</p>
+
+<h3>Prazo médio e duration</h3>
+<p>O prazo médio indica em quanto tempo, em média, as parcelas vencem. A duration, de forma simplificada, é o prazo médio ponderado pelo valor presente de cada parcela: parcelas grandes e próximas puxam a duration para baixo, parcelas distantes puxam para cima. Ela ajuda a casar o prazo da carteira com o prazo do funding.</p>
+
+<div class="table-wrap" style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:24px"><table>
+<thead><tr><th>Indicador</th><th>Fórmula (simplificada)</th><th>Para que serve</th></tr></thead>
+<tbody>
+<tr><td>Inadimplência por faixa</td><td>Saldo vencido na faixa ÷ saldo total da carteira</td><td>Localizar o atraso e priorizar a cobrança</td></tr>
+<tr><td>Aging</td><td>Saldo distribuído por faixas de vencimento (a vencer e vencido)</td><td>Projetar caixa e apresentar a carteira</td></tr>
+<tr><td>Roll rate</td><td>Saldo que migrou da faixa N para N+1 ÷ saldo na faixa N no mês anterior</td><td>Antecipar piora da inadimplência</td></tr>
+<tr><td>Safra (vintage)</td><td>Inadimplência acumulada da safra após X meses da venda</td><td>Avaliar a qualidade da política de crédito ao longo do tempo</td></tr>
+<tr><td>Concentração</td><td>Saldo dos N maiores devedores (ou do maior empreendimento) ÷ saldo total</td><td>Medir exposição a eventos isolados</td></tr>
+<tr><td>Prazo médio</td><td>Σ (prazo de cada parcela × valor) ÷ Σ valores</td><td>Entender o horizonte de recebimento</td></tr>
+<tr><td>Duration</td><td>Σ (prazo × valor presente da parcela) ÷ Σ valores presentes</td><td>Casar prazo da carteira com o do funding</td></tr>
+</tbody>
+</table></div>
+
+<h2>Conciliação e baixa de pagamentos</h2>
+
+<p>Nenhum indicador é confiável se a baixa estiver errada. Pagamentos por Pix sem identificação, boletos pagos em duplicidade, depósitos de terceiros e pagamentos parciais geram diferenças entre o que o banco recebeu e o que o sistema registra. Quando a baixa atrasa, o cliente que pagou recebe cobrança indevida, o que desgasta a relação e pode gerar reclamação.</p>
+
+<p>A rotina ideal concilia diariamente o extrato bancário com as parcelas em aberto, com regras para os casos que não batem automaticamente. O guia de <a href="/pages/baixa-conciliacao-recebiveis-imobiliarios.html">baixa e conciliação de recebíveis imobiliários</a> detalha esse processo.</p>
+
+<h2>Monitoramento contínuo do comprador</h2>
+
+<p>A análise de crédito feita na venda é um retrato daquele momento. Em contratos de cinco, dez ou mais anos, o perfil do comprador muda. O monitoramento contínuo reaplica, com periodicidade definida e base legal adequada nos termos da LGPD [4], a leitura de risco sobre a carteira ativa: evolução do comportamento de pagamento, mudanças cadastrais, sinais externos de crédito.</p>
+
+<p>O resultado é uma classificação de risco atualizada por contrato, que alimenta a cobrança. Clientes que pioram entram em ações antes do vencimento, como descrito no artigo sobre <a href="/pages/artigos/cobranca-preventiva-imobiliaria.html">cobrança preventiva imobiliária</a>.</p>
+
+<h3>Alertas</h3>
+<p>Alertas transformam indicadores em ação. Exemplos úteis:</p>
+<ul>
+<li>Primeira parcela não paga em contrato novo (sinal forte de problema na origem).</li>
+<li>Cliente migrou de faixa de atraso pela segunda vez consecutiva.</li>
+<li>Roll rate de uma faixa acima do limite definido pela política.</li>
+<li>Safra recente com inadimplência acima da média das anteriores no mesmo mês de vida.</li>
+<li>Pagamento recebido sem identificação por mais de dois dias úteis.</li>
+</ul>
+
+<h2>Rotina semanal e mensal de gestão</h2>
+
+<p>A gestão da carteira funciona melhor com cadência fixa.</p>
+
+<p><strong>Semanal:</strong></p>
+<ul>
+<li>Revisar pendências de conciliação e baixas manuais.</li>
+<li>Acompanhar a faixa de 1 a 30 dias e os contratos novos com primeira parcela em aberto.</li>
+<li>Tratar os alertas da semana e registrar o encaminhamento de cada um.</li>
+</ul>
+
+<p><strong>Mensal:</strong></p>
+<ul>
+<li>Fechar aging e inadimplência por faixa.</li>
+<li>Calcular roll rates e atualizar as curvas de safra.</li>
+<li>Revisar concentração, prazo médio e duration.</li>
+<li>Levar os resultados para a revisão da <a href="/pages/regua-de-cobranca-imobiliaria.html">régua de cobrança</a> e da política de crédito.</li>
+</ul>
+
+<h2>Dados organizados para auditoria e investidor</h2>
+
+<p>Auditores, financiadores e securitizadoras pedem, em geral, o mesmo pacote: base de contratos com saldo, cronograma e garantia; histórico completo de pagamentos; relatório de aging; curvas de safra; documentação dos contratos e das garantias. Montar esse pacote do zero a cada pedido consome semanas.</p>
+
+<p>A alternativa é manter a <strong>gestão de carteira de recebíveis imobiliários</strong> já estruturada para isso: uma base única, com trilha de alterações (quem baixou, quem renegociou, quando), indicadores calculados sempre pelo mesmo critério e contratos vinculados a cada registro. Termos que aparecem nessas conversas, como cessão, lastro e regime fiduciário, estão reunidos no <a href="/pages/glossario.html">glossário</a>.</p>
+
+<p>Uma operação de crédito integrada, que conecta análise na origem, política, decisão, cobrança e monitoramento em um só sistema, produz esses dados como consequência do trabalho diário, e não como um projeto à parte.</p>
+
+<h2>Perguntas frequentes</h2>
+<h3>Qual a diferença entre aging e inadimplência por faixa?</h3>
+<p>A inadimplência por faixa olha só o saldo vencido, separado por dias de atraso. O aging distribui todo o saldo da carteira, incluindo o que ainda vai vencer, por janelas de tempo. Um mostra o problema atual, o outro mostra o fluxo completo.</p>
+<h3>O que é análise por safra em uma carteira imobiliária?</h3>
+<p>É agrupar os contratos pelo período em que foram vendidos e comparar o desempenho de cada grupo com o mesmo tempo de vida. Isso mostra se mudanças na política de crédito ou no perfil de venda melhoraram ou pioraram a qualidade da carteira.</p>
+<h3>Recebíveis de loteamento podem lastrear CRI?</h3>
+<p>Créditos imobiliários, incluindo os de venda de lotes, podem ser usados como lastro de CRI dentro do regime da Lei 14.430/2022. A viabilidade de cada operação depende da qualidade da carteira, da documentação e da estruturação feita pela securitizadora.</p>
+<h3>Com que frequência a carteira deve ser monitorada?</h3>
+<p>Conciliação e alertas de atraso curto pedem acompanhamento diário ou semanal. Aging, roll rate, safras e concentração costumam ser fechados mensalmente, com revisão trimestral da política de crédito.</p>
+<h3>Quais dados um investidor pede para avaliar uma carteira?</h3>
+<p>Normalmente base de contratos com saldo e garantia, histórico de pagamentos, aging, inadimplência por faixa, curvas de safra, concentração e documentação dos contratos. Ter tudo em base única reduz o prazo de análise.</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14430.htm" target="_blank" rel="noopener">Lei 14.430/2022, securitização e certificados de recebíveis</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/leis/l9514.htm" target="_blank" rel="noopener">Lei 9.514/1997, Sistema de Financiamento Imobiliário e alienação fiduciária</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/leis/l6766.htm" target="_blank" rel="noopener">Lei 6.766/1979, parcelamento do solo urbano</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank" rel="noopener">Lei 13.709/2018, Lei Geral de Proteção de Dados</a> (Planalto)</li></ol></div>
+    <div class="cta-box">
+        <h3>Sua carteira em um só sistema</h3>
+        <p>O Credituz OS conecta análise de crédito, política, decisão, cobrança e monitoramento da carteira de recebíveis imobiliários.</p>
+        <a href="/pages/credituz-os.html" class="cta-btn">Conhecer o Credituz OS →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
+</body>
+</html>

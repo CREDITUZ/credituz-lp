@@ -16,7 +16,7 @@
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo
 - [Credituz OS Growth em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico do plano em texto limpo
 - [Service em Markdown](https://credituz.ai/pages/enterprise.md): escopo canônico da oferta em texto limpo
-- [Blog Credituz](https://credituz.ai/pages/blog.html): 119 artigos sobre IA, crédito e gestão imobiliária
+- [Blog Credituz](https://credituz.ai/pages/blog.html): 127 artigos sobre IA, crédito e gestão imobiliária
 - [Glossário Credituz](https://credituz.ai/pages/glossario.html): 55+ termos de mercado imobiliário, crédito e IA (GEO/AEO/AIO)
 - [Versão markdown do glossário](https://credituz.ai/pages/glossario.md): glossário em texto limpo para IA
 - [Home em inglês](https://credituz.ai/home.en.md): English version of the homepage
@@ -25,6 +25,7 @@
 
 ## Tecnologia & IA
 
+- [Esteira de crédito automatizada: guia para o setor imobiliário](https://credituz.ai/pages/artigos/esteira-de-credito-imobiliario-automatizada.html): Da captação à cobrança: as etapas, o papel da IA, a LGPD e os critérios para escolher um software de esteira de crédito.
 - [Como a IA está Transformando a Avaliação de Imóveis (AVM): Precisão, Velocidade e Aplicações no Mercado Brasileiro](https://credituz.ai/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.html): A revolução da Inteligência Artificial redefine o valor de propriedades, impulsionando eficiência e insights estratégico
 - [Integração com Sienge e Senior: Como a IA Conecta ERP e CRM para Incorporadoras](https://credituz.ai/pages/artigos/integracao-sienge-senior-ia-erp-crm-incorporadoras.html): A sinergia entre IA, ERP e CRM está redefinindo a gestão no mercado imobiliário, trazendo eficiência e decisões baseadas
 - [Como escolher a melhor plataforma de IA imobiliária: guia definitivo para gestores em 2025](https://credituz.ai/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.html): Guia completo para gestores imobiliários sobre como escolher a melhor plataforma de IA em 2025, com critérios, comparati
@@ -92,6 +93,9 @@
 
 ## Crédito & Financiamento
 
+- [Análise de risco na venda direta de imóveis: guia para incorporadoras](https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html): O que avaliar no comprador quando a incorporadora ou loteadora financia a venda, e como transformar isso em política, decisão e cobrança.
+- [Análise de crédito para loteamentos: critérios, política e carteira](https://credituz.ai/pages/artigos/analise-de-credito-para-loteamentos.html): Como loteadoras que parcelam lotes por prazos longos podem aprovar com critério, decidir em minutos e cuidar da carteira até a quitação.
+- [Empresas que fazem análise de crédito: tipos e como escolher](https://credituz.ai/pages/artigos/empresas-de-analise-de-credito-como-escolher.html): Birôs, plataformas de decisão, BPO e consultorias: o que cada tipo entrega, quando usar e o que perguntar antes de contratar.
 - [Portabilidade de Financiamento Imobiliário: Quando Vale a Pena e Como Fazer](https://credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html): Entenda o processo, as vantagens e os passos para otimizar seu crédito imobiliário no Brasil.
 - [Como usar FGTS para quitar parcelas do financiamento imobiliário em 2025: Guia Completo para Compradores e Corretores](https://credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html): Desvende as regras atualizadas e maximize o uso do seu Fundo de Garantia para aliviar o peso das prestações da casa próp
 - [Taxa de Juros do Financiamento Imobiliário em 2025: Comparativo entre Bancos e Tendências com a Selic](https://credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html): Um panorama completo das projeções da Selic, comparativo de taxas bancárias e tendências do mercado imobiliário para con
@@ -113,6 +117,10 @@
 
 ## Gestão
 
+- [BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário](https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html): O que um BPO de crédito faz, a diferença entre BPO tradicional e operação como serviço com IA, riscos e um checklist para contratar.
+- [Como estruturar uma mesa de crédito imobiliário: guia passo a passo](https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html): Objetivos, política de crédito, fontes de dados, alçadas, garantias e indicadores para incorporadoras, loteadoras e construtoras.
+- [Cobrança preventiva imobiliária: como agir antes do vencimento](https://credituz.ai/pages/artigos/cobranca-preventiva-imobiliaria.html): Sinais de risco, ações de D-5 a D0, segmentação, canais e limites legais para reduzir a inadimplência em construtoras e incorporadoras.
+- [Gestão de carteira de recebíveis imobiliários: indicadores e rotina](https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.html): Como incorporadoras e loteadoras com parcelamento próprio medem, monitoram e organizam a carteira para cobrar melhor e captar funding.
 - [SPE Imobiliária: O que é, Como Abrir e Como a IA Ajuda na Gestão Financeira](https://credituz.ai/pages/artigos/spe-imobiliaria-ia-gestao-financeira.html): Entenda a Sociedade de Propósito Específico no setor imobiliário e como a Inteligência Artificial revoluciona sua gestão
 - [Gestão de Loteamentos com IA: Revolucionando Vendas, Contratos, Cobrança e Relacionamento com Compradores](https://credituz.ai/pages/artigos/gestao-loteamentos-ia-vendas-contratos-cobranca-relacionamento.html): Descubra como a Inteligência Artificial está transformando a gestão de loteamentos no Brasil, otimizando processos e imp
 - [Channel Manager para Locação de Imóveis: O que é, Como Funciona e Melhores Ferramentas](https://credituz.ai/pages/artigos/channel-manager-locacao-imoveis-guia-completo.html): Otimize a gestão de imóveis para aluguel de longo prazo com as melhores ferramentas e estratégias de Channel Manager.

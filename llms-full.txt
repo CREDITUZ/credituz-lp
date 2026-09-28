@@ -163,11 +163,18 @@ Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS Start custa 
 
 # Blog Credituz — Conteúdo completo
 
-> 119 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
+> 127 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
 
 
 ## Tecnologia & IA
 
+
+### Esteira de crédito automatizada: guia para o setor imobiliário
+- URL: https://credituz.ai/pages/artigos/esteira-de-credito-imobiliario-automatizada.html
+- Markdown: https://credituz.ai/pages/artigos/esteira-de-credito-imobiliario-automatizada.md
+- Resumo: Da captação à cobrança: as etapas, o papel da IA, a LGPD e os critérios para escolher um software de esteira de crédito.
+- P: O que é uma esteira de crédito automatizada? R: É o fluxo que leva um pedido de crédito da entrada até a liberação e o acompanhamento da carteira, com etapas padronizadas, regras de política aplicadas por sistema e registro de cada decisão. A automação cuida das tarefas repetitivas e deixa as exceções para pessoas.
+- P: A assinatura eletrônica tem validade em contratos imobiliários? R: A Lei 14.063/2020 define os tipos de assinatura eletrônica (simples, avançada e qualificada) e os usos admitidos para cada uma. O tipo adequado depende do documento e da exigência do cartório ou do registro envolvido, por isso a esteira deve permitir escolher o nível de assinatura por tipo de contrato.
 
 ### Como a IA está Transformando a Avaliação de Imóveis (AVM): Precisão, Velocidade e Aplicações no Mercado Brasileiro
 - URL: https://credituz.ai/pages/artigos/como-ia-transforma-avaliacao-imoveis-avm-precisao-velocidade-aplicacoes.html
@@ -492,6 +499,27 @@ Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS Start custa 
 ## Crédito & Financiamento
 
 
+### Análise de risco na venda direta de imóveis: guia para incorporadoras
+- URL: https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html
+- Markdown: https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.md
+- Resumo: O que avaliar no comprador quando a incorporadora ou loteadora financia a venda, e como transformar isso em política, decisão e cobrança.
+- P: O que é análise de risco na venda direta de imóveis? R: É a avaliação da capacidade e da disposição de pagamento do comprador quando a própria incorporadora ou loteadora financia o imóvel. Ela considera identidade, renda, histórico, endividamento, entrada, prazo e garantias, e resulta em uma decisão de aprovar, aprovar com condição ou recusar.
+- P: Qual a diferença entre financiamento direto com a incorporadora e financiamento bancário? R: No financiamento bancário, o banco analisa o crédito e assume o risco do comprador. No financiamento direto com a incorporadora, a própria empresa concede o parcelamento e fica com o risco de inadimplência e de distrato, por isso precisa de análise e política próprias.
+
+### Análise de crédito para loteamentos: critérios, política e carteira
+- URL: https://credituz.ai/pages/artigos/analise-de-credito-para-loteamentos.html
+- Markdown: https://credituz.ai/pages/artigos/analise-de-credito-para-loteamentos.md
+- Resumo: Como loteadoras que parcelam lotes por prazos longos podem aprovar com critério, decidir em minutos e cuidar da carteira até a quitação.
+- P: O que é análise de crédito para loteamentos? R: É a avaliação do comprador de lote quando a loteadora concede parcelamento próprio. Ela verifica identidade, renda, histórico, endividamento e entrada, aplica a política do empreendimento e registra a decisão de aprovar, aprovar com condição ou recusar.
+- P: O que acontece quando o comprador de lote deixa de pagar? R: Pela Lei 6.766/1979, o comprador é intimado pelo Registro de Imóveis a pagar as prestações vencidas, e o contrato é considerado rescindido 30 dias depois de constituído em mora, se não houver pagamento. Na resolução, os valores pagos são restituídos com os descontos e prazos previstos no art. 32-A.
+
+### Empresas que fazem análise de crédito: tipos e como escolher
+- URL: https://credituz.ai/pages/artigos/empresas-de-analise-de-credito-como-escolher.html
+- Markdown: https://credituz.ai/pages/artigos/empresas-de-analise-de-credito-como-escolher.md
+- Resumo: Birôs, plataformas de decisão, BPO e consultorias: o que cada tipo entrega, quando usar e o que perguntar antes de contratar.
+- P: Quais são as principais empresas que fazem análise de crédito no Brasil? R: Entre os birôs de crédito com atuação nacional estão Serasa Experian, Boa Vista (que faz parte da Equifax desde 2023), SPC Brasil e Quod. Além deles, há plataformas de decisão de crédito, empresas de BPO que operam a análise e consultorias que desenham políticas.
+- P: Qual a diferença entre birô de crédito e plataforma de análise de crédito? R: O birô fornece dados e scores sobre pessoas e empresas. A plataforma de análise de crédito consome dados de várias fontes, aplica a política definida pela empresa e registra a decisão, com fluxo, alçadas e histórico.
+
 ### Portabilidade de Financiamento Imobiliário: Quando Vale a Pena e Como Fazer
 - URL: https://credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
 - Markdown: https://credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.md
@@ -584,6 +612,34 @@ Uma análise avulsa no Credituz Score custa R$ 27,70. O Credituz OS Start custa 
 
 ## Gestão
 
+
+### BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário
+- URL: https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html
+- Markdown: https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.md
+- Resumo: O que um BPO de crédito faz, a diferença entre BPO tradicional e operação como serviço com IA, riscos e um checklist para contratar.
+- P: BPO de análise de crédito substitui a política de crédito da empresa? R: Não. O BPO executa a análise e decide dentro da política que a empresa define. Critérios, alçadas, garantias e metas continuam sendo responsabilidade da empresa.
+- P: Qual a diferença entre BPO tradicional e operação de crédito como serviço? R: O BPO tradicional escala com pessoas alocadas pelo fornecedor. A operação como serviço usa software com agentes de IA para executar as etapas repetitivas e supervisão humana para as exceções, com mais padronização e rastreabilidade.
+
+### Como estruturar uma mesa de crédito imobiliário: guia passo a passo
+- URL: https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html
+- Markdown: https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.md
+- Resumo: Objetivos, política de crédito, fontes de dados, alçadas, garantias e indicadores para incorporadoras, loteadoras e construtoras.
+- P: Qual o primeiro passo para estruturar uma mesa de crédito imobiliário? R: Definir os objetivos com a diretoria (taxa de aprovação desejada, inadimplência tolerada e prazo de resposta) e, a partir deles, escrever a política de crédito.
+- P: O que são alçadas de aprovação? R: São os limites de decisão de cada papel da mesa. Casos dentro da política são aprovados na primeira instância; desvios sobem para coordenação e exceções relevantes vão ao comitê de crédito.
+
+### Cobrança preventiva imobiliária: como agir antes do vencimento
+- URL: https://credituz.ai/pages/artigos/cobranca-preventiva-imobiliaria.html
+- Markdown: https://credituz.ai/pages/artigos/cobranca-preventiva-imobiliaria.md
+- Resumo: Sinais de risco, ações de D-5 a D0, segmentação, canais e limites legais para reduzir a inadimplência em construtoras e incorporadoras.
+- P: Cobrança preventiva é permitida pelo CDC? R: Sim. Enviar lembretes e meios de pagamento antes do vencimento é prática legítima. O que o CDC veda, no art. 42, é expor o consumidor a ridículo, constrangimento ou ameaça, o que vale tanto antes quanto depois do vencimento.
+- P: Quantos dias antes do vencimento enviar o lembrete? R: Uma janela comum é de D-5 a D0, com lembrete inicial cinco dias antes, envio do Pix e da segunda via por volta de D-3 e aviso final no dia. O ideal é ajustar pelo histórico de resposta de cada segmento.
+
+### Gestão de carteira de recebíveis imobiliários: indicadores e rotina
+- URL: https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.html
+- Markdown: https://credituz.ai/pages/artigos/gestao-carteira-recebiveis-imobiliarios.md
+- Resumo: Como incorporadoras e loteadoras com parcelamento próprio medem, monitoram e organizam a carteira para cobrar melhor e captar funding.
+- P: Qual a diferença entre aging e inadimplência por faixa? R: A inadimplência por faixa olha só o saldo vencido, separado por dias de atraso. O aging distribui todo o saldo da carteira, incluindo o que ainda vai vencer, por janelas de tempo. Um mostra o problema atual, o outro mostra o fluxo completo.
+- P: O que é análise por safra em uma carteira imobiliária? R: É agrupar os contratos pelo período em que foram vendidos e comparar o desempenho de cada grupo com o mesmo tempo de vida. Isso mostra se mudanças na política de crédito ou no perfil de venda melhoraram ou pioraram a qualidade da carteira.
 
 ### SPE Imobiliária: O que é, Como Abrir e Como a IA Ajuda na Gestão Financeira
 - URL: https://credituz.ai/pages/artigos/spe-imobiliaria-ia-gestao-financeira.html

@@ -1,6 +1,6 @@
 # Credituz — Landing Page + Blog + GEO
 
-Site estático da Credituz: landing page, blog com 119 artigos e pacote GEO (Generative Engine Optimization) para visibilidade em IAs.
+Site estático da Credituz: landing page, blog com 127 artigos e pacote GEO (Generative Engine Optimization) para visibilidade em IAs.
 
 ## Estrutura
 
@@ -14,8 +14,8 @@ sitemap.xml             → Mapa do site (243 URLs)
 pages/
   blog.html             → Índice do blog com busca e filtros
   artigos/
-    *.html              → 119 páginas de artigo (layout de leitura)
-    *.md                → 119 versões markdown (para IAs)
+    *.html              → 127 páginas de artigo (layout de leitura)
+    *.md                → 127 versões markdown (para IAs)
 ```
 
 ## Deploy via GitHub Pages
@@ -29,7 +29,7 @@ pages/
 ```bash
 git init
 git add .
-git commit -m "Deploy: LP + blog (119 artigos) + pacote GEO"
+git commit -m "Deploy: LP + blog (127 artigos) + pacote GEO"
 git branch -M main
 git remote add origin https://github.com/SEU_USUARIO/SEU_REPO.git
 git push -u origin main

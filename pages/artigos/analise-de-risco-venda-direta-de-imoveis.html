@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Análise de risco na venda direta de imóveis · Credituz</title>
+<meta name="description" content="Como fazer a análise de risco na venda direta de imóveis: renda, histórico, garantias, distrato, matriz de decisão e cobrança preventiva.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html">
+<link rel="alternate" type="text/markdown" href="https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.md">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Análise de risco na venda direta de imóveis: guia para incorporadoras">
+<meta property="og:description" content="O que avaliar no comprador quando a incorporadora financia a venda direta.">
+<meta property="og:url" content="https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html">
+<meta property="og:image" content="https://credituz.ai/assets/credituz-ai.png">
+<meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="2026-09-28">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Análise de risco na venda direta de imóveis: guia para incorporadoras", "description": "Como fazer a análise de risco na venda direta de imóveis: renda, histórico, garantias, distrato, matriz de decisão e cobrança preventiva.", "datePublished": "2026-09-28", "dateModified": "2026-09-28", "inLanguage": "pt-BR", "mainEntityOfPage": "https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html", "image": "https://credituz.ai/assets/credituz-ai.png", "author": {"@type": "Person", "name": "Pedro Braz"}, "publisher": {"@type": "Organization", "name": "Credituz", "url": "https://credituz.ai/", "logo": {"@type": "ImageObject", "url": "https://credituz.ai/icon-512.png"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "O que é análise de risco na venda direta de imóveis?", "acceptedAnswer": {"@type": "Answer", "text": "É a avaliação da capacidade e da disposição de pagamento do comprador quando a própria incorporadora ou loteadora financia o imóvel. Ela considera identidade, renda, histórico, endividamento, entrada, prazo e garantias, e resulta em uma decisão de aprovar, aprovar com condição ou recusar."}}, {"@type": "Question", "name": "Qual a diferença entre financiamento direto com a incorporadora e financiamento bancário?", "acceptedAnswer": {"@type": "Answer", "text": "No financiamento bancário, o banco analisa o crédito e assume o risco do comprador. No financiamento direto com a incorporadora, a própria empresa concede o parcelamento e fica com o risco de inadimplência e de distrato, por isso precisa de análise e política próprias."}}, {"@type": "Question", "name": "Quais garantias usar na venda direta de imóveis?", "acceptedAnswer": {"@type": "Answer", "text": "A alienação fiduciária de imóvel, prevista na Lei 9.514/1997, é uma opção comum porque permite recuperar o imóvel por procedimento extrajudicial em caso de inadimplência. A escolha deve constar da política de crédito e ser validada com apoio jurídico."}}, {"@type": "Question", "name": "A Lei do Distrato afeta a análise de crédito?", "acceptedAnswer": {"@type": "Answer", "text": "Sim. A Lei 13.786/2018 define regras e limites para a pena em caso de desfazimento do contrato. Como o distrato gera devolução de valores e custo de revenda, avaliar bem o comprador antes da venda reduz esse risco."}}, {"@type": "Question", "name": "Como acompanhar o risco de crédito do comprador depois da venda?", "acceptedAnswer": {"@type": "Answer", "text": "Com monitoramento periódico da carteira, indicadores de inadimplência por safra e faixa de risco, e uma régua de cobrança preventiva que avisa o comprador antes e logo após o vencimento."}}]}
+</script>
+<style>
+:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.answer-box { background:var(--paper-warm); border-radius:20px; padding:24px; margin:0 0 38px; }
+.answer-box h2 { font-size:24px; margin:0 0 12px; }
+.answer-box p:last-child { margin-bottom:0; }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:19px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="../blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Crédito &amp; Financiamento</span>
+        <span>28 set 2026</span>
+        <span>8 min</span>
+    </div>
+    <h1 class="title">Análise de risco na venda direta de imóveis: guia para incorporadoras</h1>
+    <p class="article-sub">O que avaliar no comprador quando a incorporadora ou loteadora financia a venda, e como transformar isso em política, decisão e cobrança.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong>Pedro Braz</strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<section class="answer-box" aria-labelledby="resposta-analise-de-risco-venda-direta-de-imoveis"><h2 id="resposta-analise-de-risco-venda-direta-de-imoveis">Como fazer a análise de risco na venda direta de imóveis?</h2><p><strong>A análise de risco na venda direta de imóveis avalia se o comprador consegue pagar as parcelas que a própria incorporadora ou loteadora financia, e em quais condições.</strong> Ela combina identidade, renda e comprometimento, histórico de crédito, endividamento, entrada, prazo e garantias, e termina em uma decisão registrada: aprovar, aprovar com condição ou recusar. Depois da venda, o risco continua sendo acompanhado com monitoramento da carteira e cobrança preventiva.</p></section>
+
+<h2>Por que a venda direta exige análise de risco própria</h2>
+<p>Quando a incorporadora vende com tabela direta, parcelamento próprio, pró-soluto ou saldo pós-chaves, ela deixa de ser apenas vendedora e passa a ser credora. O risco que um banco assumiria no repasse fica no balanço da empresa, às vezes por anos. Se a análise é superficial, o problema aparece tarde: parcelas em atraso, distratos, obra sem caixa e uma carteira difícil de ceder ou securitizar.</p>
+<p>O cenário de crédito das pessoas físicas reforça a necessidade de critério. Segundo a Serasa, o Brasil tinha 81,7 milhões de inadimplentes em fevereiro de 2026, com dívida média de R$ 6.598,13, e 42% dos inadimplentes atuais já estavam negativados dez anos antes [1]. Ou seja, uma parte relevante do risco é recorrente e aparece no histórico, desde que alguém olhe para ele de forma consistente.</p>
+
+<h3>As modalidades mais comuns de financiamento direto com a incorporadora</h3>
+<ul>
+<li><strong>Tabela direta:</strong> o comprador paga o imóvel em parcelas diretamente à incorporadora, sem banco.</li>
+<li><strong>Parcelamento próprio de loteadora:</strong> prazos longos, tickets menores e grande volume de contratos.</li>
+<li><strong>Pró-soluto:</strong> a parte do preço que o financiamento bancário não cobre e que a incorporadora parcela.</li>
+<li><strong>Saldo pós-chaves:</strong> parcelas que continuam depois da entrega, quando a obra já não gera receita nova.</li>
+</ul>
+<p>Cada modalidade tem um perfil de risco diferente, mas todas pedem o mesmo ponto de partida: saber quem é o comprador, quanto ele pode pagar e o que acontece se ele parar de pagar.</p>
+
+<h2>O que analisar no risco de crédito do comprador</h2>
+<p>A análise de risco de crédito do comprador deve seguir um roteiro fixo. Critério que muda de caso para caso não é política, é opinião. Os blocos abaixo cobrem o essencial.</p>
+
+<h3>1. Identidade e documentação</h3>
+<p>Confirme CPF ou CNPJ, validade dos documentos, comprovante de endereço e, no caso de pessoa jurídica, quadro societário. Fraude de identidade costuma aparecer justamente na primeira parcela não paga. Como a análise trata dados pessoais, a coleta e o uso precisam ter finalidade clara e base legal, conforme a LGPD [2].</p>
+
+<h3>2. Renda e comprometimento</h3>
+<p>Mais importante que a renda bruta é o comprometimento: quanto da renda mensal a parcela vai consumir, somada às dívidas que o comprador já tem. Parcelas corrigidas por índice de preços podem crescer ao longo do contrato, então a simulação deve considerar o valor da parcela em cenários de reajuste, não só a primeira.</p>
+
+<h3>3. Histórico de crédito: bureaus e Cadastro Positivo</h3>
+<p>Consultas a bureaus mostram restrições, protestos e ações. O Cadastro Positivo, regulado pela Lei 12.414/2011, permite ver também o histórico de pagamentos em dia [3], o que ajuda a separar quem tem uma restrição antiga isolada de quem atrasa de forma sistemática. Um bom modelo considera os dois lados: o que o comprador deve e como ele costuma pagar.</p>
+
+<h3>4. Endividamento total</h3>
+<p>Financiamento de veículo, cartão, empréstimo pessoal e outros compromissos competem com a parcela do imóvel. Um comprador com boa renda e endividamento alto pode ser mais arriscado do que um comprador de renda média e poucas dívidas.</p>
+
+<h3>5. Entrada e prazo</h3>
+<p>A entrada mede o compromisso do comprador e reduz a exposição da incorporadora. Prazo longo reduz a parcela, mas aumenta o tempo de exposição e a chance de mudança na vida financeira do comprador. Entrada e prazo são as duas alavancas mais diretas para ajustar o risco sem recusar a venda.</p>
+
+<h3>6. Garantias</h3>
+<p>A alienação fiduciária de imóvel, prevista na Lei 9.514/1997, permite que a propriedade fique com o credor até a quitação e que, em caso de inadimplência, a propriedade seja consolidada por procedimento extrajudicial [4]. O Marco Legal das Garantias (Lei 14.711/2023) atualizou regras de execução extrajudicial de garantias imobiliárias [5]. A escolha da garantia deve estar definida na política, com apoio jurídico, porque altera o custo e o tempo de recuperação em caso de inadimplência.</p>
+
+<h3>7. Risco de distrato</h3>
+<p>Na incorporação, a Lei 13.786/2018 (Lei do Distrato) disciplina o desfazimento do contrato por distrato ou inadimplemento do adquirente e limita a pena convencional a 25% da quantia paga, ou até 50% quando há patrimônio de afetação [6]. Isso significa que um comprador mal avaliado não gera só atraso: pode gerar devolução de valores, unidade de volta ao estoque e custo comercial para revender.</p>
+
+<h3>8. Concentração da carteira</h3>
+<p>O risco não é só individual. Uma carteira concentrada em um mesmo perfil de renda, mesma região ou mesmo empregador reage junta a um choque. A política deve prever limites de concentração por empreendimento e por perfil.</p>
+
+<h2>Como transformar a análise em política e matriz de decisão</h2>
+<p>A análise gera informação. A política transforma informação em decisão repetível. Uma <a href="/pages/politica-de-credito-para-incorporadoras.html">política de crédito para incorporadoras</a> deve responder, por escrito: quem pode ser aprovado, em quais condições, com qual entrada mínima, qual prazo máximo, qual garantia e quem tem alçada para exceções.</p>
+<p>A forma mais prática é uma matriz com três saídas:</p>
+<ol>
+<li><strong>Aprovar:</strong> o comprador atende a todos os critérios nas condições padrão da tabela.</li>
+<li><strong>Aprovar com condição:</strong> o comprador é viável se houver ajuste, como entrada maior, prazo menor, coobrigado ou garantia adicional.</li>
+<li><strong>Recusar:</strong> o risco não cabe na política, independentemente de ajuste.</li>
+</ol>
+
+<h3>Exemplo de faixas de risco e condições</h3>
+<p>A tabela abaixo é um <strong>exemplo hipotético</strong>, apenas para ilustrar a lógica. Os números reais dependem do produto, do caixa e do apetite de risco de cada empresa.</p>
+<div class="table-wrap" style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:24px"><table>
+<thead>
+<tr><th>Faixa de risco</th><th>Perfil típico</th><th>Entrada mínima</th><th>Comprometimento máximo da renda</th><th>Decisão</th></tr>
+</thead>
+<tbody>
+<tr><td>A (baixo)</td><td>Sem restrições, bom histórico de pagamento, endividamento baixo</td><td>10%</td><td>30%</td><td>Aprovar nas condições padrão</td></tr>
+<tr><td>B (moderado)</td><td>Histórico regular, endividamento médio</td><td>15%</td><td>25%</td><td>Aprovar, prazo máximo reduzido</td></tr>
+<tr><td>C (elevado)</td><td>Restrição recente de baixo valor ou renda pouco comprovada</td><td>25%</td><td>20%</td><td>Aprovar com condição: coobrigado ou garantia adicional</td></tr>
+<tr><td>D (alto)</td><td>Restrições relevantes, endividamento alto</td><td>Não se aplica</td><td>Não se aplica</td><td>Recusar ou reavaliar após regularização</td></tr>
+</tbody>
+</table></div>
+<p>O ponto central não é a precisão dos percentuais, mas a consistência: dois compradores com o mesmo perfil devem receber a mesma resposta, e cada exceção deve ter justificativa e responsável registrados.</p>
+
+<h3>Documente a decisão</h3>
+<p>Cada análise deve deixar rastro: dados consultados, faixa atribuída, condição imposta e quem aprovou. Esse histórico permite calibrar a política depois, comparando a faixa de entrada com o comportamento real de pagamento, e facilita uma eventual cessão ou securitização da carteira.</p>
+
+<h2>Monitoramento pós-venda e cobrança preventiva</h2>
+<p>A venda direta de imóveis não termina na assinatura. O risco muda ao longo do contrato, e a carteira precisa ser acompanhada com a mesma disciplina da concessão.</p>
+<ul>
+<li><strong>Monitoramento periódico:</strong> reconsulta de clientes da carteira para identificar novas restrições antes que virem atraso.</li>
+<li><strong>Indicadores por safra:</strong> acompanhar a inadimplência por mês de venda e por faixa de risco mostra se a política está funcionando.</li>
+<li><strong>Cobrança preventiva:</strong> lembretes antes do vencimento, no dia e logo depois, por canais que o comprador usa. Uma <a href="/pages/regua-de-cobranca-imobiliaria.html">régua de cobrança imobiliária</a> bem configurada reduz o atraso por esquecimento, que é o mais fácil de evitar.</li>
+<li><strong>Renegociação com critério:</strong> propostas de acordo também devem seguir a política, para não premiar o atraso nem empurrar o problema para frente.</li>
+</ul>
+<p>Para a incorporadora, cobrança preventiva custa menos que distrato. Um comprador contatado antes do vencimento tem mais chance de pagar do que um comprador procurado só depois de 60 dias de atraso.</p>
+
+<h2>Como a Credituz apoia a análise de risco na venda direta</h2>
+<p>O <a href="/pages/credituz-os.html">Credituz OS</a> é um sistema operacional de crédito e cobrança com agentes nativos de IA, focado no setor imobiliário. Ele conecta, em um só fluxo, a <a href="/pages/analise-de-credito-com-ia.html">análise de crédito com IA</a>, a política de crédito própria da empresa, a decisão, o CRM de crédito, o monitoramento e a cobrança. Na cobrança, cada régua pode ter até três datas configuráveis (por exemplo D-3, D0 e D+3) em WhatsApp e e-mail.</p>
+<p>Para quem prefere não montar uma mesa de crédito interna, o plano <a href="/pages/enterprise.html">Service</a> opera esse trabalho: a Credituz executa análise, decisão, cobrança e acompanhamento da carteira com agentes de IA e supervisão humana, enquanto a incorporadora define a política e as metas. Loteadoras com carteiras longas encontram um aprofundamento no artigo sobre <a href="/pages/artigos/analise-de-credito-para-loteamentos.html">análise de crédito para loteamentos</a>.</p>
+
+<h2>Perguntas frequentes</h2>
+<h3>O que é análise de risco na venda direta de imóveis?</h3>
+<p>É a avaliação da capacidade e da disposição de pagamento do comprador quando a própria incorporadora ou loteadora financia o imóvel. Ela considera identidade, renda, histórico, endividamento, entrada, prazo e garantias, e resulta em uma decisão de aprovar, aprovar com condição ou recusar.</p>
+<h3>Qual a diferença entre financiamento direto com a incorporadora e financiamento bancário?</h3>
+<p>No financiamento bancário, o banco analisa o crédito e assume o risco do comprador. No financiamento direto com a incorporadora, a própria empresa concede o parcelamento e fica com o risco de inadimplência e de distrato, por isso precisa de análise e política próprias.</p>
+<h3>Quais garantias usar na venda direta de imóveis?</h3>
+<p>A alienação fiduciária de imóvel, prevista na Lei 9.514/1997, é uma opção comum porque permite recuperar o imóvel por procedimento extrajudicial em caso de inadimplência. A escolha deve constar da política de crédito e ser validada com apoio jurídico.</p>
+<h3>A Lei do Distrato afeta a análise de crédito?</h3>
+<p>Sim. A Lei 13.786/2018 define regras e limites para a pena em caso de desfazimento do contrato. Como o distrato gera devolução de valores e custo de revenda, avaliar bem o comprador antes da venda reduz esse risco.</p>
+<h3>Como acompanhar o risco de crédito do comprador depois da venda?</h3>
+<p>Com monitoramento periódico da carteira, indicadores de inadimplência por safra e faixa de risco, e uma régua de cobrança preventiva que avisa o comprador antes e logo após o vencimento.</p>
+    </div>
+    <div class="refs"><h3>Referências</h3><ol><li><a href="https://www.serasa.com.br/imprensa/10-anos-do-mapa-de-inadimplencia/" target="_blank" rel="noopener">10 anos do Mapa da Inadimplência</a> (Serasa, fev/2026)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank" rel="noopener">Lei 13.709/2018 (LGPD)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm" target="_blank" rel="noopener">Lei 12.414/2011 (Cadastro Positivo)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/leis/l9514.htm" target="_blank" rel="noopener">Lei 9.514/1997 (alienação fiduciária de imóvel)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm" target="_blank" rel="noopener">Lei 14.711/2023 (Marco Legal das Garantias)</a> (Planalto)</li>
+<li><a href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm" target="_blank" rel="noopener">Lei 13.786/2018 (Lei do Distrato)</a> (Planalto)</li></ol></div>
+    <div class="cta-box">
+        <h3>Análise de crédito com IA para venda direta</h3>
+        <p>Analise, decida e cobre compradores da venda direta em um só fluxo no Credituz OS.</p>
+        <a href="/pages/analise-de-credito-com-ia.html" class="cta-btn">Conhecer a análise com IA →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
+</body>
+</html>
