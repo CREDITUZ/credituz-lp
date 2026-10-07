@@ -12,8 +12,13 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://loteadoras.credituz.ai/">
 <meta property="og:image" content="https://credituz.ai/assets/macbook-mockup-front.png">
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17041495312"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-17041495312');
+  gtag('config', 'G-QRBB4J1L7S');
   ['GTM-KN3GQNDJ', 'GTM-T2M9N4CR'].forEach(function (id) {
     window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
     var f = document.getElementsByTagName('script')[0], j = document.createElement('script');
@@ -609,7 +614,10 @@ footer.site p { max-width: 70ch; margin-top: 10px; }
       var pos = this.getAttribute("data-pos") || "unknown";
       window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({ event: "whatsapp_click", page: "loteadoras", position: pos });
-      if (typeof window.gtag === "function") window.gtag("event", "whatsapp_click", { page: "loteadoras", position: pos });
+      if (typeof window.gtag === "function") {
+        window.gtag("event", "whatsapp_click", { page: "loteadoras", position: pos });
+        window.gtag("event", "conversion", { send_to: "AW-17041495312/jFE1CKXp7pMdEJCqgr4_", value: 50, currency: "BRL" });
+      }
       if (typeof window.fbq === "function") window.fbq("trackCustom", "WhatsAppClick", { page: "loteadoras", position: pos });
     });
   }
