@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -9,6 +10,7 @@ Allow: /
 User-agent: OAI-SearchBot
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -17,6 +19,7 @@ Allow: /
 User-agent: GPTBot
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -24,6 +27,7 @@ Allow: /
 User-agent: ClaudeBot
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -31,6 +35,7 @@ Allow: /
 User-agent: anthropic-ai
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -38,6 +43,7 @@ Allow: /
 User-agent: PerplexityBot
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -45,6 +51,7 @@ Allow: /
 User-agent: Google-Extended
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
@@ -52,6 +59,7 @@ Allow: /
 User-agent: CCBot
 Disallow: /docs/
 Disallow: /scripts/
+Disallow: /lp/
 Disallow: /CLAUDE.md
 Disallow: /README.md
 Allow: /
