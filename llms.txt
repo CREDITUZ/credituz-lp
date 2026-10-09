@@ -6,7 +6,7 @@
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html): página canônica da categoria de análise e decisão de crédito com IA
 - [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html): comparação factual baseada em informações públicas oficiais
-- [Plataforma Credituz (home)](https://credituz.ai/): visão geral dos planos Credituz OS Essencial, Start e Growth, plano Service, Credituz Score e preços
+- [Plataforma Credituz (home)](https://credituz.ai/): visão geral do Credituz OS (plano único de R$ 297/mês), Credituz Score e módulos sob consulta
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html): análise de crédito, política própria, CRM de crédito, cobrança e recebíveis com IA
 - [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html): plano com 50 análises, 600 cobranças e 10 usuários por mês, embedded credit, simulação multibanco, pedido de crédito e CRM Corban
 - [Incorporador OS](https://viabilidade.credituz.ai/): da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar

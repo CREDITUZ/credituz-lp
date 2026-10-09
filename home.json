@@ -109,27 +109,11 @@
         },
         {
           "@type": "Offer",
-          "name": "Credituz OS Essencial",
-          "url": "https://credituz.ai/",
-          "price": "99",
-          "priceCurrency": "BRL",
-          "description": "R$ 99 por mês com 5 análises de crédito, CRM de crédito básico e 1 usuário. Análise adicional por R$ 25. Ideal para freelancers, consultores e pequenas operações."
-        },
-        {
-          "@type": "Offer",
-          "name": "Credituz OS Start",
+          "name": "Credituz OS",
           "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
           "description": "R$ 297 por mês com 15 análises de crédito e até 200 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 20. Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
-        },
-        {
-          "@type": "Offer",
-          "name": "Credituz OS Growth",
-          "url": "https://credituz.ai/pages/corban-ai.html",
-          "priceCurrency": "BRL",
-          "price": "697",
-          "description": "R$ 697 por mês com 50 análises de crédito, até 600 cobranças e 10 usuários, mais embedded credit: simulação multibanco, pedido de crédito e CRM Corban. Análise adicional por R$ 20."
         },
         {
           "@type": "Offer",
@@ -223,7 +207,7 @@
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS Start custa R$ 297 por mês com 15 análises de crédito, até 200 cobranças e 3 usuários. O Growth custa R$ 697 por mês com 50 análises, até 600 cobranças, 10 usuários e embedded credit. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
+            "text": "O Credituz OS custa R$ 297 por mês com 15 análises de crédito, até 200 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o time comercial da Credituz. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
           }
         }
       ]
