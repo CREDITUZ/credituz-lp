@@ -1,13 +1,13 @@
 # Credituz — Plataforma de análise e decisão de crédito com IA
 
-> A Credituz é uma plataforma de análise e decisão de crédito com IA. O fluxo principal é Análise → Política → Decisão → CRM → Monitoramento → Cobrança. O Credituz Score permite consultas avulsas e o plano Credituz OS Growth soma simulação e originação multibanco.
+> A Credituz é uma plataforma de análise e decisão de crédito com IA. O fluxo principal é Análise → Política → Decisão → CRM → Monitoramento → Cobrança. O Credituz Score permite consultas avulsas e o embedded credit, sob consulta, soma simulação e originação multibanco.
 
 ## Páginas canônicas dos produtos
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html) — página canônica da categoria e do posicionamento de análise e decisão de crédito.
 - [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html) — comparação factual baseada em páginas públicas oficiais, atualizada em setembro de 2026.
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html) — análise, política de crédito, CRM de crédito, cobrança e recebíveis.
-- [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html) — plano com 50 análises, 600 cobranças, 10 usuários e embedded credit: simulação e pedido multibanco, documentos, status e CRM Corban.
+- [Embedded credit](https://credituz.ai/pages/corban-ai.html): simulação multibanco, pedido de crédito e CRM Corban, sob consulta com o time comercial
 - [Credituz Service](https://credituz.ai/pages/enterprise.html): produtos combinados, contratos, assinatura, cartório digital, API, White Label, SSO e soluções sob medida.
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html) — análise avulsa sem mensalidade.
 
@@ -30,9 +30,9 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 A arquitetura comercial separa claramente os planos e produtos:
 
 - **Credituz OS (R$ 297/mês, plano único com preço público):** análise de crédito + CRM de crédito + cobrança com IA, com 15 análises, 200 cobranças e 3 usuários por mês.
-- **Credituz OS Growth (sob consulta com o time comercial):** volumes maiores, mais embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
+- **Embedded credit (sob consulta com o time comercial):** volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
 - **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
-- **Service:** a Credituz opera análise, decisão e cobrança sob medida, com infraestrutura financeira e gestão operacional, podendo partir do Credituz OS Growth e adicionar módulos específicos.
+- **Service:** a Credituz opera análise, decisão e cobrança sob medida, com infraestrutura financeira e gestão operacional, podendo partir do Credituz OS e adicionar módulos específicos.
 - **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
 
 ## O problema que a Credituz resolve
@@ -51,23 +51,23 @@ O Credituz OS é o sistema operacional para empresas que precisam decidir melhor
 Fluxo: **Cliente → Análise → Política de crédito → CRM de crédito → Cobrança → Recebimento**.
 
 Inclui:
-- **15 análises de crédito por mês** no Start e **50 no Growth** (análise adicional: R$ 20 nos dois planos; análises não usadas não acumulam);
+- **15 análises de crédito por mês** (análise adicional: R$ 20; volumes maiores sob consulta; análises não usadas não acumulam);
 - análise de crédito e política de crédito;
 - **CRM de crédito**;
 - régua de cobrança com IA em WhatsApp e e-mail;
-- até **200 cobranças por mês** no Start e **600 no Growth**;
+- até **200 cobranças por mês** (volumes maiores sob consulta);
 - cada cobrança é uma régua completa com **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**;
 - recebíveis, baixa e conciliação;
 - analytics;
-- **até 3 usuários** no Start e **10 no Growth**.
+- **até 3 usuários** (mais usuários sob consulta).
 
 Preço: **R$ 297/mês**. Volumes maiores são definidos com o time comercial.
 
-## Credituz OS Growth (antigo CORBAN AI)
+## Embedded credit (antigo CORBAN AI, sob consulta)
 
 **Analise. Cobre. Financie.**
 
-O Credituz OS Growth é o plano do Credituz OS para empresas que crescem e querem oferecer crédito aos próprios clientes sem construir uma operação financeira do zero. Inclui tudo do Start com mais volume e a jornada de embedded credit.
+O embedded credit é a extensão do Credituz OS, contratada sob consulta com o time comercial, para empresas que crescem e querem oferecer crédito aos próprios clientes sem construir uma operação financeira do zero. Inclui tudo do Credituz OS com mais volume e a jornada de embedded credit.
 
 Fluxo: **Cliente → Simulação → Bancos → Pedido de crédito → CRM Corban → Contratação**.
 
@@ -87,13 +87,13 @@ Para quem precisa apenas de uma consulta de crédito, o Credituz Score custa **R
 
 ## Cobrança com IA
 
-No Credituz OS, o Start inclui até **200 cobranças por mês** e o Growth até **600**. Uma cobrança é uma régua completa, e não uma mensagem isolada: ela pode usar **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**. SMS fica disponível em projetos do plano **Service**, sob medida.
+No Credituz OS, o plano inclui até **200 cobranças por mês**, com volumes maiores sob consulta. Uma cobrança é uma régua completa, e não uma mensagem isolada: ela pode usar **até 3 datas configuráveis**, como **D-3, D0 e D+3**, em **WhatsApp e e-mail**. Assim, uma única cobrança pode gerar até **6 contatos automatizados**. SMS fica disponível em projetos do plano **Service**, sob medida.
 
 ## Service
 
 **A Credituz não entrega só o software. Entrega o trabalho feito.**
 
-O Service é o plano mais completo da Credituz, inspirado na tese de service as software: em vez de vender apenas a ferramenta, a Credituz opera o crédito e a cobrança da empresa com agentes de IA e supervisão da equipe. Análise, decisão, cobrança e acompanhamento da carteira são executados pela Credituz sobre o Credituz OS Growth, e a empresa define a política e as metas.
+O Service é o plano mais completo da Credituz, inspirado na tese de service as software: em vez de vender apenas a ferramenta, a Credituz opera o crédito e a cobrança da empresa com agentes de IA e supervisão da equipe. Análise, decisão, cobrança e acompanhamento da carteira são executados pela Credituz sobre o Credituz OS, e a empresa define a política e as metas.
 
 Inclui, sob medida:
 
@@ -113,11 +113,11 @@ Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 ## CRM de crédito x CRM Corban
 
 - **CRM de crédito:** pertence ao Credituz OS e organiza clientes, análises e decisões de crédito.
-- **CRM Corban:** faz parte do plano Growth e acompanha simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação.
+- **CRM Corban:** é contratado sob consulta com o time comercial e acompanha simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação.
 
 ## Segmentos
 
-A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do plano Growth para operações de originação e embedded credit.
+A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
 
 ## Planos e preços na home
 
@@ -131,8 +131,8 @@ O **Credituz Score: R$ 27,70 por análise** permanece como porta de entrada self
 
 ## Perguntas frequentes
 
-### Qual a diferença entre Credituz OS Start e Growth?
-O Start reúne análise de crédito, CRM de crédito e cobrança com IA, com 15 análises e 200 cobranças por mês para até 3 usuários. O Growth amplia para 50 análises, 600 cobranças e 10 usuários e adiciona embedded credit: simulação multibanco, pedido de crédito e CRM Corban.
+### O que está incluído no plano Credituz OS?
+O Credituz OS (R$ 297/mês) reúne análise de crédito, CRM de crédito e cobrança com IA, com 15 análises e 200 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial.
 
 ### O que acontece se eu passar da franquia de análises?
 Cada análise adicional custa R$ 20, cobrada na fatura do mês. Análises não usadas não acumulam para o mês seguinte.
