@@ -1,69 +1,65 @@
-# Auditoria de indexação, out/2026 (Fase 0)
+# Auditoria de indexacao, out/2026 (Fase 0), versao corrigida
 
-Branch de revisão. Nada aqui foi publicado em produção. Merge somente após aprovação do Pedro.
+Branch de revisao. Nada aqui foi publicado em producao. Merge somente apos aprovacao do Pedro.
 
-## 1. Diagnóstico (Search Console, sc-domain:credituz.ai, 11/10/2026)
+## Correcao em relacao a versao anterior
 
-- Cliques mensais de abr a set/2026: 11, 65, 73, 64, 65, 57. Impressões: 88, 402, 497, 362, 622, 623.
-- A maior parte dos cliques vem da consulta de marca "credituz" (38 cliques, posição média 2).
-- Consultas não-marca quase não geram clique. Exemplos com impressão: "como usar ia dentro de um crm imobiliario" (32 impressões, posição 3), "crediluz" (25, posição 8.8, consulta de outra marca), "analise de credito imobiliario" (4, posição 27.5).
-- Parcela de tráfego com cara de conversa com IA (AI-shaped): 0% a 9% das impressões, sem clique.
+A versao anterior deste relatorio dizia que faltava <link rel="canonical"> nas paginas. Isso estava errado. Conferencia direta do HTML:
 
-## 2. Sitemap
+- Os 183 HTMLs do repositorio ja tem <link rel="canonical">.
+- 180 apontam para https://credituz.ai/ com o caminho correto. As 3 restantes sao intencionais:
+  - pages/incorporadoras.html e pages/locacao-temporada.html sao noindex e apontam para as paginas equivalentes (construtoras e imobiliarias).
+  - lp/loteadoras/index.html aponta para https://loteadoras.credituz.ai/, que e o host correto dessa LP.
+- Canonical nao precisa de correcao.
 
-- https://credituz.ai/sitemap.xml: 178 URLs, todas no host canônico. Status da GSC: 178 enviadas, 0 indexadas. Erros: 0. Avisos: 0.
-- https://www.credituz.ai/sitemap.xml: 178 enviadas, 0 indexadas. Avisos: 4. Ação: remover o sitemap www da GSC após confirmar o redirecionamento 301 de www para o domínio sem www.
-- Observação: o contador de "indexadas" da GSC pode atrasar. Reavaliar em 14 dias antes de concluir.
+## Dados estruturados (JSON-LD)
 
-## 3. URLs rastreadas sem indexação (15)
+- 45 paginas ja tinham JSON-LD e nao foram alteradas.
+- 2 paginas noindex foram excluidas de proposito.
+- 136 paginas receberam JSON-LD nesta branch:
+  - 120 artigos: tipo Article, com headline (title), description (meta description), url canonica, inLanguage e publisher Organization (Credituz).
+  - 16 demais paginas: tipo WebPage, com isPartOf WebSite.
+- Verificacao: cada bloco foi validado como JSON antes de ser gravado. Cada arquivo alterado difere do original somente pelo bloco inserido.
 
-Prioritárias para a estratégia de crédito e cobrança:
-- /pages/regua-de-cobranca-imobiliaria.html (Discovered, not indexed)
-- /pages/politica-de-credito-para-incorporadoras.html (URL unknown to Google)
-- /pages/portal-vendas-incorporadora.html (URL unknown to Google)
-- /pages/gestao-de-unidades-imobiliarias.html (Discovered, not indexed)
-- /pages/espelho-de-empreendimento.html (Discovered, not indexed)
-- /pages/contratos-imobiliarios-digitais.html (Discovered, not indexed)
-- /pages/contratos-imobiliarios-com-ia.html (URL unknown to Google)
-- /pages/assinatura-digital-imobiliaria.html (URL unknown to Google)
-- /pages/cartorio-digital-imobiliario.html (URL unknown to Google)
-- /pages/imprensa.html (URL unknown to Google)
-- /pages/baixa-conciliacao-recebiveis-imobiliarios.html (URL unknown to Google)
-- /pages/artigos/como-controlar-disponibilidade-unidades-lancamento-imobiliario.html (URL unknown to Google)
-- /pages/artigos/como-cobrar-parcelas-entrada-imovel-reduzir-inadimplencia.html (URL unknown to Google)
-- /pages/artigos/assinatura-digital-vs-cartorio-contrato-imobiliario.html (Discovered, not indexed)
-- /pages/artigos/credituz-vs-bureau-analise-credito-incorporadoras.html (URL unknown to Google)
+## Diagnostico (Search Console, sc-domain:credituz.ai, 11/10/2026)
 
-Padrão: "URL is unknown to Google" indica que o Google não descobriu a página por links. "Discovered, not indexed" indica que descobriu mas não considerou digna de indexação ainda.
+- Cliques mensais de abr a set/2026: 11, 65, 73, 64, 65, 57. Impressoes: 88, 402, 497, 362, 622, 623.
+- A maior parte dos cliques vem da consulta de marca "credituz" (38 cliques, posicao media 2).
+- Consultas nao-marca quase nao geram clique. Exemplos com impressao: "como usar ia dentro de um crm imobiliario" (32 impressoes, posicao 3), "analise de credito imobiliario" (4, posicao 27.5). "crediluz" (25) e consulta de outra marca.
+- Trafego com cara de conversa com IA: 0% a 9% das impressoes, sem clique.
 
-## 4. Problemas técnicos encontrados
+## Sitemap
 
-1. **Canonical ausente no HTML.** A página de régua de cobrança não tem <link rel="canonical">. A informação de canonical aparece só no front matter do .md. Sem canonical explícito, o Google escolhe a URL. Correção: adicionar canonical em todas as páginas e artigos.
-2. **Sem JSON-LD.** Não há bloco de dados estruturados (Article, FAQPage, Organization, BreadcrumbList, SoftwareApplication). Isso prejudica a compreensão por buscadores e por LLMs. Correção: adicionar por template.
-3. **Links internos.** As páginas novas recebem pouco link de páginas com autoridade (home, blog). Correção: linkar cada página prioritária a partir da home, da página de blog e de pelo menos 3 artigos relacionados.
-4. **Sitemap www.** Ainda enviado na GSC com avisos. Correção: remover após validar o 301.
-5. **Títulos com "2025".** Dezenas de artigos com o ano no título e na URL. Correção: atualizar para 2026 onde houver dado atualizado, sem alterar URL já indexada (usar 301 se for trocar slug).
-6. **Canibalização.** Vários artigos disputam a mesma intenção (análise de crédito, cobrança, inadimplência). Correção: consolidar ou diferenciar, conforme lista na fase 1 do plano.
+- https://credituz.ai/sitemap.xml: 178 URLs, todas no host correto. GSC: 178 enviadas, 0 indexadas, 0 erros, 0 avisos.
+- https://www.credituz.ai/sitemap.xml: 178 enviadas, 0 indexadas, 4 avisos. Acao: remover este sitemap da GSC depois de confirmar o redirecionamento 301 de www para o dominio sem www.
+- Nao foi possivel verificar o 301 a partir da sandbox (acesso ao site bloqueado pela politica de rede). Verificacao manual necessaria.
+- O contador de indexadas pode estar atrasado. Reavaliar em 14 dias antes de concluir.
 
-## 5. Plano de correção desta branch (proposta, sem aplicar ainda)
+## Causas provaveis do baixo rastreamento
 
-- [ ] Validar redirecionamento 301 de www para o domínio sem www.
-- [ ] Remover o sitemap www da GSC.
-- [ ] Adicionar <link rel="canonical"> via template em todas as páginas.
-- [ ] Adicionar JSON-LD por tipo de página (Article/FAQPage para artigos, Organization e SoftwareApplication para home e produto).
-- [ ] Revisar as 15 URLs prioritárias e linkar a partir da home e do blog.
-- [ ] Atualizar os títulos com "2025" conforme dado disponível.
-- [ ] Revisar páginas que mencionem a grade antiga de planos (Essencial, Start, Growth, Service). A LP adota plano único de R$ 297/mês desde out/2026.
-- [ ] Revisar a página credituz-vs-gyra: tom neutro, sem menção negativa aos investidores GYRA+.
-- [ ] Após merge, solicitar reindexação das 15 URLs na GSC e reenviar o sitemap.
-- [ ] Reavaliar em 14 dias: impressões não-marca, URLs indexadas e posição das consultas-alvo.
+1. Paginas orfas: 7 paginas sem nenhum link interno de entrada: pages/imprensa.html, pages/artigos/assinatura-digital-vs-cartorio-contrato-imobiliario.html, pages/artigos/como-cobrar-parcelas-entrada-imovel-reduzir-inadimplencia.html, pages/artigos/como-controlar-disponibilidade-unidades-lancamento-imobiliario.html, pages/artigos/credituz-vs-bureau-analise-credito-incorporadoras.html, en/pages/locacao-temporada.html e lp/loteadoras/index.html.
+2. Artigos fora do pipeline do blog: 4 artigos existem so em HTML, sem arquivo .md de origem. Por isso nao aparecem na listagem gerada pelo blog (127 artigos listados de 131 existentes). Acao: criar o .md de origem ou incluir na listagem, conforme decisao do Pedro.
+3. Links internos fracos nas prioritarias: pages/portal-vendas-incorporadora.html, gestao-de-unidades-imobiliarias.html, espelho-de-empreendimento.html e contratos-imobiliarios-com-ia.html tem 1 link de entrada cada. pages/regua-de-cobranca-imobiliaria.html tem 9, bom sinal.
+4. Autoridade de dominio em crescimento: o site tem poucos backlinks e pouco trafego nao-marca. JSON-LD ajuda compreensao, mas nao substitui isso.
 
-## 6. Consultas-alvo para medir
+## Checklist
 
-- análise de crédito imobiliário
-- score de crédito financiamento
-- régua de cobrança imobiliária
-- cobrança com IA imobiliária
-- análise financeira incorporadora
+- [x] JSON-LD nas paginas sem dados estruturados (esta branch).
+- [ ] Verificar redirecionamento 301 de www para o dominio sem www (manual, no provedor de hospedagem).
+- [ ] Remover o sitemap www da GSC apos a verificacao acima.
+- [ ] Decidir sobre os 7 links orfaos (aprovacao do Pedro).
+- [ ] Decidir sobre os 4 artigos fora do blog: criar .md ou incluir na listagem (aprovacao do Pedro).
+- [ ] Linkar as 4 prioritarias com 1 link de entrada a partir do blog e de artigos relacionados (aprovacao do Pedro).
+- [ ] Atualizar titulos com "2025" conforme dado disponivel.
+- [ ] Revisar paginas com a grade antiga de planos (Essencial, Start, Growth, Service). A LP adota plano unico de R$ 297/mes desde out/2026.
+- [ ] Revisar credituz-vs-gyra: tom neutro, sem mencao negativa aos investidores GYRA+.
+- [ ] Apos merge: solicitar reindexacao das URLs prioritarias na GSC e reenviar o sitemap.
+- [ ] Reavaliar em 14 dias: impressoes nao-marca, URLs indexadas e posicao das consultas-alvo.
 
-Somente após as correções acima faz sentido publicar os 20 artigos novos (fase 1).
+## Consultas-alvo para medir
+
+- analise de credito imobiliario
+- score de credito financiamento
+- regua de cobranca imobiliaria
+- cobranca com IA imobiliaria
+- analise financeira incorporadora
