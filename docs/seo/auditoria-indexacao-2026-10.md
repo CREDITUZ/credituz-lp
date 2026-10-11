@@ -104,3 +104,6 @@ A versao anterior deste relatorio dizia que faltava <link rel="canonical"> nas p
 - Bing: pendente de chave do responsável pelo domínio.
 - Órfãs: imprensa linkada no rodapé da home; en/pages/locacao-temporada linkada no rodapé da versão en; lp/loteadoras linkada a partir de 2 artigos de loteadoras.
 - Títulos com 2025: lista e proposta em docs/seo/titulos-2025-proposta.md. Nenhum título alterado até aprovação.
+
+## Atualização: redirect de www confirmado (2026-10-11)
+- Chrome: http://www.credituz.ai/ abre https://credituz.ai/ (confirmado pelo responsável). Código exato (301 ou 302) não verificado pelo ambiente.
