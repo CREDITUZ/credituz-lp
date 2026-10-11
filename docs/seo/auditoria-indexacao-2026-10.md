@@ -63,3 +63,36 @@ A versao anterior deste relatorio dizia que faltava <link rel="canonical"> nas p
 - regua de cobranca imobiliaria
 - cobranca com IA imobiliaria
 - analise financeira incorporadora
+
+
+## Atualização: medições e ações (2026-10-11)
+
+### Medições no GSC (via GSC Wizard)
+- Sitemap principal: 178 URLs enviadas, **130 com impressões** (campo `indexedInGscCount`). O campo agregado `contents.indexed = 0` **não** deve ser usado como base: a correção anterior deste relatório que afirmava "0 indexadas" está superada.
+- 48 URLs sem impressão, classificadas pela inspeção:
+  - 16 indexadas, mas sem exposição (indexadas sem demanda nas consultas atuais);
+  - 23 desconhecidas pelo Google (sem registro de rastreamento);
+  - 9 descobertas ou rastreadas, mas não indexadas.
+- Diagnóstico corrigido: o problema não é falta de conteúdo. É majoritariamente falta de sinais internos (descoberta e exposição) e demanda limitada em parte dos temas.
+- Páginas órfãs (sem link de entrada): 7, incluindo os 4 rascunhos, `pages/imprensa.html`, `en/pages/locacao-temporada.html` e `lp/loteadoras/index.html`.
+
+### Divergência entre endpoints (não resolvida)
+- `GET_PAGE_PERFORMANCE` / sitemap somam ~2.599 impressões e 71 cliques em 28 dias.
+- A tendência mensal mostra ~600 impressões/mês.
+- Ação: conferir o número na interface do Search Console antes de usar como KPI.
+
+### Bing
+- Sem chave configurada (`notConfigured`). Ação pendente do responsável pelo domínio.
+
+### Ações aplicadas (commit 8c7e14e)
+- B: bloco "Leia também" com 3 links internos em 6 artigos do cluster imobiliário.
+- C: `noindex, follow` nos 4 rascunhos (`assinatura-digital-vs-cartorio-contrato-imobiliario`, `como-cobrar-parcelas-entrada-imovel-reduzir-inadimplencia`, `como-controlar-disponibilidade-unidades-lancamento-imobiliario`, `credituz-vs-bureau-analise-credito-incorporadoras`).
+- `sitemap.xml` regenerado: 178 -> 174 URLs (sem os 4 rascunhos).
+
+### Pendências
+- Verificar manualmente o 301 de `www.credituz.ai` para `credituz.ai` (não verificável a partir do ambiente).
+- Remover o sitemap com `www` da GSC, se existir.
+- Configurar a chave do Bing.
+- Decidir sobre títulos com "2025" e CTR baixo.
+- Decidir sobre as órfãs restantes.
+- Reavaliar em 14 dias; só então iniciar a fase 1 (20 novos artigos).
