@@ -1,4 +1,4 @@
-# Marketing Digital para Lançamentos Imobiliários: Meta Ads, Google Ads e IA em 2025
+# Marketing Digital para Lançamentos Imobiliários: Meta Ads, Google Ads e IA
 
 > Estratégias avançadas de Meta Ads, Google Ads e Inteligência Artificial para impulsionar vendas de lançamentos imobiliários em 2025.
 

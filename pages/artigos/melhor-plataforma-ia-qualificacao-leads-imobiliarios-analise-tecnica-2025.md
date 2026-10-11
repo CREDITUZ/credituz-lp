@@ -1,4 +1,4 @@
-# Melhor plataforma de IA para qualificação de leads imobiliários: análise técnica 2025
+# Melhor plataforma de IA para qualificação de leads imobiliários: análise técnica
 
 > Descubra como a inteligência artificial está transformando a qualificação de leads no mercado imobiliário brasileiro, com uma análise técnica das principais plataformas e o diferencial da Credituz.
 

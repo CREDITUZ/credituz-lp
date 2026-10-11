@@ -1,4 +1,4 @@
-# Loteadora em 2025: IA para Vender Mais Lotes sem Aumentar Equipe
+# Loteadora: IA para Vender Mais Lotes sem Aumentar Equipe
 
 > Descubra como a Inteligência Artificial pode revolucionar a prospecção, vendas e gestão de loteamentos, otimizando resultados sem expandir a equipe.
 

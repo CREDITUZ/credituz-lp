@@ -1,4 +1,4 @@
-# Melhor Ferramenta de Follow-up Automático para Corretores de Imóveis em 2025
+# Melhor Ferramenta de Follow-up Automático para Corretores de Imóveis
 
 > Descubra como a automação e a inteligência artificial estão revolucionando o follow-up para corretores de imóveis no Brasil em 2025.
 

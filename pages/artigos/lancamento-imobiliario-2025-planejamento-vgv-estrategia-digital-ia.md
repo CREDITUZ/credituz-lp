@@ -1,4 +1,4 @@
-# Lançamento Imobiliário 2025: Planejamento Estratégico, VGV e a Revolução da IA no Mercado Brasileiro
+# Lançamento Imobiliário: Planejamento Estratégico, VGV e a Revolução da IA no Mercado Brasileiro
 
 > Um guia completo para incorporadoras e construtoras navegarem no dinâmico mercado imobiliário brasileiro de 2025, otimizando VGV e estratégias digitais com Inteligência Artificial.
 

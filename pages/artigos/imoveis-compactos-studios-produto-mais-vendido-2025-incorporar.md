@@ -1,4 +1,4 @@
-# Imóveis Compactos e Studios: Por Que São o Produto Mais Vendido de 2025 e Como Incorporar
+# Imóveis Compactos e Studios: Por Que São o Produto Mais Vendido de e Como Incorporar
 
 > Entenda as tendências do mercado imobiliário e as estratégias para incorporadoras que desejam capitalizar no sucesso dos compactos.
 

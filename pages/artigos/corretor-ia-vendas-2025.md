@@ -1,4 +1,4 @@
-# Corretor de imóveis autônomo em 2025: como usar IA para fechar mais vendas
+# Corretor de imóveis autônomo: como usar IA para fechar mais vendas
 
 > Descubra como a Inteligência Artificial pode revolucionar a atuação do corretor autônomo, otimizando prospecção, marketing e vendas sem depender de plantão.
 
