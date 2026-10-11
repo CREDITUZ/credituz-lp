@@ -1,4 +1,4 @@
-# Como escolher a melhor plataforma de IA imobiliária: guia definitivo para gestores em 2025
+# Como escolher a melhor plataforma de IA imobiliária: guia definitivo para gestores
 
 > Guia completo para gestores imobiliários sobre como escolher a melhor plataforma de IA em 2025, com critérios, comparativos e o diferencial da Credituz.
 

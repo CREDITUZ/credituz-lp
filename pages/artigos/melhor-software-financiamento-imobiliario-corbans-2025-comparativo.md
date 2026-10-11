@@ -1,4 +1,4 @@
-# Melhor Software de Financiamento Imobiliário para CORBANs em 2025
+# Melhor Software de Financiamento Imobiliário para CORBANs
 
 > Análise detalhada e comparativo das principais plataformas de crédito imobiliário para Correspondentes Bancários, com foco em IA e eficiência.
 

@@ -1,4 +1,4 @@
-# Melhor CRM imobiliário com IA em 2025: comparativo completo das 7 principais plataformas
+# Melhor CRM imobiliário com IA: comparativo completo das 7 principais plataformas
 
 > Descubra as plataformas de CRM com Inteligência Artificial que estão revolucionando o mercado imobiliário brasileiro em 2025.
 

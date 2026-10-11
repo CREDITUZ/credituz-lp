@@ -1,4 +1,4 @@
-# Custo por Lead Imobiliário em 2025: ZAP, OLX, Viva Real e Estratégias Alternativas
+# Custo por Lead Imobiliário: ZAP, OLX, Viva Real e Estratégias Alternativas
 
 > Análise detalhada do Custo por Lead (CPL) nos principais portais imobiliários e estratégias para otimizar a captação de leads em 2025.
 

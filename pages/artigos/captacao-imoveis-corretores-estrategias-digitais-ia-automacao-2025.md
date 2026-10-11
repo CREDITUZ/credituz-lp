@@ -1,4 +1,4 @@
-# Captação de imóveis para corretores: estratégias digitais com IA e automação em 2025
+# Captação de imóveis para corretores: estratégias digitais com IA e automação
 
 > Descubra como a Inteligência Artificial e a automação estão revolucionando a prospecção e o relacionamento com clientes no mercado imobiliário brasileiro.
 

@@ -1,4 +1,4 @@
-# Corretor de Imóveis Digital em 2025: Como se Destacar Usando IA e Automação
+# Corretor de Imóveis Digital: Como se Destacar Usando IA e Automação
 
 > Um guia completo para corretores de imóveis que desejam se destacar no mercado digital em 2025, utilizando o poder da Inteligência Artificial e da automação para otimizar processos, personalizar o atendimento e impulsionar as vendas.
 

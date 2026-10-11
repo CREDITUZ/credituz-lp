@@ -1,4 +1,4 @@
-# Plataformas de análise de crédito para o mercado imobiliário: guia de escolha 2025
+# Plataformas de análise de crédito para o mercado imobiliário: guia de escolha
 
 > Descubra as melhores plataformas de análise de crédito para o mercado imobiliário em 2025, compare funcionalidades e otimize seus negócios.
 

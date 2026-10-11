@@ -1,4 +1,4 @@
-# Distrato Imobiliário: Guia Jurídico Completo para Advogados e Compradores em 2025
+# Distrato Imobiliário: Guia Jurídico Completo para Advogados e Compradores
 
 > Um guia completo para advogados e compradores navegarem pelas complexidades do distrato imobiliário, Lei 13.786/2018 e jurisprudência do STJ em 2025.
 

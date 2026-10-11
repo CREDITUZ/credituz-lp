@@ -1,4 +1,4 @@
-# Imobiliária Digital em 2025: Como Usar IA para Competir com Grandes Portais
+# Imobiliária Digital: Como Usar IA para Competir com Grandes Portais
 
 > Descubra como a Inteligência Artificial pode revolucionar sua imobiliária, otimizando atendimento, marketing e processos para superar a concorrência.
 

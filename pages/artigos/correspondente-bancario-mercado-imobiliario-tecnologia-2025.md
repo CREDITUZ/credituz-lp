@@ -1,4 +1,4 @@
-# Correspondente Bancário no Mercado Imobiliário: Como se Destacar com Tecnologia em 2025
+# Correspondente Bancário no Mercado Imobiliário: Como se Destacar com Tecnologia
 
 > Descubra as tendências, regulamentações e o futuro híbrido para correspondentes bancários no setor imobiliário em 2025.
 

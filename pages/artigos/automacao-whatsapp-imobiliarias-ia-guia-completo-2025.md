@@ -1,4 +1,4 @@
-# Automação de WhatsApp para Imobiliárias: Guia Completo 2025 com IA
+# Automação de WhatsApp para Imobiliárias: Guia Completo com IA
 
 > Descubra como a Inteligência Artificial pode revolucionar o atendimento e as vendas no setor imobiliário brasileiro.
 
