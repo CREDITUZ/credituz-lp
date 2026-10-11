@@ -96,3 +96,11 @@ A versao anterior deste relatorio dizia que faltava <link rel="canonical"> nas p
 - Decidir sobre títulos com "2025" e CTR baixo.
 - Decidir sobre as órfãs restantes.
 - Reavaliar em 14 dias; só então iniciar a fase 1 (20 novos artigos).
+
+
+## Atualização: itens A, B e C (2026-10-11)
+- www.credituz.ai NÃO redireciona para credituz.ai (curl confirmou página normal em www). Correção pendente: 301 de www para o domínio principal na camada de hospedagem (Vercel ou GitHub Pages). Enquanto não corrigido, há conteúdo duplicado.
+- Search Console: continua registrado https://www.credituz.ai/sitemap.xml (4 avisos). Remover pela interface do GSC após corrigir o 301.
+- Bing: pendente de chave do responsável pelo domínio.
+- Órfãs: imprensa linkada no rodapé da home; en/pages/locacao-temporada linkada no rodapé da versão en; lp/loteadoras linkada a partir de 2 artigos de loteadoras.
+- Títulos com 2025: lista e proposta em docs/seo/titulos-2025-proposta.md. Nenhum título alterado até aprovação.
