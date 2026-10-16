@@ -1,6 +1,6 @@
 # Credituz Service: crédito e cobrança operados pela Credituz
 
-> Credituz Service é o plano em que a Credituz vende o trabalho feito (service as software): análise, decisão, cobrança e acompanhamento da carteira são operados pela Credituz com agentes de IA e supervisão humana, sobre o Credituz OS Growth e uma infraestrutura sob medida.
+> Credituz Service é o plano em que a Credituz vende o trabalho feito (service as software): análise, decisão, cobrança e acompanhamento da carteira são operados pela Credituz com agentes de IA e supervisão humana, sobre o Credituz OS e uma infraestrutura sob medida.
 
 - Canonical: https://credituz.ai/pages/enterprise.html
 - Produto: Credituz Service
@@ -11,7 +11,7 @@
 
 ## Resposta direta
 
-No Service, a empresa define a política de crédito e as metas de cobrança, e a Credituz executa: analisa e decide dentro das regras, cobra a carteira de ponta a ponta, acompanha pendências e repasses e leva à equipe os casos que exigem julgamento. O plano parte do Credituz OS Growth e pode combinar módulos documentais, integrações e requisitos específicos. O escopo e o preço dependem da operação, volumes, sistemas, segurança e nível de serviço.
+No Service, a empresa define a política de crédito e as metas de cobrança, e a Credituz executa: analisa e decide dentro das regras, cobra a carteira de ponta a ponta, acompanha pendências e repasses e leva à equipe os casos que exigem julgamento. O plano parte do Credituz OS e pode combinar módulos documentais, integrações e requisitos específicos. O escopo e o preço dependem da operação, volumes, sistemas, segurança e nível de serviço.
 
 ## Operação executada pela Credituz
 
@@ -25,7 +25,7 @@ No Service, a empresa define a política de crédito e as metas de cobrança, e 
 ### Produtos base
 
 - Credituz OS;
-- Credituz OS Growth;
+- Credituz OS e crédito multibanco;
 - produtos combinados;
 - usuários e volumes customizados.
 
@@ -48,13 +48,13 @@ No Service, a empresa define a política de crédito e as metas de cobrança, e 
 
 ## Escopo canônico dos produtos
 
-Contratos com IA, assinatura digital, serviços de cartório digital, White Label, SSO, multiempresa, SMS e módulos customizados pertencem à plano Service quando contratados. O Credituz OS padrão é dedicado a análise, CRM de crédito, cobrança e recebíveis; o plano Growth soma a originação de crédito.
+Contratos com IA, assinatura digital, serviços de cartório digital, White Label, SSO, multiempresa, SMS e módulos customizados pertencem à plano Service quando contratados. O Credituz OS padrão é dedicado a análise, CRM de crédito, cobrança e recebíveis; o crédito multibanco soma a originação de crédito.
 
 ## Links
 
 - Produto: https://credituz.ai/pages/enterprise.html
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
-- Credituz OS Growth: https://credituz.ai/pages/corban-ai.html
+- Crédito multibanco: https://credituz.ai/pages/corban-ai.html
 - Integrações: https://credituz.ai/pages/integracoes.html
 - Contato: https://wa.me/5511936209409
 
@@ -62,7 +62,7 @@ Contratos com IA, assinatura digital, serviços de cartório digital, White Labe
 
 ### O que é o plano Service da Credituz?
 
-É o plano em que a Credituz, além da infraestrutura, faz o trabalho: análise, decisão, cobrança e acompanhamento da carteira são executados por agentes de IA com supervisão da nossa equipe, sobre o Credituz OS Growth. A empresa define a política e as metas e recebe o resultado.
+É o plano em que a Credituz, além da infraestrutura, faz o trabalho: análise, decisão, cobrança e acompanhamento da carteira são executados por agentes de IA com supervisão da nossa equipe, sobre o Credituz OS. A empresa define a política e as metas e recebe o resultado.
 
 ### O que é service as software?
 

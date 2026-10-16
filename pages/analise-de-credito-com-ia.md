@@ -35,10 +35,9 @@ A disponibilidade de cada campo depende das fontes consultadas e dos dados encon
 ## Produtos e preços
 
 - **Credituz Score:** análise avulsa por R$ 27,70, sem assinatura ou mensalidade.
-- **Credituz OS Essencial:** R$ 99/mês com 5 análises, CRM de crédito básico e 1 usuário.
-- **Credituz OS Start:** R$ 297/mês com 5 análises, 100 cobranças e 3 usuários.
-- **Credituz OS Growth:** R$ 697/mês com 50 análises, 600 cobranças, 10 usuários e embedded credit (simulação multibanco, pedido de crédito e CRM Corban).
-- **Service:** sob medida. A Credituz opera análise, decisão e cobrança da carteira com agentes de IA e supervisão humana, sobre o Credituz OS Growth.
+- **Credituz OS:** R$ 297/mês com 5 análises, 100 cobranças e 3 usuários; análise adicional a R$ 24,90.
+- **Crédito multibanco:** embedded credit (simulação multibanco, pedido de crédito e CRM Corban), sob consulta com o time comercial.
+- **Service:** sob medida. A Credituz opera análise, decisão e cobrança da carteira com agentes de IA e supervisão humana, sobre o Credituz OS.
 
 ## Perguntas frequentes
 
@@ -72,12 +71,12 @@ A consulta deve ter finalidade legítima, como avaliar o risco antes de vender a
 
 ### A Credituz concede crédito ou financiamento?
 
-Não. A Credituz apoia análise, decisão e gestão. No plano Growth, organiza simulação e originação, e a concessão final é feita por instituições financeiras parceiras autorizadas.
+Não. A Credituz apoia análise, decisão e gestão. Com o crédito multibanco, contratado com o time comercial, organiza simulação e originação, e a concessão final é feita por instituições financeiras parceiras autorizadas.
 
 ## Links
 
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
 - Cobrança automatizada com IA: https://credituz.ai/pages/cobranca-e-recebiveis-imobiliarios.html
-- Credituz OS Growth: https://credituz.ai/pages/corban-ai.html
+- Crédito multibanco: https://credituz.ai/pages/corban-ai.html
 - Comparação Credituz vs GYRA+: https://credituz.ai/pages/credituz-vs-gyra.html

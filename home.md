@@ -66,12 +66,12 @@ Página oficial: [Credituz OS](https://credituz.ai/pages/credituz-os.html).
 
 **Analise. Cobre. Financie.**
 
-O embedded credit é a extensão do Credituz OS, contratada sob consulta com o time comercial, para empresas que crescem e querem oferecer crédito aos próprios clientes sem construir uma operação financeira do zero. Inclui tudo do Credituz OS com mais volume e a jornada de embedded credit.
+O embedded credit é a extensão do Credituz OS, contratada sob consulta com o time comercial, para empresas que crescem e querem oferecer crédito aos próprios clientes sem construir uma operação financeira do zero. Inclui tudo do Credituz OS, volumes definidos com o time comercial e a jornada de embedded credit.
 
 Fluxo: **Cliente → Simulação → Bancos → Pedido de crédito → CRM Corban → Contratação**.
 
 Inclui:
-- 50 análises de crédito, até 600 cobranças e 10 usuários por mês;
+- volumes maiores de análises, cobranças e usuários, definidos com o time comercial;
 - simulação de crédito multibanco;
 - pedido e acompanhamento de crédito;
 - **CRM Corban** para simulações, pedidos de crédito, documentos, pendências, bancos, status e contratação;

@@ -50,7 +50,7 @@ A **operação de crédito como serviço** segue outra lógica, próxima da tese
 - **Escala:** um pico de propostas não exige contratar e treinar gente às pressas.
 - **Visibilidade:** a empresa acompanha fila, prazos e carteira no mesmo sistema.
 
-É o desenho do plano [Service da Credituz](https://credituz.ai/pages/enterprise.html): a Credituz opera análise, decisão, cobrança e acompanhamento da carteira com agentes de IA e supervisão humana, sobre o [Credituz OS](https://credituz.ai/pages/credituz-os.html) Growth, e a empresa define política e metas. Em outras palavras, a Credituz não entrega só o software, entrega o trabalho feito.
+É o desenho do plano [Service da Credituz](https://credituz.ai/pages/enterprise.html): a Credituz opera análise, decisão, cobrança e acompanhamento da carteira com agentes de IA e supervisão humana, sobre o [Credituz OS](https://credituz.ai/pages/credituz-os.html), e a empresa define política e metas. Em outras palavras, a Credituz não entrega só o software, entrega o trabalho feito.
 
 ## Comparativo: equipe própria, BPO tradicional, software self-service e Service
 
@@ -64,7 +64,7 @@ A **operação de crédito como serviço** segue outra lógica, próxima da tese
 | Esforço de gestão interna | Alto | Médio | Médio a alto | Baixo (foco em política e metas) |
 | Indicado para | Grandes operações com time maduro | Volumes estáveis e processos simples | Empresas com equipe e volume previsível | Quem quer o resultado sem montar a operação |
 
-Para quem já tem equipe e quer apenas ferramenta, o Credituz OS em modalidade self-service (Start, R$ 297/mês, ou Growth, R$ 697/mês) pode ser suficiente. Para consultas pontuais, o [Credituz Score](https://credituz.ai/pages/credituz-score.html) custa R$ 27,70 por análise avulsa, sem mensalidade.
+Para quem já tem equipe e quer apenas ferramenta, o Credituz OS em modalidade self-service (R$ 297/mês, com 5 análises e até 100 cobranças) pode ser suficiente. Para consultas pontuais, o [Credituz Score](https://credituz.ai/pages/credituz-score.html) custa R$ 27,70 por análise avulsa, sem mensalidade.
 
 ## Terceirização de mesa de crédito: o que fica com a empresa
 
@@ -129,7 +129,7 @@ Sim. Imobiliárias que intermediam vendas parceladas ou encaminham crédito para
 
 ### Quanto custa o plano Service da Credituz?
 
-O Service é sob medida, com contrato anual, e roda sobre o Credituz OS Growth. O valor depende do volume de análises, cobranças e integrações necessárias.
+O Service é sob medida, com contrato anual, e roda sobre o Credituz OS. O valor depende do volume de análises, cobranças e integrações necessárias.
 
 ## Referências
 

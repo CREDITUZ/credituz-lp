@@ -95,7 +95,7 @@ This model treats collections as a conversion and recovery journey instead of a 
 
 **Credituz doesn't just deliver software. It delivers the work done.**
 
-Service is Credituz's most complete plan, inspired by the service-as-software thesis: instead of selling only the tool, Credituz runs the company's credit and collections with AI agents and team supervision. Analysis, decisions, collections and portfolio monitoring are performed by Credituz on top of Credituz OS Growth, while the company sets the policy and goals.
+Service is Credituz's most complete plan, inspired by the service-as-software thesis: instead of selling only the tool, Credituz runs the company's credit and collections with AI agents and team supervision. Analysis, decisions, collections and portfolio monitoring are performed by Credituz on top of Credituz OS, while the company sets the policy and goals.
 
 Custom scope includes:
 
