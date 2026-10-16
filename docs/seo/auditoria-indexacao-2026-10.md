@@ -31,7 +31,7 @@ A versao anterior deste relatorio dizia que faltava <link rel="canonical"> nas p
 ## Sitemap
 
 - https://credituz.ai/sitemap.xml: 178 URLs, todas no host correto. GSC: 178 enviadas, 0 indexadas, 0 erros, 0 avisos.
-- https://www.credituz.ai/sitemap.xml: 178 enviadas, 0 indexadas, 4 avisos. Acao: remover este sitemap da GSC depois de confirmar o redirecionamento 301 de www para o dominio sem www.
+- www.credituz.ai/sitemap.xml: 178 enviadas, 0 indexadas, 4 avisos. Acao: remover este sitemap da GSC depois de confirmar o redirecionamento 301 de www para o dominio sem www.
 - Nao foi possivel verificar o 301 a partir da sandbox (acesso ao site bloqueado pela politica de rede). Verificacao manual necessaria.
 - O contador de indexadas pode estar atrasado. Reavaliar em 14 dias antes de concluir.
 
@@ -100,10 +100,10 @@ A versao anterior deste relatorio dizia que faltava <link rel="canonical"> nas p
 
 ## Atualização: itens A, B e C (2026-10-11)
 - www.credituz.ai NÃO redireciona para credituz.ai (curl confirmou página normal em www). Correção pendente: 301 de www para o domínio principal na camada de hospedagem (Vercel ou GitHub Pages). Enquanto não corrigido, há conteúdo duplicado.
-- Search Console: continua registrado https://www.credituz.ai/sitemap.xml (4 avisos). Remover pela interface do GSC após corrigir o 301.
+- Search Console: continua registrado www.credituz.ai/sitemap.xml (4 avisos). Remover pela interface do GSC após corrigir o 301.
 - Bing: pendente de chave do responsável pelo domínio.
 - Órfãs: imprensa linkada no rodapé da home; en/pages/locacao-temporada linkada no rodapé da versão en; lp/loteadoras linkada a partir de 2 artigos de loteadoras.
 - Títulos com 2025: lista e proposta em docs/seo/titulos-2025-proposta.md. Nenhum título alterado até aprovação.
 
 ## Atualização: redirect de www confirmado (2026-10-11)
-- Chrome: http://www.credituz.ai/ abre https://credituz.ai/ (confirmado pelo responsável). Código exato (301 ou 302) não verificado pelo ambiente.
+- Chrome: www.credituz.ai/ abre https://credituz.ai/ (confirmado pelo responsável). Código exato (301 ou 302) não verificado pelo ambiente.

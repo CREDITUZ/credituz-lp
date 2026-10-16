@@ -16,8 +16,8 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 
 - análise de crédito e política de crédito;
 - CRM de crédito;
-- 15 análises de crédito por mês no Start e 50 no Growth (análise adicional: R$ 20 nos dois planos);
-- até 200 cobranças por mês no Start e 600 no Growth;
+- 5 análises de crédito por mês no Start e 50 no Growth (análise adicional: R$ 24,90 nos dois planos);
+- até 100 cobranças por mês no Start e 600 no Growth;
 - cada cobrança pode usar até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail;
 - recebíveis, baixa e conciliação;
 - analytics;
@@ -25,7 +25,7 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 
 ## Preço
 
-**Start: R$ 297 por mês** (15 análises, 200 cobranças, 3 usuários). **Growth: R$ 697 por mês** (50 análises, 600 cobranças, 10 usuários e embedded credit).
+**Start: R$ 297 por mês** (5 análises, 100 cobranças, 3 usuários). **Growth: R$ 697 por mês** (50 análises, 600 cobranças, 10 usuários e embedded credit).
 
 ## Diferença para os outros produtos
 

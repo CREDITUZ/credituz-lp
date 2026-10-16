@@ -123,12 +123,11 @@ Credituz is not limited to the real estate market. The platform can serve compan
 
 ## Plans and prices on the homepage
 
-The homepage compares four Credituz OS plans:
+The homepage shows a single plan with a public price:
 
-1. **Credituz OS Essencial — R$ 99/month**, with 5 credit analyses, basic credit CRM, and 1 user. Extra analysis: R$ 25. Entry point for freelancers, consultants, and small operations, without collections included.
-2. **Credituz OS Start — R$ 297/month**, with 15 credit analyses, up to 200 collections, and up to 3 users. Extra analysis: R$ 20. Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
-3. **Credituz OS Growth — R$ 697/month**, with 50 analyses, up to 600 collections, 10 users, plus embedded credit (multi-bank simulation, credit application, and Corban CRM). Extra analysis: R$ 20.
-4. **Service, custom**, with credit analysis and collections operated by Credituz and customized infrastructure.
+- **Credituz OS: R$ 297/month**, with 5 credit analyses, credit CRM, AI-powered collections, up to 100 collections and 3 users per month. Extra analysis: R$ 24.90. Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
+
+Higher volumes and other features (multi-bank simulation, credit application and Corban CRM, operations run by Credituz in the Service plan, integrations and custom modules) are defined with the Credituz sales team during qualification, with no price published on the homepage.
 
 **Credituz Score — R$ 27.70 per analysis** remains the self-service entry product for companies that need completely standalone analyses without commitment.
 

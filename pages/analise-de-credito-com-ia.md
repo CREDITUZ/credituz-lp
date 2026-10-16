@@ -36,7 +36,7 @@ A disponibilidade de cada campo depende das fontes consultadas e dos dados encon
 
 - **Credituz Score:** análise avulsa por R$ 27,70, sem assinatura ou mensalidade.
 - **Credituz OS Essencial:** R$ 99/mês com 5 análises, CRM de crédito básico e 1 usuário.
-- **Credituz OS Start:** R$ 297/mês com 15 análises, 200 cobranças e 3 usuários.
+- **Credituz OS Start:** R$ 297/mês com 5 análises, 100 cobranças e 3 usuários.
 - **Credituz OS Growth:** R$ 697/mês com 50 análises, 600 cobranças, 10 usuários e embedded credit (simulação multibanco, pedido de crédito e CRM Corban).
 - **Service:** sob medida. A Credituz opera análise, decisão e cobrança da carteira com agentes de IA e supervisão humana, sobre o Credituz OS Growth.
 
@@ -52,7 +52,7 @@ Reúne e interpreta os dados de risco de um cliente, como score, restrições, p
 
 ### Quanto custa uma análise de crédito na Credituz?
 
-Uma análise avulsa no Credituz Score custa R$ 27,70, sem mensalidade. Nos planos do Credituz OS, o Essencial (R$ 99/mês) inclui 5 análises, o Start (R$ 297/mês) inclui 15 e o Growth (R$ 697/mês) inclui 50, com análises adicionais de R$ 20 a R$ 25 conforme o plano. O Service é sob medida.
+Uma análise avulsa no Credituz Score custa R$ 27,70, sem mensalidade. O Credituz OS (R$ 297/mês) inclui 5 análises por mês, e cada análise adicional custa R$ 24,90. Volumes maiores são definidos com o time comercial.
 
 ### Quais dados a análise de crédito consulta?
 

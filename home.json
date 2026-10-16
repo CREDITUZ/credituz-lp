@@ -87,7 +87,7 @@
         "Análise de crédito e política de crédito",
         "CRM de crédito no Credituz OS",
         "Régua de cobrança com IA em WhatsApp e e-mail",
-        "15 análises e até 200 cobranças por mês no Credituz OS",
+        "5 análises e até 100 cobranças por mês no Credituz OS",
         "Volumes maiores de análises e cobranças sob consulta com o time comercial",
         "Cada cobrança inclui uma régua com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail",
         "Simulação de crédito multibanco sob consulta com o time comercial",
@@ -113,7 +113,7 @@
           "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
-          "description": "R$ 297 por mês com 15 análises de crédito e até 200 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 20. Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
+          "description": "R$ 297 por mês com 5 análises de crédito e até 100 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 24,90. Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
         },
         {
           "@type": "Offer",
@@ -143,7 +143,7 @@
           "name": "O que está incluído no plano Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS (R$ 297/mês) reúne análise de crédito, CRM de crédito e cobrança com IA, com 15 análises e 200 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial."
+            "text": "O Credituz OS (R$ 297/mês) reúne análise de crédito, CRM de crédito e cobrança com IA, com 5 análises e 100 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial."
           }
         },
         {
@@ -151,7 +151,7 @@
           "name": "O que acontece se eu passar da franquia de análises?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Cada análise adicional custa R$ 20, nos dois planos. Análises não usadas não acumulam para o mês seguinte."
+            "text": "Cada análise adicional custa R$ 24,90. Análises não usadas não acumulam para o mês seguinte."
           }
         },
         {
@@ -207,7 +207,7 @@
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS custa R$ 297 por mês com 15 análises de crédito, até 200 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o time comercial da Credituz. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
+            "text": "O Credituz OS custa R$ 297 por mês com 5 análises de crédito, até 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o time comercial da Credituz. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
           }
         }
       ]

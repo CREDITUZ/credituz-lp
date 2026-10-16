@@ -48,6 +48,7 @@ PAGES = [
 LEGAL_BASENAMES = {
     "privacidade.html", "termos.html", "dpo.html", "uso-aceitavel.html",
     "glossario.html", "blog.html", "cobranca-e-recebiveis-imobiliarios.html",
+    "imprensa.html",
 }
 
 PROTECT = [

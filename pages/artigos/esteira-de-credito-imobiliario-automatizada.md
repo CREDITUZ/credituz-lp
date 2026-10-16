@@ -111,7 +111,7 @@ Antes de comparar fornecedores, vale mapear o processo atual e os gargalos. Os c
 
 O correspondente que opera com vários bancos costuma repetir o mesmo cadastro em portais diferentes, acompanhar status por e-mail e perder o fio das propostas. Uma esteira multibanco centraliza a simulação, o pedido de crédito e o funil em um só lugar.
 
-No [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html), o módulo de embedded credit reúne simulação multibanco, pedido de crédito e CRM Corban, junto com análise de crédito, política própria, decisão, monitoramento e cobrança. O plano custa R$ 697 por mês e inclui 50 análises, até 600 cobranças e 10 usuários. Para operações menores, o Credituz OS Start custa R$ 297 por mês, com 15 análises, até 200 cobranças e 3 usuários. Nos dois, a análise adicional sai por R$ 20.
+No [Credituz OS Growth](https://credituz.ai/pages/corban-ai.html), o módulo de embedded credit reúne simulação multibanco, pedido de crédito e CRM Corban, junto com análise de crédito, política própria, decisão, monitoramento e cobrança. O plano custa R$ 697 por mês e inclui 50 análises, até 600 cobranças e 10 usuários. Para operações menores, o Credituz OS Start custa R$ 297 por mês, com 5 análises, até 100 cobranças e 3 usuários. Nos dois, a análise adicional sai por R$ 24,90.
 
 O [Credituz OS](https://credituz.ai/pages/credituz-os.html) foi desenhado como sistema operacional de crédito e cobrança para o setor imobiliário, com agentes nativos de IA: a mesma base que analisa e decide também gera a carteira e opera a régua de cobrança, em que cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
 
