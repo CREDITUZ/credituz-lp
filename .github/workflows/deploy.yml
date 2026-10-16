@@ -160,12 +160,10 @@ jobs:
             const {context,page}=await open('/pages/credituz-score.html');
             let s=await snapshot(page);
             assert(s.events.some(e=>e.event==='landing_view'&&e.utm_source==='qa'),'Score landing_view carries UTM',s.events);
-            const u=s.dashboard[0]&&new URL(s.dashboard[0]);
-            assert(u&&u.searchParams.get('utm_source')==='qa'&&u.searchParams.get('gclid')==='QA-GCLID','Score dashboard link preserves attribution',s.dashboard[0]);
-            await fire(page,'[data-track="score_buy_primary"]'); s=await snapshot(page);
-            assert(s.events.some(e=>e.event==='marketing_cta_click'&&e.cta_id==='score_buy_primary'),'Score CTA emits marketing_cta_click',s.events);
-            assert(s.events.some(e=>e.event==='signup_start'&&e.cta_id==='score_buy_primary'),'Score CTA emits signup_start',s.events);
-            assert(s.fbq.some(x=>x[0]==='track'&&x[1]==='InitiateCheckout'&&x[2]&&x[2].value===27.70),'Score CTA queues Meta InitiateCheckout R$27,70',s.fbq);
+            await fire(page,'[data-track="score_sales_primary"]'); s=await snapshot(page);
+            assert(s.events.some(e=>e.event==='marketing_cta_click'&&e.cta_id==='score_sales_primary'),'Score CTA emits marketing_cta_click',s.events);
+            assert(s.events.some(e=>e.event==='contact_start'&&e.cta_id==='score_sales_primary'),'Score CTA emits contact_start',s.events);
+            assert(s.fbq.some(x=>x[0]==='track'&&x[1]==='Contact'),'Score CTA queues Meta Contact',s.fbq);
             await context.close();
           }
           await browser.close();
