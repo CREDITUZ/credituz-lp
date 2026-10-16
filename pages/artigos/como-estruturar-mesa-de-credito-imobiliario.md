@@ -99,7 +99,7 @@ A tabela abaixo é um **exemplo hipotético**, para ilustrar a lógica. Os valor
 Com a estrutura desenhada, falta decidir quem executa. Há três caminhos:
 
 1. **Montar equipe própria:** maior controle, mas exige contratar, treinar e manter analistas e cobradores, além de ferramentas.
-2. **Usar software:** o [Credituz OS](https://credituz.ai/pages/credituz-os.html) conecta análise de crédito, política de crédito própria, decisão, CRM de crédito, monitoramento e cobrança. O plano custa R$ 297/mês (5 análises, até 100 cobranças, 3 usuários; análise adicional a R$ 24,90), e volumes maiores e embedded credit com simulação multibanco são definidos com o time comercial.
+2. **Usar software:** o [Credituz OS](https://credituz.ai/pages/credituz-os.html) conecta análise de crédito, política de crédito própria, decisão, CRM de crédito, monitoramento e cobrança. O plano custa R$ 297/mês (5 análises PF ou PJ, até 100 cobranças, 3 usuários; análise adicional a R$ 24,90 para PF ou R$ 29,90 para PJ), e volumes maiores e embedded credit com simulação multibanco são definidos com o time comercial.
 3. **Contratar a operação:** no plano [Service](https://credituz.ai/pages/enterprise.html), a Credituz opera análise, decisão, cobrança e acompanhamento da carteira com agentes de IA e supervisão humana, e a empresa define política e metas. Entenda o modelo em [BPO de análise de crédito](https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html).
 
 Para empresas que ainda estão testando o modelo, o Credituz Score permite análises avulsas por R$ 27,70, sem mensalidade.

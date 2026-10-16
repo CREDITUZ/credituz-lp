@@ -125,7 +125,7 @@ Credituz is not limited to the real estate market. The platform can serve compan
 
 The homepage shows a single plan with a public price:
 
-- **Credituz OS: R$ 297/month**, with 5 credit analyses, credit CRM, AI-powered collections, up to 100 collections and 3 users per month. Extra analysis: R$ 24.90. Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
+- **Credituz OS: R$ 297/month**, with 5 advanced credit analyses per month for individuals or companies (PF or PJ) with Boa Vista score, credit CRM, AI-powered collections, up to 100 collections and 3 users per month. Extra analysis: R$ 24.90 (individual) or R$ 29.90 (company). Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
 
 Higher volumes and other features (multi-bank simulation, credit application and Corban CRM, operations run by Credituz in the Service plan, integrations and custom modules) are defined with the Credituz sales team during qualification, with no price published on the homepage.
 

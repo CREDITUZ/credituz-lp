@@ -35,7 +35,7 @@ A disponibilidade de cada campo depende das fontes consultadas e dos dados encon
 ## Produtos e preços
 
 - **Credituz Score:** análise avulsa por R$ 27,70, sem assinatura ou mensalidade.
-- **Credituz OS:** R$ 297/mês com 5 análises, 100 cobranças e 3 usuários; análise adicional a R$ 24,90.
+- **Credituz OS:** R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ).
 - **Crédito multibanco:** embedded credit (simulação multibanco, pedido de crédito e CRM Corban), sob consulta com o time comercial.
 - **Service:** sob medida. A Credituz opera análise, decisão e cobrança da carteira com agentes de IA e supervisão humana, sobre o Credituz OS.
 
@@ -51,7 +51,7 @@ Reúne e interpreta os dados de risco de um cliente, como score, restrições, p
 
 ### Quanto custa uma análise de crédito na Credituz?
 
-Uma análise avulsa no Credituz Score custa R$ 27,70, sem mensalidade. O Credituz OS (R$ 297/mês) inclui 5 análises por mês, e cada análise adicional custa R$ 24,90. Volumes maiores são definidos com o time comercial.
+Uma análise avulsa no Credituz Score custa R$ 27,70, sem mensalidade. O Credituz OS (R$ 297/mês) inclui 5 análises PF ou PJ por mês, e cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores são definidos com o time comercial.
 
 ### Quais dados a análise de crédito consulta?
 

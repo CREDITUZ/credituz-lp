@@ -16,7 +16,7 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 
 - análise de crédito e política de crédito;
 - CRM de crédito;
-- 5 análises de crédito por mês (análise adicional: R$ 24,90; análises não usadas não acumulam);
+- 5 análises avançadas por mês, PF ou PJ, com score Boa Vista (análise adicional: R$ 24,90 (PF) ou R$ 29,90 (PJ); análises não usadas não acumulam);
 - até 100 cobranças por mês;
 - cada cobrança pode usar até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail;
 - recebíveis, baixa e conciliação;
@@ -25,7 +25,7 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 
 ## Preço
 
-**Credituz OS: R$ 297 por mês**, plano único com 5 análises, até 100 cobranças e 3 usuários. Análise adicional: R$ 24,90. Volumes maiores e outras funcionalidades são definidos com o time comercial.
+**Credituz OS: R$ 297 por mês**, plano único com 5 análises PF ou PJ, até 100 cobranças e 3 usuários. Análise adicional: R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores e outras funcionalidades são definidos com o time comercial.
 
 ## Diferença para os outros produtos
 

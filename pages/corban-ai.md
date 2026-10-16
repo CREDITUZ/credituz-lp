@@ -4,7 +4,7 @@
 
 - Canonical: https://credituz.ai/pages/corban-ai.html
 - Produto: crédito multibanco (embedded credit) no Credituz OS
-- Preço: sob consulta com o time comercial; o Credituz OS custa R$ 297 por mês (5 análises, até 100 cobranças, 3 usuários; análise adicional: R$ 24,90)
+- Preço: sob consulta com o time comercial; o Credituz OS custa R$ 297 por mês (5 análises PF ou PJ, até 100 cobranças, 3 usuários; análise adicional: R$ 24,90 para PF ou R$ 29,90 para PJ)
 - Categoria: embedded credit, simulação multibanco e CRM Corban
 - Disponibilidade: Brasil
 - Atualizado: 2026-10

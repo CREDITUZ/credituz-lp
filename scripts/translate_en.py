@@ -57,6 +57,7 @@ PROTECT = [
     "ICP-Brasil", "BACEN", "NFe", "Open Banking", "Microsoft for Startups",
     "Google for Startups", "Salesforce", "HubSpot", "Meta", "Google",
     "LinkedIn", "Instagram", "Facebook", "Pix", "FGTS", "Kenlo", "CV CRM",
+    "Boa Vista",
 ]
 SKIP_PARENTS = {"script", "style", "code", "pre", "noscript", "template"}
 ATTRS_TEXT = ("alt", "aria-label", "placeholder", "title")
