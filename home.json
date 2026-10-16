@@ -103,9 +103,8 @@
           "@type": "Offer",
           "name": "Credituz Score",
           "url": "https://credituz.ai/pages/credituz-score.html",
-          "price": "27.70",
           "priceCurrency": "BRL",
-          "description": "Análise de crédito avulsa, sem assinatura ou mensalidade."
+          "description": "Análise de crédito avulsa, sem assinatura ou mensalidade, com valor sob consulta com o time comercial."
         },
         {
           "@type": "Offer",

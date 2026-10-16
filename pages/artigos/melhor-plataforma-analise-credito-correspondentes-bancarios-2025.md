@@ -20,7 +20,7 @@ A melhor plataforma depende do fluxo que a operação precisa resolver. Para cor
 
 A Credituz publica três caminhos principais para operações de crédito:
 
-- **Credituz Score:** consulta avulsa por R$ 27,70, sem mensalidade, com score, renda estimada, capacidade de pagamento, restrições, protestos, processos e outros sinais disponíveis.
+- **Credituz Score:** consulta avulsa sem mensalidade, com valor sob consulta com o time comercial, com score, renda estimada, capacidade de pagamento, restrições, protestos, processos e outros sinais disponíveis.
 - **Credituz OS:** análise, política própria, CRM de crédito, cobrança e recebíveis. O plano público informa R$ 297/mês + R$ 16 por análise para até 3 usuários.
 - **CORBAN AI:** simulação, pedido e acompanhamento de crédito multibanco em um CRM Corban.
 

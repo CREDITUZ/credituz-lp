@@ -64,7 +64,7 @@ A **operação de crédito como serviço** segue outra lógica, próxima da tese
 | Esforço de gestão interna | Alto | Médio | Médio a alto | Baixo (foco em política e metas) |
 | Indicado para | Grandes operações com time maduro | Volumes estáveis e processos simples | Empresas com equipe e volume previsível | Quem quer o resultado sem montar a operação |
 
-Para quem já tem equipe e quer apenas ferramenta, o Credituz OS em modalidade self-service (R$ 297/mês, com 5 análises PF ou PJ e até 100 cobranças) pode ser suficiente. Para consultas pontuais, o [Credituz Score](https://credituz.ai/pages/credituz-score.html) custa R$ 27,70 por análise avulsa, sem mensalidade.
+Para quem já tem equipe e quer apenas ferramenta, o Credituz OS em modalidade self-service (R$ 297/mês, com 5 análises PF ou PJ e até 100 cobranças) pode ser suficiente. Para consultas pontuais, o [Credituz Score](https://credituz.ai/pages/credituz-score.html) faz análises avulsas, sem mensalidade, com valor sob consulta com o time comercial.
 
 ## Terceirização de mesa de crédito: o que fica com a empresa
 

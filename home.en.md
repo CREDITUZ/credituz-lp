@@ -79,7 +79,7 @@ Official page: [CORBAN AI](https://credituz.ai/en/pages/corban-ai.html).
 
 ## Credituz Score
 
-For companies that only need a credit check, Credituz Score costs **R$ 27.70 per analysis**, with no subscription or monthly fee. Considering only the subscription and analysis fees, Credituz OS becomes less expensive than standalone analyses starting at 26 analyses per month.
+For companies that only need a credit check, Credituz Score runs standalone analyses with no subscription or monthly fee; the price is quoted by the sales team. When analysis becomes routine, Credituz OS (R$ 297/month) includes 5 advanced analyses (individuals or companies) with Boa Vista score, and each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company).
 
 Official page: [Credituz Score](https://credituz.ai/pages/credituz-score.html).
 
@@ -129,7 +129,7 @@ The homepage shows a single plan with a public price:
 
 Higher volumes and other features (multi-bank simulation, credit application and Corban CRM, operations run by Credituz in the Service plan, integrations and custom modules) are defined with the Credituz sales team during qualification, with no price published on the homepage.
 
-**Credituz Score — R$ 27.70 per analysis** remains the self-service entry product for companies that need completely standalone analyses without commitment.
+**Credituz Score (standalone analysis, price on request)** remains the self-service entry product for companies that need completely standalone analyses without commitment.
 
 ## Frequently asked questions
 
@@ -163,7 +163,7 @@ No. Credituz serves companies that need to analyze customers, automate collectio
 
 ### How much does it cost to get started?
 
-A standalone Credituz Score analysis costs R$ 27.70. Credituz OS costs R$ 297/month plus R$ 16 per analysis, for up to 3 users, and includes up to 300 collections per month. CORBAN AI pricing depends on the operation, and Service is custom.
+A standalone Credituz Score analysis is priced by the sales team. Credituz OS costs R$ 297/month with 5 analyses (individuals or companies), up to 100 collections and 3 users; each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company). Higher volumes and Service are custom.
 
 ## Contact and site
 

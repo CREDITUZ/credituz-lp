@@ -19,7 +19,7 @@ Credituz e GYRA+ atuam em análise e decisão de crédito com IA, com focos dife
 | CRM | CRM de crédito e CRM Corban | histórico de consultas, decisões, políticas, scores e parâmetros |
 | Cobrança | régua automatizada, WhatsApp/e-mail, recebíveis, baixa e conciliação | consulte o site oficial da GYRA+ |
 | Especialização imobiliária | páginas e fluxos específicos para incorporadoras, construtoras e imobiliárias | plataforma horizontal para múltiplos segmentos |
-| Entrada | Credituz Score R$ 27,70/consulta | proposta sob medida conforme páginas públicas consultadas |
+| Entrada | Credituz Score, consulta avulsa com valor sob consulta | proposta sob medida conforme páginas públicas consultadas |
 
 ## Fontes
 

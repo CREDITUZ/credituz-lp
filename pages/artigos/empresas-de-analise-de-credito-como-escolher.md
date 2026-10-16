@@ -85,7 +85,7 @@ Com os três no mesmo lugar, a política pode ser ajustada com base no comportam
 
 O Credituz OS custa R$ 297 por mês, com 5 análises PF ou PJ, até 100 cobranças e 3 usuários; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores e embedded credit são definidos com o time comercial. Para quem prefere receber o trabalho feito, o [plano Service](https://credituz.ai/pages/enterprise.html) tem a Credituz operando análise, decisão e cobrança com agentes de IA e supervisão humana, enquanto a empresa define política e metas.
 
-Para quem faz poucas análises por mês, o [Credituz Score](https://credituz.ai/pages/credituz-score.html) oferece análise avulsa por R$ 27,70, sem mensalidade. É uma forma de começar com critério e evoluir para a [análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html) completa quando o volume justificar.
+Para quem faz poucas análises por mês, o [Credituz Score](https://credituz.ai/pages/credituz-score.html) oferece análise avulsa, sem mensalidade, com valor sob consulta com o time comercial. É uma forma de começar com critério e evoluir para a [análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html) completa quando o volume justificar.
 
 ## Perguntas frequentes
 
@@ -103,7 +103,7 @@ Desde a Lei Complementar 166/2019, a abertura do cadastro deixou de depender de 
 
 ### Quanto custa uma análise de crédito?
 
-Varia conforme o modelo: consultas a birôs costumam ser cobradas por consulta ou pacote, plataformas combinam mensalidade e franquia de análises, BPO cobra por volume e escopo, e consultorias cobram por projeto. No Credituz Score, a análise avulsa custa R$ 27,70, sem mensalidade.
+Varia conforme o modelo: consultas a birôs costumam ser cobradas por consulta ou pacote, plataformas combinam mensalidade e franquia de análises, BPO cobra por volume e escopo, e consultorias cobram por projeto. No Credituz Score, a análise avulsa não tem mensalidade e o valor é informado pelo time comercial.
 
 ### Empresa pequena precisa de software de análise de crédito?
 

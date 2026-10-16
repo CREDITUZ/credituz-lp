@@ -31,7 +31,7 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 
 - **Credituz OS:** análise, política, CRM de crédito, cobrança e recebíveis.
 - **Crédito multibanco:** simulação, solicitação e acompanhamento de crédito multibanco no CRM Corban, contratado com o time comercial.
-- **Credituz Score:** análise avulsa por R$ 27,70, sem mensalidade.
+- **Credituz Score:** análise avulsa sem mensalidade, com valor sob consulta com o time comercial.
 - **Service:** combinação de produtos, integrações e módulos sob medida.
 
 ## Perguntas frequentes

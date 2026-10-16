@@ -1,6 +1,6 @@
 # Análise de crédito com IA para empresas: Credituz
 
-> A Credituz é uma plataforma de análise de crédito com IA para empresas. Reúne score, renda estimada, restrições, protestos e processos em um único relatório e aplica a política de crédito da empresa. O Credituz OS conecta análise, política, CRM, cobrança e recebíveis; o Credituz Score permite consultas avulsas por R$ 27,70; no plano Service, a própria Credituz opera a análise e a cobrança.
+> A Credituz é uma plataforma de análise de crédito com IA para empresas. Reúne score, renda estimada, restrições, protestos e processos em um único relatório e aplica a política de crédito da empresa. O Credituz OS conecta análise, política, CRM, cobrança e recebíveis; o Credituz Score permite consultas avulsas, com valor sob consulta com o time comercial; no plano Service, a própria Credituz opera a análise e a cobrança.
 
 - Canonical: https://credituz.ai/pages/analise-de-credito-com-ia.html
 - Atualizado: 2026-09
@@ -34,7 +34,7 @@ A disponibilidade de cada campo depende das fontes consultadas e dos dados encon
 
 ## Produtos e preços
 
-- **Credituz Score:** análise avulsa por R$ 27,70, sem assinatura ou mensalidade.
+- **Credituz Score:** análise avulsa sem assinatura ou mensalidade, com valor sob consulta com o time comercial.
 - **Credituz OS:** R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ).
 - **Crédito multibanco:** embedded credit (simulação multibanco, pedido de crédito e CRM Corban), sob consulta com o time comercial.
 - **Service:** sob medida. A Credituz opera análise, decisão e cobrança da carteira com agentes de IA e supervisão humana, sobre o Credituz OS.
@@ -51,7 +51,7 @@ Reúne e interpreta os dados de risco de um cliente, como score, restrições, p
 
 ### Quanto custa uma análise de crédito na Credituz?
 
-Uma análise avulsa no Credituz Score custa R$ 27,70, sem mensalidade. O Credituz OS (R$ 297/mês) inclui 5 análises PF ou PJ por mês, e cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores são definidos com o time comercial.
+A análise avulsa no Credituz Score não tem mensalidade e o valor é informado pelo time comercial. O Credituz OS (R$ 297/mês) inclui 5 análises PF ou PJ por mês, e cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores são definidos com o time comercial.
 
 ### Quais dados a análise de crédito consulta?
 
