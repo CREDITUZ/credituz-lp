@@ -8,9 +8,9 @@ reading_minutes: 7
 key_points:
   - "Contrato de gaveta é a compra de um imóvel, em geral ainda financiado, feita só por papel particular, sem passar pelo banco e sem registro em cartório."
   - "Pela Lei 8.004/1990, a venda de imóvel financiado pelo SFH exige a interveniência do banco. Sem ela, o banco continua tratando o vendedor como devedor."
-  - "Para cessões feitas até 25 de outubro de 1996 em contratos com cobertura do FCVS, a Lei 10.150/2000 permite regularizar e equipara o comprador ao mutuário."
+  - "Para transferências de imóveis do SFH feitas sem o banco até 25 de outubro de 1996, a Lei 10.150/2000 permite regularizar e, na quitação antecipada, equipara o comprador ao mutuário, inclusive para o FCVS e o FGTS."
   - "Para cessões posteriores, o STJ exige a anuência do banco para o comprador discutir o financiamento (Tema 522)."
-  - "Regularizar passa por transferir o financiamento com o banco ou, com o imóvel quitado, obter a escritura, inclusive por adjudicação compulsória."
+  - "Regularizar passa por transferir o financiamento com o banco ou, com o imóvel quitado, obter a escritura, inclusive por adjudicação compulsória. A usucapião tem limites e deve ser avaliada por advogado."
 faq:
   - q: "Contrato de gaveta tem validade?"
     a: "Ele vale entre comprador e vendedor como contrato particular, mas não transfere a propriedade nem obriga o banco. Dono, para a lei, é quem está na matrícula do imóvel."
@@ -27,14 +27,14 @@ sources:
     url: "https://planalto.gov.br/ccivil_03/leis/L8004.htm"
   - title: "STJ, Tema 522 (REsp 1.150.429/CE): anuência do banco para cessões após 25/10/1996"
     url: "https://tesesesumulas.com.br/tese/stj/522"
-  - title: "STJ, Temas 520 e 521: legitimidade do cessionário conforme data e FCVS"
-    url: "https://informativos.trilhante.com.br/temas-stj/tema-repetitivo-520-stj"
-  - title: "Tesouro Nacional: histórico do FCVS"
-    url: "https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/50175_2412543/Hist%C3%B3rico%20FCVS%20para%20TT%202024%2008%2007.pdf"
+  - title: "TRF5: acórdão que transcreve a ementa do REsp 1.150.429/CE (Corte Especial do STJ, 25/04/2013)"
+    url: "https://www4.trf5.jus.br/data/2015/03/ESPARTA/200281000123448_20150313_2099420.pdf"
+  - title: "STJ, Súmula 84 (embargos de terceiro com base em compromisso não registrado)"
+    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%2784%27.num.&b=SUMU"
+  - title: "AASP: para a Terceira Turma do STJ, imóveis vinculados ao SFH não são suscetíveis de usucapião"
+    url: "https://www.aasp.org.br/?p=36315"
   - title: "Lei 6.015/1973, art. 216-B (adjudicação compulsória extrajudicial)"
     url: "https://www.legjur.com/legislacao/art/LEI_00060151973-216-B"
-  - title: "Migalhas (fev. 2023): revisão de financiamento em contrato de gaveta exige anuência do banco"
-    url: "https://www.migalhas.com.br/quentes/381279/revisao-de-financiamento-em-contrato-de-gaveta-exige-anuencia-do-banco"
 related: [promessa-de-compra-e-venda, escritura-e-registro-quanto-custa, leilao-extrajudicial-direitos, portabilidade-financiamento-imobiliario]
 ---
 
@@ -50,7 +50,7 @@ Ainda hoje há quem faça isso para "economizar" ou porque o comprador não seri
 
 ## O que a lei diz sobre vender imóvel financiado
 
-A Lei 8.004/1990 permite ao mutuário do SFH transferir o contrato, mas exige que a venda, promessa ou cessão seja formalizada junto com a transferência do financiamento e "com a interveniência obrigatória da instituição financiadora". Pelo art. 3º, a transferência é feita como uma nova operação de financiamento, com análise da capacidade de pagamento de quem assume.
+A Lei 8.004/1990 permite ao mutuário do SFH transferir o contrato, mas o parágrafo único do art. 1º (com redação da Lei 10.150/2000) exige que a venda, promessa ou cessão seja feita no mesmo ato da transferência do financiamento e com a participação obrigatória do banco. Pelo art. 3º, a transferência é feita como uma nova operação de financiamento, com análise da capacidade de pagamento de quem assume.
 
 Sem essa participação do banco, a venda não produz efeito perante ele. Na prática:
 
@@ -64,22 +64,22 @@ A Lei 10.150/2000 tratou da novação das dívidas do FCVS, fundo do governo que
 
 | Situação | O que a lei permite |
 |---|---|
-| Transferência sem o banco, feita até 25/10/1996 (art. 20) | pode ser regularizada nos termos da lei, salvo contratos dos planos da Lei 8.692/1993 |
+| Transferência sem o banco, feita até 25/10/1996 (art. 20) | pode ser regularizada nos termos da lei, salvo contratos dos planos de reajuste da Lei 8.692/1993 |
 | Proposta de transferência formalizada no banco até 25/10/1996 (art. 21) | concluir a transferência nas condições daquela data |
 | Liquidação antecipada de contrato do SFH (art. 22) | o comprador por contrato de gaveta é tratado como mutuário final, inclusive para habilitação no FCVS e uso do FGTS |
-| Prova da data (art. 22, §§ 1º e 2º) | documentos registrados em cartório, contrato com firma reconhecida ou procuração até 25/10/1996 |
+| Prova da data (art. 20, parágrafo único, e art. 22, §§ 1º e 2º) | documentos registrados em cartório de imóveis, títulos e documentos ou notas; contrato particular datado até 25/10/1996 com firma reconhecida antes da quitação; ou procuração outorgada até 25/10/1996 |
 
-O FCVS só cobriu contratos assinados até a Lei 8.692/1993, segundo o histórico do Tesouro Nacional. A administração do fundo é da Caixa. Para quem está nesse grupo, o primeiro passo é pedir à Caixa ou ao banco credor a situação do contrato e da cobertura.
+A cobertura do FCVS existe só em contratos antigos, e nem todo contrato daquela época tinha esse fundo. Para quem está nesse grupo, o primeiro passo é pedir à Caixa, que administra o fundo, ou ao banco credor a situação do contrato e da cobertura. Contratos sem FCVS também podem ser renegociados com o banco, se ele concordar (art. 23).
 
 ## O que o STJ decidiu sobre o comprador
 
-O Superior Tribunal de Justiça (STJ) julgou o tema em recursos repetitivos em abril de 2013:
+A Corte Especial do Superior Tribunal de Justiça (STJ) julgou o tema como recurso repetitivo em abril de 2013, no REsp 1.150.429/CE (Temas 520 a 522), e fixou três situações:
 
-- **Tema 520:** em contrato com cobertura do FCVS, transferido sem o banco até 25/10/1996, o comprador tem legitimidade para discutir em juízo as obrigações e os direitos do contrato.
-- **Tema 521:** em contrato sem cobertura do FCVS, até a mesma data, sem anuência do banco e fora das condições da Lei 10.150/2000, o comprador não tem legitimidade para pedir revisão.
-- **Tema 522 (REsp 1.150.429/CE):** para cessões feitas depois de 25/10/1996, a anuência do banco é indispensável para que o comprador discuta o contrato, com ou sem FCVS.
+- **Contrato com cobertura do FCVS, transferido sem o banco até 25/10/1996:** o comprador tem legitimidade para discutir em juízo as obrigações e os direitos do contrato.
+- **Contrato sem cobertura do FCVS, até a mesma data, sem anuência do banco e fora das condições da Lei 10.150/2000:** o comprador não tem legitimidade para pedir revisão.
+- **Cessão feita depois de 25/10/1996:** a anuência do banco é indispensável para que o comprador peça a revisão, com ou sem FCVS.
 
-Ou seja: para a maioria dos contratos de gaveta recentes, o banco simplesmente não reconhece o comprador. Em 2023, por exemplo, o Tribunal Regional Federal da 1ª Região manteve a extinção de uma ação de revisão proposta por uma compradora justamente por falta de anuência da Caixa.
+Ou seja: para a maioria dos contratos de gaveta recentes, o banco simplesmente não reconhece o comprador, e ações de revisão propostas sem a anuência dele costumam ser extintas.
 
 ## Os riscos na prática
 
@@ -119,7 +119,7 @@ Os percentuais de ITBI e as tabelas de cartório variam por cidade e estado; vej
    - **imóvel quitado e vendedor recusa, sumiu ou morreu:** adjudicação compulsória, judicial ou extrajudicial (art. 216-B da Lei 6.015/1973), ou acordo com os herdeiros no inventário.
 5. **Pague ITBI e registre.** Só o registro na matrícula transfere a propriedade.
 
-Quando a documentação é muito frágil e a posse é antiga, há também a usucapião, que tem requisitos e prazos próprios e deve ser avaliada por advogado. Os detalhes da promessa, do registro e da adjudicação compulsória estão em [promessa de compra e venda](/artigos/promessa-de-compra-e-venda).
+Quando a documentação é muito frágil e a posse é antiga, há também a usucapião, prevista no Código Civil em modalidades com prazos diferentes e que pode ser pedida na Justiça ou no próprio Registro de Imóveis (art. 216-A da Lei 6.015/1973). Ela tem limites importantes: a Terceira Turma do STJ já decidiu que imóvel vinculado ao SFH, como o financiado pela Caixa, não pode ser adquirido por usucapião, e quem ocupa por força de um contrato com o vendedor pode ter dificuldade para provar posse "como dono". Por isso, avalie com advogado ou com a Defensoria Pública antes de escolher esse caminho. Os detalhes da promessa, do registro e da adjudicação compulsória estão em [promessa de compra e venda](/artigos/promessa-de-compra-e-venda).
 
 ## Erros comuns
 
@@ -133,6 +133,6 @@ Quando a documentação é muito frágil e a posse é antiga, há também a usuc
 
 - Contrato de gaveta vale entre as partes, mas não transfere a propriedade nem obriga o banco.
 - A venda de imóvel financiado pelo SFH exige a interveniência do banco (Lei 8.004/1990).
-- Cessões até 25/10/1996 em contratos com FCVS podem ser regularizadas pela Lei 10.150/2000; depois dessa data, o banco precisa concordar (Tema 522 do STJ).
+- Transferências do SFH feitas até 25/10/1996 podem ser regularizadas pela Lei 10.150/2000; depois dessa data, o banco precisa concordar (REsp 1.150.429/CE, repetitivo do STJ).
 - Os riscos vão de penhora por dívida do vendedor a disputa com herdeiros.
 - Regularize: transfira o financiamento ou quite, depois escritura e registro, ou adjudicação compulsória.

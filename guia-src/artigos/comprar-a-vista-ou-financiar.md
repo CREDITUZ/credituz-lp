@@ -13,7 +13,7 @@ key_points:
   - "Se o imóvel valorizar rápido, a meta foge de quem está juntando e financiar passa a ganhar."
 faq:
   - q: "Vale a pena tirar o dinheiro da aplicação para comprar à vista?"
-    a: "Em geral sim, se o dinheiro não for a sua reserva de emergência. O financiamento custava cerca de 13,6% ao ano com a TR em outubro de 2026, acima dos 11,5% líquidos de uma aplicação a 100% do CDI por mais de dois anos."
+    a: "Em geral sim, se o dinheiro não for a sua reserva de emergência. O financiamento custava cerca de 13,6% ao ano com a TR em outubro de 2026, acima dos cerca de 11,6% líquidos de uma aplicação a 100% do CDI por mais de dois anos."
   - q: "Quem compra à vista consegue desconto?"
     a: "Pode conseguir, porque o vendedor recebe tudo de uma vez e não depende da aprovação do banco. A pesquisa Raio-X FipeZap do primeiro trimestre de 2026 apontou desconto médio de 9% entre o preço pedido e o fechado, sem separar quem pagou à vista."
   - q: "É melhor juntar dinheiro ou financiar logo?"
@@ -21,12 +21,16 @@ faq:
   - q: "Posso financiar só uma parte e pagar o resto à vista?"
     a: "Sim. Você pode dar uma entrada maior que o mínimo e financiar só o que falta. Quanto menor o valor financiado, menos juros e seguros você paga, e o banco pode até oferecer taxa melhor."
 sources:
-  - title: "Copom reduz Selic para 13,75% ao ano (16/09/2026)"
-    url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
-  - title: "Partnr: CDI acumulado e taxa diária (15/10/2026)"
-    url: "https://www.partnr.ai/indicadores/cdi"
-  - title: "Portas: FipeZap aluguel residencial, setembro de 2026 (rentabilidade de 6,13%)"
-    url: "https://portas.com.br/noticias/aluguel-residencial-alta-711-2026-fipezap/"
+  - title: "Banco Central: histórico das taxas de juros do Copom (Selic de 13,75% desde 16/09/2026)"
+    url: "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros"
+  - title: "Banco Central, SGS série 4389: CDI anualizado (13,65% em 15/10/2026)"
+    url: "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4389/dados/ultimos/5?formato=json"
+  - title: "Banco Central, SGS série 7811: TR mensal (2,0% em 12 meses até outubro de 2026)"
+    url: "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7811/dados/ultimos/12?formato=json"
+  - title: "Banco Central, SGS série 433: IPCA mensal (4,58% em 12 meses até setembro de 2026)"
+    url: "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados/ultimos/12?formato=json"
+  - title: "Fipe: Índice FipeZAP de locação residencial, setembro de 2026 (rentabilidade de 6,13%)"
+    url: "https://downloads.fipe.org.br/indices/fipezap/fipezap-202609-residencial-locacao.pdf"
   - title: "Portas: Raio-X FipeZap, desconto médio na compra de imóveis em 2026"
     url: "https://portas.com.br/dados-inteligencia/imoveis-vendidos-desconto-brasil-2026/"
   - title: "MySide: radar de taxas do financiamento imobiliário (out. 2026)"
@@ -38,7 +42,7 @@ sources:
 related: [alugar-ou-comprar, investir-ou-quitar-financiamento, entrada-para-financiar-imovel, custos-para-comprar-imovel]
 ---
 
-Se você já tem o dinheiro guardado, pagar o imóvel à vista quase sempre sai mais barato que financiar e deixar o dinheiro aplicado, porque o financiamento cobra mais juros do que uma aplicação segura rende depois do imposto. Em outubro de 2026, a taxa média dos grandes bancos ficava em torno de 11,4% ao ano mais TR (cerca de 13,6% ao ano no total), enquanto uma aplicação a 100% do CDI rendia cerca de 11,5% ao ano líquidos para prazos acima de dois anos. Se você ainda não tem o dinheiro, a pergunta é outra: vale mais juntar por alguns anos, pagando aluguel, ou financiar já? Aí a resposta depende de quanto o imóvel vai valorizar e de quanto os juros vão render no caminho. As duas contas estão abaixo, com premissas abertas.
+Se você já tem o dinheiro guardado, pagar o imóvel à vista quase sempre sai mais barato que financiar e deixar o dinheiro aplicado, porque o financiamento cobra mais juros do que uma aplicação segura rende depois do imposto. Em outubro de 2026, a taxa média dos grandes bancos ficava em torno de 11,4% ao ano mais TR (cerca de 13,6% ao ano no total), enquanto uma aplicação a 100% do CDI rendia cerca de 11,6% ao ano líquidos para prazos acima de dois anos (13,65% menos 15% de IR). Se você ainda não tem o dinheiro, a pergunta é outra: vale mais juntar por alguns anos, pagando aluguel, ou financiar já? Aí a resposta depende de quanto o imóvel vai valorizar e de quanto os juros vão render no caminho. As duas contas estão abaixo, com premissas abertas.
 
 ## Duas perguntas diferentes
 
@@ -57,11 +61,12 @@ Custo de oportunidade é o quanto o dinheiro renderia se você não o usasse na 
 
 | Indicador | Valor | Fonte e data |
 |---|---|---|
-| Selic | 13,75% ao ano | Copom, 16 de setembro de 2026 |
-| CDI | cerca de 13,65% ao ano | Taxa DI de 15 de outubro de 2026 |
-| CDI líquido, IR de 15% (aplicação acima de 720 dias) | cerca de 11,5% ao ano | cálculo do guia |
+| Selic | 13,75% ao ano | Copom, 16 de setembro de 2026 (última reunião até 19 de outubro) |
+| CDI | cerca de 13,65% ao ano | Banco Central, 15 de outubro de 2026 |
+| CDI líquido, IR de 15% (aplicação acima de 720 dias) | cerca de 11,6% ao ano | cálculo do guia |
 | LCI de um ano, média | 89,5% do CDI, isenta de IR | InfoMoney, julho de 2026 |
 | Financiamento, média dos grandes bancos | 11,40% ao ano + TR | MySide, outubro de 2026 |
+| TR acumulada em 12 meses | cerca de 2,0% | Banco Central, até outubro de 2026 |
 | Financiamento com TR de 2% ao ano | cerca de 13,6% ao ano | cálculo do guia |
 
 A regra prática: se o custo efetivo do financiamento for maior que o rendimento líquido que você consegue com segurança, pagar à vista (ou dar uma entrada maior) economiza dinheiro. Para comparar o custo total, use o CET (Custo Efetivo Total) da proposta do banco, que soma juros, seguros e tarifas. O guia de [taxa de juros do financiamento](/artigos/taxa-de-juros-financiamento-imobiliario) explica como ler esse número.
@@ -75,7 +80,7 @@ Exemplo ilustrativo, calculado em Python mês a mês. Premissas:
 - Imóvel de R$ 400.000. Você tem R$ 418.000 (o valor do imóvel mais 4,5% de custos de compra, como ITBI e cartório).
 - **Opção à vista:** paga tudo. Todo mês, investe o mesmo valor que a outra pessoa paga de parcela.
 - **Opção financiada:** dá 20% de entrada (R$ 80.000), financia R$ 320.000 em 360 meses pela tabela SAC, a 11,4% ao ano mais TR de 2% ao ano, com R$ 150 por mês de seguros. Investe os R$ 320.000 que sobraram e paga a parcela com o salário.
-- Investimento a 100% do CDI, com 15% de IR descontado do rendimento. CDI fixo por todo o período.
+- Investimento a 100% do CDI, com 15% de IR descontado do rendimento de cada mês (simplificação um pouco conservadora). CDI fixo por todo o período.
 - Horizonte de 10 anos. O imóvel é o mesmo nas duas opções, então a valorização não muda a diferença.
 
 Com essas premissas, a primeira parcela fica em R$ 3.937 e a 120ª em R$ 3.593. Depois de 10 anos, o saldo devedor ainda é de R$ 260.052: só cerca de R$ 60 mil da dívida foram pagos, e o resto da parcela foi juros, TR e seguros.
@@ -86,7 +91,7 @@ Com essas premissas, a primeira parcela fica em R$ 3.937 e a 120ª em R$ 3.593. 
 | 12,00% | R$ 767.227 | R$ 579.019 | R$ 188.208 |
 | 10,00% | R$ 702.375 | R$ 459.723 | R$ 242.652 |
 
-Para o financiamento empatar com a compra à vista, o CDI teria de ficar em cerca de 17% ao ano durante os 10 anos, o que daria uns 14,3% líquidos, acima do custo do financiamento. Com juros em queda, a vantagem de pagar à vista cresce, porque o dinheiro aplicado rende menos e a taxa do contrato continua a mesma.
+Para o financiamento empatar com a compra à vista, o CDI teria de ficar em cerca de 17% ao ano durante os 10 anos, o que daria uns 14,5% líquidos, acima do custo do financiamento com seguros. Com juros em queda, a vantagem de pagar à vista cresce, porque o dinheiro aplicado rende menos e a taxa do contrato continua a mesma.
 
 Por que a diferença é tão grande? Porque o financiamento custa sobre o valor bruto da dívida, enquanto o investimento rende depois do imposto. Mesmo com taxas parecidas no papel, o IR de 15% abre uma diferença que se acumula mês a mês.
 
@@ -95,10 +100,10 @@ Por que a diferença é tão grande? Porque o financiamento custa sobre o valor 
 Agora a situação mais comum. Premissas do exemplo ilustrativo:
 
 - Mesmo imóvel de R$ 400.000. Você tem R$ 98.000 (entrada de 20% mais custos).
-- Seu orçamento para moradia é igual à primeira parcela do financiamento (R$ 3.937), reajustado pelo IPCA de 4,58% ao ano.
+- Seu orçamento para moradia é igual à primeira parcela do financiamento (R$ 3.937), reajustado uma vez por ano pelo IPCA de 4,58% (variação dos 12 meses até setembro de 2026).
 - **Financiar agora:** compra hoje e investe o que sobra do orçamento depois da parcela.
-- **Juntar e comprar à vista:** paga aluguel de R$ 2.043 por mês (6,13% ao ano do valor do imóvel, a média do FipeZap de setembro de 2026), investe a diferença e compra quando o dinheiro cobrir o preço atualizado mais os custos. Depois, investe todo o orçamento.
-- Aluguel reajustado uma vez por ano pela mesma taxa de valorização do imóvel.
+- **Juntar e comprar à vista:** paga aluguel de R$ 2.043 por mês (6,13% ao ano do valor do imóvel, a rentabilidade média do aluguel no Índice FipeZAP de setembro de 2026), investe a diferença e compra quando o dinheiro cobrir o preço atualizado mais os custos. Depois, investe todo o orçamento.
+- Aluguel reajustado uma vez por ano pela mesma taxa de valorização do imóvel. Mesmo investimento e mesmo IR da simulação 1.
 
 Patrimônio depois de 10 anos (imóvel mais investimentos, menos dívida):
 
