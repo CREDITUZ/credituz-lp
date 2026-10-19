@@ -23,14 +23,14 @@ faq:
   - q: "A Faixa 4 aceita imóvel usado?"
     a: "Sim, a Faixa 4 aceita imóvel novo ou usado dentro do teto de R$ 600 mil. Desde o lançamento da faixa, o imóvel usado tem cota menor no Sul e no Sudeste (60% do valor, contra 80% nas demais regiões), então a entrada pesa mais. Confirme na simulação do banco."
 sources:
-  - title: "Novas faixas de renda do Minha Casa, Minha Vida entram em vigor (SBT News, 01/04/2026)"
-    url: "https://sbtnews.sbt.com.br/noticia/economia/novas-faixas-de-renda-do-minha-casa-minha-vida-entram-em-vigor-nesta-quarta-feira-1"
+  - title: "Portaria MCID nº 333, de 30 de março de 2026 (limites de renda urbanos e rurais)"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PORTARIAMCIDN333DE30DEMARODE2026.pdf"
   - title: "FGTS eleva para R$ 13 mil limite de renda do Minha Casa, Minha Vida (O Povo, 24/03/2026)"
     url: "https://www.opovo.com.br/noticias/economia/2026/03/24/fgts-eleva-para-rs-13-mil-limite-de-renda-do-minha-casa-minha-vida.html"
   - title: "Minha Casa, Minha Vida: aporte extra e novo teto para contratação (O Povo, 15/04/2026)"
     url: "https://www.opovo.com.br/noticias/economia/2026/04/15/lula-divulga-mudancas-no-mcmv-e-em-credito-para-reforma-de-casas-por-melhora-na-popularidade.html"
-  - title: "FGTS eleva limite do Minha Casa Minha Vida para R$ 275 mil (Portas, 12/11/2025)"
-    url: "https://portas.com.br/noticias/fgts-eleva-limite-do-minha-casa-minha-vida-para-r-275-mil/"
+  - title: "Minha Casa Minha Vida: novas regras começam nesta quarta-feira (Paraíba Business, 21/04/2026)"
+    url: "https://paraibabusiness.com.br/minha-casa-minha-vida-novas-regras-para-o-programa-comecam-nesta-quarta-feira-22/"
   - title: "Conselho Curador do FGTS aprova conjunto de medidas do MCMV (CBIC, 11/11/2025)"
     url: "https://cbic.org.br/conselho-curador-do-fgts-aprova-conjunto-de-medidas-do-mcmv/"
   - title: "FGTS amplia para R$ 13 bilhões subsídios do Minha Casa Minha Vida em 2026 (Jornal Opção, 10/09/2026)"
@@ -39,8 +39,6 @@ sources:
     url: "https://jornaldebrasilia.com.br/noticias/economia/minha-casa-minha-vida-amplia-faixa-4-para-classe-media-com-juros-acessiveis/"
   - title: "Faixa 4 do Minha Casa Minha Vida: juro nominal de 10% e cotas por região (IstoÉ Dinheiro, 05/05/2025)"
     url: "https://istoedinheiro.com.br/faixa-4-do-minha-casa-minha-vida-voltada-a-classe-media/"
-  - title: "Ministério das Cidades, Minha Casa Minha Vida"
-    url: "https://www.gov.br/cidades/pt-br/assuntos/habitacao/minha-casa-minha-vida"
 related: [fgts-na-compra-do-imovel, renda-para-financiar-imovel, sfh-e-sfi, entrada-para-financiar-imovel]
 ---
 
@@ -58,14 +56,14 @@ Em outubro de 2026, o Minha Casa Minha Vida atende famílias de área urbana com
 Como ler a tabela:
 
 - **Renda bruta familiar** é a soma da renda, antes dos descontos, de quem mora junto e contribui com as despesas. Benefícios temporários, como seguro-desemprego e Bolsa Família, não entram na conta.
-- **O teto das Faixas 1 e 2** depende do porte e da região do município. Em novembro de 2025, o Conselho Curador do FGTS subiu esses limites: nas grandes metrópoles, passou de R$ 264 mil para R$ 275 mil.
-- **Os juros** são faixas de referência divulgadas na imprensa a partir de anúncios do governo. A taxa exata depende da sua renda dentro da faixa, da região e de você ter ou não 3 anos de FGTS: as pontas mais baixas valem para cotistas do FGTS e regiões Norte e Nordeste, e as mais altas para quem não é cotista. A Faixa 1, por exemplo, ganhou taxa de 4,5% ao ano para rendas entre R$ 2.850,01 e R$ 3.200.
+- **O teto das Faixas 1 e 2** depende do porte e da região do município. O Conselho Curador do FGTS subiu esses limites em novembro e dezembro de 2025, e o teto mais alto chegou a R$ 275 mil.
+- **Os juros** são faixas de referência divulgadas na imprensa a partir de anúncios do governo e das condições da Caixa, e as reportagens nem sempre coincidem. Na Faixa 3, por exemplo, a taxa mais citada é 7,66% para cotistas do FGTS e 8,16% para os demais, e algumas reportagens mencionam taxas a partir de 6,5%. A taxa exata depende da sua renda dentro da faixa, da região e de você ter ou não 3 anos de FGTS: as pontas mais baixas valem para cotistas do FGTS e regiões Norte e Nordeste, e as mais altas para quem não é cotista. A Faixa 1, por exemplo, ganhou taxa de 4,5% ao ano para rendas entre R$ 2.850,01 e R$ 3.200.
 - **Na Faixa 4, 10% ou 10,5%?** A Caixa divulgou a taxa como juro nominal de 10% ao ano. Convertida para taxa efetiva, ela fica perto de 10,5%, por isso parte da imprensa publica um número e parte publica o outro. Compare sempre pelo CET (Custo Efetivo Total) da simulação.
 - **Imóvel usado na Faixa 4** é aceito. Pelas regras divulgadas no lançamento da faixa, o banco financia até 80% do imóvel novo em todo o país e do usado no Norte, Nordeste e Centro-Oeste, mas só 60% do usado no Sul e no Sudeste.
 
-Para comparação, o Jornal de Brasília apontava em maio de 2026 taxas de 12% ao ano ou mais no mercado para o mesmo perfil. A Selic estava em 13,75% ao ano depois da reunião do Copom de 16 de setembro de 2026.
+Para comparação, o Jornal de Brasília apontava em maio de 2026 taxas de 12% ao ano ou mais no mercado para o mesmo perfil.
 
-Famílias da área rural têm faixas próprias, com renda anual: até R$ 50 mil na Faixa 1, até R$ 70,9 mil na Faixa 2 e até R$ 134 mil na Faixa 3, segundo as regras de abril de 2026. O limite rural geral do programa passou a R$ 162,5 mil por ano.
+Famílias da área rural têm faixas próprias, com renda anual: até R$ 50 mil na Faixa 1, até R$ 70,9 mil na Faixa 2 e até R$ 134 mil na Faixa 3, pela Portaria MCID 333/2026. A mesma portaria fixa em R$ 162,5 mil por ano o limite rural geral do programa. Se encontrar outro valor, confira a data e a fonte.
 
 ## Quem pode participar
 
@@ -83,13 +81,13 @@ Nas faixas com financiamento, o banco faz análise de crédito como em qualquer 
 
 Subsídio é um desconto pago com recursos do FGTS e do governo que reduz o valor que você precisa financiar. Ele existe só nas Faixas 1 e 2 e é maior quanto menor a renda e quanto mais caro o custo de moradia na região.
 
-Os valores mudam por portaria e por região. Em novembro de 2025, o Conselho Curador do FGTS aumentou o desconto para famílias com renda de até R$ 2 mil e elevou o subsídio máximo de R$ 55 mil para R$ 65 mil na região Norte. Em setembro de 2026, o orçamento de subsídios do ano subiu de R$ 12,5 bilhões para R$ 13 bilhões. O valor exato do seu desconto só aparece na simulação, porque o cálculo considera renda, cidade e valor do imóvel.
+Os valores mudam por portaria e por região. Em novembro de 2025, o Conselho Curador do FGTS aumentou o desconto para famílias com renda de até R$ 2 mil e elevou o subsídio máximo de R$ 55 mil para R$ 65 mil na região Norte, regra que vale desde janeiro de 2026. Nas demais regiões, o máximo segue em R$ 55 mil. Em setembro de 2026, o orçamento de subsídios do ano subiu de R$ 12,5 bilhões para R$ 13 bilhões. O valor exato do seu desconto só aparece na simulação, porque o cálculo considera renda, cidade e valor do imóvel.
 
 Nas Faixas 3 e 4 não há desconto. A vantagem é a taxa de juros mais baixa que a de mercado.
 
 ## Exemplo: quanto a taxa menor muda a parcela
 
-Exemplo ilustrativo, sem seguros e tarifas, tabela Price em 420 meses (35 anos), com as taxas tratadas como efetivas ao ano.
+Exemplo ilustrativo, sem seguros e tarifas, em 420 meses (35 anos). A taxa da Faixa 4 entra como 10% ao ano nominal, como a Caixa divulga; as demais taxas são tratadas como efetivas ao ano.
 
 **Faixa 3.** Financiamento de R$ 240 mil.
 
@@ -102,10 +100,10 @@ Exemplo ilustrativo, sem seguros e tarifas, tabela Price em 420 meses (35 anos),
 
 | Taxa ao ano | Parcela fixa (Price) | Primeira parcela (SAC) |
 |---|---|---|
-| 10% (referência da Faixa 4) | R$ 3.307,35 | R$ 4.142,04 |
-| 12% (taxa hipotética de mercado) | R$ 3.868,79 | R$ 4.747,90 |
+| 10% nominal (referência da Faixa 4) | R$ 3.438,69 | R$ 4.285,71 |
+| 12% efetivo (taxa hipotética de mercado) | R$ 3.868,79 | R$ 4.747,90 |
 
-Na Faixa 3, a taxa do programa reduz a parcela em cerca de R$ 635 e os juros totais em mais de R$ 266 mil. Na Faixa 4, a diferença é de cerca de R$ 560 por mês na Price. Os bancos costumam aceitar parcela de até 30% da renda bruta: uma família com R$ 12 mil de renda teria até R$ 3.600 de parcela, o que comporta o exemplo da Faixa 4 na Price, mas não na primeira parcela do SAC (Sistema de Amortização Constante). Entenda a diferença em [SAC ou Price](/artigos/sac-ou-price) e faça a conta com o [simulador de financiamento](/simulador).
+Na Faixa 3, a taxa do programa reduz a parcela em cerca de R$ 635 e os juros totais em mais de R$ 266 mil. Na Faixa 4, a diferença é de cerca de R$ 430 por mês na Price. Os bancos costumam aceitar parcela de até 30% da renda bruta: uma família com R$ 12 mil de renda teria até R$ 3.600 de parcela, o que comporta o exemplo da Faixa 4 na Price, mas não na primeira parcela do SAC (Sistema de Amortização Constante). Entenda a diferença em [SAC ou Price](/artigos/sac-ou-price) e faça a conta com o [simulador de financiamento](/simulador).
 
 ## Como se inscrever
 

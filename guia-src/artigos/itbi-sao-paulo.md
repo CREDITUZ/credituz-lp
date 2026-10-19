@@ -70,7 +70,7 @@ A Lei municipal 13.402/2002, alterada pela Lei 15.891/2013, isenta do ITBI a pes
 | 2025 | R$ 235.485,84 |
 | 2026 | R$ 245.527,77 |
 
-Você não precisa fazer pedido à prefeitura. Basta apresentar ao cartório a Declaração para Isenção do ITBI-IV assinada. Declarar falsamente que é a primeira aquisição sujeita a cobrança do imposto com multa.
+Você não precisa fazer pedido à prefeitura. Basta apresentar ao cartório a Declaração para Isenção do ITBI-IV preenchida e assinada. A declaração é de sua responsabilidade: se a fiscalização constatar depois que você não tinha direito, o imposto é cobrado com multa de ofício e juros.
 
 Também são isentas as compras de unidades produzidas ou financiadas por órgãos e fundos habitacionais, como COHAB-SP, CDHU, FAR e o Fundo Municipal de Habitação. Se você está comprando por um desses programas, a construtora ou o órgão costuma orientar a documentação.
 
@@ -87,7 +87,7 @@ Na prática, quando o valor venal de referência for maior que o preço que voc�
 O processo é todo online, no portal da Secretaria Municipal da Fazenda, na seção de ITBI. A prefeitura publica um passo a passo para compra com financiamento bancário. Resumindo:
 
 1. **Escolha a declaração.** Para apartamento ou casa na cidade, use a de imóvel urbano.
-2. **Informe o cadastro do imóvel.** É o número de contribuinte do IPTU, chamado SQL, que aparece no carnê. Se o imóvel ainda está numa área maior sem SQL próprio, peça a pesquisa pelo Portal SP156.
+2. **Informe o cadastro do imóvel.** É o número de contribuinte do IPTU, chamado SQL, que aparece no carnê. Se o imóvel ainda não tem SQL próprio, tire a dúvida pelo Portal SP156.
 3. **Natureza da transação:** compra e venda.
 4. **Partes:** nome e CPF de todos os compradores e vendedores.
 5. **Valor total:** some recursos próprios, FGTS e financiamento. É o preço inteiro.

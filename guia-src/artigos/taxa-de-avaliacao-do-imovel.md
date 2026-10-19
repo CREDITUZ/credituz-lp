@@ -1,18 +1,18 @@
 ---
 title: "Taxa de avaliação do imóvel: quanto cada banco cobra e quando"
-description: "Quanto custa a taxa de avaliação do imóvel, valores publicados por Itaú, Bradesco e BRB, quando ela é paga e em que casos o banco não pode cobrar."
+description: "Quanto custa a taxa de avaliação do imóvel, valores publicados por Itaú e BRB, quando ela é paga e em que casos o banco não pode cobrar a tarifa."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "A taxa de avaliação paga o laudo que o banco exige para saber quanto vale o imóvel dado em garantia."
-  - "Valores publicados pelos próprios bancos: Itaú R$ 1.600 até R$ 350 mil e R$ 3.200 acima; Bradesco R$ 3.400 por processo; BRB até R$ 3.500."
+  - "Valores publicados pelos próprios bancos: Itaú R$ 1.600 até R$ 350 mil e R$ 3.200 acima; BRB até R$ 3.500."
   - "Pela Resolução CMN 4.676/2018, o banco só pode cobrar o custo efetivo da avaliação, precisa informar o valor máximo antes e entregar um extrato do laudo."
   - "Se o banco recusar o financiamento, ele não pode cobrar a avaliação. Se você desistir, a cobrança pode acontecer, desde que tenha sido avisada."
 faq:
   - q: "Quanto custa a taxa de avaliação do imóvel?"
-    a: "Cada banco define a sua. Em outubro de 2026, o Itaú publica R$ 1.600 para imóveis avaliados até R$ 350 mil e R$ 3.200 acima disso, a tabela do Bradesco traz R$ 3.400 por processo e o BRB informa máximo de R$ 3.500."
+    a: "Cada banco define a sua. Em outubro de 2026, o Itaú publica R$ 1.600 para imóveis avaliados até R$ 350 mil e R$ 3.200 acima disso, e o BRB informa máximo de R$ 3.500. Nos outros bancos, consulte a tabela de tarifas e a simulação."
   - q: "A taxa de avaliação é devolvida se o financiamento for negado?"
     a: "Pela regra do Conselho Monetário Nacional em vigor desde junho de 2022, o banco não pode cobrar os custos da avaliação quando a operação não é contratada por decisão dele. Se você já pagou e o banco recusou, peça a devolução."
   - q: "E se eu desistir depois da avaliação?"
@@ -24,8 +24,6 @@ faq:
 sources:
   - title: "Itaú: custos do processo de crédito imobiliário (tarifa de avaliação)"
     url: "https://www.itau.com.br/atendimento-itau/para-voce/credito-imobiliario/quais-sao-os-custos-com-o-processo-de-solicitacao-do-fgts"
-  - title: "Bradesco: tabela de tarifas do financiamento imobiliário (vigência a partir de 01/05/2024)"
-    url: "https://banco.bradesco/assets/pessoajuridica/pdf/tarifas/vigencia/financiamento-imobiliario.pdf"
   - title: "BRB: proposta de financiamento imobiliário, versão 1125 (tarifa de avaliação)"
     url: "https://novo.brb.com.br/wp-content/uploads/2025/12/PROPOSTA-FINAN-IMOB-11.2025.pdf"
   - title: "BRB: tabela de tarifas vigente a partir de 20/02/2026"
@@ -37,7 +35,7 @@ sources:
 related: [avaliacao-do-imovel-pelo-banco, custos-para-comprar-imovel, financiamento-negado, portabilidade-financiamento-imobiliario]
 ---
 
-A taxa de avaliação é o valor que o banco cobra para mandar um engenheiro ou arquiteto credenciado estimar quanto vale o imóvel que vai servir de garantia do financiamento. Em outubro de 2026, os valores publicados pelos próprios bancos ficam na casa de R$ 1.600 a R$ 3.500: o Itaú cobra R$ 1.600 para imóveis avaliados até R$ 350 mil e R$ 3.200 acima disso, a tabela do Bradesco traz R$ 3.400 por processo e o BRB informa teto de R$ 3.500. Quem paga é o comprador. Se o banco recusar o crédito, a regra do Conselho Monetário Nacional proíbe cobrar a avaliação. Se a desistência for sua, a cobrança pode acontecer.
+A taxa de avaliação é o valor que o banco cobra para mandar um engenheiro ou arquiteto credenciado estimar quanto vale o imóvel que vai servir de garantia do financiamento. Em outubro de 2026, os valores publicados pelos próprios bancos ficam na casa de R$ 1.600 a R$ 3.500: o Itaú cobra R$ 1.600 para imóveis avaliados até R$ 350 mil e R$ 3.200 acima disso, e o BRB informa teto de R$ 3.500. Quem paga é o comprador. Se o banco recusar o crédito, a regra do Conselho Monetário Nacional proíbe cobrar a avaliação. Se a desistência for sua, a cobrança pode acontecer.
 
 Como o laudo funciona e o que fazer se ele vier abaixo do preço está no artigo sobre [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco). Aqui o assunto é o custo: quanto, quando e em que casos você pode não pagar.
 
@@ -48,14 +46,13 @@ A tarifa é livre, mas cada banco precisa publicá-la. A tabela abaixo traz só 
 | Banco | Tarifa de avaliação | Fonte e data |
 |---|---|---|
 | Itaú | R$ 1.600 para imóvel avaliado até R$ 350 mil; R$ 3.200 acima | Página de atendimento do crédito imobiliário, consultada em outubro de 2026 |
-| Bradesco | R$ 3.400 por processo de financiamento (aquisição, construção em lote próprio e plano condomínio) | Tabela de tarifas do financiamento imobiliário, vigência a partir de 1º de maio de 2024 |
 | BRB | Até R$ 3.500 | Proposta de financiamento imobiliário, versão de novembro de 2025 |
 
-Não incluímos Caixa, Banco do Brasil, Santander e outros porque não encontramos, em fonte oficial acessível, o valor atual da tarifa de avaliação para financiamento habitacional de pessoa física. Esses bancos também publicam suas tabelas de tarifas e são obrigados a mostrar a tarifa na simulação. Peça o valor por escrito antes de autorizar a avaliação.
+Não incluímos Caixa, Banco do Brasil, Bradesco, Santander e outros porque não encontramos, em fonte oficial acessível, o valor atual da tarifa de avaliação para financiamento habitacional de pessoa física. Esses bancos também publicam suas tabelas de tarifas e são obrigados a mostrar a tarifa na simulação. Peça o valor por escrito antes de autorizar a avaliação.
 
 Dois cuidados ao comparar:
 
-- **Veja a data da tabela.** Tarifas mudam. A tabela do Bradesco que encontramos é de 2024 e pode ter sido atualizada.
+- **Veja a data da tabela.** Tarifas mudam, e uma tabela de anos anteriores pode já ter sido atualizada. Confira a vigência no próprio documento do banco.
 - **Compare o CET, não só a tarifa.** O CET (Custo Efetivo Total) junta juros, seguros e tarifas. Uma avaliação R$ 1.000 mais barata não compensa uma taxa de juros pior. Veja como comparar em [taxa de juros do financiamento imobiliário](/artigos/taxa-de-juros-financiamento-imobiliario).
 
 ## O que a regra do Banco Central diz
@@ -111,10 +108,9 @@ Exemplo ilustrativo, com as tarifas publicadas que citamos: apartamento de R$ 30
 | Banco | Imóvel de R$ 300 mil | Peso no preço | Imóvel de R$ 500 mil | Peso no preço |
 |---|---|---|---|---|
 | Itaú | R$ 1.600 | 0,53% | R$ 3.200 | 0,64% |
-| Bradesco | R$ 3.400 | 1,13% | R$ 3.400 | 0,68% |
 | BRB (teto) | até R$ 3.500 | até 1,17% | até R$ 3.500 | até 0,70% |
 
-Agora o custo do erro mais comum: pedir avaliação em dois bancos para ver qual aprova. Se você pagar R$ 3.200 num e R$ 3.400 no outro e desistir de um deles, gastou R$ 3.400 a mais sem necessidade. Somado ao ITBI e ao cartório, isso pesa. Veja a conta completa em [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
+Agora o custo do erro mais comum: pedir avaliação em dois bancos para ver qual aprova. Se você pagar R$ 3.200 no Itaú e até R$ 3.500 no BRB e desistir de um deles, pode ter gasto até R$ 3.500 a mais sem necessidade. Somado ao ITBI e ao cartório, isso pesa. Veja a conta completa em [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
 
 E se o laudo vier abaixo do preço, você pode pedir reavaliação. Pergunte antes se haverá nova tarifa, porque a regra do Banco Central também permite cobrar a reavaliação nos casos previstos.
 

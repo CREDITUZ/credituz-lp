@@ -45,12 +45,12 @@ A Serasa divulga o peso aproximado de cada grupo de informação no seu modelo. 
 
 | Fator (peso Serasa) | O que você pode fazer | Velocidade típica de efeito |
 |---|---|---|
-| Dívidas negativadas (21%) | Quitar ou fazer acordo | Pode ser rápida: a baixa depende do credor e a nota é recalculada depois |
-| Busca por crédito (12%) | Parar de pedir cartão, empréstimo e crediário | Lenta: as consultas antigas precisam "envelhecer" |
+| Dívidas atuais (21%) | Quitar ou fazer acordo | Pode ser rápida: a baixa depende do credor e a nota é recalculada depois |
+| Consultas recentes por crédito (12%) | Parar de pedir cartão, empréstimo e crediário | Lenta: as consultas antigas precisam "envelhecer" |
 | Informações cadastrais (8%) | Atualizar endereço, telefone, e-mail e renda | Simples de fazer, efeito pequeno |
-| Pagamentos (29%) | Pagar tudo em dia, todo mês | Lenta e cumulativa: cada mês em dia soma |
-| Experiência no mercado (24%) | Manter contas e contratos antigos ativos | Muito lenta: depende de anos de histórico |
-| Contratos (6%) | Não abrir crédito só para "ter histórico" | Efeito pequeno |
+| Hábitos de pagamento no Cadastro Positivo (29%) | Pagar tudo em dia, todo mês | Lenta e cumulativa: cada mês em dia soma |
+| Histórico e relacionamento com o mercado (24%) | Manter contas e contratos antigos ativos | Muito lenta: depende de anos de histórico |
+| Registros de empréstimos e financiamentos (6%) | Não abrir crédito só para "ter histórico" | Efeito pequeno |
 
 Os pesos são os divulgados pela Serasa na página de ajuda do Serasa Score, consultada em outubro de 2026. A Boa Vista, a Quod e o SPC usam modelos próprios e não necessariamente os mesmos fatores, por isso a sua nota pode subir num bureau e não no outro.
 
@@ -62,13 +62,13 @@ São as que podem mudar o quadro em pouco tempo, embora nada garanta o tamanho d
 
 ### 1. Resolver negativações abertas
 
-Dívida negativada é o item que mais derruba a nota e também o que mais trava o financiamento. Segundo a Serasa, depois da confirmação do pagamento (quitação ou primeira parcela do acordo) o credor tem até 5 dias úteis para pedir a retirada do registro. Ao pagar por Pix um acordo fechado no Serasa Limpa Nome, a própria Serasa diz que a pontuação ligada àquela dívida pode ser atualizada em poucos minutos, em condições específicas.
+Dívida negativada é o item que mais derruba a nota e também o que mais trava o financiamento. Segundo a Serasa, depois da confirmação do pagamento (quitação ou primeira parcela do acordo) o credor tem até 5 dias úteis para pedir a retirada do registro. Ao pagar por Pix um acordo fechado no Serasa Limpa Nome, a própria Serasa diz que a pontuação pode subir na hora, mas só em condições específicas (dívida negativada, acordo feito pela plataforma e credor que aceita Pix) e sem garantia de quantos pontos.
 
 Atenção a dois detalhes. Primeiro, quitar uma dívida não tira as outras: se você tem três negativações, resolver uma só ajuda parcialmente. Segundo, a baixa da negativação e o aumento do score são coisas separadas; a Serasa avisa que a nota pode subir, ficar igual ou mudar só depois. O passo a passo de negociação está em [como limpar o nome antes de financiar](/artigos/limpar-nome-antes-de-financiar).
 
 ### 2. Parar de pedir crédito
 
-Cada vez que uma empresa consulta seu CPF para conceder crédito, isso conta no pilar "busca por crédito". Nos meses que antecedem o financiamento, segure novos cartões, aumento de limite, empréstimo pessoal e compras parceladas no crediário da loja. Consultar o seu próprio score não conta: a Serasa afirma que a consulta pelo consumidor é gratuita e não reduz a nota.
+Cada vez que uma empresa consulta seu CPF para conceder crédito, isso conta no pilar de consultas recentes por crédito. Nos meses que antecedem o financiamento, segure novos cartões, aumento de limite, empréstimo pessoal e compras parceladas no crediário da loja. Consultar o seu próprio score não conta: a Serasa afirma que a consulta pelo consumidor é gratuita e não reduz a nota.
 
 ### 3. Atualizar o cadastro
 
@@ -92,7 +92,7 @@ Aqui não tem atalho. São hábitos que, mantidos, fazem a nota subir de forma m
 
 | Afirmação | Verdade ou mito | Por quê |
 |---|---|---|
-| "Consultar meu score várias vezes derruba a nota" | Mito | Consulta feita pelo próprio consumidor não entra como busca por crédito, segundo a Serasa |
+| "Consultar meu score várias vezes derruba a nota" | Mito | Segundo a Serasa, a consulta feita pelo próprio consumidor é gratuita e não reduz o score |
 | "Pagando uma taxa, a empresa sobe meu score" | Golpe | A Serasa afirma que ninguém altera a pontuação manualmente |
 | "Pagou a dívida, o score sobe no mesmo dia" | Depende | Pode reagir rápido em casos específicos, mas a Serasa diz que não há prazo único |
 | "Ter vários cartões aumenta o score" | Mito | Cada pedido gera consulta; o que ajuda é usar e pagar em dia |

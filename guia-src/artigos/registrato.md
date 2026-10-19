@@ -32,8 +32,8 @@ sources:
     url: "https://www.barbieriadvogados.com/?p=1012"
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), art. 43"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "Lefosse: Resolução CMN 5.037/2022 e o SCR"
-    url: "https://lefosse.com/noticias/alerta/nova-resolucao-cmn-normas-scr/"
+  - title: "Sicredi: perguntas sobre o SCR (vencido a partir de mais de 14 dias de atraso)"
+    url: "https://www.sicredi.com.br/site/scr/"
 related: [score-para-financiamento-imobiliario, nome-sujo-financiamento-imobiliario, limpar-nome-antes-de-financiar, financiamento-negado]
 ---
 
@@ -63,7 +63,7 @@ No crédito imobiliário, o SCR responde a pergunta que o score não responde: q
 
 O Registrato só aceita conta gov.br nível prata ou ouro, com verificação em duas etapas ativa.
 
-- **Nível:** abra o app gov.br, vá em selos de confiabilidade e veja o seu nível. Para subir de bronze para prata, as opções mais comuns são validar pelo internet banking de um banco credenciado ou pela biometria facial. O nível ouro vem com a biometria da base da Justiça Eleitoral ou com certificado digital.
+- **Nível:** abra o app gov.br, vá em selos de confiabilidade e veja o seu nível. Para subir de bronze para prata, as opções mais comuns são validar pelo internet banking de um banco credenciado ou pela biometria facial. O nível ouro vem, entre outras opções, com o reconhecimento facial na base da Justiça Eleitoral, com a Carteira de Identidade Nacional ou com certificado digital. As opções disponíveis aparecem no próprio app.
 - **Verificação em duas etapas:** no app gov.br, em segurança da conta, ative a opção. A partir daí, cada login pede um código gerado no app.
 
 ### 2. Entre no Registrato
@@ -92,7 +92,7 @@ Escolha o período e emita o relatório. Salve o arquivo: ele será útil para c
 
 O relatório organiza as informações por instituição e por mês de referência. Os termos que mais confundem:
 
-- **A vencer:** valores ainda não vencidos. Na metodologia do SCR, parcelas com até 14 dias de atraso ainda aparecem nessa coluna.
+- **A vencer:** valores ainda não vencidos. Um atraso muito recente pode ainda não aparecer como vencido, porque o SCR só classifica como vencida a operação com parcela em atraso há mais de 14 dias, segundo material de instituições participantes.
 - **Vencido:** parcelas com mais de 14 dias de atraso, separadas por faixa de tempo.
 - **Prejuízo:** operação que a instituição baixou como perda depois de um longo período sem pagamento. A baixa contábil não extingue a dívida.
 - **Limite de crédito:** limite disponível que você tem e não usou, como cheque especial e cartão. Mesmo sem uso, ele aparece.

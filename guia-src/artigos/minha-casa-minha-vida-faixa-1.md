@@ -17,7 +17,7 @@ faq:
   - q: "Quanto custa a parcela da Faixa 1 pela prefeitura?"
     a: "Pela Portaria MCID 772/2026, quem tem renda de até R$ 1.621 paga 10% da renda, com mínimo de R$ 80. Acima disso, paga 15% da renda menos R$ 81,05. São 60 parcelas."
   - q: "Quem recebe Bolsa Família paga a casa da Faixa 1?"
-    a: "Nos imóveis subsidiados pelo FAR, o FDS e a linha rural, a Lei 14.620/2023 dispensa a participação financeira de quem recebe Bolsa Família ou BPC. Confirme no contrato a sua situação."
+    a: "A Lei 14.620/2023 dispensa a participação financeira da família que tem beneficiário do Bolsa Família ou do BPC, e a Caixa aplica essa regra aos imóveis do FAR. Confirme no contrato a sua situação."
   - q: "Como me inscrevo na Faixa 1?"
     a: "Faça ou atualize o CadÚnico no CRAS e acompanhe os editais da prefeitura ou do governo do estado. Para o financiamento com subsídio, a simulação é feita direto na Caixa ou num banco habilitado."
   - q: "Nome sujo impede de participar da Faixa 1?"
@@ -33,10 +33,10 @@ sources:
     url: "https://movimentoeconomico.com.br/habitacao/2026/04/22/ne-tem-juros-menores-e-financiamento-de-80-nas-novas-regras-do-mcmv/"
   - title: "FGTS eleva para R$ 13 mil limite de renda do Minha Casa, Minha Vida (O Povo, 24/03/2026)"
     url: "https://www.opovo.com.br/noticias/economia/2026/03/24/fgts-eleva-para-rs-13-mil-limite-de-renda-do-minha-casa-minha-vida.html"
-  - title: "Cariacica abre inscrições para imóveis do Minha Casa Minha Vida (Folha Vitória, 2026)"
+  - title: "Cariacica abre inscrições para imóveis do Minha Casa Minha Vida (Folha Vitória, 27/07/2026)"
     url: "https://www.folhavitoria.com.br/economia/cariacica-abre-inscricoes-para-imoveis-do-minha-casa-minha-vida-veja-quem-pode-participar/"
-  - title: "Ministério das Cidades, Minha Casa Minha Vida"
-    url: "https://www.gov.br/cidades/pt-br/assuntos/habitacao/minha-casa-minha-vida"
+  - title: "Minha Casa Minha Vida: novas regras começam nesta quarta-feira (Paraíba Business, 21/04/2026)"
+    url: "https://paraibabusiness.com.br/minha-casa-minha-vida-novas-regras-para-o-programa-comecam-nesta-quarta-feira-22/"
 related: [minha-casa-minha-vida, subsidio-minha-casa-minha-vida, documentos-para-financiamento, fgts-na-compra-do-imovel]
 ---
 
@@ -53,7 +53,7 @@ O limite de renda foi atualizado pela Portaria MCID 333, de 30 de março de 2026
 | Renda bruta familiar mensal | até R$ 3.200 |
 | Renda que não entra na conta | benefícios temporários, Bolsa Família e BPC |
 | Teto do imóvel | de R$ 210 mil a R$ 275 mil, conforme porte e região da cidade |
-| Juros no financiamento | cerca de 4% a 4,75% ao ano no Norte e Nordeste, 4,25% a 5% no Sul, Sudeste e Centro-Oeste |
+| Juros no financiamento | cerca de 4% a 5,25% ao ano, conforme renda, região e FGTS; as menores no Norte e Nordeste |
 | Prestação no caminho da prefeitura (FAR) | 10% ou 15% da renda, por 60 meses |
 
 Além da renda, valem as condições de todo o programa, previstas na Lei 14.620/2023:
@@ -77,16 +77,16 @@ A família paga uma prestação simbólica, calculada sobre a renda, e não sobr
 | até R$ 1.621 | 10% da renda, mínimo de R$ 80 | 60 meses |
 | a partir de R$ 1.621,01 | 15% da renda menos R$ 81,05 | 60 meses |
 
-Os cortes de R$ 1.621 e R$ 81,05 acompanham o salário mínimo e já mudaram antes: em 2023, a mesma regra usava R$ 1.320 e R$ 66. Se alguém mostrar números diferentes, confira a data.
+Os cortes de R$ 1.621 e R$ 81,05 acompanham o salário mínimo e são atualizados por portaria. Se alguém mostrar números diferentes, confira a data.
 
-A Lei 14.620/2023 dispensa a participação financeira de quem recebe BPC (Benefício de Prestação Continuada) ou Bolsa Família nesse tipo de imóvel. Editais municipais também costumam isentar famílias que perderam a única moradia em desastre ou por obra pública.
+A Lei 14.620/2023 dispensa a participação financeira da família que tem beneficiário do BPC (Benefício de Prestação Continuada) ou do Bolsa Família, e a Caixa informa que, nos imóveis do FAR, essas famílias podem ter a prestação quitada sem custo. Alguns editais, como o de Cariacica (ES), também isentam famílias que perderam a única moradia em desastre ou por obra pública.
 
 ### Caminho 2: financiamento com subsídio no banco
 
 Se não há conjunto aberto na sua cidade, ou se você quer escolher o imóvel, dá para comprar uma unidade nova ou usada dentro do teto da sua cidade com financiamento da Caixa ou de outro banco habilitado. Aqui entram três ajudas ao mesmo tempo:
 
 1. **Subsídio** do FGTS, que abate parte do preço. É maior quanto menor a renda. Veja o cálculo em [subsídio do Minha Casa Minha Vida](/artigos/subsidio-minha-casa-minha-vida).
-2. **Juros reduzidos**, de cerca de 4% a 5,25% ao ano, conforme renda, região e se você tem 3 anos de FGTS.
+2. **Juros reduzidos**, de cerca de 4% a 5,25% ao ano, conforme renda, região e se você tem 3 anos de FGTS. Desde abril de 2026, rendas entre R$ 2.850,01 e R$ 3.200 têm taxa de 4,5%.
 3. **FGTS próprio**, se você tiver saldo, para a entrada.
 
 Nesse caminho o banco faz análise de crédito e a parcela precisa caber em até 30% da renda bruta. O prazo pode chegar a 420 meses (35 anos), limitado pela sua idade.

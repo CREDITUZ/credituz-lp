@@ -13,7 +13,7 @@ key_points:
   - "Score não mostra suas dívidas com bancos em detalhe: para isso, o relatório certo é o do Registrato, do Banco Central."
 faq:
   - q: "Qual o site oficial para consultar o score de graça?"
-    a: "Serasa (serasa.com.br e app Serasa), Boa Vista (consumidorpositivo.com.br), SPC Brasil (portal do consumidor do SPC e app SPC Consumidor) e Quod (área do consumidor no site quod.com.br). Digite o endereço no navegador em vez de clicar em links recebidos."
+    a: "Serasa (serasa.com.br e app Serasa), Boa Vista (site e app Consumidor Positivo), SPC Brasil (app SPC Consumidor, com atalho no site spcbrasil.com.br) e Quod (área do consumidor no site da Quod). Digite o endereço no navegador em vez de clicar em links recebidos."
   - q: "Por que meu score é diferente na Serasa e na Boa Vista?"
     a: "Cada bureau tem sua própria base de dados e seu próprio modelo de cálculo. Diferenças de dezenas ou centenas de pontos são comuns e não indicam erro."
   - q: "Consultar o score várias vezes faz ele cair?"
@@ -25,16 +25,16 @@ sources:
     url: "https://www.serasa.com.br/score/blog/como-faco-para-ver-meu-score/"
   - title: "Serasa: o que significa cada faixa do score"
     url: "https://www.serasa.com.br/ajuda/serasa-score/o-que-significa-cada-faixa-do-score/"
-  - title: "Consumidor Positivo (Boa Vista): página oficial"
-    url: "https://www.consumidorpositivo.com.br/"
-  - title: "SPC Brasil: portal do Cadastro Positivo para o consumidor"
-    url: "https://cadastropositivo.spcbrasil.org.br/"
-  - title: "Quod: site oficial"
-    url: "https://www.quod.com.br/"
+  - title: "SPC Brasil: site oficial (consulta de score e app SPC Consumidor)"
+    url: "https://www.spcbrasil.com.br/"
+  - title: "Quod: demonstrações financeiras auditadas 2023 (acionistas controladores)"
+    url: "https://www.quod.com.br/dist/files/demonstracoes-financeiras-auditadas-2023.pdf"
+  - title: "iDinheiro: Cadastro Positivo Quod, como consultar (atualizado em jun. 2025)"
+    url: "https://www.idinheiro.com.br/financaspessoais/cadastro-positivo-quod/"
+  - title: "Equifax: conclusão da aquisição da Boa Vista Serviços (ago. 2023)"
+    url: "https://www.equifax.ca/about-equifax/newsroom/-/intlpress/equifax-completes-acquisition-of-boa-vista-servicos/"
   - title: "Lei 12.414/2011 (Lei do Cadastro Positivo), redação atual"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
-  - title: "Oficina da Net: birôs de crédito e a Quod, administrada pelos cinco maiores bancos"
-    url: "https://www.oficinadanet.com.br/bancos-digitais/37103-4-biros-de-credito-para-verificar-seu-score-online"
   - title: "Mobills: como consultar o score do SPC (set. 2025)"
     url: "https://www.mobills.com.br/blog/sair-das-dividas/score-spc/"
 related: [score-para-financiamento-imobiliario, aumentar-score-rapido, registrato, cadastro-positivo-e-open-finance]
@@ -55,9 +55,9 @@ Para quem vai pedir crédito imobiliário, isso tem uma consequência prática. 
 | Bureau | Onde consultar | Como valida o cadastro | O que mostra além do score |
 |---|---|---|---|
 | Serasa | Site serasa.com.br e app Serasa | Dados pessoais, e-mail e senha | Dívidas negativadas, ofertas de acordo, Cadastro Positivo |
-| Boa Vista | Site consumidorpositivo.com.br e app Consumidor Positivo | Dados pessoais e confirmação por e-mail | Consulta do CPF, Cadastro Positivo |
-| SPC Brasil | Portal do consumidor do SPC e app SPC Consumidor | E-mail, senha e token de autenticação | Pendências no SPC, Cadastro Positivo |
-| Quod | Área do consumidor no site quod.com.br | Foto de documento, selfie e celular | Score e Cadastro Positivo |
+| Boa Vista | Site consumidorpositivo.com.br e app Consumidor Positivo | CPF, dados pessoais e senha | Consulta do CPF, Cadastro Positivo |
+| SPC Brasil | App SPC Consumidor (o site spcbrasil.com.br tem atalho para a consulta) | Dados pessoais, e-mail, senha e código de confirmação | Pendências no SPC, Cadastro Positivo |
+| Quod | Área do consumidor no site da Quod | Documento, selfie e celular | Score e Cadastro Positivo |
 
 As formas de validação podem mudar a qualquer momento por decisão de cada empresa. Se a tela pedir algo diferente do que está aqui, siga a orientação do próprio site oficial.
 
@@ -78,30 +78,31 @@ A escala vai de 0 a 1.000. A Serasa considera de 0 a 300 baixo, 301 a 500 regula
 A Boa Vista, hoje parte da Equifax, oferece a consulta ao consumidor pelo site e app Consumidor Positivo.
 
 1. Acesse consumidorpositivo.com.br ou baixe o app Consumidor Positivo.
-2. Informe seu CPF e preencha o formulário de cadastro com seus dados pessoais.
-3. Valide o cadastro pelo link enviado ao e-mail.
+2. Informe seu CPF, preencha o formulário de cadastro com seus dados pessoais e crie uma senha.
+3. Se o site pedir, confirme o cadastro pelo e-mail ou celular.
 4. Faça login. O score aparece no painel principal, e a consulta do CPF mostra se há registro de dívida na base da Boa Vista.
 
-A escala também vai até 1.000, mas a Boa Vista não publica no site oficial uma tabela de faixas equivalente à da Serasa. Use a explicação que aparece dentro do seu próprio relatório.
+A Boa Vista não publica no site uma tabela de faixas equivalente à da Serasa. Use a explicação que aparece dentro do seu próprio relatório para entender em que ponto você está.
 
 ## SPC Brasil: passo a passo
 
 O SPC Brasil é ligado às associações comerciais e às câmaras de dirigentes lojistas, por isso costuma concentrar negativações de comércio.
 
-1. Acesse o portal do consumidor do SPC (cadastropositivo.spcbrasil.org.br) ou baixe o app SPC Consumidor.
-2. Clique para criar acesso e informe CPF, nome, data de nascimento, nome da mãe e e-mail.
-3. Crie a senha pelo link enviado ao e-mail.
-4. Configure o token de segurança (o SPC tem usado aplicativo autenticador, como o Google Authenticator).
-5. Entre e abra a opção de score. No app, a consulta do CPF mostra se há pendência registrada no SPC.
+1. Baixe o app SPC Consumidor na loja oficial do celular, ou entre em spcbrasil.com.br e use o atalho de consulta de score.
+2. Crie o acesso com CPF, dados pessoais e e-mail.
+3. Crie a senha e informe o código de confirmação que o SPC enviar (no primeiro acesso, ele costuma chegar por e-mail).
+4. Entre e abra a opção de score. A consulta do CPF mostra se há pendência registrada no SPC.
+
+A própria Serasa, na página em que lista onde consultar a nota, indica o SPC como consulta pelo aplicativo. Se o caminho pelo site mudar, use o app.
 
 A nota do SPC também vai de 0 a 1.000.
 
 ## Quod: passo a passo
 
-A Quod foi criada pelos cinco maiores bancos do país (Banco do Brasil, Bradesco, Caixa, Itaú e Santander) e funciona como gestora do Cadastro Positivo. Por causa dessa origem, é um dos bureaus que vale conferir antes de pedir crédito em banco grande.
+A Quod foi criada por Banco do Brasil, Bradesco, Caixa, Itaú Unibanco e Santander, que seguem como controladores; em 2022 a LexisNexis Risk Solutions também entrou como acionista, segundo as demonstrações financeiras da empresa. Ela é gestora do Cadastro Positivo e calcula score próprio, por isso vale incluí-la na sua conferência.
 
-1. Acesse quod.com.br e procure a área de consulta gratuita para o consumidor.
-2. Faça o cadastro. A Quod costuma pedir foto de documento de identidade, uma selfie e confirmação do celular.
+1. Acesse o site da Quod e procure a área de consulta gratuita para o consumidor (consumidor.quod.com.br).
+2. Faça o cadastro. A Quod costuma pedir CPF, celular (com confirmação por SMS), documento de identidade e uma selfie segurando o documento.
 3. Depois de aprovado o cadastro, entre e veja o score e o seu histórico do Cadastro Positivo.
 
 O processo de validação é mais demorado que nos outros, por causa da checagem de documentos. Faça com calma e use um ambiente bem iluminado para a selfie.
@@ -126,7 +127,7 @@ Os números são inventados para ilustrar. O ponto é a lógica: o valor da nota
 O score resume o seu risco, mas não mostra tudo o que o banco vai olhar:
 
 - **Dívidas e limites em bancos e financeiras.** Ficam no SCR (Sistema de Informações de Crédito) do Banco Central. O relatório gratuito é o do [Registrato](/artigos/registrato), que exige conta gov.br nível prata ou ouro.
-- **Protestos em cartório.** Consulte na central nacional de protestos (CENPROT) ou no cartório da sua cidade.
+- **Protestos em cartório.** Consulte pela central nacional de protestos (CENPROT) ou no cartório da sua cidade. Confira antes se a consulta que você escolheu tem custo.
 - **Débitos com a União (Cadin).** Aparecem no Registrato, na opção de dívidas com órgãos públicos federais.
 - **Renda e comprometimento.** Nenhum bureau sabe quanto da sua renda a nova parcela vai consumir. Faça essa conta na [calculadora de quanto posso financiar](/quanto-posso-financiar).
 

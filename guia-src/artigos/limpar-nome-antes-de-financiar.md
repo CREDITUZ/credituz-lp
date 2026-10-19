@@ -8,11 +8,11 @@ reading_minutes: 8
 key_points:
   - "Depois da quitação ou do pagamento da primeira parcela do acordo, o credor tem até 5 dias úteis para pedir a baixa da negativação."
   - "Protesto em cartório não sai sozinho: após pagar, cabe ao devedor pedir o cancelamento no tabelionato, com o título ou a carta de anuência, e pagar os emolumentos."
-  - "O Novo Desenrola Brasil (Desenrola 2.0) encerrou a adesão em 31 de agosto de 2026, quando a medida provisória perdeu a validade."
+  - "O Novo Desenrola Brasil (MP 1.355/2026) acabou em 31 de agosto de 2026, quando a medida provisória perdeu a validade sem virar lei."
   - "Entre quitar tudo e ter um histórico limpo no SCR do Banco Central, conte com pelo menos um ciclo mensal de atualização."
 faq:
   - q: "O Desenrola ainda está valendo em outubro de 2026?"
-    a: "Não. A adesão ao Novo Desenrola Brasil terminou em 31 de agosto de 2026, quando a medida provisória que criou o programa perdeu a validade sem virar lei. Acompanhe os canais oficiais do governo para saber se haverá nova edição."
+    a: "Não. A Medida Provisória 1.355/2026, que criou o Novo Desenrola Brasil, perdeu a validade em 31 de agosto de 2026 sem ser convertida em lei, e o Congresso registrou o fim da vigência em ato declaratório. Acompanhe os canais oficiais do governo para saber se haverá nova edição."
   - q: "Quanto tempo depois de pagar o nome fica limpo?"
     a: "O credor tem até 5 dias úteis, contados da confirmação do pagamento, para pedir a retirada do registro, segundo a Súmula 548 do STJ e a orientação da Serasa. No SCR do Banco Central, a quitação costuma aparecer no relatório do mês seguinte."
   - q: "Pagar a primeira parcela do acordo já tira a negativação?"
@@ -28,8 +28,8 @@ sources:
     url: "https://arquivocidadao.stj.jus.br/index.php/sumula-548-2"
   - title: "Lei 9.492/1997 (Lei de Protestos), arts. 26 e 26-A"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm"
-  - title: "SBT News: Novo Desenrola Brasil perde validade após vigência de MP (set. 2026)"
-    url: "https://sbtnews.sbt.com.br/noticia/politica/novo-desenrola-brasil-perde-validade-apos-vigencia-de-mp"
+  - title: "Câmara dos Deputados: Medida Provisória 1.355/2026 (Novo Desenrola Brasil), texto e situação"
+    url: "https://www2.camara.leg.br/legin/fed/medpro/2026/medidaprovisoria-1355-4-maio-2026-799034-norma-pe.html"
   - title: "Diário do Grande ABC: governo oficializa prorrogação do Desenrola até 31 de agosto de 2026"
     url: "https://www.dgabc.com.br/Noticia/4338651/governo-oficializa-prorrogacao-do-desenrola-ate-31-de-agosto-de-2026"
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), art. 43"
@@ -51,7 +51,7 @@ Negociar uma dívida e descobrir outra na análise do banco é o erro mais comum
 |---|---|---|
 | Serasa, Boa Vista, SPC e Quod | Negativações por credor e valor | Gratuita ([veja como](/artigos/consultar-score-gratis)) |
 | Registrato (Banco Central) | Atrasos e prejuízos em bancos e financeiras; Cadin; cheques sem fundo | Gratuita, com gov.br prata ou ouro ([passo a passo](/artigos/registrato)) |
-| Central de protestos (CENPROT) ou cartório local | Títulos protestados | Consulta básica gratuita na central nacional |
+| Central de protestos (CENPROT) ou cartório local | Títulos protestados | Varia: confira no site da central ou no cartório |
 | Receita Federal | CPF regular | Gratuita no site da Receita |
 
 Para cada pendência, anote: credor, valor original, data aproximada do atraso e onde ela aparece. É comum a mesma dívida estar em mais de um lugar (por exemplo, negativada na Serasa e em atraso no SCR) e precisar ser conferida nos dois depois de paga.
@@ -60,7 +60,7 @@ Para cada pendência, anote: credor, valor original, data aproximada do atraso e
 
 Não existe ordem única, mas para quem vai financiar imóvel uma regra simples funciona bem:
 
-1. **Pendências que travam banco público.** Débito no Cadin (por exemplo, com a Receita) pode impedir a contratação na Caixa e em outros bancos públicos, mesmo sem nenhuma negativação comercial.
+1. **Pendências que travam banco público.** A Lei 10.522/2002 obriga órgãos e entidades federais a consultar o Cadin antes de operações de crédito com recursos públicos. Um débito ali (por exemplo, com a Receita) pode travar a contratação em banco público federal, mesmo sem nenhuma negativação comercial.
 2. **Atrasos e prejuízos em bancos.** São os que o banco do financiamento enxerga diretamente no SCR. Se a dívida for com o próprio banco onde você quer financiar, ela pesa ainda mais.
 3. **Dívidas pequenas que dá para quitar à vista.** Uma conta de telefone de R$ 90 negativada é restrição como outra qualquer. Resolver logo tira o item da lista.
 4. **Protestos.** Exigem uma etapa a mais no cartório (veja o passo 4).
@@ -73,12 +73,12 @@ Antes de negociar, confira se alguma dívida está prescrita. A negativação n�
 - **Use canais oficiais.** Fale com o credor pelo site ou app dele, ou pelas plataformas de negociação dos bureaus. Confirme que quem cobra é o dono da dívida ou uma cessionária legítima.
 - **Compare à vista e parcelado.** O desconto à vista costuma ser maior. O parcelado preserva o caixa, mas cria uma parcela mensal.
 - **Exija tudo por escrito.** Valor total, número de parcelas, datas e o compromisso de retirar a negativação.
-- **Prefira Pix quando possível.** Segundo a Serasa, em acordos feitos pelo Serasa Limpa Nome o status muda em até 1 hora com Pix; com boleto, depende da compensação.
+- **Prefira Pix quando possível.** Segundo a Serasa, o pagamento por Pix costuma ser confirmado quase na hora; com boleto, depende da compensação. Se o status do acordo no Serasa Limpa Nome não mudar em cerca de 1 hora (Pix) ou 5 horas (boleto), a orientação é procurar o credor.
 - **Só aceite parcela que cabe.** A Serasa alerta que atraso em parcela de acordo pode ser tratado como quebra: o desconto cai, o valor original volta com juros e o CPF pode ser negativado de novo.
 
 ### E o Desenrola?
 
-O Novo Desenrola Brasil, também chamado de Desenrola 2.0, foi lançado pelo governo federal em maio de 2026 por medida provisória. Ele permitia trocar dívidas antigas por um novo crédito com garantia do FGO (Fundo de Garantia de Operações), com descontos de até 90%, prazo de até 48 meses e possibilidade de usar recursos do FGTS. A adesão, prevista inicialmente até 3 de agosto, foi prorrogada até 31 de agosto de 2026, data em que a medida provisória perdeu a validade sem ser convertida em lei. O ato que registra o fim da vigência foi publicado no Diário Oficial em 8 de setembro.
+O Novo Desenrola Brasil, também chamado de Desenrola 2.0, foi criado pela Medida Provisória 1.355, de 4 de maio de 2026. Ele era voltado a quem ganhava até cinco salários mínimos e tinha dívidas de cartão, cheque especial ou crédito pessoal em atraso. Essas dívidas podiam ser trocadas por um novo crédito com desconto, garantido pelo FGO (Fundo de Garantia de Operações), em 12 a 48 parcelas, e a MP permitia um saque extraordinário do FGTS para abater o valor. Os bancos tinham 90 dias para oferecer as renegociações; uma portaria do Ministério da Fazenda estendeu esse prazo até 31 de agosto para parte das instituições. Em 31 de agosto de 2026 a medida provisória perdeu a validade sem ser convertida em lei, e o Congresso registrou o encerramento da vigência em ato declaratório de setembro.
 
 Ou seja: em outubro de 2026, não há adesão aberta ao Desenrola para famílias. Quem fechou acordo durante o programa deve seguir pagando conforme o contrato assinado com o banco. Se o governo lançar nova edição, as regras aparecerão nos canais oficiais (gov.br e Ministério da Fazenda); desconfie de sites que cobram para "inscrever" você.
 
@@ -97,7 +97,7 @@ Pagar não basta: confira se cada registro saiu. Os prazos de referência são d
 
 Pela Lei 9.492/1997 (art. 26), o cancelamento do protesto é pedido no próprio tabelionato, por qualquer interessado, apresentando o título protestado original ou, na falta dele, a declaração de anuência do credor com firma reconhecida (a chamada carta de anuência). O STJ firmou entendimento, em recurso repetitivo (Tema 725), de que, se o protesto foi legítimo, cabe ao devedor que pagou providenciar o cancelamento. Na prática: ao quitar uma dívida protestada, peça ao credor a carta de anuência junto com o recibo e leve ao cartório.
 
-O cancelamento tem custo (emolumentos), definido por lei de cada estado. Quando a dívida é quitada por renegociação, a lei prevê que o devedor pague os emolumentos do registro e do cancelamento pela tabela vigente na data da quitação (art. 26-A). Consulte o valor no cartório antes.
+O cancelamento tem custo (emolumentos), definido por lei de cada estado. Quando a dívida protestada é quitada pelas medidas de renegociação previstas na própria lei, o devedor paga os emolumentos do registro e do cancelamento pela tabela em vigor no momento da quitação (art. 26-A). Consulte o valor no cartório antes.
 
 ## Exemplo prático: cronograma de quem quer pedir o financiamento em março
 

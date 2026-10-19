@@ -15,7 +15,7 @@ faq:
   - q: "Quem tem direito ao subsídio do Minha Casa Minha Vida?"
     a: "Famílias das Faixas 1 e 2, com renda bruta urbana de até R$ 5 mil por mês, que não têm imóvel, não têm financiamento ativo no SFH e não receberam benefício habitacional federal nos últimos 10 anos."
   - q: "Qual o valor máximo do subsídio em 2026?"
-    a: "Até R$ 65 mil na região Norte e até R$ 55 mil nas demais regiões, segundo decisão do Conselho Curador do FGTS de dezembro de 2025, em vigor desde janeiro de 2026."
+    a: "Até R$ 65 mil na região Norte e até R$ 55 mil nas demais regiões, por decisões do Conselho Curador do FGTS de novembro e dezembro de 2025, em vigor desde janeiro de 2026."
   - q: "Preciso devolver o subsídio?"
     a: "Não, enquanto você cumprir o contrato. Ele não é empréstimo. Mas a Lei 14.620/2023 prevê que o benefício é dado uma única vez, e vender ou alugar imóvel subsidiado fora das regras pode levar a sanções."
   - q: "Faixa 3 e Faixa 4 têm subsídio?"
@@ -37,6 +37,8 @@ sources:
     url: "https://atlaspublico.com.br/noticias/ministerio-das-cidades-fixa-nova-tabela-de-prestacao-mensal-69686"
   - title: "Tetos do Minha Casa Minha Vida sobem em 75 cidades em 2026 (Brasil 61, 21/12/2025)"
     url: "https://brasil61.com/n/tetos-do-minha-casa-minha-vida-sobem-em-75-cidades-em-2026-bras2515380"
+  - title: "Minha Casa, Minha Vida: novas regras de 2023 elevam subsídio para R$ 55 mil (CartaCapital, 07/07/2023)"
+    url: "https://www.cartacapital.com.br/?p=356559"
 related: [minha-casa-minha-vida, minha-casa-minha-vida-faixa-1, fgts-na-compra-do-imovel, entrada-para-financiar-imovel]
 ---
 
@@ -63,7 +65,7 @@ O FGTS não publica uma tabela simples do tipo "renda X recebe R$ Y". O desconto
 
 1. **Renda bruta familiar.** É o fator principal. O desconto é maior perto do piso da Faixa 1 e diminui até zerar no limite da Faixa 2. Em novembro de 2025, o Conselho Curador aumentou em cerca de 20% o desconto para famílias com renda de até R$ 2 mil.
 2. **Cidade e região.** Cidades maiores e regiões com moradia mais cara recebem valores maiores. A região Norte tem teto próprio, mais alto, desde janeiro de 2026.
-3. **Valor do imóvel.** O desconto não passa do que é necessário para a compra caber na capacidade de pagamento da família, e o imóvel precisa estar dentro do teto da cidade (de R$ 210 mil a R$ 275 mil nas Faixas 1 e 2).
+3. **Valor do imóvel.** O desconto é limitado pelo valor da compra e pela capacidade de pagamento apurada pelo banco, e o imóvel precisa estar dentro do teto da cidade (de R$ 210 mil a R$ 275 mil nas Faixas 1 e 2).
 
 O banco calcula o valor na simulação e o fixa na assinatura do contrato. Se a sua renda mudar antes de assinar, o desconto muda junto.
 
@@ -74,7 +76,7 @@ O banco calcula o valor na simulação e o fixa na assinatura do contrato. Se a 
 | Norte | até R$ 65 mil | janeiro de 2026 |
 | Nordeste, Centro-Oeste, Sudeste e Sul | até R$ 55 mil | julho de 2023 |
 
-Esses tetos foram aprovados pelo Conselho Curador do FGTS em reunião de dezembro de 2025 e passaram a valer em 1º de janeiro de 2026. Antes, o limite era R$ 55 mil em todo o país. O teto é o máximo possível: a maior parte das famílias recebe menos, porque o valor cai conforme a renda sobe.
+O aumento no Norte foi aprovado pelo Conselho Curador do FGTS em novembro de 2025, confirmado no pacote de dezembro, e passou a valer em 1º de janeiro de 2026. Antes, o limite era R$ 55 mil em todo o país. O teto é o máximo possível: a maior parte das famílias recebe menos, porque o valor cai conforme a renda sobe.
 
 O orçamento total também importa. Para 2026, o FGTS reservou R$ 12,5 bilhões para descontos e, em 10 de setembro de 2026, ampliou para R$ 13 bilhões, porque a previsão de uso já chegava a R$ 12,6 bilhões. O planejamento de 2027 a 2029 estava previsto para o fim de outubro de 2026. Se o orçamento do ano se esgota, novas contratações com desconto podem atrasar.
 

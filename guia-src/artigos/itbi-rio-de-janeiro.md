@@ -8,14 +8,14 @@ reading_minutes: 8
 key_points:
   - "Na cidade do Rio de Janeiro, o ITBI é 3% desde 1º de janeiro de 2018 (Lei municipal 6.250/2017)."
   - "Para quem compra com financiamento bancário comum, não há alíquota reduzida: os 3% incidem sobre toda a base."
-  - "A alíquota de 0,5% prevista na legislação carioca vale só para a parte financiada pelo SFH em empreendimentos de cooperativas e assemelhados, dentro de um limite."
+  - "A página oficial de ITBI da prefeitura não traz alíquota reduzida para financiamento: conte com 3% sobre o valor inteiro."
   - "A guia é pedida no Carioca Digital e fica disponível a partir de 2 dias úteis. Pagar a guia significa concordar com o valor venal que ela traz."
   - "Há isenções pontuais, como primeiras aquisições de unidades novas nas áreas do Reviver Centro e do Porto Maravilha."
 faq:
   - q: "Quanto é o ITBI no Rio de Janeiro em 2026?"
     a: "A alíquota é 3% sobre o valor venal, que a prefeitura considera o valor de mercado. Num imóvel de R$ 500 mil aceito por esse valor, o imposto é R$ 15 mil."
   - q: "Quem financia pelo SFH paga ITBI menor no Rio?"
-    a: "Em regra, não. O decreto que regulamenta o imposto prevê 0,5% sobre a parte financiada pelo SFH apenas em empreendimentos de cooperativas e assemelhados, até um limite. Na compra comum financiada por banco, a alíquota é 3% sobre tudo."
+    a: "Não, na compra comum financiada por banco. A página oficial de ITBI da prefeitura informa só a alíquota de 3% para instrumentos a partir de 2018, sem redução para financiamento. Casos de cooperativa habitacional devem ser confirmados com a prefeitura pela central 1746."
   - q: "Como tirar a guia do ITBI no Rio?"
     a: "No Carioca Digital, pelo serviço de simulação de valor e pedido de guia. Você recebe um número de protocolo e, a partir de 2 dias úteis, imprime a guia com esse protocolo, o CPF do comprador e a inscrição do IPTU."
   - q: "O que fazer se o valor da guia vier acima do preço que paguei?"
@@ -29,8 +29,8 @@ sources:
     url: "https://carioca.rio/servicos/itbi-impressao-de-guia-para-pagamento/"
   - title: "Lei municipal 6.250/2017 (alíquota de 3% a partir de 2018)"
     url: "https://www.contabeis.com.br/legislacao/2183155/lei-6250-2017/"
-  - title: "Estratégia: art. 135 do Decreto 42.838/2017, alíquotas do ITBI no Rio"
-    url: "https://concursos.estrategia.com/portal/pgm-rio-de-janeiro-o-itbi-municipal-nao-pode-ter-aliquotas-progressivas/amp/"
+  - title: "Lei municipal 1.364/1988 do Rio de Janeiro, texto compilado (art. 19, alíquotas)"
+    url: "https://www.normasbrasil.com.br/norma/lei-1364-1988-rio-de-janeiro_177615.html"
   - title: "Decreto Rio 54.178/2024: benefícios de ITBI do Reviver Centro"
     url: "https://doweb.rio.rj.gov.br/apifront/portal/edicoes/imprimir_materia/1042341/6508"
   - title: "Resolução SMF 3.400/2025: isenção de ITBI no Porto Maravilha"
@@ -52,15 +52,14 @@ O imposto está na Lei municipal 1.364/1988. A Lei 6.250/2017 mudou a alíquota 
 |---|---|
 | Compra comum, à vista ou financiada por banco | 3% sobre toda a base |
 | Instrumento lavrado até 31/12/2017 | 2% |
-| Parte financiada pelo SFH em empreendimentos de cooperativas e assemelhados, até 3.600 UPF | 0,5% sobre essa parte |
 | Primeira aquisição de unidade nova ou reconvertida nas zonas do Reviver Centro, entre 10/10/2023 e 11/10/2028 | Isenta |
 | Primeira aquisição de unidade nova no Porto Maravilha, nas condições da Resolução SMF 3.400/2025 | Isenta |
 
 ### E o desconto no financiamento?
 
-A legislação carioca tem, sim, uma alíquota de 0,5%, e é por isso que muita gente acha que existe um desconto parecido com o paulistano. Mas o artigo 135 do Decreto 42.838/2017, que regulamenta a lei, restringe essa alíquota à parte financiada pelo SFH (Sistema Financeiro da Habitação) em empreendimentos de cooperativas e assemelhados, até 3.600 UPF (Unidades-Padrão de Financiamento) ou o índice que as substituiu.
+Muita gente espera um desconto parecido com o paulistano, mas a página oficial de ITBI da prefeitura do Rio informa apenas a alíquota de 3% para instrumentos lavrados a partir de 2018, sem redução para a parte financiada. Há textos antigos que citam uma alíquota menor para financiamentos do SFH (Sistema Financeiro da Habitação) em empreendimentos de cooperativas, mas, no texto compilado da Lei 1.364/1988 que consultamos, o inciso correspondente aparece como vetado.
 
-Para quem compra um apartamento usado ou na planta e financia pelo SFH num banco, a regra é 3% sobre o valor inteiro. Se o seu caso for de cooperativa habitacional, confirme o enquadramento e o limite atualizado com a Coordenadoria do ITBI pela central 1746 antes de pedir a guia.
+Para quem compra um apartamento usado ou na planta e financia pelo SFH num banco, conte com 3% sobre o valor inteiro. Se o seu caso for de cooperativa habitacional, confirme com a Coordenadoria do ITBI pela central 1746 antes de pedir a guia.
 
 ### Isenções que existem de fato
 
@@ -107,7 +106,7 @@ Segundo a prefeitura, a guia fica disponível para impressão a partir de 2 dias
 4. Depois do pagamento, espere cerca de 2 dias úteis para o valor entrar em receita.
 5. Emita a certidão de pagamento do ITBI pela internet e leve ao cartório.
 
-Se a guia vencer sem pagamento, ela não pode mais ser impressa. É preciso revalidar o protocolo por formulário, o que pode levar até 10 dias úteis. Para evitar, peça a guia perto da data da assinatura e pague logo.
+Se a guia vencer sem pagamento, ela não pode mais ser impressa. A revalidação é feita por formulário, com envio de documentos, e leva mais tempo que o pedido online. Para evitar, peça a guia perto da data da assinatura e pague logo.
 
 ## Exemplo prático com números
 
@@ -115,7 +114,7 @@ Exemplo ilustrativo: apartamento usado de R$ 500.000 na cidade do Rio, comprado 
 
 - ITBI: R$ 500.000 × 3% = **R$ 15.000**
 
-O financiamento não muda o valor, porque não é empreendimento de cooperativa. Compare com outros cenários:
+O financiamento não muda o valor. Compare com outros cenários:
 
 | Cenário | Base considerada | ITBI |
 |---|---|---|

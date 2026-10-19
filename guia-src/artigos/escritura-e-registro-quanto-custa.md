@@ -1,6 +1,6 @@
 ---
 title: "Escritura e registro do imóvel: quanto custa e como calcular"
-description: "Como funcionam os emolumentos de escritura e registro, onde ver a tabela do seu estado, exemplo de SP em 2026 e o desconto de 50% do primeiro imóvel."
+description: "Como funcionam os emolumentos de escritura e registro, onde ver a tabela do seu estado, exemplo ilustrativo em SP e o desconto de 50% do primeiro imóvel."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
@@ -8,11 +8,11 @@ reading_minutes: 9
 key_points:
   - "Escritura e registro são cobrados por tabelas estaduais, com valores fixos por faixa de preço do imóvel, reajustadas todo ano."
   - "No financiamento bancário, o contrato do banco substitui a escritura, mas o registro continua obrigatório e costuma envolver dois atos: a compra e a alienação fiduciária."
-  - "Em São Paulo, pela tabela da Arisp de 2026, o registro com valor declarado entre R$ 384.200,01 e R$ 768.400,00 custa R$ 3.284,18 por ato."
+  - "Em São Paulo, a tabela de 2026 vale desde 8 de janeiro, e o registro de um imóvel de algumas centenas de milhares de reais custa alguns milhares de reais por ato. O valor exato sai da tabela da Arisp ou do orçamento do cartório."
   - "Quem compra o primeiro imóvel residencial pelo SFH tem 50% de desconto nos emolumentos de registro (art. 290 da Lei 6.015/1973), mas precisa pedir."
 faq:
   - q: "Quanto custa registrar um imóvel de R$ 500 mil em São Paulo?"
-    a: "Pela tabela de 2026 divulgada pela Arisp, um ato de registro com valor declarado nessa faixa custa R$ 3.284,18. Com financiamento, em geral há dois registros, compra e alienação fiduciária, além de taxas menores como prenotação e certidão. Peça orçamento ao cartório do imóvel."
+    a: "Cada ato de registro nessa faixa de preço custa alguns milhares de reais, pela tabela de 2026 publicada pela Arisp. Com financiamento, em geral há dois registros, compra e alienação fiduciária, além de taxas menores como prenotação e certidão. Peça orçamento ao cartório do imóvel para ter o valor exato."
   - q: "Quem financia precisa pagar escritura?"
     a: "Em geral não. O contrato de financiamento assinado com o banco tem força de escritura pública, pela Lei 9.514/1997. Você leva esse contrato direto ao Registro de Imóveis."
   - q: "Como pedir o desconto de 50% no registro do primeiro imóvel?"
@@ -24,8 +24,10 @@ faq:
 sources:
   - title: "Anoreg/SP divulga tabela de custas e emolumentos de 2026 (vigência em 8 de janeiro)"
     url: "https://portaldori.com.br/2026/01/06/anoreg-sp-anoreg-sp-divulga-tabela-de-custas-e-emolumentos-dos-cartorios-do-estado-de-sao-paulo-para-2026/"
-  - title: "Arisp: tabela de emolumentos dos registros de imóveis de São Paulo (2026, PDF)"
+  - title: "Arisp: tabela de emolumentos dos registros de imóveis de São Paulo (PDF publicado em janeiro de 2026)"
     url: "https://arisp.com.br/wp-content/uploads/2026/01/0.pdf"
+  - title: "Registro de Imóveis do Brasil: calculadora de emolumentos"
+    url: "https://www.registrodeimoveis.org.br/calculadora"
   - title: "Colégio Notarial do Brasil, seção São Paulo: tabelas de custas de 2026"
     url: "https://cnbsp.org.br/tabelas-de-custas-e-emolumentos-padrao/"
   - title: "Planalto: Lei 6.015/1973, Lei de Registros Públicos (art. 290)"
@@ -39,7 +41,7 @@ sources:
 related: [custos-para-comprar-imovel, itbi-sao-paulo, documentos-para-financiamento, sfh-e-sfi]
 ---
 
-Escritura e registro são os dois atos de cartório da compra de um imóvel, e o preço de cada um sai de uma tabela estadual de emolumentos, com valor fixo por faixa de preço do imóvel. Em São Paulo, pela tabela de 2026 divulgada pela Arisp (Associação dos Registradores Imobiliários de São Paulo), um registro de imóvel com valor entre R$ 384.200,01 e R$ 768.400,00 custa R$ 3.284,18 por ato. Quem financia não costuma pagar escritura, porque o contrato do banco a substitui, mas paga o registro. E quem compra o primeiro imóvel residencial pelo SFH (Sistema Financeiro da Habitação) tem direito a 50% de desconto, desde que peça.
+Escritura e registro são os dois atos de cartório da compra de um imóvel, e o preço de cada um sai de uma tabela estadual de emolumentos, com valor fixo por faixa de preço do imóvel. Em São Paulo, a tabela de 2026 fica no site da Arisp (Associação dos Registradores Imobiliários de São Paulo), e o registro de um imóvel de R$ 500 mil custa alguns milhares de reais por ato. Quem financia não costuma pagar escritura, porque o contrato do banco a substitui, mas paga o registro. E quem compra o primeiro imóvel residencial pelo SFH (Sistema Financeiro da Habitação) tem direito a 50% de desconto, desde que peça.
 
 O artigo sobre [custos para comprar imóvel](/artigos/custos-para-comprar-imovel) mostra todos os gastos da compra. Aqui o assunto é só o cartório, com mais detalhe.
 
@@ -64,11 +66,11 @@ Emolumentos são as taxas que remuneram os cartórios. Três regras valem em tod
 
 - **São fixados por lei estadual.** A Lei federal 10.169/2000 traça as normas gerais, e cada estado tem a sua tabela. Em São Paulo, a base é a Lei estadual 11.331/2002.
 - **Crescem por faixas.** O valor não é uma porcentagem do imóvel. Cada faixa de preço tem um valor fixo. Por isso, o custo relativo cai à medida que o imóvel fica mais caro.
-- **Têm repasses.** Parte do total vai para o estado, o Tribunal de Justiça, fundos e o Ministério Público. Na tabela paulista, o oficial do cartório fica com cerca de 61% do total. Alguns municípios cobram também ISS sobre o serviço.
+- **Têm repasses.** Parte do total vai para o estado, o Tribunal de Justiça, fundos e o Ministério Público. Na tabela paulista, a maior parte fica com o oficial do cartório. Alguns municípios cobram também ISS sobre o serviço.
 
 Dentro do mesmo estado, todos os cartórios cobram a mesma tabela. Não há como pesquisar preço entre cartórios de registro, até porque o registro só pode ser feito no cartório da região do imóvel. A escritura, em compra sem financiamento, pode ser feita em qualquer tabelionato do país.
 
-As tabelas são reajustadas uma vez por ano. Em São Paulo, a tabela de 2026 entrou em vigor em 8 de janeiro, o quinto dia útil do ano, acompanhando a correção da UFESP (Unidade Fiscal do Estado de São Paulo).
+As tabelas são reajustadas uma vez por ano. Em São Paulo, a tabela de 2026 entrou em vigor em 8 de janeiro, o quinto dia útil do ano, segundo a Anoreg/SP.
 
 ## Onde consultar a tabela do seu estado
 
@@ -106,42 +108,20 @@ O artigo 290 da Lei 6.015/1973 (Lei de Registros Públicos) reduz pela metade os
 
 Há ainda reduções específicas para habitação de interesse social. Na tabela paulista, por exemplo, há valores menores para a primeira venda em empreendimentos de interesse social e para aquisições financiadas com recursos do FGTS dentro de limites em UFESP. Se você compra pelo [Minha Casa, Minha Vida](/artigos/minha-casa-minha-vida), pergunte ao cartório qual item se aplica.
 
-## Exemplo com a tabela de São Paulo de 2026
+## Exemplo ilustrativo em São Paulo
 
-Exemplo ilustrativo: apartamento de R$ 500.000 na capital paulista, R$ 400.000 financiados pelo SFH com alienação fiduciária. Usamos o total da tabela de registro com valor declarado divulgada pela Arisp em 2026 e supomos dois atos de registro. Não incluímos prenotação, certidões e eventual ISS, que variam conforme o caso.
+Exemplo ilustrativo: apartamento de R$ 500.000 na capital paulista, R$ 400.000 financiados pelo SFH com alienação fiduciária. Como o valor exato depende da faixa da tabela e de itens adicionais, usamos aqui um valor hipotético e redondo de R$ 3.000 por ato, só para mostrar a lógica da conta. Não é o valor oficial: confira o seu na tabela da Arisp ou com o cartório. Não incluímos prenotação, certidões e eventual ISS.
 
-Composição de um ato na faixa de R$ 384.200,01 a R$ 768.400,00:
-
-| Parcela | Valor |
-|---|---|
-| Oficial do cartório | R$ 1.992,82 |
-| Estado | R$ 566,38 |
-| Secretaria da Fazenda | R$ 387,66 |
-| Registro Civil | R$ 104,89 |
-| Tribunal de Justiça | R$ 136,77 |
-| Ministério Público | R$ 95,66 |
-| **Total por ato** | **R$ 3.284,18** |
-
-O preço (R$ 500 mil) e a dívida (R$ 400 mil) caem na mesma faixa. A conta fica assim:
+Supondo que o preço (R$ 500 mil) e a dívida (R$ 400 mil) caiam na mesma faixa da tabela, a conta fica assim:
 
 | Cenário | Registro da compra | Registro da alienação fiduciária | Total estimado |
 |---|---|---|---|
-| Sem desconto | R$ 3.284,18 | R$ 3.284,18 | R$ 6.568,36 |
-| Primeiro imóvel residencial pelo SFH (50%) | R$ 1.642,09 | R$ 1.642,09 | R$ 3.284,18 |
+| Sem desconto | R$ 3.000 | R$ 3.000 | R$ 6.000 |
+| Primeiro imóvel residencial pelo SFH (50%) | R$ 1.500 | R$ 1.500 | R$ 3.000 |
 
-Pedir o desconto, neste exemplo, economiza R$ 3.284,18. Somado ao ITBI de R$ 11.975,80 calculado em [ITBI em São Paulo](/artigos/itbi-sao-paulo), o comprador de primeiro imóvel gastaria cerca de R$ 15,3 mil entre imposto e registro, antes das taxas menores.
+Pedir o desconto, neste exemplo, economiza R$ 3.000. Somado ao ITBI de R$ 11.975,80 calculado em [ITBI em São Paulo](/artigos/itbi-sao-paulo), o comprador de primeiro imóvel gastaria por volta de R$ 15 mil entre imposto e registro, antes das taxas menores.
 
-Para ter uma ideia de como o valor cresce por faixa, estas são algumas linhas da mesma tabela de 2026:
-
-| Faixa de valor | Total por ato |
-|---|---|
-| R$ 268.940,01 a R$ 307.360,00 | R$ 2.723,02 |
-| R$ 345.780,01 a R$ 384.200,00 | R$ 2.945,43 |
-| R$ 384.200,01 a R$ 768.400,00 | R$ 3.284,18 |
-| R$ 768.400,01 a R$ 1.152.600,00 | R$ 3.846,10 |
-| R$ 1.152.600,01 a R$ 1.536.800,00 | R$ 4.427,79 |
-
-Repare que dobrar o preço do imóvel de R$ 400 mil para R$ 800 mil aumenta o registro em cerca de 17%. Os valores de escritura em tabelionato seguem a mesma lógica de faixas e estão nas planilhas do Colégio Notarial de São Paulo.
+Como a tabela é por faixas, o custo cresce bem menos que o preço do imóvel: dobrar o valor do imóvel não dobra o registro. Antes de fechar o orçamento, use a calculadora de emolumentos indicada pela Arisp ou peça ao Registro de Imóveis do seu imóvel o valor exato, com a faixa correta para o preço e para a dívida. Os valores de escritura em tabelionato seguem a mesma lógica de faixas e estão nas planilhas do Colégio Notarial de São Paulo.
 
 ## Erros comuns e cuidados
 
@@ -153,7 +133,7 @@ Repare que dobrar o preço do imóvel de R$ 400 mil para R$ 800 mil aumenta o re
 
 ## Resumo e próximos passos
 
-Escritura e registro seguem tabelas estaduais com valores fixos por faixa. No financiamento, você pula a escritura, mas paga o registro da compra e da alienação fiduciária. Em São Paulo, em 2026, cada ato na faixa de R$ 384 mil a R$ 768 mil custa R$ 3.284,18, e o primeiro imóvel residencial pelo SFH paga metade.
+Escritura e registro seguem tabelas estaduais com valores fixos por faixa. No financiamento, você pula a escritura, mas paga o registro da compra e da alienação fiduciária. Em São Paulo, em 2026, cada ato para um imóvel de R$ 500 mil custa alguns milhares de reais, e o primeiro imóvel residencial pelo SFH paga metade.
 
 1. Descubra qual é o Registro de Imóveis do seu imóvel (está na matrícula).
 2. Peça orçamento com o preço e o valor financiado.

@@ -10,7 +10,7 @@ key_points:
   - "O imóvel pode custar até R$ 600 mil, novo ou usado, em qualquer região."
   - "O juro é de 10% ao ano nominal, cerca de 10,5% em taxa efetiva, com prazo de até 420 meses."
   - "Imóvel novo tem cota de até 80% em todo o país. O usado tem 80% no Norte, Nordeste e Centro-Oeste e 60% no Sul e Sudeste."
-  - "Não há subsídio. A vantagem é a taxa menor que a do mercado, que estava entre 10,5% e 12% ao ano mais TR em agosto de 2026."
+  - "Não há subsídio. A vantagem é a taxa menor que a do mercado, que estava entre 10,5% e 12% ao ano em agosto de 2026."
 faq:
   - q: "Qual a renda da Faixa 4 do Minha Casa Minha Vida?"
     a: "De R$ 9.600,01 a R$ 13 mil de renda bruta familiar mensal em área urbana, desde abril de 2026. Antes o limite era R$ 12 mil."
@@ -38,7 +38,7 @@ sources:
 related: [minha-casa-minha-vida, minha-casa-minha-vida-faixa-3, sfh-e-sfi, sac-ou-price]
 ---
 
-A Faixa 4 do Minha Casa Minha Vida é a faixa da classe média: atende famílias urbanas com renda bruta de R$ 9.600,01 a R$ 13 mil por mês, financia imóvel novo ou usado de até R$ 600 mil e cobra juros de 10% ao ano (nominal), com prazo de até 35 anos. Não há desconto no preço. A vantagem é a taxa, abaixo da cobrada no crédito imobiliário comum, que estava entre 10,5% e 12% ao ano mais TR em agosto de 2026. O ponto de atenção é o imóvel usado no Sul e no Sudeste, que tem financiamento de só 60%.
+A Faixa 4 do Minha Casa Minha Vida é a faixa da classe média: atende famílias urbanas com renda bruta de R$ 9.600,01 a R$ 13 mil por mês, financia imóvel novo ou usado de até R$ 600 mil e cobra juros de 10% ao ano (nominal), com prazo de até 35 anos. Não há desconto no preço. A vantagem é a taxa, abaixo da cobrada no crédito imobiliário comum, que estava entre 10,5% e 12% ao ano em agosto de 2026. O ponto de atenção é o imóvel usado no Sul e no Sudeste, que tem financiamento de só 60%.
 
 O panorama de todas as faixas está em [Minha Casa Minha Vida 2026](/artigos/minha-casa-minha-vida). Este texto trata só da Faixa 4.
 
@@ -56,7 +56,7 @@ A Faixa 4 começou a operar na Caixa em 5 de maio de 2025, com renda de até R$ 
 | Cota para imóvel novo | até 80% em todas as regiões |
 | Cota para imóvel usado | 80% no Norte, Nordeste e Centro-Oeste; 60% no Sul e Sudeste |
 | Subsídio | não há |
-| Bancos operadores | Caixa e Banco do Brasil |
+| Bancos operadores | Caixa, principal operadora, e outros bancos habilitados |
 
 Segundo o governo, a ampliação de 2026 incluiu cerca de 8,2 mil famílias na faixa.
 
@@ -83,7 +83,7 @@ O imóvel usado é aceito, mas a cota muda conforme a região:
 - **Norte, Nordeste e Centro-Oeste:** até 80%, igual ao imóvel novo.
 - **Sul e Sudeste:** até 60%. Você precisa de 40% de entrada.
 
-Essa diferença existe desde o lançamento da faixa, em 2025, e foi mantida nas regras de abril de 2026. O motivo declarado é direcionar o dinheiro do FGTS para imóveis novos, que geram obras e empregos.
+Essa diferença existe desde o lançamento da faixa, em 2025, e aparece mantida nas reportagens sobre as regras de abril de 2026. Na prática, ela favorece a compra de imóvel novo.
 
 Para quem mora no Sul ou no Sudeste e tem pouca entrada, isso muda a conta: um imóvel novo de mesmo preço pode exigir a metade da entrada de um usado. Imóvel na planta, porém, traz outros custos, como os [juros de obra](/artigos/juros-de-obra).
 
@@ -108,13 +108,13 @@ A diferença entre a parcela fixa e a decrescente está em [SAC ou Price](/artig
 
 1. **Confirme a renda bruta da família.** Some salários, pró-labore e renda de autônomo comprovada de quem vai compor a renda. Se passar de R$ 13 mil, a família sai do programa.
 2. **Verifique se ninguém tem imóvel ou financiamento ativo.** Um único imóvel residencial em nome de quem compõe a renda impede o enquadramento.
-3. **Simule na Caixa e no Banco do Brasil.** Compare o CET das duas propostas, a tabela de amortização e o valor dos seguros.
+3. **Simule na Caixa e em outro banco habilitado, se houver.** Compare o CET das propostas, a tabela de amortização e o valor dos seguros.
 4. **Defina novo ou usado com a cota da sua região em mãos.** No Sul e Sudeste, isso pode mudar a entrada em dezenas de milhares de reais.
 5. **Junte entrada, FGTS e reserva para custos.** ITBI, registro e avaliação ficam, em geral, fora do financiamento.
 6. **Entregue documentos e aguarde a avaliação do imóvel.** Se o laudo vier abaixo do preço combinado, o banco financia sobre o valor menor.
 7. **Assine e registre.** O dinheiro só vai ao vendedor depois do registro em cartório.
 
-Uma dica para quem está na fronteira entre faixas: se a família ganha um pouco acima de R$ 9.600, vale simular nas duas condições. Às vezes compor renda com menos pessoas mantém a família na Faixa 3, com juros menores, desde que a parcela ainda caiba.
+Uma dica para quem está na fronteira entre faixas: se a família ganha um pouco acima de R$ 9.600, vale simular nas duas condições. A faixa é definida pela renda bruta de toda a família que mora junto, e omitir renda pode cancelar o benefício. O que você pode avaliar com o banco é quem entra como comprador no contrato, sempre declarando a renda familiar real.
 
 ## Faixa 4 ou financiamento comum
 
@@ -124,7 +124,7 @@ A Faixa 4 tende a ser mais barata, mas não serve para todo mundo:
 |---|---|---|
 | Renda | até R$ 13 mil | sem limite |
 | Valor do imóvel | até R$ 600 mil | acima disso também |
-| Juros em agosto de 2026 | 10% ao ano nominal + TR | cerca de 10,5% a 12% ao ano + TR |
+| Juros em agosto de 2026 | 10% ao ano nominal + TR | cerca de 10,5% a 12% ao ano |
 | Ter outro imóvel | não pode | pode |
 | Cota do usado no Sul e Sudeste | 60% | costuma ser maior, conforme o banco |
 
@@ -145,4 +145,4 @@ Se você já tem imóvel, se o imóvel desejado passa de R$ 600 mil ou se precis
 - Cota de 80% para novo em todo o país e para usado no Norte, Nordeste e Centro-Oeste; 60% para usado no Sul e Sudeste.
 - Simule nos bancos operadores e compare o CET com o financiamento comum.
 
-Valores de outubro de 2026. Em agosto, o setor da construção pedia ampliar o teto da faixa, mas não havia decisão. O planejamento do FGTS para os próximos anos estava previsto para o fim de outubro de 2026. Confirme as condições no simulador da Caixa ou do Banco do Brasil e calcule seu limite na [calculadora de quanto posso financiar](/quanto-posso-financiar).
+Valores de outubro de 2026. Em agosto, o setor da construção pedia ampliar o teto da faixa, mas não havia decisão. O planejamento do FGTS para os próximos anos estava previsto para o fim de outubro de 2026. Confirme as condições no simulador da Caixa ou do banco habilitado e calcule seu limite na [calculadora de quanto posso financiar](/quanto-posso-financiar).

@@ -9,7 +9,7 @@ key_points:
   - "A Faixa 3 atende renda bruta familiar de R$ 5.000,01 a R$ 9.600 por mês, desde 1º de abril de 2026."
   - "O imóvel pode custar até R$ 400 mil em qualquer cidade do país."
   - "Os juros são de cerca de 7,66% ao ano para quem tem 3 anos de FGTS e 8,16% para quem não tem, mais TR."
-  - "Não há subsídio: a vantagem é a taxa abaixo do mercado. A Caixa financia até 80% no Norte, Nordeste e Centro-Oeste e 65% no Sul e Sudeste."
+  - "Não há subsídio: a vantagem é a taxa abaixo do mercado. Segundo a imprensa, a Caixa financia até 80% no Norte, Nordeste e Centro-Oeste e 65% no Sul e Sudeste."
   - "Em agosto de 2026 o governo estudava dividir a faixa e baixar juros. Até outubro, não havia regra nova publicada."
 faq:
   - q: "Qual a renda da Faixa 3 do Minha Casa Minha Vida?"
@@ -21,7 +21,7 @@ faq:
   - q: "A Faixa 3 tem subsídio?"
     a: "Não. O desconto do FGTS fica nas Faixas 1 e 2. Na Faixa 3 a vantagem é a taxa de juros menor que a de mercado."
   - q: "Quanto de entrada preciso na Faixa 3?"
-    a: "Depende da região. Com cota de 80%, a entrada mínima é 20% do imóvel. No Sul e Sudeste, com cota de 65%, é 35%. O FGTS pode cobrir parte."
+    a: "Depende da região e do banco. Com cota de 80%, a entrada mínima é 20% do imóvel. No Sul e Sudeste, com a cota de 65% noticiada para a Caixa, é 35%. O FGTS pode cobrir parte."
 sources:
   - title: "Portaria MCID nº 333, de 30 de março de 2026 (limites de renda)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PORTARIAMCIDN333DE30DEMARODE2026.pdf"
@@ -33,12 +33,12 @@ sources:
     url: "https://movimentoeconomico.com.br/habitacao/2026/04/22/ne-tem-juros-menores-e-financiamento-de-80-nas-novas-regras-do-mcmv/"
   - title: "Governo Lula estuda reduzir juros da Faixa 3 do Minha Casa Minha Vida (BPMoney, 20/08/2026)"
     url: "https://bpmoney.com.br/politica/governo/governo-lula-estuda-reduzir-juros-faixa-3-minha-casa-minha-vida/"
-  - title: "Lei 14.620/2023, Programa Minha Casa, Minha Vida (Planalto)"
-    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14620.htm"
+  - title: "Minha Casa Minha Vida: novas regras passam a valer (Portas, 22/04/2026)"
+    url: "https://portas.com.br/noticias/minha-casa-minha-vida-novas-regras-passam-a-valer-ate-fim-de-abril/"
 related: [minha-casa-minha-vida, minha-casa-minha-vida-faixa-4, entrada-para-financiar-imovel, renda-para-financiar-imovel]
 ---
 
-A Faixa 3 do Minha Casa Minha Vida é para famílias com renda bruta de R$ 5.000,01 a R$ 9.600 por mês que querem comprar imóvel de até R$ 400 mil. Ela não dá desconto no preço: o benefício é a taxa de juros, de cerca de 7,66% ao ano mais TR para quem tem 3 anos de FGTS e 8,16% para quem não tem, contra 10,5% a 12% no crédito imobiliário comum. A entrada mínima é de 20% do imóvel no Norte, Nordeste e Centro-Oeste e de 35% no Sul e Sudeste.
+A Faixa 3 do Minha Casa Minha Vida é para famílias com renda bruta de R$ 5.000,01 a R$ 9.600 por mês que querem comprar imóvel de até R$ 400 mil. Ela não dá desconto no preço: o benefício é a taxa de juros, de cerca de 7,66% ao ano mais TR para quem tem 3 anos de FGTS e 8,16% para quem não tem, contra 10,5% a 12% no crédito imobiliário comum. Pelas condições da Caixa noticiadas em abril de 2026, a entrada mínima é de 20% do imóvel no Norte, Nordeste e Centro-Oeste e de 35% no Sul e Sudeste.
 
 Para o panorama de todas as faixas, veja [Minha Casa Minha Vida 2026](/artigos/minha-casa-minha-vida). Aqui o foco é só a Faixa 3.
 
@@ -61,6 +61,8 @@ O que mudou em abril de 2026:
 - a renda máxima subiu de R$ 8.600 para R$ 9.600;
 - o teto do imóvel subiu de R$ 350 mil para R$ 400 mil, alta de 14%;
 - o governo estimou cerca de 31,3 mil novas famílias na faixa com a ampliação.
+
+Algumas reportagens de abril de 2026 citam juros a partir de 6,5% ao ano para parte da faixa. As taxas de 7,66% e 8,16% são as mais repetidas, inclusive em agosto de 2026, então use-as como referência e confirme a sua na simulação.
 
 **Cotista do FGTS** é quem soma pelo menos 3 anos de trabalho com carteira assinada, em uma ou mais empresas. É essa condição que garante a taxa menor.
 
@@ -125,7 +127,7 @@ Em 20 de agosto de 2026, a imprensa informou que o governo estudava dividir a Fa
 ## Erros comuns e cuidados
 
 - **Calcular a faixa pela renda líquida.** Conta a renda bruta. Benefícios temporários, Bolsa Família e BPC ficam de fora.
-- **Ignorar a cota da sua região.** No Sul e Sudeste, 65% de financiamento significa entrada de 35%. Não dê sinal antes de saber se consegue completar.
+- **Ignorar a cota da sua região.** No Sul e Sudeste, a cota de 65% noticiada para a Caixa significa entrada de 35%. Não dê sinal antes de saber se consegue completar.
 - **Esquecer os custos de compra.** ITBI, registro e avaliação somam alguns por cento do imóvel e normalmente não entram no financiamento.
 - **Não usar o FGTS.** O saldo pode reduzir a entrada e, depois, amortizar o saldo devedor.
 - **Ter imóvel ou financiamento ativo.** Quem já tem imóvel residencial ou contrato ativo no SFH não entra no programa.
@@ -135,7 +137,7 @@ Em 20 de agosto de 2026, a imprensa informou que o governo estudava dividir a Fa
 
 - Renda bruta de R$ 5.000,01 a R$ 9.600, imóvel de até R$ 400 mil, sem subsídio.
 - Juros de cerca de 7,66% (cotista) a 8,16% (não cotista) ao ano mais TR, prazo de até 35 anos.
-- Entrada de pelo menos 20% no Norte, Nordeste e Centro-Oeste e 35% no Sul e Sudeste na Caixa.
+- Entrada de pelo menos 20% no Norte, Nordeste e Centro-Oeste e 35% no Sul e Sudeste na Caixa, segundo a imprensa. Confirme no banco.
 - Simule a parcela, confira a cota da sua região e planeje a entrada com FGTS e poupança.
 
 Valores de outubro de 2026, a partir da Portaria MCID 333/2026 e de reportagens sobre as condições da Caixa. Bancos podem ter regras próprias e o Conselho Curador do FGTS revisa as condições com frequência. Confirme no simulador da Caixa e no site do Ministério das Cidades, e faça a sua conta na [calculadora de quanto posso financiar](/quanto-posso-financiar).
