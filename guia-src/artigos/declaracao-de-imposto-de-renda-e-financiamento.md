@@ -10,7 +10,7 @@ key_points:
   - "O imóvel financiado vai na ficha Bens e Direitos pelo valor que você efetivamente pagou até 31 de dezembro, não pelo preço total nem pelo valor de mercado."
   - "O manual da Receita manda não incluir em Dívidas e Ônus Reais os financiamentos do SFH ou feitos nas mesmas condições, com o imóvel em garantia."
   - "Na declaração de 2026 (ano-base 2025), quem teve rendimentos tributáveis acima de R$ 35.584 ou bens acima de R$ 800 mil foi obrigado a declarar."
-  - "Guardar os comprovantes de juros, ITBI e registro ajuda a reduzir o ganho de capital quando você vender."
+  - "Guardar os comprovantes de juros e ITBI ajuda a reduzir o ganho de capital quando você vender."
 faq:
   - q: "Preciso declarar Imposto de Renda para conseguir financiamento?"
     a: "Quem tem holerite geralmente comprova renda com o contracheque. Para autônomos, MEI e empresários, a declaração é a prova mais aceita, e declarar mesmo sem obrigação costuma ajudar na análise."
@@ -111,7 +111,7 @@ Paulo comprou um apartamento de R$ 400 mil em março de 2025:
 - Entrada com recursos próprios: R$ 80 mil.
 - FGTS usado: R$ 20 mil.
 - Financiamento: R$ 300 mil, com primeira parcela em abril.
-- ITBI, escritura e registro: R$ 12 mil (valor hipotético).
+- ITBI, escritura e registro: R$ 12 mil (valor hipotético, somado ao custo neste exemplo).
 
 As nove parcelas pagas de abril a dezembro de 2025 somam cerca de R$ 30.798. Em 2026, as doze parcelas somam cerca de R$ 40.244.
 
