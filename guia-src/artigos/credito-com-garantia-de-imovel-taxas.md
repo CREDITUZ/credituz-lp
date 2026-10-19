@@ -69,7 +69,7 @@ Entram no cálculo:
 - **Juros** do contrato;
 - **IOF** (Imposto sobre Operações Financeiras);
 - **Tarifa de avaliação do imóvel**;
-- **Seguros** exigidos (em geral MIP, de morte e invalidez, e DFI, de danos físicos ao imóvel; veja [seguros MIP e DFI](/artigos/seguros-mip-e-dfi));
+- **Seguros** exigidos ou contratados junto, como MIP (morte e invalidez) e DFI (danos físicos ao imóvel). Alguns bancos os tornam opcionais nessa modalidade; veja [seguros MIP e DFI](/artigos/seguros-mip-e-dfi);
 - **Registro da garantia** e outras despesas pagas a terceiros, quando vinculadas à operação, mesmo que você não financie esses valores.
 
 Fica de fora a variação futura de índices. Num contrato com IPCA mais juros, o CET considera só a parte fixa; a inflação aparece descrita à parte.

@@ -1,6 +1,6 @@
 ---
 title: "FGTS de duas pessoas na mesma compra: casal, amigos e parentes"
-description: "Como duas pessoas usam o FGTS na compra do mesmo imóvel, o que o regime de bens muda para o casal e quando o imóvel de um impede o outro."
+description: "Como duas pessoas usam o FGTS na compra do mesmo imóvel, o que o regime de bens muda para o casal e em que casos o imóvel de um impede o uso pelo outro."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
@@ -99,6 +99,12 @@ Exemplo ilustrativo. Ana e Bruno, casados em comunhão parcial, compram um apart
 Sem o FGTS de Bruno, a entrada cairia para R$ 65 mil, e o casal precisaria de mais R$ 25 mil em dinheiro para fechar os 20% mínimos.
 
 Agora uma variação. Bruno tem um apartamento na mesma cidade, comprado antes do casamento. Na comunhão parcial, só Bruno fica impedido. Ana pode usar os R$ 45 mil dela. Se o apartamento tivesse sido comprado depois do casamento, ou se o regime fosse comunhão universal, nenhum dos dois poderia usar o FGTS nessa compra.
+
+E se Ana e Bruno não fossem casados, apenas amigos dividindo a compra? A regra seria a mesma para o FGTS: cada um usa o próprio saldo se cumprir os requisitos, e o imóvel de um não afeta o outro, porque não existe comunhão de bens entre eles. O apartamento antigo de Bruno impediria só o FGTS dele.
+
+### Quanto pesa cada saldo no limite
+
+A Caixa limita o total, e não cada conta. A soma do FGTS de todos os compradores com o valor financiado não pode passar do menor valor entre o preço de compra e a avaliação do imóvel. Se o casal tivesse R$ 120 mil de FGTS somado e o banco aprovasse R$ 360 mil de financiamento, o total (R$ 480 mil) passaria do preço. Nesse caso, o banco reduz o financiamento ou o valor sacado, e o saldo que sobrar continua na conta para uso futuro, como amortização.
 
 O total de FGTS mais financiamento (R$ 430 mil) fica abaixo do preço e da avaliação, então respeita o limite da Caixa. Para testar a sua combinação, use o [simulador de financiamento](/simulador).
 
