@@ -1,10 +1,10 @@
 ---
 title: "Saque-aniversário e financiamento: dá para usar o FGTS no imóvel?"
-description: "Quem aderiu ao saque-aniversário continua podendo usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação em 2026."
+description: "Quem aderiu ao saque-aniversário pode usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação de 2026."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Aderir ao saque-aniversário não tira o direito de usar o FGTS na compra, amortização ou quitação do imóvel."
   - "O que muda é o tamanho do saldo: os saques anuais reduzem o dinheiro disponível para a entrada."
@@ -111,6 +111,15 @@ Algumas situações para pensar:
 - **Vai comprar em até 2 anos e não antecipou nada.** Sair não muda o uso do FGTS na compra. O ganho de sair é parar os saques anuais depois que a mudança valer, o que preserva o saldo. Como ela demora 24 meses, para uma compra próxima o efeito é pequeno; o que ajuda de verdade é guardar o valor de cada saque para a entrada.
 - **Tem antecipação ativa.** O valor reservado não estará disponível na compra. Calcule a entrada só com o saldo livre.
 - **Trabalho instável.** Com o saque-aniversário, uma demissão retém o saldo para saque em dinheiro, mas ele ainda pode ser usado em moradia. Quem depende do FGTS como reserva de emergência precisa pesar isso.
+
+## Passo a passo antes de usar o FGTS no imóvel
+
+1. **Abra o aplicativo FGTS** e confira a modalidade em que você está, o saldo total de cada conta e se há valor bloqueado por antecipação.
+2. **Veja os contratos de antecipação.** O aplicativo mostra qual banco tem a garantia, quantos saques foram cedidos e até quando vai o bloqueio.
+3. **Separe o saldo livre.** Ele é o valor que entra de fato na entrada, na amortização ou na quitação.
+4. **Confira as condições de uso na moradia**, as mesmas de qualquer trabalhador: 3 anos de FGTS, sem imóvel residencial na região e sem financiamento ativo no SFH.
+5. **Avise o banco do financiamento** de que você está no saque-aniversário. Isso não muda a análise, mas evita surpresa se o saque cair no mês da compra e reduzir o saldo previsto.
+6. **Considere o calendário.** O saque anual é liberado a partir do mês do aniversário. Se você vai sacar e depois comprar, o saldo disponível na compra será menor do que o mostrado hoje.
 
 ## Erros comuns e cuidados
 

@@ -1,10 +1,10 @@
 ---
-title: "FGTS para amortizar financiamento: quitar, reduzir prazo ou parcela"
+title: "FGTS para amortizar o financiamento: prazo, parcela ou quitação"
 description: "Como usar o FGTS para amortizar ou quitar o financiamento do imóvel, a regra dos 2 anos, o uso de até 80% da parcela por 12 meses e qual opção economiza mais."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Quem tem financiamento no SFH pode usar o FGTS para amortizar ou quitar o saldo devedor a cada 2 anos."
   - "Outra opção é pagar até 80% da parcela por até 12 meses seguidos, usando o saldo do fundo."
@@ -88,6 +88,23 @@ A terceira modalidade não abate o saldo devedor de uma vez. O banco calcula qua
 Exemplo ilustrativo: com parcela de R$ 3.000, o FGTS cobriria até R$ 2.400 por mês. Para os 12 meses, isso exige até R$ 28.800 de saldo. Você pagaria R$ 600 por mês nesse período.
 
 Essa opção serve para atravessar uma fase de aperto, como queda de renda, licença ou gasto de saúde. Ela não reduz juros como a amortização; só troca a fonte do pagamento. Se o problema não é de caixa, amortizar costuma render mais.
+
+## Amortizar agora ou guardar o saldo?
+
+Muita gente hesita em usar o FGTS porque vê o saldo como reserva para uma eventual demissão. A dúvida é legítima, e a conta tem dois lados.
+
+De um lado está o custo do dinheiro. O FGTS é corrigido por 3% ao ano mais TR, e nos últimos anos o Conselho Curador também distribuiu parte do lucro do fundo às contas. Um financiamento imobiliário costuma cobrar bem mais que isso, além de seguros. Cada real que fica parado no fundo enquanto você paga juros maiores no contrato custa a diferença entre as duas taxas.
+
+Do outro lado está a liquidez. Se você está no saque-rescisão e for demitido sem justa causa, o saldo vira dinheiro na mão. Depois de usado no imóvel, ele não volta.
+
+Algumas perguntas ajudam a decidir:
+
+- Você tem uma reserva de emergência fora do FGTS, de alguns meses de despesas? Se tem, amortizar costuma ser a escolha mais barata.
+- Seu emprego é estável? Quanto mais instável, mais faz sentido manter parte do saldo como proteção.
+- Você está no saque-aniversário? Nesse caso, numa demissão o saldo fica retido de qualquer forma, e o argumento da reserva perde força.
+- Falta muito tempo de contrato? Amortizações no começo economizam mais juros do que as feitas perto do fim.
+
+Uma saída intermediária é usar parte do saldo e manter o resto. A regra dos 2 anos vale por uso, não por valor, então pense no tamanho de cada amortização sabendo que a próxima só virá depois desse intervalo.
 
 ## Passo a passo para pedir
 

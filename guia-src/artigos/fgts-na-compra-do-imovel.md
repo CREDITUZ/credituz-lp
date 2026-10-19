@@ -4,7 +4,7 @@ description: "Quem pode usar o FGTS na compra da casa própria em 2026, qual o v
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "O FGTS pode pagar a entrada ou parte do preço de um imóvel residencial urbano para você morar, dentro das regras do SFH."
   - "Desde novembro de 2025, o imóvel pode ser avaliado em até R$ 2,25 milhões, seja qual for a data do contrato."

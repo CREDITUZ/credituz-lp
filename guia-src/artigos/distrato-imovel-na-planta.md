@@ -4,7 +4,7 @@ description: "Veja o que a Lei do Distrato permite reter (até 25% ou 50%), os p
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 8
 key_points:
   - "Se você desiste da compra na planta, a incorporadora pode reter a corretagem e uma multa de até 25% do que você pagou, pela Lei 13.786/2018."
   - "Se o empreendimento tem patrimônio de afetação, a multa pode chegar a 50%, e a devolução fica para até 30 dias depois do habite-se."
@@ -94,17 +94,19 @@ Agora imagine que você já tinha recebido as chaves e morou 6 meses no imóvel.
 
 A multa de 25% ou 50% é um teto. Confira no quadro-resumo do seu contrato qual percentual foi efetivamente pactuado.
 
-## Direito de arrependimento: 7 dias
+## Arrependimento, quadro-resumo e contratos antigos
+
+### Direito de arrependimento: 7 dias
 
 Se o contrato foi assinado em estande de vendas ou fora da sede da incorporadora, a lei garante 7 dias para desistir, com devolução de tudo, inclusive da corretagem. Para provar que você exerceu o direito no prazo, envie carta registrada com aviso de recebimento: vale a data da postagem. Depois de 7 dias sem manifestação, o contrato fica irretratável.
 
-## O quadro-resumo e por que ele importa
+### O quadro-resumo e por que ele importa
 
 Todo contrato de imóvel na planta firmado depois da Lei 13.786/2018 deve começar com um quadro-resumo contendo, entre outros, preço, forma de pagamento, valor da corretagem, índices de correção, as consequências do distrato em destaque e o prazo de entrega. Você precisa assinar especificamente a parte que trata do distrato.
 
 Se alguma informação obrigatória faltar, a incorporadora tem 30 dias para corrigir depois de notificada. Se não corrigir, a omissão é justa causa para você desfazer o contrato. Isso pode mudar bastante o valor a receber, por isso vale levar o contrato a um advogado se o quadro estiver incompleto.
 
-## Contratos antigos e contratos com financiamento bancário
+### Contratos antigos e contratos com financiamento bancário
 
 **Contratos anteriores a dezembro de 2018.** O STJ entende que a Lei do Distrato não retroage. Esses contratos seguem a jurisprudência da época, que costumava admitir retenção entre 10% e 25% do valor pago quando o comprador desistia. No Tema 1.002, o STJ definiu que, nesses casos, os juros de mora sobre a devolução contam a partir do trânsito em julgado da decisão.
 
@@ -115,6 +117,16 @@ Se alguma informação obrigatória faltar, a incorporadora tem 30 dias para cor
 - **Cessão do contrato.** A lei afasta a multa se você transferir o contrato para outra pessoa aprovada pela incorporadora. Pode ser a forma de recuperar mais dinheiro.
 - **Renegociação.** Prazo maior, troca de unidade ou mudança no fluxo de pagamento. A lei permite que as partes façam acordos diferentes no distrato.
 - **Revisar o financiamento.** Se o problema foi o crédito negado, entenda o motivo antes de desistir; o guia [financiamento negado](/artigos/financiamento-negado) mostra caminhos.
+
+## Como pedir o distrato, na prática
+
+1. **Junte os documentos.** Contrato completo com quadro-resumo, aditivos, comprovantes de todos os pagamentos (incluindo sinal e corretagem) e a matrícula do empreendimento, que mostra se há patrimônio de afetação.
+2. **Some o que você pagou à incorporadora.** Separe o que foi pago a ela do que foi pago ao corretor ou ao banco, porque cada parte segue uma regra.
+3. **Faça a sua própria conta.** Aplique a correção do contrato, desconte a corretagem e o percentual de multa pactuado. Assim você sabe se a proposta da empresa está dentro da lei.
+4. **Formalize o pedido por escrito.** E-mail com confirmação ou notificação com aviso de recebimento. Guarde a data: ela marca o início do prazo de 180 dias, quando não há afetação.
+5. **Leia o termo de distrato antes de assinar.** Confira valor, índice de correção, data de pagamento e se há cláusula de quitação geral. Depois de assinado, contestar fica mais difícil.
+
+Se a empresa demorar a responder ou propuser valor abaixo do que a lei garante, registre reclamação no Procon ou no consumidor.gov.br antes de partir para a Justiça. Muitas incorporadoras negociam nessa etapa.
 
 ## Erros comuns
 

@@ -4,7 +4,7 @@ description: "Compare consórcio e financiamento imobiliário com uma simulaçã
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 8
 key_points:
   - "Financiamento entrega o imóvel agora e cobra juros. Consórcio não cobra juros, mas você só compra quando for contemplado."
   - "No consórcio o custo vem da taxa de administração (em geral de 15% a 20% do crédito) e do fundo de reserva, e a parcela sobe com o índice do contrato."

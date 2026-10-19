@@ -4,7 +4,7 @@ description: "Entenda o home equity: quanto dá para pegar, taxas de 2026, o que
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 7
 key_points:
   - "Home equity é um empréstimo em que você dá um imóvel quitado (ou quase) como garantia, em troca de juros bem menores que os do crédito pessoal."
   - "Em 2026, bancos anunciavam taxas a partir de cerca de 1% a 1,8% ao mês, contra uma média de 64% ao ano no crédito livre para pessoa física."

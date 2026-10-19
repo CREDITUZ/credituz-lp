@@ -1,10 +1,10 @@
 ---
 title: "Minha Casa Minha Vida 2026: faixas, renda, juros e subsídio"
-description: "Faixas de renda do Minha Casa Minha Vida em 2026, teto do imóvel em cada uma, juros, subsídio, quem pode participar e como se inscrever pela prefeitura ou pela Caixa."
+description: "Faixas de renda do Minha Casa Minha Vida em 2026, teto do imóvel, juros, subsídio, quem pode participar e como se inscrever pela prefeitura ou pela Caixa."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 7
 key_points:
   - "Desde abril de 2026, o programa atende famílias urbanas com renda bruta de até R$ 13 mil por mês, em quatro faixas."
   - "O teto do imóvel vai de R$ 210 mil a R$ 275 mil nas Faixas 1 e 2 (conforme a cidade), R$ 400 mil na Faixa 3 e R$ 600 mil na Faixa 4."
