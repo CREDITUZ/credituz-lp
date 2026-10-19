@@ -1,0 +1,24 @@
+# Configuracao do portal guia.credituz.ai (gerado por scripts/build_guia.py)
+name: "Guia Credituz"
+url: "https://guia.credituz.ai"
+description: "Guias práticos sobre financiamento imobiliário, FGTS, juros, custos e direitos de quem compra imóvel, com dados atualizados e fontes oficiais."
+company: "Credituz Tecnologia Ltda."
+cnpj: "51.934.531/0001-92"
+email: "contato@usecredituz.com"
+phone: "(11) 3620-9409"
+address: "Av. Brigadeiro Faria Lima, 1811, conj. 115, Jardim Paulistano, São Paulo, SP, CEP 01452-001"
+
+# Preencher quando a conta do AdSense existir (formato ca-pub-0000000000000000).
+# Com o client preenchido o build injeta o script de anuncios automaticos e gera o ads.txt.
+adsense_client: ""
+# Opcional: slot de bloco manual dentro do artigo (depois da 2a secao).
+adsense_slot_artigo: ""
+# Opcional: Google Analytics 4 (G-XXXXXXX), carregado com consentimento.
+ga4_id: ""
+
+# Artigos em destaque na home, na ordem
+destaques:
+  - como-funciona-financiamento-imobiliario
+  - sac-ou-price
+  - fgts-na-compra-do-imovel
+  - minha-casa-minha-vida

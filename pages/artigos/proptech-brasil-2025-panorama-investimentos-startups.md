@@ -2,6 +2,8 @@
 
 > A revolução tecnológica que redefine o mercado imobiliário brasileiro com inovações e investimentos crescentes.
 
+**Atualização:** este artigo usa dados de 2025.
+
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.html

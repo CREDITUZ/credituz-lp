@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Simulador de financiamento imobiliário: SAC e Price | Guia Credituz</title>
+<meta name="description" content="Simule o financiamento do imóvel em SAC e Price: primeira e última parcela, total de juros e evolução do saldo, direto no navegador.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://guia.credituz.ai/simulador">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Guia Credituz">
+<meta property="og:title" content="Simulador de financiamento imobiliário: SAC e Price">
+<meta property="og:description" content="Simule o financiamento do imóvel em SAC e Price: primeira e última parcela, total de juros e evolução do saldo, direto no navegador.">
+<meta property="og:url" content="https://guia.credituz.ai/simulador">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/estilo.css?v=dce7aa8b">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Simulador de financiamento imobiliário: SAC e Price", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "inLanguage": "pt-BR", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "BRL"}, "url": "https://guia.credituz.ai/simulador"}</script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+<header class="top"><div class="wrap">
+<a class="brand" href="/" aria-label="Guia Credituz, página inicial"><img class="logo-light" src="/assets/logo-credituz.png" alt="Credituz" width="68" height="20"><img class="logo-dark" src="/assets/logo-credituz-branco.png" alt="" width="68" height="20"><span>Guia</span></a>
+<nav class="nav" aria-label="Principal"><a href="/" class="opt">Início</a><a href="/categoria/financiamento" class="opt">Financiamento</a><a href="/categoria/fgts" class="opt">FGTS</a><a href="/simulador" class=" on">Simulador</a><a href="/artigos" class="">Todos os guias</a></nav>
+</div></header>
+<main id="conteudo">
+<div class="tool-wrap"><nav class="crumbs"><a href="/">Início</a> / <a href="/categoria/financiamento">Financiamento</a></nav>
+<h1 style="font-size:clamp(1.9rem,4.4vw,2.75rem);letter-spacing:-.03em;margin:0 0 10px;font-weight:600">Simulador de financiamento imobiliário</h1>
+<p class="lede">Compare as tabelas SAC e Price com os seus números. O cálculo roda no seu navegador e nada é enviado.</p>
+
+<form class="form" id="f" onsubmit="return false">
+  <label>Valor do imóvel (R$)<input id="valor" inputmode="decimal" value="500.000"></label>
+  <label>Entrada (R$)<input id="entrada" inputmode="decimal" value="100.000"></label>
+  <label>Prazo (anos)<input id="anos" inputmode="numeric" value="30"></label>
+  <label>Juros efetivos ao ano (%)<input id="taxa" inputmode="decimal" value="12"></label>
+</form>
+<p class="warn" id="aviso" hidden></p>
+
+<div class="kpis" id="kpis"></div>
+
+<div class="body">
+<div class="tbl"><table>
+<thead><tr><th></th><th>SAC</th><th>Price</th></tr></thead>
+<tbody id="comp"></tbody>
+</table></div>
+</div>
+
+<h2 style="font-size:1.4rem;letter-spacing:-.02em;margin:28px 0 8px">Evolução ano a ano</h2>
+<p style="color:var(--gray-2);margin:0 0 10px">Parcela no primeiro mês de cada ano e saldo devedor no fim do ano.</p>
+<div class="body scroll"><div class="tbl" style="margin:0"><table>
+<thead><tr><th>Ano</th><th>Parcela SAC</th><th>Saldo SAC</th><th>Parcela Price</th><th>Saldo Price</th></tr></thead>
+<tbody id="anual"></tbody>
+</table></div></div>
+
+<div class="body" style="margin-top:32px">
+<h2>Como ler o resultado</h2>
+<p>No <strong>SAC</strong> (Sistema de Amortização Constante), você devolve a mesma parte da dívida todo mês e paga juros sobre o saldo que ainda deve. Por isso a parcela começa mais alta e cai a cada mês. Na <strong>Price</strong>, a parcela fica igual do começo ao fim: no início ela é quase toda juros, e a dívida diminui devagar.</p>
+<p>Com a mesma taxa e o mesmo prazo, o SAC costuma terminar com menos juros pagos no total, mas exige mais renda no começo, já que o banco aprova o crédito olhando a primeira parcela. A Price cabe melhor no orçamento inicial e custa mais no fim. A explicação completa, com exemplos, está no guia <a href="/artigos/sac-ou-price">SAC ou Price</a>.</p>
+<h2>O que esta simulação não inclui</h2>
+<ul>
+<li><strong>Seguros obrigatórios</strong> (MIP e DFI) e tarifa de administração, que entram na parcela real. Veja <a href="/artigos/seguros-mip-e-dfi">como funcionam os seguros do financiamento</a>.</li>
+<li><strong>Correção pela TR</strong> ou por outro índice, quando o contrato prevê. Com TR positiva, saldo e parcelas sobem um pouco.</li>
+<li><strong>Custos da compra</strong>, como ITBI, escritura e registro. Veja <a href="/artigos/custos-para-comprar-imovel">todos os custos para comprar um imóvel</a>.</li>
+</ul>
+<p>Use a taxa efetiva anual que aparece na proposta do banco. Para comparar propostas de bancos diferentes, compare o CET (Custo Efetivo Total), que soma juros, seguros e tarifas. A proposta oficial do banco é o número que vale.</p>
+</div>
+
+<script>
+(function(){
+var $=function(id){return document.getElementById(id)};
+var brl=new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:2});
+function num(v){v=String(v).replace(/[^\d,.-]/g,'');if(v.indexOf(',')>-1){v=v.replace(/\./g,'').replace(',','.')}else{v=v.replace(/\.(?=\d{3}(\D|$))/g,'')}var n=parseFloat(v);return isFinite(n)?n:0}
+function calc(){
+  var V=num($('valor').value),E=num($('entrada').value),anos=Math.round(num($('anos').value)),a=num($('taxa').value)/100;
+  var aviso=$('aviso'),P=V-E,n=anos*12;aviso.hidden=true;
+  if(P<=0||n<=0||a<0||n>600){aviso.textContent='Confira os valores: o financiamento precisa ser maior que zero e o prazo de até 50 anos.';aviso.hidden=false;$('kpis').innerHTML='';$('comp').innerHTML='';$('anual').innerHTML='';return}
+  var i=Math.pow(1+a,1/12)-1;
+  // SAC
+  var amort=P/n,s=P,jSac=0,sac1=0,sacN=0,rowsS=[];
+  for(var k=1;k<=n;k++){var j=s*i,p=amort+j;if(k===1)sac1=p;if(k===n)sacN=p;jSac+=j;if((k-1)%12===0)rowsS.push({p:p});s-=amort;if(k%12===0)rowsS[rowsS.length-1].s=Math.max(s,0)}
+  // Price
+  var pr=i===0?P/n:P*i/(1-Math.pow(1+i,-n)),s2=P,jPr=0,rowsP=[];
+  for(var k2=1;k2<=n;k2++){var j2=s2*i;jPr+=j2;if((k2-1)%12===0)rowsP.push({p:pr});s2-=(pr-j2);if(k2%12===0)rowsP[rowsP.length-1].s=Math.max(s2,0)}
+  var pct=E/V*100;
+  if(pct<20){aviso.textContent='Entrada de '+pct.toFixed(1).replace('.',',')+'% do valor. Muitos bancos exigem pelo menos 20% a 30% de entrada, conforme a modalidade.';aviso.hidden=false}
+  $('kpis').innerHTML=[['Valor financiado',brl.format(P)],['Primeira parcela SAC',brl.format(sac1)],['Parcela Price',brl.format(pr)],['Juros a menos no SAC',brl.format(jPr-jSac)]].map(function(x){return '<div class="kpi"><span>'+x[0]+'</span><b>'+x[1]+'</b></div>'}).join('');
+  $('comp').innerHTML=[
+    ['Primeira parcela',brl.format(sac1),brl.format(pr)],
+    ['Última parcela',brl.format(sacN),brl.format(pr)],
+    ['Total de juros',brl.format(jSac),brl.format(jPr)],
+    ['Total pago (financiado + juros)',brl.format(P+jSac),brl.format(P+jPr)],
+    ['Renda mínima estimada (parcela até 30% da renda)',brl.format(sac1/0.3),brl.format(pr/0.3)]
+  ].map(function(r){return '<tr><td>'+r[0]+'</td><td>'+r[1]+'</td><td>'+r[2]+'</td></tr>'}).join('');
+  var h='';for(var y=0;y<rowsS.length;y++){h+='<tr><td>'+(y+1)+'</td><td>'+brl.format(rowsS[y].p)+'</td><td>'+brl.format(rowsS[y].s||0)+'</td><td>'+brl.format(rowsP[y].p)+'</td><td>'+brl.format(rowsP[y].s||0)+'</td></tr>'}
+  $('anual').innerHTML=h;
+}
+['valor','entrada','anos','taxa'].forEach(function(id){$(id).addEventListener('input',calc)});
+calc();
+})();
+</script>
+</div>
+</main>
+<footer class="foot"><div class="wrap">
+<div class="cols">
+<div><h3>Guias</h3><ul><li><a href="/categoria/financiamento">Financiamento</a></li><li><a href="/categoria/fgts">FGTS</a></li><li><a href="/categoria/programas">Programas e regras</a></li><li><a href="/categoria/credito">Crédito e score</a></li><li><a href="/categoria/custos">Custos e documentos</a></li><li><a href="/categoria/alternativas">Alternativas</a></li><li><a href="/categoria/direitos">Seus direitos</a></li></ul></div>
+<div><h3>Ferramentas</h3><ul><li><a href="/simulador">Simulador de financiamento</a></li><li><a href="/quanto-posso-financiar">Quanto posso financiar</a></li></ul></div>
+<div><h3>Sobre</h3><ul><li><a href="/sobre">Quem somos e política editorial</a></li><li><a href="/contato">Contato</a></li><li><a href="/privacidade">Privacidade e cookies</a></li><li><a href="/termos">Termos de uso</a></li><li><a href="#" data-consent-open>Preferências de cookies</a></li></ul></div>
+</div>
+<p class="legal">Conteúdo informativo e educativo. Não é recomendação financeira, jurídica ou de investimento; regras, taxas e valores mudam e devem ser confirmados com o banco, o cartório ou um profissional antes de qualquer decisão. Guia Credituz é mantido por Credituz Tecnologia Ltda., CNPJ 51.934.531/0001-92. © 2026</p>
+</div></footer>
+<div class="consent" role="dialog" aria-live="polite" aria-label="Cookies" id="consent">
+<p>Usamos cookies essenciais e, se você permitir, cookies de anúncios e medição do Google para personalizar anúncios. Veja a <a href="/privacidade">política de privacidade</a>.</p>
+<div class="row"><button type="button" data-consent="all">Aceitar todos</button><button type="button" class="alt" data-consent="essential">Só essenciais</button></div>
+</div>
+<script>
+(function(){var k='guia_consent',b=document.getElementById('consent');
+function g(){try{return localStorage.getItem(k)}catch(e){return null}}
+function s(v){try{localStorage.setItem(k,v)}catch(e){}b.classList.remove('show');
+if(typeof gtag==='function'){var c=v==='all'?'granted':'denied';gtag('consent','update',{ad_storage:c,analytics_storage:c,ad_user_data:c,ad_personalization:c})}
+if(v==='all'&&window.adsbygoogle&&window.adsbygoogle.requestNonPersonalizedAds){location.reload()}}
+if(!g())b.classList.add('show');
+document.addEventListener('click',function(e){var t=e.target.closest('[data-consent]');if(t){s(t.getAttribute('data-consent'));return}
+if(e.target.closest('[data-consent-open]')){e.preventDefault();b.classList.add('show')}});
+})();
+</script>
+</body>
+</html>

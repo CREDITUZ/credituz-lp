@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quanto posso financiar? Calculadora pela renda e entrada | Guia Credituz</title>
+<meta name="description" content="Descubra o valor máximo de imóvel que cabe na sua renda e na sua entrada, com a regra de comprometimento de renda usada pelos bancos.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://guia.credituz.ai/quanto-posso-financiar">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Guia Credituz">
+<meta property="og:title" content="Quanto posso financiar? Calculadora pela renda e entrada">
+<meta property="og:description" content="Descubra o valor máximo de imóvel que cabe na sua renda e na sua entrada, com a regra de comprometimento de renda usada pelos bancos.">
+<meta property="og:url" content="https://guia.credituz.ai/quanto-posso-financiar">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/estilo.css?v=dce7aa8b">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Quanto posso financiar? Calculadora pela renda e entrada", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "inLanguage": "pt-BR", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "BRL"}, "url": "https://guia.credituz.ai/quanto-posso-financiar"}</script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+<header class="top"><div class="wrap">
+<a class="brand" href="/" aria-label="Guia Credituz, página inicial"><img class="logo-light" src="/assets/logo-credituz.png" alt="Credituz" width="68" height="20"><img class="logo-dark" src="/assets/logo-credituz-branco.png" alt="" width="68" height="20"><span>Guia</span></a>
+<nav class="nav" aria-label="Principal"><a href="/" class="opt">Início</a><a href="/categoria/financiamento" class="opt">Financiamento</a><a href="/categoria/fgts" class="opt">FGTS</a><a href="/simulador" class="">Simulador</a><a href="/artigos" class="">Todos os guias</a></nav>
+</div></header>
+<main id="conteudo">
+<div class="tool-wrap"><nav class="crumbs"><a href="/">Início</a> / <a href="/categoria/financiamento">Financiamento</a></nav>
+<h1 style="font-size:clamp(1.9rem,4.4vw,2.75rem);letter-spacing:-.03em;margin:0 0 10px;font-weight:600">Quanto posso financiar?</h1>
+<p class="lede">Informe a renda e a entrada para estimar o valor de imóvel que cabe no seu bolso. O cálculo roda no seu navegador e nada é enviado.</p>
+
+<form class="form" onsubmit="return false">
+  <label>Renda bruta mensal (R$)<input id="renda" inputmode="decimal" value="12.000"></label>
+  <label>Entrada disponível (R$)<input id="entrada" inputmode="decimal" value="80.000"></label>
+  <label>Prazo (anos)<input id="anos" inputmode="numeric" value="30"></label>
+  <label>Juros efetivos ao ano (%)<input id="taxa" inputmode="decimal" value="12"></label>
+  <label>Parte da renda na parcela (%)<input id="comp" inputmode="decimal" value="30"></label>
+  <label>Banco financia até (% do imóvel)<input id="cota" inputmode="decimal" value="80"></label>
+  <label>Tabela
+    <select id="tab"><option value="sac">SAC (parcela decrescente)</option><option value="price">Price (parcela fixa)</option></select>
+  </label>
+</form>
+
+<div class="kpis" id="kpis"></div>
+<p id="explica" style="color:var(--gray-2)"></p>
+
+<div class="body" style="margin-top:28px">
+<h2>Como o cálculo funciona</h2>
+<p>Os bancos limitam a parcela a uma fatia da renda bruta, em geral perto de 30%. A calculadora parte dessa parcela máxima e volta ao valor que dá para pegar emprestado com a taxa e o prazo informados. No SAC, quem limita é a primeira parcela, que é a maior de todas; na Price, a parcela é a mesma do começo ao fim.</p>
+<p>Depois entra a segunda trava: o banco só financia uma parte do valor do imóvel (a cota de financiamento), e o resto sai da sua entrada. O valor máximo do imóvel é o menor entre os dois limites. Se a entrada for pequena, ela é que segura o valor; se a renda for baixa, é a parcela.</p>
+<h2>Por que o número real pode ser menor</h2>
+<ul>
+<li>Seguros obrigatórios e tarifas entram na parcela e consomem parte da margem. Veja <a href="/artigos/seguros-mip-e-dfi">seguros MIP e DFI</a>.</li>
+<li>Dívidas que você já tem, como financiamento de carro ou empréstimo consignado, também contam no limite de renda.</li>
+<li>Idade, prazo máximo, score e a avaliação do imóvel podem reduzir o crédito. Veja <a href="/artigos/renda-para-financiar-imovel">quanto preciso ganhar para financiar</a> e <a href="/artigos/entrada-para-financiar-imovel">quanto de entrada é preciso</a>.</li>
+<li>Além da entrada, guarde dinheiro para ITBI, escritura e registro, que somam alguns pontos percentuais do valor do imóvel.</li>
+</ul>
+<p>Para ver as parcelas mês a mês, use o <a href="/simulador">simulador de financiamento</a>.</p>
+</div>
+
+<script>
+(function(){
+var $=function(id){return document.getElementById(id)};
+var brl=new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL',maximumFractionDigits:0});
+function num(v){v=String(v).replace(/[^\d,.-]/g,'');if(v.indexOf(',')>-1){v=v.replace(/\./g,'').replace(',','.')}else{v=v.replace(/\.(?=\d{3}(\D|$))/g,'')}var n=parseFloat(v);return isFinite(n)?n:0}
+function calc(){
+  var R=num($('renda').value),E=num($('entrada').value),n=Math.round(num($('anos').value))*12,a=num($('taxa').value)/100,c=num($('comp').value)/100,q=num($('cota').value)/100,t=$('tab').value;
+  if(R<=0||n<=0||n>600||c<=0||q<=0||q>1){$('kpis').innerHTML='';$('explica').textContent='Confira os valores informados.';return}
+  var i=Math.pow(1+a,1/12)-1,parc=R*c,P;
+  if(t==='sac'){P=parc/(1/n+i)}else{P=i===0?parc*n:parc*(1-Math.pow(1+i,-n))/i}
+  var porRenda=P+E,porEntrada=q<1?E/(1-q):Infinity,V=Math.min(porRenda,porEntrada),fin=V-E;
+  $('kpis').innerHTML=[['Imóvel de até',brl.format(V)],['Valor financiado',brl.format(fin)],['Parcela inicial estimada',brl.format(t==='sac'?fin*(1/n+i):(i===0?fin/n:fin*i/(1-Math.pow(1+i,-n))))],['Sua entrada',brl.format(E)]].map(function(x){return '<div class="kpi"><span>'+x[0]+'</span><b>'+x[1]+'</b></div>'}).join('');
+  $('explica').textContent=porRenda<=porEntrada
+    ?'Quem limita aqui é a renda: com parcela de até '+brl.format(parc)+' dá para financiar cerca de '+brl.format(P)+'. Mais entrada aumenta o valor do imóvel na mesma medida.'
+    :'Quem limita aqui é a entrada: com o banco financiando até '+Math.round(q*100)+'% do imóvel, a sua entrada cobre um imóvel de até '+brl.format(porEntrada)+'. A renda comportaria um financiamento de até '+brl.format(P)+'.';
+}
+['renda','entrada','anos','taxa','comp','cota','tab'].forEach(function(id){$(id).addEventListener('input',calc)});
+calc();
+})();
+</script>
+</div>
+</main>
+<footer class="foot"><div class="wrap">
+<div class="cols">
+<div><h3>Guias</h3><ul><li><a href="/categoria/financiamento">Financiamento</a></li><li><a href="/categoria/fgts">FGTS</a></li><li><a href="/categoria/programas">Programas e regras</a></li><li><a href="/categoria/credito">Crédito e score</a></li><li><a href="/categoria/custos">Custos e documentos</a></li><li><a href="/categoria/alternativas">Alternativas</a></li><li><a href="/categoria/direitos">Seus direitos</a></li></ul></div>
+<div><h3>Ferramentas</h3><ul><li><a href="/simulador">Simulador de financiamento</a></li><li><a href="/quanto-posso-financiar">Quanto posso financiar</a></li></ul></div>
+<div><h3>Sobre</h3><ul><li><a href="/sobre">Quem somos e política editorial</a></li><li><a href="/contato">Contato</a></li><li><a href="/privacidade">Privacidade e cookies</a></li><li><a href="/termos">Termos de uso</a></li><li><a href="#" data-consent-open>Preferências de cookies</a></li></ul></div>
+</div>
+<p class="legal">Conteúdo informativo e educativo. Não é recomendação financeira, jurídica ou de investimento; regras, taxas e valores mudam e devem ser confirmados com o banco, o cartório ou um profissional antes de qualquer decisão. Guia Credituz é mantido por Credituz Tecnologia Ltda., CNPJ 51.934.531/0001-92. © 2026</p>
+</div></footer>
+<div class="consent" role="dialog" aria-live="polite" aria-label="Cookies" id="consent">
+<p>Usamos cookies essenciais e, se você permitir, cookies de anúncios e medição do Google para personalizar anúncios. Veja a <a href="/privacidade">política de privacidade</a>.</p>
+<div class="row"><button type="button" data-consent="all">Aceitar todos</button><button type="button" class="alt" data-consent="essential">Só essenciais</button></div>
+</div>
+<script>
+(function(){var k='guia_consent',b=document.getElementById('consent');
+function g(){try{return localStorage.getItem(k)}catch(e){return null}}
+function s(v){try{localStorage.setItem(k,v)}catch(e){}b.classList.remove('show');
+if(typeof gtag==='function'){var c=v==='all'?'granted':'denied';gtag('consent','update',{ad_storage:c,analytics_storage:c,ad_user_data:c,ad_personalization:c})}
+if(v==='all'&&window.adsbygoogle&&window.adsbygoogle.requestNonPersonalizedAds){location.reload()}}
+if(!g())b.classList.add('show');
+document.addEventListener('click',function(e){var t=e.target.closest('[data-consent]');if(t){s(t.getAttribute('data-consent'));return}
+if(e.target.closest('[data-consent-open]')){e.preventDefault();b.classList.add('show')}});
+})();
+</script>
+</body>
+</html>

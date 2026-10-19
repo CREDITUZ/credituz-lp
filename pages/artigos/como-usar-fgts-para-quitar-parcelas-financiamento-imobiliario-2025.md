@@ -2,6 +2,8 @@
 
 > Desvende as regras atualizadas e maximize o uso do seu Fundo de Garantia para aliviar o peso das prestações da casa própria.
 
+**Atualização:** este artigo usa regras e números de 2025. A versão revisada em outubro de 2026, para quem vai comprar, está no Guia Credituz: [https://guia.credituz.ai/artigos/fgts-para-amortizar-financiamento](https://guia.credituz.ai/artigos/fgts-para-amortizar-financiamento).
+
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html

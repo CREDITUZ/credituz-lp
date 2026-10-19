@@ -1,0 +1,51 @@
+# Guia Credituz
+
+> Guias práticos sobre financiamento imobiliário, FGTS, juros, custos e direitos de quem compra imóvel, com dados atualizados e fontes oficiais.
+
+## Financiamento
+- [Taxa de juros do financiamento imobiliário em 2026](https://guia.credituz.ai/artigos/taxa-de-juros-financiamento-imobiliario): Quanto estão os juros do financiamento imobiliário em outubro de 2026, como Selic e TR influenciam a taxa e como comparar bancos pelo CET sem cair em pegadinha.
+- [SAC ou Price: qual tabela escolher no financiamento do imóvel](https://guia.credituz.ai/artigos/sac-ou-price): Veja a diferença entre SAC e Price com simulação: parcela inicial, juros totais, saldo devedor, renda exigida e em que situação cada sistema faz mais sentido.
+- [Renda para financiar imóvel: quanto preciso ganhar](https://guia.credituz.ai/artigos/renda-para-financiar-imovel): Quanto você precisa ganhar para financiar um imóvel em 2026: a regra dos 30%, como o banco calcula a renda, o peso das dívidas e simulações por faixa de valor.
+- [Renda composta: como somar rendas para financiar um imóvel](https://guia.credituz.ai/artigos/renda-composta): Veja quem pode somar renda no financiamento imobiliário, como o banco calcula a parcela máxima, o efeito da idade e os riscos de dividir a dívida.
+- [Portabilidade do financiamento imobiliário: quando vale a pena](https://guia.credituz.ai/artigos/portabilidade-financiamento-imobiliario): Entenda como levar o financiamento do imóvel para outro banco, as regras do Banco Central, os custos envolvidos e como calcular se a troca compensa.
+- [Imóvel na planta ou pronto: diferenças no crédito e no risco](https://guia.credituz.ai/artigos/imovel-na-planta-ou-pronto): Compare comprar imóvel na planta ou pronto: como funciona o crédito em cada caso, correção pelo INCC, juros de obra, riscos e qual escolher para o seu perfil.
+- [Entrada para financiar imóvel: quanto é preciso em 2026](https://guia.credituz.ai/artigos/entrada-para-financiar-imovel): Quanto de entrada você precisa para financiar um imóvel em 2026, como funciona a cota de financiamento na Caixa e nos bancos privados e onde a conta pode furar.
+- [Como funciona o financiamento imobiliário: guia completo](https://guia.credituz.ai/artigos/como-funciona-financiamento-imobiliario): Entenda como funciona o financiamento imobiliário em 2026: entrada, renda, juros, SFH e SFI, SAC ou Price, etapas da aprovação e custos que pesam no bolso.
+- [Autônomo e MEI: como comprovar renda para financiar imóvel](https://guia.credituz.ai/artigos/financiamento-autonomo-mei): Saiba quais documentos autônomos e MEI usam para comprovar renda no financiamento imobiliário, como o banco calcula a renda e como se preparar.
+- [Amortizar o financiamento: reduzir o prazo ou a parcela?](https://guia.credituz.ai/artigos/amortizar-financiamento-prazo-ou-parcela): Veja como funciona a amortização extraordinária do financiamento imobiliário, quanto se economiza ao reduzir prazo ou parcela e como escolher a melhor opção.
+
+## FGTS
+- [Saque-aniversário e financiamento: dá para usar o FGTS no imóvel?](https://guia.credituz.ai/artigos/saque-aniversario-e-financiamento): Quem aderiu ao saque-aniversário pode usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação de 2026.
+- [FGTS para amortizar o financiamento: prazo, parcela ou quitação](https://guia.credituz.ai/artigos/fgts-para-amortizar-financiamento): Como usar o FGTS para amortizar ou quitar o financiamento do imóvel, a regra dos 2 anos, o pagamento de até 80% da parcela por 12 meses e qual opção economiza mais.
+- [FGTS na compra do imóvel: regras, limites e como usar em 2026](https://guia.credituz.ai/artigos/fgts-na-compra-do-imovel): Quem pode usar o FGTS na compra da casa própria em 2026, qual o valor máximo do imóvel, que tipo de imóvel aceita e como o saldo reduz a entrada e a parcela.
+
+## Programas e regras
+- [SFH e SFI: diferenças, limites e regras do financiamento em 2026](https://guia.credituz.ai/artigos/sfh-e-sfi): Entenda a diferença entre SFH e SFI em 2026: teto de R$ 2,25 milhões, custo limitado a 12% ao ano, uso do FGTS e quando seu financiamento cai em cada sistema.
+- [Minha Casa Minha Vida 2026: faixas, renda, juros e subsídio](https://guia.credituz.ai/artigos/minha-casa-minha-vida): Faixas de renda do Minha Casa Minha Vida em 2026, teto do imóvel, juros, subsídio, quem pode participar e como se inscrever pela prefeitura ou pela Caixa.
+
+## Crédito e score
+- [Score para financiamento imobiliário: o que o banco avalia](https://guia.credituz.ai/artigos/score-para-financiamento-imobiliario): Não existe score mínimo oficial para financiar imóvel. Veja como o banco usa o score, o que mais pesa na análise e como melhorar a pontuação antes do pedido.
+- [Nome sujo: dá para fazer financiamento imobiliário?](https://guia.credituz.ai/artigos/nome-sujo-financiamento-imobiliario): Com o CPF negativado, a aprovação do financiamento imobiliário fica muito difícil. Veja por que, quais saídas existem e como limpar o nome antes do pedido.
+- [Financiamento negado: por que o banco recusa e o que fazer](https://guia.credituz.ai/artigos/financiamento-negado): Entenda os motivos mais comuns de financiamento imobiliário negado, como descobrir qual foi o seu, quanto esperar e o que ajustar antes de tentar de novo.
+- [Cadastro Positivo e Open Finance: como ajudam no crédito](https://guia.credituz.ai/artigos/cadastro-positivo-e-open-finance): Como o Cadastro Positivo e o Open Finance mostram ao banco que você paga em dia, o que a lei garante sobre seus dados e quando compartilhar ajuda a financiar.
+
+## Custos e documentos
+- [Seguros MIP e DFI: o que cobrem e quanto pesam na parcela](https://guia.credituz.ai/artigos/seguros-mip-e-dfi): Seguros MIP e DFI do financiamento imobiliário: o que cobrem, como o valor é calculado, se dá para escolher a seguradora e como pedir a indenização.
+- [ITBI: quem paga, como calcular e o desconto no financiamento](https://guia.credituz.ai/artigos/itbi): Entenda o ITBI na compra do imóvel: alíquotas de São Paulo, Rio, BH e DF em 2026, base de cálculo após o Tema 1.113 do STJ e o desconto no financiamento SFH.
+- [Documentos para financiamento imobiliário: checklist completo](https://guia.credituz.ai/artigos/documentos-para-financiamento): Lista de documentos do comprador, do vendedor e do imóvel para o financiamento imobiliário, com prazos de validade e cuidados para não atrasar a análise.
+- [Custos para comprar imóvel: o que pagar além da entrada](https://guia.credituz.ai/artigos/custos-para-comprar-imovel): Os custos da compra de imóvel além da entrada em 2026: ITBI, cartório, avaliação do banco e seguros, com exemplo calculado e onde consultar cada valor.
+- [Avaliação do imóvel pelo banco: como funciona e se vier baixa](https://guia.credituz.ai/artigos/avaliacao-do-imovel-pelo-banco): Como o banco avalia o imóvel no financiamento, quanto custa a tarifa e o que fazer se o laudo vier abaixo do preço para não perder a compra, com exemplo.
+
+## Alternativas
+- [Home equity: como funciona o crédito com garantia de imóvel](https://guia.credituz.ai/artigos/home-equity): Entenda o home equity: quanto dá para pegar, taxas de 2026, o que muda com o Marco Legal das Garantias e o risco real de perder o imóvel se a parcela atrasar.
+- [Consórcio ou financiamento: qual vale mais para comprar imóvel](https://guia.credituz.ai/artigos/consorcio-ou-financiamento): Compare consórcio e financiamento imobiliário com uma simulação real: custo total, prazo até a chave, reajuste das parcelas e quando cada um faz sentido.
+- [Alugar ou comprar imóvel: como fazer a conta em 2026](https://guia.credituz.ai/artigos/alugar-ou-comprar): Como comparar alugar e comprar imóvel com Selic, CDI, aluguel e valorização de outubro de 2026, com simulação de 10 anos à vista e financiada.
+
+## Seus direitos
+- [Juros de obra: o que é a taxa de evolução e como pagar menos](https://guia.credituz.ai/artigos/juros-de-obra): Entenda os juros de obra (taxa de evolução de obra) no financiamento na planta: como são calculados, por que a parcela sobe, quando param e o que diz o STJ.
+- [Distrato de imóvel na planta: quanto você recebe de volta](https://guia.credituz.ai/artigos/distrato-imovel-na-planta): Veja o que a Lei do Distrato permite reter (até 25% ou 50%), os prazos de devolução, o direito de arrependimento de 7 dias e um exemplo com números.
+- [Atraso na entrega do imóvel: prazo de tolerância e direitos](https://guia.credituz.ai/artigos/atraso-na-entrega-do-imovel): Saiba quando o atraso da obra passa a gerar direitos: a tolerância de 180 dias, a multa de 1% ao mês, o distrato com devolução integral e o que diz o STJ.
+
+## Ferramentas
+- [Simulador de financiamento](https://guia.credituz.ai/simulador)
+- [Quanto posso financiar](https://guia.credituz.ai/quanto-posso-financiar)

@@ -2,6 +2,8 @@
 
 > Um guia completo sobre as inovações no financiamento imobiliário para incorporadoras e investidores.
 
+**Atualização:** este artigo usa dados de 2025.
+
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.html

@@ -212,6 +212,10 @@ def main():
             errors.append(f"domínio antigo encontrado em {path.relative_to(ROOT)}")
 
     for path in ROOT.rglob("*.html"):
+        # guia/ e o portal guia.credituz.ai (dominio proprio, URLs limpas); validado por
+        # scripts/build_guia.py --check
+        if path.relative_to(ROOT).parts[0] in {"guia", "guia-src"}:
+            continue
         parser = PageParser()
         parser.feed(path.read_text(encoding="utf-8"))
         for href in parser.anchors:

@@ -25,8 +25,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install guia build deps
+        run: python -m pip install markdown==3.10.3 pyyaml==6.0.3
       - name: Validate SEO, GEO and generated indexes
         run: |
+          python3 scripts/build_guia.py --check
           python3 scripts/validate_seo.py
           python3 scripts/sync_home_schema.py --check
           python3 scripts/render_blog_index.py --check

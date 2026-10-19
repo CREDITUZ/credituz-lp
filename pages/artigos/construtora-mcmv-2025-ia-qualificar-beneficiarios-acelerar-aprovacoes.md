@@ -2,6 +2,8 @@
 
 > Descubra como a Inteligência Artificial pode revolucionar a qualificação de beneficiários e a aprovação de crédito para construtoras no Minha Casa, Minha Vida 2025.
 
+**Atualização:** este artigo usa dados de 2025. As regras do programa revisadas em outubro de 2026, do ponto de vista de quem vai comprar, estão no Guia Credituz: [https://guia.credituz.ai/artigos/minha-casa-minha-vida](https://guia.credituz.ai/artigos/minha-casa-minha-vida).
+
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
 - Canonical: https://credituz.ai/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.html
