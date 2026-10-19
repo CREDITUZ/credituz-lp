@@ -15,7 +15,7 @@ faq:
   - q: "Dá para financiar imóvel de leilão da Caixa?"
     a: "Em alguns lotes, sim. O edital e a página de cada imóvel dizem se ele aceita financiamento e FGTS ou só pagamento à vista. Quem vai financiar deve fazer a análise de crédito antes de dar o lance."
   - q: "Quem paga as dívidas de condomínio e IPTU do imóvel de leilão?"
-    a: "Depende do edital. A Caixa informa que, nas compras em leilão, condomínio e IPTU ficam por conta do comprador. Alguns editais limitam essa responsabilidade a um percentual do valor de avaliação. Leia o lote antes de dar o lance."
+    a: "Depende do edital. A Caixa informa que, nas compras em leilão, condomínio e IPTU ficam por conta do comprador. Alguns editais de 2026 limitaram essa responsabilidade a 10% do valor de avaliação. Leia o lote antes de dar o lance."
   - q: "O que acontece se o imóvel de leilão estiver ocupado?"
     a: "A desocupação é responsabilidade do comprador. Sem acordo, é preciso ação judicial. A Lei 9.514/1997 prevê liminar com prazo de 60 dias para desocupar, mas o processo pode demorar mais."
   - q: "Quanto custa a comissão do leiloeiro na Caixa?"
@@ -35,6 +35,8 @@ sources:
     url: "https://seucreditodigital.com.br/leilao-caixa-596-imoveis-outubro-2026/"
   - title: "Leilão da Caixa oferece 1.605 imóveis com até 67% de desconto (Diário do Pará, 23/06/2026)"
     url: "https://diariodopara.com.br/seu-bolso/leilao-da-caixa-oferece-1-605-imoveis-com-ate-67-de-desconto/"
+  - title: "A Lei Complementar 227/2026 e o contencioso sobre a base de cálculo do ITBI (Pinheiro Guimarães, 23/07/2026)"
+    url: "https://pinheiroguimaraes.com.br/publicacoes/a-lei-complementar-227-2026-e-uma-nova-fase-do-contencioso-sobre-a-base-de-calculo-do-itbi/"
   - title: "STJ, Tema 1.113: base de cálculo do ITBI"
     url: "https://juris.damasio.com.br/temas/stj/1113"
 related: [venda-direta-caixa, itbi, custos-para-comprar-imovel, financiamento-caixa]
@@ -53,11 +55,11 @@ A lei define o roteiro, na redação dada pela Lei 14.711/2023 (Marco Legal das 
 | Etapa | O que diz a lei |
 |---|---|
 | Prazo para o primeiro leilão | até 60 dias depois do registro da consolidação |
-| Primeiro leilão | lance mínimo igual ao valor do imóvel fixado no contrato |
+| Primeiro leilão | lance mínimo igual ao valor do imóvel fixado no contrato, ou à base de cálculo do ITBI, se ela for maior |
 | Segundo leilão | em até 15 dias, se ninguém cobriu o valor no primeiro |
 | Lance no segundo leilão | aceito se cobrir a dívida, despesas, seguros, tributos e condomínio |
 | Se ninguém cobrir a dívida | o banco pode aceitar lance de pelo menos metade do valor de avaliação |
-| Antigo dono | tem preferência para recomprar até a data do segundo leilão, pagando à vista |
+| Antigo dono | tem preferência para recomprar até a data do segundo leilão, pagando a dívida, as despesas e os tributos da retomada |
 
 É essa sequência que gera os descontos. Se o imóvel não vende nos dois leilões, ele volta à vitrine da Caixa em outras modalidades, como licitação aberta, venda online e compra direta, às vezes com preço ainda menor.
 
@@ -69,7 +71,7 @@ O portal de venda de imóveis da Caixa organiza as ofertas em modalidades. As qu
 
 | Modalidade | Como funciona | Comissão do leiloeiro | Condomínio e IPTU |
 |---|---|---|---|
-| Leilão SFI (1º e 2º) | sessão online numa plataforma de leiloeiro credenciado, na data do edital | 5% do lance | por conta do comprador, pela regra geral da Caixa |
+| Leilão SFI (1º e 2º) | sessão online numa plataforma de leiloeiro credenciado, na data do edital | 5% do lance | por conta do comprador, pela regra geral da Caixa, salvo limite no edital |
 | Licitação aberta | disputa online de propostas, também por leiloeiro credenciado | 5% do lance | conforme o edital |
 | Venda online | disputa por lances no portal da Caixa, com cronômetro | não há | conforme a página do imóvel |
 | Compra direta | sem disputa: leva quem paga primeiro o valor mínimo | não há | conforme a página do imóvel |
@@ -88,7 +90,7 @@ O que costuma acontecer na prática:
 
 1. **Antes do lance**, a Caixa orienta fazer a análise de risco de crédito e a conferência das condições do FGTS numa agência, num correspondente ou nos canais digitais. Quem dá o lance sem crédito aprovado corre o risco de ter a compra cancelada e de perder valores pagos.
 2. **Depois da arrematação**, você paga a parte não financiada e a comissão, e o financiamento segue o rito normal: avaliação do imóvel, assinatura e registro.
-3. **O FGTS segue as regras de sempre:** 3 anos de carteira assinada, imóvel residencial urbano na cidade onde você mora ou trabalha, não ter outro imóvel nessa cidade e valor dentro do teto do SFH. As regras estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
+3. **O FGTS segue as regras de sempre:** 3 anos de trabalho com depósito no FGTS, somando todos os empregos, imóvel residencial urbano na cidade onde você mora ou trabalha, não ter outro imóvel nessa cidade e valor dentro do teto do SFH. As regras estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
 Lotes ocupados, com problema de documentação ou com pendência judicial podem aceitar só pagamento à vista. Se você depende de financiamento, filtre desde o início pelos lotes que aceitam crédito. As condições gerais de crédito do banco estão em [financiamento da Caixa](/artigos/financiamento-caixa).
 
@@ -127,13 +129,13 @@ O desconto que parecia de 40% virou 34% no melhor caso e 16% no pior, sem contar
 
 A ocupação é o maior risco. A Caixa informa que a desocupação é responsabilidade do comprador. Se não houver acordo com quem mora lá, o caminho é judicial.
 
-A Lei 9.514/1997 dá ao comprador direito a uma ordem liminar de desocupação em 60 dias, desde que comprovada a consolidação da propriedade. Na prática, entre entrar com a ação, conseguir a decisão e cumpri-la, o prazo pode ser bem maior. A mesma lei prevê que o ocupante pague uma taxa de ocupação de 1% ao mês sobre o valor do imóvel enquanto não sair, mas receber esse valor de quem perdeu o imóvel por dívida nem sempre é viável.
+A Lei 9.514/1997 dá ao comprador direito a uma ordem liminar de desocupação em 60 dias, desde que comprovada a consolidação da propriedade. Na prática, entre entrar com a ação, conseguir a decisão e cumpri-la, o prazo pode ser bem maior. A mesma lei prevê que o ocupante pague uma taxa de ocupação de 1% ao mês sobre o valor de referência do imóvel no leilão, contada desde a consolidação até a desocupação, mas receber esse valor de quem perdeu o imóvel por dívida nem sempre é viável.
 
 Muitas vezes o caminho mais rápido é um acordo, com ajuda de mudança ou prazo combinado, por escrito. Consulte um advogado antes de dar o lance em imóvel ocupado.
 
 ### Dívidas de condomínio e IPTU
 
-Dívida de condomínio acompanha o imóvel, ou seja, passa ao novo dono. A regra da Caixa para leilão é que o comprador assume condomínio e IPTU. Alguns editais de 2026, porém, limitaram a responsabilidade do comprador a 10% do valor de avaliação, com a Caixa pagando o excesso. Não confie em regra geral: o que vale é o edital do lote.
+Dívida de condomínio acompanha o imóvel, ou seja, passa ao novo dono. A regra geral que a Caixa informa para leilão é que o comprador assume condomínio e IPTU. Alguns editais de 2026 foram mais favoráveis: no leilão nacional de junho, segundo o Diário do Pará, o comprador respondia pelo condomínio só até 10% do valor de avaliação, com a Caixa pagando o excesso, e o IPTU acima desse percentual ficava com a Caixa. Não confie em regra geral: o que vale é o edital do lote.
 
 Antes do lance, peça ao corretor ou consulte diretamente a administradora do condomínio e a prefeitura sobre o valor em aberto.
 
