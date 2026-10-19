@@ -4,7 +4,7 @@ description: "Não existe atalho garantido para subir o score. Veja o que de fat
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Nenhum bureau promete prazo para o score subir: a Serasa diz que a nota é recalculada sem data fixa."
   - "A ação mais rápida costuma ser quitar ou negociar uma dívida negativada; o resto depende de meses de comportamento."

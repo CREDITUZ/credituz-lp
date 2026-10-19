@@ -33,6 +33,8 @@ sources:
     url: "https://www.quod.com.br/"
   - title: "Lei 12.414/2011 (Lei do Cadastro Positivo), redação atual"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
+  - title: "Oficina da Net: birôs de crédito e a Quod, administrada pelos cinco maiores bancos"
+    url: "https://www.oficinadanet.com.br/bancos-digitais/37103-4-biros-de-credito-para-verificar-seu-score-online"
   - title: "Mobills: como consultar o score do SPC (set. 2025)"
     url: "https://www.mobills.com.br/blog/sair-das-dividas/score-spc/"
 related: [score-para-financiamento-imobiliario, aumentar-score-rapido, registrato, cadastro-positivo-e-open-finance]
@@ -127,6 +129,17 @@ O score resume o seu risco, mas não mostra tudo o que o banco vai olhar:
 - **Protestos em cartório.** Consulte na central nacional de protestos (CENPROT) ou no cartório da sua cidade.
 - **Débitos com a União (Cadin).** Aparecem no Registrato, na opção de dívidas com órgãos públicos federais.
 - **Renda e comprometimento.** Nenhum bureau sabe quanto da sua renda a nova parcela vai consumir. Faça essa conta na [calculadora de quanto posso financiar](/quanto-posso-financiar).
+
+## Com que frequência consultar
+
+Não há regra oficial, mas alguns momentos fazem sentido:
+
+- **Uma vez, agora, nos quatro bureaus.** Serve de linha de base: você descobre pendências e vê de onde está partindo.
+- **Depois de quitar ou fazer acordo.** Espere o prazo de baixa (até 5 dias úteis após a confirmação do pagamento) e confira se o registro saiu em todos os bureaus em que aparecia.
+- **A cada um ou dois meses durante a preparação.** A Serasa informa que a nota não tem data fixa de atualização, então olhar todo dia só gera ansiedade. Olhar com intervalo ajuda a ver tendência.
+- **Pouco antes do pedido formal.** Uma última conferência evita surpresa na análise.
+
+Se você vai comprar com outra pessoa, por exemplo com renda composta, cada participante precisa fazer a própria consulta. O banco analisa todos os CPFs da proposta, e uma pendência em qualquer um deles pode travar o pedido. Combine com quem vai financiar com você de cada um conferir os quatro bureaus e o Registrato antes de escolher o imóvel.
 
 ## Cuidados para não cair em golpe
 
