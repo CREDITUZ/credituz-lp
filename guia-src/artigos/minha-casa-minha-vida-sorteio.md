@@ -1,6 +1,6 @@
 ---
 title: "Minha Casa Minha Vida: como funciona a seleção e o sorteio"
-description: "A seleção da Faixa 1 do Minha Casa Minha Vida não é sorteio pela regra federal. Veja como a fila é montada, quando há sorteio municipal e como conferir o edital."
+description: "A Faixa 1 do Minha Casa Minha Vida não tem sorteio pela regra federal. Veja como a fila é montada, quando há sorteio municipal e como conferir o edital."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
@@ -72,7 +72,7 @@ Como a regra federal não prevê sorteio, ele aparece nos editais municipais, ge
 
 Outro exemplo, de 2016, é o de Caraguatatuba (SP). O regulamento organizava as famílias em três grupos conforme o número de critérios: 60% das unidades para o grupo com quatro a seis critérios, 25% para dois ou três critérios e 15% para um critério. O sorteio era feito dentro de cada grupo, em sessão aberta com representantes do conselho municipal, dos órgãos de controle e da Caixa. Esse regulamento é antigo e segue outra portaria, a 412/2015, por isso serve apenas como ilustração de como um sorteio municipal pode funcionar.
 
-Os dois casos mostram que o sorteio não substitui a classificação: ele é uma forma de escolher entre famílias do mesmo grupo de prioridade.
+Os dois casos mostram que o sorteio não substitui a classificação: ele é uma forma de escolher entre famílias do mesmo grupo de prioridade. Em Jundiaí, a lista final só foi publicada depois da validação pela Caixa, o que reforça a importância de manter a documentação em dia desde o início.
 
 ## Como conferir a sua posição
 

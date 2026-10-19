@@ -1,6 +1,6 @@
 ---
 title: "Minha Casa Minha Vida Rural: quem pode, subsídio e como entrar"
-description: "Como funciona o Minha Casa Minha Vida Rural em 2026: renda anual, subsídio para construir ou melhorar a casa, contrapartida, documentos da terra e entidade organizadora."
+description: "Como funciona o MCMV Rural em 2026: renda anual, subsídio para construir ou melhorar a casa, contrapartida de 1%, documentos da terra e entidade organizadora."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
@@ -130,7 +130,7 @@ Isso significa que, mesmo com subsídio, a família deve esperar um diagnóstico
 
 ## Como a melhoria é organizada
 
-A melhoria é feita por kits predefinidos, e não por orçamento livre. Isso reduz a discussão sobre o que pode ser trocado e padroniza a execução. Em uma casa com cobertura ruim e sem banheiro exclusivo, por exemplo, o kit pode incluir telhado, instalação sanitária e revestimento, dentro do limite de R$ 50.000 fora do Norte.
+A melhoria é feita por kits predefinidos, e não por orçamento livre, conforme a Portaria 1.160/2025. Isso reduz a discussão sobre o que pode ser trocado e padroniza a execução. O valor máximo do subsídio para melhoria é de R$ 50.000 fora do Norte, e os itens do kit precisam caber nesse limite.
 
 Cabe à família confirmar o que está no kit antes de assinar, porque o contrato define o que será entregue. A contrapartida física, se houver, precisa estar descrita no contrato e aceita por escrito.
 

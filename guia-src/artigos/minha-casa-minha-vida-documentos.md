@@ -1,6 +1,6 @@
 ---
 title: "Documentos para o Minha Casa Minha Vida: checklist por caminho"
-description: "Quais documentos o Minha Casa Minha Vida pede em 2026: CadÚnico e prefeitura, comprovação de renda, posse do imóvel, documentos de PcD e o que o banco confere."
+description: "Documentos do Minha Casa Minha Vida em 2026: CadÚnico e prefeitura, comprovação de renda, posse do imóvel, documentos de PcD e o que o banco confere."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
@@ -102,7 +102,7 @@ Nas faixas com financiamento, a análise é do banco, e a lista segue o padrão 
 - **Documento vencido:** certidões e certificados precisam estar dentro do prazo exigido pelo edital ou pela entidade.
 - **Documento errado:** dados divergentes entre o CadÚnico e os papéis atrasam a análise.
 
-Guarde cópias organizadas por pessoa e por tipo de documento. Quando a análise pedir complemento, você consegue responder rápido.
+Guarde cópias organizadas por pessoa e por tipo de documento. Quando a análise pedir complemento, você consegue responder rápido. Se algum documento precisar ser refeito, anote o motivo e a data, para não repetir o erro na próxima etapa.
 
 ## Exemplo ilustrativo
 
@@ -136,13 +136,13 @@ Organizar os papéis antes de começar economiza tempo e evita pedidos de comple
 
 No modelo de entidades, a família não passa diretamente pela prefeitura. A entidade organizadora monta uma lista de beneficiários e a envia com a comprovação de elegibilidade, conforme a IN 28/2023. Depois, a Caixa confere os dados e o agente financeiro verifica os documentos antes da assinatura, segundo a Portaria 959/2025.
 
-Por isso, peça à entidade a lista completa de documentos e o prazo de entrega. Como o processo tem mais etapas, uma pendência em uma delas pode atrasar todas as outras. Guarde o protocolo de cada envio.
+Cada beneficiário precisa ter a elegibilidade comprovada nessa lista, e a entidade não pode cobrar das famílias para garantir o direito. Por isso, peça à entidade a lista completa de documentos e o prazo de entrega. Como o processo tem mais etapas, uma pendência em uma delas pode atrasar todas as outras. Guarde o protocolo de cada envio.
 
 ## Quando falta um documento
 
 Documento faltando nem sempre elimina a família. Na Faixa 1 pela prefeitura, a Portaria 738/2024 dá 60 dias para regularizar os candidatos marcados como incompatíveis, quando isso é possível. Já o período de 120 dias citado pela portaria se refere ao envio dos documentos pela prefeitura à Caixa, e não ao prazo da família.
 
-Na união estável, a lista de documentos da prefeitura de Itararé aceita a declaração de união estável no lugar da certidão de casamento. Verifique se o seu município aceita o mesmo.
+Entre os comprovantes de estado civil, a lista de documentos da prefeitura de Itararé inclui a declaração de união estável. Verifique se o seu município aceita o mesmo documento.
 
 ## Resumo
 

@@ -109,6 +109,19 @@ O CadÚnico também não é um sorteio. Estar cadastrado não significa estar so
 - **Pagar para atualizar.** O serviço é gratuito.
 - **Confiar em site de terceiro.** A consulta e a atualização devem ser feitas pelo canal oficial.
 
+## Onde o cadastro entra em cada caminho
+
+O papel do CadÚnico muda conforme a forma de compra. A página do Ministério das Cidades sobre o programa resume quem faz o cadastro em cada caso:
+
+| Caminho | Quem faz o cadastro | Papel do CadÚnico |
+|---|---|---|
+| Faixa 1 com imóvel subsidiado do FAR | Prefeitura ou governo estadual | Pré-requisito obrigatório, com dados atualizados |
+| MCMV-Entidades | Entidade organizadora, com registro do ente público | Pré-requisito obrigatório para os beneficiários |
+| MCMV Rural | Entidade ou prefeitura | Principal forma de verificar a elegibilidade |
+| Faixas 1, 2 e 3 financiadas | Instituição financeira que opera o programa | Não é a porta de entrada, mas os dados de renda devem estar corretos |
+
+Em todos os casos, o cadastro não substitui a seleção nem a análise de crédito. Ele é a base de informações sobre a família, e a regra mais importante é manter esses dados atuais.
+
 ## Passo a passo para quem se cadastra pela primeira vez
 
 1. Procure o CRAS ou o posto indicado pela prefeitura. Em algumas cidades, o atendimento é por agendamento. No Rio de Janeiro, por exemplo, quem não tem cadastro deve agendar pelo site do CadÚnico municipal e comparecer no horário marcado.
@@ -129,10 +142,6 @@ Alguns problemas são simples e acontecem com frequência:
 ## Quando o edital fixa uma data de corte
 
 Alguns editais definem uma data de corte para o cadastro. Quem atualizou depois dessa data pode ficar fora daquela seleção específica, mesmo estando em dia com a regra geral de 24 meses. Por isso, leia o edital com atenção e atualize o cadastro antes do prazo quando houver dúvida. A data de corte não aparece na portaria federal, e costuma ser definida pelo município.
-
-## O cadastro também serve a outras faixas
-
-Estar no CadÚnico não é obrigatório para todo financiamento. Ele é a porta de entrada das modalidades subsidiadas. Mas um cadastro atualizado também facilita a análise do subsídio nas faixas financiadas pelo banco, porque os dados de renda e de composição familiar são consultados. A Caixa usa essas informações para enquadrar a família no programa, de acordo com a faixa de renda e a região.
 
 ## Resumo
 

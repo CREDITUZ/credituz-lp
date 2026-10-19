@@ -1,6 +1,6 @@
 ---
 title: "Minha Casa Minha Vida Entidades: como funciona e como entrar"
-description: "Como funciona o Minha Casa Minha Vida Entidades: a entidade organizadora, a seleção das famílias, a contrapartida, as comissões de obra e os direitos de quem participa."
+description: "Como funciona o MCMV Entidades: entidade organizadora, seleção das famílias, prestação, comissões de obra e direitos de quem participa do projeto."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19

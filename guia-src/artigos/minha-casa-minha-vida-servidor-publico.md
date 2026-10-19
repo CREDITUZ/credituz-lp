@@ -125,14 +125,14 @@ Como servidor, você tem acesso a mais de uma instituição, e a informação po
 
 - à Caixa, a confirmação do enquadramento da faixa e do uso do FGTS;
 - à secretaria de habitação, o edital do programa local e a lista de documentos;
-- ao órgão de pessoal, a declaração de vínculo e de remuneração, que a Caixa pode pedir na análise;
+- ao órgão de pessoal, a declaração de vínculo e de remuneração, útil para comprovar a renda;
 - à entidade ou ao banco, a tabela de parcelas e o custo total da operação.
 
 Guarde os protocolos e as respostas. Em caso de divergência, o documento escrito é a referência.
 
 ## Habite Seguro e outras regras da segurança pública
 
-Quem atua na segurança pública e tem dúvidas sobre o Habite Seguro deve observar que a lei fala em subsídio limitado, e que o pagamento vem do Fundo Nacional de Segurança Pública, e não do FGTS. Por isso, a presença de FGTS na conta não muda a elegibilidade para o subsídio do Habite Seguro, mas altera a forma de pagar a entrada. Confirme esses pontos com a Caixa e com o órgão de origem, porque as regras de cada carreira podem ter detalhes próprios.
+Quem atua na segurança pública e pensa no Habite Seguro deve saber alguns limites da lei. O subsídio não cobre a taxa de avaliação do imóvel, e só pode ser usado uma vez por beneficiário. O beneficiário também não pode ter financiamento ativo nem ser dono, possuidor ou titular de direito sobre imóvel em qualquer lugar do país, com as exceções previstas na lei. Confirme esses pontos com a Caixa e com o órgão de origem, porque as regras de cada carreira podem ter detalhes próprios.
 
 ## Resumo
 
