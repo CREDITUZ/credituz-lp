@@ -69,7 +69,7 @@ O teto de valor mudou duas vezes em 2025:
 
 O valor que conta é o de avaliação feita pelo banco, não o preço anunciado. Se o imóvel custa R$ 2,2 milhões, mas a avaliação sair acima de R$ 2,25 milhões, a operação sai do SFH e o FGTS deixa de valer.
 
-Ficam de fora: imóvel comercial ou rural, terreno sem construção (fora de programas específicos de construção), material de construção, reforma comum e imóvel comprado para investir ou alugar. Também há restrição quando o próprio imóvel foi comprado com FGTS nos últimos 3 anos; o banco confere isso na matrícula.
+Ficam de fora: imóvel comercial ou rural, terreno sem construção (fora de programas específicos de construção), material de construção, reforma comum e imóvel comprado para investir ou alugar. Também há um intervalo de 3 anos entre um uso do FGTS na compra de imóvel e outro, e o banco confere na matrícula se o próprio imóvel já foi negociado com FGTS recentemente.
 
 ## As formas de usar o saldo na compra
 

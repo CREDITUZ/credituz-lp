@@ -14,7 +14,7 @@ faq:
   - q: "Consórcio é mais barato que financiamento?"
     a: "Em custo financeiro, costuma ser, porque não há juros. Mas se você paga aluguel enquanto espera a contemplação, o gasto total pode superar o do financiamento."
   - q: "Quanto custa a taxa de administração do consórcio de imóvel?"
-    a: "Levantamentos de 2025 e 2026 mostram taxas entre cerca de 15% e 20% do valor da carta nas grandes administradoras, com casos fora dessa faixa. O STJ entende que a administradora tem liberdade para fixar o percentual."
+    a: "Levantamento do InfoMoney de 2025 apontava média entre 15% e 20% do valor da carta, com casos fora dessa faixa. O STJ entende que a administradora tem liberdade para fixar o percentual."
   - q: "Posso usar o FGTS no consórcio?"
     a: "Sim, para dar lance, completar a carta ou amortizar parcelas, desde que você cumpra as regras do FGTS para moradia, como não ter outro imóvel na cidade e não ter financiamento ativo no SFH."
   - q: "A carta de crédito perde valor com o tempo?"

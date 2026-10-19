@@ -21,6 +21,8 @@ faq:
   - q: "Posso financiar com a renda do meu namorado ou de um amigo?"
     a: "Alguns bancos aceitam composição de renda com pessoas sem parentesco, desde que todas assinem o contrato e sejam coproprietárias. Outros aceitam só cônjuge ou companheiro. As regras variam por banco e modalidade."
 sources:
+  - title: "Resolução CNSP 447/2022, seguro habitacional (texto integral)"
+    url: "https://www.lex.com.br/resolucao-cnsp-no-447-de-10-de-outubro-de-2022/"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
   - title: "MySide: radar de taxas de juros do financiamento imobiliário (atualizado em 08/10/2026)"
@@ -63,7 +65,7 @@ A parcela que o banco considera inclui juros, amortização, seguros obrigatóri
 
 ### Idade e prazo
 
-Na regra usada por Caixa e Banco do Brasil, segundo levantamento de setembro de 2026, a soma da sua idade com o prazo do contrato não pode passar de 80 anos e 6 meses. Quanto menor o prazo, maior a parcela e maior a renda exigida. Quem tem 50 anos consegue, nessa regra, cerca de 366 meses de prazo, e não 420.
+Na prática, os bancos costumam limitar a soma da sua idade com o prazo do contrato a 80 anos e 6 meses, que é até onde a seguradora é obrigada a aceitar o seguro obrigatório (Resolução CNSP 447/2022). Confirme a regra do seu banco. Quanto menor o prazo, maior a parcela e maior a renda exigida. Quem tem 50 anos consegue, nesse limite, cerca de 366 meses de prazo, e não 420.
 
 ### Score e estabilidade
 

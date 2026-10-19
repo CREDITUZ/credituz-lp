@@ -19,8 +19,10 @@ faq:
   - q: "O imóvel fica no meu nome durante o financiamento?"
     a: "Sim, a escritura e a matrícula ficam no seu nome, mas com alienação fiduciária a favor do banco. A propriedade plena só fica com você depois da quitação e da baixa da alienação no cartório."
   - q: "Qual o prazo máximo do financiamento imobiliário?"
-    a: "Em geral, 420 meses (35 anos). O prazo real também é limitado pela sua idade: na regra usada por Caixa e Banco do Brasil, idade mais prazo não pode passar de 80 anos e 6 meses."
+    a: "Em geral, 420 meses (35 anos). O prazo real também é limitado pela sua idade: na prática, os bancos costumam limitar idade mais prazo a 80 anos e 6 meses, que é até onde a seguradora é obrigada a aceitar o seguro do financiamento."
 sources:
+  - title: "Resolução CNSP 447/2022, seguro habitacional (texto integral)"
+    url: "https://www.lex.com.br/resolucao-cnsp-no-447-de-10-de-outubro-de-2022/"
   - title: "Copom reduz Selic para 13,75% ao ano (decisão de 16/09/2026)"
     url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
   - title: "IBRE/FGV: Sobre o novo modelo de crédito imobiliário (Resoluções CMN 5.255 e BCB 512)"
@@ -70,7 +72,7 @@ O banco manda um engenheiro avaliar o imóvel. O valor de avaliação, e não o 
 
 ### Sua idade
 
-O prazo é limitado pela idade. Na regra usada por Caixa e Banco do Brasil, segundo levantamento publicado em setembro de 2026, a soma da sua idade com o prazo do contrato não pode passar de 80 anos e 6 meses. Quem tem 50 anos, por exemplo, consegue no máximo cerca de 30 anos de prazo.
+O prazo é limitado pela idade. Na prática, os bancos costumam limitar a soma da sua idade com o prazo do contrato a 80 anos e 6 meses. Esse número vem do seguro obrigatório: pela Resolução CNSP 447/2022, a seguradora só é obrigada a aceitar o proponente até esse limite. Confirme a regra do seu banco. Quem tem 50 anos, por exemplo, consegue no máximo cerca de 30 anos de prazo.
 
 ## Entrada e cota de financiamento
 

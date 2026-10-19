@@ -1,13 +1,13 @@
 ---
 title: "FGTS para amortizar o financiamento: prazo, parcela ou quitação"
-description: "Como usar o FGTS para amortizar ou quitar o financiamento do imóvel, a regra dos 2 anos, o uso de até 80% da parcela por 12 meses e qual opção economiza mais."
+description: "Como usar o FGTS para amortizar ou quitar o financiamento do imóvel, a regra dos 2 anos, o pagamento de até 80% da parcela por 12 meses e qual opção economiza mais."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "Quem tem financiamento no SFH pode usar o FGTS para amortizar ou quitar o saldo devedor a cada 2 anos."
-  - "Outra opção é pagar até 80% da parcela por até 12 meses seguidos, usando o saldo do fundo."
+  - "Outra opção é pagar até 80% de cada parcela durante 12 meses seguidos, usando o saldo do fundo."
   - "Desde novembro de 2025, vale para imóveis avaliados em até R$ 2,25 milhões, qualquer que seja a data do contrato."
   - "Reduzir o prazo costuma economizar mais juros. Reduzir a parcela alivia o orçamento mensal."
   - "O pedido é feito no banco que concedeu o financiamento, não diretamente na Caixa (salvo se o contrato for da Caixa)."
@@ -17,7 +17,7 @@ faq:
   - q: "Posso usar o FGTS para pagar parcelas atrasadas?"
     a: "Existe essa possibilidade em situações limitadas e com regras próprias definidas pelo Conselho Curador. Na regra geral, o atraso precisa ser pequeno. Pergunte ao seu banco antes de deixar parcelas vencerem contando com o FGTS."
   - q: "Financiamento fora do SFH pode receber FGTS?"
-    a: "A regra geral é que o uso vale para contratos do SFH. Há contratos com taxas de mercado em que o banco aceita FGTS porque o imóvel está dentro dos limites do SFH. Confirme no seu contrato e no banco."
+    a: "Em regra, não. A Lei 8.036/1990 exige que o financiamento tenha sido concedido no SFH para amortizar, quitar ou pagar parcelas com FGTS. O PL 2.568/2026 propõe liberar o uso fora do SFH, mas ainda não foi aprovado. Confira o enquadramento no seu contrato."
   - q: "Meu cônjuge pode usar o FGTS dele no meu financiamento?"
     a: "Pode, se ele também constar no contrato como comprador e cumprir as condições: 3 anos de FGTS, não ter outro imóvel residencial na região e não ter outro financiamento no SFH."
   - q: "Reduzir prazo ou parcela: qual é melhor?"
@@ -38,7 +38,7 @@ sources:
 related: [fgts-na-compra-do-imovel, amortizar-financiamento-prazo-ou-parcela, saque-aniversario-e-financiamento, sfh-e-sfi]
 ---
 
-Sim, quem já tem financiamento imobiliário pode usar o FGTS (Fundo de Garantia do Tempo de Serviço) de três formas: amortizar parte do saldo devedor, quitar o contrato inteiro ou pagar até 80% de cada parcela por até 12 meses seguidos. Para amortizar ou quitar, a lei exige intervalo mínimo de 2 anos entre um uso e outro. Em outubro de 2026, isso vale para contratos do SFH (Sistema Financeiro da Habitação) com imóvel avaliado em até R$ 2,25 milhões.
+Sim, quem já tem financiamento imobiliário pode usar o FGTS (Fundo de Garantia do Tempo de Serviço) de três formas: amortizar parte do saldo devedor, quitar o contrato inteiro ou pagar até 80% de cada parcela durante 12 meses seguidos. Para amortizar ou quitar, a lei exige intervalo mínimo de 2 anos entre um uso e outro. Em outubro de 2026, isso vale para contratos do SFH (Sistema Financeiro da Habitação) com imóvel avaliado em até R$ 2,25 milhões.
 
 ## As três formas de usar o FGTS no financiamento
 
@@ -46,7 +46,7 @@ Sim, quem já tem financiamento imobiliário pode usar o FGTS (Fundo de Garantia
 |---|---|---|
 | Amortização extraordinária | O saldo do FGTS abate parte da dívida; você escolhe reduzir o prazo ou a parcela | Mínimo de 2 anos entre usos para amortizar ou quitar |
 | Liquidação (quitação) | O saldo paga toda a dívida restante | Mesmo intervalo de 2 anos |
-| Pagamento de parte das prestações | O fundo paga até 80% de cada parcela por até 12 meses seguidos | Regra própria, separada da amortização |
+| Pagamento de parte das prestações | O fundo paga até 80% de cada parcela durante 12 meses seguidos | Regra própria, separada da amortização |
 
 O intervalo de 2 anos está no artigo 20 da Lei 8.036/1990. Ele é contado por conta de FGTS usada: se você amortizou com o seu FGTS em 2025, só poderá usar a sua conta de novo para amortizar em 2027. O seu cônjuge, se também for comprador no contrato e cumprir as condições, tem o próprio intervalo.
 
@@ -83,7 +83,7 @@ Na vida real, a amortização acontece com o contrato em andamento, então a eco
 
 ## Pagar parte das parcelas com o FGTS
 
-A terceira modalidade não abate o saldo devedor de uma vez. O banco calcula quanto do FGTS cobre até 80% de cada parcela pelos 12 meses seguintes e saca esse valor. Você paga só os 20% restantes nesse período.
+A terceira modalidade não abate o saldo devedor de uma vez. O banco calcula quanto do FGTS cobre até 80% de cada parcela pelos 12 meses seguintes e bloqueia esse valor. A Lei 8.036/1990 (art. 20, inciso V) diz que o abatimento é de no máximo 80% da prestação e que o valor bloqueado deve ser usado por no mínimo 12 meses. Você paga só a diferença nesse período.
 
 Exemplo ilustrativo: com parcela de R$ 3.000, o FGTS cobriria até R$ 2.400 por mês. Para os 12 meses, isso exige até R$ 28.800 de saldo. Você pagaria R$ 600 por mês nesse período.
 
@@ -125,7 +125,7 @@ Uma saída intermediária é usar parte do saldo e manter o resto. A regra dos 2
 
 ## Resumo e próximos passos
 
-- O FGTS pode amortizar, quitar ou pagar até 80% das parcelas por 12 meses em contratos do SFH com imóvel de até R$ 2,25 milhões.
+- O FGTS pode amortizar, quitar ou pagar até 80% das parcelas durante 12 meses em contratos do SFH com imóvel de até R$ 2,25 milhões.
 - Amortizar ou quitar exige intervalo de 2 anos por conta de FGTS.
 - Reduzir o prazo economiza mais juros; reduzir a parcela alivia o mês.
 - O pedido é feito no banco do financiamento.

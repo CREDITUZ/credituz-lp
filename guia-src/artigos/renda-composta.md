@@ -9,7 +9,7 @@ key_points:
   - "Compor renda é somar a renda de duas ou mais pessoas para aumentar o valor que o banco aprova."
   - "Quem entra na composição normalmente vira devedor e coproprietário do imóvel, com responsabilidade pela dívida inteira."
   - "Cada banco define quem aceita: cônjuge, parente ou até amigo. Pergunte antes de juntar documentos."
-  - "Na Caixa, idade mais prazo não pode passar de 80 anos e 6 meses, e conta a idade do participante mais velho."
+  - "Os bancos costumam limitar idade mais prazo a 80 anos e 6 meses, e na Caixa conta a idade do participante mais velho."
   - "Uma restrição no CPF de qualquer participante pode travar a aprovação de todos."
 faq:
   - q: "Posso compor renda com quem não é meu parente?"
@@ -23,6 +23,8 @@ faq:
   - q: "Cada um pode usar o seu FGTS?"
     a: "Sim, desde que cada participante cumpra sozinho as regras do FGTS para moradia, como ter ao menos 3 anos de trabalho sob o regime e não ter outro imóvel na cidade onde mora ou trabalha."
 sources:
+  - title: "Resolução CNSP 447/2022, seguro habitacional (texto integral)"
+    url: "https://www.lex.com.br/resolucao-cnsp-no-447-de-10-de-outubro-de-2022/"
   - title: "Idoso pode financiar imóvel pela Caixa? Qual a idade máxima? (meutudo, atualizado em 09/06/2026)"
     url: "https://meutudo.com.br/blog/idoso-pode-financiar-imovel-pela-caixa/"
   - title: "Como funciona a composição de renda para financiamento de imóvel (QuintoAndar)"
@@ -81,7 +83,7 @@ O financiamento tem seguro obrigatório contra morte e invalidez (MIP). Na compo
 
 ### A idade do mais velho define o prazo
 
-Na Caixa, a soma da idade com o prazo do financiamento não pode passar de 80 anos e 6 meses, e em financiamento conjunto vale a idade do proponente mais velho. Se você tem 30 anos e compõe renda com sua mãe de 60, o prazo máximo cai de 35 anos para 20 anos e 6 meses. Parcela mais alta, menos valor aprovado. Outros bancos usam limites parecidos, mas cada um tem a sua regra.
+Os bancos costumam limitar a soma da idade com o prazo do financiamento a 80 anos e 6 meses, que é até onde a seguradora é obrigada a aceitar o seguro (Resolução CNSP 447/2022). Na Caixa, em financiamento conjunto vale a idade do proponente mais velho. Se você tem 30 anos e compõe renda com sua mãe de 60, o prazo máximo cai de 35 anos para 20 anos e 6 meses. Parcela mais alta, menos valor aprovado. Outros bancos usam limites parecidos, mas cada um tem a sua regra.
 
 ### O CPF de todos é analisado
 
@@ -97,7 +99,7 @@ Exemplo ilustrativo, calculado com taxa de 11,5% ao ano (taxa efetiva, sem TR), 
 | Você + parceiro | R$ 8.000 | R$ 2.400 | cerca de R$ 209 mil | cerca de R$ 258 mil |
 | Você + parceiro + irmão | R$ 10.500 | R$ 3.150 | cerca de R$ 274 mil | cerca de R$ 338 mil |
 
-Agora o efeito da idade. Imagine que o parceiro tem 52 anos. Pela regra de 80 anos e 6 meses, o prazo máximo cai para 28 anos e 6 meses (342 meses). Com a mesma renda de R$ 8.000, o valor financiável na SAC cai de cerca de R$ 209 mil para cerca de R$ 199 mil. A diferença é pequena aqui porque os juros pesam mais que o prazo nas parcelas iniciais, mas cresce quando a idade do participante mais velho é maior.
+Agora o efeito da idade. Imagine que o parceiro tem 52 anos. Pelo limite usual de 80 anos e 6 meses, o prazo máximo cai para 28 anos e 6 meses (342 meses). Com a mesma renda de R$ 8.000, o valor financiável na SAC cai de cerca de R$ 209 mil para cerca de R$ 199 mil. A diferença é pequena aqui porque os juros pesam mais que o prazo nas parcelas iniciais, mas cresce quando a idade do participante mais velho é maior.
 
 Por que a SAC aprova menos que a Price? Na SAC a primeira parcela é a mais alta do contrato, e é ela que precisa caber nos 30%. Na Price as parcelas são iguais desde o início. Para testar com os seus números, use a [calculadora de quanto posso financiar](/quanto-posso-financiar).
 

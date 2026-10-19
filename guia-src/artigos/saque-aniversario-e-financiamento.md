@@ -19,7 +19,7 @@ faq:
   - q: "Posso antecipar o saque-aniversário para pagar a entrada?"
     a: "Pode, mas é um empréstimo com juros, e em novembro de 2026 o limite cai para 3 saques de até R$ 500, ou seja, R$ 1.500 no máximo. Usar o saldo diretamente na compra costuma ser mais barato e permite valores maiores."
   - q: "Fui demitido e estou no saque-aniversário. Posso usar o saldo bloqueado na compra?"
-    a: "O saldo retido por causa da demissão não pode ser sacado em dinheiro, mas continua na sua conta e pode ser usado nas hipóteses de moradia previstas em lei, como a compra da casa própria, se você cumprir as condições. Confirme com o banco que vai operar a compra."
+    a: "Sim, se cumprir as condições. A Lei 13.932/2019 tira do saque-aniversário só as hipóteses ligadas à demissão e ao fim de contrato; as de moradia continuam valendo. O saldo retido não sai em dinheiro, mas pode ir para a compra da casa própria. Só a parte reservada por antecipação fica de fora."
 sources:
   - title: "Resolução CCFGTS 1.130/2025 altera regras do saque-aniversário (COAD, out/2025)"
     url: "https://www.coad.com.br/home/noticias-detalhe/134191/resolucao-que-que-regula-a-alienacao-ou-cessao-fiduciaria-do-direito-ao-saque-aniversario-sofre-alteracao"
@@ -31,6 +31,8 @@ sources:
     url: "https://www.serasa.com.br/credito/blog/saque-aniversario-do-fgts-principais-mitos-e-verdades/"
   - title: "Antecipação do saque-aniversário: regras (Nubank, atualizado em 21/07/2026)"
     url: "https://blog.nubank.com.br/antecipacao-saque-aniversario-fgts-regras/"
+  - title: "Lei 13.932/2019 (cria o saque-aniversário e os arts. 20-A a 20-D da Lei do FGTS), Planalto"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13932.htm"
   - title: "Lei 8.036/1990 (Lei do FGTS), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
 related: [fgts-na-compra-do-imovel, fgts-para-amortizar-financiamento, entrada-para-financiar-imovel]
@@ -56,7 +58,7 @@ O valor anual depende do saldo total, somando todas as contas:
 
 Exemplos calculados com a tabela: com saldo de R$ 8.000, o saque do ano é de R$ 2.250 (20% mais R$ 650). Com R$ 30.000, é de R$ 4.400 (5% mais R$ 2.900).
 
-A modalidade foi criada pela Lei 13.932/2019 e continua em vigor em outubro de 2026. Propostas de acabar com ela foram discutidas em 2024, mas não avançaram.
+A modalidade foi criada pela Lei 13.932/2019 e continua em vigor em outubro de 2026. Propostas de acabar com ela foram discutidas, mas não avançaram. Em dezembro de 2025, uma medida provisória liberou, uma única vez, o saldo retido de quem foi demitido entre janeiro de 2020 e 23 de dezembro de 2025. Para demissões depois disso, vale de novo a retenção.
 
 ## O que acontece com o FGTS na compra do imóvel
 
@@ -69,7 +71,7 @@ A compra da moradia própria é uma das hipóteses de uso do FGTS previstas no a
 
 As regras completas estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel). O mesmo vale para amortizar e quitar, com o intervalo de 2 anos explicado em [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento).
 
-Há uma situação particular: quem está no saque-aniversário e é demitido fica com o saldo retido. Esse dinheiro não pode ser sacado em espécie, mas continua na conta e segue disponível para as hipóteses de moradia, desde que você cumpra as condições. Na prática, o saldo retido pode virar entrada de um imóvel. Confirme com o banco antes de fechar negócio, porque a análise é feita caso a caso.
+Há uma situação particular: quem está no saque-aniversário e é demitido fica com o saldo retido. Esse dinheiro não pode ser sacado em espécie, mas continua na conta. Pela Lei 13.932/2019, o saque-aniversário só deixa de fora as hipóteses de saque ligadas à demissão e ao fim de contrato; as de moradia seguem valendo. Na prática, o saldo retido pode virar entrada de um imóvel, desde que você cumpra as condições acima e descontada a parte reservada por antecipação.
 
 ## O que fica bloqueado pela antecipação
 
@@ -79,7 +81,7 @@ Só a parte reservada é bloqueada. O restante do saldo e os depósitos novos fi
 
 ### Regras da antecipação em 2026
 
-As regras foram endurecidas pela Resolução 1.130 do Conselho Curador do FGTS, de 7 de outubro de 2025, com aplicação a partir de 1º de novembro de 2025:
+As regras foram endurecidas pela Resolução 1.130 do Conselho Curador do FGTS, de 7 de outubro de 2025 (publicada em 20 de outubro), com aplicação a partir de novembro de 2025. A regra geral é de até 3 saques antecipados; a permissão de até 5 é uma transição que termina em 31 de outubro de 2026:
 
 | Regra | Até 31/10/2026 | A partir de 01/11/2026 |
 |---|---|---|
@@ -89,7 +91,7 @@ As regras foram endurecidas pela Resolução 1.130 do Conselho Curador do FGTS, 
 | Carência após aderir | 90 dias | 90 dias |
 | Contratos | 1 por ano | 1 por ano |
 
-Contratos firmados antes de novembro de 2025 seguem as regras da época. Por isso, quem antecipou muitos anos de saque antes disso pode ter uma fatia grande do saldo reservada por bastante tempo.
+Os limites valem para novas contratações. Quem antecipou muitos anos de saque antes de novembro de 2025, quando não havia teto por parcela, pode ter uma fatia grande do saldo reservada por bastante tempo; o aplicativo FGTS mostra quanto e até quando.
 
 ## Exemplo: quanto o saque-aniversário tira da entrada
 

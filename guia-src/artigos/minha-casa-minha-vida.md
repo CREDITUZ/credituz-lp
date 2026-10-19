@@ -8,7 +8,7 @@ reading_minutes: 7
 key_points:
   - "Desde abril de 2026, o programa atende famílias urbanas com renda bruta de até R$ 13 mil por mês, em quatro faixas."
   - "O teto do imóvel vai de R$ 210 mil a R$ 275 mil nas Faixas 1 e 2 (conforme a cidade), R$ 400 mil na Faixa 3 e R$ 600 mil na Faixa 4."
-  - "Os juros começam em cerca de 4% ao ano na Faixa 1 e chegam a cerca de 10% a 10,5% ao ano na Faixa 4."
+  - "Os juros começam em cerca de 4% ao ano na Faixa 1 e chegam a cerca de 10% ao ano (nominal) na Faixa 4, o que dá perto de 10,5% em taxa efetiva."
   - "Subsídio, o desconto que reduz o valor a pagar, existe só nas Faixas 1 e 2."
   - "Quem já tem imóvel residencial, financiamento ativo no SFH ou recebeu benefício habitacional federal nos últimos 10 anos não pode participar."
 faq:
@@ -21,7 +21,7 @@ faq:
   - q: "Posso usar o FGTS no Minha Casa Minha Vida?"
     a: "Sim. O FGTS pode ser usado na entrada, para amortizar o saldo e para ajudar nas parcelas, desde que você cumpra as regras do fundo, como ter 3 anos de trabalho com carteira assinada."
   - q: "A Faixa 4 aceita imóvel usado?"
-    a: "Sim, a Faixa 4 aceita imóvel novo ou usado dentro do teto de R$ 600 mil. As regras de cota de financiamento podem variar, então confirme na simulação do banco."
+    a: "Sim, a Faixa 4 aceita imóvel novo ou usado dentro do teto de R$ 600 mil. Desde o lançamento da faixa, o imóvel usado tem cota menor no Sul e no Sudeste (60% do valor, contra 80% nas demais regiões), então a entrada pesa mais. Confirme na simulação do banco."
 sources:
   - title: "Novas faixas de renda do Minha Casa, Minha Vida entram em vigor (SBT News, 01/04/2026)"
     url: "https://sbtnews.sbt.com.br/noticia/economia/novas-faixas-de-renda-do-minha-casa-minha-vida-entram-em-vigor-nesta-quarta-feira-1"
@@ -37,31 +37,35 @@ sources:
     url: "https://www.jornalopcao.com.br/ultimas-noticias/fgts-amplia-para-r-13-bilhoes-subsidios-do-minha-casa-minha-vida-em-2026-866818/"
   - title: "Minha Casa Minha Vida amplia Faixa 4 para classe média (Jornal de Brasília, 11/05/2026)"
     url: "https://jornaldebrasilia.com.br/noticias/economia/minha-casa-minha-vida-amplia-faixa-4-para-classe-media-com-juros-acessiveis/"
+  - title: "Faixa 4 do Minha Casa Minha Vida: juro nominal de 10% e cotas por região (IstoÉ Dinheiro, 05/05/2025)"
+    url: "https://istoedinheiro.com.br/faixa-4-do-minha-casa-minha-vida-voltada-a-classe-media/"
   - title: "Ministério das Cidades, Minha Casa Minha Vida"
     url: "https://www.gov.br/cidades/pt-br/assuntos/habitacao/minha-casa-minha-vida"
 related: [fgts-na-compra-do-imovel, renda-para-financiar-imovel, sfh-e-sfi, entrada-para-financiar-imovel]
 ---
 
-Em outubro de 2026, o Minha Casa Minha Vida atende famílias de área urbana com renda bruta de até R$ 13 mil por mês, divididas em quatro faixas. Quanto menor a renda, menores os juros e maior a ajuda do governo: nas Faixas 1 e 2 há subsídio e taxas a partir de cerca de 4% ao ano, enquanto a Faixa 4, para a classe média, financia imóveis de até R$ 600 mil com juros perto de 10% ao ano, abaixo da média do mercado. As regras atuais entraram em vigor em abril de 2026, depois de aprovadas pelo Conselho Curador do FGTS em 24 de março.
+Em outubro de 2026, o Minha Casa Minha Vida atende famílias de área urbana com renda bruta de até R$ 13 mil por mês, divididas em quatro faixas. Quanto menor a renda, menores os juros e maior a ajuda do governo: nas Faixas 1 e 2 há subsídio e taxas a partir de cerca de 4% ao ano, enquanto a Faixa 4, para a classe média, financia imóveis novos ou usados de até R$ 600 mil com juros de cerca de 10% ao ano, abaixo da média do mercado. As regras atuais entraram em vigor em abril de 2026, depois de aprovadas pelo Conselho Curador do FGTS em 24 de março.
 
 ## Faixas de renda, teto do imóvel e juros em 2026
 
 | Faixa | Renda bruta familiar mensal | Teto do imóvel | Juros aproximados ao ano | Subsídio |
 |---|---|---|---|---|
-| Faixa 1 | até R$ 3.200 | R$ 210 mil a R$ 275 mil, conforme a cidade | cerca de 4% a 4,5% | sim, o maior do programa |
-| Faixa 2 | R$ 3.200,01 a R$ 5.000 | R$ 210 mil a R$ 275 mil, conforme a cidade | cerca de 4,75% a 5,5% | sim, menor que na Faixa 1 |
-| Faixa 3 | R$ 5.000,01 a R$ 9.600 | R$ 400 mil | cerca de 6,5% a 7,66% | não |
-| Faixa 4 | R$ 9.600,01 a R$ 13.000 | R$ 600 mil | cerca de 10% a 10,5% | não |
+| Faixa 1 | até R$ 3.200 | R$ 210 mil a R$ 275 mil, conforme a cidade | cerca de 4% a 5,25% | sim, o maior do programa |
+| Faixa 2 | R$ 3.200,01 a R$ 5.000 | R$ 210 mil a R$ 275 mil, conforme a cidade | cerca de 4,75% a 7% | sim, menor que na Faixa 1 |
+| Faixa 3 | R$ 5.000,01 a R$ 9.600 | R$ 400 mil | cerca de 6,5% a 8,16% | não |
+| Faixa 4 | R$ 9.600,01 a R$ 13.000 | R$ 600 mil | cerca de 10% (nominal) | não |
 
 Como ler a tabela:
 
 - **Renda bruta familiar** é a soma da renda, antes dos descontos, de quem mora junto e contribui com as despesas. Benefícios temporários, como seguro-desemprego e Bolsa Família, não entram na conta.
 - **O teto das Faixas 1 e 2** depende do porte e da região do município. Em novembro de 2025, o Conselho Curador do FGTS subiu esses limites: nas grandes metrópoles, passou de R$ 264 mil para R$ 275 mil.
-- **Os juros** são faixas de referência divulgadas na imprensa a partir de anúncios do governo. A taxa exata depende da sua renda dentro da faixa, da região e de você ter ou não 3 anos de FGTS. A Faixa 1, por exemplo, ganhou taxa de 4,5% ao ano para rendas entre R$ 2.850,01 e R$ 3.200. Confira a taxa exata na simulação da Caixa.
+- **Os juros** são faixas de referência divulgadas na imprensa a partir de anúncios do governo. A taxa exata depende da sua renda dentro da faixa, da região e de você ter ou não 3 anos de FGTS: as pontas mais baixas valem para cotistas do FGTS e regiões Norte e Nordeste, e as mais altas para quem não é cotista. A Faixa 1, por exemplo, ganhou taxa de 4,5% ao ano para rendas entre R$ 2.850,01 e R$ 3.200.
+- **Na Faixa 4, 10% ou 10,5%?** A Caixa divulgou a taxa como juro nominal de 10% ao ano. Convertida para taxa efetiva, ela fica perto de 10,5%, por isso parte da imprensa publica um número e parte publica o outro. Compare sempre pelo CET (Custo Efetivo Total) da simulação.
+- **Imóvel usado na Faixa 4** é aceito. Pelas regras divulgadas no lançamento da faixa, o banco financia até 80% do imóvel novo em todo o país e do usado no Norte, Nordeste e Centro-Oeste, mas só 60% do usado no Sul e no Sudeste.
 
 Para comparação, o Jornal de Brasília apontava em maio de 2026 taxas de 12% ao ano ou mais no mercado para o mesmo perfil. A Selic estava em 13,75% ao ano depois da reunião do Copom de 16 de setembro de 2026.
 
-Famílias da área rural têm faixas próprias, com renda anual: até R$ 50 mil na Faixa 1, até R$ 70,9 mil na Faixa 2 e até R$ 134 mil na Faixa 3, segundo as regras de abril de 2026.
+Famílias da área rural têm faixas próprias, com renda anual: até R$ 50 mil na Faixa 1, até R$ 70,9 mil na Faixa 2 e até R$ 134 mil na Faixa 3, segundo as regras de abril de 2026. O limite rural geral do programa passou a R$ 162,5 mil por ano.
 
 ## Quem pode participar
 
@@ -73,7 +77,7 @@ As condições básicas valem para todas as faixas:
 - não ter financiamento habitacional ativo no SFH (Sistema Financeiro da Habitação);
 - não ter recebido, nos últimos 10 anos, benefício de programa habitacional federal com recursos do FGTS ou de fundos como FAR e FDS, salvo exceções como calamidade pública.
 
-Nas faixas com financiamento, o banco faz análise de crédito como em qualquer contrato. A idade somada ao prazo também tem limite, de cerca de 80 anos e 6 meses. Quem tem restrição no CPF pode se inscrever, mas a aprovação do crédito fica mais difícil.
+Nas faixas com financiamento, o banco faz análise de crédito como em qualquer contrato. A idade somada ao prazo também tem limite, definido pelo banco, o que encurta o prazo para quem contrata mais velho. Quem tem restrição no CPF pode se inscrever, mas a aprovação do crédito fica mais difícil.
 
 ## Como funciona o subsídio
 
@@ -85,7 +89,7 @@ Nas Faixas 3 e 4 não há desconto. A vantagem é a taxa de juros mais baixa que
 
 ## Exemplo: quanto a taxa menor muda a parcela
 
-Exemplo ilustrativo, sem seguros e tarifas, tabela Price em 420 meses (35 anos).
+Exemplo ilustrativo, sem seguros e tarifas, tabela Price em 420 meses (35 anos), com as taxas tratadas como efetivas ao ano.
 
 **Faixa 3.** Financiamento de R$ 240 mil.
 
@@ -120,7 +124,7 @@ Não existe taxa para entrar na fila. Desconfie de quem cobra para "garantir vag
 
 1. Some a renda bruta da família e descubra a faixa.
 2. Faça a simulação no simulador habitacional da Caixa ou de um banco habilitado.
-3. Escolha um imóvel novo, usado ou na planta dentro do teto da faixa. Muitas construtoras vendem unidades já enquadradas.
+3. Escolha um imóvel novo, usado ou na planta dentro do teto da faixa. Muitas construtoras vendem unidades já enquadradas. Se for usado, confira a cota de financiamento da sua região.
 4. Reúna documentos pessoais, de renda e do imóvel. A lista completa está em [documentos para financiamento](/artigos/documentos-para-financiamento).
 5. Entregue para análise de crédito, aguarde a avaliação do imóvel e assine o contrato.
 
@@ -138,7 +142,7 @@ O FGTS pode entrar na entrada e depois no abatimento do saldo, nas regras explic
 
 - Quatro faixas urbanas, com renda bruta de até R$ 3.200, R$ 5.000, R$ 9.600 e R$ 13.000.
 - Teto do imóvel de R$ 210 mil a R$ 275 mil nas Faixas 1 e 2, R$ 400 mil na Faixa 3 e R$ 600 mil na Faixa 4.
-- Juros de cerca de 4% a 10,5% ao ano, conforme a faixa, e subsídio só nas Faixas 1 e 2.
+- Juros de cerca de 4% a 10% ao ano (nominal), conforme a faixa e a região, e subsídio só nas Faixas 1 e 2.
 - Faixa 1 subsidiada é por seleção da prefeitura via CadÚnico; as demais, por simulação e análise de crédito no banco.
 
 Valores de referência para outubro de 2026. O Conselho Curador do FGTS e o Ministério das Cidades revisam faixas, tetos e subsídios com frequência, e o planejamento do FGTS para 2027 em diante estava previsto para ser discutido no fim de outubro de 2026. Antes de assinar, confirme as condições no simulador da Caixa e no site do Ministério das Cidades. Para saber se o valor do imóvel cabe no seu bolso, use a [calculadora de quanto posso financiar](/quanto-posso-financiar).

@@ -1,6 +1,6 @@
 ---
 title: "SFH e SFI: diferenças, limites e regras do financiamento em 2026"
-description: "Entenda a diferença entre SFH e SFI em 2026: teto de R$ 2,25 milhões, juros limitados a 12% ao ano, uso do FGTS e quando seu financiamento cai em cada sistema."
+description: "Entenda a diferença entre SFH e SFI em 2026: teto de R$ 2,25 milhões, custo limitado a 12% ao ano, uso do FGTS e quando seu financiamento cai em cada sistema."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
@@ -50,9 +50,9 @@ Esses números valem para outubro de 2026. O teto do SFH subiu de R$ 1,5 milhão
 |---|---|---|
 | Para que serve | Imóvel residencial, compra, construção, reforma ou ampliação | Financiamento imobiliário em geral, residencial ou não |
 | Valor máximo do imóvel | R$ 2,25 milhões de avaliação | sem limite |
-| Limite de juros | custo efetivo de até 12% ao ano, sem contar seguros e tarifas | sem limite, taxa combinada em contrato |
+| Limite de juros | custo efetivo de até 12% ao ano, somando juros, comissões e outros encargos | sem limite, taxa combinada em contrato |
 | Uso do FGTS | sim, cumpridas as regras do fundo | em regra, não |
-| Cota de financiamento | limite do CMN sobre o valor de avaliação, e cada banco define a sua cota dentro dele (a Caixa voltou a até 80% em 2025) | segue os mesmos limites gerais do CMN, com política de cada banco |
+| Cota de financiamento | limite do CMN sobre o valor de avaliação, e cada banco define a sua cota dentro dele (a Caixa voltou a até 80% em 2025) | definida pela política de cada banco, dentro das regras gerais do CMN |
 | Origem do dinheiro | principalmente poupança (SBPE) e FGTS | poupança e títulos como LCI e LIG, entre outras fontes |
 | Garantia mais comum | alienação fiduciária do imóvel | alienação fiduciária do imóvel |
 
@@ -77,7 +77,7 @@ Em outubro de 2025, o governo e o CMN (Conselho Monetário Nacional) anunciaram 
 - **Teto do SFH** passou de R$ 1,5 milhão para R$ 2,25 milhões, com vigência a partir da publicação da norma em outubro de 2025.
 - **Uso do FGTS** foi liberado em novembro de 2025 pelo Conselho Curador do FGTS para todos os contratos dentro do novo teto, independentemente da data de assinatura. Antes, contratos a partir de junho de 2021 tinham restrição.
 - **Cota da Caixa** voltou a até 80% do valor do imóvel em operações com recursos da poupança, depois de ter caído para 70% em 2024.
-- **Regras da poupança** mudam aos poucos: o direcionamento obrigatório e o compulsório foram reduzidos em uma transição, com o novo modelo pleno previsto para janeiro de 2027. A intenção é aumentar o dinheiro disponível para o crédito habitacional.
+- **Regras da poupança** mudam aos poucos: o direcionamento obrigatório e o compulsório passam por uma transição, e o novo modelo de direcionamento passa a valer a partir de 2027. A intenção é aumentar o dinheiro disponível para o crédito habitacional.
 
 O limite de 12% ao ano no SFH continua. Em agosto de 2026, bancos pediram ao Banco Central uma revisão desse teto por causa da Selic alta, e o BC disse que o modelo segue em avaliação. Até a data deste texto, nada havia mudado.
 
@@ -121,7 +121,7 @@ O que você perde no SFI é o uso do FGTS e o teto de 12% ao ano. Por isso, comp
 
 - **Confundir preço com avaliação.** O enquadramento usa o laudo do banco. Um imóvel no limite pode cair no SFI se a avaliação vier mais alta. O contrário também acontece: avaliação abaixo do preço reduz o valor financiado.
 - **Contar com FGTS em imóvel acima do teto.** Acima de R$ 2,25 milhões de avaliação, o FGTS não entra. Planeje a entrada sem ele. As regras do fundo estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
-- **Achar que o teto de 12% garante taxa baixa.** Ele é um limite, não a taxa praticada. Em 2026, com a Selic em 13,75% ao ano depois da reunião do Copom de 16 de setembro, os próprios bancos disseram ao Banco Central que o teto apertava suas margens, sinal de que as taxas praticadas estão próximas dele.
+- **Achar que o teto de 12% garante taxa baixa.** Ele é um limite, não a taxa praticada. Em agosto de 2026, com a Selic em 14% ao ano, os próprios bancos disseram ao Banco Central que o teto apertava suas margens, sinal de que as taxas praticadas estão próximas dele. Em setembro, o Copom cortou a Selic para 13,75%.
 - **Ignorar programas com juros menores.** Para rendas de até R$ 13 mil, o [Minha Casa Minha Vida](/artigos/minha-casa-minha-vida) tem taxas abaixo das do SFH comum.
 
 ## Resumo e próximos passos
@@ -129,6 +129,6 @@ O que você perde no SFI é o uso do FGTS e o teto de 12% ao ano. Por isso, comp
 - SFH: imóvel residencial até R$ 2,25 milhões, custo efetivo de até 12% ao ano, FGTS permitido.
 - SFI: sem teto de valor nem de juros, aceita imóveis comerciais e mais caros, FGTS em regra não entra.
 - O enquadramento depende do valor de avaliação, do tipo de imóvel e das condições do contrato.
-- O novo modelo da poupança entra totalmente em vigor em janeiro de 2027 e pode mexer em oferta e taxas.
+- O novo modelo da poupança passa a valer a partir de 2027 e pode mexer em oferta e taxas.
 
 Antes de escolher o imóvel, veja [quanto você pode financiar](/quanto-posso-financiar) e confira se o valor fica abaixo do teto do SFH. Para entender o processo completo, do pedido ao registro, leia [como funciona o financiamento imobiliário](/artigos/como-funciona-financiamento-imobiliario). As regras citadas valem para outubro de 2026 e podem mudar por resolução do CMN.
