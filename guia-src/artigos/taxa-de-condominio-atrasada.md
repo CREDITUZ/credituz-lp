@@ -82,7 +82,7 @@ Na prática, a regra é cobrar de quem tem a posse e o vínculo com a unidade, m
 
 As cotas condominiais previstas na convenção ou aprovadas em assembleia, desde que documentalmente comprovadas, são título executivo extrajudicial pelo inciso X do artigo 784 do Código de Processo Civil. Isso significa que o condomínio não precisa de um processo de conhecimento para cobrar. Pode ajuizar execução direta, com base no próprio documento.
 
-Na execução, o devedor é citado para pagar ou indicar bens. Se não pagar, o imóvel pode ser penhorado, e a regra vale mesmo que seja o único bem de família, salvo as exceções legais. Por isso, a dívida de condomínio é uma das que mais levam à perda do imóvel quando se acumula sem acordo.
+Na execução, o devedor é citado para pagar ou indicar bens. Se não pagar, o imóvel pode ser penhorado. A proteção do bem de família, que existe para outras dívidas, não impede a penhora nesse tipo de cobrança, segundo a jurisprudência. Por isso, a dívida de condomínio é uma das que mais levam à perda do imóvel quando se acumula sem acordo.
 
 O prazo para cobrar também tem regra própria. O artigo 206, §5º, I, do Código Civil fixa prescrição de cinco anos para a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Como a cota condominial costuma estar documentada em balancete e convenção, esse prazo é o que vale na maioria dos casos. Não deixe a dívida correr sem negociar.
 
