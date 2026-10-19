@@ -15,7 +15,7 @@ faq:
   - q: "Autônomo consegue o Minha Casa Minha Vida sem carteira assinada?"
     a: "Sim. As regras federais que li não exigem carteira assinada. Na Faixa 1 pela seleção, a renda pode ser declarada. Nas faixas com financiamento, o banco aceita a comprovação que demonstrar renda estável."
   - q: "Declaração de renda própria vale no Minha Casa Minha Vida?"
-    a: "Na seleção da Faixa 1, sim. A Portaria MCID 738/2024 usa a renda declarada pelo beneficiário, comparada com a apurada no cadastro, e vale a maior das duas. Nas faixas com banco, a aceitação depende da política do banco."
+    a: "Na seleção da Faixa 1, sim. A Portaria MCID 738/2024 compara a renda declarada pelo beneficiário com a identificada na pesquisa de enquadramento e considera a maior das duas. Nas faixas com banco, a aceitação depende da política do banco."
   - q: "O faturamento do MEI conta como renda para o programa?"
     a: "Não diretamente. O banco tenta estimar quanto sobra para a família depois dos custos do negócio. Os documentos do MEI estão detalhados no artigo sobre autônomo e MEI no financiamento."
   - q: "Renda variável atrapalha a faixa?"
@@ -42,15 +42,15 @@ Há uma diferença importante entre renda e faturamento. Um prestador que recebe
 
 ## Faixa 1 pela prefeitura: a renda declarada
 
-Quando a família busca um imóvel subsidiado da Faixa 1, a seleção passa pelo CadÚnico e pelo cadastro habitacional da prefeitura ou do estado. Nesse caminho, a Portaria MCID 738/2024 não pede comprovantes de renda do modelo bancário. O art. 31 diz que a renda usada para calcular a prestação é a declarada pelo beneficiário, considerando a que for maior entre ela e a que aparecer no levantamento de enquadramento.
+Quando a família busca um imóvel subsidiado da Faixa 1, a seleção passa pelo CadÚnico e pelo cadastro habitacional da prefeitura ou do estado. O art. 31 diz que a renda apurada é a maior entre a declarada pelo beneficiário e a identificada na pesquisa de enquadramento.
 
-Isso tem dois efeitos práticos. O primeiro é que a declaração precisa ser verdadeira. O art. 27, III, exclui quem apresentar informações fraudulentas sobre renda e dados pessoais. O segundo é que a renda declarada vira o número que pesa na prestação. Quem declara menos pode ter uma prestação menor no papel, mas corre o risco de ser excluído na conferência. Declarar pelo valor real, com uma média honesta, é o caminho mais seguro.
+Isso tem dois efeitos práticos. O primeiro é que a declaração precisa ser verdadeira. O art. 27, III, exclui quem apresentar informações fraudulentas sobre renda e dados pessoais. O segundo é que, como vale a maior das duas, declarar menos não reduz a conta quando a pesquisa encontra renda maior. Declarar pelo valor real, com uma média honesta, é o caminho mais seguro.
 
 Como o cadastro é de responsabilidade do município e do CadÚnico, o edital da sua cidade pode pedir documentos extras, como extratos ou declaração de atividade. Leia o edital antes de montar a pasta.
 
 ## Faixas com financiamento: o banco decide
 
-Nas Faixas 2, 3 e 4, e na Faixa 1 quando a família prefere financiar, a análise é feita pelo banco que opera o programa. O Ministério das Cidades informa que, nas faixas financiadas, o cadastro é feito no Banco do Brasil ou na Caixa, que operam o programa. Não existe uma lista nacional de documentos para autônomo. Cada instituição aplica a própria política de crédito, dentro das regras do programa.
+Nas faixas com financiamento, inclusive a Faixa 1 quando a família prefere financiar, a análise é feita pelo banco que opera o programa. O Ministério das Cidades informa que, nas Faixas 1 a 3 em unidades financiadas, o cadastro é feito no Banco do Brasil ou na Caixa. A página do ministério não trata desse ponto para a Faixa 4. Não existe uma lista nacional de documentos para autônomo. Cada instituição aplica a própria política de crédito, dentro das regras do programa.
 
 Na prática, a comprovação mais usada por bancos é a seguinte:
 

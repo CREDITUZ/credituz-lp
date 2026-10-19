@@ -44,7 +44,7 @@ Na prática, isso significa que o imóvel subsidiado não pode virar um investim
 
 ## Imóveis do FAR e do FDS: 60 meses
 
-Nos contratos do FAR e do FDS, a Portaria MCID 1.248/2023 traz duas regras que se somam. O artigo 5º prevê uma cláusula de inalienabilidade de 60 meses no imóvel. O artigo 6º proíbe a transferência entre vivos pelo mesmo período e, nos casos de quitação antecipada, até a quitação, segundo o resumo do texto que consultei.
+Nos contratos do FAR e do FDS, a Portaria MCID 1.248/2023 traz duas regras que se somam. O artigo 5º, §2º, manda registrar na matrícula do imóvel uma cláusula de inalienabilidade de 60 meses. O artigo 6º proíbe a transferência entre vivos pelo mesmo período, que pode ser contado até a quitação do saldo nos casos de renegociação ou de quitação antecipada.
 
 Isso quer dizer que, mesmo depois de muitos anos de pagamento, não é possível passar o imóvel para outra pessoa sem seguir as regras. Quem quer vender cedo precisa, na maioria dos casos, quitar primeiro. O texto sobre [quitação antecipada](/artigos/minha-casa-minha-vida-quitar-antes) mostra como funciona esse caminho.
 

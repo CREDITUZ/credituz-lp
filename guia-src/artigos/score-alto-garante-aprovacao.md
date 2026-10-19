@@ -41,7 +41,7 @@ O score dos bureaus, como Serasa e Boa Vista, estima a probabilidade de você pa
 
 Isso explica o paradoxo: a pessoa pode ter a melhor nota do mercado e ainda assim receber uma carta de crédito menor do que esperava, ou nenhuma. O banco não está dizendo que você paga mal. Está dizendo que, com a renda e as dívidas que ele consegue enxergar, a parcela não cabe com folga.
 
-Nenhum banco divulga o peso que dá a cada fator. Por isso, o que se pode fazer é entender a lógica geral e perguntar sobre cada ponto ao analisar a proposta.
+Os bancos costumam não divulgar o peso de cada fator. Por isso, o que se pode fazer é entender a lógica geral e perguntar sobre cada ponto ao analisar a proposta.
 
 ## Os fatores que mais pesam quando a nota já é boa
 
@@ -52,9 +52,9 @@ Nenhum banco divulga o peso que dá a cada fator. Por isso, o que se pode fazer 
 | Dívidas no SCR | Empréstimos, financiamentos e cartão consomem a margem | Operações registradas no Sistema de Informações de Crédito |
 | Cota de financiamento e entrada | Quanto menor a cota, mais dinheiro seu é necessário | Valor do imóvel e percentual permitido pela modalidade |
 | Avaliação e documentos do imóvel | O banco financia com base no valor do imóvel e na situação jurídica | Laudo de engenharia, matrícula, certidões do vendedor |
-| Idade somada ao prazo | Limita o prazo, e um prazo menor aumenta a parcela | Regra de cada banco, ligada ao seguro obrigatório |
+| Idade somada ao prazo | Limita o prazo, e um prazo menor aumenta a parcela | Regra de cada banco, verificada na simulação |
 
-A ordem da tabela não é um ranking oficial, mas ajuda a enxergar onde a nota para de ajudar. Os três primeiros itens são os que mais aparecem nas recusas de quem tem bom histórico.
+A ordem da tabela não é um ranking oficial. Ela ajuda a enxergar onde a nota deixa de ajudar.
 
 ### Renda comprovada
 
@@ -76,7 +76,7 @@ Mesmo com renda suficiente, o banco não financia 100% do imóvel. A cota é o p
 
 ### Idade somada ao prazo
 
-Os bancos limitam a soma da idade do comprador com o prazo do financiamento, ligada à aceitação do seguro obrigatório. Quanto mais velho o comprador, menor tende a ser o prazo permitido, e um prazo menor eleva a parcela. O limite exato varia por banco e por modalidade, então confirme na simulação. O mecanismo aparece com detalhes em [análise de crédito do financiamento](/artigos/analise-de-credito-como-funciona).
+Cada banco define um limite para a soma da idade do comprador com o prazo do financiamento. Quanto mais velho o comprador, menor tende a ser o prazo permitido, e um prazo menor eleva a parcela. O limite exato varia por banco e por modalidade, então confirme na simulação. O mecanismo aparece com detalhes em [análise de crédito do financiamento](/artigos/analise-de-credito-como-funciona).
 
 ## Exemplo ilustrativo: nota excelente e renda parcialmente comprovada
 
@@ -117,7 +117,7 @@ Antes de tentar outro banco, peça a motivação geral da recusa por escrito. A 
 - **Achar que a nota compensa a falta de comprovação.** O banco avalia o que pode verificar.
 - **Escolher o imóvel antes de simular.** Quem compra com a carta de crédito na mão tende a descobrir, na avaliação, que o valor aprovado não cobre o imóvel.
 - **Aceitar a primeira proposta sem olhar a parcela.** Dois bancos com a mesma nota podem oferecer valores bem diferentes.
-- **Fazer muitos pedidos ao mesmo tempo.** Cada consulta formal ao CPF pode pesar no pilar de busca por crédito do score.
+- **Fazer muitos pedidos ao mesmo tempo.** Cada pedido formal pode gerar uma consulta ao seu CPF, e muitas consultas em pouco tempo podem pesar na análise.
 
 ## Resumo
 

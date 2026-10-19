@@ -4,11 +4,11 @@ description: "O teto do imóvel no Minha Casa Minha Vida muda conforme o porte e
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Nas Faixas 1 e 2, o teto do imóvel vai de R$ 210 mil a R$ 275 mil, conforme o tamanho e a classificação regional do município."
   - "A tabela da Resolução CCFGTS 1.138/2025 começou a valer em 2 de janeiro de 2026 e substituiu os valores anteriores."
-  - "Na Faixa 3, a imprensa cita teto de R$ 400 mil. Na Faixa 4, o teto é de R$ 600 mil, e não depende da cidade."
+  - "Na Faixa 3, a imprensa cita aumento do teto de R$ 350 mil para R$ 400 mil, sem norma localizada. Na Faixa 4, o teto é de R$ 600 mil, e não depende da cidade."
   - "O teto vale para o valor de venda do imóvel, mas o banco ainda limita o financiamento pela avaliação."
   - "Para saber a sua faixa de teto, cruze o porte e a classificação do município e confirme na simulação do banco."
 faq:
@@ -17,7 +17,7 @@ faq:
   - q: "Imóvel acima do teto da cidade pode ser financiado pelo programa?"
     a: "Nas Faixas 1 e 2, não com recursos do FGTS e subsídio. Pode haver financiamento comum, sem subsídio e com as regras de mercado, mas são operações diferentes."
   - q: "O teto considera o preço de venda ou a avaliação?"
-    a: "A resolução fala em limite de valor de venda. Na prática, o banco também compara o preço com a avaliação do imóvel, e a parte financiada costuma incidir sobre o menor dos dois valores."
+    a: "A resolução fala em limite de valor de venda. Na prática, o banco também compara o preço com a avaliação do imóvel, e a avaliação pode reduzir o valor financiado."
   - q: "Por que reportagens citam valores diferentes?"
     a: "Porque houve atualizações em 2025 e em 2026, e algumas matérias usam tabelas anteriores. Vale a resolução mais recente publicada no Diário Oficial da União."
 sources:
@@ -25,7 +25,7 @@ sources:
     url: "https://okai.com.br/documento/2025-12-19/resolucao-ccfgts-nº-1-138-de-18-de-dezembro-de-2025"
   - title: "CCFGTS atualiza limites de valor para imóveis financiados com recursos do FGTS a partir de 2026 (Atlas Público)"
     url: "https://atlaspublico.com.br/noticias/ccfgts-atualiza-limites-de-valor-para-imoveis-financiados-16258"
-  - title: "Resolução CCFGTS nº 1.116/2025, consolidada (Faixa 4, renda e valor de imóvel)"
+  - title: "Resolução CCFGTS nº 1.116/2025, consolidada com a redação da Resolução 1.148/2026 (Faixa 4, renda e valor de imóvel)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/resolucoes/ccfgts/Res_CCFGTS_2025_1116_Compilada1.pdf"
   - title: "Minha Casa Minha Vida amplia renda e teto dos imóveis (BP Money, 24/03/2026)"
     url: "https://bpmoney.com.br/brasil/minha-casa-minha-vida-amplia-renda-e-teto-dos-imoveis/"
@@ -40,7 +40,7 @@ Os limites de renda de cada faixa estão em [Minha Casa Minha Vida 2026](/artigo
 
 ## Como o teto é definido nas Faixas 1 e 2
 
-A Resolução CCFGTS 1.138, de 18 de dezembro de 2025, trocou o artigo 20 da Resolução 702/2012, que regula o financiamento habitacional com recursos do FGTS. O novo artigo traz uma tabela de limites de valor de venda. Nela, duas coisas se cruzam: a classificação territorial do município e a faixa de população. O texto diz que a resolução entra em vigor em 2 de janeiro de 2026.
+A Resolução CCFGTS 1.138, de 18 de dezembro de 2025, trocou o artigo 20 da Resolução 702/2012, que regula o financiamento habitacional com recursos do FGTS. O novo artigo traz uma tabela de limites de valor de venda. Nela, duas coisas se cruzam: a classificação territorial do município e a faixa de população. O artigo 3º diz que a resolução entra em vigor em 2 de janeiro de 2026.
 
 A tabela ficou assim:
 
@@ -53,13 +53,13 @@ A tabela ficou assim:
 
 Como ler a tabela: escolha a linha que corresponde à classificação da cidade e a coluna que corresponde ao número de habitantes. A célula encontrada é o teto de valor de venda para a Faixa 1 e para a Faixa 2 naquele município. A tabela não traz a lista de cidades, e o trecho da resolução que consultei também não explica como cada município entra em cada linha. Por isso, a classificação precisa ser confirmada na fonte oficial ou com o banco.
 
-Duas observações sobre a tabela. A primeira é que a célula da última linha, para cidades com 750 mil habitantes ou mais, aparece sem valor. Na prática, essas cidades costumam estar nas linhas de metrópole. A segunda é que matérias antigas citam tetos que já não valem, como R$ 250 mil ou R$ 264 mil. Se você encontrar um número desses, verifique a data da matéria antes de usá-lo.
+Duas observações sobre a tabela. A primeira é que a célula da última linha, para cidades com 750 mil habitantes ou mais, aparece sem valor. Na prática, essas cidades costumam estar nas linhas de metrópole. A segunda é que matérias antigas citam tetos de tabelas anteriores, que já não valem. Se você encontrar um número sem data ou sem norma, verifique a data da matéria antes de usá-lo.
 
 ## Faixas 3 e 4: tetos sem tabela por cidade
 
-Na Faixa 4, a Resolução CCFGTS 1.116/2025 fixa no artigo 3º o valor máximo de R$ 600 mil para o imóvel, e a versão consolidada que consultei mostra esse valor com a renda de R$ 13 mil da Faixa 4. A mesma regra vale em todas as cidades, sem tabela por município.
+Na Faixa 4, o artigo 3º da Resolução CCFGTS 1.116/2025, na redação dada pela Resolução CCFGTS 1.148, de 24 de março de 2026, fixa o valor máximo de R$ 600 mil para o imóvel. O artigo 2º da mesma versão traz a renda bruta de até R$ 13 mil. A regra vale em todas as cidades, sem tabela por município.
 
-Na Faixa 3, a imprensa de março de 2026 falou em teto entre R$ 350 mil e R$ 400 mil, sem explicar em que casos cada valor se aplica. Não encontrei a resolução que fixa esse número, por isso trate R$ 400 mil como referência a confirmar. Peça ao banco o teto vigente para a sua cidade antes de escolher o imóvel.
+Na Faixa 3, uma reportagem de 24 de março de 2026 informou que o teto subiria de R$ 350 mil para R$ 400 mil, sem citar a resolução que fixa o valor. Não encontrei essa norma, por isso trate R$ 400 mil como referência a confirmar. Peça ao banco o teto vigente para a sua cidade antes de escolher o imóvel.
 
 ## Como consultar o teto da sua cidade
 
@@ -117,14 +117,14 @@ Peça as respostas por escrito e guarde o protocolo. Elas valem mais do que uma 
 
 - **Usar a tabela antiga.** Valores de 2025 foram substituídos pela tabela de janeiro de 2026. Verifique sempre a data.
 - **Pesquisar só o valor da capital.** Cidades da mesma região podem ter tetos diferentes.
-- **Confiar em "teto de R$ 500 mil" em textos antigos.** Esse valor não é o teto atual de nenhuma faixa do programa.
+- **Confiar em "teto de R$ 500 mil" em textos antigos.** Esse valor não aparece nas normas que consultei para as faixas atuais.
 - **Ignorar a avaliação.** O teto é um limite de valor de venda. A avaliação do banco pode reduzir a parte financiada.
 
 ## Resumo e próximos passos
 
 - Nas Faixas 1 e 2, o teto vai de R$ 210 mil a R$ 275 mil, pela tabela de porte e classificação regional.
 - A tabela vale desde 2 de janeiro de 2026, segundo a Resolução CCFGTS 1.138/2025.
-- Na Faixa 4, o teto é de R$ 600 mil em todo o país, pela Resolução CCFGTS 1.116/2025.
+- Na Faixa 4, o teto é de R$ 600 mil em todo o país, pela Resolução CCFGTS 1.116/2025, com a redação dada pela 1.148/2026.
 - Na Faixa 3, a imprensa cita R$ 400 mil, mas esse número precisa ser confirmado na fonte oficial.
 - Antes de escolher o imóvel, confirme o teto no banco e simule com o valor real.
 

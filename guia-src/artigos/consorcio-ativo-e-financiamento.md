@@ -9,7 +9,7 @@ key_points:
   - "Consórcio não é empréstimo: a lei o define como autofinanciamento em grupo, e as modalidades de crédito do SCR não o listam."
   - "Mesmo assim, a parcela mensal do consórcio é uma saída fixa de caixa, e cada banco decide se a considera na conta de renda."
   - "Não há regra oficial sobre o tema. A resposta vem da política do banco, por isso pergunte por escrito antes de pedir a análise."
-  - "Em um exemplo ilustrativo, uma parcela de consórcio de R$ 900 reduziria o financiamento possível em cerca de R$ 76 mil se fosse considerada na renda."
+  - "Se a parcela for considerada na renda, ela reduz a margem da mesma forma que outra parcela fixa, e o efeito cresce com o valor pago todo mês."
 faq:
   - q: "Consórcio aparece no SCR do Banco Central?"
     a: "Não é uma das modalidades de crédito listadas na metodologia do SCR.data, que cobre operações como empréstimos, financiamentos de veículos e imóveis, cartão e outros créditos. Confirme na consulta do seu Registrato."
@@ -57,16 +57,11 @@ Por isso, o consórcio não se encaixa no SCR da mesma forma que um financiament
 
 A última linha é a mais importante. Quando não há regra clara, a informação útil é a resposta do banco. Peça o parecer da análise, a parcela considerada e a renda usada no cálculo.
 
-## Quanto pode pesar: exemplo ilustrativo
+## Quanto pode pesar
 
-Exemplo ilustrativo, com números redondos. Tiago tem renda bruta de R$ 9.000 e uma parcela de consórcio de R$ 900 por mês, em andamento e sem contemplação. Ele quer financiar um imóvel, com taxa efetiva de 11,5% ao ano, prazo de 360 meses e tabela SAC, sem seguros e tarifas.
+O efeito depende de duas coisas: o valor da parcela e a margem que sobra depois das outras dívidas. Quanto maior a parcela em relação à margem, maior a perda de valor possível do imóvel. Se o banco descontar a parcela como despesa fixa, a conta é a mesma usada para qualquer outra parcela: a margem diminui pelo valor pago todo mês. Não há um número padrão. Alguns bancos podem não descontar nada, e outros podem descontar uma parte. O único jeito de saber o seu caso é perguntar.
 
-| Cenário | Parcela considerada na renda | Margem para o imóvel | Financiamento aproximado |
-|---|---|---|---|
-| Consórcio não é descontado | R$ 0 | R$ 2.700 | R$ 227 mil |
-| Consórcio é descontado como despesa fixa | R$ 900 | R$ 1.800 | R$ 151 mil |
-
-A diferença é de cerca de R$ 76 mil. O exemplo mostra o tamanho do efeito, não uma previsão. Alguns bancos podem não descontar nada, e outros podem descontar uma parte. O único jeito de saber o seu caso é perguntar.
+Para levar um número concreto à análise, peça à administradora um extrato com o valor atual da parcela, o número de parcelas que faltam e a situação do grupo, incluindo a previsão de contemplação. Com esse documento em mãos, a conversa com o banco fica objetiva, e você sabe exatamente qual parcela está sendo discutida.
 
 ## O que perguntar ao banco
 
@@ -125,5 +120,5 @@ O consórcio pode fazer parte de um plano para comprar um imóvel, desde que o c
 
 - Consórcio não é empréstimo e não aparece entre as modalidades do SCR.data, mas a parcela pode entrar na conta de renda.
 - Não há regra oficial sobre isso, e a resposta depende da política do banco.
-- Em um exemplo ilustrativo, uma parcela de R$ 900 reduziria o financiamento possível em cerca de R$ 76 mil.
+- O efeito sobre o financiamento depende do valor da parcela e da margem que sobra, e só o banco diz se considera a parcela.
 - Pergunte ao banco por escrito, recalcule a margem e avalie as alternativas com o contrato em mãos.

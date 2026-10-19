@@ -26,8 +26,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
   - title: "Banco Central: metodologia do SCR.data (periodicidade de atualização dos dados)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/scr/scr.data/scr_data_metodologia.pdf"
-  - title: "Procon Juiz de Fora: monitoramento das taxas de juros de junho de 2026 (taxas médias mensais, referência de mercado)"
-    url: "https://www.pjf.mg.gov.br/administracao_indireta/procon/observatorio/arquivos/Monitoramento-Taxa-de-Juros-junho-de-2026.pdf"
 related: [comprometimento-de-renda, cet-financiamento-imobiliario, renda-para-financiar-imovel, score-alto-garante-aprovacao]
 ---
 
@@ -57,25 +55,25 @@ Por isso, a taxa de juros pode ser de um valor e o CET de outro. Uma tarifa paga
 
 Exemplo ilustrativo, com números redondos. Mariana tem renda bruta de R$ 9.000 e nenhuma dívida. Nas premissas de uma simulação com taxa efetiva de 11,5% ao ano, prazo de 360 meses e tabela SAC, sem contar seguros e tarifas, ela financiaria cerca de R$ 227 mil, com a parcela de R$ 2.700 como teto.
 
-Antes de pedir o financiamento, ela pega um empréstimo pessoal de R$ 8.000 em 36 parcelas fixas (tabela Price). Usei como taxa de referência a média de 7,02% ao mês para crédito pessoal não consignado publicada pelo Procon de Juiz de Fora para a semana de 16 a 22 de junho de 2026, que tem como base dados de mercado. A taxa é ilustrativa e deve ser conferida na série oficial do Banco Central antes de qualquer decisão.
+Antes de pedir o financiamento, ela pega um empréstimo pessoal de R$ 8.000 em 36 parcelas fixas (tabela Price), a 7% ao mês. Essa é uma taxa redonda, escolhida só para o exemplo, e não a média de nenhum banco. Antes de decidir, consulte as taxas de juros por modalidade no site do Banco Central e peça o CET de propostas reais.
 
 | Cenário | Parcela comprometida | Margem para o imóvel | Financiamento aproximado |
 |---|---|---|---|
 | Sem empréstimo | R$ 0 | R$ 2.700 | R$ 227 mil |
-| Com empréstimo de R$ 8 mil em 36x | R$ 615 | R$ 2.085 | R$ 175 mil |
+| Com empréstimo de R$ 8 mil em 36x | R$ 614 | R$ 2.086 | R$ 175 mil |
 
 Com o empréstimo, o financiamento possível cai cerca de R$ 52 mil. Esse é o efeito de uma parcela que parece pequena quando comparada à renda. Ela não é a única perda: Mariana também paga juros, que não aparecem na margem, mas saem do seu caixa.
 
 ### Exemplo ilustrativo: o CET com tarifa
 
-Ainda no mesmo exemplo, suponha que o banco cobre uma tarifa de R$ 400 descontada do valor liberado, de modo que Mariana recebe R$ 7.600 e paga as mesmas 36 parcelas de R$ 615.
+Ainda no mesmo exemplo, suponha que o banco cobre uma tarifa de R$ 400 descontada do valor liberado, de modo que Mariana recebe R$ 7.600 e paga as mesmas 36 parcelas de R$ 614.
 
 | Medida | Valor aproximado |
 |---|---|
-| Taxa de juros mensal | 7,02% |
-| Taxa de juros anual equivalente | cerca de 126% |
-| CET mensal com a tarifa | cerca de 7,49% |
-| CET anual aproximado | cerca de 138% |
+| Taxa de juros mensal | 7% |
+| Taxa de juros anual equivalente | cerca de 125% |
+| CET mensal com a tarifa | cerca de 7,47% |
+| CET anual aproximado | cerca de 137% |
 
 A tarifa de R$ 400 faz o custo anual subir cerca de 12 pontos percentuais. Esse é o tipo de diferença que a comparação pelo CET revela e a taxa de juros esconde. Sempre peça o CET por escrito antes de assinar, como mostra o guia sobre [CET no financiamento imobiliário](/artigos/cet-financiamento-imobiliario).
 
@@ -121,7 +119,7 @@ Para o cartão, o tema tem detalhes próprios, como o teto de juros do rotativo.
 
 ### Como conferir a taxa oficial
 
-As taxas de juros divulgadas por um levantamento de mercado, como o do Procon de Juiz de Fora usado neste texto, são referências. Para a série oficial, consulte as estatísticas de taxas de juros das operações de crédito no site do Banco Central, que publica as médias por modalidade. Use essa informação para checar se a taxa oferecida está na faixa do mercado, e depois compare os CETs das propostas concretas.
+Levantamentos de mercado e taxas anunciadas por bancos são referências, não médias oficiais. Para a série oficial, consulte as estatísticas de taxas de juros das operações de crédito no site do Banco Central, que publica as médias por modalidade. Use essa informação para checar se a taxa oferecida está na faixa do mercado, e depois compare os CETs das propostas concretas.
 
 ### Erros que mais custam caro
 

@@ -46,7 +46,7 @@ Um exemplo ilustrativo ajuda a ver a conta. Uma parcela de R$ 3.000 fica dois me
 
 ## Segunda etapa: intimação e prazo de 15 dias
 
-Quando a dívida fica vencida e não é paga, o credor pode iniciar a execução da garantia. Nos financiamentos com alienação fiduciária, que são a maioria, a Lei 9.514/1997 manda intimar o devedor. O artigo 26, §3º, diz que a intimação é feita pessoalmente, e o §1º dá ao devedor 15 dias para pagar a dívida em atraso.
+Quando a dívida fica vencida e não é paga, o credor pode iniciar a execução da garantia. Nos financiamentos com alienação fiduciária, a Lei 9.514/1997 manda intimar o devedor. O §3º do artigo 26 prevê intimação pessoal, que também pode ser feita por oficial de registro ou pelo correio com aviso de recebimento. O §1º dá ao devedor 15 dias para pagar a dívida em atraso.
 
 O contrato também pode prever um período de carência antes da intimação, segundo o §2º do mesmo artigo. Por isso, uma parcela atrasada não gera automaticamente a intimação, e a data da carta é o marco que importa.
 

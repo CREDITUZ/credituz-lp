@@ -56,7 +56,7 @@ A parcela do carro reduz o financiamento possível em cerca de R$ 100 mil nessas
 
 ## Quitar ou esperar: a conta que importa
 
-Se Paula decidir quitar o carro antes de pedir o financiamento, ela precisa saber o saldo devedor. Como ilustração, se o saldo com a redução proporcional de juros ficar por volta de R$ 23 mil, a quitação libera a margem de R$ 1.200 por mês. O valor real depende da taxa do contrato, do que já foi pago e da forma como o banco aplica a redução.
+Se Paula decidir quitar o carro antes de pedir o financiamento, ela precisa saber o saldo devedor. Como ilustração, se o saldo com a redução proporcional de juros ficar por volta de R$ 23 mil (valor que supõe juros de cerca de 2% ao mês, só para o exemplo), a quitação libera a margem de R$ 1.200 por mês. O valor real depende da taxa do contrato, do que já foi pago e da forma como o banco aplica a redução.
 
 As opções ficam assim:
 

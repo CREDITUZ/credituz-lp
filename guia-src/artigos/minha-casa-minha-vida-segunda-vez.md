@@ -10,7 +10,7 @@ key_points:
   - "A MP 1.382/2026 retirou do art. 9º, III, a expressão 'nos últimos 10 anos', e a vedação por benefício anterior passou a valer sem prazo."
   - "Se a MP perder a validade sem virar lei, a redação anterior, com prazo de 10 anos, tende a voltar a valer."
   - "A MP teve a vigência prorrogada até 28 de novembro de 2026, segundo a imprensa, e ainda precisa ser votada."
-  - "Quem tem financiamento ativo com FGTS ou no SFH não pode receber novo subsídio (art. 9º, I)."
+  - "Quem tem financiamento ativo com recursos do FGTS ou em condições equivalentes às do SFH não pode receber novo subsídio (art. 9º, I)."
 faq:
   - q: "Quem já recebeu o subsídio pode voltar a usar o programa?"
     a: "Não para outro subsídio, porque a concessão é única por beneficiário. Pode haver financiamento sem subsídio, conforme a faixa e a política do banco, mas ele segue as regras gerais."
@@ -25,8 +25,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14620.htm"
   - title: "Medida Provisória nº 1.382/2026 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1382.htm"
-  - title: "MP 1.382/2026, sumário de proposições (Senado Federal)"
-    url: "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1382"
   - title: "Congresso prorroga MP que amplia garantias do Minha Casa, Minha Vida (Poder360)"
     url: "https://www.poder360.com.br/poder-economia/minha-casa-minha-vida-congresso-prorroga-mp-que-amplia-garantias/"
   - title: "Portaria MCID nº 738/2024 (seleção de famílias, Ministério das Cidades)"
@@ -69,7 +67,7 @@ Se a MP não for convertida em lei, o texto anterior tende a voltar a valer, com
 
 ## A Portaria de 2023 tem outra redação
 
-A Portaria MCID 1.248/2023, que trata de contratos do FAR e do FDS, também fala em vedação por 10 anos no artigo 4º, pelo resumo do texto que consultei. Essa portaria é de nível inferior à lei, e a convivência entre as regras pode gerar dúvida na análise. Pergunte ao agente financeiro qual regra será aplicada ao seu caso e peça a resposta por escrito.
+A Portaria MCID 1.248/2023, que trata de contratos do FAR e do FDS, também fala em vedação por benefícios recebidos nos últimos 10 anos, no seu artigo 4º. Essa portaria é de nível inferior à lei, e a convivência entre as regras pode gerar dúvida na análise. Pergunte ao agente financeiro qual regra será aplicada ao seu caso e peça a resposta por escrito.
 
 ## Subsídio não é o mesmo que financiamento
 

@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "Parcelas do cartão e uso recorrente do crédito entram na análise de comprometimento de renda, e um cartão usado no limite pesa mais do que parece."
-  - "Atraso na fatura, rotativo e parcelamento da fatura são formas de crédito caras, e a Lei 14.690/2023 limita os encargos do rotativo a 100% do valor original da dívida."
+  - "Atraso na fatura, rotativo e parcelamento da fatura são formas de crédito caras. Desde janeiro de 2024, juros e encargos do rotativo e do parcelamento não podem passar do valor original da dívida."
   - "Em um exemplo ilustrativo, uma fatura de R$ 2 mil em rotativo virou mais de R$ 3 mil em três meses, antes de qualquer análise de crédito."
   - "Pagar a fatura integral nos meses antes da análise e conferir o SCR no Registrato são as ações mais diretas para não atrapalhar o financiamento."
 faq:
@@ -16,20 +16,18 @@ faq:
   - q: "Rotativo do cartão e parcelamento da fatura são a mesma coisa?"
     a: "Não. No rotativo, você paga parte da fatura e o restante entra como dívida com juros. No parcelamento da fatura, a dívida inteira vira parcelas com encargos. A Lei 14.690/2023 trata os dois casos no mesmo artigo."
   - q: "Existe limite para os juros do rotativo?"
-    a: "Sim. Pela Lei 14.690/2023, art. 28, o total cobrado em juros e encargos no rotativo e no parcelamento da fatura não pode passar do valor original da dívida quando não houver limite aprovado pelo CMN. Na prática, o teto de 100% passou a valer em 2024."
+    a: "Sim. Pela Lei 14.690/2023, art. 28, § 1º, na falta de limite aprovado no prazo, o total cobrado em juros e encargos no rotativo e no parcelamento da fatura não pode passar do valor original da dívida. A Resolução CMN nº 5.112, de 21/12/2023, prevê esse limite para as operações a partir de janeiro de 2024."
   - q: "Cancelar o cartão antes de financiar ajuda?"
     a: "Não resolve uma dívida já existente. Se houver saldo em aberto, ele continua sendo dívida. Cancelar um cartão sem uso também não garante melhora automática, então olhe o conjunto: saldo, atraso e uso do limite."
 sources:
   - title: "Lei 14.690/2023, art. 28: limites para juros do rotativo e do parcelamento de fatura de cartão"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14690.htm"
-  - title: "Migalhas: CMN regulamenta lei do Desenrola e limita juros do rotativo a 100% (reportagem de 22/12/2023)"
-    url: "https://www.migalhas.com.br/quentes/399499/cmn-regulamenta-lei-do-desenrola-e-limita-juros-do-rotativo-a-100"
+  - title: "Mattos Filho: CMN e Banco Central publicam normas da Lei do Desenrola (Resolução CMN nº 5.112, de 21/12/2023)"
+    url: "https://www.mattosfilho.com.br/unico/banco-lei-desenrola/"
   - title: "Banco Central: metodologia do SCR.data (modalidades, atraso acima de 90 dias e atualização mensal)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/scr/scr.data/scr_data_metodologia.pdf"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (publicado em 18/06/2026)"
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
-  - title: "Procon Juiz de Fora: monitoramento das taxas de juros de junho de 2026 (referência de mercado, não oficial)"
-    url: "https://www.pjf.mg.gov.br/administracao_indireta/procon/observatorio/arquivos/Monitoramento-Taxa-de-Juros-junho-de-2026.pdf"
 related: [comprometimento-de-renda, limpar-nome-antes-de-financiar, registrato, score-baixo-o-que-fazer]
 ---
 
@@ -59,25 +57,25 @@ Não confirmei em fonte oficial se e como o banco considera o limite de cartão 
 | Rotativo | Você paga parte da fatura e o saldo restante rende juros | Dívida recorrente, muitas vezes a mais cara do cartão |
 | Parcelamento da fatura | O saldo vira parcelas, com encargos | Parcela fixa que entra na conta de renda |
 
-O rotativo costuma ser a forma mais cara. Pelo levantamento do Procon de Juiz de Fora para a semana de 16 a 22 de junho de 2026, com base em dados de mercado, a taxa média do rotativo estava em 14,93% ao mês. É uma referência de mercado, não uma taxa oficial. Para o número oficial, consulte as séries de taxas de juros do Banco Central.
+O rotativo costuma ser a forma mais cara. As taxas variam por banco e mudam com frequência, por isso este texto não cita uma média. Para a média oficial por modalidade, consulte as séries de taxas de juros do Banco Central, e para a sua dívida, peça o CET ao emissor do cartão.
 
 ## O que a lei diz sobre os juros do rotativo
 
 A Lei 14.690/2023, no art. 28, determinou que os emissores de cartão submetessem ao Conselho Monetário Nacional limites para juros e encargos do rotativo e do parcelamento do saldo devedor da fatura. O § 1º do mesmo artigo estabelece que, se esses limites não fossem aprovados no prazo de 90 dias, o total cobrado em juros e encargos não poderia exceder o valor original da dívida.
 
-Na prática, a regra que passou a valer foi a de teto de 100%: a soma de juros e encargos não ultrapassa o valor original. O CMN regulamentou a medida em dezembro de 2023, e o limite passou a valer a partir de 3 de janeiro de 2024, segundo a imprensa da época. A lei não fixa um percentual de juros nem um prazo de 12 meses, então não repita números de outras fontes sem conferir.
+Na prática, a regra que passou a valer é a de teto de 100%: a soma de juros e encargos não ultrapassa o valor original da dívida. A Resolução CMN nº 5.112, de 21 de dezembro de 2023, tratou do limite, que vale para as operações a partir de janeiro de 2024. A lei não fixa uma taxa de juros: o teto é o valor original da dívida.
 
 Esse teto é uma proteção, mas não torna o rotativo barato. Ele só impede que a dívida cresça indefinidamente, e o saldo pode chegar ao dobro do valor original antes de o teto ser atingido.
 
 ## Exemplo ilustrativo: fatura de R$ 2 mil no rotativo
 
-Exemplo ilustrativo, com juros de 14,93% ao mês, a taxa média do levantamento do Procon citada acima, e sem novas compras. Carlos tem uma fatura de R$ 2.000 e paga apenas uma parte, deixando o restante no rotativo.
+Exemplo ilustrativo, com juros de 15% ao mês, taxa redonda usada só no cálculo, e sem novas compras. Carlos tem uma fatura de R$ 2.000 e paga apenas uma parte, deixando o restante no rotativo.
 
 | Tempo no rotativo | Saldo devedor | Juros acumulados |
 |---|---|---|
-| 1 mês | R$ 2.298,60 | R$ 298,60 |
-| 3 meses | R$ 3.036,20 | R$ 1.036,20 |
-| 6 meses | R$ 4.609,25 | R$ 2.609,25 |
+| 1 mês | R$ 2.300,00 | R$ 300,00 |
+| 3 meses | R$ 3.041,75 | R$ 1.041,75 |
+| 6 meses | R$ 4.626,12 | R$ 2.626,12 |
 
 Em três meses, a dívida cresce mais de 50%, e o saldo ocupa uma parte relevante da margem que o banco usaria para a parcela do imóvel. Pelas premissas do exemplo, o total de juros passaria do valor original da fatura por volta do quinto mês, que é justamente o ponto em que a regra de teto de 100% entra em cena. Esse número depende da taxa do momento e do contrato, por isso serve apenas para entender a ordem de grandeza.
 
@@ -89,7 +87,7 @@ Se a alternativa for o rotativo, compare o CET (Custo Efetivo Total) das duas op
 
 ## O que fazer antes de pedir o financiamento
 
-1. **Consulte o Registrato.** O relatório do SCR é gratuito no Banco Central, com acesso pela conta gov.br. Confira se há saldos, operações ou valores vencidos que você não reconhece.
+1. **Consulte o Registrato.** O relatório do SCR pode ser consultado no Registrato, serviço do Banco Central. Confira se há saldos, operações ou valores vencidos que você não reconhece.
 2. **Pague a fatura integral nos meses anteriores.** Quanto antes, melhor. Use o débito automático com um valor de reserva para evitar esquecimentos.
 3. **Quite o rotativo com o dinheiro disponível e, se houver saldo restante, negocie a dívida.** Não contrate um empréstimo para pagar o cartão sem fazer a conta do CET.
 4. **Reduza o uso do limite.** Usar quase todo o limite todo mês sinaliza aperto, mesmo sem atraso.

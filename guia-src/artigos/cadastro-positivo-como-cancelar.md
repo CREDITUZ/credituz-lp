@@ -16,17 +16,17 @@ faq:
   - q: "Quanto tempo leva para o cancelamento valer?"
     a: "A Lei 12.414/2011 prevê atendimento em até 2 dias úteis. A Serasa informa o mesmo prazo para o pedido feito pelo site, com comunicação aos demais bancos de dados participantes."
   - q: "Cancelar o cadastro positivo melhora o score?"
-    a: "Em geral, não. Sem o histórico de pagamentos em dia, o modelo perde a informação que mais pesa a favor de quem paga bem. Cancele só se tiver um motivo concreto."
+    a: "Não há motivo para esperar melhora. Sem o histórico de pagamentos, o modelo deixa de usar uma informação que favorece quem paga em dia. Cancele só se tiver um motivo concreto."
   - q: "Posso cancelar pelo telefone?"
-    a: "Pela página oficial da Serasa, o telefone 0800 776 6606 serve para tirar dúvidas, e o cancelamento é feito pelo site ou por correspondência. Antes de pedir, confirme no canal do gestor como ele aceita o pedido."
+    a: "Sim. A lei aceita o pedido por telefone, físico ou eletrônico (art. 5º, § 5º). A página da Serasa indica o 0800 776 6606 para dúvidas e descreve o pedido pelo site e por correspondência, então confirme no canal do gestor como ele aceita o pedido por telefone."
 sources:
-  - title: "Lei 12.414/2011 (Cadastro Positivo), redação atual: arts. 4º e 5º"
+  - title: "Lei 12.414/2011 (Cadastro Positivo), redação atual: arts. 4º, 5º e 14"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
   - title: "Lei Complementar 166/2019, que alterou a Lei 12.414/2011"
     url: "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp166.htm"
   - title: "Serasa: como solicito a exclusão de meu cadastro positivo"
     url: "https://www.serasa.com.br/ajuda/cadastro-positivo/como-solicito-a-exclusao-de-meu-cadastro-positivo/"
-  - title: "Idec: Birôs de crédito dificultam saída do cadastro positivo (matéria de janeiro de 2020, a verificar no site de cada gestor)"
+  - title: "Idec: Birôs de crédito dificultam saída do cadastro positivo (texto de 20/01/2020, com a matéria original da Folha de 12/01/2020)"
     url: "https://idec.org.br/idec-na-imprensa/biros-de-credito-dificultam-saida-do-cadastro-positivo"
 related: [cadastro-positivo-e-open-finance, score-para-financiamento-imobiliario, registrato, aumentar-score-rapido]
 ---
@@ -53,11 +53,11 @@ Há outro efeito que a lei escreve com clareza: depois de cancelado, o históric
 
 ## O que muda no score se você sair
 
-O score da Serasa dá o maior peso, 29% segundo a própria empresa, ao histórico de pagamentos do cadastro positivo. Sem esse histórico, a nota passa a depender de outros pilares, como tempo de relacionamento com crédito, dívidas e consultas ao CPF.
+O histórico de pagamentos é a parte do cadastro positivo que mais se liga à nota de quem paga em dia. A página da Serasa sobre as faixas da nota não informa o peso de cada fator. Sem esse histórico, a nota passa a depender das outras informações do seu perfil, como dívidas e consultas ao CPF.
 
 Na prática, isso significa que:
 
-- Quem tem histórico longo e limpo tende a perder mais pontos ao sair.
+- Quem tem histórico longo e limpo pode perder mais ao sair, porque é justamente esse histórico que deixa de contar.
 - Quem tem histórico fraco ou negativado pode não sentir muita diferença, porque o cadastro já não ajuda.
 - A nota pode cair mesmo sem nenhuma dívida nova. Isso não é punição: é falta de informação positiva para o modelo.
 
@@ -89,13 +89,13 @@ A página oficial da Serasa descreve três caminhos:
 
 1. **Pelo site.** Acesse a área do cadastro positivo com CPF e senha, clique na opção de cancelamento no canto inferior da tela, leia o termo, marque a concordância e conclua. A página diz que a confirmação ocorre em até dois dias úteis e é comunicada aos demais bancos de dados participantes.
 2. **Por correspondência.** Preencha o formulário de cancelamento disponível na página, junte cópia simples do CPF e do RG ou de documento com foto que contenha esses números, e envie pelos Correios ao endereço indicado pela empresa. A página não informa prazo para esse caminho.
-3. **Por telefone.** A central 0800 776 6606 é indicada para dúvidas. A página não informa que o cancelamento pode ser feito por telefone.
+3. **Por telefone.** A lei admite o pedido por telefone (art. 5º, § 5º), mas a página da Serasa indica a central 0800 776 6606 apenas para dúvidas. Antes de ligar, confirme se o atendimento registra o pedido e como.
 
 A Serasa afirma que o processo é gratuito. Guarde o protocolo ou a confirmação, porque ela será sua prova se houver atraso no processamento.
 
 ### Os outros gestores
 
-Serasa não é o único gestor. Boa Vista, Quod, SPC Brasil e outras empresas autorizadas também podem ter seu cadastro. Em reportagem publicada em janeiro de 2020, a Folha, republicada pelo Idec, descreveu que os sites de alguns gestores exigiam cadastro antes do pedido, pediam documentos autenticados em cartório e, em um dos casos, uma selfie. Essas condições podem ter mudado, por isso confirme no site de cada um antes de agir.
+Serasa não é o único gestor. Boa Vista, Quod, SPC Brasil e outras empresas autorizadas também podem ter seu cadastro. Em reportagem da Folha publicada em 12 de janeiro de 2020, depois republicada pelo Idec, constou que os sites de alguns gestores exigiam cadastro antes do pedido, pediam documentos autenticados em cartório e, em um dos casos, uma selfie. Essas condições podem ter mudado, por isso confirme no site de cada um antes de agir.
 
 Como a lei prevê que o gestor que recebe o pedido o repasse aos demais, uma solicitação bem feita costuma bastar. Ainda assim, confira algumas semanas depois se o seu cadastro foi de fato encerrado nos outros gestores.
 
@@ -121,7 +121,7 @@ Se a sua dúvida é sobre o que o banco vê antes de financiar, a decisão costu
 
 ## Depois do cancelamento: o que continua guardado
 
-Cancelar o cadastro não significa que os dados são apagados na mesma hora. A Lei 12.414/2011, no art. 14, admite que as informações de adimplemento sejam guardadas por até 15 anos, contados da data da informação. A mesma lei, porém, proíbe usar o histórico cancelado para calcular score (art. 5º, § 8º). Na prática, o dado pode existir nos arquivos do gestor, mas não deveria alimentar a sua nota.
+Cancelar o cadastro não significa que os dados são apagados na mesma hora. A Lei 12.414/2011, no art. 14, diz que as informações de adimplemento não podem constar de bancos de dados por mais de 15 anos. A mesma lei, porém, proíbe usar o histórico cancelado para calcular score (art. 5º, § 8º). Na prática, o dado pode existir nos arquivos do gestor, mas não deveria alimentar a sua nota.
 
 Isso tem uma consequência prática: se você quiser ter certeza de que a saída foi completa, peça também a confirmação por escrito do gestor e guarde o protocolo. Se, depois de alguns meses, o seu cadastro ainda mostrar o histórico como ativo, registre uma reclamação no canal do gestor e, se necessário, no Procon da sua cidade.
 
@@ -134,7 +134,7 @@ Se você ainda está em dúvida, responda estas perguntas com honestidade:
 1. Eu vou precisar de crédito nos próximos 12 meses? Se a resposta for sim, o histórico positivo tem valor prático.
 2. O motivo da saída é privacidade, excesso de ofertas ou um erro específico nos dados? Erro se corrige, e a saída não é necessária para isso.
 3. Eu tenho histórico de atrasos? Se tenho, o cadastro positivo mostra também os pagamentos em dia que vieram depois, e isso pode ajudar a recuperar a nota.
-4. Eu sei o que vai acontecer com a minha nota? Não há como prever o número exato, porque cada gestor usa modelo próprio. Como o histórico de pagamentos tem peso alto no modelo da Serasa, a tendência para quem tinha histórico positivo longo é de queda na nota.
+4. Eu sei o que vai acontecer com a minha nota? Não há como prever o número exato, porque cada gestor usa modelo próprio. Como a Serasa não informa o peso de cada fator, o efeito exato não dá para prever. Quem tinha histórico positivo longo tende a sentir mais a perda dessa informação.
 
 ## Resumo
 

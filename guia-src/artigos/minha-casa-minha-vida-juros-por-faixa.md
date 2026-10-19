@@ -9,7 +9,7 @@ key_points:
   - "Na Faixa 4, a norma do FGTS limita a taxa ao mutuário em até 10% ao ano nominal (Resolução CCFGTS 1.116/2025, art. 6º)."
   - "Juro nominal de 10% ao ano, com capitalização mensal, equivale a cerca de 10,47% ao ano efetivos."
   - "Para as Faixas 1 a 3, as taxas que circulam na imprensa variam, e não localizei a tabela oficial completa em texto que pudesse conferir."
-  - "O subsídio não é juro. Ele é um desconto sobre o valor financiado e existe só nas Faixas 1 e 2."
+  - "O subsídio não é juro. Ele é um desconto sobre o valor financiado, com regras próprias de cada faixa."
   - "Compare propostas pelo CET, que inclui seguros e tarifas, e não só pela taxa anunciada."
 faq:
   - q: "Quanto é o juro da Faixa 4 do Minha Casa Minha Vida?"
@@ -19,24 +19,22 @@ faq:
   - q: "Qual é o juro das Faixas 1 e 2?"
     a: "Reportagens citam taxas que variam conforme a renda, a região e a cotização no FGTS, e os números não são uniformes. Confirme a taxa na simulação do banco e no contrato, porque é ela que vale."
   - q: "Subsídio e juros são a mesma coisa?"
-    a: "Não. O juro é a taxa do financiamento. O subsídio é um desconto que reduz o valor financiado e existe só nas Faixas 1 e 2, calculado conforme renda, cidade e valor do imóvel."
+    a: "Não. O juro é a taxa do financiamento. O subsídio é um desconto que reduz o valor financiado, com regras próprias de cada faixa, e aparece na simulação do banco."
   - q: "Uma taxa aprovada pode mudar depois da assinatura?"
     a: "A norma pode mudar para contratos novos, mas o contrato assinado segue o que foi pactuado. Leia a cláusula de juros e o tipo de correção antes de assinar."
 sources:
   - title: "Resolução CCFGTS nº 1.116/2025, consolidada (juros, renda e valor do imóvel na Faixa 4)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/resolucoes/ccfgts/Res_CCFGTS_2025_1116_Compilada1.pdf"
-  - title: "Instrução Normativa MCID nº 45/2025, compilada (cotas e limites de financiamento de imóveis usados)"
-    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260408_INSTRUO_NORMATIVA_N._45_COMPILADA.pdf"
   - title: "Minha Casa Minha Vida amplia renda e teto dos imóveis (BP Money, 24/03/2026)"
     url: "https://bpmoney.com.br/brasil/minha-casa-minha-vida-amplia-renda-e-teto-dos-imoveis/"
-  - title: "Conselho do FGTS aumenta subsídio, corrige valor de imóveis e reduz juros (Diário do Nordeste, 2023)"
-    url: "https://diariodonordeste.verdesmares.com.br/negocios/minha-casa-minha-vida-conselho-do-fgts-aumenta-subsidio-corrige-valor-de-imoveis-e-reduz-juros-1.3383205"
+  - title: "Minha Casa Minha Vida 2026: faixas, juros e subsídio (Valor Final, guia de divulgação)"
+    url: "https://valorfinal.com.br/guia/minha-casa-minha-vida-2026"
   - title: "Ministério das Cidades: Programa Minha Casa, Minha Vida"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/habitacao/programa-minha-casa-minha-vida"
 related: [minha-casa-minha-vida, subsidio-minha-casa-minha-vida, cet-financiamento-imobiliario, minha-casa-minha-vida-faixa-4]
 ---
 
-Em outubro de 2026, a taxa máxima que a norma do FGTS permite cobrar do mutuário na Faixa 4 do Minha Casa Minha Vida é de 10% ao ano nominal. Isso aparece no artigo 6º da Resolução CCFGTS 1.116/2025. Para as Faixas 1 a 3, a situação é diferente: a imprensa publica faixas de taxa que variam conforme a renda, a região e a cotização no FGTS, e não encontrei uma tabela oficial completa que eu pudesse conferir. Por isso, o número que vale é o que aparece na simulação do banco e no contrato, e não o que circula em reportagens.
+Em outubro de 2026, a taxa máxima que a norma do FGTS permite cobrar do mutuário na Faixa 4 do Minha Casa Minha Vida é de 10% ao ano nominal. Isso aparece no artigo 6º da Resolução CCFGTS 1.116/2025, que a versão consolidada de 2026 não altera. Para as Faixas 1 a 3, a situação é diferente: a imprensa publica faixas de taxa que variam conforme a renda, a região e a cotização no FGTS, e não encontrei uma tabela oficial completa que eu pudesse conferir. Por isso, o número que vale é o que aparece na simulação do banco e no contrato, e não o que circula em reportagens.
 
 Este texto explica o que é firme, como converter taxas e como comparar propostas. As faixas de renda e os tetos estão em [Minha Casa Minha Vida 2026](/artigos/minha-casa-minha-vida).
 
@@ -60,7 +58,7 @@ Por isso a imprensa às vezes fala em 10% e às vezes em 10,5%, e as duas coisas
 
 ## Faixas 1 a 3: o que circula e o que confirmar
 
-Nas faixas 1 a 3, há mais variação. Em 2023, o Conselho Curador do FGTS reduziu juros para famílias de menor renda, e a imprensa registrou taxas de 4% ao ano nas regiões Norte e Nordeste e de 4,25% nas demais, para o grupo de renda mais baixa. Textos de imprensa mais recentes citam taxas de cerca de 4% a 5,25% na Faixa 1, de 4,75% a 7% na Faixa 2 e de 6,5% a 8,16% na Faixa 3, conforme a renda, a região e se o comprador tem três anos de FGTS.
+Nas faixas 1 a 3, há mais variação. Em 2023, segundo uma reportagem que não consegui conferir na norma, o Conselho Curador do FGTS reduziu juros para famílias de menor renda, com taxas de 4% ao ano nas regiões Norte e Nordeste e de 4,25% nas demais. Um guia de divulgação sobre o programa cita taxas de cerca de 4% a 5,25% na Faixa 1, de 4,75% a 7% na Faixa 2 e de 7,66% a 8,16% na Faixa 3, conforme a renda e a região. Não encontrei norma que fixe essas faixas de taxa.
 
 Esses números são de imprensa. Não consegui conferir a tabela no texto de uma norma atual, e reportagens nem sempre coincidem entre si. Portanto, trate-os como referência de conversa, e não como promessa. Na simulação, confirme:
 
@@ -71,7 +69,7 @@ Esses números são de imprensa. Não consegui conferir a tabela no texto de uma
 
 ## Subsídio não é juro
 
-Muita gente confunde as duas coisas. O juro é a taxa do contrato, paga sobre o saldo. O subsídio é um desconto que reduz o valor a financiar, calculado com base em renda, cidade e valor do imóvel. Ele existe só nas Faixas 1 e 2, e o valor exato aparece na simulação. Um financiamento com juro baixo e sem subsídio pode custar mais do que outro com juro um pouco maior e um desconto grande. Por isso, a pergunta certa é quanto você paga no total, e não só qual é a taxa.
+Muita gente confunde as duas coisas. O juro é a taxa do contrato, paga sobre o saldo. O subsídio é um desconto que reduz o valor a financiar, com regras próprias de cada faixa. O valor exato aparece na simulação. Um financiamento com juro baixo e sem subsídio pode custar mais do que outro com juro um pouco maior e um desconto grande. Por isso, a pergunta certa é quanto você paga no total, e não só qual é a taxa.
 
 O assunto está detalhado em [subsídio do Minha Casa Minha Vida](/artigos/subsidio-minha-casa-minha-vida).
 
@@ -98,8 +96,8 @@ A diferença de cerca de R$ 430 por mês, somada ao longo de 35 anos, chega a ce
 Mesmo dentro da mesma faixa, duas famílias podem receber taxas diferentes. Isso acontece porque o banco considera o risco e as condições da operação. Os fatores mais citados são:
 
 - a renda bruta da família, que define a faixa e pode levar a taxas diferentes dentro dela;
-- a região do imóvel, já que as normas fazem diferença entre Norte, Nordeste e as demais regiões;
-- se o comprador é cotista do FGTS e tem o tempo mínimo de contribuição exigido;
+- a região do imóvel, que as reportagens apontam como fator de diferença entre Norte, Nordeste e as demais regiões;
+- se a operação usa recursos do FGTS, que têm taxa e regras próprias;
 - o prazo do contrato e o valor financiado em relação ao imóvel;
 - o tipo de imóvel, novo ou usado, e a avaliação feita pelo banco.
 

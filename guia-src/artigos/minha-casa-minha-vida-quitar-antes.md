@@ -27,8 +27,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
   - title: "Portaria MCID nº 1.248, de 26 de setembro de 2023 (FAR e FDS, quitação antecipada)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PortariaMCIDn12482023.pdf"
-  - title: "Portaria MCID nº 1.248/2023, resumo no Instituto de Registro Imobiliário (IRIB)"
-    url: "https://www.irib.org.br/noticias/detalhes/portaria-mcid-n-1-248-de-26-de-setembro-de-2023"
   - title: "Ministério das Cidades: Programa Minha Casa, Minha Vida"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/habitacao/programa-minha-casa-minha-vida"
 related: [fgts-para-quitar-saldo-devedor, amortizar-financiamento-prazo-ou-parcela, portabilidade-financiamento-imobiliario, minha-casa-minha-vida-vender-imovel]
@@ -48,7 +46,7 @@ A Lei 9.514/1997, que trata da alienação fiduciária, cuida do lado da garanti
 
 A Portaria MCID 1.248/2023 trata de contratos do FAR e do FDS. O artigo 7º, §4º, diz que essas operações podem ser quitadas pelos beneficiários, desde que o subsídio seja restituído na proporção das prestações que faltam. Ou seja, quem quita cedo devolve a parte do desconto correspondente ao tempo que ainda não passou.
 
-A mesma portaria traz uma restrição relacionada. O artigo 6º proíbe a transferência do imóvel entre vivos pelo período de 60 meses e, nos casos de quitação antecipada, até a quitação do contrato. Esse ponto aparece de novo no texto sobre [vender o imóvel do Minha Casa Minha Vida](/artigos/minha-casa-minha-vida-vender-imovel).
+A mesma portaria traz uma restrição relacionada. O artigo 6º proíbe a transferência do imóvel entre vivos pelo período de 60 meses, prazo que pode ser contado até a quitação do saldo no caso de renegociação ou de quitação antecipada. Esse ponto aparece de novo no texto sobre [vender o imóvel do Minha Casa Minha Vida](/artigos/minha-casa-minha-vida-vender-imovel).
 
 Para os contratos com FGTS e banco fora do FAR, a portaria não se aplica. Confirme no contrato como o subsídio, se houver, será tratado na quitação.
 

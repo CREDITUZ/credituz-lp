@@ -7,12 +7,12 @@ updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "Compartilhar pelo Open Finance é uma ordem sua: você escolhe a instituição que recebe, os dados, a finalidade e o prazo, sempre dentro do app de uma instituição."
-  - "Desde a Resolução Conjunta nº 7/2023, o limite fixo de 12 meses deixou de valer, e o prazo passa a ser definido entre as instituições e você."
+  - "Desde a Resolução Conjunta nº 7/2023, publicada em 26/10/2023, a instituição pode oferecer prazos maiores que 12 meses, e o prazo que aparece na tela é o que vale."
   - "Você pode revogar o compartilhamento a qualquer momento, pelo app de qualquer uma das duas instituições, e a revogação é gratuita."
   - "Antes de compartilhar, pergunte ao banco se usa Open Finance na análise, para qual finalidade e quais dados são realmente necessários."
 faq:
   - q: "O banco pode exigir o Open Finance para aprovar o financiamento?"
-    a: "Não há regra que obrigue você a compartilhar, e a decisão é sua. O banco pode oferecer uma análise diferente para quem compartilha, mas precisa perguntar sobre a finalidade e respeitar o consentimento que você der."
+    a: "O compartilhamento depende do seu consentimento, e a decisão é sua. O banco pode oferecer uma análise diferente para quem compartilha, mas precisa perguntar sobre a finalidade e respeitar o consentimento que você der."
   - q: "Compartilhar dados pelo Open Finance custa algo?"
     a: "Não. A página oficial do Open Finance Brasil informa que ter acesso aos benefícios não tem custo para o consumidor."
   - q: "Como cancelo o compartilhamento depois do financiamento?"
@@ -26,8 +26,6 @@ sources:
     url: "https://www.mattosfilho.com.br/unico/bcb-renovacao-open-finance/"
   - title: "Lei 13.709/2018 (LGPD), art. 8º, § 5º, e art. 18, inciso IX: revogação do consentimento"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
-  - title: "Lei 12.414/2011 (Cadastro Positivo), art. 5º: direito de acesso e de revisão de decisões automatizadas"
-    url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
 related: [cadastro-positivo-e-open-finance, analise-de-credito-como-funciona, financiamento-autonomo-mei, score-para-financiamento-imobiliario]
 ---
 
@@ -63,9 +61,9 @@ Pontos que valem guardar:
 
 ## Prazo de validade: o que mudou em 2023
 
-Antes de 2023, o consentimento tinha validade máxima de 12 meses. A Resolução Conjunta nº 7, publicada em 26 de outubro de 2023, alterou a Resolução Conjunta nº 1/2020 e passou a permitir prazos mais longos, definidos entre as instituições e o cliente. Segundo a análise publicada pelo Mattos Filho, a renovação ficou mais simples: o cliente acessa o ambiente da instituição receptora e confirma que quer renovar, sem passar por todas as etapas de um novo consentimento.
+Antes de 2023, o consentimento tinha validade máxima de 12 meses. A Resolução Conjunta nº 7, publicada em 26 de outubro de 2023, alterou a Resolução Conjunta nº 1/2020 e passou a permitir prazos mais longos que 12 meses, oferecidos pelas instituições e confirmados por você. Segundo a análise publicada pelo Mattos Filho, a renovação ficou mais simples: basta o cliente acessar o ambiente da instituição receptora e confirmar a renovação.
 
-Na prática, o prazo que aparece na tela é o que vale. Leia antes de confirmar. A instituição receptora pode avisar você antes do fim do prazo e sugerir a renovação, mas a renovação só acontece se você concordar.
+Na prática, o prazo que aparece na tela é o que vale. Leia antes de confirmar. A renovação só acontece se você confirmar.
 
 ## Como revogar o compartilhamento
 
