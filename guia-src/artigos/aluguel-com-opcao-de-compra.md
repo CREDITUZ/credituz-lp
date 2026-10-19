@@ -25,6 +25,8 @@ faq:
 sources:
   - title: "Lei 6.099/1974 (arrendamento mercantil)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l6099.htm"
+  - title: "Lei 9.514/1997 (SFI, art. 5º, § 2º: arrendamento mercantil de imóveis)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
   - title: "Lei 8.245/1991 (Lei do Inquilinato)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8245.htm"
   - title: "Lei 10.406/2002 (Código Civil): contrato preliminar e promessa de compra e venda"
@@ -46,7 +48,7 @@ Não existe uma lei específica chamada "aluguel com opção de compra". O que e
 
 ### Leasing imobiliário (arrendamento mercantil)
 
-É regido pela Lei 6.099/1974. Uma empresa arrendadora compra o imóvel escolhido por você e o arrenda para o seu uso. Ao fim do prazo, você pode comprar, renovar ou devolver. A lei exige que:
+É regido pela Lei 6.099/1974, e a Lei 9.514/1997 admite expressamente o arrendamento mercantil de imóveis nas mesmas condições do SFI (Sistema de Financiamento Imobiliário). Uma empresa arrendadora compra o imóvel escolhido por você e o arrenda para o seu uso. Ao fim do prazo, você pode comprar, renovar ou devolver. A lei exige que:
 
 - a arrendadora seja pessoa jurídica, e a arrendatária pode ser pessoa física;
 - o contrato traga o prazo, o valor de cada contraprestação, a opção de compra ou renovação como escolha sua e o preço da opção ou o critério para fixá-lo;
@@ -63,7 +65,7 @@ Na prática, o leasing para imóvel residencial de pessoa física é pouco ofere
 1. **Um contrato de locação,** regido pela Lei 8.245/1991 (Lei do Inquilinato), com aluguel, prazo, garantia e reajuste.
 2. **Uma opção ou promessa de compra e venda,** regida pelo Código Civil, que fixa preço, prazo para exercer e condições de pagamento.
 
-O Código Civil trata esse segundo acordo como contrato preliminar. Se ele tiver todos os elementos da venda e não tiver cláusula de arrependimento, quem cumpriu a sua parte pode exigir a assinatura da escritura definitiva. Uma promessa de compra e venda sem arrependimento e registrada no Cartório de Registro de Imóveis dá ao comprador direito real sobre o imóvel, valendo contra terceiros.
+O Código Civil trata esse segundo acordo como contrato preliminar. Se ele tiver todos os elementos essenciais da venda e não tiver cláusula de arrependimento, qualquer das partes pode exigir a assinatura do contrato definitivo, dando prazo à outra. Uma promessa de compra e venda sem arrependimento e registrada no Cartório de Registro de Imóveis dá ao comprador direito real sobre o imóvel, valendo contra terceiros.
 
 Às vezes o imóvel é de construtora ou empresa especializada, que oferece o modelo como produto. Mesmo assim, a base costuma ser essa: locação mais promessa de venda.
 
@@ -93,7 +95,7 @@ Um roteiro típico:
 | Venda a terceiro, morte ou dívida do dono | Obrigação de respeitar o contrato; registro na matrícula |
 | Despesas | Quem paga IPTU, condomínio, manutenção estrutural, ITBI e escritura |
 
-Pela Lei do Inquilinato, o proprietário só pode exigir uma modalidade de garantia na locação (caução, fiador, seguro-fiança ou cessão de cotas de fundo). Exigir duas torna a cláusula nula.
+Pela Lei do Inquilinato, o proprietário só pode exigir uma modalidade de garantia na locação (caução, fiador, seguro-fiança ou cessão fiduciária de cotas de fundo de investimento). Exigir duas torna a cláusula nula.
 
 ## Exemplo com números
 
@@ -122,7 +124,7 @@ A conta muda com outro índice, outro percentual de abatimento ou preço fixo. R
 
 ## Riscos e como reduzir
 
-**O dono vende o imóvel para outra pessoa.** A Lei do Inquilinato dá ao inquilino preferência na compra, com 30 dias para responder à oferta. Mas, para poder tomar o imóvel de quem comprou sem respeitar essa preferência, o contrato de locação precisa estar averbado na matrícula pelo menos 30 dias antes da venda. Sem isso, sobra pedir indenização. A promessa de compra registrada protege ainda mais.
+**O dono vende o imóvel para outra pessoa.** A Lei do Inquilinato dá ao inquilino preferência na compra, com 30 dias para responder à oferta. Mas, para poder tomar o imóvel de quem comprou sem respeitar essa preferência, o contrato de locação precisa estar averbado na matrícula pelo menos 30 dias antes da venda, e você precisa depositar o preço em até seis meses do registro da venda. Sem isso, sobra pedir indenização por perdas e danos. A promessa de compra registrada protege ainda mais.
 
 **O dono tem dívidas, morre ou se divorcia.** O imóvel pode ser penhorado, entrar em inventário ou em partilha. Peça certidões de ônus da matrícula, certidões de ações e protestos do proprietário e, se for casado, a assinatura do cônjuge.
 

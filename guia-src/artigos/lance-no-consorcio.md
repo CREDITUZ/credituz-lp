@@ -42,12 +42,12 @@ Se você ainda não conhece as peças do consórcio (grupo, cota, carta, fundo d
 
 ## Como o lance funciona na assembleia
 
-A Lei 11.795/2008 diz que a contemplação acontece por sorteio ou lance, como o contrato definir. As regras do Banco Central para grupos formados a partir de 2024 (Resolução BCB 285/2023) detalham a sequência:
+A Lei 11.795/2008 diz que a contemplação acontece por sorteio ou lance, como o contrato definir. As regras do Banco Central para grupos formados a partir de julho de 2024 (Resolução BCB 285/2023, cuja vigência foi adiada pela Resolução BCB 362/2023) detalham a sequência:
 
 1. A administradora faz primeiro os sorteios previstos para a assembleia.
-2. Depois, com o dinheiro que sobrar no fundo comum, contempla os lances, do maior para o menor, até acabar o recurso.
+2. Depois, com o dinheiro que sobrar no fundo comum, contempla os lances pelo critério do contrato (em geral, do maior percentual para o menor) até acabar o recurso.
 3. Só concorre quem está com as parcelas em dia.
-4. O lance só é homologado depois que a administradora recebe o valor. Se você ganhar e não pagar no prazo, perde a contemplação, e a vez passa ao próximo.
+4. O lance só é homologado depois que a administradora recebe o valor. Se você ganhar e não pagar no prazo, a contemplação não se confirma; o que acontece em seguida (por exemplo, a vez passar ao próximo lance) está no contrato.
 
 Na prática, você registra a oferta antes da assembleia, no aplicativo, site ou com o representante. Se não for vencedor, nada é cobrado. A cada mês dá para ofertar de novo.
 
@@ -127,7 +127,7 @@ Dá para combinar. Exemplo: oferta total de 35% da carta (R$ 105 mil), sendo 20%
 
 ## Como decidir quanto oferecer
 
-1. **Peça o histórico de lances.** Ele vem da ata das assembleias, que precisa registrar os lances. Pergunte o menor lance vencedor dos últimos seis meses e quantas contemplações por lance houve em cada assembleia.
+1. **Peça o histórico de lances.** Ele vem da ata das assembleias, que pela Resolução BCB 285/2023 precisa listar as cotas que ofertaram lance, os percentuais e quais venceram. Pergunte o menor lance vencedor dos últimos seis meses e quantas contemplações por lance houve em cada assembleia.
 2. **Confirme a base de cálculo** (carta ou saldo devedor) e se o grupo tem lance fixo, livre ou os dois.
 3. **Separe o dinheiro antes.** O lance só é homologado depois de pago, e o prazo para pagar costuma ser curto. Se for usar FGTS, pergunte quanto tempo a liberação leva.
 4. **Faça a conta do embutido.** Veja quanto crédito sobra e se esse valor ainda compra o imóvel que você quer, já com ITBI e cartório fora da carta.

@@ -18,7 +18,7 @@ faq:
   - q: "O que preciso para conseguir a menor taxa no Santander?"
     a: "Segundo a MySide, conta corrente, salário depositado no banco, saldo mínimo mensal de R$ 1.000 na poupança Santander e mais um produto, como cartão de crédito usado todo mês ou um seguro. Sem essas condições, a taxa é maior."
   - q: "Dá para incluir o ITBI e o registro no financiamento do Santander?"
-    a: "Levantamentos de correspondentes bancários de 2026 indicam que o Santander permite incluir ITBI e custos de cartório no contrato, dentro do limite da cota. Confirme na simulação, porque isso aumenta o valor financiado e os juros."
+    a: "Segundo o blog do próprio Santander (outubro de 2026), dependendo da modalidade e das condições aprovadas, ITBI e custos de cartório podem entrar no financiamento, dentro dos limites de crédito. Confirme na simulação, porque isso aumenta o valor financiado e os juros."
 sources:
   - title: "MySide: taxas de juros do financiamento imobiliário Santander (atualizado em 08/10/2026)"
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario-santander"
@@ -32,6 +32,8 @@ sources:
     url: "https://paraibabusiness.com.br/bancos-privados-reduzem-juros-do-financiamento-imobiliario-no-inicio-de-2026/"
   - title: "SP Imóvel: taxas e condições do financiamento do Santander (atualizado em 27/02/2026)"
     url: "https://www.spimovel.com.br/blog/financiamento-imobiliario-taxas-de-juros-do-santander/3210/"
+  - title: "Santander: guia de financiamento imobiliário (blog oficial, 07/10/2026)"
+    url: "https://www.santander.com.br/blog/guia-financiamento-imobiliario"
   - title: "Banco Central: taxas de juros por instituição financeira"
     url: "https://www.bcb.gov.br/estatisticas/reporttxjuros"
 related: [financiamento-itau, entrada-para-financiar-imovel, taxa-de-juros-financiamento-imobiliario, custos-para-comprar-imovel]
@@ -48,10 +50,10 @@ O financiamento imobiliário do Santander é uma linha com dinheiro da poupança
 | Faixa de taxa conforme o perfil | de 11,69% a 12,29% ao ano | Lets Money e Portas, maio de 2026 |
 | Cota geral | até 80% do valor de avaliação | Lets Money, 14/05/2026 |
 | Cota em operações selecionadas | até 90%, só no SAC | Lets Money, 14/05/2026 |
-| Prazo máximo | até 35 anos | MySide, 08/10/2026 |
-| Pró-Cotista (FGTS) | não oferece | MySide, 08/10/2026 |
+| Prazo máximo | até 35 anos | blog oficial do Santander, 07/10/2026 |
+| Pró-Cotista (FGTS) | não oferece | MySide (radar de taxas), 08/10/2026 |
 
-O site do Santander não exibe as taxas fora do simulador, e os números acima vêm de levantamentos de terceiros e da imprensa. Confirme na simulação do banco.
+O site do Santander não exibe as taxas fora do simulador, e os números de taxa e cota acima vêm de levantamentos de terceiros e da imprensa. Confirme na simulação do banco.
 
 ## A taxa e o pacote de relacionamento
 
@@ -105,9 +107,9 @@ Juntar R$ 50 mil a menos de entrada custa cerca de R$ 97 mil a mais em juros ao 
 
 ## Outros pontos do financiamento Santander
 
-- **Sistemas de amortização:** SAC, que é o padrão e o único aceito na cota de 90%, e Price, segundo levantamentos de correspondentes. Veja [SAC ou Price](/artigos/sac-ou-price).
-- **Despesas incluídas:** levantamentos de correspondentes bancários de 2026 indicam que é possível incluir ITBI e custos de cartório no financiamento. Isso alivia o caixa na compra, mas aumenta o valor financiado. Veja quanto somam esses [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
-- **Composição de renda:** o banco aceita somar a renda de mais de uma pessoa, inclusive sem parentesco, segundo os mesmos levantamentos. Cada participante entra na análise e no contrato.
+- **Sistemas de amortização:** o SAC é o padrão e o único aceito na cota de 90%. Pergunte na simulação se outro sistema está disponível para o seu caso. Veja [SAC ou Price](/artigos/sac-ou-price).
+- **Despesas incluídas:** o blog do Santander informa que, conforme a modalidade e a aprovação, ITBI e custos de cartório podem entrar no financiamento. Isso alivia o caixa na compra, mas aumenta o valor financiado. Veja quanto somam esses [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
+- **Composição de renda:** segundo o blog do banco, mais de uma pessoa pode participar da operação, sejam familiares ou outras pessoas, pelos critérios do Santander. Cada participante entra na análise e no contrato.
 - **FGTS:** pode ser usado em imóveis dentro do SFH, de até R$ 2,25 milhões, nas regras do fundo. O Santander não oferece a linha Pró-Cotista, então o FGTS entra como recurso próprio, não como fonte de taxa menor.
 - **Avaliação do imóvel:** a cota incide sobre o valor avaliado. Em fevereiro de 2026, o portal SP Imóvel informava tarifa de avaliação de até R$ 1.850 para imóvel residencial.
 

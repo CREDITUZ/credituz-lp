@@ -25,8 +25,10 @@ faq:
 sources:
   - title: "Lei 11.795/2008 (Lei dos Consórcios)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm"
-  - title: "Resolução BCB 285/2023 (regras do sistema de consórcios, em vigor desde 1º/1/2024)"
+  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio, vigência adiada para 1º/7/2024)"
     url: "https://static.poder360.com.br/2023/01/resolucao-bcb-consorcios-285-19jan2023-1.pdf"
+  - title: "Mattos Filho: Resolução BCB 362/2023 adia a vigência da Resolução BCB 285 para julho de 2024"
+    url: "https://www.mattosfilho.com.br/unico/postergada-norma-grupos-consorcios"
   - title: "ABAC: matéria sobre a Resolução BCB 285 (jan. 2023)"
     url: "https://abac.org.br/sistema/pressRelease/1_(202302023920)Materia_ExtraResolucao_285Janeiro_de_2023Marilia.pdf"
   - title: "Revista Apólice: consórcio supera 13 milhões de participantes, dados ABAC (ago. 2026)"
@@ -48,7 +50,7 @@ O custo não está nos juros, mas na taxa de administração, no fundo de reserv
 
 O grupo é o conjunto de participantes com o mesmo prazo e o mesmo número de cotas. A Lei 11.795/2008 trata o grupo como uma sociedade sem personalidade jurídica, com patrimônio próprio, separado do de outros grupos e do da administradora. Na prática, isso significa que o dinheiro do seu grupo não pode ser usado para cobrir problemas de outro grupo ou da empresa.
 
-O grupo começa a existir na primeira assembleia. Pelas regras do Banco Central para grupos novos, se ele não for formado em 90 dias, os valores pagos são devolvidos com rendimento.
+O grupo começa a existir na primeira assembleia. Pelas regras do Banco Central para grupos novos, se ele não for formado em 90 dias da assinatura, os valores pagos são devolvidos com rendimento, ou você pode optar por esperar mais 90 dias.
 
 ### Cota
 
@@ -77,11 +79,11 @@ Pela lei, a parcela mensal soma a contribuição ao fundo comum, a taxa de admin
 | Fundo de reserva (opcional) | Cobrir falta de caixa, inadimplência e cobrança | O grupo; a sobra volta no fim |
 | Seguro (se houver) | Quitar o saldo em caso de morte ou invalidez, conforme a apólice | A seguradora |
 
-**Taxa de administração.** A lei não fixa limite. O STJ, na Súmula 538, reconhece que as administradoras podem definir o percentual livremente, inclusive acima de 10%. Ela é expressa como percentual da carta e diluída nas parcelas. A lei permite ainda cobrar parte dela de forma antecipada, para cobrir custos de venda, desde que o contrato mostre isso separadamente.
+**Taxa de administração.** A lei não fixa limite. O STJ, na Súmula 538, reconhece que as administradoras podem definir o percentual livremente, inclusive acima de 10%. Ela é expressa como percentual da carta e diluída nas parcelas. A lei permite ainda cobrar parte dela de forma antecipada, e esse valor é descontado da taxa total do plano. Confira no contrato se há antecipação e de quanto.
 
 **Fundo de reserva.** É opcional. A Resolução BCB 285/2023 limita o uso do dinheiro a quatro finalidades: cobrir falta de recursos no fundo comum, pagar seguro contra inadimplência, pagar custos de cobrança e, se sobrar, fazer contemplações por sorteio. O saldo final é rateado entre os participantes quando o grupo encerra.
 
-**Seguro.** Muitos grupos incluem seguro de vida ou prestamista. Pela resolução, se o seguro for pago por morte de um consorciado e cobrir o saldo devedor, isso conta como lance vencedor na assembleia seguinte com recursos, e o que sobrar da indenização vai para os beneficiários.
+**Seguro.** Muitos grupos incluem seguro de vida ou prestamista. Pela resolução, se o seguro for pago por morte do titular de uma cota ainda não contemplada e cobrir o saldo devedor, isso conta como lance vencedor na assembleia seguinte com recursos, e o que sobrar da indenização vai para os beneficiários.
 
 ### Exemplo de parcela
 
@@ -115,7 +117,7 @@ Dois pontos práticos. Primeiro, o reajuste continua depois que você é contemp
 
 A lei diz que a contemplação ocorre por sorteio ou lance, conforme o contrato. Só concorre quem está em dia, e só há contemplação se o grupo tiver dinheiro suficiente para pagar a carta.
 
-As regras do Banco Central para grupos formados a partir de 2024 definem a ordem: primeiro os sorteios previstos para a assembleia, depois os lances. O lance só é homologado depois que a administradora recebe o valor. Também é permitido o lance embutido, em que parte da própria carta paga o lance. Os tipos de lance e como calcular cada um estão no guia de [lance no consórcio](/artigos/lance-no-consorcio).
+As regras do Banco Central para grupos formados a partir de julho de 2024 definem a ordem: primeiro os sorteios previstos para a assembleia, depois os lances. O lance só é homologado depois que a administradora recebe o valor. Também é permitido o lance embutido, em que parte da própria carta paga o lance. Os tipos de lance e como calcular cada um estão no guia de [lance no consórcio](/artigos/lance-no-consorcio).
 
 Depois da homologação, a resolução prevê que o crédito seja disponibilizado até o terceiro dia útil. Disponibilizado não quer dizer pago ao vendedor: antes disso vêm a análise e a garantia.
 
@@ -142,7 +144,7 @@ O FGTS pode ser usado para lance, para completar a carta e para amortizar parcel
 
 ## Saída do grupo e encerramento
 
-Quem deixa de pagar ou desiste antes de ser contemplado vira consorciado excluído. Pela lei, ele recebe o que pagou ao fundo comum, com rendimentos, mas não na hora: a devolução acontece quando ele é contemplado (por sorteio entre os excluídos, nas regras atuais) ou no encerramento do grupo. Multas contratuais podem ser descontadas em alguns casos. Já quem foi contemplado e usou o crédito não pode ser excluído; continua devendo as parcelas, garantidas pelo imóvel.
+Quem deixa de pagar ou desiste antes de ser contemplado vira consorciado excluído. Pela lei, ele recebe o que pagou ao fundo comum, com rendimentos, mas não na hora: a devolução acontece quando a cota dele é sorteada (a lei permite que excluídos concorram aos sorteios para isso) ou no encerramento do grupo. Multas contratuais podem ser descontadas em alguns casos. Já quem foi contemplado e usou o crédito não pode ser excluído; continua devendo as parcelas, garantidas pelo imóvel.
 
 O grupo encerra até 120 dias depois da última assembleia de contemplação. Valores não procurados ficam guardados pela administradora, em conta separada, e podem ser reclamados depois.
 

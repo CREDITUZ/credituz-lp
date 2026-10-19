@@ -30,6 +30,8 @@ sources:
     url: "https://paraibabusiness.com.br/nova-linha-de-credito-imobiliario-mira-classe-media-e-facilita-compra-da-casa-propria/"
   - title: "Banco do Brasil: financiamento imobiliário (página oficial)"
     url: "https://www.bb.com.br/site/pra-voce/financiamentos/financiamento-imobiliario/"
+  - title: "Ministério das Cidades: Instrução Normativa MCID nº 45/2025, orçamento do FGTS para 2026 (compilada em 08/04/2026)"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260408_INSTRUO_NORMATIVA_N._45_COMPILADA.pdf"
   - title: "Banco Central: taxas de juros por instituição financeira"
     url: "https://www.bcb.gov.br/estatisticas/reporttxjuros"
 related: [financiamento-caixa, taxa-de-juros-financiamento-imobiliario, fgts-na-compra-do-imovel, portabilidade-financiamento-imobiliario]
@@ -69,9 +71,9 @@ Antes de aceitar levar salário, cartão ou investimento para o banco em troca d
 
 ## Pró-Cotista e linhas com FGTS
 
-O Banco do Brasil é um dos poucos bancos, além da Caixa, que operam o Pró-Cotista. Em outubro de 2026, a MySide listava taxa a partir de 9% ao ano mais TR no BB. As regras da linha seguem o Conselho Curador do FGTS. Pelo levantamento de março de 2026 do SP Imóvel, o BB financiava até 80% do imóvel novo e até 50% do usado nessa linha, e exigia 36 meses de contribuição ao FGTS e nenhum outro financiamento ativo no SFH.
+O Banco do Brasil é um dos poucos bancos, além da Caixa, que operam o Pró-Cotista. Em outubro de 2026, a MySide listava taxa a partir de 9% ao ano mais TR no BB. As regras da linha seguem o Conselho Curador do FGTS. Pelo levantamento de março de 2026 do SP Imóvel, o BB financiava até 80% do imóvel novo e até 50% do usado nessa linha, e exigia 36 meses de contribuição ao FGTS e nenhum outro financiamento ativo no SFH. O limite de 50% no usado coincide com a Instrução Normativa MCID nº 45, que fixa as regras do orçamento do FGTS para 2026 e também restringe o usado a famílias com renda bruta de até R$ 12 mil.
 
-Em abril de 2026, o banco passou a oferecer também uma linha para a classe média, com renda bruta familiar de até R$ 13 mil, juros nominais a partir de 10% ao ano, prazo de até 420 meses e imóvel de até R$ 600 mil, segundo o Paraíba Business. São as mesmas condições da Faixa 4 do [Minha Casa Minha Vida](/artigos/minha-casa-minha-vida). Imóvel usado tem cota menor no Sul e no Sudeste (60%) do que nas demais regiões (80%).
+Em abril de 2026, o banco passou a oferecer também uma linha para a classe média, com renda bruta familiar de até R$ 13 mil, juros nominais a partir de 10% ao ano, prazo de até 420 meses e imóvel de até R$ 600 mil, segundo o Paraíba Business. As condições se parecem com as da Faixa 4 do [Minha Casa Minha Vida](/artigos/minha-casa-minha-vida), que também vai até R$ 13 mil de renda e R$ 600 mil de imóvel. Imóvel usado tem cota menor no Sul e no Sudeste (60%) do que nas demais regiões (80%).
 
 O FGTS pode entrar de três formas: na entrada, para amortizar o saldo e para pagar parte das prestações. Os requisitos estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 

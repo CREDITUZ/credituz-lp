@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "O banco contrata um engenheiro ou arquiteto para estimar o valor de mercado do imóvel, que define quanto ele aceita financiar."
-  - "A tarifa é paga pelo comprador e não volta se o crédito não sair. Exemplos publicados: Itaú R$ 1.600 ou R$ 3.200; BRB até R$ 3.500."
+  - "A tarifa é paga pelo comprador. Se o banco decidir não contratar, ele não pode cobrá-la; se você desistir, pode. Exemplos publicados: Itaú R$ 1.600 ou R$ 3.200; BRB até R$ 3.500."
   - "Se o laudo vier abaixo do preço, o crédito cai e a diferença sai do seu bolso, a menos que você renegocie, conteste ou troque de banco."
   - "Na Caixa, desde 13 de outubro de 2025, a cota máxima no SFH é 80% do valor do imóvel."
 faq:
@@ -32,6 +32,8 @@ sources:
     url: "https://assets.bradesco/content/dam/portal-bradesco/assets/classic/pdf/imoveis/cartilha-credito-imobiliario.pdf"
   - title: "Portas: Caixa começa a liberar crédito de até 80% do valor do imóvel (out. 2025)"
     url: "https://portas.com.br/noticias/caixa-comeca-a-liberar-credito-ate-80-do-valor-do-imovel/"
+  - title: "Banco Central: Resolução CMN 4.676/2018, art. 8º-A (tarifa de avaliação)"
+    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v9_P.pdf"
   - title: "Resolução CMN 5.255/2025: teto do SFH em R$ 2,25 milhões"
     url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
 related: [entrada-para-financiar-imovel, financiamento-negado, custos-para-comprar-imovel, fgts-na-compra-do-imovel]
@@ -88,9 +90,9 @@ A tarifa é livre e cada banco publica a sua. Exemplos encontrados em páginas o
 | Itaú | R$ 1.600 até R$ 350 mil de avaliação; R$ 3.200 acima | Página de atendimento do Itaú, consultada em outubro de 2026 |
 | BRB | Até R$ 3.500 | Formulário de proposta de novembro de 2025 |
 
-Os demais bancos publicam a tarifa em suas tabelas de tarifas e no CET (Custo Efetivo Total) da simulação. Duas regras quase universais:
+Os demais bancos publicam a tarifa em suas tabelas de tarifas e no CET (Custo Efetivo Total) da simulação. Duas regras valem para todos:
 
-- **A tarifa não volta** se o crédito for negado ou se você desistir depois da vistoria. O BRB deixa isso explícito no formulário.
+- **Quem decide não contratar muda tudo.** Pelo art. 8º-A da Resolução CMN 4.676/2018, em vigor desde 1º de junho de 2022, o banco não pode cobrar os custos da avaliação quando a operação não é contratada por decisão dele. Se você desistir depois da vistoria, a cobrança é permitida, desde que o banco tenha informado antes o valor máximo e essa possibilidade. Formulários que dizem que a tarifa nunca é estornada não se sobrepõem a essa regra.
 - **A avaliação não garante o financiamento.** Ela é só uma etapa.
 
 Por isso, peça avaliação apenas no banco em que você pretende fechar. Pedir em três bancos ao mesmo tempo pode custar três tarifas.
@@ -150,12 +152,12 @@ Se o contrato de compra e venda tiver cláusula condicionando o negócio à apro
 
 - **Assinar o compromisso de compra sem cláusula de financiamento.** Sem ela, uma avaliação baixa pode fazer você perder o sinal.
 - **Ignorar pendências na matrícula.** Área construída maior que a registrada, ou obra sem averbação, pode reduzir a avaliação ou travar o crédito.
-- **Pedir avaliação antes da aprovação de crédito.** Se a renda não for aprovada, a tarifa foi paga à toa. Veja os motivos mais comuns de recusa em [financiamento negado](/artigos/financiamento-negado).
+- **Pedir avaliação antes da aprovação de crédito.** Se a renda não for aprovada, você perde tempo e, se já tiver pago, precisa pedir a devolução, porque a recusa partiu do banco. Veja os motivos mais comuns de recusa em [financiamento negado](/artigos/financiamento-negado).
 - **Achar que avaliação alta é vantagem.** Ela raramente libera mais crédito e aumenta o seguro DFI.
 - **Não estar presente na vistoria.** Em casas, acompanhar a visita permite mostrar reformas e tirar dúvidas do avaliador.
 
 ## Resumo e próximos passos
 
-A avaliação diz ao banco quanto o imóvel vale como garantia e limita o seu crédito. Você paga a tarifa, que não volta se o negócio não sair. Se o laudo vier baixo, renegocie com o vendedor, complete a entrada, conteste com dados ou tente outro banco.
+A avaliação diz ao banco quanto o imóvel vale como garantia e limita o seu crédito. Você paga a tarifa se contratar ou se desistir por conta própria; se o banco recusar, ele não pode cobrá-la. Se o laudo vier baixo, renegocie com o vendedor, complete a entrada, conteste com dados ou tente outro banco.
 
 Antes de pedir a avaliação, confirme quanto você pode financiar pela sua renda na [calculadora de quanto posso financiar](/quanto-posso-financiar) e verifique se a matrícula está em ordem.

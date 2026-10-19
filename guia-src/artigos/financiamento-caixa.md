@@ -12,7 +12,7 @@ key_points:
   - "A taxa mínima não é a sua taxa. Compare propostas pelo CET (Custo Efetivo Total), com os mesmos parâmetros."
 faq:
   - q: "Qual a taxa de juros da Caixa para financiamento imobiliário hoje?"
-    a: "No SBPE, a taxa de balcão começava em 10,26% ao ano mais TR em outubro de 2026, segundo levantamento da MySide atualizado em 8 de outubro, para clientes com salário na conta e outros produtos. No Pró-Cotista e no Minha Casa Minha Vida, as taxas são menores para quem se enquadra."
+    a: "No SBPE, a taxa de balcão começava em 10,26% ao ano mais TR em outubro de 2026, segundo levantamento da MySide atualizado em 8 de outubro, para clientes com relacionamento com o banco. No Pró-Cotista e no Minha Casa Minha Vida, as taxas são menores para quem se enquadra."
   - q: "Quanto a Caixa financia do valor do imóvel?"
     a: "Pelo SBPE, até 80% do valor no sistema SAC e até 70% na tabela Price, regra confirmada pela Caixa em dezembro de 2025. A cota incide sobre o valor de avaliação do banco, e a sua renda também precisa comportar a parcela."
   - q: "Qual o prazo máximo do financiamento da Caixa?"
@@ -26,7 +26,9 @@ sources:
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario-caixa"
   - title: "MySide: radar de taxas de juros do financiamento imobiliário (atualizado em 08/10/2026)"
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario"
-  - title: "SP Imóvel: Pró-Cotista Caixa 2026, cotas e taxa (atualizado em 09/10/2026)"
+  - title: "Ministério das Cidades: Instrução Normativa MCID nº 45/2025, orçamento do FGTS para 2026 (compilada em 08/04/2026)"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260408_INSTRUO_NORMATIVA_N._45_COMPILADA.pdf"
+  - title: "SP Imóvel: Pró-Cotista Caixa 2026, taxa (atualizado em 09/10/2026)"
     url: "https://www.spimovel.com.br/blog/pro-cotista-caixa-2026-financiamento-volta-a-80-do-imovel-/4329/"
   - title: "SP Imóvel: taxas da Caixa por linha, informadas pelo banco (atualizado em 06/03/2026)"
     url: "https://www.spimovel.com.br/blog/qual-a-taxa-de-juros-para-financiamento-imobiliario-da-caixa-em-2026/2877/"
@@ -47,8 +49,8 @@ A Caixa responde pela maior parte do crédito habitacional do país: em dezembro
 |---|---|---|---|---|
 | SBPE (SFH) | Poupança | Qualquer renda, imóvel de até R$ 2,25 milhões | a partir de 10,26% ao ano + TR (MySide, out/2026) | 80% no SAC, 70% na Price |
 | SBPE (SFI) | Poupança e recursos próprios | Imóvel acima do teto do SFH | taxa livre, em geral maior | conforme análise |
-| Pró-Cotista | FGTS | Trabalhador com conta no FGTS | a partir de 9,01% ao ano + TR (MySide, out/2026) | 80% no SAC para imóvel novo |
-| Minha Casa Minha Vida | FGTS e Fundo Social | Renda familiar de até R$ 13 mil | cerca de 4% a 10% ao ano, conforme a faixa | varia com faixa e região |
+| Pró-Cotista | FGTS | Trabalhador com conta no FGTS | a partir de 9,01% ao ano + TR (MySide, out/2026) | maior no imóvel novo; no usado, até 50% (norma do FGTS para 2026) |
+| Minha Casa Minha Vida | FGTS e Fundo Social | Renda familiar de até R$ 13 mil | de cerca de 4% a pouco mais de 10% ao ano, conforme a faixa | varia com faixa e região |
 
 Taxas "a partir de" são as mínimas, para o melhor perfil. Confirme sempre na simulação do banco.
 
@@ -68,7 +70,7 @@ O SBPE (Sistema Brasileiro de Poupança e Empréstimo) usa o dinheiro depositado
 
 As taxas mudam com frequência. Os números mais recentes que encontramos:
 
-- **Outubro de 2026:** a partir de 10,26% ao ano mais TR, segundo a MySide (atualização de 8 de outubro). A média dos últimos 12 meses no mesmo levantamento era de 10,43% mais TR. Segundo a MySide, a taxa mínima pede débito automático, salário na conta corrente e a contratação de outro produto do banco.
+- **Outubro de 2026:** a partir de 10,26% ao ano mais TR, segundo a MySide (atualização de 8 de outubro). A média dos últimos 12 meses no mesmo levantamento era de 10,43% mais TR. Segundo a MySide, as melhores condições costumam exigir relacionamento: conta corrente, salário na conta e, às vezes, outros produtos, como seguro ou capitalização.
 - **Abril de 2026:** em reportagem do Paraíba Business de 15 de abril, a Caixa informou taxa máxima de 11,49% ao ano mais TR no SFH e de 12% mais TR no SFI. Na mesma ocasião, a vice-presidente de Habitação, Inês Magalhães, disse que não via espaço para queda dos juros no curto prazo.
 - **Dezembro de 2025:** a nota da Caixa divulgada pela Agência Brasil falava em taxas a partir de 10,99% ao ano no SBPE.
 
@@ -76,15 +78,15 @@ Ou seja: a taxa do seu contrato tende a ficar entre a mínima de balcão e o tet
 
 ### Outros indexadores
 
-A linha mais comum é a de taxa fixa mais TR. Em março de 2026, o portal SP Imóvel listava, com dados fornecidos pela Caixa, também linhas corrigidas pelo IPCA, pela poupança e uma linha com recursos livres atrelada ao CDI. A oferta dessas alternativas varia com o tempo. Se aparecerem na sua simulação, lembre que uma taxa fixa menor com IPCA ou CDI pode sair mais cara se a inflação ou os juros subirem.
+A linha mais comum é a de taxa fixa mais TR. Em março de 2026, o portal SP Imóvel listava, com dados que diz ter recebido da Caixa, também uma linha com recursos livres atrelada ao CDI, de 114% a 120% do CDI, com prazo de até 360 meses. A oferta de outros indexadores, como IPCA ou poupança, varia com o tempo. Se aparecerem na sua simulação, lembre que uma taxa fixa menor com IPCA ou CDI pode sair mais cara se a inflação ou os juros subirem.
 
 ## Pró-Cotista: dinheiro do FGTS fora do Minha Casa Minha Vida
 
 O Pró-Cotista é uma linha com recursos do FGTS para quem tem vínculo com o fundo e não se enquadra, ou não quer se enquadrar, no Minha Casa Minha Vida. Em outubro de 2026:
 
 - **Taxa:** a MySide registrava 9,01% ao ano mais TR. O portal SP Imóvel, citando divulgação da Caixa, informava taxa nominal de 8,66% ao ano mais TR. A diferença pode vir de taxa nominal versus efetiva ou de condições de relacionamento; confirme na simulação.
-- **Teto do imóvel:** segundo o SP Imóvel (atualização de 9 de outubro de 2026), o limite passou de R$ 500 mil para R$ 1 milhão, com valor financiado de até R$ 800 mil.
-- **Cotas informadas pelo mesmo portal:** imóvel novo, construção em terreno próprio e terreno com construção, até 80% no SAC e 60% na Price; imóvel usado, até 50% no SAC e 40% na Price.
+- **Imóvel usado tem regra mais restrita:** a Instrução Normativa MCID nº 45, de dezembro de 2025, que define o orçamento do FGTS para 2026, limita o financiamento de usado no Pró-Cotista a 50% do valor do imóvel e a famílias com renda bruta de até R$ 12 mil por mês. A mesma norma reserva a maior parte da verba para imóveis novos.
+- **Teto do imóvel e cotas do imóvel novo:** portais do setor relatam em outubro de 2026 um teto maior que o antigo, de R$ 500 mil, e cota de até 80% no SAC para imóvel novo, mas não encontramos esses números em documento oficial. Confirme o limite vigente no simulador da Caixa ou em uma agência.
 
 O Pró-Cotista costuma ter verba limitada no ano e já foi suspenso em outras ocasiões quando os recursos acabaram. Os requisitos de quem pode usar seguem as regras do FGTS para a casa própria, como tempo mínimo de trabalho com carteira assinada e não ter outro imóvel na cidade. Veja [como usar o FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
@@ -133,7 +135,7 @@ Os guias do [Banco do Brasil](/artigos/financiamento-banco-do-brasil), do [Itaú
 
 - **Confundir taxa mínima com a sua taxa.** Sem as condições de relacionamento, a taxa sobe.
 - **Esquecer os custos fora do financiamento.** ITBI, escritura e registro em geral são pagos à vista. Veja [os custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
-- **Contar com o Pró-Cotista sem checar a verba.** A linha tem orçamento anual e pode ser suspensa.
+- **Contar com o Pró-Cotista sem checar a verba e as regras.** A linha tem orçamento anual, pode ser suspensa, e no imóvel usado financia no máximo metade do valor.
 - **Escolher a Price só pela parcela.** Na Caixa, ela também exige mais entrada.
 - **Não conferir o prazo pela idade.** O prazo máximo pode ser menor se a sua idade, somada ao prazo, passar do limite do seguro.
 

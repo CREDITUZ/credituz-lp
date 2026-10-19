@@ -46,13 +46,13 @@ Os sites dos bancos mostram uma taxa mínima. Ela vale para o melhor perfil, o i
 
 | Banco | Taxa "a partir de" | Limite sobre o imóvel | Prazo | Custos citados no site |
 |---|---|---|---|---|
-| Itaú | 1,55% ao mês (a página também mostra 1,6%) | até 60% | 12 a 240 meses | IOF e tarifa de avaliação |
-| Santander | 1,12% ao mês, prefixada | não informado | 12 a 240 meses | tarifa de avaliação de até R$ 1.950 (residencial), isenta até R$ 50 mil |
+| Itaú | 1,55% ao mês | até 60% | 12 a 240 meses | IOF e tarifa de avaliação |
+| Santander | 1,12% ao mês, prefixada | não informado | 12 a 240 meses | tarifa de avaliação de até R$ 1.950 (residencial), isenta em empréstimos de até R$ 50 mil |
 | Bradesco | 1,59% ao mês | até 60% da avaliação | até 240 meses | IOF, tarifa de avaliação e cartório |
 
 Fontes: sites de cada banco, consultados em outubro de 2026. Leia três detalhes nessas páginas:
 
-- **A data da simulação.** A página do Itaú informa que a taxa mínima vem de uma simulação de agosto de 2022. Taxa anunciada nem sempre é taxa atual.
+- **A data dos números.** O comparativo de taxas da página do Itaú usa uma simulação de agosto de 2022 e médias de mercado do Banco Central de outubro de 2025 (onde aparece 1,6% ao mês como média do mercado para essa modalidade, não como taxa do banco). Número publicado nem sempre é número atual.
 - **Valor mínimo.** O Itaú pede empréstimo de pelo menos R$ 30 mil e imóvel avaliado em R$ 52 mil ou mais; o Santander, imóvel de no mínimo R$ 70 mil; o Bradesco, crédito a partir de R$ 50 mil.
 - **O que é cobrado à parte.** Avaliação e registro em cartório podem ser pagos por você ou embutidos no valor emprestado.
 
@@ -78,6 +78,8 @@ Fica de fora a variação futura de índices. Num contrato com IPCA mais juros, 
 
 No crédito livre para pessoa física, o Decreto 6.306/2007 prevê duas cobranças: 0,38% sobre o valor, uma vez, e 0,0082% ao dia, com a parte diária limitada a 365 dias (o que dá no máximo cerca de 3% no ano). Em empréstimos longos, o IOF total fica perto de 3,3% do valor. É dinheiro que sai antes de você receber: em R$ 150 mil, passa de R$ 4.900.
 
+Em 2025, o governo mudou alíquotas de IOF por decreto, o Congresso suspendeu as mudanças (Decreto Legislativo 176/2025) e o STF restabeleceu boa parte delas. Para a pessoa física no crédito, as alíquotas seguiram em 0,0082% ao dia mais 0,38%, com teto de 3,38% no ano; as mudanças pesaram sobretudo para empresas. Como o tema muda por decreto, confira o IOF na proposta.
+
 ## Simulação: da taxa ao CET
 
 Exemplo ilustrativo, calculado em Python. Premissas:
@@ -90,9 +92,9 @@ Exemplo ilustrativo, calculado em Python. Premissas:
 
 | Taxa de juros | Parcela | Total pago | IOF | Valor líquido recebido | CET ao ano |
 |---|---|---|---|---|---|
-| 1,10% ao mês (14,03% ao ano) | R$ 2.257,39 | R$ 270.887 | R$ 4.954 | R$ 143.096 | 15,40% |
-| 1,35% ao mês (17,46% ao ano) | R$ 2.531,42 | R$ 303.771 | R$ 4.971 | R$ 143.079 | 18,96% |
-| 1,60% ao mês (20,98% ao ano) | R$ 2.819,72 | R$ 338.367 | R$ 4.985 | R$ 143.065 | 22,63% |
+| 1,10% ao mês (14,03% ao ano) | R$ 2.257,39 | R$ 270.887 | R$ 4.956 | R$ 143.094 | 15,40% |
+| 1,35% ao mês (17,46% ao ano) | R$ 2.531,42 | R$ 303.771 | R$ 4.972 | R$ 143.078 | 18,96% |
+| 1,60% ao mês (20,98% ao ano) | R$ 2.819,72 | R$ 338.367 | R$ 4.987 | R$ 143.063 | 22,63% |
 
 O que a tabela mostra:
 
@@ -118,8 +120,8 @@ Custos fixos, como a tarifa de avaliação, pesam mais em empréstimos pequenos 
 
 | Proposta | Taxa | Tarifa de avaliação | CET em 24 meses | CET em 120 meses |
 |---|---|---|---|---|
-| A | 1,30% ao mês | isenta | 20,11% ao ano | 17,81% ao ano |
-| B | 1,20% ao mês | R$ 1.950 | 22,87% ao ano | 17,46% ao ano |
+| A | 1,30% ao mês | isenta | 20,13% ao ano | 17,81% ao ano |
+| B | 1,20% ao mês | R$ 1.950 | 22,88% ao ano | 17,46% ao ano |
 
 Em 24 meses, a proposta A, com taxa maior, sai mais barata. Em 120 meses, a B vence por pouco. Só o CET, calculado para o seu valor e o seu prazo, mostra isso.
 
