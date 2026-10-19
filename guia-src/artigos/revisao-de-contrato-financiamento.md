@@ -1,10 +1,10 @@
 ---
-title: "Revisão do contrato de financiamento: quando vale entrar na Justiça"
-description: "Quando a ação revisional do financiamento imobiliário tem chance, o que o STJ diz sobre juros, capitalização e Tabela Price, e os riscos de quem promete reduzir parcela."
+title: "Revisão do contrato de financiamento: quando vale a ação"
+description: "Quando a ação revisional do financiamento imobiliário tem chance, o que o STJ diz sobre juros, capitalização e Tabela Price, e o risco de promessas fáceis."
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 9
 key_points:
   - "Juro alto, por si só, não é abusivo: a Súmula 382 do STJ diz que taxa acima de 12% ao ano não prova abuso, e a Súmula 422 afasta esse limite como teto geral no SFH."
   - "Capitalização mensal é permitida quando está prevista no contrato (Súmula 539 do STJ e art. 15-A da Lei 4.380/1964)."
