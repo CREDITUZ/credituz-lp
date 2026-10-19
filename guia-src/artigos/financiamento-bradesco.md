@@ -4,7 +4,7 @@ description: "Como funciona o financiamento imobiliário do Bradesco em 2026: li
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "O Bradesco tem duas linhas residenciais: taxa fixa mais TR e taxa fixa mais a remuneração da poupança (Poupança Mais)."
   - "A página oficial informa até 80% do valor de avaliação e até 35 anos para imóvel residencial; para comercial, 70% e 20 anos."

@@ -4,7 +4,7 @@ description: "Como funciona o financiamento imobiliário do Banco Inter em 2026:
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "No Inter, o financiamento residencial padrão é corrigido pelo IPCA, e não pela TR como na maioria dos bancos."
   - "A página oficial informa até 75% do valor do imóvel, entrada a partir de 25%, prazo de até 35 anos e imóvel de no mínimo R$ 200 mil."
