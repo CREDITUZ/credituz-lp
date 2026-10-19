@@ -6,43 +6,43 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 9
 key_points:
-  - "O usado domina as compras: cerca de 70% das aquisições financiadas pelo SBPE no primeiro semestre de 2026 foram de imóveis usados, segundo a Abecip."
-  - "Algumas linhas financiam menos o usado. No Minha Casa Minha Vida Faixa 4, a cota do usado no Sul e no Sudeste é de 60%, contra 80% do novo."
+  - "O usado domina as compras: mais de 70% das aquisições financiadas pelo SBPE no primeiro semestre de 2026 foram de imóveis usados, segundo a Abecip."
+  - "Algumas linhas financiam menos o usado. Na Faixa 4 do Minha Casa Minha Vida, a cota do usado no Sul e no Sudeste é de 60%, contra 80% do novo."
   - "O novo tem garantia legal de 5 anos da construtora para solidez e segurança. No usado, o prazo para reclamar de defeito oculto é bem mais curto."
   - "O usado exige mais checagem de documentos: matrícula, área construída averbada, débitos de condomínio e IPTU."
   - "Some preço, entrada, ITBI e reforma antes de comparar. No exemplo, o usado mais barato exigiu quase o dobro de dinheiro na mão."
 faq:
   - q: "É mais fácil financiar imóvel novo ou usado?"
-    a: "Os dois são financiáveis na maioria dos bancos. A diferença está em linhas específicas: no Minha Casa Minha Vida Faixa 4, o usado no Sul e no Sudeste financia só 60%; no Pró-Cotista do FGTS, a norma para 2026 limita o usado a 50%. Confirme a cota na simulação."
+    a: "Os dois são financiáveis na maioria dos bancos. A diferença está em linhas específicas: no Minha Casa Minha Vida Faixa 4, o usado no Sul e no Sudeste financia só 60%; no Pró-Cotista do FGTS, a norma para 2026 só aceita o usado para renda familiar de até R$ 12 mil e limita o financiamento a 50%. Confirme a cota na simulação."
   - q: "Imóvel usado tem garantia?"
-    a: "Não há a garantia de 5 anos da construtora. Pelo Código Civil, o comprador tem até um ano, contado da entrega, para pedir abatimento ou desfazer o negócio por defeito oculto que já existia. Para imóvel usado de pessoa física, em regra, não se aplica o Código de Defesa do Consumidor."
+    a: "Não há a garantia de 5 anos da construtora. Pelo Código Civil (art. 445), o comprador tem até um ano, contado da entrega, para pedir abatimento ou desfazer o negócio por defeito oculto que já existia. Para imóvel usado de pessoa física, em regra, não se aplica o Código de Defesa do Consumidor."
   - q: "Quem paga a dívida de condomínio de um imóvel usado?"
-    a: "A dívida de condomínio acompanha o imóvel. Se você comprar sem checar, pode ter de pagar e depois cobrar do vendedor. Peça a declaração de quitação assinada pelo síndico ou pela administradora."
+    a: "A dívida de condomínio acompanha o imóvel (Código Civil, art. 1.345). Se você comprar sem checar, pode ter de pagar e depois cobrar do vendedor. Peça a declaração de quitação assinada pelo síndico ou pela administradora."
   - q: "O ITBI é mais barato no imóvel novo?"
-    a: "Em geral a alíquota é a mesma. Há exceções: no Distrito Federal, a primeira venda de imóvel novo paga 1%, contra 2% do usado. Consulte a lei da sua cidade."
+    a: "Em geral a alíquota é a mesma. Há exceções: no Distrito Federal, a primeira transmissão de imóvel novo paga 1%, contra 2% do usado (Lei distrital 7.635/2024). Consulte a lei da sua cidade."
   - q: "Por que o banco avaliou o usado abaixo do preço?"
     a: "O banco financia um percentual do menor valor entre o preço e a avaliação. Imóveis antigos, com área não averbada ou estado de conservação ruim tendem a ser avaliados mais baixo, e você precisa cobrir a diferença com entrada."
 sources:
-  - title: "InfoMoney: crédito imobiliário cresce no semestre, dados da Abecip (28/07/2026)"
-    url: "https://www.infomoney.com.br/?p=3428890"
-  - title: "Registro de Imóveis do Brasil: financiamento via poupança avança em 2026 (dados Abecip até agosto)"
-    url: "https://www.registrodeimoveis.org.br/financiamento-imobiliario-via-poupanca-avanca-em-2026"
+  - title: "Abecip: coletiva de imprensa do 1º semestre de 2026 (usados acima de 70% das aquisições no SBPE)"
+    url: "https://www.abecip.org.br/admin/assets/uploads/anexos/2026-07-28-coletiva-de-imprensa-abecip-vf.pdf"
   - title: "Portas: Raio-X FipeZap, desconto médio e perfil das compras em 2026"
     url: "https://portas.com.br/dados-inteligencia/imoveis-vendidos-desconto-brasil-2026/"
-  - title: "Faixa 4 do Minha Casa Minha Vida: juro nominal de 10% e cotas por região (IstoÉ Dinheiro, 05/05/2025)"
-    url: "https://istoedinheiro.com.br/faixa-4-do-minha-casa-minha-vida-voltada-a-classe-media/"
-  - title: "Ministério das Cidades: Instrução Normativa MCID nº 45/2025, orçamento do FGTS para 2026 (compilada em 08/04/2026)"
+  - title: "Portas: novas regras do Minha Casa Minha Vida, Faixa 4 com imóvel de até R$ 600 mil (22/04/2026)"
+    url: "https://portas.com.br/noticias/minha-casa-minha-vida-novas-regras-passam-a-valer-ate-fim-de-abril/"
+  - title: "Ministério das Cidades: Instrução Normativa MCID nº 45/2025, arts. 5º e 6º, cotas do usado no Pró-Cotista e na Classe Média (compilada em 08/04/2026)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260408_INSTRUO_NORMATIVA_N._45_COMPILADA.pdf"
   - title: "Código Civil (Lei 10.406/2002), arts. 445, 618 e 1.345"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
-  - title: "Lei distrital 7.635/2024 reduz ITBI no DF"
-    url: "https://www.idealsoftwares.com.br/idealnews/noticia.php?id=29958"
+  - title: "DODF de 23/12/2024, edição extra: Lei distrital 7.635/2024 (alíquotas do ITBI no DF)"
+    url: "https://www.economia.df.gov.br/documents/d/seec/dodf-099-23-12-2024-edicao-extra-a-pdf"
+  - title: "Código Tributário Nacional, Lei 5.172/1966, art. 130 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
   - title: "Lei 13.097/2015, art. 54 (com redação da Lei 14.382/2022)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13097.htm"
 related: [imovel-na-planta-ou-pronto, avaliacao-do-imovel-pelo-banco, documentos-para-financiamento, vicios-construtivos]
 ---
 
-Imóvel novo costuma custar mais por metro quadrado, mas é mais simples de financiar, tem garantia legal da construtora e quase não pede reforma. Imóvel usado costuma ter preço menor, mais opções de localização e espaço, e é o que a maioria compra: cerca de 70% das aquisições financiadas com recursos da poupança (SBPE) no primeiro semestre de 2026 foram de usados, segundo a Abecip. Em compensação, o usado pode ter cota de financiamento menor em algumas linhas, avaliação do banco mais baixa, custo de reforma e mais documentos para checar. A decisão boa sai de somar tudo que cada opção exige de dinheiro na mão, e não só do preço anunciado.
+Imóvel novo costuma custar mais por metro quadrado, mas é mais simples de financiar, tem garantia legal da construtora e quase não pede reforma. Imóvel usado costuma ter preço menor, mais opções de localização e espaço, e é o que a maioria compra: mais de 70% das aquisições financiadas com recursos da poupança (SBPE) no primeiro semestre de 2026 foram de usados, segundo a Abecip. Em compensação, o usado pode ter cota de financiamento menor em algumas linhas, avaliação do banco mais baixa, custo de reforma e mais documentos para checar. A decisão boa sai de somar tudo que cada opção exige de dinheiro na mão, e não só do preço anunciado.
 
 Neste guia, "novo" é o imóvel pronto, comprado direto da construtora e nunca habitado. A comparação entre comprar na planta e comprar pronto está em [imóvel na planta ou pronto](/artigos/imovel-na-planta-ou-pronto).
 
@@ -75,8 +75,8 @@ Cota é o percentual do valor do imóvel que o banco financia. O resto é a sua 
 
 | Linha | Imóvel novo | Imóvel usado |
 |---|---|---|
-| Minha Casa Minha Vida Faixa 4 (até R$ 600 mil) | até 80% em todo o país | até 80% no Norte, Nordeste e Centro-Oeste; até 60% no Sul e no Sudeste |
-| Pró-Cotista FGTS (Caixa) | cota maior | até 50%, para renda bruta de até R$ 12 mil (IN MCID nº 45/2025, orçamento de 2026) |
+| Minha Casa Minha Vida Faixa 4 (imóvel de até R$ 600 mil) | até 80% em todo o país | até 80% no Norte, Nordeste e Centro-Oeste; até 60% no Sul e no Sudeste (IN MCID nº 45/2025, art. 6º) |
+| Pró-Cotista FGTS | a cota usual do banco | só para renda familiar bruta de até R$ 12 mil, com até 50% do menor valor entre venda e avaliação (IN MCID nº 45/2025, art. 5º) |
 | SBPE nos grandes bancos | em geral até 80% no SAC | em geral igual ao novo; confirme na simulação |
 
 As cotas mudam com frequência, conforme a disponibilidade de recursos dos bancos. Veja quanto você precisa juntar em [entrada para financiar imóvel](/artigos/entrada-para-financiar-imovel).
@@ -91,7 +91,7 @@ Um problema comum no usado: área construída maior que a registrada. Uma casa q
 
 ### ITBI
 
-O ITBI (Imposto sobre Transmissão de Bens Imóveis) é municipal. Na maioria das cidades a alíquota é a mesma para novo e usado. Algumas cidades têm regra diferente para o novo: no Distrito Federal, a primeira venda de imóvel novo paga 1%, contra 2% do usado (Lei distrital 7.635/2024). Num imóvel de R$ 400 mil, são R$ 4 mil de diferença. Veja as regras de cada capital em [ITBI](/artigos/itbi).
+O ITBI (Imposto sobre Transmissão de Bens Imóveis) é municipal. Na maioria das cidades a alíquota é a mesma para novo e usado. Algumas cidades têm regra diferente para o novo: no Distrito Federal, a primeira transmissão de imóvel novo paga 1%, contra 2% do usado (Lei distrital 7.635/2024, em vigor desde 1º de janeiro de 2025). Num imóvel de R$ 400 mil, são R$ 4 mil de diferença. Veja as regras de cada capital em [ITBI](/artigos/itbi).
 
 ### Reforma
 
@@ -106,7 +106,7 @@ Leve um profissional para vistoriar antes de fazer a proposta. O custo da visita
 
 ### Exemplo: quanto dinheiro cada opção exige
 
-Exemplo ilustrativo, calculado em Python. Família no Sudeste, enquadrada na Faixa 4 do Minha Casa Minha Vida, juros de 10% ao ano nominal, 420 meses pela tabela SAC, ITBI de 3%. O usado custa 10% menos, mas precisa de R$ 25 mil de reforma.
+Exemplo ilustrativo, calculado em Python. Família no Sudeste, enquadrada na Faixa 4 do Minha Casa Minha Vida, juros de 10% ao ano nominal, 420 meses pela tabela SAC, ITBI de 3%. O usado custa 10% menos, mas precisa de R$ 25 mil de reforma. Na terceira coluna, a parcela usa os mesmos 10% só para comparar; numa linha de mercado, os juros seriam maiores.
 
 | Item | Novo de R$ 400 mil (cota 80%) | Usado de R$ 360 mil (cota 60%) | Usado de R$ 360 mil (cota 80%, outra linha) |
 |---|---|---|---|
@@ -123,14 +123,14 @@ Sem contar seguros, tarifas e cartório. O usado mais barato pede quase o dobro 
 
 ### No imóvel novo
 
-- **Garantia de 5 anos.** Pelo art. 618 do Código Civil, a construtora responde por 5 anos pela solidez e segurança da obra, e o contrato não pode reduzir esse prazo. Para outros defeitos, vale o Código de Defesa do Consumidor. Detalhes em [vícios construtivos](/artigos/vicios-construtivos).
+- **Garantia de 5 anos.** Pelo art. 618 do Código Civil, a construtora responde por 5 anos pela solidez e segurança da obra, e o contrato não pode reduzir esse prazo. Depois que o defeito aparece, a ação deve ser proposta em até 180 dias (parágrafo único do mesmo artigo). Para outros defeitos, vale o Código de Defesa do Consumidor. Detalhes em [vícios construtivos](/artigos/vicios-construtivos).
 - **Defeitos de primeira ocupação.** Infiltrações, rachaduras de acomodação e falhas de acabamento costumam aparecer nos primeiros anos. Faça a vistoria de entrega com calma e registre tudo por escrito.
 - **Condomínio ainda sem histórico.** Os primeiros orçamentos são estimativas. A taxa pode subir quando as despesas reais aparecem.
 
 ### No imóvel usado
 
-- **Garantia curta.** Comprando de pessoa física, em regra não há relação de consumo. Pelo art. 445 do Código Civil, você tem até um ano, contado da entrega, para pedir abatimento do preço ou desfazer o negócio por defeito oculto que já existia. Se você já morava no imóvel, o prazo cai pela metade. Em caso de problema, procure um advogado.
-- **Dívidas que acompanham o imóvel.** O comprador responde pelos débitos de condomínio do imóvel, inclusive multas e juros (Código Civil, art. 1.345). Débitos de IPTU também podem seguir o imóvel.
+- **Garantia curta.** Comprando de pessoa física, em regra não há relação de consumo. Pelo art. 445 do Código Civil, você tem até um ano, contado da entrega, para pedir abatimento do preço ou desfazer o negócio por defeito oculto que já existia. Se você já morava no imóvel, o prazo cai pela metade e conta da venda. Se o defeito, por natureza, só puder ser percebido mais tarde, o prazo começa quando você toma ciência dele, dentro do limite de um ano previsto no § 1º do mesmo artigo. Em caso de problema, procure um advogado.
+- **Dívidas que acompanham o imóvel.** O comprador responde pelos débitos de condomínio do imóvel, inclusive multas e juros (Código Civil, art. 1.345). Débitos de IPTU também seguem o imóvel, salvo se a escritura trouxer a prova de quitação (Código Tributário Nacional, art. 130). Por isso a certidão negativa de IPTU importa.
 - **Obras do condomínio.** Prédios antigos podem ter obras grandes previstas (fachada, elevadores, impermeabilização). Peça as atas das últimas assembleias.
 - **Problemas na cadeia de donos.** Inventário não concluído, divórcio sem partilha registrada ou penhora podem travar o registro.
 
