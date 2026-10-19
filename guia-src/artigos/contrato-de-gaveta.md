@@ -67,7 +67,7 @@ A Lei 10.150/2000 tratou da novação das dívidas do FCVS, fundo do governo que
 | Transferência sem o banco, feita até 25/10/1996 (art. 20) | pode ser regularizada nos termos da lei, salvo contratos dos planos de reajuste da Lei 8.692/1993 |
 | Proposta de transferência formalizada no banco até 25/10/1996 (art. 21) | concluir a transferência nas condições daquela data |
 | Liquidação antecipada de contrato do SFH (art. 22) | o comprador por contrato de gaveta é tratado como mutuário final, inclusive para habilitação no FCVS e uso do FGTS |
-| Prova da data (art. 20, parágrafo único, e art. 22, §§ 1º e 2º) | documentos registrados em cartório de imóveis, títulos e documentos ou notas; contrato particular datado até 25/10/1996 com firma reconhecida antes da quitação; ou procuração outorgada até 25/10/1996 |
+| Prova da data (art. 20, parágrafo único, e art. 22, §§ 1º e 2º) | documentos registrados em cartório de imóveis, títulos e documentos ou notas; contrato particular com firma reconhecida em cartório até 25/10/1996, antes da quitação; ou procuração outorgada até essa data |
 
 A cobertura do FCVS existe só em contratos antigos, e nem todo contrato daquela época tinha esse fundo. Para quem está nesse grupo, o primeiro passo é pedir à Caixa, que administra o fundo, ou ao banco credor a situação do contrato e da cobertura. Contratos sem FCVS também podem ser renegociados com o banco, se ele concordar (art. 23).
 
