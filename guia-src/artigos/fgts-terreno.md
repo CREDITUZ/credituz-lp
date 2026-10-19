@@ -127,4 +127,4 @@ Por isso, antes de fechar a compra do terreno, pergunte ao banco se ele aceita i
 - A lei fala em lote urbanizado, mas a regulamentação ainda exige vínculo com a obra.
 - O PL 5.437/2026 propõe mudar isso e não está em vigor.
 
-Se você está comparando terreno com imóvel pronto, veja também [FGTS para comprar imóvel usado](/artigos/fgts-imovel-usado). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024) e na Lei 8.036/1990. Confirme com o banco e acompanhe a tramitação do projeto antes de tomar a decisão.
+Se você está comparando terreno com imóvel pronto, veja também [FGTS para comprar imóvel usado](/artigos/fgts-imovel-usado). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024, a mais recente que consegui abrir; a Caixa divulgou nova versão pela Circular 1.069/2024, então confira a vigente) e na Lei 8.036/1990. Confirme com o banco e acompanhe a tramitação do projeto antes de tomar a decisão.

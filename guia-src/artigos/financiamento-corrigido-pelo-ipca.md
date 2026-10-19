@@ -48,7 +48,7 @@ O IPCA (Índice Nacional de Preços ao Consumidor Amplo) é a inflação oficial
 2. Calcula os juros fixos sobre o saldo corrigido.
 3. Recalcula a parcela para quitar o novo saldo no prazo que falta.
 
-Os bancos costumam usar o índice com defasagem, porque o IPCA de um mês só sai no mês seguinte. No Banco Inter, por exemplo, a página oficial informa que a parcela de agosto é corrigida pelo IPCA de junho. A Resolução CMN 4.676/2018 permite a correção mensal por índice de preços quando o contrato tem prazo de pelo menos 36 meses, o que vale para praticamente todo financiamento imobiliário.
+Os bancos costumam usar o índice com defasagem, porque o IPCA de um mês só sai no mês seguinte. No Banco Inter, por exemplo, a página oficial informa que a parcela de agosto é corrigida pelo IPCA de junho, uma defasagem de dois meses. A Resolução CMN 4.676/2018 permite corrigir o saldo por índice de preços (art. 5º, § 1º), e a regra exige contratos de pelo menos 36 meses (art. 5º, § 2º), o que vale para praticamente todo financiamento imobiliário.
 
 ### Diferença para a linha com TR
 
@@ -103,7 +103,7 @@ Financiamento de R$ 350 mil em 360 meses, SAC, sem seguros e tarifas. Linha A: 1
 
 O que os números mostram:
 
-- **A aprovação fica mais fácil no IPCA.** Com limite de 30% da renda, a linha A pede renda bruta de cerca de R$ 13.900; a linha B, cerca de R$ 12.150.
+- **A aprovação fica mais fácil no IPCA.** Com limite de 30% da renda, a linha A pede renda bruta de cerca de R$ 13.900; a linha B, cerca de R$ 12.130.
 - **Com IPCA de 4,58%, o saldo sobe.** Depois de 3 anos pagando, você deve cerca de R$ 360 mil, mais do que os R$ 350 mil iniciais.
 - **A parcela da linha B passa a da linha A** no sexto ano com IPCA de 4,58%, e no quarto ano com IPCA de 6%. Depois disso, continua subindo até perto do 19º ano (com 4,58%) ou do 24º ano (com 6%).
 

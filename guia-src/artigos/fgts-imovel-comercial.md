@@ -126,4 +126,4 @@ O cuidado com a destinação é parte da análise de risco da operação. Quanto
 - No imóvel misto, o fundo só cobre a parte residencial, discriminada no laudo.
 - Ter imóvel comercial não impede o uso do FGTS, mas comprar um imóvel comercial não é aceito.
 
-Antes de visitar imóveis, confira com o vendedor a matrícula atualizada e o IPTU. A lista de documentos está em [documentos para usar o FGTS](/artigos/documentos-para-usar-fgts). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024) e na Lei 8.036/1990. Confirme com o banco a destinação aceita antes de assinar.
+Antes de visitar imóveis, confira com o vendedor a matrícula atualizada e o IPTU. A lista de documentos está em [documentos para usar o FGTS](/artigos/documentos-para-usar-fgts). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024, a mais recente que consegui abrir; a Caixa divulgou nova versão pela Circular 1.069/2024, então confira a vigente) e na Lei 8.036/1990. Confirme com o banco a destinação aceita antes de assinar.

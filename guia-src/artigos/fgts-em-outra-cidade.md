@@ -128,4 +128,4 @@ Se o seu pedido já foi recusado por causa da cidade, veja os caminhos em [FGTS 
 - Imóvel seu fora do círculo de trabalho e residência não impede, exceto no caso de quem se mudou há menos de 1 ano.
 - Em trabalho remoto, pergunte ao banco qual cidade ele vai considerar.
 
-Separe os comprovantes de residência e de trabalho com antecedência; a lista completa está em [documentos para usar o FGTS](/artigos/documentos-para-usar-fgts). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024) e na Lei 8.036/1990; confirme com o banco a versão vigente do manual na data do seu pedido.
+Separe os comprovantes de residência e de trabalho com antecedência; a lista completa está em [documentos para usar o FGTS](/artigos/documentos-para-usar-fgts). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024, a mais recente que consegui abrir; a Caixa divulgou nova versão pela Circular 1.069/2024, então confira a vigente) e na Lei 8.036/1990; confirme com o banco a versão vigente do manual na data do seu pedido.

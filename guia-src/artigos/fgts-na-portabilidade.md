@@ -132,4 +132,4 @@ Contratos fora do SFH, inclusive do SFI (Sistema de Financiamento Imobiliário),
 - Parcelas pagas pelo FGTS devem ter o abatimento garantido por 12 meses.
 - O intervalo de 2 anos acompanha o trabalhador, em qualquer banco.
 
-Se você ainda não decidiu entre amortizar e portar, compare as duas coisas juntas, como no exemplo. Os detalhes das modalidades do FGTS estão em [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024) e nas resoluções citadas; confirme com os dois bancos antes de assinar.
+Se você ainda não decidiu entre amortizar e portar, compare as duas coisas juntas, como no exemplo. Os detalhes das modalidades do FGTS estão em [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024, a mais recente que consegui abrir; a Caixa divulgou nova versão pela Circular 1.069/2024, então confira a vigente) e nas resoluções citadas; confirme com os dois bancos antes de assinar.

@@ -35,6 +35,8 @@ sources:
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario"
   - title: "Dados de Mercado: IPCA anual e em 12 meses, com dados do IBGE (consultado em 19/10/2026)"
     url: "https://www.dadosdemercado.com.br/indices/ipca"
+  - title: "Renova Invest: CDI hoje, com dados do Banco Central (painel de 16/10/2026)"
+    url: "https://renovainvest.com.br/?p=71852"
 related: [tr-no-financiamento, financiamento-corrigido-pelo-ipca, taxa-de-juros-financiamento-imobiliario, portabilidade-financiamento-imobiliario]
 ---
 
@@ -61,7 +63,7 @@ No vocabulário dos bancos, "pré-fixada" costuma significar taxa fixa mais TR. 
 | Percentual do CDI | Custo acompanha os juros do mercado | Maior hoje | Selic cai bastante | Selic sobe |
 | Taxa fixa pura | Nada varia | Maior | Juros e inflação sobem | Juros e inflação caem |
 
-Quem oferece o quê muda ao longo do tempo. Em outubro de 2026, o levantamento da MySide listava taxas com TR para os cinco maiores bancos, de 10,26% a 11,99% ao ano mais TR. O Itaú e o Bradesco tinham, nas páginas oficiais, linhas ligadas à poupança. Em março de 2026, o portal SP Imóvel publicou, com dados que diz ter recebido da Caixa, uma linha de 114% a 120% do CDI, com prazo de até 360 meses, e taxa fixa pura só na linha de reforma, com prazo de até 180 meses. Linhas com IPCA existem em alguns bancos, como mostra o guia de [financiamento corrigido pelo IPCA](/artigos/financiamento-corrigido-pelo-ipca).
+Quem oferece o quê muda ao longo do tempo. Em outubro de 2026, o levantamento da MySide listava taxas com TR para os cinco maiores bancos, de 10,26% a 11,99% ao ano mais TR. O Itaú e o Bradesco tinham, nas páginas oficiais, linhas ligadas à poupança. Em março de 2026, o portal SP Imóvel publicou, com dados que diz ter recebido da Caixa, uma linha de 114% a 120% do CDI, com prazo de até 360 meses. A mesma tabela traz uma linha de reforma com taxa efetiva de 1,34% a 1,97% ao mês e prazo de até 180 meses, mas não diz se essa taxa é fixa sem índice; confirme com o banco. Linhas com IPCA existem em alguns bancos, como mostra o guia de [financiamento corrigido pelo IPCA](/artigos/financiamento-corrigido-pelo-ipca).
 
 ## Como cada índice se comporta
 
@@ -75,17 +77,17 @@ A TR (Taxa Referencial) é calculada pelo Banco Central a partir dos juros de me
 
 ### Poupança
 
-A Lei 12.703/2012 define o rendimento da poupança: com a Selic acima de 8,5% ao ano, rende 0,5% ao mês (cerca de 6,17% ao ano) mais TR; com a Selic igual ou abaixo de 8,5%, rende 70% da Selic mais TR. Com a Selic em 13,75% em outubro de 2026, a parte variável da linha está no teto. O Itaú descreve esse teto como taxa fixa mais 6,17% ao ano.
+A Lei 12.703/2012 define a remuneração adicional da poupança: com a meta da Selic acima de 8,5% ao ano, ela é de 0,5% ao mês (cerca de 6,17% ao ano); nos demais casos, é 70% da meta da Selic, mensalizada. A TR completa a remuneração da caderneta. Com a Selic em 13,75% em outubro de 2026, a parte variável da linha está no teto. O Itaú descreve esse teto como taxa fixa mais 6,17% ao ano.
 
 ### CDI
 
-O CDI acompanha a Selic quase ponto a ponto; estava em 13,65% ao ano em outubro de 2026. Linhas em percentual do CDI mudam o custo todo mês, para cima ou para baixo.
+O CDI acompanha a Selic quase ponto a ponto; estava em 13,65% ao ano em 16 de outubro de 2026, segundo o painel de CDI com dados do Banco Central, e a Selic meta estava em 13,75%. Linhas em percentual do CDI mudam o custo todo mês, para cima ou para baixo.
 
 ## Exemplo prático: três cenários, cinco linhas
 
 ### Exemplo ilustrativo
 
-Taxas hipotéticas, escolhidas para ficar perto das faixas de mercado de 2026: 11,5% + TR; 9,5% + IPCA; 8,5% + poupança; 114% do CDI; e 13,5% de taxa fixa pura. O custo anual combinado foi calculado multiplicando a taxa fixa pelo índice, ou seja, (1 + taxa) × (1 + índice) − 1, sem seguros e tarifas. Na linha com poupança, a parte variável foi considerada sem TR, como o Itaú descreve o teto. Cálculo feito em Python.
+Taxas hipotéticas, escolhidas para ficar perto das faixas de mercado de 2026: 11,5% + TR; 9,5% + IPCA; 8,5% + poupança; 114% do CDI; e 13,5% de taxa fixa pura. O custo anual combinado foi calculado multiplicando a taxa fixa pelo índice, ou seja, (1 + taxa) × (1 + índice) − 1, sem seguros e tarifas. Na linha com poupança, a parte variável foi considerada sem TR, seguindo a forma como o Itaú descreve o teto (taxa fixa mais 6,17% ao ano). Se a TR entrar na correção do seu contrato, a linha fica mais cara do que o exemplo mostra, então confirme a regra no contrato. Cálculo feito em Python.
 
 Os cenários:
 

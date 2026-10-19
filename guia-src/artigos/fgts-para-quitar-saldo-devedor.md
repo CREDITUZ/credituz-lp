@@ -138,4 +138,4 @@ Quitar elimina juros, mas o dinheiro do FGTS não volta. Se você está no saque
 - O intervalo de 2 anos é por trabalhador, então os saldos do casal podem se completar.
 - Depois de quitar, cobre o termo em 30 dias e cancele a garantia no cartório.
 
-O pedido é feito no banco do financiamento, com o formulário de autorização de movimentação da conta. Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024), na Lei 8.036/1990 e nas resoluções citadas; confirme no banco a versão vigente na data do pedido.
+O pedido é feito no banco do financiamento, com o formulário de autorização de movimentação da conta. Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024, a mais recente que consegui abrir; a Caixa divulgou nova versão pela Circular 1.069/2024, então confira a vigente), na Lei 8.036/1990 e nas resoluções citadas; confirme no banco a versão vigente na data do pedido.

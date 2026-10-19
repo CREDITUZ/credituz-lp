@@ -137,4 +137,4 @@ Esses créditos entram para a conta, não para a moradia diretamente. Eles só s
 - O saldo de contas inativas recebe a distribuição de lucro do fundo.
 - Para contas que não aparecem, a agência da Caixa resolve com a carteira antiga.
 
-Se você ainda não sabe quanto tem disponível, comece pelo [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) e a lista de [documentos para usar o FGTS](/artigos/documentos-para-usar-fgts). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024), na Lei 8.036/1990 e na imprensa citada. Confirme com o banco e com a Caixa antes de contar com um valor.
+Se você ainda não sabe quanto tem disponível, comece pelo [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) e a lista de [documentos para usar o FGTS](/artigos/documentos-para-usar-fgts). Regras conferidas em outubro de 2026 no manual da Caixa (versão de 05/04/2024, a mais recente que consegui abrir; a Caixa divulgou nova versão pela Circular 1.069/2024, então confira a vigente), na Lei 8.036/1990 e na imprensa citada. Confirme com o banco e com a Caixa antes de contar com um valor.

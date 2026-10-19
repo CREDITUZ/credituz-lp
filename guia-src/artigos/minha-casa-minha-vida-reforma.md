@@ -57,7 +57,7 @@ Quem precisa de um imóvel para morar, e não de reforma, deve olhar as faixas d
 Os requisitos divulgados pela Caixa e pelo portal gov.br são estes:
 
 - renda bruta familiar de até R$ 13 mil por mês, somando quem mora na casa e contribui com as despesas;
-- moradia em área urbana, com a família já proprietária ou morando no imóvel a ser reformado;
+- moradia em área urbana, no imóvel que a família já ocupa e precisa reformar;
 - conta gov.br no nível bronze, prata ou ouro;
 - simulação autodeclaratória, que na etapa inicial não pede documentos.
 
@@ -80,7 +80,7 @@ A tabela abaixo mostra cada número com a fonte. Onde a fonte é apenas reportag
 
 A resolução oficial fala em encargos de até 0,82% ao mês, como remuneração da instituição financeira. Já a Caixa, segundo o Portas, divulga um custo operacional a partir de 0,99% ao mês, considerando todos os encargos. A diferença parece ser essa, mas nenhum documento consultado explica a conta com todos os itens. Por isso, a comparação útil é o CET que aparecer na sua simulação, e não a taxa isolada.
 
-Antes das mudanças, a imprensa de abril de 2026 informava taxas de 1,17% ao mês para famílias com renda de até R$ 3.200 e de 1,95% para as demais. A redução para 0,99% foi noticiada em 15 de abril, e o teto de 0,82% foi aprovado depois, segundo a reportagem do IstoÉ Dinheiro publicada em 5 de maio. O número da resolução do CMN que fez essa última mudança não foi localizado. A norma que define as condições da operação, segundo a Resolução CDFS nº 10, é a Resolução CMN nº 5.209, de 30 de abril de 2025, com as alterações de 2026.
+Antes das mudanças, a imprensa de abril de 2026 informava taxas de 1,17% ao mês para famílias com renda de até R$ 3.200 e de 1,95% para as demais. A redução para 0,99% foi noticiada em 15 de abril, e o teto de 0,82% foi aprovado depois, segundo a reportagem do IstoÉ Dinheiro publicada em 5 de maio. O número da resolução do CMN que fez essa última mudança não foi localizado. Segundo a Resolução CDFS nº 10, as condições da operação são definidas pela Resolução CMN nº 5.209, de 30 de abril de 2025, e o número da norma que aplicou a alteração de 2026 não foi localizado.
 
 ### Exemplo ilustrativo
 
