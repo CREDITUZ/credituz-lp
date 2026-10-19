@@ -1,6 +1,6 @@
 ---
 title: "Bancos digitais e financiamento imobiliário: o que existe em 2026"
-description: "Quais bancos digitais financiam a compra de imóvel em 2026, o que é home equity e por que o Nubank não tem financiamento imobiliário, com as fontes checadas."
+description: "Quais bancos digitais financiam a compra de imóvel em 2026, o que é home equity e o que o Nubank oferece hoje, sem linha imobiliária na página oficial, com as fontes checadas."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
@@ -9,7 +9,7 @@ key_points:
   - "Financiamento para comprar imóvel exige crédito de longo prazo com garantia do próprio imóvel, e poucos bancos digitais oferecem isso em 2026."
   - "O Nubank não oferece financiamento imobiliário, segundo a página oficial de empréstimos e o material institucional consultados em outubro de 2026."
   - "O C6 Bank tem home equity, que é crédito com garantia de um imóvel que você já possui, e não serve para comprar casa."
-  - "O Banco Inter é o digital mais citado com financiamento para compra de imóvel, com linha corrigida pelo IPCA."
+  - "O Banco Inter tem linha de compra de imóvel publicada na página oficial, corrigida pelo IPCA."
   - "Antes de fechar com um banco digital, confirme o produto na página oficial e compare pelo CET com os mesmos parâmetros."
 faq:
   - q: "O Nubank financia imóvel?"
@@ -17,7 +17,7 @@ faq:
   - q: "Home equity é financiamento imobiliário?"
     a: "Não. Home equity é empréstimo com garantia de um imóvel que você já é dono. O dinheiro pode ser usado para qualquer fim, inclusive para quitar dívidas, e o imóvel pode ser perdido se o pagamento atrasar."
   - q: "Quais bancos digitais financiam imóvel em 2026?"
-    a: "O Banco Inter tem linha residencial de financiamento na página oficial. Outros digitais e fintechs costumam oferecer home equity ou crédito com garantia. A oferta muda, então consulte cada banco antes de comparar."
+    a: "O Banco Inter tem linha residencial de financiamento na página oficial. O C6 Bank tem home equity, que usa imóvel como garantia e não serve para comprar casa. A oferta muda, então consulte cada banco antes de comparar."
   - q: "Banco digital tem taxa menor no financiamento?"
     a: "Não há regra geral. A taxa depende do indexador, do perfil e da garantia. Compare o CET das propostas com o mesmo valor, prazo, sistema e indexador, e não apenas a taxa de vitrine."
 sources:
@@ -25,8 +25,8 @@ sources:
     url: "https://nubank.com.br/emprestimo/"
   - title: "Nubank: CEO fala sobre financiamento imobiliário no app, matéria de 19/05/2023 atualizada em 19/01/2026"
     url: "https://seucreditodigital.com.br/casa-propria-com-o-nubank-ceo-fala-sobre-financiamento-imobiliario-no-app/"
-  - title: "Mobills: financiamento Nubank, texto de abril de 2023 (informa que o banco não oferece financiamento de imóvel)"
-    url: "https://www.mobills.com.br/blog/financiamento/financiamento-nubank/"
+  - title: "Tecnoblog: Nubank vira sócio da Creditas e poderá oferecer produtos da parceira no app (matéria de 2021)"
+    url: "https://tecnoblog.net/491321/nubank-vira-socio-da-creditas-em-parceria-que-expande-opcoes-de-credito/"
   - title: "Nubank: investimento de R$ 45 bilhões em 2026 e planos de licença bancária (27/04/2026)"
     url: "https://international.nubank.com.br/company/nubank-to-invest-r-45-billion-in-brazil-in-2026/"
   - title: "C6 Bank: resultado do 1º semestre de 2026, com home equity entre as áreas de negócio (18/08/2026)"
