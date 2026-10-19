@@ -6,7 +6,7 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
-  - "Em outubro de 2026, as taxas de balcão dos cinco maiores bancos no SBPE começam entre cerca de 10,3% e 12% ao ano mais TR."
+  - "Em outubro de 2026, as taxas de balcão dos cinco maiores bancos no SBPE começam entre cerca de 10,3% e 12% ao ano mais TR, segundo a MySide; o site do Itaú anunciava 13,85% mais TR."
   - "A Selic está em 13,75% ao ano desde 16 de setembro de 2026. A próxima reunião do Copom é em 3 e 4 de novembro."
   - "No SFH, o custo efetivo do financiamento não pode passar de 12% ao ano."
   - "Um ponto percentual a mais na taxa pode custar dezenas de milhares de reais ao longo do contrato."
@@ -21,8 +21,6 @@ faq:
   - q: "Qual a diferença entre taxa de juros e CET?"
     a: "A taxa de juros é só o preço do dinheiro emprestado. O CET inclui juros, seguros obrigatórios, tarifas e outros encargos, e por isso é o número que permite comparar propostas de bancos diferentes."
 sources:
-  - title: "Copom reduz Selic para 13,75% ao ano (decisão de 16/09/2026)"
-    url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
   - title: "Economic News Brasil: Selic cai para 13,75%, quinto corte seguido (16/09/2026)"
     url: "https://economicnewsbrasil.com.br/2026/09/16/nova-taxa-selic-projecao-dezembro-2026/"
   - title: "Calendário das reuniões do Copom em 2026"
@@ -37,6 +35,8 @@ sources:
     url: "https://www.infomoney.com.br/?p=3059690"
   - title: "Banco Central: taxas de juros por instituição financeira"
     url: "https://www.bcb.gov.br/estatisticas/reporttxjuros"
+  - title: "Itaú: crédito imobiliário (página oficial, consultada em 19/10/2026)"
+    url: "https://www.itau.com.br/emprestimos-financiamentos/credito-imobiliario"
   - title: "Canal Rural: Banco Central detalha novo modelo de crédito imobiliário (11/05/2026)"
     url: "https://www.canalrural.com.br/economia/banco-central-detalha-novo-modelo-de-credito-imobiliario-lancado-no-fim-de-2025/"
 related: [como-funciona-financiamento-imobiliario, sac-ou-price, portabilidade-financiamento-imobiliario, score-para-financiamento-imobiliario]
@@ -57,6 +57,8 @@ A tabela abaixo mostra as taxas "a partir de" divulgadas pelos bancos, compilada
 | Itaú | 11,99% + TR | não oferece |
 
 Fonte: MySide, atualização de 08/10/2026. Taxas mudam com frequência; confirme no simulador de cada banco antes de decidir.
+
+Observação sobre o Itaú: em 19 de outubro de 2026, a página oficial do banco anunciava taxa a partir de 13,85% ao ano mais TR na linha pré-fixada, acima do número do levantamento. Quando a fonte oficial e a compilação divergem, vale a do banco, e a proposta formal com CET é o que decide. Veja o guia do [financiamento no Itaú](/artigos/financiamento-itau).
 
 Para comparar com dados oficiais, o Banco Central publica no site dele as taxas médias cobradas por instituição financeira em diversas modalidades de crédito, na página de taxas de juros por instituição. Vale consultar e ver quais modalidades estão disponíveis na data: quando há dado de financiamento imobiliário, ele ajuda a checar se a taxa "a partir de" está perto do que os clientes realmente pagam.
 
@@ -153,7 +155,7 @@ Se algum desses campos não estiver na simulação, peça por escrito. Isso evit
 
 ## Resumo e próximos passos
 
-- Em outubro de 2026, as taxas de balcão do SBPE nos grandes bancos começam entre cerca de 10,3% e 12% ao ano mais TR.
+- Em outubro de 2026, as taxas de balcão do SBPE nos grandes bancos começam entre cerca de 10,3% e 12% ao ano mais TR, segundo a MySide (no site oficial do Itaú, 13,85% mais TR).
 - A Selic está em 13,75% ao ano. A próxima decisão do Copom sai em 4 de novembro de 2026.
 - No SFH, o custo efetivo é limitado a 12% ao ano.
 - Compare pelo CET, com os mesmos parâmetros, em pelo menos três bancos.

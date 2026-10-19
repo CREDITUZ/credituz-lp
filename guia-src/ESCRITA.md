@@ -79,11 +79,14 @@ Não reproduza a estrutura de um artigo de terceiro.
   um exemplo prático com números, erros comuns ou cuidados, e um "Resumo" ou "Próximos passos".
 - Pelo menos uma tabela quando o tema comparar coisas.
 - Links internos: cite 2 a 4 outros artigos do guia no texto como `[texto](/artigos/<slug>)`,
-  só para slugs da lista de pautas abaixo. Calculadoras: `[simulador de financiamento](/simulador)`
+  só para slugs que JÁ EXISTEM em guia-src/artigos/ ou que estão na sua própria encomenda
+  (o build reprova link para artigo inexistente). O mesmo vale para `related`. Calculadoras: `[simulador de financiamento](/simulador)`
   e `[calculadora de quanto posso financiar](/quanto-posso-financiar)`.
 - Não mencione a Credituz no corpo. Não faça chamada comercial.
 
 ## Lista de pautas (slug: tema)
+
+Pautas novas e a ordem das ondas ficam em guia-src/PAUTA.md. A lista abaixo é a primeira leva (publicada).
 
 financiamento
 - como-funciona-financiamento-imobiliario: guia completo de como funciona o financiamento (pilar)

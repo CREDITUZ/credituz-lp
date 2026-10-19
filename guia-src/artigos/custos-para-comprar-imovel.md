@@ -17,7 +17,7 @@ faq:
   - q: "Preciso pagar escritura se vou financiar?"
     a: "Em geral não. O contrato de financiamento assinado com o banco tem força de escritura pública. Você paga o registro desse contrato no Registro de Imóveis."
   - q: "A tarifa de avaliação do banco é devolvida se o financiamento não sair?"
-    a: "Normalmente não. A avaliação é um serviço prestado, e bancos como o BRB informam que a tarifa não é estornada em caso de desistência ou recusa."
+    a: "Depende de quem desistiu. Pela Resolução CMN 4.676/2018 (art. 8º-A), o banco não pode cobrar a avaliação quando a operação não é contratada por decisão dele. Se a desistência for sua, a cobrança é permitida, desde que o banco tenha avisado antes e você tenha concordado."
   - q: "Posso incluir ITBI e cartório no financiamento?"
     a: "Alguns bancos aceitam incluir essas despesas no valor financiado, dentro do limite de crédito. Isso alivia o caixa agora, mas você paga juros sobre elas por anos."
   - q: "Onde vejo a tabela de cartório do meu estado?"
@@ -35,6 +35,8 @@ sources:
     url: "https://sienge.com.br/blog/desconto-no-registro-do-primeiro-imovel/"
   - title: "Smargiassi: quanto custa a escritura de um imóvel"
     url: "https://smargiassi.com.br/orientacoes/quanto-custa-escritura-imovel/"
+  - title: "Banco Central: Resolução CMN 4.676/2018, art. 8º-A (tarifa de avaliação)"
+    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v9_P.pdf"
   - title: "Brasil Indicadores: TR mensal e acumulada em 12 meses"
     url: "https://brasilindicadores.com.br/tr/"
 related: [itbi, avaliacao-do-imovel-pelo-banco, seguros-mip-e-dfi, documentos-para-financiamento]
@@ -91,7 +93,7 @@ Antes de aprovar o crédito, o banco manda um engenheiro ou arquiteto avaliar o 
 - **Itaú:** R$ 1.600 para imóveis avaliados até R$ 350 mil e R$ 3.200 acima disso, na página sobre compra com FGTS.
 - **BRB:** tarifa máxima de R$ 3.500, segundo o formulário de proposta de novembro de 2025.
 
-A tarifa costuma ser cobrada mesmo se o financiamento não sair, e não é devolvida em caso de desistência. Compare esse valor entre bancos, porque ele entra no CET (Custo Efetivo Total) do contrato. O artigo sobre [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco) explica o que acontece se o laudo vier abaixo do preço.
+Se você desistir depois da vistoria, o banco pode cobrar a tarifa, desde que tenha avisado antes. Se for o banco que decide não contratar, a regra do Conselho Monetário Nacional (art. 8º-A da Resolução CMN 4.676/2018) proíbe cobrar os custos da avaliação. Compare esse valor entre bancos, porque ele entra no CET (Custo Efetivo Total) do contrato. O artigo sobre [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco) explica o que acontece se o laudo vier abaixo do preço.
 
 ## Certidões e documentos
 
@@ -131,7 +133,7 @@ Para saber quanto do valor o banco aceitaria financiar no seu caso, use o [simul
 ## Erros comuns
 
 - **Juntar só a entrada.** É o erro mais frequente. Sem dinheiro para o ITBI e o cartório, a compra trava entre a assinatura e o registro.
-- **Esquecer que a avaliação é paga mesmo sem aprovação.** Antes de pedir avaliação em vários bancos, faça a análise de crédito e escolha onde seguir.
+- **Pedir avaliação em vários bancos.** Se você desistir de um deles depois da vistoria, a tarifa pode ser cobrada. Faça a análise de crédito antes e escolha onde seguir.
 - **Não pedir o desconto do primeiro imóvel.** O cartório só aplica se você solicitar e comprovar.
 - **Achar que a escritura é obrigatória no financiamento.** Na maior parte dos casos, o contrato do banco já basta para o registro.
 - **Incluir tudo no financiamento sem fazer a conta.** Financiar R$ 15 mil de custos a mais de 11% ao ano por 30 anos custa bem mais que R$ 15 mil.
