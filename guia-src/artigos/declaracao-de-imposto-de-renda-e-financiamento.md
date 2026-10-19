@@ -8,14 +8,14 @@ reading_minutes: 7
 key_points:
   - "Para autônomos, profissionais liberais e empresários, a declaração de Imposto de Renda é a prova de renda mais aceita pelos bancos; renda que não está nela tende a ser ignorada."
   - "O imóvel financiado vai na ficha Bens e Direitos pelo valor que você efetivamente pagou até 31 de dezembro, não pelo preço total nem pelo valor de mercado."
-  - "A orientação mais comum de bancos e contadores é não lançar o saldo do financiamento em Dívidas e Ônus Reais."
+  - "O manual da Receita manda não incluir em Dívidas e Ônus Reais os financiamentos do SFH ou feitos nas mesmas condições, com o imóvel em garantia."
   - "Na declaração de 2026 (ano-base 2025), quem teve rendimentos tributáveis acima de R$ 35.584 ou bens acima de R$ 800 mil foi obrigado a declarar."
   - "Guardar os comprovantes de juros, ITBI e registro ajuda a reduzir o ganho de capital quando você vender."
 faq:
   - q: "Preciso declarar Imposto de Renda para conseguir financiamento?"
     a: "Quem tem holerite geralmente comprova renda com o contracheque. Para autônomos, MEI e empresários, a declaração é a prova mais aceita, e declarar mesmo sem obrigação costuma ajudar na análise."
   - q: "Imóvel financiado vai em Bens e Direitos ou em Dívidas e Ônus Reais?"
-    a: "Em Bens e Direitos, pelo valor efetivamente pago até 31 de dezembro. A orientação mais comum é não informar o saldo do financiamento em Dívidas e Ônus Reais, porque o imóvel já aparece só pela parte que você quitou."
+    a: "Em Bens e Direitos, pelo valor efetivamente pago até 31 de dezembro. O manual da Receita exclui da ficha Dívidas e Ônus Reais os financiamentos do SFH ou feitos nas mesmas condições, como os com alienação fiduciária; o saldo devedor vai só na Discriminação do bem."
   - q: "Os juros do financiamento abatem o Imposto de Renda?"
     a: "Não reduzem o imposto do ano. Mas os juros pagos para comprar o imóvel podem compor o custo de aquisição, o que diminui o ganho de capital tributável numa venda futura, desde que comprovados."
   - q: "Declarei o imóvel errado em anos anteriores. E agora?"
@@ -23,22 +23,22 @@ faq:
 sources:
   - title: "Receita Federal: Perguntas e Respostas IRPF 2026 (versão 1.00, 23/04/2026)"
     url: "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirpf/p-r-irpf-2026-v1-00-2026-04-23.pdf/view"
-  - title: "Congresso em Foco: Receita divulga regras do IR 2026 (16/03/2026)"
-    url: "https://www.congressoemfoco.com.br/noticia/117288/quem-deve-declarar-receita-divulga-regras-do-ir-2026"
+  - title: "Receita Federal: prazo do IRPF 2026, de 23 de março a 29 de maio"
+    url: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/marco/receita-comeca-a-receber-declaracoes-do-irpf-no-dia-23-de-marco-prazo-de-entrega-se-encerra-em-29-de-maio"
+  - title: "Receita Federal: quem deve declarar (IN RFB 2.312/2026)"
+    url: "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/quem"
+  - title: "Receita Federal: multa por atraso na entrega"
+    url: "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/multa"
+  - title: "Receita Federal: manual Meu Imposto de Renda, ficha Dívidas e Ônus Reais"
+    url: "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/manual-mir/patrimonio/dividas-e-onus-reais"
   - title: "Portal Tributário: custo de aquisição de imóveis adquiridos em prestações (Perguntas e Respostas IRPF)"
     url: "https://www.portaltributario.com.br/irpf/qual-e-o-custo-de-aquisicao-para-os-imoveis-adquiridos-em.htm"
-  - title: "Tributário nos Bastidores: IN SRF 84/2001, art. 17, juros no custo de aquisição"
-    url: "https://tributarionosbastidores.com.br/2014/05/gces/"
-  - title: "Santander: como declarar financiamento no Imposto de Renda"
-    url: "https://www.santander.com.br/blog/como-declarar-financiamento-no-ir"
-  - title: "QuintoAndar: como declarar imóvel financiado no IR 2026 (25/03/2026)"
-    url: "https://www.quintoandar.com.br/guias/?p=2417666"
-  - title: "Portas: IR 2026, como declarar imóvel financiado (atualizado em 16/10/2026)"
-    url: "https://portas.com.br/imposto-de-renda/ir-2026-como-declarar-imovel-financiado-do-jeito-certo/"
+  - title: "Instrução Normativa SRF 84/2001, art. 17 (texto integral)"
+    url: "https://www.normaslegais.com.br/legislacao/tributario/insrf84.htm"
 related: [financiamento-autonomo-mei, documentos-para-financiamento, analise-de-credito-como-funciona, comprometimento-de-renda]
 ---
 
-A declaração de Imposto de Renda pesa no financiamento em dois momentos. Antes do contrato, ela serve de prova de renda, principalmente para quem não tem holerite: o banco usa o que está declarado, e renda que não aparece ali tende a ficar de fora da conta. Depois do contrato, você passa a declarar o imóvel na ficha Bens e Direitos pelo valor que efetivamente pagou até 31 de dezembro de cada ano (entrada, FGTS e parcelas), e não pelo preço total. A orientação mais comum é não lançar o saldo devedor em Dívidas e Ônus Reais.
+A declaração de Imposto de Renda pesa no financiamento em dois momentos. Antes do contrato, ela serve de prova de renda, principalmente para quem não tem holerite: o banco usa o que está declarado, e renda que não aparece ali tende a ficar de fora da conta. Depois do contrato, você passa a declarar o imóvel na ficha Bens e Direitos pelo valor que efetivamente pagou até 31 de dezembro de cada ano (entrada, FGTS e parcelas), e não pelo preço total. O saldo devedor não vai para Dívidas e Ônus Reais: o manual da Receita exclui dessa ficha os financiamentos do SFH ou feitos nas mesmas condições.
 
 ## Como o banco usa a declaração para comprovar renda
 
@@ -65,7 +65,7 @@ Declarar uma renda baixa para pagar menos imposto tem um custo escondido: o banc
 
 ### Quem é obrigado a declarar
 
-Na declaração de 2026 (ano-base 2025), entregue de 23 de março a 29 de maio de 2026, a Receita exigiu a entrega de quem, entre outras hipóteses, teve rendimentos tributáveis acima de R$ 35.584, rendimentos isentos acima de R$ 200 mil ou bens e direitos acima de R$ 800 mil em 31 de dezembro. A multa por atraso tem mínimo de R$ 165,74 e pode chegar a 20% do imposto devido. Esses limites são revistos a cada ano: confira as regras da declaração seguinte quando forem publicadas.
+Na declaração de 2026 (ano-base 2025), entregue de 23 de março a 29 de maio de 2026, a Receita exigiu a entrega de quem, entre outras hipóteses, teve rendimentos tributáveis acima de R$ 35.584, rendimentos isentos acima de R$ 200 mil ou bens e direitos acima de R$ 800 mil em 31 de dezembro. A multa por atraso é de 1% ao mês sobre o imposto devido, com mínimo de R$ 165,74 e máximo de 20% do imposto, segundo a Receita. Esses limites são revistos a cada ano: confira as regras da declaração seguinte quando forem publicadas.
 
 ## Como declarar o imóvel financiado
 
@@ -94,7 +94,7 @@ Se o imóvel é novo e ainda não tem inscrição de IPTU ou matrícula individu
 
 ### Ficha Dívidas e Ônus Reais
 
-Essa ficha é para dívidas que você tinha em 31 de dezembro. O Perguntas e Respostas da Receita dispensa informar dívidas e ônus reais de até R$ 5.000. Para o financiamento imobiliário, a orientação mais comum de bancos, contadores e guias especializados é não lançar o saldo devedor nessa ficha, porque o imóvel já está declarado apenas pela parte paga. Lançar as duas coisas distorce a evolução do seu patrimônio. O saldo devedor pode e deve aparecer, sim, mas como informação no campo Discriminação do bem.
+Essa ficha é para dívidas que você tinha em 31 de dezembro. O manual do Meu Imposto de Renda, da Receita, lista o que não entra nela: dívidas de até R$ 5.000, financiamentos do SFH (Sistema Financeiro da Habitação) ou sujeitos às mesmas condições, como os garantidos por alienação fiduciária ou hipoteca, bens comprados por consórcio e dívidas da atividade rural. Como o financiamento imobiliário típico tem o próprio imóvel como garantia, o saldo devedor não vai para essa ficha. Faz sentido: o imóvel já está declarado só pela parte paga, e lançar a dívida também distorceria a evolução do seu patrimônio. O saldo devedor aparece apenas como informação no campo Discriminação do bem. Se o seu caso for diferente (um empréstimo sem garantia usado na compra, por exemplo), confirme com um contador.
 
 Empréstimos pessoais, consignados e outras dívidas acima do limite seguem indo para Dívidas e Ônus Reais normalmente.
 
@@ -124,11 +124,11 @@ As nove parcelas pagas de abril a dezembro de 2025 somam cerca de R$ 30.798. Em 
 
 Repare que o valor declarado do imóvel sobe ano a ano, e o saldo devedor desce. Quando o financiamento acabar, o bem estará declarado pelo custo total, com todos os juros pagos.
 
-Sobre o ITBI e os custos de cartório: há quem os some no valor do bem e quem os registre só na Discriminação. Somar costuma ser o mais favorável na venda, desde que você guarde os comprovantes.
+Sobre o ITBI e os custos de cartório: o ITBI pago na compra aparece expressamente entre os valores que podem integrar o custo do imóvel na IN SRF 84/2001. Escritura e registro não são citados nesse artigo; antes de somá-los ao bem, guarde os comprovantes e confirme o tratamento com um contador.
 
 ## Juros, ganho de capital e o que guardar
 
-Os juros do financiamento não reduzem o imposto do ano. Eles importam no futuro: quando você vender o imóvel, o ganho de capital é a diferença entre o preço de venda e o custo de aquisição. A Instrução Normativa SRF 84/2001 (art. 17) lista os juros e demais acréscimos pagos para a aquisição do imóvel entre os valores que podem integrar esse custo, desde que comprovados.
+Os juros do financiamento não reduzem o imposto do ano. Eles importam no futuro: quando você vender o imóvel, o ganho de capital é a diferença entre o preço de venda e o custo de aquisição. A Instrução Normativa SRF 84/2001 (art. 17, inciso I) lista os juros e demais acréscimos pagos para a aquisição do imóvel (alínea g) e o ITBI pago na compra (alínea e) entre os valores que podem integrar esse custo, desde que comprovados e informados na declaração.
 
 Na prática, isso explica por que declarar as parcelas inteiras (amortização mais juros) faz diferença: um custo maior significa ganho menor e imposto menor na venda. Guarde por muitos anos:
 
@@ -142,7 +142,7 @@ Regras de ganho de capital têm isenções e detalhes próprios. Para uma venda,
 ## Erros comuns
 
 - **Declarar o valor total do imóvel no ano da compra.** O certo é o valor efetivamente pago até 31 de dezembro.
-- **Lançar o saldo do financiamento em Dívidas e Ônus Reais.** A orientação predominante é informar o saldo só na Discriminação.
+- **Lançar o saldo do financiamento em Dívidas e Ônus Reais.** O manual da Receita exclui dessa ficha o financiamento do SFH ou em condições equivalentes; informe o saldo só na Discriminação.
 - **Atualizar o imóvel para o valor de mercado.** O bem fica pelo custo de aquisição.
 - **Esquecer o FGTS usado.** Ele é parte do que você pagou e precisa aparecer na forma de pagamento.
 - **Declarar renda menor para pagar menos imposto e depois pedir financiamento.** O banco usa o que está declarado.
@@ -152,6 +152,6 @@ Regras de ganho de capital têm isenções e detalhes próprios. Para uma venda,
 
 - Para quem não tem holerite, a declaração de IR é a prova de renda mais aceita; mantenha a renda declarada coerente com os extratos.
 - O imóvel financiado vai em Bens e Direitos, grupo 01, pelo valor pago até 31 de dezembro, com a forma de pagamento descrita.
-- O saldo devedor aparece na Discriminação; a orientação mais comum é não lançá-lo em Dívidas e Ônus Reais.
-- Juros, ITBI e registro comprovados podem compor o custo e reduzir o ganho de capital na venda.
+- O saldo devedor aparece só na Discriminação; o manual da Receita exclui esse financiamento da ficha Dívidas e Ônus Reais.
+- Juros e ITBI comprovados podem compor o custo e reduzir o ganho de capital na venda; para escritura e registro, confirme com um contador.
 - Antes de pedir o crédito, confira a lista de [documentos para financiamento](/artigos/documentos-para-financiamento) e entenda [como funciona a análise de crédito](/artigos/analise-de-credito-como-funciona).
