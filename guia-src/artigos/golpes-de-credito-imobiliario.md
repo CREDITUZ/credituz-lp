@@ -1,10 +1,10 @@
 ---
 title: "Golpes de crédito imobiliário: como reconhecer e se proteger"
-description: "Os golpes mais comuns no crédito imobiliário (taxa antecipada, falso correspondente, boleto falso, falso leilão), como checar o correspondente e o que fazer se cair."
+description: "Golpes comuns no crédito imobiliário (taxa antecipada, falso correspondente, boleto falso, falso leilão), como checar o correspondente e o que fazer se cair."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Pedido de pagamento antecipado para liberar crédito é o sinal mais claro de golpe; a Febraban afirma que não oferece empréstimos nem cobra para liberá-los."
   - "Pela Resolução CMN 4.935/2021, o correspondente não pode cobrar de você tarifa ou comissão própria e precisa informar para qual instituição trabalha."

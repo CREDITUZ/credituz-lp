@@ -1,10 +1,10 @@
 ---
-title: "Análise de crédito do financiamento: etapas, prazos e o que é avaliado"
+title: "Análise de crédito do financiamento: etapas, prazos e critérios"
 description: "Como funciona a análise de crédito do financiamento imobiliário: as etapas, o que o banco avalia (cadastro, renda, SCR, score, imóvel), prazos e por que demora."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A análise tem duas frentes: a sua (cadastro, renda, dívidas, score) e a do imóvel (avaliação e documentação jurídica)."
   - "A aprovação de crédito sai antes; avaliação, análise jurídica, assinatura e registro vêm depois e costumam ser a parte mais demorada."
