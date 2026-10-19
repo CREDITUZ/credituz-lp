@@ -521,7 +521,9 @@ def build() -> dict[str, bytes]:
             {"source": "/(.*)", "headers": [
                 {"key": "X-Content-Type-Options", "value": "nosniff"},
                 {"key": "Referrer-Policy", "value": "strict-origin-when-cross-origin"}]},
-            {"source": "/(estilo.css|assets/(.*))", "headers": [
+            {"source": "/estilo.css", "headers": [
+                {"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]},
+            {"source": "/assets/(.*)", "headers": [
                 {"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]},
         ],
     }, indent=2) + "\n")
