@@ -93,6 +93,31 @@ Compare as duas coisas com a mesma base: o custo do financiamento no ano seguint
 5. Aguarde o termo de quitação, que o credor deve entregar em até 30 dias.
 6. Leve o termo ao registro de imóveis e confirme o cancelamento da garantia na matrícula.
 
+## Quitação total ou amortização parcial
+Quitar o contrato inteiro é diferente de amortizar, que é pagar uma parte do saldo para reduzir o prazo ou a parcela. A quitação encerra o contrato. A amortização mantém o contrato em vigor, com um saldo menor. As duas operações têm regras e custos próprios, e a escolha depende do objetivo da família.
+
+Quem quer ficar livre da dívida tende a preferir a quitação total, desde que tenha o dinheiro e uma reserva mantida. Quem quer aliviar o orçamento mensal pode preferir amortizar e reduzir a parcela. Quem quer pagar menos juros no total, sem mexer na parcela, costuma optar por reduzir o prazo. O texto sobre [amortizar o financiamento](/artigos/amortizar-financiamento-prazo-ou-parcela) compara essas opções com números.
+
+## Documentos que vale pedir ao banco
+
+Antes de pagar, peça por escrito os seguintes documentos ou informações:
+
+- o saldo devedor atualizado para a data prevista, com a memória de cálculo;
+- a relação das parcelas pagas e das que faltam, com os valores de juros de cada uma;
+- a confirmação de que não há taxa de quitação ou que ela está especificada;
+- o valor da restituição do subsídio, se o contrato tiver essa obrigação;
+- a forma de pagamento aceita e o prazo para emissão do termo de quitação.
+
+Com esses documentos, você consegue conferir a conta e identificar qualquer diferença antes de transferir o dinheiro.
+
+## Quitação e seguros
+
+Os seguros do financiamento, como o de morte e invalidez e o de danos ao imóvel, costumam ser cobrados mensalmente junto com a parcela. Ao quitar, pergunte se esses seguros são cancelados e se há devolução do valor pago antecipadamente. A regra depende do contrato e da seguradora, e não está no texto do CDC ou da Lei 9.514/1997 que consultei. Peça a informação por escrito e guarde a resposta.
+
+## Se o banco cobrar a mais ou demorar
+
+Se o banco cobrar um valor acima do que foi informado, ou se demorar a emitir o termo de quitação, registre a reclamação por escrito. Comece pela ouvidoria do próprio banco, com o protocolo. Se a resposta não resolver, procure o Procon do seu estado. A Lei 9.514/1997 dá ao credor 30 dias para entregar o termo e prevê multa para o atraso, o que serve de referência na cobrança.
+
 ## Erros comuns
 
 - **Pagar a soma das parcelas que faltam.** Isso não é quitação. Pague o saldo devedor atualizado.

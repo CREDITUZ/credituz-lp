@@ -83,6 +83,21 @@ Exemplo ilustrativo, com dados hipotéticos. Uma família recebeu desconto habit
 
 Pela redação da MP, o desconto anterior bloqueia novo subsídio, porque não há prazo. Pela redação com 10 anos, o desconto de 2014 já estaria fora do prazo de análise, e a família poderia pedir o subsídio de novo, desde que cumprisse as demais regras. A família precisa perguntar ao banco qual regra vale no momento da contratação, porque o resultado muda conforme a MP for ou não convertida em lei.
 
+## Quem nunca recebeu subsídio
+Para quem nunca recebeu benefício habitacional federal, a vedação do artigo 9º, III, não se aplica. Isso não quer dizer que a aprovação esteja garantida. A família precisa cumprir as demais regras do programa, como a renda dentro da faixa, a ausência de imóvel residencial e a análise de crédito. Quem nunca recebeu subsídio entra no programa com a mesma análise de qualquer outro candidato.
+
+Também vale conferir se há financiamento ativo com recursos do FGTS ou no SFH em nome de qualquer membro da família. Esse ponto aparece no inciso I do artigo 9º e impede o subsídio enquanto o contrato estiver ativo.
+
+## Documentos e declarações que pesam
+
+Ao se candidatar de novo, a família costuma assinar declarações sobre benefícios recebidos e sobre o imóvel. Essas declarações são verificadas em bases públicas e pelo banco. Por isso, a melhor estratégia é responder com exatidão, mesmo que a resposta seja desfavorável. Uma declaração falsa leva à exclusão, e a exclusão pode ser mais grave do que a negativa de um subsídio.
+
+Se houve benefício no passado, junte os documentos da concessão, como o contrato anterior e a quitação, para explicar o histórico ao banco ou ao agente. Se o benefício foi para reforma ou melhorias, guarde a prova, porque a lei excetua esses casos.
+
+## Como a decisão é tomada
+
+A análise do benefício é feita pelo agente financeiro e pelo órgão que concede o subsídio, com base na renda, nos cadastros e nos benefícios anteriores. Não há um sistema único que decida sozinho, e o resultado pode ser diferente de um banco para outro. Se a primeira resposta for negativa, peça a justificativa por escrito e confira se a regra citada é a vigente. Uma resposta baseada na redação antiga, quando a MP já alterou o texto, pode ser contestada.
+
 ## Erros comuns
 
 - **Achar que a regra de 10 anos continua valendo sem conferir.** A MP mudou o texto. Confirme a versão em vigor no momento da contratação.

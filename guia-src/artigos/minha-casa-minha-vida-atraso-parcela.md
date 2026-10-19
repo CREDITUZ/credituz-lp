@@ -72,6 +72,25 @@ Nos contratos do FAR, a Lei 14.620/2023 prevê, no artigo 12, §1º, que o descu
 4. **Organize o orçamento.** Antes de escolher uma saída, veja quanto a família consegue pagar por mês sem cortar o básico.
 5. **Procure ajuda oficial.** Se o banco não responder, use a ouvidoria do banco e, depois, o Procon. Se houver risco de perda, procure um advogado ou a Defensoria Pública.
 
+## Por que renegociar costuma ser melhor que deixar correr
+Quem atrasa uma parcela tende a esperar que o problema se resolva sozinho. Em geral, ele cresce. A multa e os juros de mora incidem sobre o valor vencido, e a dívida em atraso pode virar saldo, com novas parcelas acumuladas. Quanto mais cedo a família procura o banco, mais opções existem.
+
+A renegociação não é um favor. É um acordo, e o banco tem interesse em evitar a execução da garantia, que é cara para ele também. Por isso, vale apresentar um plano concreto: quanto a família consegue pagar por mês, quando pode começar e qual parte do atraso consegue quitar de imediato. Um plano assim costuma ser melhor recebido do que um pedido vago de mais prazo.
+
+## Como montar um plano de regularização
+
+Um plano simples pode ter quatro partes. A primeira é o valor atual da dívida, com multa, juros e as parcelas vencidas, retirado do extrato do banco. A segunda é o orçamento mensal da família, mostrando quanto sobra depois das despesas essenciais. A terceira é a fonte do pagamento inicial, que pode ser uma reserva, o FGTS ou uma renda extra. A quarta é a proposta de prazo, com a data em que a família volta a pagar a parcela cheia.
+
+Leve esse plano por escrito ao banco e peça a resposta também por escrito. Se o banco recusar, peça o motivo e o protocolo.
+
+## Sinais de que é hora de procurar um advogado
+
+Nem todo atraso exige advogado, mas alguns sinais pedem atenção imediata. Procure orientação jurídica se você recebeu uma intimação, se o banco fala em leilão ou consolidação da propriedade, se a cobrança inclui valores que você não entende ou se o banco se recusa a negociar. A Defensoria Pública atende quem não pode pagar um advogado e costuma ser a porta de entrada mais segura.
+
+## Cuidados com ofertas de solução rápida
+
+Empresas que prometem tirar o imóvel do leilão mediante pagamento antecipado, ou que oferecem "limpar" o nome do comprador sem contato com o banco, costumam ser golpe. Negociação legítima acontece com o credor, por escrito. Desconfie de quem cobra adiantado e não apresenta contrato.
+
 ## Erros comuns
 
 - **Ignorar a carta.** A intimação tem prazo. Deixar passar pode consolidar a propriedade sem nova chance de conversar.

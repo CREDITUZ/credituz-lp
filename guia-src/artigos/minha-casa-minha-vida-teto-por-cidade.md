@@ -88,6 +88,31 @@ O mesmo imóvel de R$ 250 mil cabe no teto de uma cidade e fica de fora de outra
 - **Tenha um plano para a diferença.** Se o imóvel estiver acima do teto, a diferença não pode ser financiada pelo programa e precisa vir de outra fonte.
 - **Desconfie de anúncios com teto de programa.** A construtora pode dizer que o imóvel está "dentro do Minha Casa Minha Vida" sem que ele esteja. Confirme com o banco.
 
+## O que o teto não cobre
+O teto de valor é uma linha sobre o preço de venda do imóvel. Ele não cobre todos os gastos da compra, e é comum que a família se surpreenda com o total. Os custos que costumam ficar de fora do financiamento são:
+
+- o ITBI, imposto de transferência cobrado pelo município, que segue a alíquota da sua cidade;
+- as taxas de escritura e de registro no cartório, que seguem a tabela do estado;
+- a avaliação do imóvel pelo banco e as tarifas de cadastro, quando houver;
+- reforma, mudança, móveis e outras despesas do dia a dia.
+
+Esses custos saem da entrada ou de recursos próprios, e não contam para o teto. Por isso, quem usa o valor máximo do teto como orçamento total costuma ficar sem caixa para fechar o negócio.
+
+## Como ler reportagens sobre tetos
+
+Matérias sobre o programa costumam trazer números de uma só vez: teto de R$ 275 mil, teto de R$ 600 mil, renda de R$ 13 mil. O problema é que um número pode valer para uma faixa, uma região ou um tipo de operação, e a reportagem nem sempre explica qual. Antes de confiar em um valor, faça três checagens. Veja a data da matéria, veja se ela cita a resolução ou a portaria pelo número e veja se o valor bate com a tabela oficial mais recente.
+
+Se a matéria não cita a norma, trate o valor como referência de conversa, e não como teto aplicável ao seu caso.
+
+## Perguntas para o banco ou para a prefeitura
+
+- Qual é o teto de valor do imóvel para a minha faixa e para o meu município, segundo a tabela vigente?
+- O limite se aplica ao preço de venda, à avaliação ou aos dois?
+- O imóvel usado tem teto diferente do imóvel novo na mesma cidade?
+- Se o imóvel ficar um pouco acima do teto, há alguma alternativa de financiamento sem subsídio?
+
+Peça as respostas por escrito e guarde o protocolo. Elas valem mais do que uma informação dada de memória por telefone.
+
 ## Erros comuns
 
 - **Usar a tabela antiga.** Valores de 2025 foram substituídos pela tabela de janeiro de 2026. Verifique sempre a data.

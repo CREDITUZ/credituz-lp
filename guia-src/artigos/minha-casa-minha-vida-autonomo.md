@@ -71,6 +71,33 @@ Suponha que os custos fixos do trabalho sejam de R$ 1.500 por mês. A renda líq
 
 A mesma pessoa, com os mesmos números, teria resultados diferentes conforme o banco usasse a média, o pior mês ou só o valor declarado no IR. Por isso vale perguntar qual critério será usado antes de escolher o imóvel.
 
+## Como organizar a comprovação antes de procurar imóvel
+Quem trabalha por conta própria ganha tempo se organizar a prova da renda antes de entrar numa simulação. A lógica é simples: o banco precisa enxergar, nos documentos, a mesma renda que você informa. Quanto mais coerente for o conjunto, menos perguntas a análise faz.
+
+O primeiro passo é separar as contas. Receba a renda do trabalho em uma conta pessoal e pague as despesas do negócio por outra, se possível. Isso facilita a leitura dos extratos e reduz a chance de o banco tratar transferências entre contas como renda sem comprovação. O segundo passo é juntar os documentos dos últimos 12 meses, e não só dos últimos três. Doze meses mostram sazonalidade, e a média fica mais defensável.
+
+Também ajuda guardar comprovantes de recebimento, como notas emitidas, recibos de serviço e comprovantes de pagamento de clientes. Se você é prestador de serviço, um relatório mensal simples, assinado e acompanhado dos extratos, costuma ser mais útil do que um documento genérico. Para quem tem contador, vale pedir a ele uma declaração de rendimentos com o detalhamento mensal.
+
+Por fim, declare o que é seu. Renda que não aparece no Imposto de Renda, quando você é obrigado a declarar, tende a ser desconsiderada, e a família perde a chance de comprovar o que recebe de verdade.
+
+## Perguntas que vale fazer ao banco
+
+Antes de escolher o imóvel, faça ao banco estas perguntas e peça as respostas por escrito, se possível:
+
+- Quais documentos vocês aceitam para renda de autônomo ou informal, e quantos meses eles precisam cobrir?
+- Vocês usam a média dos meses, o período mais fraco ou o valor declarado no imposto de renda?
+- Vocês consideram a renda de um negócio próprio, ou só a renda de pessoa física que sai dele?
+- Há exigência de tempo mínimo de atividade, como um ano de CNPJ ou de declaração?
+- A renda de outros membros da família, como um cônjuge com carteira assinada, entra no cálculo?
+
+As respostas definem o tamanho do financiamento que você consegue, e uma resposta clara evita o problema mais comum: descobrir a recusa depois de pagar a avaliação e assinar um compromisso de compra.
+
+## Renda de mais de uma fonte
+
+Muitas famílias combinam renda formal e informal. Um pai com carteira assinada e uma mãe que faz bicos, por exemplo. Nesse caso, a renda do vínculo costuma ser comprovada com holerite, e a renda informal pode ser somada se houver documentação. O banco pode aceitar só parte da renda extra, por isso não conte com o total na simulação.
+
+Se a renda da casa depende de duas fontes instáveis, a parcela deve caber em cada uma delas separadamente, porque uma delas pode faltar no meio do contrato.
+
 ## Erros comuns
 
 - **Misturar conta pessoal e conta da empresa.** Transferências sem explicação são desconsideradas. Use uma conta pessoal para receber sua renda e guarde a empresa separada.

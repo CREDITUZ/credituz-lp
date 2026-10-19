@@ -94,6 +94,35 @@ A diferença de cerca de R$ 430 por mês, somada ao longo de 35 anos, chega a ce
 4. Veja se o subsídio, se houver, está incluído na simulação e quanto ele reduz o valor financiado.
 5. Verifique o sistema de amortização, porque o SAC e a Price têm primeiras parcelas diferentes. A diferença está em [SAC ou Price](/artigos/sac-ou-price).
 
+## Por que a taxa muda de uma pessoa para outra
+Mesmo dentro da mesma faixa, duas famílias podem receber taxas diferentes. Isso acontece porque o banco considera o risco e as condições da operação. Os fatores mais citados são:
+
+- a renda bruta da família, que define a faixa e pode levar a taxas diferentes dentro dela;
+- a região do imóvel, já que as normas fazem diferença entre Norte, Nordeste e as demais regiões;
+- se o comprador é cotista do FGTS e tem o tempo mínimo de contribuição exigido;
+- o prazo do contrato e o valor financiado em relação ao imóvel;
+- o tipo de imóvel, novo ou usado, e a avaliação feita pelo banco.
+
+Não há como saber a taxa final sem a simulação, e ela pode mudar entre a pré-análise e a contratação. Por isso, a taxa informada no início é uma estimativa.
+
+## Quando a taxa mais baixa não é a melhor
+
+Uma taxa menor nem sempre significa um financiamento mais barato. Um contrato com taxa baixa, mas com seguros caros, tarifas altas ou um prazo mais longo, pode custar mais no total do que outro com taxa um pouco maior. Por isso, a comparação precisa considerar o custo total: o total pago ao longo do contrato, incluindo seguros e tarifas, e a parcela que cabe no seu orçamento.
+
+Outro ponto é o sistema de amortização. Uma taxa baixa com SAC pode ter a primeira parcela alta demais para a renda, e a aprovação não sai. Já a Price tem parcelas mais estáveis, mas juros totais diferentes. A escolha depende de quanto a família tem de folga na renda no início do contrato.
+
+## Como ler a simulação
+
+Ao receber a simulação, procure estes campos e anote cada um:
+
+- a taxa anual, dizendo se é nominal ou efetiva;
+- o CET, com a taxa total incluindo seguros e tarifas;
+- o valor da parcela inicial, e a parcela final, se for SAC;
+- o valor do subsídio, se houver, e o valor financiado depois do desconto;
+- o prazo máximo, que pode ser encurtado pela idade do comprador.
+
+Com essas cinco informações em mãos, a comparação entre bancos fica objetiva e é possível pedir ao banco o que falta.
+
 ## Erros comuns
 
 - **Comparar taxa de faixa diferente.** Uma taxa de Faixa 3 não se compara com a de Faixa 4 como se fossem o mesmo produto.

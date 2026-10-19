@@ -81,6 +81,21 @@ Em qualquer linha, a resposta certa é a que está no seu contrato. Esta tabela 
 
 Os impostos e taxas de transferência, como o ITBI, seguem a regra do município, e o contrato de compra deve dizer quem paga. Confirme com o cartório e a prefeitura.
 
+## Transferir o contrato ou quitar: como comparar
+A decisão entre quitar e transferir o contrato depende de três contas. A primeira é o saldo devedor, que mostra quanto a família precisa para quitar. A segunda é o valor de venda do imóvel, que mostra quanto sobra depois de quitar. A terceira é a capacidade de o comprador assumir a parcela, caso a transferência seja aprovada.
+
+Quitar exige dinheiro próprio ou FGTS, e a venda fica livre. Transferir mantém a dívida, e o comprador precisa passar pela análise do banco. Quando o comprador não consegue crédito, a transferência não acontece, e a venda pode ficar parada. Por isso, em negociações com contrato de transferência, convém condicionar o negócio à aprovação do banco e prever um prazo para essa resposta.
+
+## Contrato de gaveta: por que evitar
+
+Um contrato de gaveta é um acordo particular de compra e venda, sem registro e sem a concordância do credor. Ele é comum em negociações informais, mas traz riscos sérios no caso de imóvel financiado pelo programa. O comprador pode pagar parcelas sem ter a propriedade, e o vendedor continua responsável perante o banco. Se o programa retomar o imóvel, o comprador pode perder tudo o que pagou.
+
+Por isso, qualquer compra desse tipo deve passar por um advogado, que confira o contrato e a situação da matrícula antes de qualquer pagamento. Não basta a palavra de quem vende, e o recibo informal não substitui a escritura.
+
+## Imóvel em herança ou inventário
+
+Se o imóvel do programa passou a ser de herdeiros, a venda depende da conclusão do inventário ou de uma autorização da justiça, conforme o caso. O contrato de financiamento também precisa ser transferido ou quitado, e o banco costuma exigir a documentação da sucessão. Antes de anunciar, verifique se a matrícula está em nome de quem pode vender e se há ônus registrados.
+
 ## Erros comuns
 
 - **Vender com contrato de gaveta.** Um recibo ou compromisso informal não transfere o imóvel nem a dívida. O comprador pode perder o dinheiro, e você pode ter o imóvel retomado.
