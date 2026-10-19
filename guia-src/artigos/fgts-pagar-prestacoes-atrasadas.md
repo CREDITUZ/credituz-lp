@@ -21,12 +21,12 @@ faq:
   - q: "E se eu tiver mais de 6 parcelas atrasadas?"
     a: "A modalidade de pagamento de parte das prestações deixa de atender. Você pode tentar renegociar com o banco ou, se tiver saldo suficiente, quitar o contrato inteiro, caso em que o manual da Caixa admite prestações em atraso no cálculo."
   - q: "A regra já permitiu 12 parcelas atrasadas?"
-    a: "Sim, de forma temporária, em 2017 e entre maio e dezembro de 2022. Em outubro de 2026, o limite em vigor é o de 6 prestações."
+    a: "Sim, de forma temporária: em 2017 e 2018, para quem estava inadimplente até o fim de 2017, e entre maio e dezembro de 2022. Em outubro de 2026, o limite em vigor é o de 6 prestações."
 sources:
   - title: "Resolução CCFGTS 1.057, de 13 de dezembro de 2022 (IRIB)"
     url: "https://www.irib.org.br/noticias/detalhes/resolucao-ccfgts-n-1-057-de-13-de-dezembro-de-2022"
-  - title: "FGTS poderá ser usado para quitar até seis prestações da casa própria (Agência Brasil, jan/2023)"
-    url: "https://agenciabrasil.ebc.com.br/economia/noticia/2023-01/fgts-podera-ser-usado-para-quitar-ate-seis-prestacoes-da-casa-propria"
+  - title: "Lei 8.036/1990 (Lei do FGTS), art. 20, incisos V e VI, texto compilado (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
   - title: "Uso do FGTS para quitar até 6 parcelas atrasadas entra em vigor (InfoMoney, 03/01/2023)"
     url: "https://www.infomoney.com.br/?p=2020633"
   - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 5.3, 14 e 15.1.5 (fgts.gov.br)"
@@ -48,7 +48,7 @@ O pedido é feito no banco que concedeu o financiamento. Ele calcula o atraso, s
 
 ## Como a regra funciona
 
-O uso do FGTS em atraso não é uma modalidade separada. Ele é uma variação do "pagamento de parte das prestações", que a Lei 8.036/1990 prevê no art. 20: o fundo abate até 80% de cada prestação durante 12 meses. Para quem está em dia, isso alivia as próximas 12 parcelas. Para quem está atrasado, o saque cobre primeiro as parcelas vencidas.
+O uso do FGTS em atraso não é uma modalidade separada. Ele é uma variação do "pagamento de parte das prestações", que a Lei 8.036/1990 prevê no art. 20, inciso V: o abatimento chega a no máximo 80% de cada prestação e o valor sacado é usado ao longo de pelo menos 12 meses. Para quem está em dia, isso alivia as próximas 12 parcelas. Para quem está atrasado, o saque cobre primeiro as parcelas vencidas.
 
 | Ponto | Regra em outubro de 2026 |
 |---|---|
@@ -68,8 +68,8 @@ O limite já mudou várias vezes, e é comum achar informação velha na interne
 | Período | Atraso máximo aceito |
 |---|---|
 | Regra tradicional | Até 3 prestações |
-| 2017 (medida temporária) | Até 12 prestações |
-| 2 de maio a 31 de dezembro de 2022 | Até 12 prestações |
+| 2017 e 2018 (Resolução CCFGTS 878/2017, para atrasos até o fim de 2017) | Até 12 prestações |
+| 2 de maio a 31 de dezembro de 2022 (Resolução CCFGTS 1.032/2022) | Até 12 prestações |
 | Desde 2 de janeiro de 2023 | Até 6 prestações |
 
 A resolução de 2022 alterou o art. 11 da Resolução CCFGTS 994/2021. Não encontramos, até outubro de 2026, nova mudança nesse limite. Como o Conselho Curador pode alterar a regra a qualquer momento, confira com o banco.
@@ -86,7 +86,7 @@ As condições do titular da conta são as mesmas da amortização, descritas em
 
 Não é preciso estar empregado. Quem foi demitido continua podendo usar o saldo que ficou na conta. Se você está no saque-aniversário e tem antecipação contratada, a parte reservada para o banco fica bloqueada e não entra.
 
-Há uma restrição de calendário. O manual da Caixa diz que, depois de usar o FGTS para pagar parte das prestações, uma nova utilização nessa modalidade só pode começar quando a anterior terminar. E, segundo a Caixa em 2023, quem usou o FGTS para amortizar ou quitar precisa respeitar o intervalo contado da última amortização. Se você amortizou há pouco tempo, pergunte ao banco antes.
+Há restrições de calendário. O manual da Caixa (item 5.3) diz que, depois de usar o FGTS para pagar parte das prestações, uma nova utilização nessa modalidade só pode começar quando a anterior terminar. Já a amortização e a quitação seguem a Lei 8.036/1990, que exige intervalo de 2 anos entre uma movimentação e outra. As orientações divergem sobre esse intervalo atingir também o pedido nas prestações: em 2023, a Caixa informou que ele conta a partir da última amortização, enquanto o formulário do Bradesco de 2025 dispensa essa declaração no abatimento de 12 meses. Se você amortizou há menos de 2 anos, pergunte ao banco antes.
 
 ## Exemplo: 4 parcelas atrasadas
 

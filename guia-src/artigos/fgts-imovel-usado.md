@@ -23,7 +23,7 @@ faq:
   - q: "Posso usar o FGTS para comprar imóvel usado à vista, sem financiamento?"
     a: "Sim. Nesse caso, o limite é o valor de compra e venda, e as regras do imóvel e do comprador são as mesmas. O banco ou a Caixa conduz a operação e paga o vendedor após o registro."
 sources:
-  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 5.1, 10.2 a 10.4, 12.1.4 e 13 (fgts.gov.br)"
+  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 5.1, 10.2 a 10.4, 12.1.4, 13.3 a 13.6 (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Manual do FGTS Moradia Própria, versão com vigência em 02/12/2025 (Caixa)"
     url: "https://www.caixa.gov.br/Downloads/fgts-moradia/MANUAL_DA_MORADIA_PROPRIA_02_12_2025_V_035.pdf"
@@ -33,6 +33,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
   - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 milhões (Diário de Pernambuco, 26/11/2025)"
     url: "https://www.diariodepernambuco.com.br/economia/2025/11/11701500-conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-rs-225-milhoes.html"
+  - title: "Resolução CMN 5.255, de 10 de outubro de 2025, limite de avaliação no SFH (Normas Brasil)"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
   - title: "Formulário de autorização de movimentação do FGTS para aquisição, mod. 4840-288E, versão 10/2024 (Bradesco)"
     url: "https://wspf.banco.bradesco/wsImoveis/Manager/Download/Documentos/4840288E.pdf"
 related: [fgts-na-compra-do-imovel, documentos-para-usar-fgts, avaliacao-do-imovel-pelo-banco, fgts-negado-motivos]
@@ -65,16 +67,16 @@ A base das regras é o Manual do FGTS Utilização na Moradia Própria, document
 
 Averbar é registrar na matrícula que existe uma construção sobre o terreno, com a área. Muita casa usada tem a matrícula de um terreno vazio ou de uma casa menor do que a real, porque o dono construiu ou ampliou sem regularizar.
 
-O manual não aceita imóvel concluído sem a edificação averbada. Quando a área existe na matrícula, mas é diferente da construída, a Caixa admite a operação se o engenheiro avaliador confirmar a situação, e o cartório pode exigir a averbação da área nova antes do registro. Na prática, cada banco tem sua tolerância. Uma edícula ou varanda fechada pode passar; um segundo pavimento inteiro sem registro dificilmente passa.
+O manual não aceita imóvel concluído sem a edificação averbada (item 13.5.1). Quando a construção consta na matrícula, mas com área diferente da real, o manual admite a operação se o engenheiro avaliador constatar a diferença (item 13.6.4). Se o cartório exigir, a área correta precisa ser averbada no registro da compra, e o manual atribui essa providência ao comprador. Na prática, cada banco tem sua tolerância. Uma edícula ou varanda fechada pode passar; um segundo pavimento inteiro sem registro dificilmente passa.
 
-Se o imóvel tiver essa pendência, quem regulariza é o vendedor, com habite-se ou certidão da prefeitura e averbação no cartório. Isso leva semanas ou meses, e convém colocar no contrato de compromisso quem paga e qual o prazo.
+Se a casa não tiver a construção averbada, quem costuma regularizar é o vendedor, com habite-se ou certidão da prefeitura e averbação no cartório. Isso leva semanas ou meses, e convém colocar no contrato de compromisso quem paga e qual o prazo.
 
 ### Imóvel misto, fração e casos especiais
 
-- **Imóvel misto** (loja embaixo, casa em cima): o FGTS pode pagar só a parte residencial, que o laudo precisa separar.
-- **Fração de imóvel**: dá para comprar com FGTS uma parte de um imóvel, em qualquer percentual, se for para sua moradia. O valor considerado é proporcional à fração.
-- **Casa de madeira ou pré-fabricada**: aceita, desde que o banco a aceite como garantia no SFH.
-- **Imóvel que já foi seu**: o manual só permite usar o FGTS para recomprar um imóvel do qual você já foi dono se você assinar uma declaração de que não se trata de uma venda simulada para recomprar depois.
+- **Imóvel misto** (loja embaixo, casa em cima): o FGTS pode pagar só a parte residencial, que o laudo precisa separar (item 13.6.5).
+- **Fração de imóvel**: dá para comprar com FGTS uma parte de um imóvel, em qualquer percentual, se for para sua moradia. O valor considerado é proporcional à fração (item 13.6.6).
+- **Casa de madeira**: aceita, desde que sirva como garantia de financiamento no SFH (item 13.6.2).
+- **Imóvel que já foi seu**: o manual só permite usar o FGTS para recomprar um imóvel do qual você já foi dono se você assinar uma declaração de que não se trata de uma venda simulada para recomprar depois (item 12.1.4).
 
 ## O intervalo de 3 anos e o papel do vendedor
 
@@ -94,12 +96,12 @@ O manual do FGTS não proíbe comprar de pai, mãe ou irmão. Mas há dois filtr
 
 ## Avaliação do imóvel usado
 
-O valor que conta para o teto é o da avaliação, não o anunciado. O manual aceita duas formas: laudo de engenheiro ou arquiteto credenciado pelo banco, ou modelo de precificação reconhecido pelo Banco Central, acompanhado de declaração de habitabilidade. O valor apurado vale por 12 meses corridos a partir da emissão.
+O valor que conta para o teto é o da avaliação, não o anunciado. O manual aceita duas formas: laudo de engenheiro ou arquiteto credenciado pelo banco, ou modelo de precificação nos termos da Resolução 4.754/2019 do Banco Central, caso em que você declara que o imóvel está pronto para morar e sem restrição de uso. O valor apurado vale por 12 meses corridos a partir da emissão (item 13.3.1.1.2).
 
 Três consequências práticas:
 
-- **Teto.** Se o laudo passar de R$ 2,25 milhões, a operação sai do SFH e o FGTS não entra. O teto foi elevado pela Resolução CMN 5.255, de outubro de 2025, e estendido a todos os contratos pelo Conselho Curador do FGTS em novembro de 2025.
-- **Limite de uso.** A soma do FGTS com o financiamento não pode passar do menor valor entre o preço de compra e a avaliação. Sem financiamento, o limite é o preço de compra.
+- **Teto.** Se o laudo passar de R$ 2,25 milhões, a operação sai do SFH e o FGTS não entra. O teto foi fixado pela Resolução CMN 5.255, de 10 de outubro de 2025, e o Conselho Curador do FGTS passou a aplicá-lo a todos os contratos, novos e antigos, em novembro de 2025.
+- **Limite de uso.** A soma do FGTS com o financiamento não pode passar do menor valor entre o preço de compra e a avaliação. Sem financiamento, o limite é o preço de compra (item 10.4).
 - **Laudo baixo.** Em usado, é comum a avaliação vir abaixo do preço pedido. A diferença sai do seu bolso ou da renegociação com o vendedor. As saídas estão em [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco).
 
 ## Exemplo: avaliação abaixo do preço com FGTS

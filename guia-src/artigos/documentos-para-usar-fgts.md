@@ -9,21 +9,21 @@ key_points:
   - "O documento central é a autorização de movimentação da conta vinculada, um formulário do banco que cada trabalhador que usa o FGTS assina."
   - "Do trabalhador: identificação, extrato do FGTS, carteira de trabalho com 3 anos de FGTS, declaração de Imposto de Renda ou de isenção, e comprovantes de residência e de trabalho."
   - "Do imóvel: matrícula atualizada com a construção averbada, IPTU e o laudo de avaliação, que vale 12 meses."
-  - "Do vendedor: concordância com o uso do FGTS, dados bancários para receber e, se for o caso, declaração de que não comprou com FGTS nos últimos 3 anos."
+  - "Do vendedor: aceite do pagamento com FGTS no contrato, dados bancários para receber e, se for o caso, declaração de que não comprou com FGTS nos últimos 3 anos."
   - "As declarações valem sob as penas da lei. Informação falsa leva à devolução do valor e à comunicação à Polícia Federal."
 faq:
   - q: "Quais documentos preciso para usar o FGTS na compra do imóvel?"
     a: "Documento de identidade, CPF, extrato do FGTS de todas as contas que vai usar, carteira de trabalho que comprove 3 anos de FGTS, declaração de Imposto de Renda com recibo (ou declaração de isenção), comprovante de residência e a autorização de movimentação da conta, que o banco fornece."
   - q: "Preciso entregar a declaração de Imposto de Renda para usar o FGTS?"
-    a: "Sim, na primeira utilização. O banco usa a declaração para conferir que você não tem outro imóvel residencial na região. Quem não declara assina uma declaração de isenção."
+    a: "Sim. Na compra, o formulário de autorização pede a cópia da última declaração entregue à Receita, que o banco usa para conferir se você tem outro imóvel residencial na região. Quem é isento assina uma declaração de isenção."
   - q: "O vendedor precisa assinar alguma coisa sobre o FGTS?"
-    a: "Sim. Os bancos pedem um documento em que o vendedor concorda com o pagamento via FGTS e informa a conta para receber. Se a matrícula não mostrar como ele pagou o imóvel e a compra dele foi há menos de 3 anos, ele declara que não usou FGTS."
+    a: "Sim. O contrato de compra e venda registra que parte do preço será paga com FGTS, e o vendedor informa a conta para receber; alguns bancos usam um termo próprio para isso. Se a matrícula não mostrar como ele pagou o imóvel e a compra dele foi há menos de 3 anos, ele declara que não usou FGTS."
   - q: "Para amortizar o financiamento com FGTS, a lista é a mesma?"
     a: "É menor. Pelo manual da Caixa, a declaração de Imposto de Renda é pedida na primeira movimentação; a partir da segunda, basta a declaração assinada sob as penas da lei, além do extrato e da autorização."
   - q: "O extrato do FGTS precisa ser de agência?"
     a: "Hoje, a maioria dos bancos aceita o extrato emitido pelo aplicativo FGTS. Alguns ainda pedem modelos específicos. Pergunte ao seu banco qual formato ele aceita."
 sources:
-  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 1.6, 5.1, 9.4, 12, 13 e 14 (fgts.gov.br)"
+  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 1.6, 4, 5.1, 9, 12, 13 e 14 (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Manual do FGTS Moradia Própria, versão com vigência em 02/12/2025 (Caixa)"
     url: "https://www.caixa.gov.br/Downloads/fgts-moradia/MANUAL_DA_MORADIA_PROPRIA_02_12_2025_V_035.pdf"
@@ -38,7 +38,7 @@ sources:
 related: [documentos-para-financiamento, fgts-imovel-usado, consultar-saldo-fgts, fgts-negado-motivos]
 ---
 
-Para usar o FGTS (Fundo de Garantia do Tempo de Serviço) na compra ou no financiamento do imóvel, você entrega três blocos de documentos: os seus, os do imóvel e os do vendedor. O seu bloco gira em torno da autorização de movimentação da conta vinculada, um formulário do banco em que você declara que cumpre as regras. Ele vem acompanhado do extrato do FGTS, da carteira de trabalho, da declaração de Imposto de Renda e dos comprovantes de residência e de trabalho. O imóvel precisa de matrícula atualizada e laudo de avaliação. O vendedor concorda com o pagamento via FGTS e informa a conta para receber.
+Para usar o FGTS (Fundo de Garantia do Tempo de Serviço) na compra ou no financiamento do imóvel, você entrega três blocos de documentos: os seus, os do imóvel e os do vendedor. O seu bloco gira em torno da autorização de movimentação da conta vinculada, um formulário do banco em que você declara que cumpre as regras. Ele vem acompanhado do extrato do FGTS, da carteira de trabalho, da declaração de Imposto de Renda e dos comprovantes de residência e de trabalho. O imóvel precisa de matrícula atualizada e laudo de avaliação. O vendedor aceita receber parte do preço via FGTS e informa a conta para o depósito.
 
 Este checklist complementa a lista geral de [documentos para financiamento](/artigos/documentos-para-financiamento), que cobre renda, estado civil e certidões. Aqui estão só as peças ligadas ao FGTS.
 
@@ -47,7 +47,7 @@ Este checklist complementa a lista geral de [documentos para financiamento](/art
 O banco que faz a operação age como agente financeiro do fundo. Ele confere os requisitos, pede o saque à Caixa e responde se algo estiver errado. O Manual do FGTS Utilização na Moradia Própria, da Caixa, lista os documentos em anexos e diz duas coisas que você precisa saber:
 
 - **A conferência continua depois.** O trabalhador pode ser chamado a apresentar os documentos a qualquer tempo, inclusive depois do fim do contrato (item 1.6.1). Guarde cópias.
-- **Há auditoria por amostragem.** A Caixa verifica uma parte das operações todo mês (item 9.1). Se achar irregularidade causada pelo trabalhador, cobra o valor liberado e comunica a Polícia Federal, com cópia ao Ministério Público Federal (item 9.4).
+- **Há auditoria por amostragem.** A Caixa verifica uma parte das operações todo mês (item 9.1). Se achar irregularidade causada pelo trabalhador, cobra o valor liberado e comunica a Polícia Federal, com cópia ao Ministério Público Federal (item 9.4, alínea "c").
 
 Este texto usa a versão do manual com vigência a partir de 5 de abril de 2024, com os números de item. A Caixa já publicou versões posteriores, a mais recente com vigência em 2 de dezembro de 2025, e cada banco adapta os formulários. Siga sempre a lista que o seu banco entregar.
 
@@ -68,17 +68,18 @@ Cada pessoa que vai usar o próprio FGTS entrega o conjunto completo. Se duas pe
 
 ### O que você declara no formulário
 
-A autorização é o documento mais sensível, porque reúne declarações feitas sob as penas da lei. Pelos formulários de Bradesco e Santander em uso em 2026, você declara:
+A autorização é o documento mais sensível, porque reúne declarações feitas sob as penas da lei. Pelos formulários de Bradesco (versão de outubro de 2024) e Santander, você declara:
 
 - que o imóvel é para sua moradia;
 - a cidade onde mora, a cidade onde trabalha e a relação delas com a cidade do imóvel;
 - que tem pelo menos 36 meses de trabalho com FGTS;
-- que não é dono, promitente comprador, usufrutuário ou cessionário de imóvel residencial na região;
+- que não é dono, possuidor, promitente comprador, usufrutuário ou cessionário de imóvel residencial na região;
 - que não tem financiamento ativo no SFH (Sistema Financeiro da Habitação);
+- se entregou a última declaração de Imposto de Renda ou se é isento;
 - o estado civil e o regime de bens;
 - o valor que quer sacar de cada conta, ou "total".
 
-Se parte do saldo foi aplicada em FMP (Fundo Mútuo de Privatização), aquelas aplicações antigas em ações da Petrobras e da Vale, os formulários pedem o resgate antes.
+Se parte do saldo foi aplicada em FMP (Fundo Mútuo de Privatização), aquelas aplicações antigas em ações da Petrobras e da Vale, o manual exige pedir antes o resgate à administradora do fundo (item 4), e o formulário pede que você informe o valor resgatado.
 
 ### Documentos que aparecem só em casos específicos
 
@@ -89,7 +90,7 @@ O manual exige papéis extras quando a sua situação foge do padrão:
 - **Usufruto em imóvel na região**: renúncia registrada na matrícula até a data do uso.
 - **Separação ou divórcio**: documentos que mostram que você perdeu o direito de morar no imóvel antigo.
 - **Imóvel atingido por sinistro**: atestado de que ficou definitivamente inabitável.
-- **Obra parada há mais de 365 dias**: documentos que comprovem a paralisação, para usar o FGTS em outro imóvel.
+- **Obra parada, sem previsão de retomada e com atraso de mais de 365 dias**: documentos que comprovem a situação, para usar o FGTS em outro imóvel.
 - **Já foi dono do imóvel que vai comprar**: declaração de que não se trata de venda simulada.
 
 ## Documentos do imóvel
@@ -102,7 +103,7 @@ O manual exige papéis extras quando a sua situação foge do padrão:
 | Habite-se ou averbação da construção | Imóvel concluído e regular |
 | Em imóvel na planta: registro da incorporação | Empreendimento regular no cartório |
 
-O teto do SFH é de R$ 2,25 milhões de avaliação desde a Resolução CMN 5.255, de outubro de 2025, aplicado a todos os contratos pelo Conselho Curador do FGTS em novembro de 2025. A matrícula costuma ser aceita com até 30 dias de emissão, mas a validade é do banco, não da regra do FGTS.
+O teto do SFH é de R$ 2,25 milhões de avaliação desde a Resolução CMN 5.255, de 10 de outubro de 2025, e o Conselho Curador do FGTS passou a aplicá-lo a todos os contratos em novembro de 2025. A matrícula costuma ser aceita com até 30 dias de emissão, mas a validade é do banco, não da regra do FGTS.
 
 Em imóvel usado, a matrícula é onde aparecem os problemas que travam o saque, como construção não averbada e compra recente com FGTS. Veja os detalhes em [FGTS para imóvel usado](/artigos/fgts-imovel-usado).
 
@@ -112,10 +113,9 @@ O vendedor entrega os documentos normais da venda (identidade, estado civil, cer
 
 | Documento | Quando |
 |---|---|
-| Concordância com o pagamento via FGTS | Sempre que o comprador usa o fundo. Cada banco tem o próprio modelo |
+| Aceite do pagamento via FGTS | Sempre que o comprador usa o fundo. Em geral consta no contrato de compra e venda; alguns bancos usam termo próprio |
 | Dados bancários para receber | Sempre. Conta errada impede o depósito |
 | Declaração de que não usou FGTS na compra dele | Quando ele comprou há menos de 3 anos e a matrícula não diz de onde veio o dinheiro (item 5.1.2.1) |
-| Certificado de Regularidade do FGTS (CRF) | Quando o vendedor é empresa, segundo a lista de alguns bancos |
 
 Avise o vendedor desde a proposta. Muitos atrasos acontecem porque ele descobre na véspera da assinatura que precisa declarar algo ou que só recebe o FGTS depois do registro em cartório.
 
@@ -126,10 +126,10 @@ Exemplo ilustrativo. Carla e Diego, casados em comunhão parcial, compram um apa
 | Quem | O que entregar |
 |---|---|
 | Carla | Identidade, CPF, extratos das 2 contas, carteira de trabalho com os 2 vínculos, IR com recibo, comprovante de residência, holerite, autorização de movimentação |
-| Diego | Identidade, CPF, extrato da conta, carteira de trabalho, IR com recibo, holerite, autorização de movimentação |
+| Diego | Identidade, CPF, extrato da conta, carteira de trabalho, IR com recibo, comprovante de residência, holerite, autorização de movimentação |
 | Casal | Certidão de casamento |
 | Imóvel | Matrícula atualizada, IPTU, laudo do banco |
-| Vendedor | Concordância com o FGTS, conta para receber e declaração de que não usou FGTS na compra de 2 anos atrás |
+| Vendedor | Aceite do FGTS no contrato, conta para receber e declaração de que não usou FGTS na compra de 2 anos atrás |
 
 São duas autorizações, porque cada trabalhador assina a da própria conta. A declaração do vendedor é necessária porque a compra dele tem menos de 3 anos.
 
@@ -151,7 +151,7 @@ Se mesmo com a documentação o pedido for recusado, veja [FGTS negado: motivos]
 
 - Cada trabalhador entrega identidade, extrato, carteira de trabalho, IR ou isenção, comprovantes e a autorização de movimentação.
 - O imóvel precisa de matrícula atualizada e laudo de avaliação válido.
-- O vendedor concorda com o FGTS, informa a conta e, se for o caso, declara que não usou FGTS.
+- O vendedor aceita o FGTS no contrato, informa a conta e, se for o caso, declara que não usou FGTS.
 - Guarde cópias: a Caixa pode pedir os documentos anos depois.
 
 Peça ao banco a lista e os formulários atuais antes de assinar a proposta, e calcule [quanto você pode financiar](/quanto-posso-financiar) com o FGTS na entrada. Informações válidas em outubro de 2026, com base na Lei 8.036/1990 e no manual da Caixa.

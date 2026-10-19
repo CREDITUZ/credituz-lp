@@ -33,8 +33,8 @@ sources:
     url: "https://wspf.banco.bradesco/wsImoveis/Manager/Download/Documentos/4840287E.pdf"
   - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 milhões (Diário de Pernambuco, 26/11/2025)"
     url: "https://www.diariodepernambuco.com.br/economia/2025/11/11701500-conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-rs-225-milhoes.html"
-  - title: "Resolução CMN 5.255, de 10 de outubro de 2025 (IRIB)"
-    url: "https://www.irib.org.br/?p=40886"
+  - title: "Resolução CMN 5.255, de 10 de outubro de 2025, limite de avaliação no SFH (Normas Brasil)"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
 related: [financiamento-negado, documentos-para-usar-fgts, fgts-imovel-usado, fgts-de-dois-compradores]
 ---
 
@@ -75,15 +75,15 @@ Mas o item 12.2 lista situações que **não** impedem:
 - imóvel rural;
 - cota de consórcio imobiliário não usada em imóvel na região;
 - promessa de compra do próprio imóvel que você está adquirindo;
-- financiamento de material de construção.
+- financiamento de material de construção no SFH, nas condições do manual (por exemplo, quando não foi usado em imóvel seu na região).
 
-Se o impedimento é real, o caminho é vender (ou doar) o imóvel antes de usar o FGTS, com a transferência registrada. O manual faz uma ressalva: doar ou vender para filho menor não conta, porque os pais continuam com o usufruto legal. Se o imóvel foi demolido, prova-se com certidão da prefeitura, averbação ou laudo. Quem é usufrutuário precisa renunciar ao usufruto com registro na matrícula.
+Se o impedimento é real, o caminho é vender (ou doar) o imóvel antes de usar o FGTS, com a transferência registrada. O manual faz uma ressalva (item 12.6.2): doar ou vender para filho menor não conta, porque os pais continuam com o usufruto legal, pelo art. 1.689 do Código Civil. Se o imóvel foi demolido, prova-se com certidão da prefeitura, averbação ou laudo. Quem é usufrutuário precisa renunciar ao usufruto com registro na matrícula.
 
-O manual também prevê exceções para quem perdeu o direito de morar no imóvel por separação ou divórcio, para imóvel que ficou inabitável por sinistro e para quem tem só a nua-propriedade recebida por doação ou herança.
+O manual também prevê exceções para quem perdeu o direito de morar no imóvel por separação ou divórcio (item 12.8), para imóvel que ficou definitivamente inabitável por sinistro (item 12.9) e para quem tem só a nua-propriedade recebida por doação ou herança (item 12.10).
 
 ### Financiamento ativo no SFH
 
-Quem tem financiamento ativo no SFH, em qualquer cidade, não usa o FGTS em uma nova compra. O manual ainda diz (item 8.5) que, desde 9 de setembro de 2021, quem tem mais de um financiamento no SFH não pode usar o FGTS em nenhum deles. Solução: quitar o contrato antigo antes da nova operação e apresentar o termo de quitação. Financiamento já quitado não impede.
+Quem tem financiamento ativo no SFH, em qualquer cidade, não usa o FGTS em uma nova compra. O manual ainda diz (item 8.5) que, desde 9 de setembro de 2021, quem tem mais de um financiamento no SFH não pode usar o FGTS para amortizar, quitar ou pagar parte das prestações em nenhum deles. Solução: quitar o contrato antigo antes da nova operação e apresentar o termo de quitação. Financiamento já quitado não impede.
 
 ### O imóvel do cônjuge
 
@@ -91,13 +91,13 @@ O regime de bens define se o imóvel ou o financiamento de um bloqueia o outro. 
 
 ### Outros motivos pessoais
 
-- **Administradora de bens próprios**: o manual veda o uso quando o imóvel impeditivo está em nome de uma holding patrimonial da qual você é titular. Passar o imóvel para uma empresa sua não resolve.
+- **Administradora de bens próprios**: o manual veda o uso quando o imóvel impeditivo está em nome de uma empresa de administração de bens próprios (a chamada holding patrimonial) da qual você é titular (item 12.1.5). Passar o imóvel para uma empresa sua não resolve.
 - **Cidade sem vínculo**: o imóvel precisa estar na cidade onde você trabalha, onde mora há pelo menos 1 ano, ou em vizinha ou da mesma região metropolitana. O manual tem regra própria para quem se muda há menos de 1 ano.
 - **Imóvel que já foi seu**: recomprar exige declaração de que não é venda simulada.
 
 ## Motivos ligados ao imóvel
 
-- **Avaliação acima do teto.** O limite do SFH é de R$ 2,25 milhões de avaliação, pela Resolução CMN 5.255 de outubro de 2025, estendido a todos os contratos do FGTS em novembro de 2025. Conta o laudo, não o preço.
+- **Avaliação acima do teto.** O limite do SFH é de R$ 2,25 milhões de avaliação, pela Resolução CMN 5.255, de 10 de outubro de 2025, e o Conselho Curador do FGTS passou a aplicá-lo a todos os contratos em novembro de 2025. Conta o laudo, não o preço.
 - **Construção não averbada.** O manual não aceita imóvel concluído sem a edificação na matrícula. É comum em casas usadas ampliadas sem registro. Quem regulariza é o vendedor.
 - **Gravame.** Penhora, indisponibilidade ou outro ônus que impeça a venda trava a operação até ser baixado.
 - **FGTS no imóvel há menos de 3 anos.** O imóvel não pode ter sido comprado ou construído com FGTS nesse período. Se a matrícula não mostrar a origem do dinheiro, o vendedor declara.
@@ -133,7 +133,7 @@ Se o banco já aprovou o crédito no limite, os R$ 6 mil precisam sair do seu bo
 
 ### Atenção: declarar errado é pior que ser recusado
 
-O manual (item 9.4) prevê que, se uma irregularidade causada pelo trabalhador for achada depois, o valor sacado é cobrado e o caso é comunicado à Polícia Federal, com cópia ao Ministério Público Federal. Se o imóvel nunca serviu de moradia, a comunicação também acontece. Omitir imóvel para conseguir o saque troca uma recusa por um problema bem maior.
+O manual (item 9.4) prevê que, se uma irregularidade causada pelo trabalhador for achada depois, o valor sacado é cobrado e o caso é comunicado à Polícia Federal, com cópia ao Ministério Público Federal. Se o imóvel nunca serviu de moradia, o item 13.1.2 prevê a mesma cobrança e comunicação. Omitir imóvel para conseguir o saque troca uma recusa por um problema bem maior.
 
 ## Erros comuns
 
