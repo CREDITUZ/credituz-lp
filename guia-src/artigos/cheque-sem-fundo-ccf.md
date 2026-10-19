@@ -1,12 +1,12 @@
 ---
 title: "CCF: o que é o cadastro de cheque sem fundo e como sair"
-description: "O que leva o CPF ao CCF, como consultar no Registrato, as quatro formas de exclusão pela Resolução CMN 5.071/2023 e o peso do cheque sem fundo no financiamento do imóvel."
+description: "O que leva o CPF ao CCF, como consultar no Registrato, as formas de exclusão pela Resolução CMN 5.071/2023 e o efeito no financiamento."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 9
 key_points:
-  - "O CCF (Cadastro de Emitentes de Cheques sem Fundos) é mantido no âmbito do Banco Central e operado pelo Banco do Brasil."
+  - "O CCF (Cadastro de Emitentes de Cheques sem Fundos) é regulado pelo Conselho Monetário Nacional e pelo Banco Central."
   - "A inclusão ocorre, por exemplo, quando o cheque volta por falta de fundos em duas datas diferentes ou é emitido contra conta encerrada, e o banco precisa avisar antes."
   - "Para sair antes do prazo, você paga o cheque, comprova ao seu banco e ele tem até 5 dias úteis para analisar e pedir a exclusão; sem isso, a exclusão é automática após 5 anos."
   - "Registro no CCF aparece na consulta do banco do financiamento e costuma travar crédito, inclusive a abertura de contas e cartões."
@@ -116,6 +116,17 @@ Exemplo ilustrativo. Em agosto, um cheque de R$ 1.350 que Bruno deu a uma oficin
 | Janeiro | Faz o pedido do financiamento | Análise sem restrição ativa |
 
 Se Bruno tivesse esperado a exclusão automática, o registro ficaria até agosto de 5 anos depois. Com R$ 1.350 e uma ida ao banco, ele antecipa o pedido em anos. Quando tudo estiver limpo, teste os valores no [simulador de financiamento](/simulador).
+
+## Quando a inclusão foi indevida
+
+Nem toda inclusão no CCF é correta. Pela resolução, o banco precisa comunicar a inclusão por escrito antes de registrá-la, e a exclusão por erro comprovado pode ser pedida sem custo para o cliente. Se você não emitiu o cheque, se a data ou o valor estão errados, ou se o cheque foi devolvido por motivo diferente do alegado, faça o seguinte:
+
+1. Reúna o cheque, o extrato da conta no período e qualquer prova de que o cheque não é seu, como boletim de ocorrência por furto ou perda.
+2. Peça ao banco sacado a exclusão por escrito, indicando o erro, e guarde o protocolo.
+3. Se o banco negar, exija a decisão formal, que a resolução obriga a comunicar.
+4. Se a negativa persistir, registre reclamação no Procon ou no consumidor.gov.br e, se necessário, busque um advogado.
+
+Não pague a tarifa cobrada por uma inclusão que você contesta sem antes levar a discussão adiante. A resolução veda cobrança de quem sofreu inclusão ou exclusão indevida.
 
 ## Erros comuns e cuidados
 

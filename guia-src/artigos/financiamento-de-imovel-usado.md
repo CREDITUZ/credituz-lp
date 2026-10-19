@@ -1,6 +1,6 @@
 ---
 title: "Financiamento de imóvel usado: regras, avaliação e cuidados"
-description: "Como financiar imóvel usado em 2026: cota, avaliação do banco, Pró-Cotista com limite de 50%, averbação, dívidas do vendedor, ITBI e documentos que travam o contrato."
+description: "Como financiar imóvel usado em 2026: cota, avaliação, Pró-Cotista com limite de 50%, averbação, dívidas do vendedor e documentos que travam o contrato."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
@@ -71,9 +71,9 @@ Imóvel usado de R$ 400 mil, avaliado em R$ 400 mil. Financiamento de 80% em uma
 | Entrada | R$ 80.000 | R$ 200.000 |
 | ITBI (3%) | R$ 12.000 | R$ 12.000 |
 | Dinheiro na mão | R$ 92.000 | R$ 212.000 |
-| 1ª parcela SAC | R$ 3.428,57 | R$ 2.142,86 |
+| 1ª parcela SAC (10% ao ano, 420 meses) | R$ 3.313,63 | R$ 2.071,02 |
 
-O exemplo mostra que a cota pesa mais na entrada do que na parcela. Com 50% de cota, a parcela cai mais de R$ 1.200, mas o dinheiro necessário no fechamento mais que dobra. Se a sua reserva é de R$ 100 mil, a cota de 50% não cabe, mesmo que a parcela caiba no orçamento.
+O exemplo mostra que a cota pesa mais na entrada do que na parcela. Com 50% de cota, a parcela cai cerca de R$ 1.240, mas o dinheiro necessário no fechamento mais que dobra. Se a sua reserva é de R$ 100 mil, a cota de 50% não cabe, mesmo que a parcela caiba no orçamento.
 
 ## Passo a passo do financiamento de usado
 

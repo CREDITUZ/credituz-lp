@@ -1,6 +1,6 @@
 ---
 title: "Consórcio para investir: faz sentido? Veja as contas"
-description: "Consórcio de imóvel como investimento: vender carta contemplada, comprar para alugar ou poupar. Simulações com CDI, aluguel e reajuste mostram quando a conta fecha."
+description: "Consórcio de imóvel como investimento: vender carta contemplada, comprar para alugar ou pegar a carta em dinheiro. Simulações mostram quando a conta fecha."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
@@ -101,6 +101,12 @@ Alguns vendedores sugerem ser contemplado e "resgatar" a carta para aplicar. Pel
 | Comprar para alugar | Aluguel e valorização | Aluguel menor que a parcela, vacância | Lance relevante, imóvel com boa rentabilidade, horizonte longo |
 | Carta em dinheiro | Nenhum | Paga o saldo para receber o próprio crédito | Raramente |
 | Aplicação em renda fixa (comparação) | Juros | Inflação, risco do emissor | Reserva e objetivos com data |
+
+## O que muda a conta: prazo, lance e liquidez
+
+Três fatores decidem se qualquer uma das estratégias chega perto de um investimento comum. O primeiro é o prazo até a contemplação: quanto mais cedo, menor o custo acumulado de carregar a dívida e maior a chance de a venda ou o aluguel fazerem sentido. O segundo é o lance. Ele antecipa a carta, mas consome dinheiro que poderia render no CDI; o lance só compensa quando o custo de esperar é maior que o custo do dinheiro parado. O terceiro é a liquidez: a cota não é fácil de vender, o imóvel leva meses para ser vendido e a devolução de desistente depende de sorteio ou do fim do grupo.
+
+Se você precisa do dinheiro em menos de cinco anos, a aplicação tende a ser mais adequada. Se a meta é morar num imóvel em dez ou quinze anos, o consórcio pode ser um meio de compra, desde que a taxa seja comparada com a média do mercado.
 
 ## Quando o consórcio pode servir
 

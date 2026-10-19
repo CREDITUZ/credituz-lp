@@ -1,6 +1,6 @@
 ---
 title: "Consórcio contemplado à venda: como comprar com segurança"
-description: "Comprar cota de consórcio contemplada: como funciona a transferência, quanto custa de verdade com ágio e reajuste, os golpes mais comuns e o que checar antes de pagar."
+description: "Comprar cota de consórcio contemplada: como funciona a transferência, o custo real com ágio e reajuste, os golpes mais comuns e o que checar antes de pagar."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

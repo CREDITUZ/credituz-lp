@@ -1,6 +1,6 @@
 ---
 title: "Financiamento corrigido pelo IPCA: vantagens, riscos e contas"
-description: "Como funciona o financiamento imobiliário corrigido pelo IPCA, por que a parcela começa menor e sobe, o que aconteceu em 2021 e como comparar com a linha com TR."
+description: "Como funciona o financiamento imobiliário corrigido pelo IPCA, por que a parcela começa menor e sobe, o que aconteceu em 2021 e como comparar com a TR."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19

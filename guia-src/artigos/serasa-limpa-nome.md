@@ -1,6 +1,6 @@
 ---
 title: "Serasa Limpa Nome: como funciona e o efeito no financiamento"
-description: "Como funciona o Serasa Limpa Nome, quem define o desconto, quando a negativação sai e o que um acordo feito ali muda, ou não muda, no seu financiamento imobiliário."
+description: "Como funciona o Serasa Limpa Nome, quem define o desconto, quando a negativação sai e o que um acordo muda no financiamento imobiliário."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19

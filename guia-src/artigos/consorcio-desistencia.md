@@ -1,6 +1,6 @@
 ---
 title: "Desistir do consórcio: o que você recebe de volta e quando"
-description: "Veja o que acontece se você desistir do consórcio de imóvel: o que a Lei 11.795/2008 devolve, quando o dinheiro sai, multas permitidas e alternativas à desistência."
+description: "Veja o que acontece se você desistir do consórcio de imóvel: o que a Lei 11.795/2008 devolve, quando o dinheiro sai e quais multas são permitidas."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

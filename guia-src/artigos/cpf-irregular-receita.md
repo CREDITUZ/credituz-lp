@@ -1,6 +1,6 @@
 ---
-title: "CPF irregular na Receita: o que cada situação significa e como resolver"
-description: "Entenda o que significa CPF pendente de regularização, suspenso, cancelado ou nulo, como consultar o motivo e o que fazer para regularizar antes de pedir financiamento."
+title: "CPF irregular na Receita: situações e como regularizar"
+description: "Entenda o que significa CPF pendente, suspenso, cancelado ou nulo na Receita, como consultar o motivo e regularizar antes de financiar."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
@@ -26,10 +26,6 @@ sources:
     url: "https://www.serasa.com.br/blog/regularizar-cpf/"
   - title: "Tecnoblog: como regularizar o CPF suspenso pela internet"
     url: "https://tecnoblog.net/341383/como-regularizar-o-cpf-pela-internet/"
-  - title: "Instrução Normativa RFB 2.172/2024 (situação cadastral do CPF), texto oficial no DOU"
-    url: "https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.172-de-9-de-janeiro-de-2024-536853023"
-  - title: "Receita Federal: consulta da situação cadastral do CPF"
-    url: "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf/situacao-cadastral"
   - title: "Em.com.br: multa do Imposto de Renda 2026 (regras de atraso e teto de 20%)"
     url: "https://www.em.com.br/economia/2026/05/7428582-multa-do-ir-2026-veja-quanto-custa-o-atraso-e-como-regularizar.html"
 related: [registrato, score-para-financiamento-imobiliario, documentos-para-financiamento, financiamento-negado]

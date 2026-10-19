@@ -1,6 +1,6 @@
 ---
 title: "Como escolher administradora de consórcio: o que checar"
-description: "Saiba avaliar uma administradora de consórcio de imóvel: autorização do Banco Central, ranking de reclamações, taxa comparada à média e o que pedir antes de assinar."
+description: "Como avaliar uma administradora de consórcio de imóvel: autorização do BC, ranking de reclamações, taxa comparada à média e o que pedir antes de assinar."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

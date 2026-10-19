@@ -1,6 +1,6 @@
 ---
 title: "Financiamento para construção: terreno próprio ou terreno e obra"
-description: "Como financiar a construção da casa: terreno próprio ou terreno e obra juntos, documentos de engenharia, liberação por etapas, juros na obra e o que fazer no fim."
+description: "Como financiar a construção da casa, em terreno próprio ou com terreno e obra juntos: documentos, liberação por etapas, juros na obra e averbação no fim."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19

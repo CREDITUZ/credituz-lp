@@ -1,6 +1,6 @@
 ---
 title: "Dívida prescrita: o que é e o que muda para quem vai financiar"
-description: "Diferença entre negativação que caduca em 5 anos e dívida prescrita, o que o CDC e o Código Civil dizem e por que uma dívida antiga ainda pode pesar no financiamento."
+description: "Diferença entre negativação de 5 anos e dívida prescrita, o que dizem o CDC e o Código Civil e como uma dívida antiga pesa no financiamento."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
@@ -78,6 +78,14 @@ Em geral, a contagem começa no vencimento da dívida, quando nasce o direito de
 
 Fazer um acordo novo sobre uma dívida antiga, por isso, não é um gesto neutro: ele cria uma nova obrigação, com novos vencimentos, que pode voltar a ser negativada se você parar de pagar.
 
+## Como conferir se a sua dívida já prescreveu
+
+Antes de decidir qualquer coisa, faça a conta em três passos. Primeiro, identifique a data do vencimento da última parcela paga ou da primeira parcela não paga, que é o marco usual para contar o prazo. Segundo, veja qual é o tipo de dívida: contrato de consumo, cheque, nota promissória ou outro título tem prazos próprios. Terceiro, confirme se houve algum ato que possa ter interrompido o prazo, como um acordo assinado ou um pedido de pagamento feito pelo credor, porque isso pode reiniciar a contagem.
+
+Um detalhe importante: a prescrição não é declarada sozinha pelo bureau nem pelo credor. Ela precisa ser alegada, e na Justiça cabe ao juiz reconhecê-la quando o devedor a invoca. Por isso, se você recebe uma ação de cobrança antiga, não ignore o processo. Procure um advogado ou a Defensoria Pública para verificar se a prescrição se aplica ao seu caso.
+
+Esses cálculos são aproximados. Para uma dívida de valor alto, ou que pese no seu financiamento, vale uma conversa com um profissional antes de qualquer pagamento.
+
 ## O que muda na prática
 
 Depois de 5 anos do vencimento:
@@ -89,7 +97,7 @@ Depois de 5 anos do vencimento:
 
 ### A discussão no STJ
 
-Há divergência sobre a cobrança fora da Justiça. A Terceira Turma do STJ decidiu, em 2023 (REsp 2.088.100), que a prescrição também impede a cobrança extrajudicial; outra decisão (REsp 2.103.726) distinguiu a simples exibição em plataforma de negociação da cobrança ativa. Para uniformizar, o tribunal afetou o Tema 1.264 dos recursos repetitivos. O julgamento na Segunda Seção foi suspenso em 10 de junho de 2026 por pedido de vista, e não localizamos tese fixada até a data deste artigo. Acompanhe pelo site do STJ.
+Há divergência sobre a cobrança fora da Justiça. Uma decisão da Terceira Turma do STJ (REsp 2.088.100/SP) é citada como sinal de visão restritiva, no sentido de que a prescrição também impede a cobrança extrajudicial; outra decisão (REsp 2.103.726) distinguiu a simples exibição em plataforma de negociação da cobrança ativa. Para uniformizar, o tribunal afetou o Tema 1.264 dos recursos repetitivos. O julgamento na Segunda Seção foi suspenso em 10 de junho de 2026 por pedido de vista, e não localizamos tese fixada até a data deste artigo. Acompanhe pelo site do STJ.
 
 ## Exemplo prático: duas dívidas, duas decisões
 

@@ -1,6 +1,6 @@
 ---
 title: "Desenrola em 2026: o que está valendo e o efeito no financiamento"
-description: "Situação do Desenrola em outubro de 2026: o fim do Novo Desenrola, o Desenrola Adimplentes, o Desenrola 3.0 da MP 1.393 e como cada um afeta quem quer financiar imóvel."
+description: "Situação do Desenrola em outubro de 2026: o fim do Novo Desenrola, o Desenrola Adimplentes, o 3.0 da MP 1.393 e o efeito no financiamento."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19

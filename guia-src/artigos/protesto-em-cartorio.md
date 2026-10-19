@@ -1,6 +1,6 @@
 ---
 title: "Protesto em cartório: como consultar, baixar e financiar depois"
-description: "Como consultar protesto no CPF de graça pela CENPROT, as formas de cancelar (título, anuência e via eletrônica), quem paga os emolumentos e o efeito no financiamento."
+description: "Como consultar protesto no CPF de graça pela CENPROT, as formas de cancelar, quem paga os emolumentos e o efeito no financiamento imobiliário."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
@@ -106,6 +106,14 @@ Exemplo ilustrativo. Rafael quer pedir financiamento em fevereiro. Em outubro, a
 | Prazo para conferir | Nova consulta na CENPROT após o cancelamento | Idem |
 
 Total pago aos credores: R$ 400 + R$ 2.300 = R$ 2.700, mais os emolumentos dos dois cartórios, que ele confirma antes de pagar. O protesto da academia poderia ter sido esquecido se ele só tivesse olhado a Serasa. Em janeiro, ele consulta de novo a central e os bureaus e, com tudo limpo, simula o crédito no [simulador de financiamento](/simulador).
+
+## Quanto tempo leva o cancelamento
+
+O prazo depende de quem precisa agir. Se o credor já deu a anuência eletrônica, a parte que cabe a você é conferir o pedido na central, pagar os emolumentos e aguardar o cartório processar o cancelamento. Se você precisa da carta de anuência em papel, o tempo inclui a emissão do documento pelo credor, o reconhecimento de firma e a ida ao cartório. Nos dois casos, a melhor prática é protocolar o pedido e guardar o recibo.
+
+Depois do cancelamento, faça uma nova consulta na CENPROT. O registro cancelado não deve aparecer como protesto ativo. Se ainda aparecer, leve o comprovante de cancelamento ao cartório e peça a correção por escrito.
+
+Para o financiamento, a regra prática é esperar o cancelamento constar na consulta antes de juntar a documentação do pedido. Protesto ativo no momento da análise costuma ser suficiente para o banco parar o processo.
 
 ## Erros comuns e cuidados
 
