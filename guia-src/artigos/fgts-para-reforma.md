@@ -96,7 +96,7 @@ Para comparar, um financiamento de R$ 40.000 em 36 meses a 0,82% ao mês, valor 
 ## Resumo e próximos passos
 
 - O FGTS não paga reforma, ampliação nem material de construção na casa própria.
-- No amortizar ou quitar, o valor sacado exclui a reforma, a ampliação, taxas e impostos.
+- Na amortização ou quitação, o valor sacado exclui a reforma, a ampliação, taxas e impostos.
 - A obra pode entrar só na construção de casa nova dentro de uma operação formal de financiamento.
 - O Reforma Casa Brasil, segundo a imprensa, não usa o saldo do FGTS do trabalhador.
 

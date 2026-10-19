@@ -29,8 +29,6 @@ sources:
     url: "https://portas.com.br/noticias/aluguel-residencial-alta-711-2026-fipezap/"
   - title: "FGV, INCC-M setembro de 2026 (press release via SindusconSP)"
     url: "https://sindusconsp.com.br/wp-content/uploads/2026/09/INCC-M_FGV_press-release_Set26.pdf"
-  - title: "Lei 11.033/2004 (alíquotas de IR sobre aplicações de renda fixa), art. 1º"
-    url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11033.htm"
   - title: "FGC: regulamento da garantia"
     url: "https://fgc.org.br/documents/d/asset-library-52554/regulamento-fgc"
   - title: "Banco Central: Panorama do Sistema de Consórcios 2024"
