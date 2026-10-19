@@ -4,7 +4,7 @@ description: "O que é contrato de gaveta, por que ele deixa o comprador exposto
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Contrato de gaveta é a compra de um imóvel, em geral ainda financiado, feita só por papel particular, sem passar pelo banco e sem registro em cartório."
   - "Pela Lei 8.004/1990, a venda de imóvel financiado pelo SFH exige a interveniência do banco. Sem ela, o banco continua tratando o vendedor como devedor."

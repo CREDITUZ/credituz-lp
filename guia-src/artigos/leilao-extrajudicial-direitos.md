@@ -4,7 +4,7 @@ description: "O que acontece quando você atrasa o financiamento com alienação
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 10
 key_points:
   - "Atrasar o financiamento com alienação fiduciária leva a uma intimação do cartório: você tem 15 dias para pagar as parcelas vencidas e os encargos (Lei 9.514/1997, art. 26)."
   - "No financiamento da casa própria, você ainda pode pagar o atraso até a averbação da consolidação, que só ocorre 30 dias depois do fim do prazo da intimação (art. 26-A)."
