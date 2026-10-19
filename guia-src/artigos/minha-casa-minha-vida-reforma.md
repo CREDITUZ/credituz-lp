@@ -112,7 +112,6 @@ A Caixa informa que o serviço é gratuito para o cidadão. Nenhuma etapa do pro
 |---|---|
 | Já tem a casa e precisa de telhado, instalação ou cômodo extra | Reforma Casa Brasil |
 | Não tem imóvel e quer comprar | Financiamento de compra do Minha Casa Minha Vida |
-| Quer ampliar a casa e o valor da obra passa de R$ 50 mil | Só o financiamento de compra ou outra linha. Não dá para somar as duas |
 | Tem imóvel de herança com documentação pendente | Regularize a documentação antes de pedir qualquer crédito |
 
 A escolha depende do tamanho da obra e do que precisa ser feito. Quem tem uma reforma grande deve comparar o custo total com outras formas de crédito, como o [crédito com garantia de imóvel](/artigos/home-equity), que tem regras e riscos próprios.

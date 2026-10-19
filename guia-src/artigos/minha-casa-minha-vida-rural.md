@@ -114,6 +114,26 @@ Em terras indígenas, quilombolas e unidades de conservação, há exigências p
 - **Usar a faixa de renda antiga.** As portarias mudaram duas vezes desde 2025. Confira a faixa vigente.
 - **Começar a obra sem projeto aprovado.** A assistência técnica e a ART precisam estar em dia antes do início.
 
+## Proposta aprovada não é contrato
+
+Uma proposta selecionada pelo Ministério ainda não garante a casa. A Portaria MCID 697/2026 publicou a lista de propostas selecionadas para o MCMV Rural, com prazo de contratação de 180 dias, contados 15 dias depois da publicação. O prazo pode ser prorrogado, mas depende do orçamento e de ato ministerial.
+
+Se a entidade não entregar a documentação ou não obtiver a aprovação do agente financeiro dentro do prazo, pode pedir a substituição por outra entidade habilitada, conforme o art. 3º da mesma portaria. Esse detalhe importa para a família: a entidade que organiza o grupo pode mudar.
+
+Uma proposta que não foi selecionada também pode continuar na fila. A Portaria MCID 948/2026 acrescentou que, se a entidade pedir expressamente, a proposta enquadrada permanece elegível na seleção seguinte, sem novo envio. Mudar o conteúdo da proposta exige nova apresentação e faz perder o enquadramento anterior.
+
+## Assistência técnica e laudo da casa
+
+Todo projeto precisa de assistência técnica feita por profissional registrado no CAU, no CREA ou no CFT, com ART, RRT ou TRT válido. Na melhoria, a exigência é maior: é preciso um laudo técnico confirmando que a casa não está em área de risco e tem estrutura estável, conforme o item 2.3 da Portaria 1.160/2025.
+
+Isso significa que, mesmo com subsídio, a família deve esperar um diagnóstico antes da obra. Pergunte à entidade quem é o responsável técnico, qual é o escopo do projeto e como o trabalho social será feito.
+
+## Como a melhoria é organizada
+
+A melhoria é feita por kits predefinidos, e não por orçamento livre. Isso reduz a discussão sobre o que pode ser trocado e padroniza a execução. Em uma casa com cobertura ruim e sem banheiro exclusivo, por exemplo, o kit pode incluir telhado, instalação sanitária e revestimento, dentro do limite de R$ 50.000 fora do Norte.
+
+Cabe à família confirmar o que está no kit antes de assinar, porque o contrato define o que será entregue. A contrapartida física, se houver, precisa estar descrita no contrato e aceita por escrito.
+
 ## Resumo
 
 - O MCMV Rural atende famílias do campo com renda anual de até R$ 134.000 na Faixa Rural 3, segundo a Portaria 333/2026.
