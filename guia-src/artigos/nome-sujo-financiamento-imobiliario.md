@@ -32,6 +32,10 @@ sources:
     url: "https://serasa.com.br/score/blog/quanto-tempo-depois-de-limpar-nome-score-aumenta/"
   - title: "Itaú: SCR e Registrato (envio mensal e histórico)"
     url: "https://www.itau.com.br/emprestimos-financiamentos/sistema-de-informacoes-de-credito"
+  - title: "PGFN: Cadin (cadastro mantido pela Procuradoria-Geral da Fazenda Nacional)"
+    url: "https://www.gov.br/pgfn/pt-br/servicos/orgaos-publicos-e-parceiros/cadin"
+  - title: "Gov.br: emitir relatório de cheques sem fundos (CCF) no Registrato"
+    url: "https://www.gov.br/pt-br/servicos/obter-relatorio-de-cheque-sem-fundo"
 related: [score-para-financiamento-imobiliario, financiamento-negado, renda-composta, consorcio-ou-financiamento]
 ---
 
@@ -45,7 +49,7 @@ Um financiamento imobiliário dura até 30 ou 35 anos e envolve um valor alto. O
 
 Além disso, a restrição costuma derrubar o score (veja [como o score entra na análise](/artigos/score-para-financiamento-imobiliario)) e aparece junto com outros sinais que o banco cruza: atrasos no SCR do Banco Central, dívidas com a União, protestos em cartório. Por isso a recusa raramente se resolve com "explicar a situação" ao gerente.
 
-No caso dos bancos públicos, existe uma camada a mais. A Lei 10.522/2002 obriga órgãos e entidades da administração federal, o que inclui a Caixa, a consultar o Cadin (Cadastro Informativo de Créditos não Quitados do Setor Público Federal) antes de fazer operações de crédito com recursos públicos. Pendência com a Receita, por exemplo, pode travar a contratação mesmo que você não tenha nenhuma dívida com lojas ou bancos.
+No caso dos bancos públicos, existe uma camada a mais. A Lei 10.522/2002 (art. 6º) obriga órgãos e entidades da administração pública federal, direta e indireta, grupo do qual a Caixa faz parte como empresa pública, a consultar o Cadin (Cadastro Informativo de Créditos não Quitados do Setor Público Federal) antes de fazer operações de crédito com recursos públicos. Pendência com a Receita, por exemplo, pode travar a contratação mesmo que você não tenha nenhuma dívida com lojas ou bancos.
 
 ## Tipos de restrição e onde consultar
 
@@ -56,7 +60,7 @@ No caso dos bancos públicos, existe uma camada a mais. A Lei 10.522/2002 obriga
 | Negativação em bureau | Dívida registrada por um credor em Serasa, SPC ou Boa Vista | Sites e aplicativos dos bureaus, gratuitamente |
 | Protesto em cartório | Título protestado, como boleto ou cheque | Central de protestos (CENPROT) ou cartório da cidade |
 | Atraso ou prejuízo no SCR | Operação em atraso ou baixada como prejuízo por banco ou financeira | Registrato do Banco Central, com conta gov.br prata ou ouro |
-| Cadin | Débito com órgão federal (Receita, INSS etc.) | Portal do órgão credor ou e-CAC |
+| Cadin | Débito com órgão ou entidade federal | Sistema Cadin, mantido hoje pela PGFN (Procuradoria-Geral da Fazenda Nacional), em gov.br/cadin |
 | Cheque sem fundo (CCF) | Cheques devolvidos | Registrato do Banco Central |
 
 Faça o levantamento completo antes de negociar qualquer coisa. Não adianta quitar a dívida do cartão e descobrir na análise do banco que existe um protesto antigo.

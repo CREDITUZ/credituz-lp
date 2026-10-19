@@ -88,7 +88,9 @@ Opções que eles avaliam:
 |---|---|
 | Quitar o empréstimo pessoal antes de pedir de novo | Margem volta a R$ 3.000; com SAC, dá para financiar cerca de R$ 252 mil |
 | Pedir tabela Price em vez de SAC | Primeira parcela de R$ 3.000 permite financiar cerca de R$ 317 mil, mas o custo total de juros é maior |
-| Aumentar a entrada em R$ 70 mil | Valor financiado cai para R$ 250 mil, compatível com SAC |
+| Aumentar a entrada em R$ 70 mil | Valor financiado cai para R$ 250 mil, com primeira parcela SAC de cerca de R$ 2.973 |
+
+As duas últimas linhas consideram a margem de R$ 3.000, ou seja, com o empréstimo pessoal já quitado. Se ele continuar ativo, a margem de R$ 2.400 permite cerca de R$ 202 mil na SAC e R$ 253 mil na Price.
 
 Nenhuma opção é "a certa". A Price aumenta o valor possível porque a parcela começa menor, mas cresce o total pago em juros. Compare os cenários no [simulador de financiamento](/simulador).
 

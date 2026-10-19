@@ -54,7 +54,7 @@ Faz sentido começar pela etapa 1 antes de escolher o imóvel, porque você desc
 
 | Documento | Observação |
 |---|---|
-| RG, CNH ou documento profissional com foto (OAB, CRM, CREA etc.) | Dentro da validade |
+| RG, CNH ou outro documento oficial com foto aceito pelo banco | Dentro da validade |
 | CPF | Se não constar no documento de identidade |
 | Certidão de estado civil | Nascimento para solteiros; casamento, com averbação de divórcio ou óbito se for o caso. O Itaú dispensa para solteiros |
 | Documentos do cônjuge ou companheiro | Mesmo que ele não componha renda, costuma ser pedido para quem é casado ou vive em união estável |
@@ -70,7 +70,7 @@ Faz sentido começar pela etapa 1 antes de escolher o imóvel, porque você desc
 |---|---|
 | Assalariado (CLT) | Últimos holerites (normalmente 3), carteira de trabalho, declaração de Imposto de Renda com recibo |
 | Servidor público | Últimos contracheques e declaração de IR |
-| Autônomo e profissional liberal | Extratos bancários dos últimos meses (normalmente 3 a 6), declaração de IR com recibo, decore (Declaração Comprobatória de Percepção de Rendimentos) feita por contador, quando o banco aceita |
+| Autônomo e profissional liberal | Extratos bancários dos últimos meses (o Banco Inter pede os 3 últimos; outros bancos podem pedir mais), declaração de IR com recibo, decore (Declaração Comprobatória de Percepção de Rendimentos) feita por contador, quando o banco aceita |
 | MEI e empresário | Declaração de IR da pessoa física, extratos pessoais, contrato social ou CCMEI, faturamento dos últimos 12 meses, pró-labore |
 | Aposentado e pensionista | Extrato de benefício do INSS ou do órgão pagador e declaração de IR |
 | Renda de aluguel | Contrato de locação e declaração de IR com o rendimento informado |

@@ -28,8 +28,8 @@ sources:
     url: "https://www.serasa.com.br/ajuda/serasa-score/o-que-e-o-serasa-score/"
   - title: "Open Finance Brasil: site oficial do ecossistema"
     url: "https://openfinancebrasil.org.br/"
-  - title: "Agência Gov: BC simplifica renovação de consentimentos no Open Finance (out. 2023)"
-    url: "https://agenciagov.ebc.com.br/noticias/202310/bc-simplifica-renovacao-de-consentimentos-no-open-finance-e-amplia-prazo-de-validade-do-compartilhamento"
+  - title: "Mattos Filho: BCB simplifica renovação de consentimento no Open Finance (Resolução Conjunta nº 7/2023)"
+    url: "https://www.mattosfilho.com.br/unico/bcb-renovacao-open-finance/"
   - title: "Let's Money: Open Finance chega a 208 milhões de consentimentos (dados de jul. 2026)"
     url: "https://www.letsmoney.com.br/noticias/open-finance-208-milhoes-consentimentos-governanca/"
   - title: "Lefosse: Resolução CMN 5.037/2022 e o SCR"
@@ -76,7 +76,7 @@ Pontos que o site oficial do ecossistema destaca:
 - Não existe um sistema central que guarde os dados: eles vão direto de uma instituição para a outra.
 - Você pode encerrar o compartilhamento a qualquer momento, pelo app ou internet banking de qualquer uma das duas.
 
-Sobre prazo: até 2023, o consentimento tinha validade máxima de 12 meses. A Resolução Conjunta nº 7/2023 retirou esse teto e simplificou a renovação. Hoje o prazo é definido na hora de consentir, e a revogação continua livre.
+Sobre prazo: até 2023, o consentimento tinha validade máxima de 12 meses. A Resolução Conjunta nº 7, de outubro de 2023, permitiu que as instituições ofereçam prazos maiores e simplificou a renovação. O prazo aparece na tela na hora de consentir, e a revogação continua livre.
 
 O uso cresceu muito. Segundo dados do painel oficial do Open Finance Brasil citados pela Let's Money, havia cerca de 208,8 milhões de consentimentos ativos em 31 de julho de 2026.
 
@@ -92,7 +92,7 @@ Os três aparecem na análise de crédito e costumam ser confundidos.
 | Como sair | Pedido gratuito de cancelamento | Revogar o consentimento | Não há opção de sair |
 | Onde você consulta | Site e app dos bureaus | App do banco | Registrato, com conta gov.br prata ou ouro |
 
-O SCR é a "visão do sistema bancário" das suas dívidas. As instituições informam cada cliente cujo conjunto de operações chegue a R$ 200, segundo as instruções do documento 3040 do Banco Central. Desde a Resolução CMN 5.037/2022, o Banco Central também pode compartilhar dados do SCR com gestores do Cadastro Positivo, mediante convênio.
+O SCR é a "visão do sistema bancário" das suas dívidas. As instituições informam individualmente cada cliente cujo conjunto de operações seja igual ou superior a R$ 200, segundo as instruções do documento 3040 do Banco Central (com base na Circular 3.870/2017). Desde a Resolução CMN 5.037/2022, o Banco Central também pode compartilhar dados do SCR com gestores do Cadastro Positivo, mediante convênio.
 
 ## Como isso ajuda no financiamento imobiliário
 

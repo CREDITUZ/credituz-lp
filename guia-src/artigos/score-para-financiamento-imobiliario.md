@@ -83,7 +83,7 @@ Para um empréstimo de 30 anos com o imóvel como garantia, o banco faz uma aná
 - **Dívidas no SCR (Sistema de Informações de Crédito) do Banco Central.** O SCR reúne as operações de crédito que você tem em bancos e financeiras, incluindo limites, parcelas em atraso e prejuízos. As instituições enviam dados mensalmente e, com sua autorização, o banco consulta esse histórico. Um cartão rotativo alto ou um consignado grande reduzem a parcela que sobra para o imóvel.
 - **Restrições no CPF.** Negativação em Serasa, SPC ou Boa Vista, protestos em cartório e pendências com órgãos públicos costumam travar a aprovação. O tema tem artigo próprio: [dá para financiar com nome sujo](/artigos/nome-sujo-financiamento-imobiliario).
 - **Estabilidade e tipo de renda.** Tempo de emprego, renda fixa ou variável, autônomo ou CLT.
-- **Idade e prazo.** Na Caixa, por exemplo, a soma da sua idade com o prazo do financiamento é limitada (a regra divulgada para as linhas convencionais é de 80 anos e 6 meses), o que pode encurtar o prazo e aumentar a parcela.
+- **Idade e prazo.** Os bancos limitam a soma da sua idade com o prazo do financiamento. O teto exato varia por banco e linha e pode mudar, então confira no simulador ou com o gerente. Esse limite pode encurtar o prazo e aumentar a parcela.
 - **Relacionamento com o banco.** Conta, investimentos e histórico interno podem influenciar a oferta, e às vezes a taxa.
 
 ## Exemplo prático: duas pessoas com o mesmo score
@@ -103,7 +103,7 @@ Ana tem o score maior, e mesmo assim tende a receber um crédito menor do que Br
 Não existe truque. O que funciona é dar aos bureaus sinais consistentes de bom pagador por alguns meses:
 
 1. **Pague tudo em dia, inclusive contas de consumo.** Luz, água, telefone e boletos entram no Cadastro Positivo. Atraso pequeno e repetido também pesa.
-2. **Quite ou negocie dívidas negativadas.** Pela Súmula 548 do STJ, o credor deve tirar seu nome do cadastro em até cinco dias úteis após o pagamento integral A Serasa avisa, porém, que baixa da dívida e aumento do score não acontecem necessariamente ao mesmo tempo.
+2. **Quite ou negocie dívidas negativadas.** Pela Súmula 548 do STJ, o credor deve tirar seu nome do cadastro em até cinco dias úteis após o pagamento integral. A Serasa avisa, porém, que baixa da dívida e aumento do score não acontecem necessariamente ao mesmo tempo.
 3. **Evite pedir crédito em vários lugares.** Nos meses que antecedem o financiamento, segure novos cartões, empréstimos e crediários. Cada consulta de empresa entra no pilar de busca por crédito.
 4. **Atualize seus dados cadastrais.** Endereço, telefone e renda nos sites dos bureaus. É simples e conta pontos no pilar cadastral.
 5. **Não cancele o Cadastro Positivo.** Sem histórico de pagamentos, o modelo tem pouco a dizer a seu favor.
@@ -115,7 +115,7 @@ Se possível, comece esse trabalho seis meses antes de procurar o banco. Esse pr
 
 - **Pagar por "aumento de score".** Nenhuma empresa consegue alterar sua pontuação de fora. Promessas desse tipo são golpe.
 - **Simular em dez bancos no mesmo dia.** A simulação é um cálculo; o pedido formal de análise é que costuma autorizar a consulta ao seu CPF. Escolha dois ou três bancos com base no CET (Custo Efetivo Total) e faça os pedidos com critério.
-- **Ignorar o Registrato.** O relatório do SCR é gratuito no Registrato do Banco Central (acesso com conta gov.br prata ou ouro). Às vezes aparece um limite ou uma dívida que você nem lembrava, e é isso que o banco vai ver.
+- **Ignorar o Registrato.** O relatório do SCR é gratuito no Registrato do Banco Central (acesso com conta gov.br prata ou ouro e verificação em duas etapas ativada). Às vezes aparece um limite ou uma dívida que você nem lembrava, e é isso que o banco vai ver.
 - **Olhar só um bureau.** O banco pode consultar mais de um. Confira Serasa e Boa Vista.
 - **Achar que score alto garante taxa baixa.** A taxa do crédito imobiliário depende muito mais da modalidade, do banco e do relacionamento. Compare propostas pelo CET.
 
