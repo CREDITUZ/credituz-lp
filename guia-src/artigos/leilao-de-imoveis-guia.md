@@ -8,7 +8,7 @@ reading_minutes: 9
 key_points:
   - "Leilão compensa quando o desconto cobre o lance, os custos da compra, o tempo parado e o risco. Um desconto grande no anúncio pode virar prejuízo depois das taxas e das dívidas."
   - "Existem leilões judiciais, extrajudiciais de bancos, da Receita Federal e de prefeituras. Cada tipo tem regras, prazos e riscos diferentes, e o edital é o documento que manda."
-  - "Dívidas de IPTU e de condomínio são o risco que mais surpreende. Pela lei, o imposto ligado ao imóvel acompanha o bem, e a dívida de condomínio pode ser cobrada do arrematante."
+  - "Dívidas de IPTU e de condomínio são o risco que mais surpreende. Certos impostos ligados ao imóvel passam para o adquirente, e a dívida de condomínio pode ser cobrada do arrematante que sabia dela."
   - "No exemplo deste texto, um imóvel comprado por R$ 200 mil em leilão custou R$ 263 mil no total, e a margem de R$ 37 mil levou cerca de um ano para ser consumida pelo custo do dinheiro."
 faq:
   - q: "Leilão de imóvel é mais barato que comprar pronto?"
@@ -16,7 +16,7 @@ faq:
   - q: "Posso financiar um imóvel comprado em leilão?"
     a: "Depende do tipo de leilão e da política do banco. Em alguns leilões de bancos, o financiamento e o FGTS são aceitos. Confirme no edital e com o banco antes de dar o lance."
   - q: "O arrematante herda as dívidas do antigo dono?"
-    a: "Depende. Dívidas de imposto ligadas ao imóvel seguem o bem, mas no leilão judicial o valor da venda responde por elas. Dívidas de condomínio podem ser cobradas do arrematante que sabia delas, mesmo que o edital não as tenha mencionado."
+    a: "Depende. Certos impostos ligados ao imóvel passam para o adquirente, e no leilão judicial o preço da venda responde por eles. Dívidas de condomínio podem ser cobradas do arrematante que sabia delas, mesmo que o edital não as tenha mencionado."
   - q: "Quanto custa comprar em leilão além do lance?"
     a: "Costumam entrar a comissão do leiloeiro, o ITBI, os custos de registro, possível desocupação e reforma, e eventuais dívidas. O percentual da comissão está no edital."
 sources:
@@ -89,6 +89,8 @@ Considere um apartamento avaliado em R$ 300 mil, arrematado por R$ 200 mil. Os p
 | Custo total | R$ 263.000 |
 | Valor de mercado, em condição equivalente | R$ 300.000 |
 | Margem bruta | R$ 37.000 (14% sobre o custo) |
+
+Veja também a sensibilidade ao lance. Se a disputa levar o lance a R$ 230 mil, comissão, ITBI e registro sobem junto, e o custo total passa a ser de cerca de R$ 296 mil. A margem cai para cerca de R$ 4 mil, quase nada para cobrir o imprevisto. Por isso, o valor máximo de lance deve ser calculado antes do leilão, e não durante a disputa.
 
 A margem parece boa, mas o tempo muda o resultado. Se o dinheiro de R$ 263 mil ficar parado por um ano, ele renderia cerca de R$ 35,9 mil numa aplicação atrelada a 100% do CDI, em outubro de 2026, antes do imposto. Ou seja, quase toda a margem seria consumida pelo custo do dinheiro se o processo de desocupação e regularização demorar um ano. Se demorar dois anos, a conta pode virar prejuízo.
 
