@@ -4,7 +4,7 @@ description: "Quais certidões pedir antes de fechar a compra do imóvel: matrí
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Antes de assinar, peça a certidão atualizada da matrícula, a certidão de situação jurídica do imóvel, a consulta à indisponibilidade de bens e as certidões de débitos do imóvel."
   - "Pela Lei 13.097/2015, com a redação da Lei 14.382/2022, certidões forenses do vendedor não são exigidas para a validade do negócio nem para provar a boa-fé do comprador."
@@ -61,7 +61,7 @@ Peça as duas, nesta ordem: primeiro a matrícula, para ler o histórico, e depo
 
 ## Indisponibilidade e restrições do vendedor
 
-A Central Nacional de Indisponibilidade de Bens (CNIB) reúne ordens de restrição de bens de pessoas e empresas, emitidas por juízes e autoridades com poder para isso. O IRIB explica que os cartórios de imóveis consultam a central no início e no fim do expediente, e antes de atos sobre imóveis. Se houver ordem contra o vendedor, ela aparece na matrícula.
+A Central Nacional de Indisponibilidade de Bens (CNIB) reúne ordens de restrição sobre imóveis em nome de pessoas, emitidas por juízes e autoridades com poder para isso. Segundo o IRIB, os cartórios de imóveis consultam a central no início e no fim do expediente, e antes de atos sobre imóveis. Se a ordem for registrada para um imóvel daquele cartório, ela aparece na matrícula.
 
 Você não precisa consultar a central sozinho. Peça ao cartório a informação sobre a consulta e, se houver restrição, a explicação do que ela impede. Uma indisponibilidade impede a venda, e a compra não deve ser assinada até a liberação.
 
@@ -95,6 +95,22 @@ Exemplo ilustrativo, sem valores, para mostrar como os prazos se encaixam. As da
 - Nesse caso, peça a nova matrícula e a situação jurídica dias antes da assinatura, e a declaração de condomínio na semana da escritura.
 
 O erro mais comum é usar a certidão da fase de análise na fase de assinatura. Pergunte ao banco, antes, qual data ele usa para contar a validade.
+
+## Certidões para o banco e certidões para a escritura
+
+Nem todas as certidões são pedidas no mesmo momento. O banco costuma exigir a matrícula e alguns documentos do imóvel para aprovar a análise e liberar o contrato. A escritura, ou o registro do contrato, exige a comprovação de que o imposto foi pago e que o cartório não encontrou impedimentos. Por isso, o conjunto de certidões muda conforme a fase.
+
+Na fase de análise, peça a matrícula e confirme a situação do imóvel. Na fase de assinatura, peça de novo a matrícula e a situação jurídica, para que a data esteja dentro do prazo do banco, e junte a declaração de condomínio e as certidões de IPTU mais recentes. Depois da assinatura e do registro, a matrícula passa a mostrar a compra e a garantia do banco, e é essa versão que serve de prova para futuras operações.
+
+## O que fazer se uma certidão vier com problema
+
+Uma certidão com restrição não significa, por si só, que a compra está perdida. Ela mostra um ponto que precisa de resposta. Antes de decidir, faça estas perguntas:
+
+- **A restrição é do vendedor ou do imóvel?** Uma dívida pessoal do vendedor, sem garantia no imóvel, pode ser tratada na negociação. Uma garantia registrada no imóvel precisa de baixa antes da venda.
+- **Há prazo para resolver?** Se a restrição depende de quitação ou de decisão judicial, peça ao vendedor um cronograma por escrito, e vincule a assinatura à baixa ou à liberação.
+- **O banco aceita a situação?** Alguns bancos recusam o imóvel com determinadas restrições. Pergunte antes de gastar com a avaliação e com o cartório.
+
+Quando a restrição for de dívida do vendedor, uma alternativa comum é fazer o pagamento direto ao credor no dia da escritura, com o valor descontado do preço. Essa operação precisa de acordo entre as partes e, às vezes, da participação do cartório ou do banco. Confirme o procedimento antes de combinar.
 
 ## Erros comuns
 

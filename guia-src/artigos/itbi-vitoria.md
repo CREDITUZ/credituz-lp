@@ -4,7 +4,7 @@ description: "ITBI em Vitória: como conferir a alíquota na Semfaz, por que a b
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A alíquota do ITBI em Vitória está na legislação municipal e deve ser conferida na Secretaria Municipal de Fazenda (Semfaz) antes do pagamento."
   - "A base de cálculo é a principal dúvida em Vitória, porque a prefeitura usou por anos um valor venal de referência, e a discussão sobre trocá-lo chegou à Câmara em 2023."
@@ -103,6 +103,24 @@ Em Vitória, não encontrei regra de desconto de ITBI para a parte financiada, c
 ## Parcelamento
 
 Não encontrei, nas normas e reportagens consultadas, uma regra clara de parcelamento do ITBI em Vitória. Antes de contar com essa opção, pergunte à Semfaz se ela aceita parcelas e em que condições. O tema geral está no artigo sobre [ITBI parcelado](/artigos/itbi-parcelado).
+
+## Documentos que facilitam a emissão
+
+A Semfaz pede, em geral, os mesmos dados que qualquer cidade: identificação das partes, dados do imóvel e comprovação da transmissão. Para reduzir idas e vindas, leve tudo pronto:
+
+- a matrícula atualizada, com a área e o endereço conferidos;
+- a inscrição imobiliária do IPTU, que aparece no carnê;
+- documentos pessoais de comprador e vendedor, com estado civil e, quando houver, os dados do cônjuge;
+- o contrato de compra e venda ou o contrato com o banco, com a data de assinatura;
+- o valor da transação e, se houver financiamento, o valor financiado.
+
+Se a isenção da ZEIS estiver em discussão, leve também a comprovação da renda familiar e algum documento que mostre que o imóvel está na área de interesse social, se a Semfaz pedir. Confirme esse ponto com a Semfaz, porque a exigência pode variar conforme o caso, e peça a lista de documentos por escrito.
+
+## Se a base for contestada
+
+Quando a guia vier com base diferente do preço declarado, o caminho é pedir a explicação por escrito e, se necessário, apresentar contestação. O STJ, no Tema 1.113, entendeu que o valor declarado é presumido correto e que a prefeitura só pode afastá-lo em processo administrativo próprio, com direito de defesa. Esse entendimento não substitui a lei local, mas é um argumento forte para quem contesta.
+
+Ao contestar, junte o contrato, a matrícula, o laudo de avaliação do banco, se houver, e qualquer comparável de mercado que mostre que o preço declarado é compatível com a região. Guarde protocolos e respostas. Se a discussão envolver valores altos ou se houver dúvida sobre prazos, consulte um advogado tributarista antes de pagar ou de deixar a guia vencer.
 
 ## Erros comuns
 

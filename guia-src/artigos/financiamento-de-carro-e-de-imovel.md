@@ -76,7 +76,7 @@ O Código de Defesa do Consumidor, no art. 52, § 2º, garante ao consumidor a l
 
 Na prática, peça ao banco do carro o valor de quitação para uma data específica, com a redução dos juros já aplicada. Compare esse valor com o saldo que aparece no aplicativo, porque o número do aplicativo pode não ter o desconto. Guarde o comprovante de quitação e o documento que libera o veículo, porque o banco do imóvel vai pedir.
 
-## Cuidados com o SCR e a análise
+### Cuidados com o SCR e a análise
 
 Como o SCR é atualizado mensalmente, a quitação feita na última hora pode não aparecer na consulta do banco do imóvel. Isso não significa que a dívida continua existindo, mas pode gerar uma pergunta na análise. Por isso:
 
@@ -85,7 +85,7 @@ Como o SCR é atualizado mensalmente, a quitação feita na última hora pode n�
 3. Confira no Registrato, do Banco Central, se o contrato do carro aparece como encerrado depois de alguns meses.
 4. Pergunte ao banco do imóvel como ele trata uma quitação recente.
 
-## Vender o carro financiado
+### Vender o carro financiado
 
 Se você pensa em trocar de carro antes de financiar o imóvel, a venda de um veículo financiado costuma exigir que a dívida seja quitada ou que o contrato seja transferido com a concordância do credor. Confira o contrato antes de anunciar o carro e de receber qualquer valor. Quem compra um carro com financiamento em aberto sem essa etapa pode ter problemas com o credor e com a documentação.
 

@@ -81,7 +81,7 @@ Exemplo ilustrativo, com juros de 14,93% ao mês, a taxa média do levantamento 
 
 Em três meses, a dívida cresce mais de 50%, e o saldo ocupa uma parte relevante da margem que o banco usaria para a parcela do imóvel. Pelas premissas do exemplo, o total de juros passaria do valor original da fatura por volta do quinto mês, que é justamente o ponto em que a regra de teto de 100% entra em cena. Esse número depende da taxa do momento e do contrato, por isso serve apenas para entender a ordem de grandeza.
 
-## Parcelamento da fatura: cuidado com o novo compromisso
+### Parcelamento da fatura: cuidado com o novo compromisso
 
 O parcelamento da fatura é uma saída comum quando o saldo não cabe no orçamento. Ele transforma a dívida em parcelas fixas, que passam a entrar na conta de comprometimento de renda pelo prazo do parcelamento. Antes de pedir o financiamento imobiliário, um parcelamento novo pode reduzir a margem mais do que você espera, e pode ser visto como sinal de aperto financeiro.
 
@@ -106,7 +106,7 @@ Se a dívida já estiver negativada, o caminho muda. Veja [limpar nome antes de 
 - **Cancelar o cartão para resolver o problema.** O saldo em aberto continua sendo dívida, e o cancelamento não apaga a fatura.
 - **Esquecer de conferir o SCR.** Um saldo esquecido pode aparecer na análise como surpresa.
 
-## Se o atraso já aconteceu
+### Se o atraso já aconteceu
 
 Um atraso passado não impede o financiamento automaticamente, mas precisa ser entendido antes do pedido. A pergunta é em que estado ele está hoje:
 
@@ -126,7 +126,7 @@ Se você tem alguns meses antes de pedir o financiamento, um plano simples costu
 
 O ponto central é a previsibilidade. Uma fatura paga integralmente por meses seguidos mostra comportamento estável, o que costuma pesar mais na análise do que uma quitação feita às pressas na véspera do pedido.
 
-## Não confie só na simulação
+### Não confie só na simulação
 
 Simuladores de financiamento costumam calcular a partir da renda e do prazo, e nem sempre pedem os detalhes das dívidas do cartão. Por isso, o valor da simulação pode ser maior que o que a análise aprova. Faça a conta manual: some as parcelas fixas, inclua o pagamento médio de fatura que você realmente faz e compare com a margem. Assim você vê o efeito real do cartão antes do pedido.
 

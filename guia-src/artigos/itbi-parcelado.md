@@ -4,7 +4,7 @@ description: "ITBI parcelado: poucas cidades permitem parcelar a guia na compra,
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Na maioria das cidades, a guia do ITBI da compra é paga à vista, e o parcelamento depende de regra específica do município."
   - "Em Belo Horizonte, a prefeitura oferece parcelamento pelo Portal de Serviços, mas o registro e a certidão negativa só saem depois da última parcela."
@@ -98,6 +98,25 @@ Comparar as duas alternativas ajuda a decidir:
 | Pagar a guia à vista | Valor integral do ITBI | Só o imposto |
 | Incluir no financiamento | Zero para o imposto | Imposto mais juros do crédito |
 | Parcelar na prefeitura, se houver | Primeira parcela | Imposto, com as condições da cidade |
+
+## O que perguntar por escrito à prefeitura
+
+Parcelamento depende de regra escrita, e uma resposta verbal no balcão não protege você se a regra mudar. Antes de assinar, peça por escrito as informações abaixo, com o número da lei citada na resposta:
+
+1. A cidade aceita parcelar o ITBI de uma compra com financiamento bancário?
+2. Qual é o número máximo de parcelas, e o valor mínimo de cada uma?
+3. Há juros, correção ou taxa sobre o saldo parcelado?
+4. O parcelamento precisa ser pedido antes da emissão da guia, ou depois?
+5. O cartório recebe o título com o imposto parcelado, ou exige quitação total?
+6. O que acontece se uma parcela atrasar: o parcelamento cai, há multa ou a dívida volta ao valor integral?
+
+As respostas a essas perguntas mudam a decisão. Se a cidade não aceita parcelamento ou se o cartório exige quitação total, a alternativa é juntar o valor ou discutir a inclusão do imposto no financiamento com o banco.
+
+## Quando faz sentido parcelar
+
+Parcelar o ITBI pode fazer sentido quando a cidade oferece condições claras, o cartório aceita o registro com a quitação feita no prazo e o comprador tem fluxo de caixa para pagar cada parcela sem atraso. Nessa situação, o parcelamento reduz o desembolso na assinatura e não cria juros extras, se a cidade não cobrar correção.
+
+Não faz sentido quando o parcelamento atrasa o registro, porque o banco libera o dinheiro depois do registro. Também não faz sentido quando cada parcela cabe apenas no orçamento do mês da compra. Nesses casos, o risco de perder o imóvel ou de pagar multa é maior que a economia.
 
 ## Erros comuns
 

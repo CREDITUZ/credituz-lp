@@ -35,7 +35,7 @@ Você pode sair do cadastro positivo a qualquer momento, sem custo, pedindo o ca
 
 Este texto explica o que a lei garante, como fazer o pedido e o que muda na prática. Para entender a relação entre o cadastro positivo, o Open Finance e o SCR, veja [cadastro positivo e Open Finance no crédito](/artigos/cadastro-positivo-e-open-finance).
 
-## O que é o cadastro positivo, em uma frase
+### O que é o cadastro positivo, em uma frase
 
 É um banco de dados, regulado pela Lei 12.414/2011, que registra contas e parcelas pagas em dia, além das em atraso. Desde a Lei Complementar 166/2019, ele é aberto automaticamente pelos gestores, sem pedido prévio do consumidor. Por isso, muita gente tem cadastro sem ter pedido nada.
 
@@ -93,7 +93,7 @@ A página oficial da Serasa descreve três caminhos:
 
 A Serasa afirma que o processo é gratuito. Guarde o protocolo ou a confirmação, porque ela será sua prova se houver atraso no processamento.
 
-## Os outros gestores
+### Os outros gestores
 
 Serasa não é o único gestor. Boa Vista, Quod, SPC Brasil e outras empresas autorizadas também podem ter seu cadastro. Em reportagem publicada em janeiro de 2020, a Folha, republicada pelo Idec, descreveu que os sites de alguns gestores exigiam cadastro antes do pedido, pediam documentos autenticados em cartório e, em um dos casos, uma selfie. Essas condições podem ter mudado, por isso confirme no site de cada um antes de agir.
 
@@ -127,7 +127,7 @@ Isso tem uma consequência prática: se você quiser ter certeza de que a saída
 
 Depois de sair, o acompanhamento continua útil. Consulte a sua nota e os seus dados algumas vezes por ano, porque erros podem surgir de outras fontes, e o direito de corrigir informações erradas, em até 10 dias, continua valendo (art. 5º, inciso III).
 
-## Perguntas úteis antes de decidir
+### Perguntas úteis antes de decidir
 
 Se você ainda está em dúvida, responda estas perguntas com honestidade:
 

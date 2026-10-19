@@ -1,10 +1,10 @@
 ---
 title: "ITBI em Manaus: alíquota, base de cálculo e como emitir a guia"
-description: "ITBI em Manaus: a alíquota é 1,8%, 1,9% ou 2% conforme a data do pagamento, a base é o valor venal do imóvel e a regra vem da Lei 459/1998."
+description: "ITBI em Manaus: a alíquota é 1,8%, 1,9% ou 2% conforme a data do pagamento, a base é o valor venal do imóvel e a regra vem da Lei municipal 459/1998."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Em Manaus, o ITBI é 1,8% se a guia for paga até a data da lavratura do instrumento de compra, 1,9% até o registro do imóvel e 2% depois do registro."
   - "A base de cálculo é o valor venal do imóvel, o valor que a prefeitura usa no cadastro, e não necessariamente o preço combinado com o vendedor."
@@ -86,6 +86,18 @@ Os documentos do comprador e do imóvel que o banco e o cartório pedem estão n
 ## Parcelamento e o programa de 2019
 
 A Lei 2.567/2019 trouxe descontos para quem pagasse à vista ou parcelado o ITBI de transmissões antigas. Os percentuais eram de 30%, 20% ou 10% para um grupo de operações, e de 50%, 40% ou 30% para outro. As parcelas eram mensais, sem valor inferior a 1 UFM, e a operação perdia o desconto se o parcelamento não fosse quitado. Esses descontos valiam para pedidos feitos até 30 de junho de 2020. Por isso, hoje, ele não serve para uma compra nova. O tema do parcelamento em outras cidades está no artigo sobre [ITBI parcelado](/artigos/itbi-parcelado).
+
+## Contrato com banco ou escritura: qual data conta
+
+Na compra com financiamento, o documento que serve de base costuma ser o contrato assinado com o banco. Na compra à vista, costuma ser a escritura pública. A faixa de alíquota depende da data desse documento em relação ao pagamento, então a data de assinatura é a referência que você precisa anotar. Essa é a leitura que faz mais sentido com o texto da lei, mas o cartório e a Semef são quem confirmam qual instrumento vale no seu caso.
+
+Se a escritura for lavrada em outro município, a lei dá mais prazo: a alíquota de 1,8% vale para o pagamento feito até 30 dias depois da lavratura. Por isso, informe ao cartório onde o instrumento foi lavrado antes de gerar a guia.
+
+## Guia que veio diferente do combinado
+
+Se a guia vier com base ou alíquota que você não reconhece, não pague sem entender a diferença. Peça à Semef o demonstrativo de cálculo, com o valor da base, a alíquota aplicada e a faixa usada. Compare essa faixa com a data do seu pagamento e com a data do instrumento. Quando a divergência é de faixa, o motivo costuma ser a data: um pagamento depois da lavratura sai na faixa de 1,9% ou 2%, e não na de 1,8%.
+
+Quando a divergência é de base, peça a memória de cálculo do valor venal e conteste por escrito, com a matrícula, o contrato e o preço efetivamente pago. Guarde a resposta da prefeitura, porque ela pode ser necessária no cartório ou em uma discussão posterior. Em valores altos, o acompanhamento de um advogado tributarista costuma compensar.
 
 ## Erros comuns
 

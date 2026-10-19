@@ -83,7 +83,7 @@ Renato pode compartilhar, pelo app da conta digital, os extratos com o banco que
 
 Se Renato quisesse liberar também os investimentos, não haveria motivo no caso dele. A LGPD fala em princípio da necessidade, que é a ideia de usar apenas os dados necessários para a finalidade, e essa é a regra prática mais útil para quem compartilha.
 
-## Golpes e cuidados
+### Golpes e cuidados
 
 - **Consentimento pedido por telefone, WhatsApp ou link.** O compartilhamento é confirmado no app da instituição. Quem pede senha por outro canal está tentando enganar você.
 - **Instituição com nome parecido.** Confira o nome completo antes de confirmar.
@@ -110,7 +110,7 @@ O consentimento define o uso. Se você autorizou o compartilhamento para anális
 
 A LGPD (Lei 13.709/2018) também garante que o titular pode pedir informações sobre o tratamento dos seus dados e revogar o consentimento a qualquer momento. Guarde as mensagens em que a instituição explica o uso, porque elas ajudam se houver dúvida depois.
 
-## Perguntas para fazer ao banco antes de consentir
+### Perguntas para fazer ao banco antes de consentir
 
 1. Vocês usam Open Finance na análise do financiamento? Para qual finalidade exata?
 2. Quais categorias de dados são necessárias para essa análise?

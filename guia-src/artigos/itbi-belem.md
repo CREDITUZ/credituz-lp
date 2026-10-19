@@ -1,10 +1,10 @@
 ---
-title: "ITBI em Belém: alíquota de 3%, pagamento antecipado e prazos de 2026"
+title: "ITBI em Belém: alíquota de 3% e pagamento antecipado em 2026"
 description: "ITBI em Belém: a alíquota geral é 3%, há redução de 50% para pagamento em até 60 dias e a regra vem das leis 8.792/2010, 10.251/2025 e 10.308/2026."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "A alíquota geral do ITBI em Belém é 3%, conforme o texto da Lei 8.792/2010 atualizado pela Lei 10.308/2026."
   - "Pagar em até 60 dias da data do ato que transmite o imóvel reduz a alíquota pela metade, para 1,5%, segundo a Lei 10.308/2026."
@@ -94,6 +94,19 @@ Antes de começar, confira no portal da Sefin se o serviço está no ar e se a v
 ## Parcelamento
 
 Não encontrei, nas normas e reportagens consultadas, previsão de parcelamento do ITBI em Belém. A pergunta deve ir à Sefin antes da assinatura. Se a alternativa for pagar com recursos do financiamento, pergunte ao banco se ele aceita incluir o imposto no valor financiado e quanto isso custa em juros. O tema está no artigo sobre [ITBI parcelado](/artigos/itbi-parcelado).
+
+## Quem paga e como organizar o prazo
+
+Em regra, as leis municipais apontam o comprador como contribuinte do ITBI. O contrato de compra pode dividir o custo de outro jeito entre as partes, mas essa divisão vale só entre elas, e a Sefin cobra de quem a lei indica. Por isso, deixe escrito no contrato quem paga o imposto e em que data.
+
+Como a redução depende da data do ato que transmite o imóvel, vale montar um calendário logo na assinatura. Veja a sequência prática:
+
+1. Anote a data do ato de transmissão, que é a data do contrato ou da escritura, conforme o instrumento usado.
+2. Some 60 dias a partir dessa data e marque o prazo final no calendário, com alguns dias de folga.
+3. Peça à Sefin a guia com antecedência, para conferir a alíquota e a base antes do vencimento.
+4. Pague dentro do prazo e guarde o comprovante, porque o cartório só registra depois de comprovado o pagamento integral.
+
+O cuidado com o calendário é o que separa a alíquota de 1,5% da de 3%, e essa diferença, em um imóvel de R$ 500 mil, passa de R$ 7.000. Quando o financiamento demora para sair, o prazo pode correr sem que o banco ou o vendedor percebam, por isso o controle é de quem compra.
 
 ## Erros comuns
 

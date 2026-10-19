@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "A Lei 14.620/2023 (art. 11, IX, f) exige que a família mantenha o imóvel para uso próprio e veda empréstimo, locação, venda ou negociação que descaracterize o benefício."
-  - "Nos imóveis do FAR e do FDS, a transferência entre vivos fica vedada por 60 meses, ou até a quitação antecipada (Portaria MCID 1.248/2023, art. 6º)."
+  - "Nos imóveis do FAR e do FDS, a transferência entre vivos fica vedada por 60 meses, e nos casos de quitação antecipada, até a quitação (Portaria MCID 1.248/2023, art. 6º)."
   - "Nas faixas com financiamento bancário, o imóvel fica em garantia ao banco até a quitação, e a venda depende de quitar ou de o banco aceitar a transferência."
   - "Vender em desacordo com as regras pode levar à retomada do imóvel pelo fundo, o que é um risco para quem vende e para quem compra."
   - "O contrato e a matrícula dizem o que vale no seu caso. Antes de qualquer compromisso de venda, peça as duas coisas e a opinião de um advogado."
@@ -44,7 +44,7 @@ Na prática, isso significa que o imóvel subsidiado não pode virar um investim
 
 ## Imóveis do FAR e do FDS: 60 meses
 
-Nos contratos do FAR e do FDS, a Portaria MCID 1.248/2023 traz duas regras que se somam. O artigo 5º prevê uma cláusula de inalienabilidade de 60 meses no imóvel. O artigo 6º proíbe a transferência entre vivos pelo mesmo período, e a proibição também vale até a quitação antecipada do contrato, o que vier primeiro dos dois casos, conforme o texto que li.
+Nos contratos do FAR e do FDS, a Portaria MCID 1.248/2023 traz duas regras que se somam. O artigo 5º prevê uma cláusula de inalienabilidade de 60 meses no imóvel. O artigo 6º proíbe a transferência entre vivos pelo mesmo período e, nos casos de quitação antecipada, até a quitação, segundo o resumo do texto que consultei.
 
 Isso quer dizer que, mesmo depois de muitos anos de pagamento, não é possível passar o imóvel para outra pessoa sem seguir as regras. Quem quer vender cedo precisa, na maioria dos casos, quitar primeiro. O texto sobre [quitação antecipada](/artigos/minha-casa-minha-vida-quitar-antes) mostra como funciona esse caminho.
 
@@ -79,7 +79,7 @@ Em qualquer linha, a resposta certa é a que está no seu contrato. Esta tabela 
 5. Só assine compromisso de venda com cláusula condicionada à quitação ou à aprovação do banco.
 6. Faça a escritura e o registro com um tabelião, e confirme o cancelamento da garantia da antiga.
 
-Os impostos e taxas de transferência, como o ITBI, seguem a regra do município e costumam ser combinados entre as partes. Confirme com o cartório e a prefeitura.
+Os impostos e taxas de transferência, como o ITBI, seguem a regra do município, e o contrato de compra deve dizer quem paga. Confirme com o cartório e a prefeitura.
 
 ## Erros comuns
 

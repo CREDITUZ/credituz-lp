@@ -91,7 +91,7 @@ Quando o consórcio pesa demais, há caminhos que podem ser avaliados com calma:
 
 Cada caminho tem custos próprios, como taxa de administração, e o efeito deve ser calculado com os números reais de cada contrato.
 
-## Cuidados com cotas e ofertas
+### Cuidados com cotas e ofertas
 
 Há ofertas de cota contemplada à venda que costumam ser usadas por golpistas. Antes de comprar uma cota de terceiro, confirme na administradora a titularidade, o status da contemplação e a transferência do contrato. Mais detalhes em [consórcio contemplado à venda](/artigos/consorcio-contemplado-a-venda) e em [golpes de crédito imobiliário](/artigos/golpes-de-credito-imobiliario).
 
@@ -117,7 +117,7 @@ Faça as duas contas antes de pedir a análise, para não depender da resposta d
 
 Para comprovar o consórcio, guarde o contrato, os comprovantes de pagamento e o extrato emitido pela administradora. Se a análise pedir, esses documentos mostram a parcela e o status do grupo sem depender de explicação verbal. O guia sobre [documentos para financiamento](/artigos/documentos-para-financiamento) lista o restante do checklist.
 
-## Consórcio no planejamento de longo prazo
+### Consórcio no planejamento de longo prazo
 
 O consórcio pode fazer parte de um plano para comprar um imóvel, desde que o cronograma seja pensado com antecedência. Se a sua meta é um financiamento em dois ou três anos, uma parcela de consórcio que termina antes do pedido não pesará na análise. Já uma parcela que se estende por anos pode competir com o financiamento durante todo o período. Compare as datas de término de cada compromisso antes de decidir qual deles prioriza.
 

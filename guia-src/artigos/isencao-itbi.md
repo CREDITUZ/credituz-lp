@@ -1,10 +1,10 @@
 ---
 title: "Isenção de ITBI: quando existe e como verificar na sua cidade"
-description: "Isenção de ITBI na compra de imóvel: quem tem direito, quais tipos existem nas cidades e um passo a passo para confirmar a regra da sua prefeitura antes de pagar."
+description: "Isenção de ITBI na compra de imóvel: quem tem direito, quais tipos existem nas cidades e um passo a passo para confirmar a regra da sua prefeitura."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "O ITBI é um imposto municipal, então a isenção nasce da lei de cada cidade, e não de uma regra nacional para a compra da casa própria."
   - "Os tipos mais comuns são a redução ou isenção para o primeiro imóvel, para imóveis de valor baixo, para programas habitacionais e para áreas de interesse social."
@@ -90,6 +90,18 @@ Exemplo ilustrativo, com a alíquota geral de 3%, para mostrar o tamanho do bene
 - Mesmo imóvel, com isenção total, se a lei prever: R$ 0,00
 
 O benefício só entra na conta se o imóvel e o comprador se enquadrarem nas condições. Um limite de valor que seja ultrapassado por pouco pode fazer o benefício desaparecer por inteiro, como acontece com o teto de base de Belo Horizonte.
+
+## Como a isenção muda o plano da compra
+
+Saber cedo se há isenção ou redução evita dois problemas. O primeiro é contar com um valor que não existe e descobrir a diferença na véspera da escritura. O segundo é fechar um orçamento apertado sem reservar o imposto. Por isso, a conferência deve vir antes da proposta de preço, e não depois dela.
+
+Na prática, o plano fica mais seguro quando você faz duas contas. Na primeira, calcula o ITBI com a alíquota geral, para garantir o dinheiro no pior cenário. Na segunda, calcula o ITBI com o benefício, para saber quanto sobra se a isenção for confirmada. Se a sobra for pequena, use o cenário sem benefício como base e trate a economia como margem de segurança, e não como dinheiro garantido.
+
+## Quando a isenção é negada
+
+A negativa pode vir por vários motivos: o imóvel passou do limite de valor, a renda ficou acima do teto, o comprador já tem outro imóvel ou a declaração veio incompleta. Peça a negativa por escrito, com o artigo ou o trecho da lei aplicado. Esse documento ajuda a entender o motivo e, se for o caso, a discutir a interpretação com a prefeitura ou com um advogado.
+
+Se o prazo para pagar a guia estiver correndo, não deixe o registro parado. Pergunte à prefeitura se é possível pagar a guia com a alíquota normal para não perder a data e pedir a restituição do excesso depois, quando a análise estiver concluída. Se isso for permitido, guarde todas as provas, porque a devolução exige comprovação.
 
 ## Erros comuns
 

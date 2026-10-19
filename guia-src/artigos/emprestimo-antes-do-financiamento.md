@@ -66,7 +66,7 @@ Antes de pedir o financiamento, ela pega um empréstimo pessoal de R$ 8.000 em 3
 
 Com o empréstimo, o financiamento possível cai cerca de R$ 52 mil. Esse é o efeito de uma parcela que parece pequena quando comparada à renda. Ela não é a única perda: Mariana também paga juros, que não aparecem na margem, mas saem do seu caixa.
 
-## Exemplo ilustrativo: o CET com tarifa
+### Exemplo ilustrativo: o CET com tarifa
 
 Ainda no mesmo exemplo, suponha que o banco cobre uma tarifa de R$ 400 descontada do valor liberado, de modo que Mariana recebe R$ 7.600 e paga as mesmas 36 parcelas de R$ 615.
 
@@ -113,17 +113,17 @@ Se você já tem uma necessidade real de dinheiro e está em dúvida sobre pegar
 5. **Compare com as alternativas.** Adiar a compra, juntar mais dinheiro, reduzir o valor do imóvel ou quitar uma dívida mais cara são caminhos que podem custar menos.
 6. **Decida só depois de ver os dois números.** O valor do imóvel possível e o custo total do empréstimo.
 
-## Dívidas caras que costumam aparecer antes do financiamento
+### Dívidas caras que costumam aparecer antes do financiamento
 
 Muita gente chega ao financiamento com um cheque especial usado, um rotativo do cartão ou um parcelamento recente. Esses itens são mais caros que um empréstimo comum, e também consomem a margem. Por isso, em alguns casos, trocar uma dívida cara por outra mais barata pode fazer sentido, desde que o total pago diminua e a parcela nova caiba na margem.
 
 Para o cartão, o tema tem detalhes próprios, como o teto de juros do rotativo. Veja [cartão de crédito e financiamento](/artigos/cartao-de-credito-e-financiamento). Para o uso do FGTS como alternativa ao empréstimo, veja [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel), com a ressalva de que as regras variam conforme a situação.
 
-## Como conferir a taxa oficial
+### Como conferir a taxa oficial
 
 As taxas de juros divulgadas por um levantamento de mercado, como o do Procon de Juiz de Fora usado neste texto, são referências. Para a série oficial, consulte as estatísticas de taxas de juros das operações de crédito no site do Banco Central, que publica as médias por modalidade. Use essa informação para checar se a taxa oferecida está na faixa do mercado, e depois compare os CETs das propostas concretas.
 
-## Erros que mais custam caro
+### Erros que mais custam caro
 
 - **Pegar empréstimo para pagar outro empréstimo sem olhar o total.** Você pode aumentar o prazo e o valor pago.
 - **Escolher pelo valor da parcela.** Uma parcela menor quase sempre significa prazo maior e custo total maior.

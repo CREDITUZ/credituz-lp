@@ -122,6 +122,18 @@ Exemplo ilustrativo e fictício, para mostrar a leitura. Os nomes e números sã
 
 Nessa matrícula, o imóvel parece limpo, mas a leitura exige cuidado. O ato 5 mostra que João é o dono atual, e o contrato precisa bater com o nome dele. Se o ato 4 não existisse, a hipoteca do ato 3 ainda estaria ativa, e a compra exigiria a quitação antes do registro.
 
+## Como pedir a matrícula
+
+Você pode pedir a matrícula de duas formas: presencial, no cartório competente, ou eletrônica, pela plataforma do Operador Nacional do Registro Eletrônico de Imóveis (ONR) ou pelo site do próprio cartório. Para o pedido, tenha o número da matrícula, que aparece no carnê do IPTU ou em anúncios bem feitos, e o endereço completo. Se você não tiver o número, o cartório pode localizar o imóvel pela inscrição e pelo endereço, mas o prazo pode ser maior.
+
+Peça sempre a certidão de inteiro teor, e não apenas um resumo. O inteiro teor reproduz todos os atos, inclusive os já cancelados, o que ajuda a conferir se a baixa de uma hipoteca antiga foi registrada de fato. Guarde a versão em PDF com a data de emissão no nome do arquivo, para controlar a validade.
+
+## Quando chamar um advogado
+
+Nem toda restrição exige advogado, mas alguns sinais justificam a consulta antes de assinar: penhora ou indisponibilidade ativa, inventário em andamento, dívida do vendedor com garantia real sobre o imóvel, usufruto ou bem de família que não está claro. Nessas situações, o custo da consulta costuma ser pequeno comparado ao risco de comprar um imóvel com problema.
+
+O advogado também ajuda quando a matrícula tem atos antigos sem explicação, quando a construção não está averbada e o vendedor se recusa a regularizar, ou quando a área da matrícula é muito diferente da real. Nesses casos, a negociação pode precisar de cláusulas de prazo e de garantia, escritas no contrato.
+
 ## Erros comuns
 
 - **Ler só a primeira página.** Os atos mais recentes, como penhoras e hipotecas, costumam estar no fim.
