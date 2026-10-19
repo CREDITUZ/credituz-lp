@@ -4,7 +4,7 @@ description: "Como comprar imóvel usado pelo Minha Casa Minha Vida em 2026: o q
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 11
 key_points:
   - "O programa aceita imóvel usado nas quatro faixas, com os mesmos limites de renda e de valor do imóvel novo."
   - "Pela regra do FGTS, o imóvel é novo até 180 dias do habite-se, ou depois disso se nunca foi habitado nem vendido."

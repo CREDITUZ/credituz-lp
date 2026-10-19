@@ -4,7 +4,7 @@ description: "Como se inscrever no Minha Casa Minha Vida em 2026: Faixa 1 pelo C
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 10
 key_points:
   - "Não existe uma inscrição nacional única. O caminho depende da faixa e do tipo de imóvel."
   - "Para o imóvel quase todo subsidiado da Faixa 1, o caminho é o CadÚnico mais o cadastro habitacional da prefeitura ou do estado."

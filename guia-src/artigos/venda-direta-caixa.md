@@ -8,18 +8,18 @@ reading_minutes: 8
 key_points:
   - "A Caixa vende imóveis que não saíram no leilão por duas modalidades online: compra direta (preço fixo, leva quem paga primeiro) e venda online (disputa por lances com cronômetro)."
   - "O valor anunciado é o mínimo aceito pela Caixa e não pode ser negociado para baixo."
-  - "Depois da aprovação, o comprador paga pelo menos 5% do valor mínimo em até 2 dias úteis."
+  - "Depois da homologação da proposta, o comprador paga pelo menos 5% do valor mínimo em até 2 dias úteis."
   - "Nessas modalidades não há comissão de leiloeiro: o corretor credenciado é pago pela Caixa."
   - "Desistir fora do prazo ou perder prazos repetidamente pode gerar multa de 5% e bloqueio no cadastro da Caixa, segundo as regras de 2025."
 faq:
   - q: "O que é venda direta da Caixa?"
-    a: "É a venda de imóveis retomados que não foram arrematados no leilão. A Caixa anuncia um valor mínimo e vende pela internet, sem leiloeiro. Desde 2025, a modalidade antes chamada venda direta online passou a se chamar compra direta."
+    a: "É a venda de imóveis retomados que não foram arrematados no leilão. A Caixa anuncia um valor mínimo e vende pela internet, sem leiloeiro. Desde 2025, a modalidade antes chamada venda direta online aparece no portal da Caixa como compra direta."
   - q: "Dá para financiar imóvel da venda direta da Caixa?"
     a: "Se a página do imóvel indicar que aceita financiamento, sim. A Caixa orienta fazer a análise de crédito antes de enviar a proposta. Muitos imóveis aceitam só pagamento à vista."
   - q: "Posso desistir depois de vencer a compra direta?"
-    a: "Segundo as regras divulgadas em 2025, há 7 dias depois da aprovação para desistir com devolução integral. Depois disso, a desistência pode gerar multa de 5% e bloqueio, e não é possível depois de assinar o contrato."
+    a: "Segundo as regras que a Caixa divulgou em 2025, há 7 dias depois da homologação para desistir com devolução integral. Depois disso, desistências repetidas ou prazos perdidos podem gerar multa de 5% e bloqueio, e não é possível desistir depois de assinar o contrato."
   - q: "Quem paga o condomínio atrasado no imóvel da venda direta?"
-    a: "Depende da página do imóvel. Pelas regras divulgadas em 2025, o comprador assume o condomínio até 10% do valor de avaliação, e o IPTU em geral fica com ele. Confira cada anúncio."
+    a: "Depende da página do imóvel: a Caixa manda consultar as regras da venda online e o anúncio. Segundo a imprensa especializada, desde 2025 o comprador costuma assumir o condomínio até 10% do valor de avaliação, e o IPTU em geral fica com ele. Confira cada anúncio."
   - q: "Preciso pagar corretor na venda direta da Caixa?"
     a: "Não. A Caixa informa que remunera o corretor credenciado. O comprador só paga comissão ao leiloeiro no leilão e na licitação aberta."
 sources:
@@ -31,8 +31,6 @@ sources:
     url: "https://www.jb.com.br/editorias/2026/10/10/imoveis-caixa-leilao-venda-direta.html"
   - title: "Lei 9.514/1997, alienação fiduciária de imóvel (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
-  - title: "Caixa: regras da venda online de imóveis"
-    url: "https://www.caixa.gov.br/Downloads/habitacao-documentos-gerais/regras-da-venda-online-imoveis-caixa.pdf"
 related: [imovel-de-leilao-caixa, financiamento-caixa, avaliacao-do-imovel-pelo-banco, custos-para-comprar-imovel]
 ---
 
@@ -48,40 +46,39 @@ O preço costuma ficar abaixo da avaliação, mas não existe um desconto padrã
 
 ## Compra direta e venda online: as diferenças
 
-Em agosto de 2025, a Caixa mudou as regras das duas modalidades e trocou o nome de "venda direta online" para "compra direta". As principais regras, segundo a Caixa e a imprensa:
+A partir de agosto de 2025, a Caixa mudou as regras das duas modalidades, e a antiga "venda direta online" passou a aparecer como "compra direta". As principais regras, segundo a página de perguntas frequentes da Caixa e a imprensa:
 
 | Ponto | Compra direta | Venda online |
 |---|---|---|
 | Como se vence | primeira proposta igual ou acima do valor mínimo | maior lance quando o cronômetro zera |
 | Disputa | não há | lances ilimitados até o fim do prazo |
-| Prorrogação | não se aplica | lance alto nos minutos finais estende o cronômetro |
-| Aprovação | imediata: o boleto pode ser emitido logo | a Caixa homologa em até 5 dias úteis |
+| Prorrogação | não se aplica | lance nos últimos 5 minutos acrescenta 5 minutos ao cronômetro |
+| Aprovação | a primeira proposta válida no valor mínimo leva | a Caixa homologa em até 5 dias úteis após o fim do cronômetro |
 | Valor anunciado | mínimo, sem negociação | lance inicial mínimo |
 | Comissão | não há; corretor pago pela Caixa | não há; corretor pago pela Caixa |
-| Sinal | pelo menos 5% do valor mínimo, em até 2 dias úteis | idem, após a homologação |
+| Sinal | pelo menos 5% do valor mínimo, em até 2 dias úteis após a homologação | idem |
 
-Desde a mudança de 2025, só os lances que superam o maior lance estendem o cronômetro da venda online. Se o vencedor desistir, a Caixa pode chamar o próximo da lista, em até 5 dias úteis, quantas vezes for preciso.
+Segundo a imprensa especializada, desde a mudança de 2025 só os lances que superam o maior lance estendem o cronômetro da venda online. Se o vencedor desistir, a Caixa pode chamar o próximo da lista, em até 5 dias úteis, quantas vezes for preciso.
 
-Existe ainda a **venda direta ao ocupante**, reservada a quem mora no imóvel, como o antigo mutuário. Ela tem formulário próprio, e o ocupante paga o valor mínimo mais despesas que a Caixa teve. Se não pagar o boleto em 2 dias úteis, perde a proposta e pode ser suspenso de outras vendas.
+Existe ainda a **venda direta ao ocupante**, reservada ao antigo mutuário, a quem ocupa o imóvel ou a quem tem ação judicial sobre ele. Ela tem formulário próprio. Se o ocupante não pagar o boleto em 2 dias úteis após a homologação, a proposta é cancelada, o imóvel volta à venda e ele pode ser suspenso de outras vendas.
 
 ## Quem pode comprar
 
 Pelas regras da Caixa:
 
 - pessoas com 18 anos ou mais, ou emancipadas a partir de 16;
-- empresas estabelecidas no Brasil, por representante legal;
-- estrangeiros com CPF, com documentos extras que a Caixa pode pedir.
+- empresas estabelecidas no Brasil, por representante legal.
 
-Desde 2025, MEI (microempreendedor individual) não pode comprar como empresa, segundo a Caixa, por restrição legal.
+MEI (microempreendedor individual) não pode comprar, segundo a Caixa. Impedimentos previstos no edital ou nas regras da venda online prevalecem sobre essa lista.
 
 ## Financiamento e FGTS na venda direta
 
 A página de cada imóvel diz as formas de pagamento aceitas: à vista, financiamento da Caixa, FGTS ou uma combinação. O que observar:
 
 1. **Faça a análise de crédito antes da proposta.** A Caixa orienta que quem vai financiar ou usar FGTS passe pela análise de risco e pela conferência das condições numa agência, num correspondente bancário ou nos canais digitais. Proposta vencedora sem crédito aprovado pode ser cancelada.
-2. **A cota incide sobre o valor de avaliação.** O banco faz a avaliação do imóvel como em qualquer financiamento. Se ela vier abaixo do preço, a entrada aumenta. Veja como funciona em [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco).
-3. **O FGTS segue as regras de sempre**: 3 anos de carteira assinada, imóvel residencial urbano na cidade onde você mora ou trabalha, não ter outro imóvel nessa cidade e valor dentro do teto do SFH. Detalhes em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
-4. **Trocar financiamento por pagamento à vista** é possível, pelas regras de 2025, pagando o valor total em até 10 dias depois da aprovação ou do pagamento do sinal.
+2. **A cota incide sobre o menor valor entre o preço e a avaliação.** O banco faz a avaliação do imóvel como em qualquer financiamento. Se ela vier abaixo do preço, a entrada aumenta. Veja como funciona em [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco).
+3. **O FGTS segue as regras de sempre**: 3 anos de trabalho com depósito no FGTS, somando todos os empregos, imóvel residencial urbano na cidade onde você mora ou trabalha, não ter outro imóvel nessa cidade e valor dentro do teto do SFH. Detalhes em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
+4. **Trocar financiamento por pagamento à vista** é possível, pelas regras de 2025, pagando o valor total em até 10 dias depois da homologação ou do pagamento do sinal.
 
 Taxa, cota e prazo do financiamento são os da linha de crédito da Caixa que você contratar, explicadas em [financiamento da Caixa](/artigos/financiamento-caixa).
 
@@ -104,9 +101,9 @@ Para aprovar a primeira parcela do SAC com o limite comum de 30% da renda, a fam
 
 ## Desistência, prazos e penalidades
 
-Aqui está o ponto em que a venda direta mais pega o comprador desatento. Pelas regras divulgadas pela Caixa em 2025:
+Aqui está o ponto em que a venda direta mais pega o comprador desatento. Pelas regras divulgadas pela Caixa em 2025, segundo a imprensa:
 
-- **Arrependimento em 7 dias:** se você desistir em até 7 dias da aprovação, recebe de volta 100% do que pagou.
+- **Arrependimento em 7 dias:** se você desistir em até 7 dias da homologação, recebe de volta 100% do que pagou.
 - **Desistência depois disso:** é possível, mas não depois de assinado o contrato ou de feita a transferência na prefeitura.
 - **Botão de cancelamento:** permite cancelar antes de pagar o boleto, o que libera o imóvel para o próximo interessado.
 - **Penalidades:** desistências repetidas ou prazos perdidos podem gerar multa de 5% do valor da venda, bloqueio permanente no cadastro da Caixa, ou as duas coisas.
@@ -117,7 +114,7 @@ Não dê lance "para garantir" sem ter dinheiro e crédito prontos. Leia sempre 
 
 ### Condomínio e IPTU
 
-Pelas regras divulgadas em 2025, a Caixa deixou de quitar automaticamente IPTU e condomínio nessas modalidades. Em geral, o IPTU fica com o comprador, e o condomínio atrasado é responsabilidade dele até 10% do valor de avaliação da Caixa. O comprador pode enviar as cobranças pelo sistema da Caixa para análise, inclusive quando suspeitar de valor abusivo. A regra de cada imóvel está no anúncio, então confira antes.
+Desde 2025, a Caixa deixou de quitar automaticamente IPTU e condomínio nessas modalidades, segundo a imprensa especializada. Em geral, o IPTU fica com o comprador, e o condomínio atrasado é responsabilidade dele até 10% do valor de avaliação da Caixa. A própria Caixa orienta conferir a regra no anúncio de cada imóvel. O comprador pode enviar as cobranças pelo sistema da Caixa para análise, inclusive quando suspeitar de valor abusivo. A regra de cada imóvel está no anúncio, então confira antes.
 
 ### Ocupação
 
@@ -134,7 +131,7 @@ A Caixa não entrega chaves para visita, e fotos e áreas são de referência. O
 3. **Busque no portal de venda de imóveis da Caixa**, filtrando por modalidade, cidade e forma de pagamento.
 4. **Leia a página do imóvel e a matrícula.** Confira ocupação, regra de dívidas, área e ônus.
 5. **Visite a rua e o prédio** e converse com o síndico sobre dívidas e ocupação.
-6. **Envie a proposta**, escolhendo um corretor credenciado. Na compra direta, ela é aprovada na hora se for a primeira no valor mínimo.
+6. **Envie a proposta**, escolhendo um corretor credenciado. Na compra direta, leva a primeira proposta válida no valor mínimo.
 7. **Pague o sinal em até 2 dias úteis** e siga os prazos para o restante ou para o financiamento.
 8. **Assine a escritura ou o contrato e registre no cartório.** A propriedade só passa com o registro.
 
@@ -151,6 +148,6 @@ A Caixa não entrega chaves para visita, e fotos e áreas são de referência. O
 - Compra direta: preço fixo, vence o primeiro. Venda online: disputa por lances com cronômetro.
 - Sinal de pelo menos 5% em até 2 dias úteis. Sem comissão de leiloeiro.
 - Financiamento e FGTS só quando o anúncio aceitar, com análise de crédito antes.
-- Arrependimento com devolução integral em 7 dias; depois, risco de multa de 5% e bloqueio.
+- Arrependimento com devolução integral em 7 dias da homologação; depois, risco de multa de 5% e bloqueio.
 
 Regras de outubro de 2026, com base nas mudanças da Caixa de agosto de 2025. A Caixa pode alterar condições a qualquer momento, e o que vale é a página do imóvel e as regras publicadas no portal no dia da compra. Se o imóvel tiver ocupante ou pendência judicial, procure um advogado antes de comprar.
