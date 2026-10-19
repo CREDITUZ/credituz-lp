@@ -4,7 +4,7 @@ description: "Entenda os motivos mais comuns de financiamento imobiliário negad
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Os motivos mais comuns são renda insuficiente para a parcela, restrição no CPF, dívidas altas no SCR, documentação com problema e imóvel que não passa na avaliação."
   - "O banco não é obrigado a detalhar o motivo, mas você pode pedir esclarecimento e revisão de decisão automatizada (Lei 12.414/2011 e LGPD)."
@@ -100,6 +100,18 @@ Nenhuma opção é "a certa". A Price aumenta o valor possível porque a parcela
 - **Reavalie o imóvel.** Se o problema foi o imóvel, peça ao vendedor que regularize a matrícula ou procure outro.
 - **Considere compor renda.** Com outra pessoa como proponente, a margem aumenta. Todos os participantes passam pela análise.
 - **Compare bancos com critério.** Políticas de risco variam. Escolha poucos bancos e compare pelo CET (Custo Efetivo Total).
+
+## Alternativas se o perfil não muda rápido
+
+Às vezes a causa da recusa não se resolve em poucos meses: a renda é a que é, ou a dívida é grande demais para quitar logo. Nesses casos, vale olhar para outras rotas, sabendo que cada uma tem custo e risco próprios.
+
+- **Mudar o imóvel, não o crédito.** Um imóvel mais barato ou em outra região pode caber na parcela aprovada. Muitas vezes o banco não negou você, negou aquele valor.
+- **Programas habitacionais.** Se a sua renda familiar está dentro dos limites, o Minha Casa, Minha Vida tem juros menores e, em algumas faixas, subsídio, o que reduz a parcela. Confira as faixas e limites em vigor antes de contar com ele.
+- **Usar o FGTS na entrada.** Reduz o valor financiado e, portanto, a parcela. Confira se você cumpre as condições de uso.
+- **Consórcio.** Não tem juros, mas tem taxa de administração e você não sabe quando será contemplado. Também passa por análise de crédito na hora de usar a carta.
+- **Esperar e juntar entrada maior.** É a opção menos emocionante e muitas vezes a mais barata: cada real a mais de entrada é um real a menos pagando juros por 30 anos.
+
+Seja qual for a rota, não assine nada com o vendedor contando com um crédito que ainda não foi aprovado.
 
 ## Erros comuns depois de uma recusa
 

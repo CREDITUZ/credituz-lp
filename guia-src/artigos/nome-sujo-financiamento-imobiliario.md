@@ -4,7 +4,7 @@ description: "Com o CPF negativado, a aprovação do financiamento imobiliário 
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Com restrição ativa no CPF, a chance de aprovação em financiamento imobiliário é muito baixa nos grandes bancos."
   - "Não há lei que proíba o banco de emprestar a quem está negativado: é a política de risco de cada instituição que barra."
@@ -96,6 +96,16 @@ Nenhuma delas é atalho mágico, e cada uma tem custo:
 - **Financiamento direto com a construtora.** Algumas incorporadoras parcelam parte do preço, com análise própria e, em geral, juros e correção diferentes dos bancos. Leia o contrato com cuidado.
 - **Consórcio.** A contemplação também passa por análise de crédito no momento de usar a carta, mas você ganha tempo para regularizar enquanto paga. Compare em [consórcio ou financiamento](/artigos/consorcio-ou-financiamento).
 - **Juntar mais e comprar à vista ou com saldo menor.** Mais lento, sem análise de crédito.
+
+## Como negociar a dívida da forma certa
+
+Antes de fechar qualquer acordo, alguns cuidados ajudam a garantir que ele realmente limpe o seu nome:
+
+- **Negocie direto com o credor ou por canal oficial.** Bancos, lojas e operadoras têm canais próprios, e os bureaus oferecem plataformas de negociação. Confira se a empresa que cobra é de fato a dona da dívida ou uma cessionária legítima.
+- **Peça o acordo por escrito.** O documento deve mostrar o valor total, o número de parcelas, as datas e o compromisso de retirar a negativação.
+- **Confirme se a dívida está prescrita.** Se a cobrança já prescreveu, você não é obrigado a pagar, embora possa querer pagar por outros motivos, por exemplo se for cliente do mesmo banco. Em caso de dúvida, consulte o Procon ou um advogado.
+- **Prefira valor que você consegue cumprir.** Um acordo quebrado costuma reativar a dívida original e a negativação.
+- **Confira a baixa.** Depois do pagamento, consulte os bureaus. Se o registro continuar além dos 5 dias úteis, cobre o credor com o comprovante.
 
 ## Erros comuns e cuidados
 

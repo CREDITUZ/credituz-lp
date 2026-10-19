@@ -4,7 +4,7 @@ description: "Não existe score mínimo oficial para financiar imóvel. Veja com
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Nenhum banco divulga um score mínimo oficial para financiamento imobiliário: cada um usa modelo e política próprios."
   - "O score de Serasa e Boa Vista vai de 0 a 1.000 e estima a chance de você pagar em dia, mas é só uma parte da análise."

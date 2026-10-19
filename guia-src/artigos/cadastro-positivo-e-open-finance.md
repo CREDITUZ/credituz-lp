@@ -1,10 +1,10 @@
 ---
 title: "Cadastro Positivo e Open Finance: como ajudam no crédito"
-description: "Veja como o Cadastro Positivo e o Open Finance mostram ao banco que você paga em dia, o que a lei garante sobre seus dados e quando compartilhar ajuda no financiamento."
+description: "Como o Cadastro Positivo e o Open Finance mostram ao banco que você paga em dia, o que a lei garante sobre seus dados e quando compartilhar ajuda a financiar."
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "O Cadastro Positivo registra contas e parcelas pagas em dia; desde a Lei Complementar 166/2019, a inclusão é automática e o cancelamento é gratuito."
   - "No Serasa Score, o histórico de pagamentos do Cadastro Positivo é o fator de maior peso (29%, segundo a Serasa)."
@@ -111,6 +111,25 @@ Exemplo ilustrativo. Júlia é designer autônoma. Ela recebe em média R$ 8.500
 - Se Júlia compartilhar pelo Open Finance os extratos da conta principal, e o banco aceitar essa informação na análise, ele pode enxergar entradas regulares maiores. Mas o banco ainda pode se limitar à renda declarada, e muitos fazem isso para crédito imobiliário.
 
 A lição prática: declarar a renda real no Imposto de Renda e concentrar recebimentos em uma conta continuam sendo as medidas mais fortes. O Open Finance ajuda a mostrar, mas não substitui a comprovação formal.
+
+Veja o tamanho da diferença, com uma taxa hipotética de 11,5% ao ano, prazo de 360 meses e tabela SAC:
+
+| Renda considerada pelo banco | Parcela máxima (30%) | Valor financiável aproximado |
+|---|---|---|
+| R$ 6.000 (só a declarada) | R$ 1.800 | R$ 151 mil |
+| R$ 8.500 (se a renda real for aceita) | R$ 2.550 | R$ 214 mil |
+
+São cerca de R$ 63 mil de diferença no crédito, só pela renda que o banco consegue enxergar e aceitar. Os valores são aproximados e servem para mostrar a ordem de grandeza.
+
+## Quais dados o banco vê em cada caso
+
+Uma dúvida comum é o que exatamente fica exposto. Resumindo o que cada sistema entrega a quem consulta:
+
+- **Cadastro Positivo.** O consulente vê sua nota e, com autorização específica, o histórico de pagamentos: se pagou em dia, se atrasou, quantos contratos tem. Não vê seu extrato nem o que você comprou.
+- **Open Finance.** A instituição receptora vê apenas as categorias de dados que você escolheu no consentimento (por exemplo, contas e cartões, sem investimentos), pelo prazo que você definiu.
+- **SCR.** O banco consulta, com sua autorização, o saldo das suas operações de crédito em todo o sistema, incluindo valores a vencer, vencidos e limites contratados.
+
+No caso do Cadastro Positivo, a Lei 12.414/2011 proíbe expressamente guardar informações sensíveis, como saúde ou religião, e informações sem relação com a análise de risco de crédito.
 
 ## Cuidados e erros comuns
 
