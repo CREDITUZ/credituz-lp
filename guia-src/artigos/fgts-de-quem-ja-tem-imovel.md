@@ -18,12 +18,14 @@ faq:
   - q: "Imóvel comercial bloqueia o FGTS?"
     a: "A regra de bloqueio fala em imóvel residencial. Imóvel comercial, em regra, não impede, mas a decisão final cabe ao banco na análise, e o imóvel comercial também não serve para a compra com FGTS."
   - q: "Quanto tempo preciso esperar para usar o FGTS de novo no mesmo imóvel?"
-    a: "As fontes consultadas citam intervalo mínimo de 3 anos entre usos do FGTS em um mesmo imóvel. Confirme com a Caixa ou com o banco, porque a regra é aplicada na análise."
+    a: "Um manual comercial indica 3 anos desde a última utilização do FGTS no mesmo imóvel. A lei remete essa regra ao Conselho Curador, então confirme o prazo com a Caixa ou com o banco."
 sources:
   - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, art. 20, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
   - title: "Lei 8.036/1990 (Lei do FGTS), texto consolidado, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
+  - title: "Manual de utilização do FGTS, Ademicon (fonte comercial, não conferida no manual da Caixa)"
+    url: "https://ademicon.com.br/ademicon-imagens-wp/Manual-de-utliza%C3%A7%C3%A3o-do-FGTS.pdf"
   - title: "Projeto de Lei 481/2026 sobre FGTS para outro imóvel a mais de 50 km (Correio 24 Horas, 31/08/2026)"
     url: "https://www.correio24horas.com.br/economia/comprar-outro-imovel-a-50-km-do-trabalho-pode-ter-liberacao-de-fgts-em-novo-projeto-na-camara-veja-detalhes-0826"
 related: [fgts-na-compra-do-imovel, fgts-em-outra-cidade, fgts-terreno]
@@ -50,9 +52,9 @@ A tabela é um resumo. A análise do banco considera o endereço do seu trabalho
 
 Algumas situações aparecem com frequência:
 
-- **Herança em cidade distante.** Um apartamento herdado em outro estado, sem relação com o seu endereço, em geral não impede. Se a cidade for a mesma em que você mora, impede.
+- **Herança em cidade distante.** Um apartamento herdado em outro estado, sem relação com o seu endereço, em geral não impede. Se a cidade for a mesma em que você mora, impede. Um manual de uso do FGTS de fonte comercial (Ademicon) também cita que uma herança de 40% ou mais pode impedir o uso. Esse ponto não foi confirmado em norma oficial, então confirme com o banco antes de declarar.
 - **Fração ideal.** Se você é dono de uma parte de um imóvel residencial na mesma região, a fração pode bloquear. A análise depende de quanto você tem e de onde o imóvel fica.
-- **Promessa de compra não registrada.** Se você ainda tem um contrato de compra e venda de imóvel residencial na região, mas a escritura não foi feita, esse contrato também conta. As fontes listam o promitente comprador entre as situações que bloqueiam.
+- **Promessa de compra não registrada.** Se você ainda tem um contrato de compra e venda de imóvel residencial no local de moradia ou trabalho, mas a escritura não foi feita, esse contrato também conta. O mesmo manual comercial lista o promitente comprador entre as situações que bloqueiam, salvo se a venda for comprovada antes da assinatura.
 - **Divórcio ou separação.** Se o imóvel ficou com o ex-cônjuge e você não tem mais parte nele, a situação muda. Se ainda há participação em nome do seu CPF, ela conta.
 - **Morar em imóvel de parente.** A regra fala em ser dono, promitente comprador ou usufrutuário de imóvel residencial. Morar de favor em casa dos pais não é a mesma coisa que ser dono, mas a análise depende da situação de cada caso, e o banco pode pedir documentos para confirmar.
 - **Imóvel comercial.** A regra fala em imóvel residencial. Um imóvel comercial, em regra, não impede a compra com FGTS, mas ele não pode ser o imóvel comprado com o saldo, porque a compra exige moradia.
@@ -71,7 +73,7 @@ Se você tem dúvida sobre algum registro, peça uma certidão atualizada antes 
 
 ## O intervalo de 3 anos no mesmo imóvel
 
-Além da regra de localização, existe um intervalo entre usos do FGTS. Se o mesmo imóvel já foi negociado com FGTS recentemente, a nova operação só é liberada depois de um intervalo mínimo, que as fontes consultadas indicam como de 3 anos. O banco confere isso na matrícula do imóvel. Esse ponto também aparece em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
+Além da regra de localização, existe um intervalo entre usos do FGTS no mesmo imóvel. O artigo 20, § 4º, da Lei 8.036 proíbe nova operação com recursos do fundo no imóvel já financiado com FGTS, na forma regulamentada pelo Conselho Curador, e a própria lei não fixa o prazo em anos. O manual de uso do FGTS da Ademicon, de fonte comercial, indica 3 anos desde a última utilização. Não localizei a norma do Conselho com esse número, então o prazo deve ser confirmado no Manual da Moradia Própria da Caixa ou com o banco. O banco confere isso na matrícula do imóvel. Esse ponto também aparece em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
 Para o comprador, o efeito é simples: um imóvel que foi comprado com FGTS por outra pessoa recentemente pode não aceitar o saldo. Antes de fechar negócio, peça a matrícula atualizada e pergunte ao banco se há bloqueio. Se o imóvel tem histórico de uso, o [registrato](/artigos/registrato) ajuda a entender o seu próprio cadastro, mas não substitui a certidão do cartório.
 
@@ -102,7 +104,7 @@ Por isso, não declare uma situação que você não tem, e não deixe de declar
 - Ter imóvel não bloqueia sempre. O que bloqueia é imóvel residencial urbano na cidade onde você mora ou trabalha, em município vizinho ou na mesma região metropolitana.
 - Fração ideal e promessa de compra também podem bloquear.
 - Imóvel comercial, em regra, não bloqueia, mas não serve para a compra com FGTS.
-- Há um intervalo de 3 anos entre usos do FGTS no mesmo imóvel.
+- Há um intervalo entre usos do FGTS no mesmo imóvel, que um manual comercial indica em 3 anos e que deve ser confirmado na Caixa.
 - A declaração de bens tem peso legal, e informação falsa pode gerar consequências.
 
 Um projeto de lei em tramitação na Câmara trata de compra de outro imóvel quando a distância de trabalho ou moradia passa de 50 km, mas ele ainda não está em vigor. Acompanhe o tema em [o que pode mudar no FGTS](/artigos/fgts-futuro). Para o seu caso concreto, confira as regras no aplicativo FGTS e calcule a entrada com o saldo livre em [quanto posso financiar](/quanto-posso-financiar). As regras citadas valem para outubro de 2026.

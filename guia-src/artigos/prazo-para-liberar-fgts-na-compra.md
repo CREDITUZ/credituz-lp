@@ -24,6 +24,8 @@ sources:
     url: "https://ecarts.com.br/financas/fgts-na-entrada-imovel-2026-como-usar/"
   - title: "Burocracia emperra uso de FGTS para compra de imóveis (CBIC, reprodução de 08/11/2010)"
     url: "https://cbic.org.br/burocracia-emperra-uso-de-fgts-para-compra-de-imoveis/"
+  - title: "Manual de utilização do FGTS, Ademicon (fonte comercial, prazos de compra e amortização)"
+    url: "https://ademicon.com.br/ademicon-imagens-wp/Manual-de-utliza%C3%A7%C3%A3o-do-FGTS.pdf"
   - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, art. 20, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
 related: [fgts-na-compra-do-imovel, documentos-para-usar-fgts, fgts-negado-motivos]
@@ -33,7 +35,7 @@ O FGTS (Fundo de Garantia do Tempo de Serviço) não cai na conta do vendedor no
 
 ## O que o número de dias não mostra
 
-Uma fonte de 2010, publicada pela CBIC, afirmava que a Caixa liberava o valor em até cinco dias depois de receber toda a documentação. Esse dado é antigo e não deve ser usado como referência para 2026, porque o processo mudou desde então. Ele mostra, porém, o ponto central: o prazo depende da documentação completa. Quando algo falta, o processo para, e a espera pode durar semanas ou meses.
+Uma notícia de novembro de 2010, reproduzida pela CBIC, afirmava que a Caixa liberava o valor em no máximo cinco dias depois de receber toda a documentação. Esse dado é antigo e não deve ser usado como referência para 2026, porque o processo mudou desde então. A Caixa também não publica, em página que eu tenha conseguido conferir, um prazo em dias para essa etapa, porque o site bloqueia consultas automatizadas. Ele mostra, porém, o ponto central: o prazo depende da documentação completa. Quando algo falta, o processo para, e a espera pode durar semanas ou meses.
 
 O prazo que você realmente vai viver tem três partes: a análise do crédito, a checagem do uso do FGTS e o registro do imóvel. Cada parte pode atrasar por motivos diferentes, e a liberação do saldo só fecha quando as três estão resolvidas.
 
@@ -78,7 +80,7 @@ Agora, a mesma aprovação com o processo completo de 30 a 60 dias cairia entre 
 
 O exemplo é ilustrativo. Ele não garante prazo, e não considera feriados nem compensações bancárias.
 
-A mesma fonte cita um prazo diferente para a amortização do financiamento com FGTS, de até 30 dias. Esse número é de outra etapa e de outra operação, e não deve ser somado ao da compra. Confirme com o banco o prazo de cada uso do saldo.
+A mesma fonte cita um prazo diferente para a amortização do financiamento com FGTS, de até 30 dias. Esse número é de outra etapa e de outra operação, e não deve ser somado ao da compra. Outro manual comercial, o da Ademicon, fala em cerca de 30 dias para a compra e cerca de 15 dias para a amortização. Como as fontes divergem, nenhuma delas vale como prazo oficial. Confirme com o banco o prazo de cada uso do saldo.
 
 ## Como acelerar sem pular etapas
 

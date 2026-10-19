@@ -60,9 +60,9 @@ A tabela reúne os projetos e medidas que encontrei nas fontes consultadas, com 
 | Projeto | O que propõe | Situação na última informação |
 |---|---|---|
 | PL 481/2026 (Câmara) | Permitir saque do FGTS para comprar outro imóvel quando a moradia ou o trabalho ficar a mais de 50 km do imóvel atual, medindo o trajeto pelas vias de acesso | Em tramitação sob regime de urgência, segundo notícia de 31/08/2026; anexado ao PL 462/2020 |
-| PL 5.437/2026 (Senado) | Incluir nova hipótese de saque para compra de lote ou terreno e para quitar ou amortizar o financiamento desse lote | Autuado em 22/09/2026, aguardando despacho |
-| PL 2.562/2020 (Senado) | Acrescentar um inciso XXI ao artigo 20 da Lei 8.036/1990, criando outra hipótese de movimentação da conta | Em tramitação, com relatoria; a página não detalha a hipótese, e a última movimentação registrada é de 16/06/2026 |
-| PL 2.398/2026 (Senado) | Repassar ao trabalhador as multas e encargos cobrados por atraso no depósito do FGTS | Apresentado em 14/05/2026, aguardando despacho em 22/05/2026 |
+| PL 5.437/2026 (Senado) | Incluir nova hipótese de saque para compra de lote ou terreno e para quitar ou amortizar o financiamento desse lote. Segundo o resumo oficial, valeria também fora do SFH | Autuado em 22/09/2026, aguardando despacho, sem comissão definida |
+| PL 2.562/2020 (Senado) | Acrescentar um inciso XXI ao artigo 20 da Lei 8.036/1990, criando outra hipótese de movimentação da conta | Em tramitação no Senado, com relatoria na CAE; a página não detalha a hipótese, e a última movimentação registrada é de 16/06/2026 |
+| PL 2.398/2026 (Senado) | Repassar ao trabalhador as multas e encargos cobrados por atraso no depósito do FGTS | Apresentado pela CDH do Senado em 14/05/2026, com última movimentação em 22/05/2026, aguardando despacho |
 | MP 1.382/2026 | Ajustes no Minha Casa Minha Vida, com aporte no fundo garantidor | Publicada em 1º de agosto de 2026 e prorrogada por 60 dias |
 
 O PL 481/2026 é o mais próximo do dia a dia de quem já tem imóvel. Ele, segundo a notícia, também veda a compra de casa de veraneio e mantém as regras do SFH e o intervalo de três anos para o mesmo imóvel. Veja [quem já tem imóvel](/artigos/fgts-de-quem-ja-tem-imovel) para entender a regra atual.

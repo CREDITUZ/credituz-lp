@@ -33,7 +33,7 @@ Sim, o aposentado pode usar o FGTS (Fundo de Garantia do Tempo de Serviço) para
 
 ## As duas portas que a aposentadoria abre
 
-O artigo 20 da Lei 8.036/1990 lista as situações em que a conta do FGTS pode ser movimentada. Duas delas se aplicam ao seu caso. A primeira é a aposentadoria concedida pela Previdência Social, que dá direito ao saque do saldo acumulado nas contas. O texto que consultei indica essa hipótese como o inciso III do artigo, e a regra vale para aposentadoria urbana, rural e especial, desde que haja saldo.
+O artigo 20 da Lei 8.036/1990 lista as situações em que a conta do FGTS pode ser movimentada. Duas delas se aplicam ao seu caso. A primeira é a aposentadoria concedida pela Previdência Social, que dá direito ao saque do saldo acumulado nas contas. Ela é o inciso III do artigo 20, conforme o texto compilado do Planalto. Segundo o Meu Tudo, a regra alcança a aposentadoria urbana, rural e especial, desde que haja saldo.
 
 A segunda é a aquisição da casa própria, que está no inciso VII. Ela não depende de você estar aposentado ou não. Depende de três coisas: o histórico de depósitos, o tipo de imóvel e a operação de financiamento.
 
@@ -47,7 +47,7 @@ As condições de moradia são as mesmas para qualquer trabalhador. O que o arti
 |---|---|
 | 3 anos de trabalho sob o regime do FGTS | Soma dos períodos com depósito, em um ou mais empregos |
 | Imóvel residencial urbano | Não serve para imóvel comercial ou rural, nem para terreno sem construção |
-| Teto do SFH | Valor de avaliação de até R$ 2,25 milhões |
+| Teto do SFH | Valor de avaliação de até R$ 2,25 milhões, teto aplicado ao FGTS desde a decisão do Conselho Curador de 26/11/2025 |
 | Sem imóvel residencial na região | Nenhum imóvel na cidade onde mora ou trabalha, nas vizinhas ou na mesma região metropolitana |
 | Sem financiamento ativo no SFH | Nenhum outro financiamento do sistema em andamento |
 
@@ -68,7 +68,7 @@ Imagine um imóvel de R$ 400.000, com entrada própria de R$ 80.000, e um saldo 
 - **Caminho A, sacar na aposentadoria.** Você recebe R$ 30.000 em dinheiro e entra com R$ 80.000 próprios. O valor financiado é de R$ 320.000.
 - **Caminho B, usar na compra.** Você entra com os mesmos R$ 80.000 próprios e acrescenta os R$ 30.000 do FGTS, totalizando R$ 110.000 de entrada. O valor financiado é de R$ 290.000, e você não recebe nada em dinheiro.
 
-Para calcular a parcela e o custo total, suponha uma taxa hipotética de 10,5% ao ano, tabela SAC (Sistema de Amortização Constante) e 360 meses, sem seguros, tarifas e TR. Nessas condições:
+Para calcular a parcela e o custo total, suponha uma taxa hipotética de 10,5% ao ano (convertida em taxa mensal equivalente), tabela SAC (Sistema de Amortização Constante) e 360 meses, sem seguros, tarifas e TR. Nessas condições, a comparação fica assim:
 
 | | Caminho A (sacar) | Caminho B (usar na compra) |
 |---|---|---|

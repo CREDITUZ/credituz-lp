@@ -54,13 +54,13 @@ O programa federal Minha Casa, Minha Vida traz benefícios em outros custos da c
 
 Estes são casos em que a lei municipal foi conferida no texto. Eles mostram como o benefício muda de cidade para cidade.
 
-**Belo Horizonte.** A Lei 10.692/2013 fixa a alíquota de 3% e concede redução de 50% sobre o valor devido ao comprador de casa, apartamento ou barracão de padrão P1, residencial, que não é dono nem promitente comprador de outro imóvel, nem o cônjuge ou companheiro. O benefício tem limite de valor da base de cálculo, que foi de R$ 158.326,90 na lei original e é atualizado todo ano pela prefeitura. Se a base passar do limite, a redução deixa de valer para o imóvel inteiro. A lei consultada não traz isenção geral por valor baixo, então confira com a prefeitura se algum limite desse tipo se aplica ao seu caso.
+**Belo Horizonte.** A Lei 10.692/2013 fixa a alíquota de 3% e concede redução de 50% sobre o valor devido ao comprador de casa, apartamento ou barracão de padrão P1, residencial, que não é dono nem promitente comprador de outro imóvel, nem o cônjuge ou companheiro. O benefício tem limite de valor da base de cálculo, que era de R$ 158.326,90 na lei original, com previsão de atualização todo ano. O próprio texto traz outro número, R$ 128.326,90, no preâmbulo, e não confirmei o valor atual. Também não confirmei se, ao passar do limite, a redução some para o imóvel inteiro ou só para o excedente. A lei consultada não traz isenção geral por valor baixo, então confira com a prefeitura se algum limite desse tipo se aplica ao seu caso.
 
 **Vitória.** A Lei 7.628/2008 isenta a transmissão de imóveis em ZEIS (Zona Especial de Interesse Social) do Plano Diretor, ou em área das poligonais do programa Terra Mais Igual, quando a área recebe urbanização do município, o valor do imóvel não passa de R$ 30.000 e a renda familiar não passa de 3 salários mínimos, ou de meio salário mínimo por pessoa. Os valores do texto de 2008 podem ter sido atualizados, então confirme com a Secretaria Municipal de Fazenda. O detalhe da cidade está no artigo sobre [ITBI em Vitória](/artigos/itbi-vitoria).
 
 **Manaus.** A Lei 2.567/2019 trouxe descontos de 10% a 50% para quem quitasse, à vista ou parcelado, o ITBI de transmissões antigas. Esses descontos valiam para pedidos feitos até 30 de junho de 2020. Hoje, o caso serve para entender a lógica, mas não é um benefício disponível para compras novas. Veja o detalhe no artigo sobre [ITBI em Manaus](/artigos/itbi-manaus).
 
-**Belém.** A Lei 10.308/2026 traz redução de 50% para pagamento em até 60 dias da transmissão. Não é uma isenção por tipo de comprador, e sim um pagamento antecipado. O detalhe está no artigo sobre [ITBI em Belém](/artigos/itbi-belem). Não encontrei, nessa lei, isenção para o primeiro imóvel.
+**Belém.** A Lei 10.308/2026 traz redução de 50% para pagamento em até 60 dias da transmissão. Não é uma isenção por tipo de comprador, e sim um pagamento antecipado. A Lei 10.251/2025 também fixa alíquota de 1% para a parte financiada pelo SFH, segundo o texto consultado, sem a redução de 50%. O detalhe está no artigo sobre [ITBI em Belém](/artigos/itbi-belem). Não encontrei, nessas leis, isenção para o primeiro imóvel.
 
 **São Paulo.** Segundo a Prefeitura de São Paulo, descrita no artigo sobre [ITBI em São Paulo](/artigos/itbi-sao-paulo), a capital isenta o primeiro imóvel residencial de valor até um limite atualizado todo ano, e reduz a alíquota da parte financiada pelo SFH. Os números e as condições do ano estão naquele texto, e vale conferi-los no portal da Fazenda municipal antes de contar com eles.
 
@@ -89,7 +89,7 @@ Exemplo ilustrativo, com a alíquota geral de 3%, para mostrar o tamanho do bene
 - Mesmo imóvel, com redução de 50% sobre o valor devido: R$ 9.000 × 50% = R$ 4.500,00
 - Mesmo imóvel, com isenção total, se a lei prever: R$ 0,00
 
-O benefício só entra na conta se o imóvel e o comprador se enquadrarem nas condições. Um limite de valor que seja ultrapassado por pouco pode fazer o benefício desaparecer por inteiro, como acontece com o teto de base de Belo Horizonte.
+O benefício só entra na conta se o imóvel e o comprador se enquadrarem nas condições. Um limite de valor ultrapassado por pouco pode, dependendo da lei, eliminar o benefício inteiro. Confirme esse ponto na lei da sua cidade.
 
 ## Como a isenção muda o plano da compra
 

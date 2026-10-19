@@ -6,55 +6,63 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
-  - "Não existe hoje uma linha de financiamento de reforma comparável ao financiamento de compra, e o FGTS não paga reforma na casa própria."
+  - "Não existe uma linha única de reforma comparável ao financiamento de compra. O Reforma Casa Brasil não aceita FGTS, e o saldo do fundo só entra em alguns financiamentos de reforma, com regras próprias."
   - "O Reforma Casa Brasil é um programa federal para quem já tem o imóvel, com renda de até R$ 13 mil por mês, taxa de até 0,82% ao mês e prazo de até 72 meses."
   - "O crédito com garantia de imóvel tende a ter juros menores, mas coloca a casa em risco se as parcelas atrasarem."
   - "O crédito pessoal sem garantia costuma ser o mais caro e o mais rápido, e a diferença de custo aparece no total pago."
 faq:
   - q: "O FGTS pode pagar a reforma da minha casa?"
-    a: "Em regra, não. O fundo não financia reforma, ampliação nem material de construção na casa própria. O uso do saldo é limitado a outras finalidades previstas nas regras do FGTS."
+    a: "Depende da linha. O Reforma Casa Brasil não aceita FGTS. Em alguns financiamentos de reforma da Caixa, o saldo pode amortizar a dívida, desde que você cumpra as regras do fundo, como três anos de contribuição e imóvel residencial urbano."
   - q: "Quem pode pedir o Reforma Casa Brasil?"
-    a: "Famílias de área urbana com renda bruta familiar de até R$ 13 mil por mês, que já têm o imóvel e precisam de melhorias. A conta gov.br precisa estar em um dos níveis exigidos pelo programa."
+    a: "Famílias com renda bruta familiar de até R$ 13 mil por mês, que já têm o imóvel e precisam de melhorias, segundo a imprensa de agosto de 2026. Confirme os requisitos na simulação da Caixa."
   - q: "Reforma Casa Brasil serve para comprar imóvel?"
-    a: "Não. O recurso paga materiais, mão de obra e serviços técnicos de reforma em um imóvel que você já possui."
+    a: "Não. O recurso é para reforma em um imóvel que você já possui, e não para a compra de outro."
   - q: "Vale a pena pegar crédito com garantia da casa para reformar?"
     a: "Pode valer, se a taxa for muito menor que a do crédito pessoal e a parcela couber com folga no orçamento. O risco é a casa servir de garantia, por isso compare o CET e simule um cenário de atraso."
 sources:
-  - title: "Caixa: perguntas frequentes sobre o Reforma Casa Brasil (atualizada em 18/06/2026)"
-    url: "https://www.caixa.gov.br/voce/habitacao/reforma-casa-brasil/perguntas-frequentes/Paginas/default.aspx"
   - title: "Casa Civil: Resolução CDFS/CCPR nº 10, de 24/04/2026 (encargos de até 0,82% a.m. e prazo de 72 meses)"
     url: "https://www.gov.br/casacivil/pt-br/acesso-a-informacao/fundos/fundo-social-fs/resolucoes/RESOLUOCDFS_CCPRN10DE24DEABRILDE2026.pdf"
   - title: "IstoÉ Dinheiro: CMN reduz juros e amplia prazo de pagamento do Reforma Casa Brasil (05/05/2026)"
     url: "https://istoedinheiro.com.br/cmn-reduz-juros-e-amplia-prazo-de-pagamento-para-programa-reforma-casa-brasil"
-  - title: "Viva: linha para reforma ocupa vácuo do Construcard (22/10/2025)"
+  - title: "Portas: regras atuais do Reforma Casa Brasil, renda de R$ 13 mil e valor de R$ 5 mil a R$ 50 mil (07/08/2026)"
+    url: "https://portas.com.br/mercado-imobiliario/reforma-casa-brasil-regras-como-pedir-e-o-panorama-do-credito/"
+  - title: "Meu Tudo: CMN aprova juros menores e mais prazo para o Reforma Casa Brasil, com teto de R$ 30 mil (06/05/2026)"
+    url: "https://meutudo.com.br/blog/noticias/2026/05/06/cmn-aprova-juros-menores-e-mais-prazo-para-o-reforma-casa-brasil/"
+  - title: "Itatiaia: ministro diz que FGTS não poderá ser usado no Reforma Casa Brasil (20/10/2025)"
+    url: "https://www.itatiaia.com.br/politica/fgts-nao-podera-ser-usado-no-reforma-casa-brasil-esclarece-governo/"
+  - title: "Estado de Minas: como usar o FGTS para reformar o imóvel, por meio de financiamento amortizado (27/10/2025)"
+    url: "https://em.com.br/economia/2025/10/7279799-saiba-como-usar-o-fgts-para-reformar-seu-imovel.html"
+  - title: "Viva: linha para reforma ocupa vácuo do Construcard, suspenso em 2019 (22/10/2025)"
     url: "https://viva.com.br/dinheiro/linha-para-reforma-ocupa-vacuo-do-construcard-e-alegra-setor-de-materiais.html"
 related: [minha-casa-minha-vida-reforma, fgts-para-reforma, home-equity, financiamento-para-construcao]
 ---
 
-Financiar a reforma da própria casa é mais difícil do que financiar a compra, e as opções mudam bastante conforme o valor, a sua renda e se você tem um imóvel com garantia livre. Não existe uma linha única e famosa, como a do financiamento imobiliário, e por isso muita gente acaba escolhendo a primeira oferta que aparece. Essa escolha costuma custar caro.
+Financiar a reforma da própria casa costuma ser mais difícil do que financiar a compra, e as opções mudam bastante conforme o valor, a sua renda e se você tem um imóvel com garantia livre. Não existe uma linha única e famosa, como a do financiamento imobiliário, e por isso muita gente acaba escolhendo a primeira oferta que aparece. Essa escolha costuma custar caro.
 
 As condições citadas neste texto valem para outubro de 2026. Programas e taxas mudam por resolução e por política de cada instituição, então confirme tudo na simulação oficial antes de contratar.
 
 ## Resposta direta
 
-Hoje, as opções mais comuns para reforma são três: o Reforma Casa Brasil, um programa federal com juros baixos e requisitos de renda; o crédito com garantia de imóvel, em que a casa fica como garantia; e o crédito pessoal, sem garantia e geralmente o mais caro. O FGTS, que financia a compra da casa, não paga reforma, ampliação nem material de construção na casa própria.
+Hoje, as opções mais comuns para reforma são três: o Reforma Casa Brasil, um programa federal com juros baixos e requisitos de renda; o crédito com garantia de imóvel, em que a casa fica como garantia; e o crédito pessoal, sem garantia e geralmente o mais caro. O FGTS, que ajuda na compra da casa, não entra no Reforma Casa Brasil e só pode entrar em outras linhas de reforma com regras próprias.
 
 Para a maioria das famílias, a escolha depende de três perguntas: quanto a obra custa, qual é a renda comprovada e se você está disposto a dar a casa como garantia.
 
-## Por que o FGTS não paga a reforma
+## O FGTS na reforma depende da linha
 
-O FGTS tem regras próprias para moradia, e a reforma da casa que você já tem fica de fora. O fundo pode ajudar na compra de um imóvel, na construção em terreno próprio ou na quitação e amortização do financiamento, mas não financia obra de melhoria. O artigo sobre [FGTS para reforma](/artigos/fgts-para-reforma) explica o que o manual permite e o que muda quando a reforma aparece dentro de um financiamento de compra.
+O FGTS tem regras próprias para moradia: o manual exige imóvel residencial urbano e três anos de contribuição (itens 12.1.1 e 13.1.1). O Reforma Casa Brasil não aceita FGTS. Em 20 de outubro de 2025, o ministro das Cidades afirmou que o fundo "não poderá ser utilizado nessa linha de crédito".
 
-Por isso, quem está pensando em usar o saldo do FGTS para reformar precisa de outra fonte para a obra, ou então avaliar se a reforma pode entrar no próprio contrato de compra, em casos específicos.
+Já em financiamentos de reforma contratados na Caixa, o saldo do FGTS pode amortizar ou quitar a dívida. Segundo reportagem de 27 de outubro de 2025, as condições incluem três anos de FGTS, imóvel residencial urbano próprio, nenhum outro imóvel residencial na cidade e nenhum financiamento SFH ativo. Como essa linha não está detalhada no manual que consultei, confirme a modalidade e as condições com a Caixa. O artigo sobre [FGTS para reforma](/artigos/fgts-para-reforma) explica o que muda quando a reforma aparece dentro de um financiamento.
+
+Se a sua reforma depende do saldo, pergunte à Caixa se existe linha de reforma com amortização pelo FGTS e se você cumpre as condições. Sem isso, a obra precisa de outra fonte.
 
 ## Opção 1: Reforma Casa Brasil
 
-O Reforma Casa Brasil é um programa federal de crédito para reforma de moradias. Ele financia reparos, melhorias e adequações em imóveis que a família já tem. Pelas informações da Caixa e do Casa Civil, a renda bruta familiar pode ser de até R$ 13 mil por mês, em área urbana, e a taxa nominal aprovada em abril de 2026 é de até 0,82% ao mês, com prazo máximo de 72 meses.
+O Reforma Casa Brasil é um programa federal de crédito para reforma de moradias. Ele financia reparos, melhorias e adequações em imóveis que a família já tem. A Resolução CDFS/CCPR nº 10, de 24 de abril de 2026, fixa encargos de até 0,82% ao mês e prazo máximo de 72 meses. O CMN aprovou a redução de juros e a ampliação do prazo em 5 de maio de 2026. A resolução não traz valor de renda nem teto de financiamento e remete ao teto de renda do Minha Casa Minha Vida. A imprensa de agosto de 2026 informa renda bruta familiar de até R$ 13 mil por mês.
 
 Dois pontos pedem cuidado:
 
-- **O valor máximo não está uniforme na imprensa.** Parte das reportagens cita R$ 50 mil e outra parte cita R$ 30 mil. Confirme o limite para a sua família na simulação da Caixa, porque ele pode depender da faixa de renda.
-- **A taxa de 0,82% não é o custo total.** Reportagens citam 0,99% ao mês quando somados os encargos. Por isso, o CET é o número que deve ser comparado.
+- **O valor máximo não está claro na imprensa.** Uma reportagem de maio de 2026 cita teto de R$ 30 mil. Outra, de agosto de 2026, diz que o valor vai de R$ 5 mil a R$ 50 mil, conforme a modalidade. Não consegui abrir a tabela oficial da Caixa, então confirme o limite para a sua família na simulação.
+- **A taxa de 0,82% não é o custo total.** Reportagem de agosto de 2026 informa que a Caixa divulga custo a partir de 0,99% ao mês, considerando encargos totais. Por isso, o CET é o número que deve ser comparado.
 
 Exemplo ilustrativo: financiamento de R$ 20 mil em 72 parcelas, com taxa de 0,82% ao mês, pela tabela Price.
 
@@ -66,7 +74,7 @@ Exemplo ilustrativo: financiamento de R$ 20 mil em 72 parcelas, com taxa de 0,82
 
 A simulação não inclui tarifas e encargos extras, que podem aumentar o total. Use o valor como referência, não como promessa.
 
-Na prática, o pedido costuma ser feito pela simulação no site da Caixa ou pelo aplicativo Caixa Tem, desde que a conta gov.br esteja no nível exigido. Quando a renda precisa ser somada de mais de uma pessoa, o atendimento tende a exigir ida a uma agência. Antes de começar, separe os documentos de renda e de identidade de todos os integrantes da família que entram no cálculo. Também peça por escrito o calendário de liberação do dinheiro, porque a obra só deve começar depois que o valor estiver disponível na conta da obra ou do fornecedor, conforme o contrato.
+Na prática, o pedido pode ser feito pelo App Caixa, para simulação e envio de fotos. Para somar a renda de familiares, a reportagem de agosto de 2026 indica uma agência ou um correspondente bancário. Antes de começar, separe os documentos de renda e de identidade de todos os integrantes da família que entram no cálculo. Também peça por escrito o calendário de liberação do dinheiro, e confirme no contrato se a obra começa só depois da liberação.
 
 ## Opção 2: crédito com garantia de imóvel
 
@@ -101,7 +109,7 @@ Também vale comparar a reforma com a alternativa de adiar parte dela. Trocar s�
 
 ## Erros comuns
 
-- **Acreditar que o Construcard ainda é uma opção.** Segundo a imprensa, a Caixa suspendeu o Construcard em 2019. Desconfie de anúncios que mencionem a linha como disponível.
+- **Acreditar que o Construcard ainda é uma opção.** Segundo a Viva, a Caixa suspendeu o Construcard em 2019 e não voltou a oferecê-lo. Desconfie de anúncios que mencionem a linha como disponível.
 - **Contratar pela parcela e não pelo total.** Um prazo longo reduz a parcela, mas aumenta o custo final.
 - **Dar a casa como garantia sem simular atraso.** Veja o que acontece se você perder dois meses de parcela.
 - **Não pedir orçamento antes.** Sem orçamento de obra, o valor financiado pode não cobrir a reforma.
@@ -113,7 +121,7 @@ Antes de contratar, peça ao menos três orçamentos com o mesmo escopo, com mat
 
 ## Resumo e próximos passos
 
-- O FGTS não paga reforma na casa própria. Veja o artigo sobre [FGTS para reforma](/artigos/fgts-para-reforma) para os detalhes.
+- O FGTS não entra no Reforma Casa Brasil. Em outra linha da Caixa, o saldo pode amortizar a reforma, se você cumprir as condições. Veja o artigo sobre [FGTS para reforma](/artigos/fgts-para-reforma) para os detalhes.
 - O Reforma Casa Brasil tem juros baixos e requisitos de renda, e o valor máximo deve ser confirmado na simulação.
 - Crédito com garantia de imóvel pode ter juros menores, mas coloca a casa em risco.
 - Crédito pessoal é o mais flexível e o mais caro, e a diferença aparece no total pago.

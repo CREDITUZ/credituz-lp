@@ -14,7 +14,7 @@ faq:
   - q: "Posso financiar outro imóvel se ainda pago o primeiro?"
     a: "Pode, em alguns casos. Na Caixa, a regra de dezembro de 2025 permite novo financiamento SBPE para quem tem contrato ativo com o banco. A parcela do primeiro, porém, entra no cálculo de renda."
   - q: "Quem já tem imóvel pode usar o FGTS para comprar outro?"
-    a: "Só se atender às regras do fundo. Pelas condições descritas por bancos, não pode ser proprietário de outro imóvel residencial no município de trabalho ou de residência, e há restrição a outro financiamento ativo do SFH."
+    a: "Só se atender às regras do fundo. Pelo manual do FGTS, não pode ser proprietário de outro imóvel residencial nos municípios de trabalho ou de residência, e a decisão do Conselho Curador de novembro de 2025 veda outro financiamento ativo do SFH."
   - q: "O primeiro imóvel precisa ser vendido antes de financiar o segundo?"
     a: "Não é obrigatório, mas costuma ser decisivo. Se o primeiro está financiado, a renda precisa cobrir as duas parcelas. Se você vai vendê-lo, peça ao banco a análise considerando a venda, e não só a situação atual."
   - q: "O teto de R$ 2,25 milhões vale para o segundo imóvel?"
@@ -22,8 +22,10 @@ faq:
 sources:
   - title: "Agência Brasil: Caixa volta a financiar 80% no SAC e 70% na Price e libera mais de um financiamento (09/12/2025)"
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
-  - title: "Itaú: quais são as regras para comprar um imóvel com FGTS (página sem data de atualização)"
-    url: "https://www.itau.com.br/atendimento-itau/para-voce/credito-imobiliario/quais-sao-as-regras-para-comprar-um-imovel-a-vista-com-fgts"
+  - title: "Manual do FGTS Utilização na Moradia Própria, itens 12.1.1, 12.1.3 e 13.4.1 (requisitos e localização do imóvel), fgts.gov.br"
+    url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
+  - title: "Movimento Econômico: Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 mi (26/11/2025)"
+    url: "https://movimentoeconomico.com.br/habitacao/2025/11/26/conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-r-225-mi/"
   - title: "Resolução CMN 4.676/2018, art. 3º e art. 13 (finalidade e limite do SFH), Banco Central"
     url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v1_O.pdf"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
@@ -61,14 +63,14 @@ Se o primeiro imóvel tiver parcela de R$ 1.500, a soma passa de R$ 3.394,82, e 
 
 ## As regras do FGTS para quem já tem imóvel
 
-O FGTS é a parte mais restritiva. Segundo a página do Itaú sobre as regras de compra com FGTS, o comprador não pode ser proprietário, possuidor, promitente comprador, usufrutuário ou cessionário de outro imóvel residencial, concluído ou em construção, localizado:
+O FGTS é a parte mais restritiva. Segundo o manual do FGTS (item 12.1.3), o comprador não pode ser proprietário, possuidor, promitente comprador, usufrutuário ou cessionário de outro imóvel residencial, concluído ou em construção, localizado:
 
 - no município onde exerce o trabalho principal, incluindo municípios limítrofes ou da mesma região metropolitana;
 - no município onde reside, incluindo municípios limítrofes ou da mesma região metropolitana.
 
-A mesma página cita outras condições: pelo menos três anos de trabalho sob o regime do FGTS, valor de avaliação de até R$ 2,25 milhões e a regra de que o cônjuge só pode compor o contrato em certas condições. Também menciona uma restrição a outro financiamento ativo do SFH no território nacional, o que deve ser conferido com o banco no caso do seu imóvel.
+Outras condições pesam na mesma análise. O manual exige três anos de trabalho sob o regime do FGTS (item 12.1.1). Em novembro de 2025, o Conselho Curador do FGTS fixou o valor de avaliação em até R$ 2,25 milhões, igual ao teto do SFH, e vedou outro financiamento ativo do SFH, segundo a reportagem de 26/11/2025. Pelo item 13.4.1 do manual, o imóvel deve ficar no município onde você trabalha, em municípios limítrofes ou na mesma região metropolitana, ou no município em que você mora há pelo menos um ano. Quem mora há menos de um ano no município precisa, pela alínea "c" do mesmo item, não ser proprietário de imóvel residencial em nenhum lugar do país.
 
-Isso quer dizer que a restrição do FGTS é local, mas o financiamento ativo pode ter alcance maior. Se você tem um imóvel em outra cidade e quer comprar outro, a análise pode ser diferente de quem tem um imóvel na mesma cidade. Não tire essa conclusão sem a confirmação do banco.
+Isso quer dizer que a restrição de propriedade é local, nas cidades de trabalho ou de residência, mas a regra do financiamento ativo vale para todo o território. Se você tem um imóvel em outra cidade e quer comprar outro, a análise pode ser diferente de quem tem um imóvel na mesma cidade. Não tire essa conclusão sem a confirmação da Caixa ou do banco.
 
 ## Quadro: o que costuma acontecer em cada situação
 

@@ -22,7 +22,7 @@ faq:
 sources:
   - title: "Lei 13.786/2018 (distrato), que inclui o art. 67-A na Lei 4.591/1964, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm"
-  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024 (fgts.gov.br)"
+  - title: "Manual do FGTS Utilização na Moradia Própria, itens 1.4, 11.1 e 11.3 (imóvel na planta), vigência 05/04/2024 (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Lei 8.036/1990 (Lei do FGTS), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
@@ -49,7 +49,7 @@ Em todos os casos, peça o contrato de promessa de compra e venda com a tabela c
 
 ## Como as parcelas costumam ser montadas
 
-Imagine um imóvel na planta de R$ 400 mil, com entrada de 20%, ou seja, R$ 80 mil. Se a entrada for dividida em 24 parcelas iguais, cada uma seria de R$ 3.333,33, sem correção. Na prática, as tabelas costumam corrigir as parcelas por um índice, como o INCC ou o IPCA, e algumas incluem sinal, reforços e parcela anual.
+Imagine um imóvel na planta de R$ 400 mil, com entrada de 20%, ou seja, R$ 80 mil. Se a entrada for dividida em 24 parcelas iguais, cada uma seria de R$ 3.333,33, sem correção. Na prática, as tabelas podem corrigir as parcelas por um índice, como o INCC ou o IPCA, e algumas incluem sinal, reforços e parcela anual.
 
 Exemplo ilustrativo: 24 parcelas de R$ 3.333,33 somam R$ 80 mil, sem correção, reforços ou taxas. Se o índice de correção for de 0,5% ao mês, as parcelas crescem ao longo do contrato e o total pago fica maior que R$ 80 mil. Confira na tabela o índice, a data-base e a forma de cálculo.
 
@@ -59,7 +59,7 @@ Essa conta muda muito quando há correção. Antes de assinar, peça a planilha 
 
 Na compra na planta, o banco geralmente não financia a parcela da construtora. Ele financia o saldo, e a liberação costuma acontecer em etapas, conforme a obra avança, ou depois do habite-se. Isso significa que você pode ter parcelas para pagar por um bom tempo antes de o banco liberar o dinheiro.
 
-Na compra de imóvel pronto, o banco costuma exigir que a entrada esteja paga na data da análise ou da assinatura. Se você ainda estiver pagando a entrada parcelada ao vendedor, a instituição pode recusar o financiamento ou exigir comprovação de que a dívida foi quitada.
+Na compra de imóvel pronto, o banco pode exigir que a entrada esteja paga na data da análise ou da assinatura. Se você ainda estiver pagando a entrada parcelada ao vendedor, a instituição pode recusar o financiamento ou exigir comprovação de que a dívida foi quitada.
 
 Por isso, a pergunta certa não é só "quanto eu pago por mês", mas "quando o banco entra e em que condições".
 
@@ -88,7 +88,7 @@ Pergunte à incorporadora se a obra tem afetação e confira o registro do empre
 
 ## FGTS e entrada parcelada
 
-O FGTS não é uma forma direta de pagar parcelas que você deve à construtora. O artigo sobre [FGTS na compra na planta](/artigos/fgts-imovel-na-planta) explica quando o fundo pode ser usado, e quando ele não entra na entrada parcelada. Em operações de financiamento, o FGTS costuma aparecer como complemento da entrada ou como amortização posterior, conforme as regras do fundo e do banco.
+O manual do FGTS admite o uso do saldo na compra na planta apenas vinculado a um financiamento ou em autofinanciamento por contrato de empreitada, e o terreno precisa ser do trabalhador, salvo em empreendimento coletivo (itens 11.1 e 11.3). O manual também veda o uso do fundo para taxas, impostos e demais despesas (item 1.4). Não encontrei regra que permita pagar parcelas diretamente à construtora, então trate esse uso como não permitido. O artigo sobre [FGTS na compra na planta](/artigos/fgts-imovel-na-planta) explica os casos em que o saldo entra. No financiamento, o saldo pode compor a entrada em certas condições, conforme as regras do fundo e do banco.
 
 ## Perguntas para fazer antes de assinar
 

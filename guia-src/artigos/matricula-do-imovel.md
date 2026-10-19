@@ -4,13 +4,13 @@ description: "Como ler a matrícula do imóvel, entender R. e Av., conferir a ca
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 10
 key_points:
   - "A matrícula é a ficha do imóvel no Registro de Imóveis: mostra quem é o dono, a descrição do bem e tudo o que foi registrado ou averbado sobre ele."
   - "Os atos aparecem como R. (registro, que cria ou transfere um direito) e Av. (averbação, que anota uma alteração), e os dois precisam ser lidos em ordem."
   - "Hipoteca, alienação fiduciária, penhora e indisponibilidade são as restrições que mais pesam e precisam ser resolvidas antes da compra."
   - "Pela lei, o que não está na matrícula não pode ser oposto a quem compra de boa-fé, por isso a leitura da matrícula é o centro da análise."
-  - "A matrícula vale pouco se estiver velha: a versão lida antes da compra pode mudar, e os bancos costumam aceitar só certidões de até 30 dias."
+  - "A matrícula vale pouco se estiver velha: a versão lida antes da compra pode mudar, e cada banco define o prazo de validade, muitas vezes de até 30 dias."
 faq:
   - q: "O que é a matrícula do imóvel?"
     a: "É o registro permanente do imóvel no Registro de Imóveis da região. Nela estão o endereço, a área, os donos e as restrições e alterações que a lei manda registrar ou averbar."
@@ -90,7 +90,7 @@ A matrícula é onde ficam as restrições que valem contra você. Pela Lei 13.0
 
 Hipoteca e alienação fiduciária costumam aparecer em imóveis já financiados. Nesse caso, o vendedor precisa quitar a dívida com o banco e pedir a baixa do gravame. Se o vendedor não quita, o banco não libera o financiamento, e você fica sem o crédito.
 
-A penhora e a indisponibilidade são as mais sérias. Uma penhora registrada pode levar à venda do imóvel em leilão, mesmo depois da sua compra, se a dívida não for resolvida. A indisponibilidade de bens é consultada na Central Nacional de Indisponibilidade de Bens (CNIB), que os cartórios de imóveis precisam consultar antes de atos sobre imóveis. Segundo o IRIB, o cartório consulta a central no início e no fim do expediente, e a restrição aparece na matrícula quando existe. Peça a consulta ao cartório, porque o comprador comum não tem acesso direto à central.
+A penhora e a indisponibilidade são as mais sérias. Uma penhora registrada pode levar à venda do imóvel em leilão, mesmo depois da sua compra, se a dívida não for resolvida. A indisponibilidade de bens é consultada na Central Nacional de Indisponibilidade de Bens (CNIB), que os cartórios de imóveis precisam consultar antes de atos sobre imóveis. Segundo o IRIB, que cita o Provimento 39 do CNJ, de 2014, o cartório consulta a central na abertura e uma hora antes do fim do expediente, e sempre antes de atos sobre o imóvel. Se a ordem existir, a restrição é registrada na matrícula. Há notícia de 2023 sobre alteração desse provimento, que não li em detalhe, então confirme a regra vigente com o cartório. Peça a consulta ao cartório, porque o comprador comum não tem acesso direto à central.
 
 ## Construção, área e averbações
 
@@ -102,9 +102,9 @@ O artigo sobre [escritura e registro](/artigos/escritura-e-registro-quanto-custa
 
 ## Validade: a matrícula de hoje pode não servir amanhã
 
-A matrícula é um retrato do dia da emissão. Entre a proposta, a aprovação do crédito e a assinatura, ela pode mudar. Pela Lei 6.015/1973, com as regras do art. 19 sobre o prazo de emissão, a certidão de inteiro teor da matrícula pode sair em até 4 horas quando pedida eletronicamente no horário de expediente, e a certidão de situação jurídica atualizada em até 1 dia após o pagamento. Essas são referências de prazo, e não de validade. A validade é uma regra do banco ou do cartório.
+A matrícula é um retrato do dia da emissão. Entre a proposta, a aprovação do crédito e a assinatura, ela pode mudar. Pela Lei 6.015/1973, com as regras do art. 19 sobre o prazo de emissão, a certidão de inteiro teor da matrícula pode sair em até 4 horas quando pedida eletronicamente no horário de expediente, e a certidão de situação jurídica atualizada em até 1 dia após o pagamento. Pelo § 10 do art. 19, esses prazos contam a partir do pagamento dos emolumentos. Essas são referências de prazo, e não de validade. A validade é uma regra do banco ou do cartório.
 
-Os bancos costumam pedir matrícula emitida há no máximo 30 dias, como mostra a lista de documentos do [checklist para financiamento](/artigos/documentos-para-financiamento). Por isso, peça a matrícula quando o imóvel já estiver escolhido e o crédito aprovado.
+Muitos bancos pedem matrícula emitida há até 30 dias, como indica o [checklist para financiamento](/artigos/documentos-para-financiamento). Esse prazo é regra de cada banco, e não da lei, e não o confirmei em norma. Por isso, peça a matrícula quando o imóvel já estiver escolhido e o crédito aprovado, e pergunte ao banco qual prazo ele aceita.
 
 Para conferir a matrícula online, a plataforma RI Digital, do Operador Nacional do Registro Eletrônico de Imóveis (ONR), permite pedir a certidão pelo número do protocolo ou da matrícula, conforme o cartório.
 

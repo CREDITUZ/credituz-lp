@@ -23,6 +23,8 @@ faq:
 sources:
   - title: "Portal de Serviços da Prefeitura de Belo Horizonte: ITBI, parcelamento"
     url: "https://servicos.pbh.gov.br/servicos/i/5e84dc39d9521a26a98b3870/servicos+itbi-parcelamento"
+  - title: "Prefeitura de Belo Horizonte: página de ITBI da Fazenda (parcelamento, certidão negativa e registro)"
+    url: "https://prefeitura.pbh.gov.br/fazenda/tributos/itbi"
   - title: "Prefeitura de Belo Horizonte: Lei 10.692/2013 (ITBI)"
     url: "https://fazenda.pbh.gov.br/internet/legislacao/findkey.asp?key=L10692"
   - title: "Câmara Municipal de Manaus: Lei 2.567/2019 (parcelamento e descontos para regularização)"
@@ -54,7 +56,7 @@ A tabela não é completa. Para qualquer cidade, a resposta oficial está na sec
 
 ## Belo Horizonte: parcelar e registrar
 
-Em Belo Horizonte, a prefeitura lista o parcelamento do ITBI como serviço no Portal de Serviços. A regra que pesa mais em financiamento é a que vem depois: a certidão negativa só é emitida depois da última parcela, e o imóvel não pode ser registrado antes da quitação total.
+Em Belo Horizonte, a prefeitura lista o parcelamento do ITBI como serviço no Portal de Serviços, e a página de ITBI da Fazenda confirma o botão de parcelamento. A regra que pesa mais em financiamento é a que vem depois: a certidão negativa só é emitida depois da última parcela, e o imóvel não pode ser registrado antes do pagamento total, segundo a mesma página. Não consegui conferir o número de parcelas nem o valor mínimo, porque a página do serviço não abriu para a consulta.
 
 Isso cria um problema prático. O banco costuma liberar o dinheiro ao vendedor depois que o contrato está registrado. Se o ITBI estiver parcelado, o registro pode demorar, e o pagamento ao vendedor também. Antes de escolher o parcelamento, pergunte ao banco quanto tempo ele espera para receber o contrato registrado e se aceita o registro com a guia em aberto.
 
@@ -62,7 +64,7 @@ Para entender a base de cálculo e as faixas de 3% e redução de 50% da cidade,
 
 ## Manaus: o parcelamento de 2019
 
-A Lei 2.567/2019 é a norma de Manaus que trouxe parcelamento do ITBI com descontos. Ela era voltada à regularização de transmissões antigas, e não à compra de um imóvel novo. Pelo texto consultado, os descontos de 30%, 20% ou 10% valiam para um grupo de operações, e os de 50%, 40% ou 30% para outro. As parcelas eram mensais, sem valor inferior a 1 UFM (Unidade Fiscal do Município). Se o parcelamento não fosse quitado, a operação perdia os descontos e voltava a ser cobrada pelo valor integral.
+A Lei 2.567/2019 é a norma de Manaus que trouxe parcelamento do ITBI com descontos. Ela era voltada à regularização de transmissões antigas, e não à compra de um imóvel novo. Pelo texto consultado, os descontos de 30%, 20% ou 10% valiam para um grupo de operações, e os de 50%, 40% ou 30% para outro. As parcelas eram mensais, no máximo três, sem valor inferior a 1 UFM (Unidade Fiscal do Município). Se o parcelamento não fosse quitado, a operação perdia os descontos e voltava a ser cobrada pelo valor integral.
 
 Os descontos valiam para pedidos feitos no portal de serviços até 30 de junho de 2020. Por isso, não servem para uma compra feita em 2026. Veja o detalhe no artigo sobre [ITBI em Manaus](/artigos/itbi-manaus).
 
@@ -85,11 +87,11 @@ Quando a cidade permite, o processo costuma seguir a mesma lógica. Os passos ab
 
 ## Incluir o ITBI no financiamento
 
-Em vez de parcelar a guia, algumas pessoas pedem ao banco para incluir o ITBI e as custas de cartório no valor financiado. Isso depende do banco e do limite aprovado, e não é parcelamento da prefeitura. Segundo a Larya, Itaú, Santander e Bradesco permitem essa inclusão em alguns produtos, mas as condições mudam e precisam ser confirmadas em cada simulação.
+Em vez de parcelar a guia, algumas pessoas pedem ao banco para incluir o ITBI e as custas de cartório no valor financiado. Isso depende do banco e do limite aprovado, e não é parcelamento da prefeitura. Uma fonte de terceiros (Larya) diz que alguns bancos grandes aceitam essa inclusão em certos produtos. Não conferi as condições de nenhum banco, e elas mudam a cada simulação.
 
-O custo é real. Um exemplo ilustrativo: R$ 15.000 de ITBI financiados em 120 meses a 11% ao ano, sem TR e sem seguros. Essa taxa é só um número de referência. Em outubro de 2026, o MySide informou taxas mínimas no SBPE entre 10,26% e 11,99% ao ano mais TR, dependendo do banco e do perfil.
+O custo é real. Um exemplo ilustrativo: R$ 15.000 de ITBI financiados em 120 meses, a 11% ao ano de taxa efetiva, sem TR e sem seguros. A taxa é só um número de referência, não uma oferta de banco. Taxas de financiamento variam por banco, perfil e data, então use o custo efetivo total (CET) de uma simulação real.
 
-Com essas premissas, a parcela ficaria em torno de R$ 202, e ao final do prazo seriam pagos cerca de R$ 24.270, o que dá R$ 9.270 de juros sobre o imposto. Os números são de um exemplo ilustrativo, calculado com as premissas acima. Seu custo real depende da taxa, do prazo e da TR do banco.
+Com essas premissas, a parcela fica em R$ 202,25, e ao final do prazo seriam pagos R$ 24.269,67, o que dá R$ 9.269,67 de juros sobre o imposto. Os números foram recalculados para este exemplo. Seu custo real depende da taxa, do prazo e da TR do banco.
 
 Comparar as duas alternativas ajuda a decidir:
 

@@ -16,9 +16,9 @@ faq:
   - q: "Dá para usar o crédito rural para comprar a terra?"
     a: "Em regra, não. O crédito rural da Lei 4.829/1965 financia atividades produtivas, como custeio e investimento. A compra da terra costuma ser feita por financiamento imobiliário ou por programa específico, como o crédito fundiário."
   - q: "O FGTS pode ser usado para comprar sítio ou fazenda?"
-    a: "Não. O FGTS para compra de imóvel é voltado à moradia, e o uso para imóvel rural não está previsto nas regras usuais do fundo."
+    a: "Não. O manual do FGTS exige imóvel residencial urbano para a compra, e um sítio ou uma fazenda não se enquadra nessa regra."
   - q: "Quais documentos o banco pede para um imóvel rural?"
-    a: "Costumam ser pedidos a matrícula atualizada, o CCIR emitido pelo Incra, o CAR, a comprovação do ITR pago e, em alguns casos, o georreferenciamento. A lista exata varia por banco e por cartório."
+    a: "Costumam ser pedidos a matrícula atualizada, o CCIR emitido pelo Incra, o CAR, a comprovação do ITR pago e, em alguns casos, o georreferenciamento. Esses itens não foram conferidos em fonte oficial nesta revisão. A lista exata varia por banco e por cartório, então confirme com o banco antes de começar."
 sources:
   - title: "Lei 4.504/1964 (Estatuto da Terra), art. 4º, inciso I, definição de imóvel rural, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l4504.htm"
@@ -28,6 +28,10 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
   - title: "Agência Gov: programa nacional de crédito fundiário aumenta teto para R$ 293,5 mil (janeiro de 2025)"
     url: "https://agenciagov.ebc.com.br/noticias/202501/programa-nacional-de-credito-fundiario-aumenta-teto-para-r-293-5-mil-na-aquisicao-de-imoveis-rurais"
+  - title: "Resolução CMN 4.676/2018, art. 3º (SFH destinado à casa própria ou moradia), Banco Central"
+    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v1_O.pdf"
+  - title: "Manual do FGTS Utilização na Moradia Própria, item 13.1.1 (imóvel residencial urbano), fgts.gov.br"
+    url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
 related: [minha-casa-minha-vida-rural, financiamento-de-terreno, financiamento-de-imovel-comercial, documentos-para-financiamento]
 ---
 
@@ -61,13 +65,15 @@ Esse é o motivo de tanta confusão. O produtor que quer comprar uma fazenda mui
 
 A Lei 9.514/1997 trata da alienação fiduciária e se aplica a imóveis em geral. Isso quer dizer que a garantia do financiamento pode ser usada também para terra e propriedade rural. O artigo 22 da lei é o que estabelece a alienação fiduciária como o negócio em que o imóvel fica transferido ao credor como garantia até a quitação.
 
-Nesse modelo, o banco financia uma parte do valor, você paga a entrada e o imóvel fica como garantia. As regras de cota, taxa, prazo e documentos são definidas pelo banco. Não existe uma tabela pública única para esse tipo de financiamento, então peça a proposta por escrito e compare pelo CET.
+Nesse modelo, o banco financia uma parte do valor, você paga a entrada e o imóvel fica como garantia. As regras de cota, taxa, prazo e documentos são definidas pelo banco. Não encontrei teto público de financiamento para imóvel rural, então peça a proposta por escrito e compare pelo CET.
+
+Esse financiamento também fica fora do SFH. A Resolução CMN 4.676/2018 define o SFH como o sistema destinado à casa própria ou moradia (art. 3º), e imóvel rural produtivo não se enquadra nisso. Na prática, não se aplicam o teto de juros de 12% ao ano do SFH nem as regras de uso do FGTS. O mesmo raciocínio vale para o imóvel comercial, explicado no artigo sobre [financiamento de imóvel comercial](/artigos/financiamento-de-imovel-comercial).
 
 ### Crédito fundiário: para quem não tem terra
 
 O crédito fundiário é um programa federal, conhecido como Programa Nacional de Crédito Fundiário (PNCF), voltado a trabalhadores rurais que querem comprar terra e ainda não são proprietários. O programa tem teto de valor e requisitos de renda e de atividade, definidos pelo governo federal.
 
-Em janeiro de 2025, a Agência Gov divulgou que o teto do programa subiu para R$ 293,5 mil. Esse número pode ter sido atualizado desde então, e o teto vigente é o que o governo publica. Antes de contar com o programa, confirme o valor e os requisitos atuais no Ministério do Desenvolvimento Agrário.
+A última cifra oficial que encontrei é de janeiro de 2025: a Agência Gov divulgou teto de R$ 293,5 mil. Não consegui confirmar o valor vigente em outubro de 2026. Antes de contar com o programa, consulte o valor e os requisitos atuais no Ministério do Desenvolvimento Agrário.
 
 ## O que o banco vai olhar no imóvel rural
 

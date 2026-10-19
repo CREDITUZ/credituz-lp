@@ -4,7 +4,7 @@ description: "ITBI em Manaus: a alíquota é 1,8%, 1,9% ou 2% conforme a data do
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Em Manaus, o ITBI é 1,8% se a guia for paga até a data da lavratura do instrumento de compra, 1,9% até o registro do imóvel e 2% depois do registro."
   - "A base de cálculo é o valor venal do imóvel, o valor que a prefeitura usa no cadastro, e não necessariamente o preço combinado com o vendedor."
@@ -38,7 +38,7 @@ Este texto trata só de Manaus. As regras gerais do imposto, como quem paga e o 
 
 ## Alíquotas do ITBI em Manaus em 2026
 
-A regra está no art. 13 da Lei 459/1998. A Lei 2.571/2019 trocou o texto desse artigo e passou a valer em 1º de janeiro de 2020. Não encontrei alteração posterior que mude as faixas, mas a Secretaria Municipal de Finanças (Semef) é quem confirma o valor vigente no dia da guia.
+A regra está no art. 13 da Lei 459/1998. A Lei 2.571/2019 trocou o texto desse artigo, com efeitos a partir de 2020. No texto consolidado que consultei, não encontrei alteração posterior que mude as faixas, mas a Secretaria Municipal de Finanças (Semef) é quem confirma o valor vigente no dia da guia.
 
 | Quando o imposto é pago | Alíquota |
 |---|---|
@@ -47,17 +47,17 @@ A regra está no art. 13 da Lei 459/1998. A Lei 2.571/2019 trocou o texto desse 
 | Até a data do registro do imóvel no cartório | 1,9% |
 | Depois da data do registro | 2% |
 
-O instrumento que serve de base pode ser a escritura pública ou o contrato particular com o banco. Como o financiamento costuma usar o contrato, vale perguntar ao cartório e à Semef qual documento e qual data contam no seu caso antes de pagar.
+O instrumento que serve de base pode ser a escritura pública ou o contrato particular com o banco. Como o financiamento costuma usar o contrato, vale perguntar ao cartório e à Semef qual documento e qual data contam no seu caso antes de pagar. A redação anterior da lei tinha regras próprias para o financiamento pelo SFH, que não aparecem no texto atual.
 
 ## Base de cálculo: o valor venal
 
 Pelo art. 7º da Lei 459/1998, a base do imposto é o valor venal do bem no momento da transmissão. Isso quer dizer que o número da guia pode não coincidir com o preço da compra. Três pontos merecem atenção:
 
 - **Dívidas do imóvel não são descontadas.** Pelo texto consultado, nenhuma dívida que onere o imóvel sai da base.
-- **A parte da construção pode ficar de fora.** O mesmo artigo prevê que a construção não entra na base em certos casos, como quando o próprio comprador comprova que a construiu e a incorporou ao patrimônio. A aplicação ao seu caso precisa ser conferida com a Semef.
-- **O valor venal é calculado pela prefeitura.** O art. 9º permite que a administração use instrumentos como a planta de valores do município para fixar a base.
+- **Não confirmei se a construção entra na base.** No texto que consultei, não achei regra que a exclua. Pergunte à Semef se a base inclui a construção do seu imóvel.
+- **O valor venal é calculado pela prefeitura.** O art. 9º permite que a administração use instrumentos como a planta de valores do município para fixar a base. Segundo o texto consolidado em um agregador de legislação, que ainda não conferi no Diário Oficial, a base declarada não pode ser inferior ao valor da planta.
 
-Há uma discussão mais ampla, que vale para qualquer cidade. O STJ, no Tema 1.113, entendeu que o valor declarado na compra é presumido correto e que a prefeitura não pode fixar a base de antemão por uma tabela própria, sem processo administrativo. Esse entendimento não é uma lei de Manaus, mas é a referência que os tribunais usam quando há divergência. Se a guia vier muito acima do preço pago, peça à Semef a memória de cálculo e, em valores altos, consulte um advogado tributarista.
+Há uma discussão mais ampla, que vale para qualquer cidade. O STJ, no Tema 1.113 (julgado em 24/02/2022), entendeu que o valor declarado na transação tem presunção de que condiz com o valor de mercado, afastável só pela Fazenda em processo administrativo próprio, e que o município não pode arbitrar a base previamente com um valor de referência próprio. Esse entendimento não é uma lei de Manaus, mas é a referência que os tribunais usam quando há divergência. Se a guia vier muito acima do preço pago, peça à Semef a memória de cálculo e, em valores altos, consulte um advogado tributarista.
 
 ## Exemplo ilustrativo com números
 
@@ -85,11 +85,11 @@ Os documentos do comprador e do imóvel que o banco e o cartório pedem estão n
 
 ## Parcelamento e o programa de 2019
 
-A Lei 2.567/2019 trouxe descontos para quem pagasse à vista ou parcelado o ITBI de transmissões antigas. Os percentuais eram de 30%, 20% ou 10% para um grupo de operações, e de 50%, 40% ou 30% para outro. As parcelas eram mensais, sem valor inferior a 1 UFM, e a operação perdia o desconto se o parcelamento não fosse quitado. Esses descontos valiam para pedidos feitos até 30 de junho de 2020. Por isso, hoje, ele não serve para uma compra nova. O tema do parcelamento em outras cidades está no artigo sobre [ITBI parcelado](/artigos/itbi-parcelado).
+A Lei 2.567/2019 trouxe descontos para quem pagasse à vista ou parcelado o ITBI de transmissões antigas. Os percentuais eram de 30%, 20% ou 10% para um grupo de operações, e de 50%, 40% ou 30% para outro. As parcelas eram mensais, no máximo três, sem valor inferior a 1 UFM, e a operação perdia os descontos se o parcelamento não fosse quitado. Segundo o texto consultado, os pedidos valiam até 30 de junho de 2020. A página que li indica que a Lei 2.674/2020 pode ter alterado essa lei, e não consegui verificar isso. Mesmo assim, o programa era voltado a transmissões antigas e não serve para uma compra nova. O tema do parcelamento em outras cidades está no artigo sobre [ITBI parcelado](/artigos/itbi-parcelado).
 
 ## Contrato com banco ou escritura: qual data conta
 
-Na compra com financiamento, o documento que serve de base costuma ser o contrato assinado com o banco. Na compra à vista, costuma ser a escritura pública. A faixa de alíquota depende da data desse documento em relação ao pagamento, então a data de assinatura é a referência que você precisa anotar. Essa é a leitura que faz mais sentido com o texto da lei, mas o cartório e a Semef são quem confirmam qual instrumento vale no seu caso.
+Na compra com financiamento, o documento que serve de base costuma ser o contrato assinado com o banco. Na compra à vista, costuma ser a escritura pública. A faixa de alíquota depende da data desse documento em relação ao pagamento, então a data de assinatura é a referência que você precisa anotar. Essa é a leitura que faz mais sentido com o texto da lei, mas o cartório e a Semef são quem confirmam qual instrumento vale no seu caso. O art. 15, I, segundo o texto consolidado em agregador, fala em pagamento em até 30 dias contados do registro, inclusive nas operações financiadas. Não confirmei se esse prazo é o de pagamento nem qual alíquota ele usa, então pergunte à Semef.
 
 Se a escritura for lavrada em outro município, a lei dá mais prazo: a alíquota de 1,8% vale para o pagamento feito até 30 dias depois da lavratura. Por isso, informe ao cartório onde o instrumento foi lavrado antes de gerar a guia.
 

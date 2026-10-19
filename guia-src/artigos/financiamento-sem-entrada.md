@@ -24,8 +24,10 @@ sources:
     url: "https://www.letsmoney.com.br/noticias/santander-financia-90-imovel-entrada-10/"
   - title: "Agência Brasil: Caixa volta a financiar 80% no SAC e 70% na Price (09/12/2025)"
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
-  - title: "Itaú: regras para comprar um imóvel com FGTS (página sem data de atualização)"
-    url: "https://www.itau.com.br/atendimento-itau/para-voce/credito-imobiliario/quais-sao-as-regras-para-comprar-um-imovel-a-vista-com-fgts"
+  - title: "Manual do FGTS Utilização na Moradia Própria, item 12.1.1 (três anos de trabalho sob o FGTS), fgts.gov.br"
+    url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
+  - title: "Movimento Econômico: Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 mi (26/11/2025)"
+    url: "https://movimentoeconomico.com.br/habitacao/2025/11/26/conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-r-225-mi/"
   - title: "Valor Final: Minha Casa Minha Vida 2026, faixas, juros e subsídio (atualizado em 17/07/2026)"
     url: "https://valorfinal.com.br/guia/minha-casa-minha-vida-2026"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
@@ -63,23 +65,23 @@ Cada caminho tem custo próprio, e a comparação precisa considerar não só a 
 
 Em maio de 2026, o Santander passou a anunciar teto de financiamento de até 90% do valor do imóvel, com entrada mínima de 10%, segundo a reportagem do Let's Money. A oferta vale para operações selecionadas, depende de análise caso a caso e está na tabela SAC. A taxa citada foi de 11,69% a 12,29% ao ano, conforme o perfil do cliente. A matéria não informa prazo de término da oferta e não esclarece se a taxa inclui TR. Confirme essas informações na proposta.
 
-Exemplo ilustrativo: imóvel de R$ 300 mil, financiado em 420 meses, pela tabela Price, sem seguros, tarifas e TR, com a taxa de 11,69% ao ano. A conta mostra a diferença entre financiar 90% e financiar 80%.
+Exemplo ilustrativo: imóvel de R$ 300 mil, financiado em 420 meses, pela tabela SAC, que é a tabela citada na reportagem, sem seguros, tarifas e TR, com a taxa de 11,69% ao ano, o piso da faixa citada. A conta mostra a diferença entre financiar 90% e financiar 80%.
 
 | Item | Financiamento de 90% | Financiamento de 80% |
 |---|---|---|
 | Valor financiado | R$ 270.000,00 | R$ 240.000,00 |
 | Entrada | R$ 30.000,00 | R$ 60.000,00 |
-| Parcela mensal (Price) | R$ 2.552,29 | R$ 2.268,70 |
-| Renda mínima para a parcela, a 30% | R$ 8.507,63 | R$ 7.562,34 |
-| Juros totais ao longo do contrato | R$ 801.961,80 | R$ 712.854,93 |
+| Primeira parcela (SAC) | R$ 3.141,88 | R$ 2.792,79 |
+| Renda mínima para a primeira parcela, a 30% | R$ 10.472,93 | R$ 9.309,30 |
+| Juros totais ao longo do contrato | R$ 526.045,07 | R$ 467.595,62 |
 
-O exemplo mostra o trade-off com clareza. Com 90%, você paga R$ 30 mil a menos na entrada, mas a parcela sobe cerca de R$ 284 por mês e o total de juros cresce quase R$ 89 mil. Além disso, a renda mínima exigida sobe de cerca de R$ 7.560 para R$ 8.510 por mês. Esses valores não incluem seguros e tarifas, que aumentam a parcela real.
+O exemplo mostra o trade-off com clareza. Com 90%, você paga R$ 30 mil a menos na entrada, mas a primeira parcela sobe cerca de R$ 349 e o total de juros cresce cerca de R$ 58,4 mil. Além disso, a renda mínima exigida para a primeira parcela sobe de cerca de R$ 9.310 para R$ 10.473 por mês. Na SAC, a parcela cai a cada mês, então a primeira é a mais pesada. Esses valores não incluem seguros e tarifas, que aumentam a parcela real.
 
 ## FGTS e subsídio: a entrada que não sai do bolso
 
-O FGTS pode compor a entrada em operações que seguem as regras do SFH e do fundo. A página do Itaú sobre o uso com compra de imóvel cita, entre as condições, pelo menos três anos de trabalho sob o regime do FGTS e valor de avaliação de até R$ 2,25 milhões. O artigo sobre [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) explica o uso do saldo em detalhe.
+O FGTS pode compor a entrada em operações que seguem as regras do SFH e do fundo. O manual do FGTS exige pelo menos três anos de trabalho sob o regime do FGTS (item 12.1.1), e a decisão do Conselho Curador de novembro de 2025 fixou o valor de avaliação em até R$ 2,25 milhões. O artigo sobre [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) explica o uso do saldo em detalhe.
 
-No Minha Casa Minha Vida, o subsídio pode reduzir a entrada de forma relevante para as faixas mais baixas. Segundo o Valor Final, atualizado em julho de 2026, a Faixa 1 tem subsídio de até cerca de R$ 55 mil, sem devolução, e a Faixa 2 tem subsídio parcial que diminui conforme a renda sobe. As faixas 3 e 4 não têm subsídio, mas oferecem juros menores que os do mercado. O artigo sobre [Minha Casa Minha Vida Faixa 1](/artigos/minha-casa-minha-vida-faixa-1) mostra as regras dessa faixa.
+No Minha Casa Minha Vida, o subsídio pode reduzir a entrada de forma relevante para as faixas mais baixas. Segundo o Valor Final, atualizado em julho de 2026, a Faixa 1 tem subsídio de até cerca de R$ 55 mil, sem devolução, e a Faixa 2 tem subsídio parcial que diminui conforme a renda sobe. As faixas 3 e 4 não têm subsídio, e têm juros tabelados pelo programa, que a mesma página cita entre cerca de 7,66% e 10,5% ao ano. O artigo sobre [Minha Casa Minha Vida Faixa 1](/artigos/minha-casa-minha-vida-faixa-1) mostra as regras dessa faixa.
 
 Os valores de subsídio e de teto de imóvel podem mudar conforme a cidade e o ano. Confira na data da contratação.
 

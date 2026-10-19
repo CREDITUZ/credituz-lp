@@ -38,7 +38,7 @@ Este texto trata só de Vitória. As regras gerais do imposto e a discussão sob
 
 ## Alíquota: onde confirmar
 
-Este artigo não publica o percentual da alíquota de Vitória. Reportagens de anos recentes citam um número, mas não encontrei o texto oficial vigente em 2026 para confirmar. Publicar um valor sem conferência pode levar a uma guia errada, então o procedimento é este:
+Este artigo não publica o percentual da alíquota de Vitória. Uma reportagem de maio de 2023 (A Tribuna) cita 2%, e o exemplo de Jardim Camburi dessa mesma reportagem é calculado com essa taxa, mas não encontrei a lei que fixa o percentual nem o texto vigente em 2026 para confirmar. Publicar um valor sem conferência pode levar a uma guia errada, então o procedimento é este:
 
 1. Procure a alíquota no portal da Semfaz, na área de ITBI.
 2. Confirme a lei municipal que fixa o percentual, citada no próprio portal.
@@ -51,13 +51,13 @@ Se a guia vier com alíquota diferente da que você confirmou, pergunte o motivo
 
 A Lei municipal de Vitória, desde 2005, permitia calcular o ITBI com base em um valor venal de referência (VVR). Em maio de 2023, a Comissão de Políticas Urbanas da Câmara aprovou um projeto que determinava que a base fosse o valor venal dos bens ou o valor da transmissão declarado pelo contribuinte. Na prática, o projeto eliminaria a opção de calcular o imposto pelo VVR.
 
-Uma reportagem do jornal A Tribuna, de maio de 2023, mostrou a diferença que isso faz. Em um imóvel do Jardim Camburi, o valor venal era de R$ 259.439,80, e o imposto calculado sobre esse valor seria de R$ 5.188,79. Já o VVR de R$ 950 mil, usado como base, levaria a uma guia de cerca de R$ 19 mil. A diferença de R$ 13.811,21 era o que o contribuinte poderia discutir.
+Uma reportagem do jornal A Tribuna, de maio de 2023, mostrou a diferença que isso faz. A reportagem informou que o projeto ainda não tinha data para votação em plenário, e não encontrei resultado posterior. Em um imóvel do Jardim Camburi, o valor venal era de R$ 259.439,80, e o imposto calculado sobre esse valor, a 2%, seria de R$ 5.188,80 (a reportagem cita R$ 5.188,79). Já o VVR de R$ 950 mil, usado como base, levaria a uma guia de R$ 19 mil. A diferença de R$ 13.811,20 era o que o contribuinte poderia discutir.
 
 O que isso significa para você:
 
 - **Confirme a base antes de assinar.** Pergunte à Semfaz se a guia usará o valor da transação declarado ou o VVR.
 - **Declare o preço real.** Declarar valor menor para reduzir o imposto é ilegal e pode gerar multa.
-- **Se a base for maior que o preço, questione.** O STJ, no Tema 1.113, entendeu que o valor declarado é presumido correto e que a prefeitura só pode afastá-lo em processo administrativo próprio, com defesa.
+- **Se a base for maior que o preço, questione.** O STJ, no Tema 1.113, entendeu que o valor declarado tem presunção de que condiz com o valor de mercado, e que só o fisco pode afastá-la, em processo administrativo próprio.
 - **Em valores altos, consulte um advogado tributarista.** O tema ainda é disputado nos tribunais e a legislação municipal pode ter mudado depois de 2023.
 
 ## Isenção para áreas de interesse social
@@ -67,7 +67,7 @@ A Lei 7.628/2008 isenta do ITBI a transmissão de imóveis em Zona Especial de I
 - o imóvel fica em ZEIS ou em área das poligonais;
 - a área recebe projetos ou obras de urbanização do município;
 - o valor do imóvel não passa de R$ 30.000, medido pelo valor venal do cadastro da Secretaria de Fazenda;
-- a renda familiar não passa de 3 salários mínimos, ou de meio salário mínimo por pessoa.
+- a renda familiar não passa de 3 salários mínimos, ou de meio salário mínimo per capita. O texto da lei usa a palavra "ou", e a regra exata deve ser conferida na Semfaz.
 
 Os valores de 2008 podem ter sido atualizados por outra lei. Se você se enquadra em algum ponto, confirme os limites vigentes com a Semfaz. O panorama das isenções em outras cidades está no artigo sobre [isenção de ITBI](/artigos/isencao-itbi).
 

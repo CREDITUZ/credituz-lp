@@ -22,8 +22,14 @@ faq:
 sources:
   - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, art. 20, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
+  - title: "Lei 13.932/2019, que incluiu os arts. 20-A a 20-D na Lei do FGTS, Planalto"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13932.htm"
   - title: "Liberação de FGTS retido para quem aderiu ao saque-aniversário, Band News FM (23/12/2025)"
     url: "https://www.band.com.br/bandnews-fm/noticias/governo-libera-fgts-retido-para-14-milhoes-de-trabalhadores-202512231535"
+  - title: "MP 1.331/2025, sumário do Senado Federal"
+    url: "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1331"
+  - title: "MP do saque-aniversário do FGTS perde validade, Contábeis (11/06/2026)"
+    url: "https://www.contabeis.com.br/noticias/77348/mp-do-saque-aniversario-do-fgts-perde-validade/"
   - title: "Futuros demitidos no saque-aniversário continuam com FGTS bloqueado, B3 Bora Investir (27/02/2025)"
     url: "https://borainvestir.b3.com.br/noticias/futuros-demitidos-no-saque-aniversario-continuam-com-fgts-bloqueado/"
 related: [saque-aniversario-e-financiamento, fgts-na-compra-do-imovel, fgts-de-conta-inativa]
@@ -69,12 +75,12 @@ A conta também não se movimenta sozinha com o passar do tempo. O saldo retido 
 O uso do FGTS para a casa própria está no artigo 20 da Lei 8.036/1990. A regra exige três condições principais, que valem para qualquer trabalhador:
 
 - pelo menos 3 anos de trabalho sob o regime do FGTS, somando todos os períodos com depósito;
-- imóvel residencial, urbano, avaliado dentro do limite do SFH (Sistema Financeiro da Habitação), hoje de R$ 2,25 milhões;
+- imóvel residencial, urbano, avaliado dentro do limite do SFH (Sistema Financeiro da Habitação), hoje de R$ 2,25 milhões (teto fixado pelo CMN em outubro de 2025 e aplicado ao FGTS pelo Conselho Curador a partir de 26/11/2025, segundo O Povo);
 - operação financiável nas condições do SFH, o que inclui não ter outro financiamento ativo dentro do sistema.
 
 Os 3 anos contam o tempo de depósito, e não exigem que você esteja empregado agora. O saldo retido entra nessa conta. Ou seja, se você tem 3 anos somados de depósitos, a demissão não zera o direito de usar o que ficou na conta.
 
-A lei que criou o saque-aniversário (Lei 13.932/2019) excluiu da modalidade as hipóteses de saque ligadas à demissão e ao fim do contrato. As hipóteses de moradia não foram retiradas, e é por isso que o saldo retido pode ser usado na compra. Antes de contar com ele, confirme no aplicativo FGTS quanto está retido e em qual situação o valor se encontra.
+A Lei 13.932/2019 criou o saque-aniversário e, no artigo 20-A, § 2º, II, da Lei 8.036, aplica a essa modalidade as hipóteses do artigo 20 exceto os incisos I, I-A, II, IX e X, que tratam de dispensa, extinção de empresa e fim de contrato a termo ou de trabalho avulso. Os incisos V, VI e VII, que cobrem prestações, amortização e aquisição da moradia, continuam valendo, e é por isso que o saldo retido pode ser usado na compra. Antes de contar com ele, confirme no aplicativo FGTS quanto está retido e em qual situação o valor se encontra.
 
 Para entender como o saldo entra na conta da compra, veja [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel). Se o saldo estiver sendo usado para reduzir o valor financiado depois do contrato, a regra de intervalo está em [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento).
 
@@ -84,10 +90,10 @@ Em 2025, o governo fez duas liberações extraordinárias de saldo retido, cada 
 
 | Liberação | Quem foi coberto | Como foi paga |
 |---|---|---|
-| Medida de fevereiro de 2025 | Demitidos sem justa causa até 28/02/2025, com saldo de saque-aniversário | Saldos de até R$ 3 mil em março de 2025, os demais em junho de 2025 |
-| Medida publicada em 23/12/2025 | Demitidos sem justa causa entre janeiro de 2020 e 23/12/2025 | Parcela de até R$ 1.800 até 30/12/2025, o restante até 12/02/2026 |
+| Medida de fevereiro de 2025 (número da MP não localizado) | Demitidos sem justa causa até 28/02/2025, com saldo de saque-aniversário | Valores até R$ 3 mil pagos em março de 2025 e o restante em junho de 2025, em datas escalonadas pelo mês de nascimento |
+| MP 1.331/2025, de 23/12/2025 | Saques de contratos encerrados entre 01/01/2020 e 23/12/2025 | Até R$ 1.800 até 30/12/2025, o restante até 12/02/2026 |
 
-Os dados vêm das reportagens da B3 (27/02/2025) e da Band News FM (23/12/2025). A notícia de dezembro estimou cerca de 14,1 milhões de beneficiários e custo de R$ 7,8 bilhões.
+Os dados vêm das reportagens da B3 (27/02/2025), da Agência Senado (23/12/2025) e do Contábeis (11/06/2026). A MP 1.331/2025 perdeu a vigência em 1º de junho de 2026, segundo o Ato Declaratório nº 44/2026, publicado no Diário Oficial de 9 de junho. A reportagem não menciona conversão em lei. Segundo o governo, à época, a medida atingiria cerca de 14,1 milhões de pessoas, com custo de R$ 7,8 bilhões.
 
 Essas liberações não mudaram a regra geral. Para demissões posteriores a 23/12/2025, o saldo do saque-aniversário volta a ficar retido. Se você foi demitido em algum desses períodos, verifique no aplicativo se algum valor já foi liberado. Não conte com uma nova liberação, porque ela depende de decisão do governo e não está prevista em regra permanente.
 
@@ -111,7 +117,7 @@ Por isso, confira no aplicativo os dois valores: o que está retido de uma demis
 - **Achar que a demissão zerou a conta.** Ela não zera. O saldo retido continua disponível para moradia, se as condições valerem.
 - **Tratar a multa como o saldo inteiro.** A multa é só uma parte do que a conta tem.
 - **Pedir demissão achando que o saldo será liberado.** Pedido de demissão não dá direito ao saque.
-- **Trocar de modalidade pensando em liberar o saldo.** Voltar ao saque-rescisão leva 24 meses e depende de não haver antecipação em aberto, como explica o artigo sobre [saque-aniversário e financiamento](/artigos/saque-aniversario-e-financiamento). A troca não libera o saldo retido de uma demissão que já aconteceu.
+- **Trocar de modalidade pensando em liberar o saldo.** A troca do saque-aniversário para o saque-rescisão só passa a valer no primeiro dia do 25º mês depois do pedido (artigo 20-C, § 1º, I, da Lei 8.036), e não vale se houver cessão de direitos futuros dos saques anuais, como nas antecipações explicadas em [saque-aniversário e financiamento](/artigos/saque-aniversario-e-financiamento). A troca não libera o saldo retido de uma demissão que já aconteceu.
 - **Confiar em promessa de liberação sem fonte.** Se alguém prometer liberar seu saldo retido mediante pagamento antecipado, desconfie. Antes de pagar qualquer valor, confirme a informação no aplicativo FGTS ou com a Caixa.
 
 ## Resumo

@@ -8,22 +8,28 @@ reading_minutes: 8
 key_points:
   - "No Minha Casa Minha Vida, o FGTS financia o programa e aparece como subsídio, como recurso para a entrada e como abatimento na amortização ou na parcela."
   - "Quanto do benefício chega a você depende da faixa de renda, do tipo de imóvel e da região, e as regras são definidas em portaria e normas do programa."
-  - "Para imóvel usado da classe média, a norma de abril de 2026 limita o financiamento a 60% do valor no Sul e no Sudeste."
-  - "A MP 1.382/2026 trata de aporte no fundo garantidor e de prazo para unidades pendentes. Confirme a elegibilidade antes de contar com o programa."
+  - "Para imóvel usado da classe média, o artigo 6º da IN MCID 45 limita o financiamento a 60% do valor no Sul e no Sudeste."
+  - "A MP 1.382/2026 aumenta o aporte no fundo garantidor, dá 24 meses para concluir unidades pendentes e muda a vedação de quem já recebeu benefício. Confirme a elegibilidade antes de contar com o programa."
 faq:
   - q: "O FGTS pode ser usado no Minha Casa Minha Vida?"
     a: "Sim. O FGTS financia o programa, e o comprador pode usar o saldo na entrada e na amortização, conforme as regras da faixa. O valor e a forma variam conforme a operação."
   - q: "A Faixa 4 tem subsídio?"
     a: "Não há subsídio na Faixa 4, segundo o guia da ValorFinal, que cita juros abaixo do mercado por usar recursos do FGTS. Confirme os juros e as condições na Caixa."
   - q: "Quanto a classe média pode financiar em imóvel usado?"
-    a: "Para imóvel usado na classe média, a IN MCID 45 (versão compilada de 08/04/2026) limita o financiamento a 60% do valor no Sul e no Sudeste. O restante fica como entrada."
-  - q: "A MP 1.382/2026 mudou a regra de quem já recebeu benefício habitacional?"
-    a: "Há notícias sobre essa regra, mas a cobertura do texto da MP que consultei não confirma a mudança. Antes de contar com a elegibilidade, peça a confirmação à Caixa."
+    a: "Para imóvel usado na classe média, o artigo 6º da IN MCID 45, na versão alterada pela IN MCID 3, de 7/4/2026, limita o financiamento a 60% do valor no Sul e no Sudeste. O restante fica como entrada."
+  - q: "A MP 1.382/2026 mudou a regra de quem já recebeu benefício?"
+    a: "Sim, na vedação de subvenção a quem já recebeu benefício similar. O texto publicado pelo Planalto tirou o prazo de 10 anos que existia na Lei 14.620/2023. Como a MP ainda pode perder a validade, confirme com a Caixa se a regra vale para o seu caso."
 sources:
   - title: "Minha Casa Minha Vida 2026: faixas, juros e subsídio, ValorFinal (atualizado em 17/07/2026)"
     url: "https://valorfinal.com.br/guia/minha-casa-minha-vida-2026"
-  - title: "Instrução Normativa MCID 45, versão compilada de 08/04/2026, Ministério das Cidades"
+  - title: "Instrução Normativa MCID 45, versão compilada, Ministério das Cidades"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260408_INSTRUO_NORMATIVA_N._45_COMPILADA.pdf"
+  - title: "Portaria MCID nº 333, de 30/03/2026, limites de renda do Minha Casa Minha Vida"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PORTARIAMCIDN333DE30DEMARODE2026.pdf"
+  - title: "Lei 14.620/2023, texto do Planalto com redação dada pela MP 1.382/2026, art. 9º"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14620.htm"
+  - title: "MP 1.382/2026, sumário do Senado Federal"
+    url: "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1382"
   - title: "Congresso prorroga MP que amplia garantias do Minha Casa Minha Vida (Poder360, 17/09/2026)"
     url: "https://www.poder360.com.br/poder-economia/minha-casa-minha-vida-congresso-prorroga-mp-que-amplia-garantias/"
   - title: "FGTS aumenta recursos para Minha Casa Minha Vida (Meu Tudo, 18/09/2026)"
@@ -44,21 +50,21 @@ A tabela resume o que o guia da ValorFinal, atualizado em 17/07/2026, descreve p
 | Faixa 3 | Não há | 7,66% a 8,16% | Financiamento com recursos do fundo, com uso do saldo conforme as regras |
 | Faixa 4 (classe média) | Não há | Cerca de 10% a 10,5% | Recursos do fundo; a fonte não detalha o uso do saldo na entrada |
 
-Duas observações. A primeira é que o guia não informa, para a Faixa 1 e a Faixa 2, os tetos de renda com a mesma clareza da tabela de juros, e fontes diferentes citam valores diferentes. Confira os limites de renda na Caixa ou no site oficial do programa antes de simular. A segunda é que o guia fala em faixa de renda urbana, e o meio rural tem regras próprias.
+Os limites de renda vêm da Portaria MCID nº 333, de 30/03/2026: Faixa 1 até R$ 3.200 de renda familiar mensal; Faixa 2 de R$ 3.200,01 a R$ 5.000; Faixa 3 de R$ 5.000,01 a R$ 9.600, com teto geral urbano de R$ 13.000. Os juros e o subsídio da tabela vêm do guia da ValorFinal, que não cita o número da portaria e não foram conferidos no texto oficial, então confirme com a Caixa antes de simular. Os limites rurais têm faixas próprias na mesma portaria, e a tabela trata só das faixas urbanas.
 
 ## Como o FGTS reduz o custo na prática
 
-O guia descreve três maneiras de usar o FGTS dentro do programa:
+As fontes descrevem três maneiras de usar o FGTS dentro do programa, segundo o guia da ValorFinal:
 
 - **Entrada.** O saldo entra junto com o subsídio e com os seus recursos, reduzindo o valor financiado.
-- **Amortização.** A cada dois anos, o fundo pode abater parte do saldo devedor, o que reduz o total de juros.
+- **Amortização.** O FGTS pode abater parte do saldo devedor. A Lei 8.036 exige um intervalo mínimo de dois anos entre as amortizações extraordinárias (artigo 20, VI), e o guia não detalha uma regra própria do programa.
 - **Redução da parcela.** Como alternativa, o fundo pode abater um percentual das prestações por um período.
 
-Em setembro de 2026, uma reportagem do Meu Tudo, de 18/09/2026, informou que o subsídio do programa recebeu um reforço de R$ 500 milhões do FGTS, feito em 10/09/2026 e previsto para ser usado em 2026. A mesma reportagem diz que o programa tem cerca de R$ 13 bilhões para financiamento de imóveis de baixa renda. O valor é uma reserva orçamentária, e não um benefício individual. Ele não garante que você se enquadra na faixa.
+Em setembro de 2026, uma reportagem do Meu Tudo, de 18/09/2026, informou que o subsídio do programa recebeu um reforço de R$ 500 milhões do FGTS, a ser usado até o fim de 2026. Segundo a mesma reportagem, o orçamento de subsídios ficou em cerca de R$ 13 bilhões depois do reforço. Esse valor é uma reserva orçamentária, e não um benefício individual. Ele não garante que você se enquadra na faixa.
 
 ## Cotas e limites para a classe média
 
-Para a classe média, há uma regra específica sobre imóvel usado. A Instrução Normativa MCID 45, em sua versão compilada de 08/04/2026, prevê no artigo 6 que o financiamento de imóvel usado na classe média não pode ser superior a 60% do valor do imóvel, nos estados do Sul e do Sudeste. A norma não traz percentuais para outras regiões nem a faixa de renda da classe média, e por isso eles devem ser conferidos na própria norma ou na Caixa.
+Para a classe média, há uma regra específica sobre imóvel usado. A Instrução Normativa MCID 45, publicada em 29/12/2025 e alterada pela IN MCID 3, de 7/4/2026, prevê no artigo 6 que o financiamento de imóvel usado na classe média não pode ser superior a 60% do valor do imóvel, nos estados do Sul e do Sudeste. A norma não traz percentuais para outras regiões nem a faixa de renda da classe média, e por isso eles devem ser conferidos na própria norma ou na Caixa.
 
 Na prática, se o financiamento é de até 60%, o restante precisa ser entrada. Esse é o ponto onde o FGTS pode ajudar, mas o texto que consultei não confirma se o saldo pode ser usado nessa entrada da classe média. A ValorFinal diz que a Faixa 4 usa recursos do FGTS, e isso faz sentido pela taxa menor, mas a regra exata deve ser confirmada.
 
@@ -72,11 +78,11 @@ Agora, se você usar o FGTS para ampliar a entrada até R$ 260.000 (R$ 200.000 d
 
 ## A MP 1.382/2026 e o que ela trata
 
-A Medida Provisória 1.382, publicada em 1º de agosto de 2026, mexe nas regras do Minha Casa Minha Vida. Segundo a cobertura do Poder360, de 17/09/2026, ela prevê um aporte adicional de R$ 750 milhões da União no FGHab (Fundo Garantidor da Habitação Popular), mudanças nas regras desse fundo e prazo de 2 anos para regularizar unidades pendentes de conclusão ou entrega.
+A Medida Provisória 1.382, publicada no Diário Oficial de 1º de agosto de 2026, mexe nas regras do Minha Casa Minha Vida. Pelo sumário do Senado sobre o texto da MP, ela aumenta em R$ 750 milhões a participação da União no FGHab (Fundo Garantidor da Habitação Popular), permite patrimônio de afetação nesse fundo e renova por 24 meses o prazo para instituições e agentes financeiros manifestarem interesse em concluir e entregar unidades habitacionais pendentes.
 
-A mesma reportagem diz que a MP foi prorrogada por 60 dias, e que o prazo de deliberação passou de 29 de setembro para 28 de novembro de 2026. Uma medida provisória que não é convertida em lei perde a validade, por isso o texto pode mudar.
+O Poder360 informa que a prorrogação de 60 dias foi publicada em 17/09/2026, e que o prazo de deliberação passou de 29 de setembro para 28 de novembro de 2026. Uma medida provisória que não é convertida em lei perde a validade, por isso o texto pode mudar. Não encontrei notícia de conversão em lei até a data de referência.
 
-Há também notícias sobre uma mudança na regra de 10 anos para quem já recebeu benefício habitacional. A cobertura que consultei, do Poder360, afirma que essa regra não aparece no texto da MP. Se você já teve benefício habitacional, não presuma que está elegível nem que está fora da regra. Peça a confirmação à Caixa por escrito.
+A regra de 10 anos está no inciso III do artigo 9º da Lei 14.620/2023, que veda a subvenção a quem recebeu benefícios similares (do Orçamento-Geral da União, do FAR ou do FDS, ou descontos habitacionais do FGTS). O Planalto mostra duas redações desse inciso. Na primeira, sem nota de alteração, consta a expressão "nos últimos 10 anos". A segunda traz a nota "Redação dada pela Medida Provisória nº 1.382, de 2026" e não tem a expressão. Enquanto a MP estiver em vigor, vale a segunda. Se a MP perder a validade sem virar lei, a redação anterior tende a voltar, e isso deve ser conferido na época. Se você já recebeu algum desses benefícios, não presuma que está elegível nem que está fora da regra. Peça a confirmação à Caixa por escrito.
 
 ## Passo a passo para avaliar o programa
 
@@ -112,6 +118,6 @@ Guarde a resposta por escrito. Se a informação mudar depois, a resposta escrit
 - No Minha Casa Minha Vida, o FGTS financia o programa e pode ser usado na entrada, na amortização ou na parcela, conforme a faixa.
 - O subsídio e os juros dependem da faixa de renda, e os limites são definidos em portaria.
 - Para imóvel usado da classe média, a IN MCID 45 limita o financiamento a 60% no Sul e no Sudeste.
-- A MP 1.382/2026 está em discussão no Congresso, e a elegibilidade de quem já teve benefício deve ser confirmada na Caixa.
+- A MP 1.382/2026 vale desde 1º/08/2026 e tem prazo de deliberação até 28/11/2026. A elegibilidade de quem já teve benefício deve ser confirmada na Caixa.
 
 As regras citadas valem para outubro de 2026. Antes de decidir, confira na Caixa a faixa, os tetos e o uso do FGTS no seu caso, e calcule a sua entrada em [quanto posso financiar](/quanto-posso-financiar).

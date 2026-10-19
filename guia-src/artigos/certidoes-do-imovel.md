@@ -10,7 +10,7 @@ key_points:
   - "Pela Lei 13.097/2015, com a redação da Lei 14.382/2022, certidões forenses do vendedor não são exigidas para a validade do negócio nem para provar a boa-fé do comprador."
   - "O que mais pesa é o que está registrado na matrícula, porque situações fora dela não podem ser opostas ao comprador de boa-fé, com exceções previstas em lei."
   - "Dívidas de condomínio e de IPTU são pedidas em certidões próprias, e o comprador precisa conferir se há débitos antes de pagar."
-  - "Os bancos costumam aceitar certidões de até 30 dias, então o calendário da compra define quando cada certidão deve ser pedida."
+  - "Cada banco define a validade das certidões, e muitos pedem até 30 dias, então o calendário da compra define quando cada certidão deve ser pedida."
 faq:
   - q: "Quais certidões devo pedir antes de comprar um imóvel?"
     a: "No mínimo, a matrícula atualizada, a certidão de situação jurídica, as certidões de débitos de IPTU e de condomínio e a consulta à indisponibilidade pelo cartório. O banco pode pedir outras."
@@ -19,7 +19,7 @@ faq:
   - q: "Quem paga a dívida de condomínio antiga do imóvel?"
     a: "O Código Civil faz o comprador responder por débitos de condomínio do vendedor. Por isso, peça a declaração de quitação antes de pagar o sinal ou assinar o contrato."
   - q: "Por quanto tempo uma certidão vale?"
-    a: "A lei não fixa uma validade geral. Na prática, bancos costumam pedir matrícula de até 30 dias, e as demais certidões variam conforme o órgão e a exigência. Confirme com o banco e o cartório."
+    a: "A lei não fixa uma validade geral. Muitos bancos pedem matrícula de até 30 dias, mas isso é regra de cada banco, e não da lei. As demais certidões variam conforme o órgão e a exigência. Confirme com o banco e o cartório."
 sources:
   - title: "Planalto: Lei 6.015/1973, Lei de Registros Públicos (texto compilado, art. 19 sobre prazos de certidões)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
@@ -61,7 +61,7 @@ Peça as duas, nesta ordem: primeiro a matrícula, para ler o histórico, e depo
 
 ## Indisponibilidade e restrições do vendedor
 
-A Central Nacional de Indisponibilidade de Bens (CNIB) reúne ordens de restrição sobre imóveis em nome de pessoas, emitidas por juízes e autoridades com poder para isso. Segundo o IRIB, os cartórios de imóveis consultam a central no início e no fim do expediente, e antes de atos sobre imóveis. Se a ordem for registrada para um imóvel daquele cartório, ela aparece na matrícula.
+A Central Nacional de Indisponibilidade de Bens (CNIB) reúne ordens de restrição sobre imóveis em nome de pessoas, emitidas por juízes e autoridades com poder para isso. Segundo o IRIB, que cita o Provimento 39 do CNJ, os cartórios de imóveis consultam a central na abertura e uma hora antes do fim do expediente, e antes de atos sobre imóveis. Há notícia de 2023 sobre alteração desse provimento, que não li em detalhe, então confirme a regra vigente com o cartório. Se a ordem for registrada para um imóvel daquele cartório, ela aparece na matrícula.
 
 Você não precisa consultar a central sozinho. Peça ao cartório a informação sobre a consulta e, se houver restrição, a explicação do que ela impede. Uma indisponibilidade impede a venda, e a compra não deve ser assinada até a liberação.
 

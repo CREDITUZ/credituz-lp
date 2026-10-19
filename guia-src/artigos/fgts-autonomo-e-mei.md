@@ -57,9 +57,9 @@ Para usar o FGTS na compra da casa própria, o artigo 20 da Lei 8.036/1990 exige
 
 Veja um exemplo de contagem. Imagine que você tenha trabalhado de carteira assinada de março de 2016 a junho de 2019, e depois de fevereiro de 2021 a abril de 2022, quando virou autônomo.
 
-- Primeiro período: de março de 2016 a junho de 2019, 39 meses, ou 3 anos e 3 meses.
-- Segundo período: de fevereiro de 2021 a abril de 2022, 14 meses, ou 1 ano e 2 meses.
-- Total somado: 53 meses, ou 4 anos e 5 meses.
+- Primeiro período: de março de 2016 a junho de 2019, 40 meses se contarmos o mês inicial e o final, ou 3 anos e 4 meses.
+- Segundo período: de fevereiro de 2021 a abril de 2022, 15 meses, ou 1 ano e 3 meses.
+- Total somado: 55 meses, ou 4 anos e 7 meses.
 
 Nesse exemplo, os 3 anos estão atendidos, mesmo com a interrupção. Os seus extratos do FGTS e a carteira de trabalho são as provas que você apresenta. Confira no aplicativo FGTS se todos os contratos aparecem, porque um emprego antigo sem depósito registrado pode não contar.
 

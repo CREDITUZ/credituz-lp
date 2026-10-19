@@ -14,9 +14,9 @@ faq:
   - q: "Posso financiar sala comercial no mesmo banco que financia meu apartamento?"
     a: "Pode, mas a linha é outra. O banco analisa a destinação do imóvel, define a cota e a taxa próprias para comercial e pode recusar a operação. Peça a proposta da linha comercial por escrito."
   - q: "Posso usar o FGTS para comprar uma loja?"
-    a: "Não. O FGTS para compra de imóvel é restrito à moradia, e a destinação comercial costuma bloquear o uso mesmo quando o imóvel é misto."
+    a: "Não. O manual do FGTS exige imóvel residencial urbano para a compra. Em imóvel misto, só a parte residencial pode usar o saldo, conforme o laudo de avaliação."
   - q: "Comprar em nome de uma empresa muda o financiamento?"
-    a: "Pode mudar bastante. Se o comprador for pessoa jurídica, o banco analisa a empresa, o faturamento e as demonstrações contábeis, e não só a renda do CPF. Confirme as exigências com o banco e com o contador."
+    a: "Pode mudar. Se o comprador for pessoa jurídica, o banco pode analisar a empresa, o faturamento e as demonstrações contábeis, e não só a renda do CPF. Confirme as exigências com o banco e com o contador."
   - q: "Qual é a cota de financiamento de imóvel comercial?"
     a: "Não existe um número único. Cada banco define a cota, o prazo e a taxa na proposta, de acordo com o imóvel e o seu perfil. Compare pelo CET e pela parcela, não pela cota isolada."
 sources:
@@ -26,8 +26,10 @@ sources:
     url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v1_O.pdf"
   - title: "Lei 9.514/1997, art. 22 (alienação fiduciária de imóveis em geral, usada no SFI), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
-  - title: "Agência Brasil: Caixa volta a financiar 80% no SAC e 70% na Price (09/12/2025)"
-    url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
+  - title: "Manual do FGTS Utilização na Moradia Própria, itens 13.1.1 e 13.6.5.1 (imóvel residencial urbano; imóvel misto), fgts.gov.br"
+    url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
+  - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
+    url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
 related: [sfh-e-sfi, fgts-imovel-comercial, custos-para-comprar-imovel, cet-financiamento-imobiliario]
 ---
 
@@ -50,14 +52,14 @@ Essa diferença não é um detalhe técnico. Ela decide quanto você paga de jur
 | Finalidade | Moradia | Imóvel em geral, inclusive sala, loja e galpão |
 | Teto de juros | Até 12% ao ano, somando juros e encargos, sem contar seguros e tarifas | Não há o teto do SFH; a taxa é combinada no contrato |
 | Uso do FGTS | Permitido, cumpridas as regras do fundo | Não permitido para compra |
-| Cota de financiamento | Definida pelo CMN e pelo banco, dentro do limite do SFH | Definida pelo banco, com variação grande entre instituições |
+| Cota de financiamento | Definida pelo banco, dentro das regras do SFH | Definida pelo banco, sem tabela pública |
 | Garantia | Alienação fiduciária do imóvel | Alienação fiduciária do imóvel |
 
 O que se mantém igual é a garantia. Nos dois casos, o imóvel comprado serve de garantia para o banco, e a execução segue a lógica da alienação fiduciária. Por isso, atraso prolongado pode levar à consolidação da propriedade em nome do banco e ao leilão do imóvel.
 
 ## Taxas, cota e prazo: o que costuma mudar
 
-Não há uma tabela pública única para financiamento comercial, como existe para o residencial no SBPE. O que a experiência de mercado mostra é um padrão: a taxa tende a ser mais alta, a entrada tende a ser maior e a análise tende a ser mais detalhada. Isso varia por banco, por tipo de imóvel e pelo relacionamento que você tem com a instituição.
+Não há uma tabela pública única para financiamento comercial. Em geral, a taxa e a entrada podem ser maiores que no residencial, e a análise pode ser mais detalhada. Isso varia por banco, por tipo de imóvel e pelo relacionamento que você tem com a instituição. Não encontrei fonte oficial que quantifique essa diferença, então confirme os números na proposta.
 
 Quando a proposta chegar, confirme cinco pontos por escrito:
 
@@ -80,20 +82,20 @@ Exemplo ilustrativo, com taxa e cota hipotéticas, para mostrar a ordem de grand
 
 A Price começa com parcela menor, mas amortiza o saldo mais devagar. No SAC, a parcela inicial é maior e cai todo mês. A escolha entre as duas segue a mesma lógica do residencial, e o artigo sobre [SAC ou Price](/artigos/sac-ou-price) explica essa comparação com mais detalhes.
 
-Para saber se a parcela cabe no seu orçamento, o banco costuma olhar a renda e o comprometimento. No residencial, a regra usual é limitar a parcela a cerca de 30% da renda bruta. No comercial, a análise pode ser diferente, porque depende do tipo de comprador e da atividade que você vai exercer no imóvel. Pergunte ao banco qual é o critério.
+Para saber se a parcela cabe no seu orçamento, o banco costuma olhar a renda e o comprometimento. No residencial, a prática de mercado costuma limitar a parcela a cerca de 30% da renda bruta, segundo a Serasa. No comercial, a análise pode ser diferente, porque depende do tipo de comprador e da atividade que você vai exercer no imóvel. Pergunte ao banco qual é o critério.
 
 ## Pessoa física ou pessoa jurídica
 
 Quem compra um imóvel comercial pode fazer isso em nome próprio ou em nome de uma empresa. A escolha tem efeitos fiscais, de responsabilidade e de crédito, e não deve ser feita só pela taxa de juros.
 
 - **Pessoa física:** a análise segue a renda, o score e o histórico do CPF, como no residencial. O imóvel fica no seu patrimônio pessoal.
-- **Pessoa jurídica:** o banco avalia a empresa, o faturamento e as demonstrações contábeis. Pode haver exigências adicionais de garantias e de tempo mínimo de atividade.
+- **Pessoa jurídica:** o banco pode analisar a empresa, o faturamento e as demonstrações contábeis. Podem existir exigências adicionais de garantias e de tempo de atividade, a confirmar com o banco.
 
 Antes de decidir, converse com um contador. Ele pode mostrar o efeito do imóvel sobre a tributação e sobre o patrimônio de cada opção.
 
 ## O FGTS não entra
 
-O FGTS é um fundo para moradia, e a regra de uso para compra de imóvel não prevê o imóvel comercial. Há um caso intermediário, o imóvel misto, em que parte do espaço é residencial e parte é comercial, e o banco pode recusar o uso do fundo mesmo assim. O artigo sobre [FGTS e imóvel comercial](/artigos/fgts-imovel-comercial) explica por que esse uso fica de fora e como o banco descobre a destinação.
+O manual do FGTS exige que o imóvel comprado com o saldo seja residencial urbano, destinado à moradia do titular da conta (item 13.1.1). Há um caso intermediário, o imóvel misto, em que parte do espaço é residencial e parte é comercial. Nesse caso, o manual admite o uso do fundo só para a parte residencial, discriminada no laudo (item 13.6.5.1). O artigo sobre [FGTS e imóvel comercial](/artigos/fgts-imovel-comercial) explica como essa separação é feita.
 
 Na prática, isso quer dizer que a entrada e os custos precisam sair de outra fonte. Se você conta com o saldo do FGTS para fechar o negócio, descubra antes se ele pode ser usado. A resposta pode mudar o orçamento inteiro.
 
