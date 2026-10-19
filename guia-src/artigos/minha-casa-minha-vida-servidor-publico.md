@@ -113,6 +113,27 @@ Para a simulação, use o [simulador de financiamento](/simulador). Se a conta a
 - **Acreditar em "cota de servidor" vendida por terceiros.** Cotas e vagas são definidas pelo edital ou pela lei, e não por intermediários.
 - **Confundir o Habite Seguro com o Minha Casa Minha Vida.** Os dois podem se combinar em alguns casos, mas são leis diferentes.
 
+## Quando a sua renda ultrapassa o limite
+
+Servidor com renda familiar acima de R$ 13 mil fica fora do Minha Casa Minha Vida, mesmo com estabilidade no emprego. Nesse caso, o caminho é o financiamento comum, sem subsídio, e a taxa e as condições variam por banco. Compare pelo CET, e não pela taxa mensal anunciada. O texto sobre o [custo efetivo total](/artigos/cet-financiamento-imobiliario) explica como fazer essa comparação.
+
+Vale lembrar que o limite é por família, e não por pessoa. Se o servidor mora com outra pessoa que contribui com as despesas, a renda das duas entra na conta. Se a renda ficar por pouco acima do teto, uma parte da renda pode não ser considerada, como benefícios temporários, que a lei exclui do cálculo.
+
+## O que pedir por escrito a cada órgão
+
+Como servidor, você tem acesso a mais de uma instituição, e a informação pode mudar de uma para outra. Antes de contar com qualquer benefício, peça por escrito:
+
+- à Caixa, a confirmação do enquadramento da faixa e do uso do FGTS;
+- à secretaria de habitação, o edital do programa local e a lista de documentos;
+- ao órgão de pessoal, a declaração de vínculo e de remuneração, que a Caixa pode pedir na análise;
+- à entidade ou ao banco, a tabela de parcelas e o custo total da operação.
+
+Guarde os protocolos e as respostas. Em caso de divergência, o documento escrito é a referência.
+
+## Habite Seguro e outras regras da segurança pública
+
+Quem atua na segurança pública e tem dúvidas sobre o Habite Seguro deve observar que a lei fala em subsídio limitado, e que o pagamento vem do Fundo Nacional de Segurança Pública, e não do FGTS. Por isso, a presença de FGTS na conta não muda a elegibilidade para o subsídio do Habite Seguro, mas altera a forma de pagar a entrada. Confirme esses pontos com a Caixa e com o órgão de origem, porque as regras de cada carreira podem ter detalhes próprios.
+
 ## Resumo
 
 - Não há linha federal específica para servidores civis no Minha Casa Minha Vida.
