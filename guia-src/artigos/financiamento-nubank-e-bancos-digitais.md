@@ -57,10 +57,11 @@ Se você quer comprar um imóvel, o que importa é o financiamento. Se já tem u
 
 ## Nubank: não tem financiamento imobiliário
 
-A página oficial de empréstimos do Nubank, consultada em 19 de outubro de 2026, lista cinco modalidades: empréstimo pessoal, consignado para servidores públicos, consignado do INSS, consignado CLT e antecipação do saque-aniversário do FGTS. Não há linha de imóvel, financiamento imobiliário ou empréstimo com garantia de imóvel.
+A página oficial de empréstimos do Nubank, consultada em 19 de outubro de 2026, lista empréstimo pessoal, consignados (servidores públicos, INSS, CLT e outros) e antecipação do saque-aniversário do FGTS. Não há linha de imóvel, financiamento imobiliário ou empréstimo com garantia de imóvel.
 
 Outras fontes confirmam o mesmo quadro:
 
+- **Em 2021**, o Nubank virou sócio minoritário da Creditas e anunciou que poderia oferecer produtos da parceira no app. A matéria descreve as linhas da Creditas como financiamento para imóveis e carros. Não encontrei essa oferta na página de empréstimos consultada em outubro de 2026, e a parceria não garante que a linha esteja disponível para você.
 - **Em 2023**, a CEO Cristina Junqueira disse que clientes pedem muito crédito imobiliário e que o banco gostaria de oferecer o produto, mas ainda não tinha os processos prontos. A matéria, atualizada em janeiro de 2026, não informa mudança de situação.
 - **Em abril de 2026**, o Nubank divulgou investimento de R$ 45 bilhões no Brasil em 2026 e a intenção de obter licença bancária. A comunicação não cita financiamento imobiliário, home equity nem garantia de imóvel.
 
@@ -70,7 +71,7 @@ Não é possível afirmar que o Nubank nunca vai lançar a linha. O que se pode 
 
 O C6 Bank entrou em home equity em 2022, com operações de até 240 meses e limite de 60% do valor do imóvel, segundo a matéria do Finsiders Brasil. Parte do valor fica condicionada ao pagamento da dívida, em caso de inadimplência, e um imóvel ainda financiado pode ser dado em garantia.
 
-Em agosto de 2026, o C6 divulgou o resultado do primeiro semestre e citou o home equity entre as áreas de negócio, junto com crédito pessoal, corporativo, veículos e consignado. O mesmo material não menciona financiamento imobiliário para compra. Para o consumidor, isso significa que o C6 não é uma alternativa para comprar casa, mas pode ser uma opção para quem já tem um imóvel quitado e precisa de crédito.
+Em agosto de 2026, o C6 divulgou o resultado do primeiro semestre e disse que atua em pessoa física, pessoa jurídica, atacado, veículos, home equity e consignado. O mesmo material não menciona financiamento imobiliário para compra. Para o consumidor, isso significa que o C6 não é uma alternativa para comprar casa, mas pode ser uma opção para quem já tem um imóvel quitado e precisa de crédito.
 
 Antes de contratar home equity de qualquer banco, veja o que muda no seu patrimônio com o guia de [home equity](/artigos/home-equity).
 
@@ -82,7 +83,7 @@ O Banco Inter tem financiamento residencial publicado na página oficial, consul
 - prazo de até 35 anos;
 - imóvel de no mínimo R$ 200 mil;
 - correção do saldo pelo IPCA, e não pela TR;
-- taxa não publicada na página, com referência de reportagem de janeiro de 2026 a partir de 9,5% ao ano mais IPCA.
+- taxa não publicada na página, que manda usar o simulador. Confirme a taxa na sua proposta.
 
 Essa correção pelo IPCA muda a conta: a primeira parcela pode ser menor, mas o saldo sobe com a inflação. O guia de [financiamento no Inter](/artigos/financiamento-inter) mostra o cálculo, e o de [financiamento corrigido pelo IPCA](/artigos/financiamento-corrigido-pelo-ipca) explica os riscos.
 

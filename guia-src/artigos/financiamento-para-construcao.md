@@ -111,7 +111,7 @@ O que o exemplo mostra:
 - **Atraso encarece.** Se a obra parar com quase tudo liberado, você continua pagando cerca de R$ 2.650 por mês só de juros, além do aluguel, se ainda mora de aluguel.
 - **Seus R$ 70 mil entram no começo.** Na prática, o banco costuma exigir que a sua parte seja aplicada nas primeiras etapas.
 
-Na modalidade de aquisição de terreno e construção, a conta muda: com terreno de R$ 150 mil, obra de R$ 350 mil e casa pronta avaliada em R$ 520 mil, uma cota de 80% sobre o menor valor entre custo total e avaliação daria R$ 400 mil de financiamento e R$ 100 mil de recursos próprios. Teste outros valores no [simulador de financiamento](/simulador).
+Na modalidade de aquisição de terreno e construção, a conta muda. Com terreno de R$ 150 mil, obra de R$ 350 mil e casa pronta avaliada em R$ 520 mil, a cota de 80% incide sobre a avaliação (art. 6º da Resolução CMN 4.676/2018), ou seja, até R$ 416 mil. Mas o banco pode limitar o financiamento ao custo total de R$ 500 mil; nesse caso, 80% dão R$ 400 mil, e você entra com R$ 100 mil. Pergunte qual limite vale na sua proposta. Teste outros valores no [simulador de financiamento](/simulador).
 
 ## Obrigações de quem constrói
 
