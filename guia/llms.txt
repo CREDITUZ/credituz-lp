@@ -1,0 +1,7 @@
+# Guia Credituz
+
+> Guias práticos sobre financiamento imobiliário, FGTS, juros, custos e direitos de quem compra imóvel, com dados atualizados e fontes oficiais.
+
+## Ferramentas
+- [Simulador de financiamento](https://guia.credituz.ai/simulador)
+- [Quanto posso financiar](https://guia.credituz.ai/quanto-posso-financiar)
