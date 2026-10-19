@@ -4,7 +4,7 @@ description: "Aprenda a comparar taxas de home equity entre bancos: o que entra 
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A taxa anunciada pelos bancos é a mínima possível; a sua sai da análise de crédito e do imóvel. Compare sempre pelo CET da proposta."
   - "Em outubro de 2026, os sites de Itaú, Santander e Bradesco anunciavam taxas a partir de 1,55%, 1,12% e 1,59% ao mês, respectivamente."

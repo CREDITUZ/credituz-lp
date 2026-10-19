@@ -16,8 +16,12 @@
 
 ## FGTS
 - [Saque-aniversário e financiamento: dá para usar o FGTS no imóvel?](https://guia.credituz.ai/artigos/saque-aniversario-e-financiamento): Quem aderiu ao saque-aniversário pode usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação de 2026.
+- [FGTS para construir a casa: terreno próprio ou terreno e obra](https://guia.credituz.ai/artigos/fgts-para-construir): Como usar o FGTS para construir a casa própria em terreno seu ou comprando terreno e obra juntos, como o dinheiro é liberado e qual o limite de valor.
 - [FGTS para amortizar o financiamento: prazo, parcela ou quitação](https://guia.credituz.ai/artigos/fgts-para-amortizar-financiamento): Como usar o FGTS para amortizar ou quitar o financiamento do imóvel, a regra dos 2 anos, o pagamento de até 80% da parcela por 12 meses e qual opção economiza mais.
 - [FGTS na compra do imóvel: regras, limites e como usar em 2026](https://guia.credituz.ai/artigos/fgts-na-compra-do-imovel): Quem pode usar o FGTS na compra da casa própria em 2026, qual o valor máximo do imóvel, que tipo de imóvel aceita e como o saldo reduz a entrada e a parcela.
+- [FGTS em imóvel na planta: quando libera e como usar](https://guia.credituz.ai/artigos/fgts-imovel-na-planta): Quando o FGTS pode ser usado em imóvel na planta, por que ele não paga a entrada parcelada da construtora e como o saldo é liberado durante a obra.
+- [FGTS de duas pessoas na mesma compra: casal, amigos e parentes](https://guia.credituz.ai/artigos/fgts-de-dois-compradores): Como duas pessoas usam o FGTS na compra do mesmo imóvel, o que o regime de bens muda para o casal e em que casos o imóvel de um impede o uso pelo outro.
+- [Como consultar o saldo e o extrato do FGTS antes de comprar](https://guia.credituz.ai/artigos/consultar-saldo-fgts): Veja como consultar o saldo e o extrato do FGTS pelo app, pelo internet banking da Caixa e na agência, e como conferir se o empregador depositou certo.
 
 ## Programas e regras
 - [Subsídio do Minha Casa Minha Vida: como o desconto é calculado](https://guia.credituz.ai/artigos/subsidio-minha-casa-minha-vida): Como funciona o subsídio do Minha Casa Minha Vida em 2026: quem recebe, o que pesa no cálculo, tetos por região e como descobrir quanto você vai ganhar.
@@ -29,8 +33,12 @@
 
 ## Crédito e score
 - [Score para financiamento imobiliário: o que o banco avalia](https://guia.credituz.ai/artigos/score-para-financiamento-imobiliario): Não existe score mínimo oficial para financiar imóvel. Veja como o banco usa o score, o que mais pesa na análise e como melhorar a pontuação antes do pedido.
+- [Registrato: como consultar o SCR no Banco Central](https://guia.credituz.ai/artigos/registrato): Passo a passo para tirar o relatório do SCR no Registrato do Banco Central com conta gov.br, como ler cada campo e como corrigir uma informação errada.
 - [Nome sujo: dá para fazer financiamento imobiliário?](https://guia.credituz.ai/artigos/nome-sujo-financiamento-imobiliario): Com o CPF negativado, a aprovação do financiamento imobiliário fica muito difícil. Veja por que, quais saídas existem e como limpar o nome antes do pedido.
 - [Financiamento negado: por que o banco recusa e o que fazer](https://guia.credituz.ai/artigos/financiamento-negado): Entenda os motivos mais comuns de financiamento imobiliário negado, como descobrir qual foi o seu, quanto esperar e o que ajustar antes de tentar de novo.
+- [Como limpar o nome antes de pedir financiamento imobiliário](https://guia.credituz.ai/artigos/limpar-nome-antes-de-financiar): Roteiro para limpar o nome antes do financiamento: levantar pendências, negociar, prazos de baixa, protesto em cartório e a situação do Desenrola em 2026.
+- [Como consultar o score grátis: Serasa, Boa Vista, Quod e SPC](https://guia.credituz.ai/artigos/consultar-score-gratis): Passo a passo para consultar seu score e seu CPF de graça em Serasa, Boa Vista (Consumidor Positivo), Quod e SPC, o que cada um mostra e como evitar sites falsos.
+- [Como aumentar o score rápido: o que funciona e o que é mito](https://guia.credituz.ai/artigos/aumentar-score-rapido): Não existe atalho garantido para subir o score. Veja o que de fato mexe na pontuação, o que é mito, o que é golpe e quanto tempo esperar antes do financiamento.
 - [Cadastro Positivo e Open Finance: como ajudam no crédito](https://guia.credituz.ai/artigos/cadastro-positivo-e-open-finance): Como o Cadastro Positivo e o Open Finance mostram ao banco que você paga em dia, o que a lei garante sobre seus dados e quando compartilhar ajuda a financiar.
 
 ## Custos e documentos
@@ -41,8 +49,12 @@
 - [Avaliação do imóvel pelo banco: como funciona e se vier baixa](https://guia.credituz.ai/artigos/avaliacao-do-imovel-pelo-banco): Como o banco avalia o imóvel no financiamento, quanto custa a tarifa e o que fazer se o laudo vier abaixo do preço para não perder a compra, com exemplo.
 
 ## Alternativas
+- [Lance no consórcio: tipos, como calcular e quanto oferecer](https://guia.credituz.ai/artigos/lance-no-consorcio): Veja como funciona o lance no consórcio de imóvel: livre, fixo e embutido, como calcular o percentual, o que acontece com as parcelas e exemplos com números.
 - [Home equity: como funciona o crédito com garantia de imóvel](https://guia.credituz.ai/artigos/home-equity): Entenda o home equity: quanto dá para pegar, taxas de 2026, o que muda com o Marco Legal das Garantias e o risco real de perder o imóvel se a parcela atrasar.
+- [Crédito com garantia de imóvel: como comparar taxas e CET](https://guia.credituz.ai/artigos/credito-com-garantia-de-imovel-taxas): Aprenda a comparar taxas de home equity entre bancos: o que entra no CET, por que a taxa a partir de engana e uma simulação com IOF e tarifa de avaliação.
 - [Consórcio ou financiamento: qual vale mais para comprar imóvel](https://guia.credituz.ai/artigos/consorcio-ou-financiamento): Compare consórcio e financiamento imobiliário com uma simulação real: custo total, prazo até a chave, reajuste das parcelas e quando cada um faz sentido.
+- [Consórcio imobiliário: como funciona, regras e custos em 2026](https://guia.credituz.ai/artigos/consorcio-imobiliario-como-funciona): Entenda o consórcio de imóvel: grupo, cota, carta de crédito, contemplação, reajuste pelo INCC, fundo de reserva, seguro e as regras do Banco Central.
+- [Aluguel com opção de compra: como funciona e quais os riscos](https://guia.credituz.ai/artigos/aluguel-com-opcao-de-compra): Entenda o aluguel com opção de compra no Brasil: leasing imobiliário, locação com promessa de venda, cláusulas essenciais, riscos e quando faz sentido.
 - [Alugar ou comprar imóvel: como fazer a conta em 2026](https://guia.credituz.ai/artigos/alugar-ou-comprar): Como comparar alugar e comprar imóvel com Selic, CDI, aluguel e valorização de outubro de 2026, com simulação de 10 anos à vista e financiada.
 
 ## Seus direitos

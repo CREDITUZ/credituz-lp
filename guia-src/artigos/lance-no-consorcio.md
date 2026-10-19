@@ -4,7 +4,7 @@ description: "Veja como funciona o lance no consórcio de imóvel: livre, fixo e
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Lance é um adiantamento de parcelas que você oferece para ser contemplado antes do sorteio; quem oferece o maior percentual (ou cumpre a regra do lance fixo) leva a carta."
   - "No lance livre você escolhe o valor; no fixo o percentual é definido pelo regulamento; no embutido parte da própria carta paga o lance."

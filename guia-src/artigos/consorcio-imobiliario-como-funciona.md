@@ -1,6 +1,6 @@
 ---
 title: "Consórcio imobiliário: como funciona, regras e custos em 2026"
-description: "Entenda o consórcio de imóvel por dentro: grupo, cota, carta de crédito, contemplação, reajuste pelo INCC, fundo de reserva, seguro e o que as regras do BC exigem."
+description: "Entenda o consórcio de imóvel: grupo, cota, carta de crédito, contemplação, reajuste pelo INCC, fundo de reserva, seguro e as regras do Banco Central."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
