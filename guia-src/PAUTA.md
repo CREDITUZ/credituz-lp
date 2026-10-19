@@ -1,0 +1,339 @@
+# Pauta do Guia Credituz: meta de 50 artigos por categoria
+
+Prioridade dentro de cada categoria: de cima para baixo (intenção de busca e valor de anúncio
+mais altos primeiro). [O1] marca a onda 1. Cada onda tem de 20 a 30 artigos e só entra no ar
+depois da checagem de fatos. Antes de escrever, confira se o tema não repete um artigo existente.
+
+## financiamento (10 publicados, faltam 40)
+- [O1] financiamento-caixa: como funciona o financiamento imobiliário da Caixa, linhas, cota, prazo e simulação
+- [O1] financiamento-banco-do-brasil: financiamento imobiliário no Banco do Brasil
+- [O1] financiamento-itau: financiamento imobiliário no Itaú
+- [O1] financiamento-santander: financiamento imobiliário no Santander
+- financiamento-bradesco: financiamento imobiliário no Bradesco
+- financiamento-inter: financiamento imobiliário no Banco Inter
+- financiamento-nubank-e-bancos-digitais: bancos digitais no crédito imobiliário
+- simulacao-financiamento-passo-a-passo: como simular e comparar propostas de vários bancos
+- cet-financiamento-imobiliario: o que é o CET e como ler
+- tr-no-financiamento: como a TR corrige o saldo
+- financiamento-corrigido-pelo-ipca: crédito imobiliário com IPCA, vantagens e riscos
+- taxa-prefixada-ou-pos-fixada: qual escolher
+- financiamento-de-terreno: como financiar terreno ou lote
+- financiamento-para-construcao: construir com financiamento (aquisição de terreno e construção)
+- financiamento-de-imovel-usado: regras e cuidados
+- financiamento-de-imovel-comercial: sala, loja, galpão
+- financiamento-de-imovel-rural: chácara e sítio
+- financiamento-imovel-de-leilao: dá para financiar imóvel de leilão
+- financiamento-segundo-imovel: financiar mais de um imóvel
+- financiamento-para-reforma: crédito para reformar
+- financiamento-com-entrada-parcelada: como funciona
+- financiamento-sem-entrada: existe e quando
+- financiamento-aposentado: regras de idade e renda
+- financiamento-servidor-publico: condições para servidores
+- financiamento-para-quem-mora-fora: brasileiros no exterior
+- financiamento-para-estrangeiro: estrangeiro residente
+- financiamento-com-carta-de-credito: carta de crédito aprovada antes de achar o imóvel
+- quanto-tempo-demora-financiamento: prazos de cada etapa
+- etapas-do-financiamento: da simulação ao registro
+- contrato-de-financiamento-clausulas: o que ler antes de assinar
+- alienacao-fiduciaria: o que é e o que muda para quem compra
+- quitar-financiamento: como quitar antes do prazo
+- atrasar-parcela-financiamento: o que acontece e como renegociar
+- retomada-do-imovel-por-atraso: prazos e direitos
+- vender-imovel-financiado: como vender antes de quitar
+- transferir-financiamento: cessão para outra pessoa
+- trocar-sac-por-price: dá para mudar depois de assinar
+- financiamento-divorcio: o que fazer com o imóvel financiado na separação
+- financiamento-morte-do-titular: seguro e quitação
+- correspondente-bancario: o que faz e quanto custa
+
+## fgts (3 publicados, faltam 47)
+- [O1] consultar-saldo-fgts: como ver o saldo e o extrato
+- [O1] fgts-imovel-na-planta: usar o FGTS em imóvel na planta
+- [O1] fgts-para-construir: FGTS na construção da casa
+- [O1] fgts-de-dois-compradores: casal usando o FGTS junto
+- fgts-imovel-usado
+- fgts-em-outra-cidade: regra do município
+- fgts-para-quitar-saldo-devedor
+- fgts-pagar-prestacoes-atrasadas
+- fgts-na-portabilidade
+- fgts-para-reforma: quando pode e quando não pode
+- fgts-terreno: dá para usar em terreno
+- fgts-imovel-comercial: por que não pode
+- fgts-de-conta-inativa
+- fgts-retido-saque-aniversario
+- fgts-autonomo-e-mei: quem não tem FGTS
+- fgts-aposentado
+- fgts-de-quem-ja-tem-imovel
+- documentos-para-usar-fgts
+- prazo-para-liberar-fgts-na-compra
+- fgts-negado-motivos
+- fgts-e-minha-casa-minha-vida
+- fgts-futuro: o que é e como funciona
+- fgts-e-consorcio
+- fgts-para-imovel-de-leilao
+- fgts-e-heranca: saldo do falecido
+- rendimento-do-fgts: quanto rende e como é corrigido
+- fgts-vale-a-pena-usar-na-entrada
+- fgts-amortizar-ou-guardar
+- calculo-fgts: quanto é depositado por mês
+- fgts-pelo-app: passo a passo no aplicativo
+- fgts-empregador-nao-depositou: o que fazer
+- fgts-trabalhador-domestico
+- fgts-e-divorcio
+- saque-fgts-doenca-grave (ligado à moradia só como contexto)
+- fgts-na-compra-a-vista
+- fgts-imovel-de-parente: comprar de pai, mãe, irmão
+- fgts-imovel-com-problema-documental
+- fgts-sfh-limite-de-valor
+- fgts-pro-cotista: linha Pró-Cotista
+- fgts-compra-de-fracao: comprar parte de imóvel
+- fgts-e-uniao-estavel
+- fgts-para-imovel-em-condominio-fechado
+- historico-uso-fgts-moradia: como saber se já usou
+- fgts-correcao-tr-stf: decisão sobre correção
+- fgts-e-desemprego-durante-o-financiamento
+- fgts-moradia-perguntas-frequentes: compilado das dúvidas mais comuns
+- fgts-para-quem-trabalha-em-duas-empresas
+
+## programas (2 publicados, faltam 48)
+- [O1] minha-casa-minha-vida-faixa-1: regras, subsídio e inscrição
+- [O1] minha-casa-minha-vida-faixa-3: regras e limites
+- [O1] minha-casa-minha-vida-faixa-4: classe média no programa
+- [O1] subsidio-minha-casa-minha-vida: como é calculado
+- minha-casa-minha-vida-imovel-usado
+- minha-casa-minha-vida-reforma: linha de reforma
+- minha-casa-minha-vida-rural
+- minha-casa-minha-vida-entidades
+- minha-casa-minha-vida-documentos
+- minha-casa-minha-vida-como-se-inscrever
+- minha-casa-minha-vida-cadunico
+- minha-casa-minha-vida-sorteio
+- minha-casa-minha-vida-servidor-publico
+- minha-casa-minha-vida-autonomo
+- minha-casa-minha-vida-teto-por-cidade
+- minha-casa-minha-vida-juros-por-faixa
+- minha-casa-minha-vida-quitar-antes
+- minha-casa-minha-vida-vender-imovel
+- minha-casa-minha-vida-atraso-parcela
+- minha-casa-minha-vida-segunda-vez
+- casa-paulista: programa do estado de SP
+- cdhu: habitação do estado de SP
+- programas-habitacionais-estaduais: visão geral por estado
+- programas-habitacionais-municipais
+- aluguel-social
+- regularizacao-fundiaria-reurb
+- reforma-casa-brasil (linhas federais de reforma, se vigentes)
+- pro-cotista
+- sbpe: o que é e como funciona
+- sfi-acima-do-teto
+- lig-e-cri-para-leigos: de onde vem o dinheiro do crédito imobiliário
+- poupanca-e-credito-imobiliario: por que a poupança importa
+- novo-modelo-credito-imobiliario: as mudanças de 2025 e 2026
+- selic-e-financiamento: como a Selic afeta o crédito
+- copom-calendario-e-financiamento
+- historico-taxa-juros-financiamento
+- mercado-imobiliario-2026: panorama para o comprador
+- preco-dos-imoveis-2026: FipeZap e tendência
+- melhores-cidades-para-comprar-imovel
+- imovel-de-leilao-caixa: como funciona
+- venda-direta-caixa
+- imoveis-retomados-bancos
+- programa-casa-verde-e-amarela-o-que-mudou (histórico)
+- moradia-para-idosos-programas
+- programas-para-pessoa-com-deficiencia
+- financiamento-habitacional-militar
+- credito-habitacional-cooperativas
+- programa-de-arrendamento-residencial-par
+
+## credito (4 publicados, faltam 46)
+- [O1] aumentar-score-rapido: o que funciona e o que é mito
+- [O1] consultar-score-gratis: Serasa, Boa Vista, Quod, SPC
+- [O1] registrato: como consultar o SCR no Banco Central
+- [O1] limpar-nome-antes-de-financiar: negociação e prazos
+- serasa-limpa-nome: como funciona
+- desenrola: programa de renegociação
+- divida-prescrita: o que é e o que muda
+- protesto-em-cartorio: como consultar e baixar
+- cheque-sem-fundo-ccf
+- cpf-irregular-receita
+- comprometimento-de-renda
+- analise-de-credito-como-funciona
+- score-baixo-o-que-fazer
+- score-alto-garante-aprovacao
+- cadastro-positivo-como-cancelar
+- open-finance-como-compartilhar-dados
+- emprestimo-antes-do-financiamento: impacto
+- cartao-de-credito-e-financiamento
+- consorcio-ativo-e-financiamento
+- financiamento-de-carro-e-de-imovel
+- divida-com-fiador
+- avalista-e-fiador
+- renda-informal-comprovacao
+- extrato-bancario-como-renda
+- declaracao-de-imposto-de-renda-e-financiamento
+- carne-leao-e-financiamento
+- pro-labore-socio-empresa
+- renda-de-aluguel-como-comprovacao
+- renda-no-exterior
+- pensao-alimenticia-e-renda
+- beneficio-inss-e-financiamento
+- bpc-e-financiamento
+- primeiro-emprego-e-financiamento
+- contrato-temporario-e-financiamento
+- pj-e-financiamento-pessoa-fisica
+- golpes-de-credito-imobiliario: como evitar
+- falso-correspondente-bancario
+- taxa-antecipada-golpe
+- simulador-falso
+- lgpd-e-dados-no-financiamento
+- direito-de-saber-por-que-o-credito-foi-negado
+- revisao-de-decisao-automatizada
+- historico-de-credito-jovem
+- score-para-aluguel
+- score-e-cartorio
+- score-quod
+
+## custos (5 publicados, faltam 45)
+- [O1] itbi-sao-paulo: alíquota, cálculo e desconto SFH em SP
+- [O1] itbi-rio-de-janeiro
+- [O1] escritura-e-registro-quanto-custa
+- [O1] taxa-de-avaliacao-do-imovel: quanto cobra cada banco
+- itbi-belo-horizonte
+- itbi-brasilia
+- itbi-curitiba
+- itbi-porto-alegre
+- itbi-salvador
+- itbi-fortaleza
+- itbi-recife
+- itbi-goiania
+- itbi-campinas
+- itbi-florianopolis
+- itbi-manaus
+- itbi-belem
+- itbi-vitoria
+- isencao-itbi: quando existe
+- itbi-parcelado
+- registro-de-imovel-passo-a-passo
+- matricula-do-imovel: como ler
+- certidoes-do-imovel
+- certidoes-do-vendedor
+- desconto-registro-primeiro-imovel
+- taxa-de-administracao-financiamento
+- tarifa-de-cadastro
+- iof-no-financiamento-imobiliario: existe?
+- custos-cartorio-por-estado
+- corretagem-quem-paga
+- laudemio
+- custos-de-mudanca
+- condominio-e-iptu-na-conta
+- iptu-como-funciona
+- seguro-residencial-opcional
+- seguro-fianca
+- taxa-de-ligacao-e-vistoria
+- despachante-imobiliario-vale-a-pena
+- advogado-na-compra-de-imovel
+- vistoria-antes-de-comprar
+- planilha-de-custos-da-compra
+- ganho-de-capital-venda-de-imovel
+- isencao-ir-venda-imovel
+- declarar-imovel-no-ir
+- declarar-financiamento-no-ir
+- imposto-de-renda-aluguel
+
+## alternativas (3 publicados, faltam 47)
+- [O1] consorcio-imobiliario-como-funciona
+- [O1] lance-no-consorcio: como dar e calcular
+- [O1] credito-com-garantia-de-imovel-taxas
+- [O1] aluguel-com-opcao-de-compra
+- consorcio-melhores-administradoras: como avaliar (sem ranking pago)
+- consorcio-contemplado-a-venda
+- consorcio-taxa-de-administracao
+- consorcio-desistencia
+- consorcio-para-investir
+- consorcio-ou-poupar
+- home-equity-para-quitar-dividas
+- home-equity-riscos
+- refinanciamento-de-imovel
+- comprar-a-vista-ou-financiar
+- investir-ou-quitar-financiamento
+- fundos-imobiliarios-x-imovel
+- comprar-imovel-para-alugar: rentabilidade
+- airbnb-x-aluguel-tradicional
+- imovel-na-planta-como-investimento
+- leilao-de-imoveis-guia
+- imoveis-retomados-vale-a-pena
+- compra-direto-com-proprietario
+- financiamento-direto-com-construtora
+- financiamento-com-loteadora
+- permuta-de-imovel
+- multipropriedade
+- cooperativa-habitacional
+- compra-coletiva
+- fintechs-de-credito-imobiliario
+- credito-imobiliario-digital
+- aluguel-quanto-pagar
+- contrato-de-aluguel
+- garantias-do-aluguel
+- reajuste-do-aluguel-igpm-ipca
+- morar-de-aluguel-e-investir: simulação
+- casa-ou-apartamento
+- imovel-novo-ou-usado
+- imovel-em-condominio
+- imovel-pequeno-studio
+- comprar-imovel-com-amigos
+- comprar-imovel-solteiro
+- comprar-imovel-casal-sem-casamento
+- reserva-de-emergencia-antes-de-comprar
+- quanto-guardar-para-comprar-imovel
+- planejamento-financeiro-casa-propria
+- tesouro-renda-ou-imovel
+- previdencia-e-imovel
+
+## direitos (3 publicados, faltam 47)
+- [O1] vicios-construtivos: defeitos na obra e garantia
+- [O1] desistir-da-compra-arrependimento
+- [O1] corretagem-abusiva-e-sati
+- [O1] cobranca-indevida-financiamento
+- revisao-de-contrato-financiamento
+- juros-abusivos-financiamento
+- leilao-extrajudicial-direitos
+- renegociacao-de-divida-imobiliaria
+- procon-e-imovel
+- codigo-de-defesa-do-consumidor-e-imovel
+- habite-se
+- averbacao-da-construcao
+- vistoria-de-entrega-de-chaves
+- metragem-menor-que-a-prometida
+- propaganda-enganosa-imovel
+- condominio-direitos-e-deveres
+- taxa-de-condominio-atrasada
+- usucapiao
+- inventario-e-imovel
+- doacao-de-imovel
+- testamento-e-imovel
+- uniao-estavel-e-imovel
+- separacao-de-bens
+- bem-de-familia
+- penhora-de-imovel
+- imovel-de-heranca-venda
+- contrato-de-gaveta
+- compra-sem-escritura-riscos
+- promessa-de-compra-e-venda
+- sinal-arras
+- vendedor-desistiu
+- imovel-com-divida
+- imovel-com-inquilino
+- direito-de-preferencia-inquilino
+- despejo
+- lei-do-inquilinato
+- devolucao-de-caucao
+- reformas-e-vizinhanca
+- patrimonio-de-afetacao
+- falencia-da-construtora
+- seguro-garantia-da-obra
+- financiamento-e-perda-de-renda
+- seguro-mip-sinistro-como-acionar
+- seguro-dfi-sinistro
+- quitacao-por-invalidez
+- ouvidoria-banco-e-banco-central
+- consumidor-gov-br
