@@ -1,10 +1,10 @@
 ---
 title: "Entrada para financiar imóvel: quanto é preciso em 2026"
-description: "Quanto de entrada você precisa para financiar um imóvel em 2026, como funciona a cota de financiamento na Caixa e nos bancos privados e onde a conta costuma furar."
+description: "Quanto de entrada você precisa para financiar um imóvel em 2026, como funciona a cota de financiamento na Caixa e nos bancos privados e onde a conta pode furar."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Na maioria dos financiamentos você precisa de 20% a 30% do valor avaliado do imóvel como entrada."
   - "Na Caixa, pelo SBPE, a cota é de até 80% no SAC e de até 70% na Price, regra retomada no fim de 2025."
@@ -106,6 +106,26 @@ A entrada não é o único dinheiro que você precisa ter em mãos. Em regra, es
 - **Escritura,** quando a compra não é feita pelo próprio contrato do banco.
 
 A lista completa, com exemplo, está em [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
+
+## Como montar um plano para juntar a entrada
+
+Se a entrada ainda não está pronta, transforme o valor em meta mensal. Um exemplo simples, sem considerar o rendimento do dinheiro guardado:
+
+### Exemplo ilustrativo
+
+Imóvel de R$ 500 mil, cota de 80%, entrada de R$ 100 mil:
+
+- Em 36 meses: cerca de R$ 2.778 por mês.
+- Em 48 meses: cerca de R$ 2.083 por mês.
+
+Com o dinheiro aplicado em um investimento de baixo risco, o valor mensal necessário fica um pouco menor. Some à meta os custos de compra e uma reserva para a mudança.
+
+Alguns cuidados enquanto você junta:
+
+- **Deixe o dinheiro em aplicação de baixo risco e com liquidez.** Você vai precisar dele em data certa.
+- **Acompanhe o saldo do FGTS** no aplicativo oficial. Ele pode cobrir parte da meta.
+- **Simule de tempos em tempos.** Taxas, cotas e preços mudam. Uma cota maior no futuro pode antecipar a compra; uma menor pode adiar.
+- **Mantenha o nome limpo e as dívidas baixas.** A entrada não adianta se a renda não for aprovada. Veja [quanto preciso ganhar para financiar](/artigos/renda-para-financiar-imovel).
 
 ## Entrada maior ou menor: o que compensa
 

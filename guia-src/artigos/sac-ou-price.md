@@ -1,10 +1,10 @@
 ---
 title: "SAC ou Price: qual tabela escolher no financiamento do imóvel"
-description: "Veja a diferença entre SAC e Price com simulação real: parcela inicial, juros totais, saldo devedor, renda exigida e em que situação cada sistema faz mais sentido."
+description: "Veja a diferença entre SAC e Price com simulação: parcela inicial, juros totais, saldo devedor, renda exigida e em que situação cada sistema faz mais sentido."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "No SAC a parcela começa mais alta e cai todo mês; na Price ela fica estável, antes da correção."
   - "No mesmo financiamento, o SAC paga bem menos juros no total que a Price."
@@ -113,6 +113,36 @@ O sistema escolhido também pode mudar quanto o banco financia. Segundo nota da 
 ### A estratégia "Price com amortização"
 
 Há quem escolha Price para ter parcela menor e, todo mês, amortize por conta própria a diferença para o SAC. No exemplo, pagar R$ 870 extras por mês na Price, abatendo do saldo, quitaria o contrato em cerca de 174 meses, em vez de 420. A estratégia funciona se você tiver disciplina. Se um mês apertar, basta não amortizar, sem atraso. Confira no contrato as regras e eventuais custos de amortização extra e veja [como amortizar](/artigos/amortizar-financiamento-prazo-ou-parcela).
+
+## Como o sistema pesa em situações do dia a dia
+
+A escolha não importa só na parcela. Ela muda o resultado de decisões que você pode tomar no meio do contrato.
+
+### Vender o imóvel antes de quitar
+
+Quem vende o imóvel financiado precisa quitar o saldo devedor com o dinheiro da venda. Como a Price amortiza devagar no começo, o saldo cai pouco nos primeiros anos. No exemplo, depois de 10 anos o saldo da Price ainda é de R$ 382.150,67, contra R$ 285.714,29 no SAC. A diferença, cerca de R$ 96 mil, é o quanto a mais você teria de abater na venda. Se você imagina trocar de imóvel em poucos anos, esse ponto pesa.
+
+### Usar o FGTS para amortizar
+
+O saldo do FGTS pode ser usado para abater o saldo devedor, dentro das regras do fundo. Na Price, cada real abatido nos primeiros anos evita juros por mais tempo, então o efeito é grande. No SAC, o efeito também é relevante, mas a dívida já cai mais rápido por conta própria. Veja [como usar o FGTS para amortizar](/artigos/fgts-para-amortizar-financiamento).
+
+### Portabilidade
+
+Se as taxas de mercado caírem, você pode levar o contrato para outro banco. Na portabilidade, o que se transfere é o saldo devedor. Com a Price, esse saldo é maior nos primeiros anos, e por isso uma redução de taxa costuma gerar economia maior em reais. Veja [quando a portabilidade vale a pena](/artigos/portabilidade-financiamento-imobiliario).
+
+### Juros pagos nos primeiros 10 anos
+
+No exemplo de R$ 400 mil a 11,5% ao ano, nos primeiros 120 meses você paga cerca de R$ 375,4 mil de juros no SAC e cerca de R$ 429,5 mil na Price. São R$ 54 mil a mais em juros na Price só na primeira década, mesmo com parcela menor.
+
+## Como pedir a simulação certa
+
+1. Peça ao banco as duas simulações, SAC e Price, com o mesmo valor, prazo e indexador.
+2. Anote a primeira parcela completa, com seguros e tarifa.
+3. Anote o CET (Custo Efetivo Total) de cada uma.
+4. Pergunte a cota máxima em cada sistema.
+5. Peça a evolução do saldo devedor, ou ao menos o saldo previsto em 5 e 10 anos.
+
+Com esses cinco números, a escolha fica objetiva.
 
 ## Erros comuns
 

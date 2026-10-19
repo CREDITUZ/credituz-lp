@@ -102,7 +102,7 @@ Nenhuma delas é atalho mágico, e cada uma tem custo:
 - **Contratar empresa que promete "limpar o nome" sem pagar.** A única forma legal de tirar uma negativação válida é pagar, negociar ou esperar o prazo legal. Fora isso, só por erro do credor, contestado no próprio bureau ou na Justiça.
 - **Comprar no nome de outra pessoa e pagar escondido.** Além do risco jurídico de declarar algo falso ao banco, o imóvel passa a ser legalmente da outra pessoa.
 - **Fazer acordo com parcela que não cabe no orçamento.** Se o acordo atrasar, a negativação volta e o histórico piora.
-- **Esquecer pendências pequenas.** Uma conta de telefone de R$ 80 negativada pesa no cadastro tanto quanto deixa claro ao banco que existe atraso.
+- **Esquecer pendências pequenas.** Para o banco, uma conta de telefone de R$ 80 negativada é uma restrição como outra qualquer. O valor baixo não impede a recusa.
 - **Não guardar comprovantes.** Pagou, guarde o comprovante e o protocolo do acordo. Se a baixa não acontecer em 5 dias úteis, você vai precisar deles.
 
 Se o seu nome foi negativado sem aviso prévio ou por dívida que você não reconhece, o CDC exige comunicação por escrito antes do registro. Procure o Procon ou um advogado para avaliar o seu caso.

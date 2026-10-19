@@ -4,7 +4,7 @@ description: "Entenda como funciona o financiamento imobiliário em 2026: entrad
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 8
 key_points:
   - "O banco paga a maior parte do imóvel ao vendedor e você devolve esse valor em parcelas mensais, com juros, por até 35 anos."
   - "O imóvel fica alienado ao banco como garantia até a última parcela. Atrasos longos podem levar à perda do imóvel."

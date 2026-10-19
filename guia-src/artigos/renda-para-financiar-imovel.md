@@ -1,10 +1,10 @@
 ---
 title: "Renda para financiar imóvel: quanto preciso ganhar"
-description: "Quanto você precisa ganhar para financiar um imóvel em 2026: a regra dos 30%, como os bancos calculam a renda, o peso das dívidas e simulações por faixa de valor."
+description: "Quanto você precisa ganhar para financiar um imóvel em 2026: a regra dos 30%, como o banco calcula a renda, o peso das dívidas e simulações por faixa de valor."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "A primeira parcela costuma poder chegar a cerca de 30% da renda bruta mensal, sua ou da família."
   - "Dívidas que você já paga reduzem o espaço para a parcela do financiamento."
@@ -103,6 +103,23 @@ Mesmas premissas (11,5% ao ano, 420 meses, parcela de até 30% da renda, sem seg
 Imagine renda de R$ 10 mil e um financiamento de carro de R$ 1 mil por mês. Se o banco descontar essa parcela do limite de 30%, sobram R$ 2 mil para o imóvel. No SAC, o valor financiável cai de cerca de R$ 261 mil para cerca de R$ 174 mil. Quitar ou reduzir dívidas antes de pedir o crédito pode fazer mais diferença que um aumento de salário.
 
 Faça a sua conta na [calculadora de quanto posso financiar](/quanto-posso-financiar).
+
+### Exemplo de renda somada
+
+Um casal em que uma pessoa ganha R$ 6 mil e a outra R$ 5 mil tem renda bruta somada de R$ 11 mil. Com o limite de 30%, a parcela pode chegar a R$ 3.300. Com as mesmas premissas, isso permite financiar cerca de R$ 287.120,78 no SAC ou cerca de R$ 354.119,64 na Price. Sozinha, a pessoa que ganha R$ 6 mil teria parcela máxima de R$ 1.800.
+
+## Quais documentos de renda o banco pede
+
+A lista exata muda de banco para banco, mas a lógica é sempre provar quanto você ganha e com que regularidade:
+
+- **Assalariado (CLT):** contracheques recentes, em geral dos últimos meses, e carteira de trabalho. Alguns bancos pedem o extrato do FGTS.
+- **Servidor público:** contracheques e, em alguns casos, declaração do órgão.
+- **Aposentado ou pensionista:** extrato do benefício.
+- **Autônomo e profissional liberal:** declaração de Imposto de Renda com recibo de entrega e extratos bancários que mostrem a entrada de dinheiro.
+- **Empresário:** pró-labore, declaração de Imposto de Renda pessoa física e, às vezes, documentos da empresa.
+- **Renda de aluguel:** contratos de locação e declaração de Imposto de Renda.
+
+O ponto comum é a coerência: a renda declarada no Imposto de Renda e a que passa pela sua conta precisam conversar. Renda que não aparece em nenhum documento dificilmente entra na conta. A lista completa está em [documentos para financiamento](/artigos/documentos-para-financiamento).
 
 ## Lembre que o valor financiado não é o valor do imóvel
 

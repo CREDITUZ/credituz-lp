@@ -4,7 +4,7 @@ description: "Quanto estão os juros do financiamento imobiliário em outubro de
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Em outubro de 2026, as taxas de balcão dos grandes bancos no SBPE ficam, em geral, entre 10% e 12,3% ao ano mais TR."
   - "A Selic está em 13,75% ao ano desde 16 de setembro de 2026. A próxima reunião do Copom é em 3 e 4 de novembro."
@@ -126,6 +126,20 @@ Entre 10,99% e 12% ao ano, a diferença de juros pagos no total passa de R$ 64 m
 - **Valor da entrada:** entrada maior reduz o risco do banco e pode melhorar a proposta.
 - **Enquadramento:** SFH tem limite de custo; SFI tem taxa livre e costuma ser mais caro.
 - **Renda:** segundo o diretor do Banco Central Gilneu Vivan, em maio de 2026, a expectativa é que as taxas do novo modelo variem de forma inversa à renda do cliente.
+
+## Como ler a proposta do banco
+
+Quando a simulação ou a proposta chegar, confira estes campos antes de comparar:
+
+- **Taxa de juros nominal e efetiva ao ano.** A efetiva é um pouco maior que a nominal quando os juros são capitalizados mês a mês.
+- **Indexador.** TR, IPCA, taxa fixa ou CDI. Sem saber o indexador, a taxa não diz nada.
+- **CET anual.** É o número que soma tudo.
+- **Valor dos seguros MIP e DFI no primeiro mês.** O MIP depende da sua idade.
+- **Tarifa de administração mensal,** se houver.
+- **Condições para manter a taxa.** Se o desconto depende de salário na conta ou de outros produtos, veja o que acontece se você deixar de cumprir.
+- **Primeira parcela completa.** É ela que o banco compara com a sua renda.
+
+Se algum desses campos não estiver na simulação, peça por escrito. Isso evita surpresa na hora de assinar.
 
 ## Erros comuns
 
