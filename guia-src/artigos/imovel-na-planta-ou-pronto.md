@@ -1,10 +1,10 @@
 ---
-title: "Imóvel na planta ou pronto: diferenças no financiamento e no risco"
+title: "Imóvel na planta ou pronto: diferenças no crédito e no risco"
 description: "Compare comprar imóvel na planta ou pronto: como funciona o crédito em cada caso, correção pelo INCC, juros de obra, riscos e qual escolher para o seu perfil."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 8
 key_points:
   - "No imóvel pronto, você financia de uma vez e começa a amortizar no mês seguinte. Na planta, o crédito bancário costuma entrar só na entrega."
   - "Na planta, o saldo com a construtora é corrigido pelo INCC, que acumulou 6,60% em 12 meses até setembro de 2026."

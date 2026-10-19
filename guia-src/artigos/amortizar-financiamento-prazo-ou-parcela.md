@@ -4,7 +4,7 @@ description: "Veja como funciona a amortização extraordinária do financiament
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Amortizar é pagar parte do saldo devedor antes do prazo; os juros sobre esse valor deixam de existir."
   - "Reduzir o prazo economiza mais juros. Reduzir a parcela alivia o orçamento mensal."
@@ -83,6 +83,10 @@ Na SAC, a parcela cai nas duas opções, porque os juros do mês seguinte são m
 | Reduzir parcela | 360 meses | R$ 2.555,24 | cerca de R$ 957 mil | cerca de R$ 66,4 mil |
 
 Na Price, os R$ 30 mil extras no segundo ano eliminam 122 parcelas, mais de 10 anos de contrato. Isso acontece porque, no início, quase toda a parcela é juros: o saldo devedor no mês 24 ainda está em cerca de R$ 297 mil. Esse é o motivo pelo qual amortizar cedo, na Price, tem efeito tão grande.
+
+### O momento da amortização muda o resultado
+
+O mesmo valor extra rende menos economia quanto mais perto do fim do contrato ele é pago. Isso acontece porque, nos últimos anos, o saldo devedor já é pequeno e os juros mensais também. Na prática, R$ 30 mil amortizados no segundo ano evitam juros durante quase três décadas; os mesmos R$ 30 mil pagos nos últimos anos evitam juros só durante o período que falta. Por isso, se você recebe um valor extra (décimo terceiro, bônus, venda de um bem) e já decidiu que vai usá-lo para amortizar, fazer isso logo tende a ser mais vantajoso do que esperar o fim do ano. Perto do fim do contrato, compare com outras dívidas mais caras que você tenha: quitá-las primeiro pode economizar mais.
 
 Para fazer a conta com o seu contrato, use o [simulador de financiamento](/simulador) com o saldo atual e o prazo restante.
 

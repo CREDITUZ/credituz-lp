@@ -4,7 +4,7 @@ description: "Entenda como levar o financiamento do imóvel para outro banco, as
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 7
 key_points:
   - "Portabilidade é transferir a dívida do imóvel para outro banco com juros menores, sem pagar tarifa ao banco atual."
   - "As regras estão na Resolução CMN 5.057/2022, atualizada pela 5.265/2025: o banco de origem não pode recusar o pedido."

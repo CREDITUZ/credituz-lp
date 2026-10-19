@@ -1,10 +1,10 @@
 ---
-title: "Financiamento imobiliário para autônomo e MEI: como comprovar renda"
+title: "Autônomo e MEI: como comprovar renda para financiar imóvel"
 description: "Saiba quais documentos autônomos e MEI usam para comprovar renda no financiamento imobiliário, como o banco calcula a renda e como se preparar."
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 7
 key_points:
   - "Autônomo e MEI podem financiar imóvel; o desafio é provar uma renda estável e compatível com a parcela."
   - "Os documentos mais usados são declaração de Imposto de Renda, extratos bancários, DECORE assinada por contador e, no caso do MEI, a DASN-SIMEI."

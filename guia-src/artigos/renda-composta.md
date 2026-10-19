@@ -4,7 +4,7 @@ description: "Veja quem pode somar renda no financiamento imobiliário, como o b
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Compor renda é somar a renda de duas ou mais pessoas para aumentar o valor que o banco aprova."
   - "Quem entra na composição normalmente vira devedor e coproprietário do imóvel, com responsabilidade pela dívida inteira."
