@@ -4,12 +4,12 @@ description: "Como fazer a vistoria do imóvel novo antes de pegar as chaves: o 
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A vistoria é o momento de comparar o imóvel com o contrato, o memorial descritivo e o material de venda, e de registrar por escrito tudo o que estiver errado."
   - "Receber as chaves com ressalvas no termo não tira nenhum direito. Assinar sem anotar dificulta cobrar defeitos aparentes depois."
   - "Leve trena, carregador ou testador de tomada, balde, celular com boa câmera, fita crepe e a planta do imóvel."
-  - "Com a posse, em regra, passam a correr por sua conta as cotas de condomínio, como ligou o STJ no Tema 886."
+  - "Com a imissão na posse, em regra, as cotas de condomínio passam a ser suas, segundo o Tema 886 do STJ, com ressalvas de decisões posteriores."
   - "Defeitos que aparecem depois da entrega continuam cobertos pelos prazos legais, mas precisam de reclamação por escrito."
 faq:
   - q: "Posso levar um engenheiro ou arquiteto na vistoria?"
@@ -17,7 +17,7 @@ faq:
   - q: "Posso me recusar a receber as chaves?"
     a: "Se o imóvel tem defeitos que impedem o uso, como falta de água, energia ou condições de segurança, a entrega pode não ser considerada feita. Para defeitos menores, o mais comum é receber com ressalvas e exigir o reparo. Em caso de dúvida, procure orientação antes de assinar."
   - q: "A construtora pode cobrar condomínio antes de eu pegar as chaves?"
-    a: "O STJ liga a obrigação de pagar condomínio à posse do imóvel (Tema 886). Cobranças de período anterior à entrega, em especial com atraso da construtora, costumam ser questionáveis."
+    a: "O STJ (Tema 886) liga a obrigação de pagar condomínio à posse do comprador. Cobranças de período anterior à entrega, em especial quando o atraso é da construtora, podem ser contestadas."
   - q: "Quanto tempo a construtora tem para consertar o que anotei?"
     a: "O termo costuma trazer um prazo. Pelo art. 18 do CDC, o fornecedor tem até 30 dias para sanar o vício; se não resolver, você pode pedir abatimento do preço ou outras alternativas da lei."
 sources:
@@ -98,7 +98,7 @@ Falta de água ou energia, risco à segurança ou obra visivelmente inacabada po
 
 Com as chaves, começam a correr despesas que eram da construtora:
 
-- **Condomínio.** O STJ, no Tema 886 (REsp 1.345.331, julgado em 2015), ligou a responsabilidade pelas cotas à relação concreta com o imóvel, marcada pela imissão na posse. Na prática, a cobrança passa a você com a entrega. Cobranças de período anterior, sobretudo quando a entrega atrasou por culpa da construtora, costumam ser questionáveis.
+- **Condomínio.** O STJ, no Tema 886 (REsp 1.345.331, julgado em 8 de abril de 2015), entendeu que a responsabilidade pelas cotas acompanha a posse do comprador, desde que o condomínio tenha ciência da transação. Decisões posteriores da Terceira Turma admitem que o vendedor, enquanto for o proprietário registrado, também seja cobrado. Por isso, peça por escrito a divisão e a data de início das cotas. Cobranças de período anterior à posse, sobretudo quando a entrega atrasou por culpa da construtora, podem ser contestadas.
 - **IPTU.** Verifique no contrato a partir de quando o imposto é seu e se a unidade já tem inscrição própria na prefeitura.
 - **Contas de consumo.** Peça a troca da titularidade de água, energia e gás.
 - **Seguro e manutenção.** O manual lista manutenções periódicas. Se a falta delas causar um problema, a construtora pode negar o reparo com razão.
@@ -121,7 +121,7 @@ Agora o lado dos reparos. Suponha que você anotou no termo 8 itens, com prazo d
 
 - **Guarde o termo, as fotos e o manual** em lugar seguro, inclusive em nuvem.
 - **Acompanhe os reparos** e registre cada visita técnica com data.
-- **Reclame por escrito** de qualquer defeito novo. A NBR 17170, norma técnica de garantias de edificações lançada em 2022, traz prazos recomendados por sistema, mas não reduz os prazos legais do CDC e do Código Civil, como a garantia de 5 anos de solidez e segurança do art. 618.
+- **Reclame por escrito** de qualquer defeito novo. A NBR 17170, norma técnica sobre garantias de edificações lançada em dezembro de 2022, traz prazos recomendados de garantia, e os valores de cada sistema devem ser conferidos no texto da própria norma. Ela não reduz os prazos legais, como a garantia de 5 anos pela solidez e segurança da obra (art. 618 do Código Civil).
 - **Se a construtora não responder**, use os canais do [Procon e do consumidor.gov.br](/artigos/procon-e-imovel).
 
 ## Erros comuns
@@ -139,5 +139,5 @@ Agora o lado dos reparos. Suponha que você anotou no termo 8 itens, com prazo d
 - A vistoria compara o imóvel com o contrato, o memorial e o material de venda.
 - Anote tudo no termo, com fotos e prazo para reparo. Receber com ressalvas preserva seus direitos.
 - Leve trena, testador de tomada, balde, nível, fita crepe e a planta.
-- Com a posse, em regra, o condomínio passa a ser seu (Tema 886 do STJ). Confira o rateio do primeiro mês.
+- Com a posse, em regra, as cotas de condomínio passam a ser suas (Tema 886 do STJ, com ressalvas). Confira o rateio do primeiro mês.
 - Defeitos que aparecem depois continuam com prazo legal para reclamar. Se a construtora não resolver, procure Procon, Defensoria ou advogado.

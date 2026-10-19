@@ -15,7 +15,7 @@ faq:
   - q: "Quais documentos são pedidos em todos os caminhos?"
     a: "Documento com foto e CPF de cada pessoa da família, número do NIS, certidão de estado civil e comprovante de residência. Certidão de nascimento vale para menores."
   - q: "Quem é autônomo ou informal consegue comprovar renda?"
-    a: "Sim. As listas que seguem o modelo do Ministério das Cidades aceitam extratos bancários dos últimos três meses ou uma autodeclaração de renda."
+    a: "Sim. Listas municipais, como a da Prefeitura de Itararé (SP), aceitam extratos bancários dos últimos três meses ou uma autodeclaração de renda no modelo do Ministério das Cidades."
   - q: "O CadÚnico exige algum documento a mais?"
     a: "O CadÚnico pede CPF de todos da família, documento de identificação e comprovante de residência, de preferência conta de luz."
   - q: "Preciso de certidão de matrícula para o Minha Casa Minha Vida?"
@@ -50,20 +50,18 @@ Em qualquer caminho, a família inteira que mora na casa precisa estar identific
 
 A Prefeitura do Rio, em sua página sobre o programa, pede esses itens e acrescenta o relatório médico com código CID quando há pessoa com deficiência na casa. Outras cidades seguem o mesmo modelo.
 
-Quem é emancipado precisa apresentar a escritura pública de emancipação.
-
 ## Comprovação de renda
 
-A renda é comprovada de acordo com o tipo de trabalho. As listas que seguem o modelo do Ministério das Cidades aceitam:
+A renda é comprovada de acordo com o tipo de trabalho. Como exemplo, a lista da Prefeitura de Itararé (SP), de 2024, aceita:
 
 | Tipo de renda | Documento aceito |
 |---|---|
 | Carteira assinada | Carteira de trabalho (CTPS), últimos três meses de contracheque, DECORE ou declaração de Imposto de Renda |
 | Aposentado ou pensionista | Comprovante de benefício do INSS |
 | Autônomo ou informal | Extratos bancários dos últimos três meses, ou autodeclaração de renda no modelo do Ministério das Cidades |
-| Beneficiário de Bolsa Família ou BPC | Extrato do benefício, quando solicitado |
+| Beneficiário de Bolsa Família ou BPC | Esses benefícios não entram no cálculo da renda (Lei 14.620/2023, art. 5º, §1º), mas o extrato pode ser pedido |
 
-A autodeclaração é aceita para quem trabalha por conta própria e não tem comprovantes formais. Ela precisa ser verdadeira, porque declarar renda errada leva à exclusão do programa e pode obrigar à devolução do benefício. Esse ponto está nas regras de penalidade da Portaria 738/2024.
+A autodeclaração, segundo a lista de Itararé, serve para quem trabalha por conta própria e não tem comprovantes formais. Ela precisa ser verdadeira. A Portaria 738/2024 prevê desclassificação quando a documentação é inverídica a qualquer tempo (art. 32, II) e veda informações fraudulentas sobre renda (art. 27, III).
 
 Benefícios temporários, como seguro-desemprego, não entram no cálculo da renda. Isso também vale para o BPC e o Bolsa Família.
 
@@ -77,15 +75,15 @@ Para a Faixa 1 pela prefeitura, a família precisa comprovar que não tem outro 
 
 Essas comprovações variam de município para município. Confirme no edital quais aceita.
 
-Para o MCMV Rural, a documentação da terra tem regras próprias. A Portaria 1.160/2025 aceita declaração de ocupação com ponto GPS, a lista do INCRA para assentados e o contrato de financiamento do PNCF, entre outros. A família também precisa de DAP ou CAF para comprovar a condição de agricultor familiar.
+Para o MCMV Rural, a documentação da terra tem regras próprias. A Portaria 1.160/2025 aceita declaração de ocupação com ponto GPS, a lista do INCRA para assentados e o CAF, conforme cada situação. A DAP aparece como prova de posse para posseiros, e a condição de agricultor familiar segue a Lei 11.326/2006.
 
 ## Documentos específicos por situação
 
 Algumas situações pedem comprovantes extras:
 
-- **Pessoa com deficiência:** laudo médico com código CID ou credencial de Passe Livre.
+- **Pessoa com deficiência:** laudo médico com código CID, conforme o edital.
 - **Pessoa com câncer ou doença crônica rara:** laudo médico, conforme o critério de prioridade.
-- **Mulher vítima de violência doméstica:** registro da queixa ou boletim de ocorrência, conforme a Lei Maria da Penha, como prevê a Portaria 738/2024.
+- **Mulher vítima de violência doméstica:** documento que comprove a situação, conforme a Lei Maria da Penha e o edital.
 - **Família em área de risco:** documento emitido pelo município, quando o edital exigir.
 - **Família removida por obra federal ou desastre:** comprovante da remoção, quando houver critério desse tipo no edital.
 
@@ -93,12 +91,12 @@ Esses documentos ajudam a subir na classificação. Sem eles, a família pode co
 
 ## O que o banco pede
 
-Nas faixas com financiamento, a análise é do banco, e a lista segue o padrão de qualquer crédito imobiliário. Há uma página específica sobre o tema em [documentos para financiamento imobiliário](/artigos/documentos-para-financiamento). Para o Reforma Casa Brasil, por exemplo, o pedido online exige apenas os dados pessoais. Já no atendimento presencial, a Caixa pede RG, CPF e comprovante de residência de todos que compõem a renda, como informa a página da linha.
+Nas faixas com financiamento, a análise é do banco, e a lista segue o padrão de qualquer crédito imobiliário. Há uma página específica sobre o tema em [documentos para financiamento imobiliário](/artigos/documentos-para-financiamento). Para o Reforma Casa Brasil, por exemplo, a simulação online é autodeclaratória e não pede documentos. No atendimento presencial, a Caixa pede identidade, CPF e comprovante de endereço de todos que compõem a renda, segundo a página da linha.
 
 ## Validade e cuidados com os papéis
 
 - **CadÚnico:** os dados precisam ser atualizados a cada 24 meses ou quando algo muda, como endereço, renda ou composição da família.
-- **Comprovante de residência:** a validade costuma ser de até três meses, mas o edital ou o banco definem o prazo exato.
+- **Comprovante de residência:** muitos órgãos pedem um documento recente. O edital ou o banco define o prazo exato.
 - **Documento vencido:** certidões e certificados precisam estar dentro do prazo exigido pelo edital ou pela entidade.
 - **Documento errado:** dados divergentes entre o CadÚnico e os papéis atrasam a análise.
 
@@ -134,7 +132,7 @@ Organizar os papéis antes de começar economiza tempo e evita pedidos de comple
 
 ## Documentos no MCMV-Entidades
 
-No modelo de entidades, a família não passa diretamente pela prefeitura. A entidade organizadora monta uma lista de beneficiários e a envia com a comprovação de elegibilidade, conforme a IN 28/2023. Depois, a Caixa confere os dados e o agente financeiro verifica os documentos antes da assinatura, segundo a Portaria 959/2025.
+No modelo de entidades, a família não passa diretamente pela prefeitura. A entidade organizadora monta a lista de beneficiários, conforme a IN 28/2023. Depois, a Caixa faz o enquadramento dessa lista (Portaria 959/2025, art. 6º), e o agente financeiro verifica os documentos antes da assinatura.
 
 Cada beneficiário precisa ter a elegibilidade comprovada nessa lista, e a entidade não pode cobrar das famílias para garantir o direito. Por isso, peça à entidade a lista completa de documentos e o prazo de entrega. Como o processo tem mais etapas, uma pendência em uma delas pode atrasar todas as outras. Guarde o protocolo de cada envio.
 

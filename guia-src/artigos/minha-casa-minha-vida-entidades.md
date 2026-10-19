@@ -27,7 +27,7 @@ sources:
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260203_IN28_MCMVE_consolidada1.pdf"
   - title: "Portaria MCID nº 959/2025: procedimentos para escolha das famílias do MCMV-Entidades (Lex)"
     url: "https://www.lex.com.br/portaria-mcid-no-959-de-25-de-agosto-de-2025/"
-  - title: "Portaria MCID nº 772, de 7 de julho de 2026 (tabela de prestação da linha FAR)"
+  - title: "Atlas Público: nova tabela de prestação mensal, Portaria MCID 772/2026 (linha FAR)"
     url: "https://atlaspublico.com.br/noticias/ministerio-das-cidades-fixa-nova-tabela-de-prestacao-mensal-69686"
   - title: "Gov.br: MCMV-Entidades, como obter o recurso do FDS"
     url: "https://www.gov.br/pt-br/servicos/obter-recurso-do-minha-casa-minha-vida-entidades-fundo-de-desenvolvimento-social-fds-entidades-de-natureza-privada-sem-fins-lucrativos"
@@ -52,7 +52,7 @@ O Minha Casa Minha Vida Entidades é a modalidade em que famílias se organizam 
 | Prefeitura ou governo estadual | Faz ou atualiza o cadastro das famílias no CadÚnico, a pedido da entidade |
 | Famílias | Participam por assembleia, pela Comissão de Representantes e pela Comissão de Acompanhamento de Obra |
 
-O pedido de habilitação da entidade é feito pela plataforma da Caixa, e a habilitação segue a Portaria 925/2025.
+A habilitação da entidade segue a Portaria 925/2025, citada na Portaria 697/2026.
 
 ## Quem pode ser beneficiário
 
@@ -135,7 +135,7 @@ Os prazos da entidade afetam diretamente as famílias, porque atrasos atrasam a 
 
 ## Autogestão ou cogestão
 
-O modelo de construção muda a forma de pagamento. Na cogestão, a obra é feita por empresa contratada. Na autogestão, a própria comunidade organiza a construção, por mutirão ou administração direta. Nesse caso, o agente financeiro pode liberar antecipadamente parcelas de 8%, 6% ou 4% do total, conforme o porte do projeto: até 100 unidades, de 101 a 200 e acima de 200.
+O modelo de construção muda a forma de pagamento. Na cogestão, a obra é feita por empresa contratada. Na autogestão, a própria comunidade organiza a construção, por mutirão ou administração direta. Nesse caso, o agente financeiro libera parcelas antecipadas, com antecipação mínima de 8% do total para projetos de até 100 unidades, 6% de 101 a 200 unidades e 4% acima de 200 unidades (item 5.5.1 da IN 28).
 
 Construções com mais de dois pavimentos, incluindo o térreo, devem ser feitas em cogestão, a não ser que a equipe técnica comprove acervo compatível com o projeto (item 7.3 da IN 28). Esse detalhe importa na hora de escolher o projeto: a autogestão dá mais controle às famílias, mas exige mais organização e um responsável técnico com ART ou RRT válido em qualquer regime.
 

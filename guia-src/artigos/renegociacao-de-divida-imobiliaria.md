@@ -4,7 +4,7 @@ description: "Como renegociar parcelas atrasadas do financiamento: incorporar o 
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Quanto antes você procura o banco, mais opções existem. Depois da intimação do cartório, o prazo para pagar o atraso é curto."
   - "As saídas mais comuns são incorporar as parcelas vencidas ao saldo, alongar o prazo, pausar parcelas por um período e usar o FGTS."
@@ -13,11 +13,11 @@ key_points:
   - "Todo acordo precisa vir por escrito, com saldo, nova parcela, prazo e taxa. Desconfie de intermediário que pede dinheiro ou manda parar de pagar."
 faq:
   - q: "O banco é obrigado a renegociar meu financiamento?"
-    a: "Não há regra geral que obrigue o banco a aceitar uma proposta específica. Na prática, os bancos têm modalidades próprias de renegociação e pausa, com requisitos que mudam. Pedir por escrito e registrar o protocolo ajuda se for preciso reclamar depois."
+    a: "Em geral, não há direito a uma proposta específica. Na prática, os bancos têm modalidades próprias de renegociação e pausa, com requisitos que mudam. Pedir por escrito e registrar o protocolo ajuda se for preciso reclamar depois."
   - q: "Posso renegociar depois de receber a intimação do cartório?"
-    a: "Pode tentar, mas o prazo corre. Na intimação, você tem 15 dias para pagar o atraso, e no financiamento da casa própria ainda pode pagar até a averbação da consolidação. Procure o banco no mesmo dia em que receber a intimação."
+    a: "Pode tentar, mas o prazo corre. Na intimação, você tem 15 dias para pagar o atraso, e, no financiamento de imóvel residencial, o pagamento é assegurado até a averbação da consolidação (art. 26-A, §2º). Procure o banco no mesmo dia em que receber a intimação."
   - q: "Renegociar suja meu nome?"
-    a: "O atraso já costuma aparecer nos birôs e no SCR do Banco Central. A renegociação e as pausas também ficam registradas no histórico de crédito, embora não sejam, por si, uma restrição."
+    a: "O atraso pode aparecer em bureaus de crédito e no SCR (Sistema de Informações de Crédito) do Banco Central. A renegociação e as pausas também ficam no histórico, embora não sejam, por si, uma restrição."
   - q: "Vale contratar empresa que promete renegociar por mim?"
     a: "Você mesmo pode negociar com o banco, sem custo. Se precisar de ajuda, procure a Defensoria, o Procon ou um advogado com registro na OAB, e nunca deposite parcelas em conta de terceiro."
 sources:
@@ -29,18 +29,16 @@ sources:
     url: "https://ejef.tjmg.jus.br/superendividamento-conceito-e-causas"
   - title: "iDinheiro: renegociação e pausa no financiamento Caixa (atualizado em 04/03/2026)"
     url: "https://www.idinheiro.com.br/financiamentos/imobiliario/renegociar-financiamento-habitacional-caixa/"
-  - title: "Credited: alternativas para dívidas habitacionais em atraso (atualizado em 16/10/2026)"
-    url: "https://credited.com.br/noticias/2026/08/02/feirao-caixa-limpa-nome-como-quitar-dividas-habitacionais-e-comerciais-com-desconto/"
 related: [fgts-pagar-prestacoes-atrasadas, leilao-extrajudicial-direitos, juros-abusivos-financiamento, amortizar-financiamento-prazo-ou-parcela]
 ---
 
 Para renegociar parcelas atrasadas do financiamento imobiliário, procure o banco o quanto antes, peça por escrito as opções disponíveis para o seu contrato e compare quanto cada uma custa no total, e não só na parcela. As saídas mais comuns são quatro: incorporar as parcelas vencidas ao saldo devedor, alongar o prazo, pausar o pagamento por alguns meses e usar o FGTS para cobrir parte das prestações. Cada banco tem requisitos próprios, e eles mudam ao longo do ano.
 
-O tempo importa porque quase todo financiamento atual usa alienação fiduciária: o imóvel fica em nome do banco até a quitação. Se o atraso seguir, o banco pode pedir ao cartório que intime você, e a partir daí os prazos são curtos. Este artigo explica as regras gerais em outubro de 2026. Ele não substitui orientação individual: se o caso estiver avançado, procure a Defensoria Pública, o Procon ou um advogado.
+O tempo importa porque a maior parte dos financiamentos atuais usa alienação fiduciária: o imóvel fica em nome do banco até a quitação. Se o atraso seguir, o banco pode pedir ao cartório que intime você, e a partir daí os prazos são curtos. Este artigo explica as regras gerais em outubro de 2026. Ele não substitui orientação individual: se o caso estiver avançado, procure a Defensoria Pública, o Procon ou um advogado.
 
 ## Por que agir antes da intimação
 
-Quando o contrato está em atraso, o banco pode pedir ao Cartório de Registro de Imóveis que intime você a pagar. Pela Lei 9.514/1997, art. 26, você tem 15 dias para quitar as parcelas vencidas e os encargos. No financiamento da casa própria, o art. 26-A ainda permite pagar o atraso até a averbação da consolidação, que só acontece depois desse prazo. Se nada for pago, o imóvel passa para o nome do banco e vai a leilão. O passo a passo dessa fase está em [leilão extrajudicial](/artigos/leilao-extrajudicial-direitos).
+Quando o contrato está em atraso, o banco pode pedir ao Cartório de Registro de Imóveis que intime você a pagar. Pela Lei 9.514/1997, art. 26, você tem 15 dias para quitar as parcelas vencidas e os encargos. No financiamento de imóvel residencial, o §2º do art. 26-A assegura o pagamento do atraso até a data da averbação da consolidação da propriedade fiduciária, que só ocorre depois desse prazo. Se nada for pago, o imóvel passa para o nome do banco e vai a leilão. O passo a passo dessa fase está em [leilão extrajudicial](/artigos/leilao-extrajudicial-direitos).
 
 Antes da intimação, você negocia com mais calma e com mais opções. Muitos bancos exigem, para pausar parcelas ou reduzir a prestação, que o contrato esteja em dia ou com poucos dias de atraso. Ou seja, quem procura o banco no primeiro sinal de aperto tem acesso a ferramentas que somem depois.
 
@@ -54,7 +52,7 @@ Um ponto que pouca gente sabe: a lei do superendividamento, incluída no CDC (C�
 | Incorporar o atraso ao saldo | parcelas vencidas e encargos vão para o saldo devedor e são diluídos | zera o atraso sem desembolso imediato | a parcela futura sobe um pouco e você paga juros sobre o atraso por anos |
 | Alongar o prazo | o contrato ganha meses a mais | a parcela cai | o total de juros sobe bastante; limitado pela idade máxima |
 | Pausa ou redução temporária | por alguns meses você paga menos ou nada | alívio num aperto passageiro | o valor não pago volta para o saldo, com juros; exige contrato em dia em muitos casos |
-| FGTS para parcelas | o fundo cobre até 80% de cada prestação, inclusive atrasadas, em condições definidas | usa um dinheiro parado | requisitos do FGTS; não cobre tudo |
+| FGTS para parcelas | o FGTS pode ser usado para pagar parcelas em atraso, em percentual e número de parcelas definidos pelo Conselho Curador e aplicados pela Caixa | usa um dinheiro parado | as condições mudam; confirme as vigentes no manual do FGTS da Caixa; não cobre tudo |
 | Amortizar com recurso extra | você paga parte do saldo para baixar a parcela | reduz juros futuros | exige reserva |
 | Vender o imóvel | você vende, quita o banco e fica com a diferença | evita o leilão e preserva o patrimônio | depende de mercado e de tempo |
 
@@ -64,15 +62,15 @@ Um ponto que pouca gente sabe: a lei do superendividamento, incluída no CDC (C�
 
 ### Alongamento de prazo
 
-Esticar o prazo reduz a parcela, mas há um teto. Os bancos limitam a soma da sua idade com o prazo do contrato, em geral a 80 anos e 6 meses, prática ligada às regras de seguro habitacional (Resolução CNSP 447/2022). Quem já está perto desse limite tem pouco espaço. Os efeitos de mexer no prazo são os mesmos de uma amortização ao contrário; veja a lógica em [amortizar o financiamento: prazo ou parcela](/artigos/amortizar-financiamento-prazo-ou-parcela).
+Esticar o prazo reduz a parcela, mas há um teto. Na prática, a soma da sua idade com o prazo do contrato costuma ter teto de 80 anos e 6 meses. Esse parâmetro vem do seguro habitacional, cujas regras estão na Resolução CNSP 447/2022 (art. 13). Confirme o limite com o banco. Quem já está perto desse limite tem pouco espaço. Os efeitos de mexer no prazo são os mesmos de uma amortização ao contrário; veja a lógica em [amortizar o financiamento: prazo ou parcela](/artigos/amortizar-financiamento-prazo-ou-parcela).
 
 ### Pausa de parcelas
 
-Alguns bancos oferecem pausas de um a alguns meses, inclusive modalidades para quem recebe seguro-desemprego. Os requisitos variam: na Caixa, por exemplo, reportagens de 2025 e 2026 descrevem exigências como contrato em dia, número mínimo de parcelas pagas e saldo devedor até 80% do valor do imóvel. Confira as regras vigentes no aplicativo ou na central do seu banco antes de contar com elas. A pausa não perdoa nada: as parcelas não pagas voltam para o saldo, e os encargos continuam correndo.
+Alguns bancos oferecem pausas de alguns meses, com requisitos que variam. Como exemplo, uma reportagem do iDinheiro, de 4 de março de 2026, descreve para a Caixa: contrato em dia, 24 prestações pagas, 24 meses desde a contratação ou da última negociação e saldo devedor de até 80% do valor do imóvel. Outras matérias citam condições diferentes, e as regras podem mudar. Confirme as regras vigentes no aplicativo, na central de atendimento ou na agência, e peça a condição por escrito antes de contar com ela. A pausa não perdoa nada: as parcelas não pagas não desaparecem, voltam para o saldo ou para as parcelas futuras, e os encargos continuam correndo.
 
 ### FGTS
 
-Desde 2023, o FGTS pode cobrir até 80% de cada prestação, inclusive de parcelas já vencidas, se o contrato tiver no máximo 6 em atraso e você cumprir as condições do fundo. Os requisitos e o passo a passo estão em [FGTS para pagar parcelas atrasadas](/artigos/fgts-pagar-prestacoes-atrasadas).
+O FGTS pode ser usado para pagar parcelas em atraso, dentro de um percentual e de um número máximo de parcelas definidos pelo Conselho Curador do FGTS e aplicados pela Caixa. Essas condições já mudaram (em 2022, uma regra temporária permitiu até 12 parcelas), por isso confirme as vigentes no manual do FGTS da Caixa. Os requisitos gerais e o passo a passo estão em [FGTS para pagar parcelas atrasadas](/artigos/fgts-pagar-prestacoes-atrasadas).
 
 ## Exemplo com números
 
@@ -85,9 +83,9 @@ Exemplo ilustrativo. Parcela de R$ 2.500, com 3 prestações atrasadas há 90, 6
 | vencida há 30 dias | R$ 50,00 | R$ 25,00 | R$ 2.575,00 |
 | **Soma** | | | **R$ 7.800,00** |
 
-**Caminho 1, incorporar ao saldo.** Se os R$ 7.800 forem diluídos em 240 meses a 11% ao ano pela Tabela Price, a parcela sobe cerca de R$ 77,78. Ao fim do prazo, esse atraso terá custado aproximadamente R$ 18.666 no total.
+**Caminho 1, incorporar ao saldo.** Se os R$ 7.800 forem diluídos em 240 meses, com taxa efetiva de 11% ao ano pela Tabela Price, a parcela sobe cerca de R$ 77,78. Ao longo das 240 parcelas, esse acréscimo soma cerca de R$ 18.666, sem contar a correção monetária do contrato.
 
-**Caminho 2, alongar o prazo.** Imagine um saldo de R$ 250.000 a 11% ao ano, também pela Price.
+**Caminho 2, alongar o prazo.** Imagine um saldo de R$ 250.000 a taxa efetiva de 11% ao ano, também pela Price.
 
 | Prazo restante | Parcela | Total pago até o fim |
 |---|---|---|
@@ -113,7 +111,7 @@ Registre a reclamação no SAC e na ouvidoria, com protocolo. Se persistir, o Ba
 ## Golpes e erros comuns
 
 - **Pagar a "empresa de renegociação".** Ofertas por WhatsApp e redes sociais que pedem pagamento antecipado ou depósito das parcelas em outra conta são um golpe frequente. O banco negocia diretamente com você, sem intermediário obrigatório.
-- **Parar de pagar para "forçar" desconto.** Em financiamento com garantia no próprio imóvel, o banco tem a via do cartório e não precisa negociar com desconto.
+- **Parar de pagar para "forçar" desconto.** Em financiamento com alienação fiduciária, o atraso pode levar ao cartório, e os prazos para regularizar são curtos.
 - **Esperar a intimação.** Depois dela, os prazos são de dias.
 - **Aceitar a primeira proposta sem olhar o total.** Alongar 10 anos para baixar pouco a parcela pode custar muito.
 - **Ignorar a idade máxima.** Se a soma de idade e prazo passar do limite do banco, a proposta de alongamento simplesmente não sai.

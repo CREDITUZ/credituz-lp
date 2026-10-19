@@ -4,7 +4,7 @@ description: "Quando o Procon e o consumidor.gov.br ajudam em problemas com cons
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Procon e consumidor.gov.br servem para conflitos de consumo: construtora, incorporadora, imobiliária, corretor e banco. Compra de pessoa física, em regra, fica de fora."
   - "No consumidor.gov.br, a empresa tem até 10 dias para responder e você tem até 20 dias para avaliar a resposta. Só participam empresas que aderiram."
@@ -23,9 +23,9 @@ faq:
 sources:
   - title: "Consumidor.gov.br: como funciona o serviço"
     url: "https://www.consumidor.gov.br/pages/conteudo/publico/1"
-  - title: "Código de Defesa do Consumidor (Lei 8.078/1990), arts. 2º, 3º, 44, 55 e 56"
+  - title: "Código de Defesa do Consumidor (Lei 8.078/1990), arts. 2º, 3º, 26, 44, 56 e 57"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "Decreto 2.181/1997 (Sistema Nacional de Defesa do Consumidor e sanções administrativas)"
+  - title: "Decreto 2.181/1997 (organiza o Sistema Nacional de Defesa do Consumidor e regula as sanções administrativas)"
     url: "https://www.planalto.gov.br/ccivil_03/decreto/d2181.htm"
   - title: "Lei 9.099/1995 (Juizados Especiais), arts. 3º e 9º"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
@@ -67,7 +67,7 @@ Os dois podem ser usados, mas funcionam de jeitos diferentes.
 | O que pode acontecer | a empresa responde e você avalia | notificação, audiência de conciliação e, se houver infração, processo administrativo com possível multa |
 | Indenização | não | não |
 
-O consumidor.gov.br é mais rápido quando a empresa está cadastrada: muitos bancos e grandes incorporadoras participam. Confira na lista de empresas participantes do próprio site antes de registrar. Se a empresa não estiver lá, ou se você precisa de alguém que convoque a empresa para uma audiência, o Procon é o caminho. O próprio consumidor.gov.br informa que não substitui os Procons.
+O consumidor.gov.br só recebe reclamação contra empresa cadastrada no site. Confira na lista de empresas participantes do próprio site antes de registrar. Se a empresa não estiver lá, ou se você precisa de alguém que convoque a empresa para uma audiência, o Procon é o caminho. O próprio consumidor.gov.br informa que não substitui os Procons.
 
 Para problemas com banco, existe ainda a reclamação no Banco Central, que não decide o seu caso, mas cobra resposta da instituição e usa os registros na fiscalização. A ordem dos canais está detalhada em [cobrança indevida no financiamento](/artigos/cobranca-indevida-financiamento).
 
@@ -81,7 +81,7 @@ Cada Procon tem regras próprias de atendimento, mas o caminho costuma ter estas
 4. **Encerramento.** A reclamação termina como atendida ou não atendida. As reclamações consideradas fundamentadas entram no cadastro que os órgãos de defesa do consumidor devem divulgar todo ano (art. 44 do CDC).
 5. **Processo administrativo.** Se o Procon entender que houve infração ao CDC, pode abrir processo e aplicar sanções do art. 56, como multa, nos termos do Decreto 2.181/1997.
 
-A multa vai para um fundo público, não para você. Por isso o Procon é um instrumento de pressão e de acordo. Para receber dinheiro de volta à força, só a Justiça.
+Pelo art. 57 do CDC, a multa é revertida ao fundo de que trata a Lei 7.347/1985, e não ao consumidor. Por isso o Procon é um instrumento de pressão e de acordo. Para receber dinheiro de volta à força, só a Justiça.
 
 ## Como escrever uma reclamação que funciona
 
@@ -108,13 +108,13 @@ Exemplo ilustrativo de calendário. Você reclama de uma infiltração não repa
 | dia 11 a dia 31 | você tem até 20 dias para avaliar a resposta como resolvida ou não |
 | depois disso | se não resolveu, reclamação no Procon ou ação no Juizado |
 
-Se for à Justiça, o Juizado Especial Cível aceita causas de até 40 salários mínimos, e até 20 salários mínimos você pode entrar sem advogado (Lei 9.099/1995, arts. 3º e 9º). Com o salário mínimo de R$ 1.621 em 2026, isso equivale a R$ 32.420 sem advogado e R$ 64.840 no limite do Juizado. Casos que precisam de perícia complexa, como defeito estrutural, podem não caber no Juizado.
+Se for à Justiça, o Juizado Especial Cível aceita causas de até 40 salários mínimos (Lei 9.099/1995, art. 3º). Nas causas de até 20 salários mínimos, a assistência por advogado é facultativa (art. 9º). Com o salário mínimo de R$ 1.621, fixado por decreto para 2026, esses limites equivalem a R$ 32.420 e a R$ 64.840. Casos que precisam de perícia complexa, como defeito estrutural, podem não caber no Juizado.
 
 ## Quando o Procon não basta
 
 - **Valores altos ou pedido de indenização.** Dano moral, lucros cessantes e devolução contestada dependem de decisão judicial.
 - **Urgência.** Risco de perder o imóvel em leilão, por exemplo, exige ação rápida com advogado ou Defensoria. Veja [leilão extrajudicial](/artigos/leilao-extrajudicial-direitos).
-- **Prazos correndo.** Reclamar no Procon não suspende a prescrição em todos os casos. No CDC, a reclamação comprovada ao fornecedor obsta o prazo de reclamação de vícios até a resposta negativa, mas isso não vale para tudo. Se o prazo estiver perto do fim, procure orientação jurídica.
+- **Prazos correndo.** Reclamar no Procon nem sempre para os prazos. Para vícios, a reclamação comprovadamente feita ao fornecedor obsta a decadência até a resposta negativa (art. 26, §2º, I, do CDC). Para cobrança de valores, a reclamação no Procon não substitui uma ação e não garante que o prazo fique parado. Se o prazo estiver perto do fim, procure orientação jurídica.
 - **Empresa que sumiu ou faliu.** Aqui o caminho costuma ser judicial, às vezes coletivo.
 
 A Defensoria Pública atende quem não pode pagar advogado. As regras de renda para atendimento variam por estado.

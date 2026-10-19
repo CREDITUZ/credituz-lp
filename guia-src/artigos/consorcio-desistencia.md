@@ -21,19 +21,19 @@ faq:
   - q: "A administradora pode cobrar multa de quem desiste?"
     a: "Pode, se estiver no contrato, quando você pede para sair ou para de pagar três parcelas seguidas. A Resolução BCB 285/2023 proíbe a multa em um caso específico de exclusão, e há decisões judiciais que exigem prova de prejuízo ao grupo."
   - q: "E se eu já fui contemplado mas ainda não usei a carta?"
-    a: "Nesse caso a exclusão é possível e você recebe um crédito parcial: o percentual que pagou do fundo comum aplicado ao valor atualizado do bem, descontadas pendências e multas."
+    a: "Nesse caso a exclusão é possível e você recebe um crédito parcial: o percentual que pagou do fundo comum aplicado ao valor atualizado do bem, conforme o art. 33 da Resolução BCB 285/2023."
 sources:
   - title: "Lei 11.795/2008 (Lei dos Consórcios), arts. 22, 24, 30 a 32"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm"
-  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), arts. 21, 32, 33 e 35"
+  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), arts. 20, 21, 32, 33, 35 e 37, texto em cópia pública"
     url: "https://static.poder360.com.br/2023/01/resolucao-bcb-consorcios-285-19jan2023-1.pdf"
-  - title: "STJ, Tema Repetitivo 312 (restituição ao consorciado desistente)"
-    url: "https://informativos.trilhante.com.br/temas-stj/tema-repetitivo-312-stj"
+  - title: "STJ, REsp 1.119.300/RS (Tema Repetitivo 312), Segunda Seção, rel. Min. Luis Felipe Salomão, j. 14/04/2010"
+    url: "https://www.stj.jus.br/"
   - title: "Lex: TJSC mantém devolução a desistente após o encerramento do grupo (ago. 2025)"
     url: "https://www.lex.com.br/consorcio-pode-reter-valores-de-consorciado-desistente-ate-o-fim-do-grupo/"
   - title: "Código de Defesa do Consumidor, art. 49 (direito de arrependimento)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "Banco Central: Panorama do Sistema de Consórcios 2024 (índice de exclusão)"
+  - title: "Banco Central: Panorama do Sistema de Consórcios 2024 (índice de exclusão, dez. 2024)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/panoramaconsorcio/panorama_de_consorcios_2024.pdf"
   - title: "FGV, INCC-M setembro de 2026 (press release via SindusconSP)"
     url: "https://sindusconsp.com.br/wp-content/uploads/2026/09/INCC-M_FGV_press-release_Set26.pdf"
@@ -46,7 +46,7 @@ Desistir, portanto, é uma decisão cara. Antes de pedir a exclusão, vale conhe
 
 ## Quem é o consorciado excluído
 
-A Resolução BCB 285/2023, que vale para grupos formados a partir de julho de 2024, define três situações em que o consorciado é excluído do grupo:
+A Resolução BCB 285/2023, que vale para grupos formados a partir de julho de 2024, define três situações em que o consorciado é excluído do grupo (art. 32):
 
 1. quando pede formalmente para sair;
 2. quando deixa de pagar três parcelas seguidas;
@@ -54,7 +54,7 @@ A Resolução BCB 285/2023, que vale para grupos formados a partir de julho de 2
 
 Há uma vedação importante: quem já foi contemplado e usou o crédito não pode ser excluído. Nesse caso, a pessoa já tem o imóvel, a dívida com o grupo continua e o imóvel serve de garantia. Atrasar parcelas leva à cobrança e, no limite, à execução da garantia, como num financiamento.
 
-Desistir é comum. O Banco Central calcula, no Panorama do Sistema de Consórcios, um índice de exclusão que compara cotas excluídas com o total de cotas dos grupos ativos. No segmento de imóveis, ele foi de 56,9% em dezembro de 2024. O número inclui exclusões por inadimplência, não só desistências voluntárias, mas mostra que muita gente não chega ao fim do plano.
+Desistir é comum. No segmento de imóveis, o índice de exclusão divulgado no Panorama do Sistema de Consórcios do Banco Central foi de 56,9% em dezembro de 2024. Ou seja, muitas cotas deixam o grupo antes do fim do plano.
 
 ## O que é devolvido
 
@@ -66,24 +66,24 @@ Na prática, isso significa que o valor devolvido acompanha o reajuste da carta,
 |---|---|
 | Fundo comum | Sim, em percentual do valor atualizado do bem |
 | Taxa de administração já paga | Não; ela deixa de ser cobrada após a exclusão |
-| Antecipação de taxa acima do proporcional | O excesso volta quando a cota for contemplada |
-| Fundo de reserva | A sobra é rateada no encerramento do grupo, conforme o contrato |
-| Seguro | Não; ele cobriu o risco no período |
+| Antecipação de taxa acima do proporcional | O excesso volta quando a cota for contemplada (art. 21) |
+| Fundo de reserva | Não: o saldo remanescente é rateado entre os consorciados ativos (art. 37) |
+| Seguro | Depende do contrato; confira a regra de devolução |
 | Multa rescisória, se prevista | É descontada da devolução, dentro das regras |
 
 ### Multa rescisória: quando pode e quando não pode
 
-A resolução permite multa rescisória, se prevista em contrato, nas exclusões por pedido de saída e por três parcelas seguidas em atraso. Ela proíbe a multa na exclusão que ocorre na última assembleia de contemplação por até duas parcelas atrasadas. A lei também permite multa por descumprimento do contrato de forma geral, e determina que pelo menos metade das multas e juros de mora vá para o grupo.
+A resolução permite multa rescisória, se prevista em contrato, nas exclusões por pedido de saída e por três parcelas seguidas em atraso. Ela proíbe a multa na exclusão que ocorre na última assembleia de contemplação por até duas parcelas atrasadas (art. 33, parágrafo único). A lei também permite multa por descumprimento do contrato de forma geral (art. 10, §5º), e determina que pelo menos metade das multas e juros de mora vá para o grupo (art. 28).
 
 Há decisões judiciais que exigem prova de prejuízo ao grupo para que a cláusula penal seja aplicada. Em 2025, por exemplo, o Tribunal de Justiça de Santa Catarina afastou a penalidade num caso em que o grupo seguia normalmente e não havia dano demonstrado. Se a multa cobrada parecer alta, vale procurar o Procon ou um advogado.
 
 ## Quando o dinheiro sai
 
-A lei diz que os excluídos concorrem aos sorteios para fins de restituição. Assim, todo mês existe uma chance de a sua cota ser sorteada e você receber a devolução. Se isso não acontecer, o pagamento vem no encerramento.
+A lei diz que os excluídos concorrem aos sorteios para fins de restituição (art. 22, §2º). Assim, todo mês existe uma chance de a sua cota ser sorteada e você receber a devolução. Se isso não acontecer, o pagamento vem no encerramento.
 
-O encerramento do grupo ocorre até 120 dias depois da última assembleia de contemplação. O STJ, no Tema Repetitivo 312, julgado em 2010, fixou que a devolução ao desistente deve ocorrer em até 30 dias após o prazo previsto em contrato para o fim do plano. Tribunais estaduais seguem aplicando esse entendimento, como na decisão de Santa Catarina de 2025.
+O encerramento do grupo ocorre em até 120 dias depois da última assembleia de contemplação (art. 32 da Lei 11.795/2008). O STJ, no Tema Repetitivo 312, julgado em 2010, fixou que a devolução ao desistente deve ocorrer em até 30 dias após o prazo previsto em contrato para o fim do plano. Tribunais estaduais seguem aplicando esse entendimento, como na decisão de Santa Catarina de 2025.
 
-O prazo para reclamar valores contra o grupo ou a administradora é de 5 anos a partir do encerramento, segundo a lei. Depois disso, valores não procurados viram recursos não procurados, que a administradora precisa manter separados, divulgar no site e pagar quando o interessado aparecer.
+O prazo para reclamar valores contra o grupo ou a administradora é de 5 anos, contados da data de referência do encerramento (art. 32, §2º). Os valores que sobram no encerramento viram recursos não procurados (art. 33), que a administradora passa a gerir (art. 34) e paga em até 30 dias depois que o interessado comparece (art. 36).
 
 ## Exemplo: quanto volta e quanto se perde
 
@@ -104,20 +104,20 @@ A devolução depende de quando a sua cota for contemplada:
 | 120 | R$ 568.985 | R$ 102.417 | R$ 92.176 |
 | 200 (fim do grupo) | R$ 835.388 | R$ 150.370 | R$ 135.333 |
 
-Em reais, o valor sobe com o tempo porque acompanha o INCC, mas o poder de compra é o mesmo: 18% do bem. Agora compare com uma alternativa. Se as mesmas parcelas tivessem sido aplicadas em algo rendendo 100% do CDI (13,65% ao ano em outubro de 2026) com 15% de Imposto de Renda, o saldo no mês 60 seria de cerca de R$ 102 mil. Na devolução no mês 60, você receberia R$ 74 mil, ou R$ 67 mil com a multa hipotética. A diferença é o custo de ter entrado e saído.
+Em reais, o valor sobe com o tempo porque acompanha o INCC, mas o poder de compra é o mesmo: 18% do bem. Agora compare com uma alternativa. Se as mesmas 36 parcelas tivessem sido aplicadas em algo rendendo 100% do CDI (13,65% ao ano em outubro de 2026) com 15% de Imposto de Renda, o saldo no mês 60 seria de cerca de R$ 101 mil. Na devolução no mês 60, você receberia R$ 74 mil, ou R$ 67 mil com a multa hipotética. A diferença é o custo de ter entrado e saído.
 
 ## Arrependimento nos primeiros 7 dias
 
 Se você assinou fora do estabelecimento comercial, como por telefone ou em casa, o Código de Defesa do Consumidor (art. 49) dá 7 dias, contados da assinatura, para desistir. Nesse caso, os valores pagos devem ser devolvidos de imediato e corrigidos. Faça o pedido por escrito, por um canal que gere comprovante.
 
-Há ainda outra regra de saída antecipada: se o grupo não for formado em 90 dias da sua adesão, a administradora deve devolver em até 5 dias úteis o que você pagou, com rendimentos, a menos que você aceite esperar mais 90 dias.
+Há ainda outra regra de saída antecipada: se o grupo não for formado em 90 dias da sua adesão, a administradora deve devolver em até 5 dias úteis o que você pagou, com rendimentos, a menos que você aceite esperar mais 90 dias (art. 20, §§1º e 2º da resolução).
 
 ## Alternativas antes de desistir
 
 - **Vender a cota.** A lei permite transferir a cota a outra pessoa, com anuência prévia da administradora, que avalia a capacidade de pagamento do comprador. Você pode recuperar o que pagou mais rápido, às vezes com algum ganho se a cota for contemplada. Os cuidados estão em [consórcio contemplado à venda](/artigos/consorcio-contemplado-a-venda).
 - **Reduzir a carta.** Algumas administradoras permitem trocar por uma carta menor, com parcela menor. Pergunte se o contrato prevê.
 - **Negociar atraso antes de virar exclusão.** Com três parcelas seguidas em atraso, a exclusão pode acontecer. Procure a administradora antes disso.
-- **Readmissão.** A resolução permite a readmissão de excluído não contemplado, com nova análise de capacidade de pagamento; multa e juros incidem só sobre as parcelas vencidas até a exclusão.
+- **Readmissão.** A resolução prevê a readmissão de excluído não contemplado (art. 35); multa e juros incidem só sobre as parcelas vencidas até a exclusão.
 
 ## Passo a passo para desistir
 
@@ -134,5 +134,5 @@ Há ainda outra regra de saída antecipada: se o grupo não for formado em 90 di
 - Desistente não contemplado recebe o percentual pago do fundo comum, aplicado ao valor atualizado do bem.
 - Taxa de administração paga não volta; multa só se o contrato prever e nas hipóteses permitidas.
 - A devolução sai por sorteio da cota excluída ou até 30 dias após o fim do plano, segundo o STJ.
-- No exemplo, 36 parcelas somaram R$ 69 mil, e a devolução no mês 60 seria de R$ 74 mil, ou R$ 67 mil com multa, contra cerca de R$ 102 mil se o dinheiro tivesse ficado aplicado.
+- No exemplo, 36 parcelas somaram R$ 69 mil, e a devolução no mês 60 seria de R$ 74 mil, ou R$ 67 mil com multa, contra cerca de R$ 101 mil se o dinheiro tivesse ficado aplicado.
 - Antes de desistir, avalie vender a cota ou reduzir a carta. E, antes de entrar, faça a conta de [consórcio ou poupar](/artigos/consorcio-ou-poupar).

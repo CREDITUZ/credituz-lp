@@ -8,7 +8,7 @@ reading_minutes: 9
 key_points:
   - "Comprar uma cota contemplada é assumir o lugar de alguém que já ganhou a carta: você paga um valor ao vendedor e continua as parcelas restantes."
   - "A transferência só vale com anuência prévia da administradora, que faz a sua análise de crédito, como prevê a Lei 11.795/2008."
-  - "No exemplo calculado, uma carta de R$ 300 mil com ágio de R$ 60 mil custou cerca de 9,9% ao ano com o reajuste; com ágio de 30%, o custo encosta no do financiamento."
+  - "No exemplo calculado, uma carta de R$ 300 mil com ágio de R$ 60 mil custou cerca de 9,9% ao ano com o reajuste; com ágio de 30%, o custo sobe para cerca de 12,2%, perto do menor custo de um financiamento com TR."
   - "O golpe clássico é a falsa carta contemplada: pedem um adiantamento e a cota nunca é transferida. Pagamento antes da anuência formal é o sinal de alerta."
   - "Confirme tudo direto com a administradora, por canais oficiais, e nunca pague a pessoa ou empresa que não esteja no contrato de cessão."
 faq:
@@ -23,11 +23,11 @@ faq:
 sources:
   - title: "Lei 11.795/2008 (Lei dos Consórcios), arts. 13 e 14"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm"
-  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio)"
+  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), arts. 2º e 3º, texto em cópia pública"
     url: "https://static.poder360.com.br/2023/01/resolucao-bcb-consorcios-285-19jan2023-1.pdf"
   - title: "ABAC: alerta sobre golpes envolvendo consórcio, incluindo falsa cota contemplada (maio de 2024)"
     url: "https://abac.org.br/sistema/noticiasTextuais/1_(202407020058)6684405a4fdfc7.29076140.pdf"
-  - title: "Banco Central: Encontre uma Instituição"
+  - title: "Banco Central: consulta de instituições autorizadas"
     url: "https://www.bcb.gov.br/estabilidadefinanceira/encontreinstituicao"
   - title: "FGV, INCC-M setembro de 2026 (press release via SindusconSP)"
     url: "https://sindusconsp.com.br/wp-content/uploads/2026/09/INCC-M_FGV_press-release_Set26.pdf"
@@ -74,30 +74,30 @@ Você recebe R$ 300 mil hoje, paga o ágio ao vendedor e assume as parcelas. Cal
 
 | Ágio pago ao vendedor | Ágio em % da carta | Total que você vai pagar (ágio + parcelas reajustadas) | Custo anual equivalente, com reajuste | Custo anual acima do reajuste |
 |---|---|---|---|---|
-| R$ 30.000 | 10% | R$ 512.657 | 8,0% | 1,8% |
-| R$ 60.000 | 20% | R$ 542.657 | 9,9% | 3,6% |
-| R$ 90.000 | 30% | R$ 572.657 | 12,2% | 5,8% |
+| R$ 30.000 | 10% | R$ 512.657 | 8,0% | 1,3% |
+| R$ 60.000 | 20% | R$ 542.657 | 9,9% | 3,1% |
+| R$ 90.000 | 30% | R$ 572.657 | 12,2% | 5,2% |
 
-Para comparar, em outubro de 2026 as taxas mínimas dos grandes bancos no financiamento pelo SBPE iam de 10,26% a 11,99% ao ano mais TR (Taxa Referencial), segundo a MySide. Com TR de cerca de 2% em 12 meses, isso fica entre cerca de 12,5% e 14,2% ao ano.
+Para comparar, em outubro de 2026 as taxas mínimas dos grandes bancos no financiamento pelo SBPE iam de 10,26% a 11,99% ao ano mais TR (Taxa Referencial), segundo a MySide. Supondo uma TR de 2% ao ano, hipótese que você deve trocar pela TR do período, isso fica entre cerca de 12,5% e 14,2% ao ano.
 
 O que o exemplo mostra:
 
 - **Com ágio baixo, a cota contemplada pode sair mais barata que o financiamento.**
-- **Com ágio de 30% da carta, o custo encosta no do financiamento**, com a desvantagem de que você precisa ter o ágio à vista.
+- **Com ágio de 30% da carta, o custo fica perto do piso do financiamento**, com a desvantagem de que você precisa ter o ágio à vista.
 - **O reajuste continua.** A parcela de R$ 1.800 passaria de R$ 3.000 no nono ano de pagamento com o INCC do exemplo. Confira se a sua renda acompanha.
 
 Os números mudam com o prazo restante, a taxa do grupo e o índice. Peça o extrato real e refaça a conta. Para comparar com um financiamento do mesmo valor, use o [simulador de financiamento](/simulador).
 
 ## Os golpes mais comuns
 
-A ABAC (Associação Brasileira de Administradoras de Consórcios) lista a falsa cota contemplada entre os golpes mais frequentes: o criminoso anuncia uma carta por preço atraente, pede um adiantamento e a cota nunca é entregue.
+A ABAC (Associação Brasileira de Administradoras de Consórcios) descreve a falsa cota contemplada como golpe típico: o criminoso anuncia uma carta por preço atraente, pede um adiantamento e a cota nunca é entregue.
 
 | Golpe | Como aparece | Como se proteger |
 |---|---|---|
 | Falsa carta contemplada | Anúncio com ágio muito baixo, pressa para fechar | Confirme grupo, cota e titular com a administradora antes de pagar |
 | Taxa de reserva ou de transferência | "Pague R$ X para segurar a cota" | Não pague nada antes da anuência formal da administradora |
 | Carta "contemplada" que ainda não foi | Vendem uma cota comum como se estivesse contemplada | Peça o comprovante de contemplação emitido pela administradora |
-| Administradora falsa | Empresa sem autorização do Banco Central | Pesquise o CNPJ na ferramenta Encontre uma Instituição do BC |
+| Administradora falsa | Empresa sem autorização do Banco Central | Pesquise o CNPJ na consulta de instituições autorizadas do BC |
 | Boleto adulterado | Boleto da primeira parcela enviado por mensagem | Gere o boleto no canal oficial e confira beneficiário e banco |
 | Promessa de contemplação garantida | "Compre esta cota e seja contemplado no mês que vem" | Contemplação só acontece por sorteio ou lance; ninguém garante data |
 

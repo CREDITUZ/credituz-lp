@@ -4,7 +4,7 @@ description: "Quando os juros do financiamento podem ser considerados abusivos, 
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 10
 key_points:
   - "Juro alto não é sinônimo de juro abusivo: para o STJ, a revisão da taxa só cabe em situação excepcional, com abuso demonstrado no caso concreto (Tema 27)."
   - "A régua mais usada é a taxa média do Banco Central para a mesma modalidade e o mesmo período da contratação."
@@ -21,16 +21,22 @@ faq:
   - q: "Posso parar de pagar enquanto discuto os juros?"
     a: "Não é recomendável. Discutir o contrato não afasta o atraso, e no financiamento com alienação fiduciária o atraso pode levar à perda do imóvel."
 sources:
-  - title: "STJ, pesquisa oficial de súmulas: 285, 297, 379, 382, 472 e 530"
-    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27530%27.num.+ou+%27379%27.num.+ou+%27472%27.num.+ou+%27297%27.num.+ou+%27382%27.num.+ou+%27285%27.num.&b=SUMU"
+  - title: "STJ, pesquisa oficial de súmulas: 297, 379, 382, 472 e 530"
+    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27530%27.num.+ou+%27379%27.num.+ou+%27472%27.num.+ou+%27297%27.num.+ou+%27382%27.num.&b=SUMU"
   - title: "STJ, Tema Repetitivo 27 (revisão de juros remuneratórios, julgado em 22/10/2008)"
     url: "https://juris.damasio.com.br/temas/stj/27"
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), arts. 51 e 52"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "Resolução CMN 4.676/2018 (regras do SFH, art. 13)"
-    url: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=4676"
+  - title: "Resolução CMN 4.676/2018, art. 13 (SFH, custo efetivo máximo de 12% ao ano)"
+    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v17_P.pdf"
   - title: "MySide: radar de taxas de juros do financiamento imobiliário (08/10/2026)"
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario"
+  - title: "Resolução CMN 5.255/2025 (10/10/2025), que altera o art. 13 da Resolução 4.676/2018"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
+  - title: "Banco Central, Dados Abertos: série 20716, taxa média de juros de pessoas físicas (SGS)"
+    url: "https://dadosabertos.bcb.gov.br/dataset/20716-taxa-media-de-juros-das-operacoes-de-credito---pessoas-fisicas---total"
+  - title: "Atlas Público: Copom reduz Selic para 13,75% ao ano (16/09/2026)"
+    url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
 related: [revisao-de-contrato-financiamento, cet-financiamento-imobiliario, renegociacao-de-divida-imobiliaria, sfh-e-sfi]
 ---
 
@@ -43,10 +49,10 @@ Há, porém, situações objetivas em que a cobrança está errada, e elas são 
 No crédito bancário, o juro que remunera o empréstimo se chama juro remuneratório. Bancos não estão presos à antiga Lei de Usura, e o STJ não usa um teto fixo para dizer o que é abuso. O que vale é a combinação de três pontos, tirados do Tema 27 e do art. 51 do Código de Defesa do Consumidor (CDC):
 
 - **relação de consumo**: você é pessoa física financiando para si, e a Súmula 297 do STJ manda aplicar o CDC aos bancos;
-- **desvantagem exagerada**: o art. 51, §1º, do CDC presume exagerada a vantagem que rompe o equilíbrio do contrato ou é excessivamente onerosa ao consumidor;
+- **desvantagem exagerada**: o art. 51, §1º, do CDC presume exagerada, entre outras hipóteses, a vantagem excessivamente onerosa para o consumidor;
 - **prova no caso concreto**: o abuso precisa ser demonstrado com dados, olhando a época, a modalidade e o seu perfil.
 
-Na prática, a régua mais usada pelos tribunais é a taxa média de mercado que o Banco Central divulga para a mesma modalidade. Não existe percentual fixo acima da média que torne a taxa abusiva automaticamente. Cada tribunal pondera o caso, e o STJ ainda discute, no Tema 1.378, se a média sozinha basta como critério.
+Na prática, a régua mais usada pelos tribunais é a taxa média de mercado que o Banco Central divulga para a mesma modalidade. Não existe percentual fixo acima da média que torne a taxa abusiva automaticamente. Cada tribunal pondera o caso, e o STJ ainda não decidiu, no Tema 1.378 (afetado em 2025 e pendente de julgamento), se a média sozinha basta como critério.
 
 ## Juro remuneratório, juro de mora e encargos: não misture
 
@@ -56,19 +62,19 @@ Boa parte das reclamações mistura cobranças diferentes. Separar ajuda a enxer
 |---|---|---|
 | Juro remuneratório | o "preço" do dinheiro, a taxa do contrato | sem teto geral; revisão excepcional (Tema 27 e Súmula 382); no SFH, limite de 12% ao ano para juros e encargos |
 | Atualização monetária | correção do saldo, em geral pela TR ou outro índice previsto | precisa estar no contrato; não é juro |
-| Multa de mora | penalidade por pagar atrasado | até 2% do valor da prestação (art. 52, §1º, do CDC e Súmula 285) |
+| Multa de mora | penalidade por pagar atrasado | até 2% do valor da prestação (art. 52, §1º, do CDC) |
 | Juro de mora | compensação pelo atraso, por dia ou mês | em contratos bancários sem lei específica, até 1% ao mês (Súmula 379) |
 | Comissão de permanência | encargo único de atraso, comum em contratos antigos | não pode ser somada a juros remuneratórios, juros de mora e multa (Súmula 472) |
 | Seguros e tarifas | MIP, DFI, tarifa de avaliação e outras | não entram no limite de 12% do SFH; abuso aqui é venda casada ou cobrança sem serviço |
 
-Repare na última linha. A Resolução CMN 4.676/2018, no art. 13, limita a 12% ao ano a soma de juros e encargos nos financiamentos do SFH (Sistema Financeiro da Habitação), mas deixa de fora seguros e tarifas. Por isso o CET (Custo Efetivo Total) de um contrato do SFH pode passar de 12% sem que haja irregularidade. Entenda essa diferença em [CET do financiamento imobiliário](/artigos/cet-financiamento-imobiliario).
+Repare na última linha. A Resolução CMN 4.676/2018, no art. 13, II, fixa em 12% ao ano o custo efetivo máximo do mutuário no SFH (Sistema Financeiro da Habitação). Esse custo inclui juros, comissões e encargos, mas deixa de fora seguros, tarifas e a taxa de avaliação do imóvel. Por isso o CET (Custo Efetivo Total) de um contrato do SFH pode passar de 12% sem que haja irregularidade. Entenda essa diferença em [CET do financiamento imobiliário](/artigos/cet-financiamento-imobiliario).
 
 ## Como conferir se a sua taxa está fora da curva
 
 Você consegue fazer uma primeira triagem sozinho, com o contrato e a planilha de evolução da dívida em mãos.
 
 1. **Ache as taxas no contrato.** Procure a taxa nominal e a taxa efetiva anual. A efetiva é sempre um pouco maior, porque considera a capitalização mensal.
-2. **Identifique a modalidade.** SFH (imóvel até R$ 2,25 milhões, pela Resolução CMN 5.255/2025, com recursos da poupança), SFI (Sistema de Financiamento Imobiliário) ou programa como o Minha Casa, Minha Vida. Cada um tem regra própria. As diferenças estão em [SFH e SFI](/artigos/sfh-e-sfi).
+2. **Identifique a modalidade.** SFH (com valor de avaliação do imóvel de até R$ 2,25 milhões, desde a Resolução CMN 5.255/2025, e recursos da poupança), SFI (Sistema de Financiamento Imobiliário) ou programa como o Minha Casa, Minha Vida. Cada um tem regra própria. As diferenças estão em [SFH e SFI](/artigos/sfh-e-sfi).
 3. **Confira o teto, se for SFH.** Se a taxa efetiva de juros passar de 12% ao ano, há indício objetivo de erro.
 4. **Compare com a média da época.** O Banco Central publica, no site bcb.gov.br, as taxas médias de juros por modalidade e por banco, e mantém séries históricas no SGS (Sistema Gerenciador de Séries Temporais). Use o mês em que você assinou, não o de hoje.
 5. **Veja se a taxa cobrada é a contratada.** Compare a planilha com o contrato. Erro de digitação, índice trocado ou taxa de balcão aplicada no lugar da taxa com relacionamento são erros concretos e mais fáceis de provar.
@@ -76,11 +82,11 @@ Você consegue fazer uma primeira triagem sozinho, com o contrato e a planilha d
 
 ### Uma referência de outubro de 2026
 
-Para ter noção de grandeza: em outubro de 2026, com a Selic em 13,75% ao ano (Copom de 16/09/2026), as taxas mínimas anunciadas pelos grandes bancos no SBPE (Sistema Brasileiro de Poupança e Empréstimo) iam de 10,26% a 11,99% ao ano mais TR, segundo levantamento da MySide de 08/10/2026. Taxa mínima de balcão não é a taxa média, e o seu perfil pode justificar taxa maior. O número serve só para mostrar que, no SFH, a margem até o teto de 12% é pequena.
+Para ter noção de grandeza: em outubro de 2026, com a Selic em 13,75% ao ano, definida pelo Copom em 16/09/2026, as taxas mínimas anunciadas pelos grandes bancos no SBPE (Sistema Brasileiro de Poupança e Empréstimo) iam de 10,26% a 11,99% ao ano mais TR, segundo levantamento da MySide de 08/10/2026. São os casos da Caixa (10,26%), do Bradesco (11,45%), do Santander (11,69%), do Banco do Brasil (11,60%) e do Itaú (11,99%). Taxa mínima de balcão não é a taxa média, e o seu perfil pode justificar taxa maior. O número serve só para mostrar que, no SFH, a margem até o teto de 12% é pequena.
 
 ## Exemplo com números
 
-Exemplo ilustrativo, sem relação com nenhum banco. Financiamento de R$ 300.000 em 360 meses pela Tabela Price, sem TR, seguros ou tarifas.
+Exemplo ilustrativo, sem relação com nenhum banco. Financiamento de R$ 300.000 em 360 meses pela Tabela Price, sem TR, seguros ou tarifas. As taxas efetivas anuais foram convertidas em mensais de forma composta.
 
 | Taxa efetiva anual | Taxa mensal equivalente | Parcela | Juros totais no prazo |
 |---|---|---|---|
@@ -94,7 +100,7 @@ Duas leituras práticas:
 - **Se o contrato é do SFH e mostra 14% de juros efetivos**, há um problema objetivo, porque passa do limite de 12%. A diferença para uma taxa de 11,99% seria de R$ 416,72 por mês no exemplo.
 - **Se o contrato é do SFI**, a mesma taxa de 14% não é ilegal por si só. Ela pode ser cara e merecer uma portabilidade, mas só seria abusiva se ficasse muito acima da média do mercado na data da assinatura, sem justificativa.
 
-Agora um cuidado com a conta da taxa. Um contrato pode informar 11,50% ao ano de taxa nominal. Convertida, ela vira cerca de 12,13% ao ano de taxa efetiva. Se o contrato é do SFH, o número que conta para o limite é o da taxa efetiva. Pelo outro lado, 11,39% nominais equivalem a aproximadamente 12,00% efetivos, que é o máximo.
+Agora um cuidado com a conta da taxa. Um contrato pode informar 11,50% ao ano de taxa nominal. Com capitalização mensal, ela vira cerca de 12,13% ao ano de taxa efetiva. Se o contrato é do SFH, o número que conta para o limite é o da taxa efetiva. Já 11,39% nominais, com capitalização mensal, equivalem a aproximadamente 12,00% efetivos, que é o máximo.
 
 E um exemplo de atraso. Numa parcela de R$ 2.900 paga com 45 dias de atraso, num contrato que preveja multa de 2% e juros de mora de 1% ao mês, os encargos seriam de R$ 58,00 de multa e cerca de R$ 43,50 de juros de mora, mais a correção prevista. Valores muito acima disso merecem explicação por escrito do banco.
 
@@ -115,7 +121,7 @@ Se o problema é seguro empurrado ou tarifa sem serviço, o caminho é outro e c
 - "os juros estão altos" sem nenhuma comparação com a média da época;
 - comparar a taxa de 2026 com taxas de anos de Selic baixa;
 - comparar o CET com o limite de 12% do SFH, que vale só para juros e encargos;
-- dizer que a taxa anual maior que 12 vezes a mensal prova cobrança oculta: o STJ entende que isso só indica capitalização, que pode estar pactuada;
+- dizer que a taxa anual maior que 12 vezes a mensal prova cobrança oculta: essa diferença pode vir só da capitalização mensal, que pode estar pactuada no contrato;
 - somar a TR aos juros como se fossem a mesma coisa.
 
 ## O que fazer se você suspeita de abuso

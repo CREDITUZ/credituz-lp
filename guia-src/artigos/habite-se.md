@@ -4,7 +4,7 @@ description: "O que é o habite-se, quem emite, por que ele trava financiamento,
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Habite-se é o documento da prefeitura que atesta que a obra foi concluída conforme o projeto aprovado. O nome muda por cidade, como certificado ou auto de conclusão."
   - "Sem ele, em regra, não há averbação da construção na matrícula, e sem averbação o banco e o FGTS costumam travar."
@@ -36,7 +36,7 @@ related: [averbacao-da-construcao, vistoria-de-entrega-de-chaves, atraso-na-entr
 
 Habite-se é o documento que a prefeitura emite para atestar que uma obra foi concluída de acordo com o projeto aprovado e pode ser ocupada. Ele importa porque abre a porta para o resto: com o habite-se, a construção pode ser averbada na matrícula do imóvel no cartório, e é essa averbação que bancos, FGTS e compradores futuros vão conferir. Imóvel sem habite-se, ou com área construída maior que a aprovada, costuma travar financiamento, uso do FGTS e venda.
 
-O nome muda de cidade para cidade. Em São Paulo, por exemplo, a prefeitura chama de Certificado de Conclusão, parcial ou total. Em outros municípios aparecem "auto de conclusão", "carta de habitação" ou "auto de vistoria". A função é a mesma. Este artigo explica o papel do habite-se na compra na planta e na compra de usado, com regras gerais vigentes em outubro de 2026. Para situações de conflito com a construtora, procure o Procon, a Defensoria Pública ou um advogado.
+O nome muda de cidade para cidade. Em São Paulo, o documento se chama Certificado de Conclusão Parcial ou Total e inclui o antigo habite-se. Em outras cidades os nomes variam. A função é a mesma. Este artigo explica o papel do habite-se na compra na planta e na compra de usado, com regras gerais vigentes em outubro de 2026. Para situações de conflito com a construtora, procure o Procon, a Defensoria Pública ou um advogado.
 
 ## Como o habite-se é emitido
 
@@ -44,7 +44,7 @@ O habite-se fecha o ciclo do licenciamento municipal da obra:
 
 1. **Aprovação do projeto e alvará.** Antes de construir, o responsável aprova o projeto e obtém o alvará de construção (ou de execução).
 2. **Execução da obra** com um profissional habilitado responsável técnico.
-3. **Pedido de conclusão.** Terminada a obra, o responsável declara a conclusão e apresenta os documentos que a prefeitura exige. Em São Paulo, a lista inclui declaração do profissional, execução conforme o projeto, acessibilidade, cadastro de elevadores e equipamentos de segurança e quitação do ISS da obra.
+3. **Pedido de conclusão.** Terminada a obra, o responsável declara a conclusão e apresenta os documentos que a prefeitura exige. Em São Paulo, a lista, prevista na Portaria SMUL 221/2017, inclui declaração do profissional, execução conforme o projeto, acessibilidade, cadastro de elevadores e equipamentos de segurança e quitação do ISS da obra.
 4. **Vistoria ou análise.** A prefeitura confere, conforme as regras locais, e emite o documento.
 
 Prazo e custo variam por município. Em prédios, pode haver habite-se parcial, quando parte do empreendimento fica pronta antes.
@@ -55,16 +55,16 @@ Prazo e custo variam por município. Em prédios, pode haver habite-se parcial, 
 |---|---|
 | Averbação da construção | o cartório, em regra, pede o habite-se e a certidão de regularidade fiscal da obra, emitida pela Receita Federal |
 | Matrículas das unidades | depois da averbação, as unidades do prédio passam a existir individualmente no registro |
-| Financiamento | bancos financiam imóvel pronto com a construção averbada; na planta, o repasse do saldo ao banco costuma acontecer depois do habite-se |
-| FGTS | o manual do FGTS exige imóvel concluído com a edificação averbada |
+| Financiamento | bancos costumam exigir a construção averbada para financiar; na planta, o repasse do saldo ao banco costuma acontecer depois do habite-se |
+| FGTS | as regras de uso exigem imóvel regular; confirme no manual do FGTS da Caixa se a edificação precisa estar averbada |
 | Distrato na planta | com patrimônio de afetação, a devolução pode ficar para até 30 dias depois do habite-se (Lei 13.786/2018) |
 | Venda futura | comprador e banco dele vão pedir a matrícula regular |
 
 ### Na compra na planta
 
-O habite-se é o marco que separa a obra da fase de entrega. Depois dele, cabe ao incorporador providenciar a averbação da construção conforme as frações ideais da matrícula do terreno. O art. 44 da Lei 4.591/1964, com a redação dada pela Lei 14.382/2022, diz que ele responde por perdas e danos se atrasar. Se o incorporador não fizer, o construtor deve fazer, e, em último caso, qualquer comprador pode pedir.
+O habite-se é o marco que separa a obra da fase de entrega. Depois dele, cabe ao incorporador providenciar a averbação da construção conforme as frações ideais da matrícula do terreno. Pelo art. 44 da Lei 4.591/1964, com a redação dada pela Lei 14.382/2022, ele responde perante os adquirentes por perdas e danos se descumprir essa obrigação.
 
-Em muitos contratos, o saldo que você deve à incorporadora é pago com o financiamento bancário depois do habite-se. Até lá, esse saldo costuma ser corrigido por um índice da construção, como o INCC. Um habite-se que demora, portanto, pode encarecer o que você vai financiar. O atraso em si tem regras próprias; veja [atraso na entrega do imóvel](/artigos/atraso-na-entrega-do-imovel).
+Em muitos contratos, o saldo que você deve à incorporadora é pago com o financiamento bancário depois do habite-se. Até lá, esse saldo costuma ser corrigido por um índice da construção, como o INCC, se o contrato prever essa correção. Um habite-se que demora, portanto, pode encarecer o que você vai financiar. O atraso em si tem regras próprias; veja [atraso na entrega do imóvel](/artigos/atraso-na-entrega-do-imovel).
 
 ### Habite-se não é entrega das chaves
 
@@ -95,8 +95,8 @@ A demora no habite-se de um prédio novo tem causas variadas: pendência no proj
 
 O que dá para fazer, sem entrar em disputa:
 
-- **Pedir informação por escrito à incorporadora.** Qual é a pendência, qual o número do processo na prefeitura e qual a previsão. Muitas prefeituras deixam consultar o andamento pelo número do processo.
-- **Conferir o prazo do contrato.** O prazo de entrega e a tolerância estão no quadro-resumo. Se o atraso passar da tolerância, valem as regras do art. 43-A da Lei 4.591/1964, explicadas em [atraso na entrega do imóvel](/artigos/atraso-na-entrega-do-imovel).
+- **Pedir informação por escrito à incorporadora.** Qual é a pendência, qual o número do processo na prefeitura e qual a previsão. Muitas prefeituras têm consulta online pelo número do processo.
+- **Conferir o prazo do contrato.** O prazo de entrega e a tolerância estão no quadro-resumo. O art. 43-A da Lei 4.591/1964 trata da tolerância de até 180 dias corridos, quando o contrato a prevê, explicada em [atraso na entrega do imóvel](/artigos/atraso-na-entrega-do-imovel).
 - **Acompanhar a correção do saldo.** Veja no contrato qual índice corrige o saldo devedor e como ele se comporta em caso de atraso.
 - **Avisar o banco.** Se a sua aprovação de crédito tem validade, pergunte o que acontece se o repasse atrasar. Uma nova análise pode ser necessária.
 

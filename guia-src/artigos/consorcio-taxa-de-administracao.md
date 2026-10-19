@@ -7,13 +7,13 @@ updated: 2026-10-19
 reading_minutes: 9
 key_points:
   - "A taxa de administração é a remuneração da administradora: um percentual fixo sobre a carta, diluído nas parcelas do plano."
-  - "Não há teto legal. O STJ (Súmula 538) aceita taxas acima de 10%, e a média dos grupos novos de imóveis foi de 20,84% em 2024, segundo o Banco Central."
+  - "Não há teto legal. O STJ (Súmula 538) aceita taxas acima de 10%, e a média dos grupos novos de imóveis foi de 20,84% em dezembro de 2024, segundo o Banco Central."
   - "Como a carta é reajustada, a taxa em reais também sobe todo ano. Compare sempre o percentual total e o prazo, não a parcela."
   - "Contemplado no início, uma taxa de 18% em 200 meses equivale a um custo de cerca de 2,3% a 3,1% ao ano acima do reajuste, no exemplo calculado."
   - "Antecipação da taxa só pode ser cobrada na adesão e precisa estar no contrato; ela não é custo extra, mas pesa se você desistir."
 faq:
   - q: "Qual é a taxa de administração média do consórcio de imóvel?"
-    a: "Segundo o Panorama do Sistema de Consórcios do Banco Central, a média dos grupos de imóveis formados em 2024 foi de 20,84% da carta, com prazo médio de cerca de 217 meses."
+    a: "Segundo o Panorama do Sistema de Consórcios do Banco Central, a média dos grupos novos de imóveis, com data-base de dezembro de 2024, foi de 20,84% da carta, com prazo médio de cerca de 217 meses."
   - q: "Existe limite para a taxa de administração?"
     a: "Não. A Lei 11.795/2008 não fixa teto, e a Súmula 538 do STJ diz que a administradora pode definir o percentual livremente, inclusive acima de 10%."
   - q: "A taxa de administração é cobrada de quem desiste?"
@@ -23,13 +23,13 @@ faq:
 sources:
   - title: "Lei 11.795/2008 (Lei dos Consórcios), arts. 5º e 27"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm"
-  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), arts. 19 a 21 e 23"
+  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), arts. 19 a 21 e 23, texto em cópia pública"
     url: "https://static.poder360.com.br/2023/01/resolucao-bcb-consorcios-285-19jan2023-1.pdf"
   - title: "Mattos Filho: vigência da Resolução BCB 285 adiada para julho de 2024"
     url: "https://www.mattosfilho.com.br/unico/postergada-norma-grupos-consorcios"
   - title: "Banco Central: Panorama do Sistema de Consórcios 2024 (data-base dez. 2024)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/panoramaconsorcio/panorama_de_consorcios_2024.pdf"
-  - title: "STJ, Súmula 538 (taxa de administração de consórcio)"
+  - title: "STJ, Súmula 538 (taxa de administração de consórcio), texto reproduzido por Dâmasio"
     url: "https://juris.damasio.com.br/sumulas/stj/538"
   - title: "FGV, INCC-M setembro de 2026 (press release via SindusconSP)"
     url: "https://sindusconsp.com.br/wp-content/uploads/2026/09/INCC-M_FGV_press-release_Set26.pdf"
@@ -38,21 +38,21 @@ sources:
 related: [consorcio-imobiliario-como-funciona, consorcio-melhores-administradoras, lance-no-consorcio, consorcio-ou-financiamento]
 ---
 
-A taxa de administração é o que você paga à administradora para organizar e manter o grupo de consórcio. Ela é um percentual fixo sobre o valor da carta de crédito, por exemplo 18% ou 22%, dividido pelas parcelas do plano. Não existe teto em lei, e a média dos grupos de imóveis formados em 2024 foi de 20,84%, segundo o Banco Central. Para comparar propostas, olhe o percentual total junto com o prazo, nunca só a parcela ou a taxa "ao mês".
+A taxa de administração é o que você paga à administradora para organizar e manter o grupo de consórcio. Ela é um percentual fixo sobre o valor da carta de crédito, por exemplo 18% ou 22%, dividido pelas parcelas do plano. Não existe teto em lei, e a média dos grupos novos de imóveis foi de 20,84% na base de dezembro de 2024, segundo o Banco Central. Para comparar propostas, olhe o percentual total junto com o prazo, nunca só a parcela ou a taxa "ao mês".
 
 No consórcio não há juros, então a taxa de administração é o principal custo do dinheiro. Entender como ela funciona é o que permite comparar o consórcio com um financiamento e uma administradora com outra.
 
 ## Como a taxa funciona
 
-A Lei 11.795/2008 dá à administradora o direito de receber a taxa de administração pela formação, organização e administração do grupo até o encerramento. A parcela mensal soma três partes, definidas como percentual do valor do bem: a contribuição ao fundo comum, a taxa de administração e os demais valores previstos no contrato, como fundo de reserva e seguro.
+A Lei 11.795/2008 (art. 27) inclui a taxa de administração na prestação mensal, ao lado da parcela do fundo comum e de outras obrigações previstas no contrato, como fundo de reserva e seguro. A lei não define percentual nem teto para a taxa, que fica a cargo do contrato.
 
 A Resolução BCB 285/2023, que vale para grupos formados a partir de julho de 2024, detalha as regras:
 
-- **Percentual fixo e proporcional.** A taxa é um percentual fixo, cobrado de forma proporcional aos meses do plano. Num plano de 200 meses com taxa de 18%, cada parcela carrega 0,09% da carta.
-- **Antecipação só na adesão.** A administradora pode cobrar parte da taxa adiantada, mas só no ato da adesão, se o contrato prever, e esse dinheiro deve servir para despesas de venda e remuneração de representantes. O valor antecipado é abatido da taxa total; não é um custo a mais.
+- **Percentual fixo e proporcional.** A taxa é um percentual fixo, cobrado de forma proporcional aos meses do plano (art. 19). Num plano de 200 meses com taxa de 18%, cada parcela carrega 0,09% da carta.
+- **Antecipação só na adesão.** A administradora pode cobrar parte da taxa adiantada, mas só no ato da adesão, se o contrato prever, e esse dinheiro deve servir para despesas de venda e remuneração de representantes (art. 20). O valor antecipado é abatido da taxa total; não é um custo a mais.
 - **Discriminação obrigatória.** A proposta de adesão e o demonstrativo mensal precisam mostrar quanto da parcela é taxa de administração.
-- **Fim com a exclusão.** Quem sai do grupo deixa de pagar a taxa a partir da exclusão.
-- **Sem tarifa de boleto.** A resolução proíbe cobrar pela emissão de boleto ou carnê.
+- **Fim com a exclusão.** Quem sai do grupo deixa de pagar a taxa a partir da exclusão (art. 21).
+- **Sem tarifa de boleto.** A resolução proíbe cobrar pela emissão de boleto ou carnê (art. 23).
 
 O Superior Tribunal de Justiça já decidiu, na Súmula 538, que as administradoras têm liberdade para fixar a taxa, ainda que acima de 10%. Ou seja: a proteção do consumidor está na informação e na comparação, não em um limite.
 
@@ -87,7 +87,7 @@ A proposta B tem a menor parcela e o maior custo. A C tem a maior parcela e o me
 Duas regras práticas:
 
 1. **Converta tudo para o percentual total do plano** e para reais sobre a carta que você quer.
-2. **Compare com a média do Banco Central**, de 20,84% para grupos novos de imóveis em 2024, com prazo médio de cerca de 217 meses. Propostas bem acima disso precisam de uma razão clara, como lances historicamente mais baixos.
+2. **Compare com a média do Banco Central**, de 20,84% para grupos novos de imóveis na base de dezembro de 2024, com prazo médio de cerca de 217 meses. Propostas bem acima disso precisam de uma razão clara, como lances historicamente mais baixos.
 
 O guia de [como escolher administradora de consórcio](/artigos/consorcio-melhores-administradoras) mostra os outros itens que entram na comparação além da taxa.
 
@@ -95,15 +95,15 @@ O guia de [como escolher administradora de consórcio](/artigos/consorcio-melhor
 
 A taxa de administração não é juro, mas dá para traduzi-la em um custo anual para comparar com o financiamento. A conta depende de quando você é contemplado: quem recebe a carta cedo está, na prática, tomando o dinheiro emprestado do grupo; quem recebe tarde passou anos poupando antes.
 
-Exemplo ilustrativo, calculado em Python: carta de R$ 300 mil, 200 meses, fundo de reserva de 2%. A coluna "acima do reajuste" é a taxa interna de retorno em termos reais; a coluna seguinte soma o INCC de 6,61% como hipótese, para comparar com taxas nominais.
+Exemplo ilustrativo, calculado em Python: carta de R$ 300 mil, 200 meses, fundo de reserva de 2%. Cada proposta tem a parcela que decorre da sua própria taxa (R$ 1.755 com 15%, R$ 1.800 com 18% e R$ 1.860 com 22%). A coluna "acima do reajuste" é a taxa interna de retorno em termos reais; a coluna seguinte soma o INCC de 6,61% como hipótese, para comparar com taxas nominais.
 
 | Taxa de administração | Contemplado no mês | Custo anual acima do reajuste | Custo anual com INCC de 6,61% |
 |---|---|---|---|
-| 15% | 1 | 1,99% | 8,73% |
-| 18% | 1 | 2,32% | 9,09% |
-| 18% | 24 | 3,12% | 9,93% |
-| 22% | 1 | 2,76% | 9,56% |
-| 22% | 24 | 3,73% | 10,59% |
+| 15% | 1 | 1,97% | 8,71% |
+| 18% | 1 | 2,30% | 9,06% |
+| 18% | 24 | 3,07% | 9,89% |
+| 22% | 1 | 2,73% | 9,52% |
+| 22% | 24 | 3,68% | 10,53% |
 
 Para comparar: em outubro de 2026, as taxas mínimas dos grandes bancos no financiamento pelo SBPE iam de 10,26% a 11,99% ao ano mais TR (Taxa Referencial), segundo levantamento da MySide. Contemplado cedo, o consórcio sai mais barato que o financiamento nesse exemplo. Contemplado depois de alguns anos, essa comparação perde sentido, porque você passou o período pagando sem ter o imóvel, e o custo do aluguel nessa espera entra na conta. O guia de [consórcio ou financiamento](/artigos/consorcio-ou-financiamento) faz essa simulação completa.
 
@@ -117,20 +117,20 @@ Algumas administradoras cobram uma parte da taxa logo na primeira parcela, ou na
 
 - **A primeira parcela fica maior.** Confira se o valor bate com a proposta.
 - **A taxa total não muda.** O que foi antecipado é descontado do restante.
-- **Na desistência, pesa.** Se você sair cedo, a parte da taxa já paga não volta. A resolução prevê que, se a antecipação passou do proporcional ao tempo em que você ficou no grupo, o excesso seja devolvido quando a cota excluída for contemplada. Os detalhes estão em [desistência do consórcio](/artigos/consorcio-desistencia).
+- **Na desistência, pesa.** Se você sair cedo, a parte da taxa já paga não volta. A resolução prevê que, se a antecipação passou do proporcional ao tempo em que você ficou no grupo, o excesso seja devolvido quando a cota excluída for contemplada (art. 21). Os detalhes estão em [desistência do consórcio](/artigos/consorcio-desistencia).
 
 ## Erros comuns
 
 - **Comparar só a parcela.** Prazo maior baixa a parcela e pode aumentar o custo.
 - **Aceitar taxa "ao mês" sem converter.** Multiplique pelo número de meses.
-- **Esquecer fundo de reserva e seguro.** Eles somam ao custo, embora a sobra do fundo de reserva volte no fim do grupo.
+- **Esquecer fundo de reserva e seguro.** Eles somam ao custo. O saldo remanescente do fundo de reserva, por sua vez, é rateado entre os consorciados ativos no fim do grupo (art. 37 da resolução).
 - **Ignorar o reajuste.** A taxa é percentual de uma carta que sobe todo ano.
 - **Negociar a taxa depois de assinar.** A taxa está no contrato do grupo; a hora de comparar é antes da adesão.
 
 ## Resumo
 
 - A taxa de administração é um percentual fixo da carta, diluído nas parcelas, sem teto legal.
-- A média dos grupos novos de imóveis foi de 20,84% em 2024, com prazo médio de cerca de 217 meses, segundo o Banco Central.
+- A média dos grupos novos de imóveis foi de 20,84% na base de dezembro de 2024, com prazo médio de cerca de 217 meses, segundo o Banco Central.
 - Compare o percentual total e o prazo; a menor parcela pode ser a proposta mais cara.
 - Contemplado cedo, uma taxa de 18% em 200 meses custou cerca de 2,3% a 3,1% ao ano acima do reajuste no exemplo.
 - Leia no contrato se há antecipação, quanto é o fundo de reserva e qual o índice de reajuste antes de pagar a primeira parcela.

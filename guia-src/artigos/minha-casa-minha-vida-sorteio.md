@@ -42,15 +42,15 @@ A pergunta sobre sorteio aparece em quase toda conversa sobre o Minha Casa Minha
 
 A Portaria MCID 738/2024 trata da seleção de famílias para as unidades subsidiadas do FAR. O processo tem estas etapas:
 
-1. **Cadastro habitacional:** o município ou o estado registra a família e confirma o CadÚnico, conforme o art. 7.
+1. **Cadastro habitacional:** o ente público local registra a família e confirma o CadÚnico, conforme o art. 7.
 2. **Enquadramento:** o município verifica se a família cumpre as regras de renda e de não ter outro imóvel ou benefício habitacional.
 3. **Classificação:** o ente público local ordena as famílias pelo número de critérios de prioridade que cada uma cumpre. Quem cumpre mais critérios fica à frente.
 4. **Desempate:** se houver empate no ponto de corte, o titular mais velho é escolhido, comprovado por documento civil, segundo o art. 13, §3º.
 5. **Lista de suplentes:** a lista precisa ter uma reserva de 30% de suplentes, conforme o art. 16.
 
-São 11 critérios nacionais, entre eles mulher como responsável pela família, pessoa negra, pessoa com deficiência, idosa, criança ou adolescente, pessoa com câncer ou doença crônica rara, mulher vítima de violência doméstica, indígena ou quilombola, moradia em área de risco e situação de rua.
+São 11 critérios nacionais, entre eles mulher como responsável pela família, pessoa negra, pessoa com deficiência, idosa, criança ou adolescente, pessoa com câncer ou doença crônica rara, mulher vítima de violência doméstica, indígena ou quilombola, moradia em área de risco, contrato distratado ou rescindido de forma involuntária e situação de rua.
 
-O município pode acrescentar critérios locais, mas precisa de aprovação do Ministério das Cidades para os que não estão na lista federal. Pode também usar dois critérios opcionais, como morar ou trabalhar perto do empreendimento em cidades com mais de 300 mil habitantes, e tempo de inscrição no cadastro habitacional.
+Pode haver também critérios opcionais, como a distância entre a casa e o empreendimento e o tempo de inscrição no cadastro habitacional, previstos no art. 13. Em municípios com mais de 300 mil habitantes, a seleção pode ser restrita a quem mora perto do empreendimento, segundo o art. 9º.
 
 ## Reservas que mudam a ordem
 
@@ -64,13 +64,13 @@ Além da classificação, a portaria reserva parte das unidades:
 
 Essas reservas valem no momento da pesquisa de enquadramento, e os candidatos reservados ainda precisam cumprir as regras de elegibilidade e a ordem de classificação.
 
-Algumas situações fogem da fila comum. Famílias que perderam a única casa por calamidade declarada, famílias removidas por obras federais e famílias de áreas de alto risco podem ser indicadas diretamente pelo ente, até um limite de 20% das unidades, ou 30% quando há plano municipal de redução de risco, segundo o art. 10.
+Algumas situações fogem da fila comum. Famílias de áreas de risco alto ou muito alto podem ser indicadas diretamente pelo ente, em até 20% das unidades, ou em até 30% quando há plano municipal de redução de risco, segundo o art. 10 da Portaria 738/2024.
 
 ## Quando há sorteio
 
-Como a regra federal não prevê sorteio, ele aparece nos editais municipais, geralmente para desempatar ou ordenar grupos. Um exemplo recente é o de Jundiaí (SP). Em abril de 2026, a prefeitura divulgou a lista de 35.513 inscritos e fez um sorteio público de 1.624 unidades, com outros 1.624 nomes de suplentes. Pelo edital noticiado, os selecionados tinham 10 dias para enviar documentos, e a lista final só era publicada depois da validação pela Caixa.
+Como a regra federal não prevê sorteio, ele aparece nos editais municipais, geralmente para desempatar ou ordenar grupos. Um exemplo recente é o de Jundiaí (SP). Em 29 de abril de 2026, a prefeitura divulgou a lista de 35.513 inscritos. No dia 30 do mesmo mês, fez um sorteio público, aberto ao público e transmitido ao vivo, de 1.624 unidades, com outros 1.624 nomes de suplentes. Os indicados tiveram 10 dias para enviar documentos, contados da publicação de 6 de maio, e a lista final só é publicada depois da validação pela Caixa.
 
-Outro exemplo, de 2016, é o de Caraguatatuba (SP). O regulamento organizava as famílias em três grupos conforme o número de critérios: 60% das unidades para o grupo com quatro a seis critérios, 25% para dois ou três critérios e 15% para um critério. O sorteio era feito dentro de cada grupo, em sessão aberta com representantes do conselho municipal, dos órgãos de controle e da Caixa. Esse regulamento é antigo e segue outra portaria, a 412/2015, por isso serve apenas como ilustração de como um sorteio municipal pode funcionar.
+Outro exemplo, de 2016, é o de Caraguatatuba (SP). O regulamento, de 13 de janeiro de 2016, tratou de 41 unidades do Loteamento Nova Caraguá II, no Minha Casa Minha Vida Faixa 1, destinadas a famílias reassentadas por obras estaduais. Ele organizava as famílias em três grupos conforme o número de critérios: 60% das unidades para o grupo com quatro a seis critérios, 25% para dois ou três critérios e 15% para um critério. O sorteio era feito dentro de cada grupo, em sessão aberta com representantes do conselho municipal, dos órgãos de controle e da Caixa. O regulamento é anterior à Portaria 738/2024 e se baseia na Portaria MCID 412/2015, por isso serve apenas como ilustração de como um sorteio municipal pode funcionar.
 
 Os dois casos mostram que o sorteio não substitui a classificação: ele é uma forma de escolher entre famílias do mesmo grupo de prioridade. Em Jundiaí, a lista final só foi publicada depois da validação pela Caixa, o que reforça a importância de manter a documentação em dia desde o início.
 
@@ -118,7 +118,7 @@ Antes de se inscrever ou de contar com uma vaga, faça estas perguntas à secret
 - Qual é a data de corte do cadastro habitacional e do CadÚnico?
 - Quais critérios o edital usa, e quantos grupos de prioridade existem?
 - O sorteio é feito dentro desses grupos, ou entre todos os inscritos?
-- Há reservas além das previstas na portaria federal? Em 2025, por exemplo, a prefeitura de Feira de Santana (BA) reservou 6% das unidades para idosos e 3% para população de rua, segundo o diário oficial local.
+- Há reservas além das previstas na portaria federal? Confira se o edital cria reservas próprias para algum grupo.
 - Qual é o prazo para entregar os documentos e para assinar?
 - Onde a lista é publicada, e existe prazo para contestação?
 - A unidade é escolhida por sorteio ou indicada pela prefeitura, conforme a portaria?

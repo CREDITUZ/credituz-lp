@@ -4,7 +4,7 @@ description: "Quando o CDC protege quem compra imóvel: oferta que vincula, clá
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "O CDC vale quando você compra de empresa (construtora, incorporadora) ou contrata banco e imobiliária. Compra entre pessoas físicas, em regra, segue o Código Civil."
   - "Anúncio, folder e material de venda precisos vinculam a empresa: se ela não cumprir, você pode exigir o prometido, aceitar algo equivalente ou desfazer o negócio (arts. 30 e 35)."
@@ -23,11 +23,11 @@ faq:
 sources:
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), texto compilado"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "STJ, pesquisa oficial de súmulas: 297 e 543"
-    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27297%27.num.+ou+%27543%27.num.&b=SUMU"
+  - title: "STJ, pesquisa oficial de súmulas: 297"
+    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27297%27.num.&b=SUMU"
   - title: "Lei 13.786/2018 (Lei do Distrato)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm"
-  - title: "IRIB: STJ fixa tese do Tema 1.095 (alienação fiduciária e CDC)"
+  - title: "IRIB: tese do STJ no Tema 1.095 (REsp 1.891.498/SP, julgado em 26/10/2022)"
     url: "https://irib.org.br/noticias/detalhes/resolucao-de-compra-de-imovel-garantida-por-alienacao-fiduciaria-devera-observar-a-forma-prevista-na-lei-n-9-514-1997"
   - title: "Código Civil (Lei 10.406/2002), arts. 441 a 446 (vício redibitório)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
@@ -55,7 +55,7 @@ O CDC define consumidor como quem adquire produto ou serviço como destinatário
 
 ### Informação clara antes de assinar
 
-O art. 6º, III, garante informação adequada sobre preço, características e riscos. O art. 46 diz que o contrato não obriga você se não houve chance de conhecer o conteúdo antes, ou se o texto for redigido de forma que dificulte entender. Em contratos de adesão, o art. 54 exige letra legível, com fonte de no mínimo corpo 12, e destaque nas cláusulas que limitam seus direitos.
+O art. 6º, III, garante informação adequada sobre preço, características e riscos. O art. 46 diz que o contrato não obriga você se não houve chance de conhecer o conteúdo antes, ou se o texto for redigido de forma que dificulte entender. Em contratos de adesão, o art. 54, §§ 3º e 4º, exige letra legível, com fonte de no mínimo corpo 12, e destaque nas cláusulas que limitam seus direitos.
 
 Na compra na planta, a Lei 13.786/2018 somou a isso o quadro-resumo, uma página inicial com preço, forma de pagamento, corretagem, prazo de entrega e consequências do distrato. Confira cada linha com a proposta que recebeu. Veja também [promessa de compra e venda](/artigos/promessa-de-compra-e-venda).
 
@@ -92,7 +92,7 @@ Isso vale tanto para o financiamento do banco quanto para o parcelamento direto 
 
 ### Perda de tudo o que pagou é proibida
 
-O art. 53 torna nula a cláusula que faz você perder todas as parcelas pagas quando o contrato é desfeito e o vendedor retoma o imóvel. Para compras na planta firmadas depois de dezembro de 2018, a Lei do Distrato fixou quanto a incorporadora pode reter; veja [distrato de imóvel na planta](/artigos/distrato-imovel-na-planta). Nos financiamentos com alienação fiduciária registrada, o STJ decidiu no Tema 1.095 que a resolução por atraso segue a Lei 9.514/1997, e não o art. 53; o passo a passo está em [leilão extrajudicial](/artigos/leilao-extrajudicial-direitos).
+O art. 53 torna nula a cláusula que faz você perder todas as parcelas pagas quando o contrato é desfeito e o vendedor retoma o imóvel. Para compras na planta firmadas depois de dezembro de 2018, a Lei do Distrato fixou quanto a incorporadora pode reter; veja [distrato de imóvel na planta](/artigos/distrato-imovel-na-planta). Nos financiamentos com alienação fiduciária registrada, o STJ decidiu no Tema 1.095 (REsp 1.891.498/SP, julgado em 26/10/2022) que a resolução por inadimplemento com mora segue a Lei 9.514/1997, e não o CDC. Nesse ponto, o art. 53 não é o parâmetro. O passo a passo está em [leilão extrajudicial](/artigos/leilao-extrajudicial-direitos).
 
 ### Inversão do ônus da prova e foro do seu domicílio
 
@@ -104,7 +104,7 @@ O CDC também trata de vícios (art. 26) e de danos causados por defeito (art. 2
 
 ## E no financiamento com o banco
 
-O banco também é fornecedor, e o CDC vale para ele. Na prática, os pontos mais usados são três. Primeiro, a proibição de venda casada (art. 39, I): o banco não pode condicionar o crédito à compra de outro produto, e você pode escolher a seguradora dos seguros obrigatórios; os detalhes estão em [cobrança indevida no financiamento](/artigos/cobranca-indevida-financiamento). Segundo, o direito a amortizar ou quitar antes com redução dos juros (art. 52, §2º), que é a base das amortizações extras. Terceiro, a informação clara sobre o custo total, que no crédito imobiliário aparece no CET (Custo Efetivo Total).
+O banco também é fornecedor, e o CDC vale para ele. Na prática, os pontos mais usados são três. Primeiro, a proibição de venda casada (art. 39, I): o banco não pode condicionar o crédito à compra de outro produto ou serviço. Os detalhes sobre seguros e tarifas estão em [cobrança indevida no financiamento](/artigos/cobranca-indevida-financiamento). Segundo, o direito a amortizar ou quitar antes com redução dos juros (art. 52, §2º), que é a base das amortizações extras. Terceiro, a informação clara sobre o custo total, que no crédito imobiliário aparece no CET (Custo Efetivo Total).
 
 O CDC não autoriza, por si, rever uma taxa de juros só porque ela é alta. Essa discussão tem critérios próprios no STJ, explicados em [juros abusivos no financiamento](/artigos/juros-abusivos-financiamento).
 

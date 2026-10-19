@@ -9,33 +9,33 @@ key_points:
   - "Não existe ranking oficial de melhores administradoras. O que existe são dados públicos para você checar autorização, reclamações e custo."
   - "Primeiro filtro: a empresa precisa ser autorizada pelo Banco Central. Vendedor ou site que não confirma isso deve ser descartado."
   - "O Banco Central publica a cada semestre um ranking de reclamações só de administradoras de consórcio, com índice proporcional ao número de clientes."
-  - "Em 2024, a taxa de administração média dos grupos novos de imóveis foi de 20,84%, segundo o Banco Central. Use esse número como régua."
+  - "Na base de dezembro de 2024, a taxa de administração média dos grupos novos de imóveis foi de 20,84%, segundo o Banco Central. Use esse número como régua."
   - "Peça o contrato padrão, o regulamento do grupo e o histórico de lances antes de assinar, e compare propostas pelo custo total."
 faq:
   - q: "Qual é a melhor administradora de consórcio de imóvel?"
     a: "Não há resposta única, e desconfie de quem oferece uma. A melhor para você é uma administradora autorizada pelo Banco Central, com poucas reclamações procedentes e um grupo cujo custo e regras cabem no seu plano."
   - q: "Como saber se a administradora é autorizada pelo Banco Central?"
-    a: "Pesquise o nome ou o CNPJ na ferramenta Encontre uma Instituição, no site do Banco Central. Se a empresa não aparecer como administradora de consórcio, não assine."
+    a: "Pesquise o nome ou o CNPJ na consulta de instituições autorizadas do site do Banco Central. Se a empresa não aparecer como administradora de consórcio, não assine."
   - q: "Onde vejo reclamações contra administradoras de consórcio?"
-    a: "No ranking semestral de reclamações do Banco Central, que tem uma lista própria para administradoras de consórcio, e no Procon e no consumidor.gov.br. O ranking do BC conta só reclamações procedentes e considera o tamanho da empresa."
+    a: "No ranking semestral de reclamações do Banco Central, que tem uma lista própria para administradoras de consórcio, e no Procon e no consumidor.gov.br. O ranking do BC conta só reclamações procedentes e relaciona esse número ao total de consorciados."
   - q: "Taxa de administração baixa significa administradora boa?"
     a: "Não necessariamente. Uma taxa menor ajuda, mas prazo, fundo de reserva, seguro, índice de reajuste e regras de lance também mudam o custo e a chance de contemplação."
 sources:
   - title: "Lei 11.795/2008 (Lei dos Consórcios), arts. 5º a 7º"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm"
-  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio)"
+  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), arts. 2º, 23 e 48, texto em cópia pública"
     url: "https://static.poder360.com.br/2023/01/resolucao-bcb-consorcios-285-19jan2023-1.pdf"
   - title: "Banco Central: Panorama do Sistema de Consórcios 2024 (data-base dez. 2024)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/panoramaconsorcio/panorama_de_consorcios_2024.pdf"
   - title: "Banco Central: documentação do conjunto de dados do Ranking de reclamações"
     url: "https://www.bcb.gov.br/conteudo/dadosabertos/BCBDeati/Documentacao%20do%20Conjunto%20de%20dados%20-%20Ranking.pdf"
-  - title: "Banco Central: Encontre uma Instituição"
+  - title: "Banco Central: consulta de instituições autorizadas"
     url: "https://www.bcb.gov.br/estabilidadefinanceira/encontreinstituicao"
   - title: "ABAC: alerta sobre golpes envolvendo consórcio (maio de 2024)"
     url: "https://abac.org.br/sistema/noticiasTextuais/1_(202407020058)6684405a4fdfc7.29076140.pdf"
   - title: "Economic News Brasil: BC liquida administradora de consórcios (14/08/2026)"
     url: "https://economicnewsbrasil.com.br/2026/08/14/liquidacao-da-simpala-ranking-reclamacoes-bc/"
-  - title: "STJ, Súmula 538 (taxa de administração de consórcio)"
+  - title: "STJ, Súmula 538 (taxa de administração de consórcio), texto reproduzido por Dâmasio"
     url: "https://juris.damasio.com.br/sumulas/stj/538"
 related: [consorcio-imobiliario-como-funciona, consorcio-taxa-de-administracao, lance-no-consorcio, golpes-de-credito-imobiliario]
 ---
@@ -48,18 +48,18 @@ Este guia não indica nenhuma empresa. Ele mostra onde olhar e o que perguntar. 
 
 No consórcio, você entrega dinheiro todo mês, durante 15 ou 20 anos, a uma empresa que guarda os recursos do grupo, organiza as assembleias e decide, conforme o contrato, quando liberar o seu crédito. A Lei 11.795/2008 dá proteções importantes: o patrimônio do grupo é separado do patrimônio da administradora e não responde pelas dívidas dela, e os administradores respondem pessoalmente pelos valores recebidos. Ainda assim, uma administradora mal gerida pode atrasar liberações, dificultar a análise de crédito ou acabar sob intervenção.
 
-Isso não é hipótese. Em agosto de 2026, o Banco Central decretou a liquidação extrajudicial de uma administradora de consórcios do Rio Grande do Sul que aparecia entre as primeiras do ranking de reclamações no semestre anterior, segundo noticiou a imprensa. O BC ressalta que o ranking não indica relação de causa e efeito com a liquidação, mas o caso mostra que olhar os sinais antes de assinar faz diferença.
+Isso não é hipótese. Em agosto de 2026, o Banco Central decretou a liquidação extrajudicial da Simpala Lançadora e Administradora de Consórcios, do Rio Grande do Sul, segundo a imprensa. A empresa tinha ficado em 3º lugar no ranking de reclamações do segundo semestre de 2025 e em 6º no primeiro semestre de 2026. A notícia não aponta relação pública entre o ranking e a liquidação, mas o caso mostra que olhar os sinais antes de assinar faz diferença.
 
 O sistema também é amplo: o Banco Central contava 131 administradoras autorizadas em dezembro de 2024, segundo o Panorama do Sistema de Consórcios. Há escolha de sobra, então não aceite a primeira oferta.
 
 ## Filtro 1: autorização do Banco Central
 
-A lei diz que só pode administrar consórcio a empresa autorizada pelo Banco Central, constituída como sociedade limitada ou anônima. É o primeiro filtro e elimina golpes inteiros.
+A lei diz que a administradora deve ser sociedade limitada ou anônima (art. 5º), e que só pode atuar com autorização do Banco Central (art. 7º). É o primeiro filtro e elimina golpes inteiros.
 
 Como checar:
 
 1. Peça o nome completo e o CNPJ da administradora que vai assinar o contrato. O vendedor pode ser um representante ou corretor; quem importa é a empresa no contrato.
-2. Pesquise na ferramenta Encontre uma Instituição, no site do Banco Central.
+2. Pesquise o nome ou o CNPJ na consulta de instituições autorizadas do site do Banco Central.
 3. Confira se a empresa aparece como administradora de consórcio e se o CNPJ bate com o do contrato.
 4. Confirme que o site e os canais de atendimento são os oficiais da empresa, não páginas parecidas.
 
@@ -81,7 +81,7 @@ Ausência no ranking não é selo de qualidade. Empresas com poucos casos proced
 
 Taxa de administração é livre. O STJ, na Súmula 538, reconhece que a administradora pode fixar o percentual, inclusive acima de 10%. Por isso, a única forma de saber se uma proposta é cara é comparar.
 
-O Banco Central divulga uma régua útil: em 2024, a taxa de administração média dos grupos novos de imóveis foi de 20,84%, e o prazo médio desses grupos foi de cerca de 217 meses, segundo o Panorama do Sistema de Consórcios. O valor médio da carta nos grupos novos de imóveis foi de R$ 222,3 mil.
+O Banco Central divulga uma régua útil: em dezembro de 2024, a taxa de administração média dos grupos novos de imóveis foi de 20,84%, e o prazo médio desses grupos foi de cerca de 217 meses, segundo o Panorama do Sistema de Consórcios. O valor médio dos créditos nesses grupos foi de R$ 222,3 mil.
 
 ### Exemplo: quanto custa estar acima da média
 
@@ -108,9 +108,9 @@ A Resolução BCB 285/2023, que vale para grupos formados a partir de julho de 2
 | Garantias exigidas | Alienação fiduciária do imóvel, análise de renda na contemplação |
 | Canais oficiais | CNPJ, site, aplicativo, ouvidoria |
 
-O histórico de lances é o dado que os vendedores menos mostram e o que mais diz sobre a sua chance real. Pelas regras do Banco Central, as atas das assembleias registram as cotas que ofertaram lance, os percentuais oferecidos e as contempladas. Se o grupo já está em andamento, peça as últimas atas. Se é um grupo novo, peça o histórico de grupos parecidos da mesma administradora. O guia de [lance no consórcio](/artigos/lance-no-consorcio) explica como ler esses números.
+O histórico de lances é o dado que os vendedores menos mostram e o que mais diz sobre a sua chance real. Pela resolução, as atas das assembleias listam as cotas que ofertaram lance, os percentuais oferecidos e as contempladas (art. 48). Se o grupo já está em andamento, peça as últimas atas. Se é um grupo novo, peça o histórico de grupos parecidos da mesma administradora. O guia de [lance no consórcio](/artigos/lance-no-consorcio) explica como ler esses números.
 
-A parcela inicial também deve vir discriminada: quanto vai para o fundo comum, quanto é taxa de administração, quanto é fundo de reserva e quanto é seguro. A resolução proíbe cobrar tarifa pela emissão de boleto ou carnê.
+A parcela inicial também deve vir discriminada: quanto vai para o fundo comum, quanto é taxa de administração, quanto é fundo de reserva e quanto é seguro. A resolução proíbe cobrar tarifa pela emissão de boleto ou carnê (art. 23).
 
 ## Sinais de alerta
 
@@ -137,7 +137,7 @@ Os golpes mais comuns ligados a crédito imobiliário estão reunidos em [golpes
 ## Resumo
 
 - Não confie em "ranking das melhores": use autorização do BC, ranking de reclamações e custo comparado.
-- Confira a empresa na ferramenta Encontre uma Instituição do Banco Central antes de qualquer pagamento.
+- Confira a empresa na consulta de instituições autorizadas do Banco Central antes de qualquer pagamento.
 - O ranking semestral de reclamações do BC tem lista própria de administradoras de consórcio; olhe vários semestres.
-- A taxa média dos grupos novos de imóveis foi de 20,84% em 2024; numa carta de R$ 300 mil, cada ponto acima disso custa R$ 3 mil em valores de hoje.
+- A taxa média dos grupos novos de imóveis foi de 20,84% em dezembro de 2024; numa carta de R$ 300 mil, cada ponto acima disso custa R$ 3 mil em valores de hoje.
 - Peça contrato padrão, regulamento e histórico de lances. Se a administradora não entregar, escolha outra.
