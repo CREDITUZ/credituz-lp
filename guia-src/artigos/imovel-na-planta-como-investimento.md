@@ -1,6 +1,6 @@
 ---
 title: "Imóvel na planta como investimento: custo, prazo e revenda"
-description: "Veja se comprar na planta para revender dá lucro: custos da compra, imposto sobre a cessão de direitos, prazo até a entrega e os riscos que mais pesam no retorno."
+description: "Veja se comprar na planta para revender dá lucro: custos, imposto sobre a cessão de direitos, prazo até a entrega e os riscos que mais pesam no retorno."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

@@ -90,13 +90,20 @@ Também vale conferir se há financiamento ativo com recursos do FGTS ou no SFH 
 
 ## Documentos e declarações que pesam
 
-Ao se candidatar de novo, a família costuma assinar declarações sobre benefícios recebidos e sobre o imóvel. Essas declarações são verificadas em bases públicas e pelo banco. Por isso, a melhor estratégia é responder com exatidão, mesmo que a resposta seja desfavorável. Uma declaração falsa leva à exclusão, e a exclusão pode ser mais grave do que a negativa de um subsídio.
+Ao se candidatar de novo, a família costuma assinar declarações sobre benefícios recebidos e sobre o imóvel. Essas declarações são conferidas na análise do agente financeiro. Por isso, a melhor estratégia é responder com exatidão, mesmo que a resposta seja desfavorável. Uma declaração falsa leva à exclusão, e a exclusão pode ser mais grave do que a negativa de um subsídio.
 
 Se houve benefício no passado, junte os documentos da concessão, como o contrato anterior e a quitação, para explicar o histórico ao banco ou ao agente. Se o benefício foi para reforma ou melhorias, guarde a prova, porque a lei excetua esses casos.
 
 ## Como a decisão é tomada
 
 A análise do benefício é feita pelo agente financeiro e pelo órgão que concede o subsídio, com base na renda, nos cadastros e nos benefícios anteriores. Não há um sistema único que decida sozinho, e o resultado pode ser diferente de um banco para outro. Se a primeira resposta for negativa, peça a justificativa por escrito e confira se a regra citada é a vigente. Uma resposta baseada na redação antiga, quando a MP já alterou o texto, pode ser contestada.
+
+## Caminhos para quem já foi beneficiado
+Quem já recebeu benefício habitacional e quer comprar de novo tem alguns caminhos, cada um com condições próprias. O primeiro é o financiamento sem subsídio, em faixas em que o banco aceita a operação e a renda sustenta a parcela. Nesse caso, a taxa é a da faixa e a análise segue as regras do crédito imobiliário em geral, o que pode ser mais caro do que o programa.
+
+O segundo caminho é a reforma ou a melhoria do imóvel que já é seu, porque a lei excetua esses descontos da vedação, nos termos da regulamentação. Vale conferir as condições em cada linha, já que a elegibilidade e o valor mudam conforme o programa.
+
+O terceiro é planejar a entrada com antecedência. Quem não tem subsídio precisa de uma entrada maior, e vale juntar recursos próprios e, quando as regras permitirem, o saldo do FGTS. O texto sobre [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) mostra as regras gerais do fundo.
 
 ## Erros comuns
 

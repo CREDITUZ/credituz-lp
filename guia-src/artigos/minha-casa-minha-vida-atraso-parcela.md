@@ -91,6 +91,11 @@ Nem todo atraso exige advogado, mas alguns sinais pedem atenção imediata. Proc
 
 Empresas que prometem tirar o imóvel do leilão mediante pagamento antecipado, ou que oferecem "limpar" o nome do comprador sem contato com o banco, costumam ser golpe. Negociação legítima acontece com o credor, por escrito. Desconfie de quem cobra adiantado e não apresenta contrato.
 
+## Se o atraso se repetir
+Um atraso isolado, causado por um imprevisto, é diferente de atrasos seguidos. Quando o problema se repete, o banco tende a ver risco maior, e a renegociação fica mais difícil. Por isso, se você sabe que vai atrasar de novo, procure o banco antes do vencimento e não depois. Um pedido feito antes costuma ser tratado com mais boa vontade do que uma cobrança já em andamento.
+
+Vale também revisar o orçamento. Uma parcela que não cabe na renda, mesmo que o banco tenha aprovado, pode ser um sinal de que o financiamento ficou pesado demais. Nesse caso, a opção de alongar o prazo ou de amortizar com FGTS, quando possível, deve ser comparada com a alternativa de vender o imóvel antes da execução. Essa comparação é mais favorável quando feita cedo.
+
 ## Erros comuns
 
 - **Ignorar a carta.** A intimação tem prazo. Deixar passar pode consolidar a propriedade sem nova chance de conversar.

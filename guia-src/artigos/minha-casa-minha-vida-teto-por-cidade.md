@@ -4,7 +4,7 @@ description: "O teto do imóvel no Minha Casa Minha Vida muda conforme o porte e
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Nas Faixas 1 e 2, o teto do imóvel vai de R$ 210 mil a R$ 275 mil, conforme o tamanho e a classificação regional do município."
   - "A tabela da Resolução CCFGTS 1.138/2025 começou a valer em 2 de janeiro de 2026 e substituiu os valores anteriores."

@@ -4,7 +4,7 @@ description: "Pode vender um imóvel do Minha Casa Minha Vida? Veja a regra de u
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "A Lei 14.620/2023 (art. 11, IX, f) exige que a família mantenha o imóvel para uso próprio e veda empréstimo, locação, venda ou negociação que descaracterize o benefício."
   - "Nos imóveis do FAR e do FDS, a transferência entre vivos fica vedada por 60 meses, e nos casos de quitação antecipada, até a quitação (Portaria MCID 1.248/2023, art. 6º)."
@@ -95,6 +95,11 @@ Por isso, qualquer compra desse tipo deve passar por um advogado, que confira o 
 ## Imóvel em herança ou inventário
 
 Se o imóvel do programa passou a ser de herdeiros, a venda depende da conclusão do inventário ou de uma autorização da justiça, conforme o caso. O contrato de financiamento também precisa ser transferido ou quitado, e o banco costuma exigir a documentação da sucessão. Antes de anunciar, verifique se a matrícula está em nome de quem pode vender e se há ônus registrados.
+
+## Antes de anunciar o imóvel
+Antes de colocar o imóvel à venda, faça uma checagem simples que evita desperdício de tempo e de dinheiro. Peça ao banco o saldo devedor atualizado e a informação sobre a possibilidade de transferência. Em seguida, pegue a matrícula atualizada no cartório e confira se há averbações de obra, penhoras ou outras restrições. Veja também se o imóvel está quitado de IPTU e de condomínio, porque dívidas desse tipo costumam ser cobradas do comprador ou travam a escritura.
+
+Só depois desse levantamento vale fixar o preço. Um valor muito acima da avaliação do banco pode dificultar a venda para quem depende de financiamento, e um valor baixo demais pode gerar dúvida sobre a operação. Peça a avaliação por escrito e confira a documentação com o cartório ou um advogado antes de negociar, sobretudo com quem promete vender em poucos dias.
 
 ## Erros comuns
 

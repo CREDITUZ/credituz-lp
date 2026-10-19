@@ -1,6 +1,6 @@
 ---
 title: "FII ou imóvel: rendimento, imposto e risco para comparar"
-description: "Compare fundo imobiliário com comprar imóvel: rendimento, isenção de IR nos dividendos, imposto sobre ganho de capital, custos e risco de cada alternativa em 2026."
+description: "Compare fundo imobiliário e compra de imóvel: rendimento, isenção de IR nos dividendos, ganho de capital, custos e risco de cada alternativa em 2026."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

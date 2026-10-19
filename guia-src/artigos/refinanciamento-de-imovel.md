@@ -1,6 +1,6 @@
 ---
 title: "Refinanciamento de imóvel x portabilidade: qual a diferença"
-description: "Entenda a diferença entre portabilidade, refinanciamento com outro banco e renegociação com o mesmo banco, com as regras do CMN, custos e uma conta de equilíbrio."
+description: "Entenda a diferença entre portabilidade, refinanciamento com outro banco e renegociação com o mesmo banco, com regras do CMN, custos e conta de equilíbrio."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

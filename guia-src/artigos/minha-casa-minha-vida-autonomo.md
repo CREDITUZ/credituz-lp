@@ -50,7 +50,7 @@ Como o cadastro é de responsabilidade do município e do CadÚnico, o edital da
 
 ## Faixas com financiamento: o banco decide
 
-Nas Faixas 2, 3 e 4, e na Faixa 1 quando a família prefere financiar, a análise é feita pelo banco que opera o programa. O Ministério das Cidades informa que o cadastro dessas faixas é feito no banco ou na construtora que encaminha a análise. Não existe uma lista nacional de documentos para autônomo. Cada instituição aplica a própria política de crédito, dentro das regras do programa.
+Nas Faixas 2, 3 e 4, e na Faixa 1 quando a família prefere financiar, a análise é feita pelo banco que opera o programa. O Ministério das Cidades informa que, nas faixas financiadas, o cadastro é feito no Banco do Brasil ou na Caixa, que operam o programa. Não existe uma lista nacional de documentos para autônomo. Cada instituição aplica a própria política de crédito, dentro das regras do programa.
 
 Na prática, a comprovação mais usada por bancos é a seguinte:
 
