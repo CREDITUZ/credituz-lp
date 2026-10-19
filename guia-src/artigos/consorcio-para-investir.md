@@ -7,10 +7,10 @@ updated: 2026-10-19
 reading_minutes: 9
 key_points:
   - "Consórcio não é aplicação financeira: o dinheiro do fundo comum não rende para você, e a taxa de administração é custo."
-  - "Vender uma carta contemplada com ágio só bate uma aplicação no CDI se a contemplação vier cedo. No exemplo, no mês 60 seria preciso vender por quase 40% da carta."
-  - "Usar a carta para comprar imóvel e alugar costuma dar fluxo negativo no início: o aluguel médio rendeu 6,13% ao ano em setembro de 2026, segundo o FipeZap."
+  - "Vender uma carta contemplada com ágio só bate uma aplicação no CDI se a contemplação vier cedo. No exemplo, no mês 60 seria preciso vender por cerca de 39% da carta."
+  - "Usar a carta para comprar imóvel e alugar costuma dar fluxo negativo no início: a rentabilidade do aluguel residencial foi estimada em 6,13% ao ano em setembro de 2026, segundo o FipeZap."
   - "O consórcio pode servir a quem quer o imóvel no longo prazo e precisa de disciplina, não a quem busca rendimento."
-  - "Não há garantia do FGC, a liquidez é baixa e o lucro na venda de cota pode ter Imposto de Renda."
+  - "Não há garantia do FGC para o consórcio, a liquidez é baixa e o eventual lucro na venda de cota pode ter Imposto de Renda."
 faq:
   - q: "Consórcio é um bom investimento?"
     a: "Como investimento financeiro, em geral não: você paga taxa de administração e o dinheiro não rende juros a seu favor. Ele pode fazer sentido como forma planejada de comprar um imóvel, não como aplicação."
@@ -19,19 +19,19 @@ faq:
   - q: "Posso pegar a carta em dinheiro e aplicar?"
     a: "Pelas regras do Banco Central para grupos novos, só depois de 180 dias sem usar o crédito e quitando as obrigações com o grupo. Na prática, você precisa pagar o saldo devedor para receber em dinheiro."
   - q: "Consórcio tem garantia do FGC?"
-    a: "Não. O FGC cobre depósitos e alguns investimentos bancários. No consórcio, a proteção é a separação do patrimônio do grupo e a fiscalização do Banco Central."
+    a: "Não. O FGC garante produtos como depósitos, poupança, CDB, LCI e LCA, até R$ 250 mil por CPF e por instituição. O consórcio não está nessa lista. No consórcio, a proteção é a separação do patrimônio do grupo e a fiscalização do Banco Central."
 sources:
   - title: "Lei 11.795/2008 (Lei dos Consórcios)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11795.htm"
-  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), art. 15"
+  - title: "Resolução BCB 285/2023 (regras dos grupos de consórcio), art. 15, texto em cópia pública"
     url: "https://static.poder360.com.br/2023/01/resolucao-bcb-consorcios-285-19jan2023-1.pdf"
   - title: "Portas: aluguel residencial e rentabilidade média do FipeZap, setembro de 2026 (publicado em 14/10/2026)"
     url: "https://portas.com.br/noticias/aluguel-residencial-alta-711-2026-fipezap/"
   - title: "FGV, INCC-M setembro de 2026 (press release via SindusconSP)"
     url: "https://sindusconsp.com.br/wp-content/uploads/2026/09/INCC-M_FGV_press-release_Set26.pdf"
-  - title: "FGC: regulamento da garantia"
-    url: "https://fgc.org.br/documents/d/asset-library-52554/regulamento-fgc"
-  - title: "Banco Central: Panorama do Sistema de Consórcios 2024"
+  - title: "FGC: página institucional, produtos garantidos e limite de R$ 250 mil"
+    url: "https://www.fgc.org.br/"
+  - title: "Banco Central: Panorama do Sistema de Consórcios 2024 (data-base dez. 2024)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/panoramaconsorcio/panorama_de_consorcios_2024.pdf"
 related: [consorcio-ou-poupar, consorcio-contemplado-a-venda, comprar-imovel-para-alugar, consorcio-taxa-de-administracao]
 ---
@@ -45,11 +45,11 @@ Este guia testa as três estratégias mais vendidas como "investimento em consó
 Numa aplicação, você entrega dinheiro e recebe de volta mais do que entregou, com juros. No consórcio, a lógica é outra:
 
 - **O que você paga ao fundo comum vira crédito**, igual ao valor da carta corrigida pelo índice do contrato, normalmente o INCC (Índice Nacional de Custo da Construção). Ele mantém o poder de compra do imóvel, mas não gera rendimento acima disso.
-- **A taxa de administração é custo.** Em 2024, a média dos grupos novos de imóveis foi de 20,84% da carta, segundo o Banco Central.
-- **Não há garantia do FGC (Fundo Garantidor de Créditos).** A proteção vem da separação entre o patrimônio do grupo e o da administradora, prevista na Lei 11.795/2008, e da fiscalização do Banco Central.
+- **A taxa de administração é custo.** Na base de dezembro de 2024, a média dos grupos novos de imóveis foi de 20,84% da carta, segundo o Banco Central.
+- **Não há garantia do FGC (Fundo Garantidor de Créditos).** O FGC garante produtos como depósitos, poupança, CDB, LCI e LCA, até R$ 250 mil por CPF e por instituição, e o consórcio não está entre eles. A proteção vem da separação entre o patrimônio do grupo e o da administradora, prevista na Lei 11.795/2008, e da fiscalização do Banco Central.
 - **A liquidez é baixa.** Para sair, você vende a cota (precisa de comprador e aprovação da administradora) ou desiste e espera a devolução, como explica o guia de [desistência do consórcio](/artigos/consorcio-desistencia).
 
-Para comparação, em outubro de 2026 o CDI estava em 13,65% ao ano e o IPCA acumulado em 12 meses até setembro era de 4,58%. Uma aplicação simples em renda fixa pós-fixada rendia bem acima da inflação, com liquidez e, em muitos casos, garantia do FGC dentro dos limites do regulamento.
+Para comparação, em 15 de outubro de 2026 o CDI estava em 13,65% ao ano, segundo indicador de mercado. Uma aplicação simples atrelada ao CDI rendia perto desse patamar antes do imposto de renda, com liquidez e, em muitos casos, garantia do FGC dentro dos limites do regulamento.
 
 ## Estratégia 1: ser contemplado e vender a carta com ágio
 
@@ -61,20 +61,20 @@ Exemplo ilustrativo, calculado em Python: carta de R$ 300 mil, 200 meses, taxa d
 
 | Contemplado no mês | Total que você pagou | Valor da carta | Venda necessária para empatar com o CDI | Em % da carta |
 |---|---|---|---|---|
-| 12 | R$ 21.600 | R$ 319.830 | cerca de R$ 23 mil | 7,2% |
-| 24 | R$ 44.628 | R$ 340.971 | cerca de R$ 50 mil | 14,7% |
-| 60 | R$ 123.253 | R$ 413.153 | cerca de R$ 163 mil | 39,4% |
-| 120 | R$ 292.994 | R$ 568.985 | cerca de R$ 506 mil | 88,9% |
+| 12 | R$ 21.600 | R$ 319.830 | cerca de R$ 23 mil | 7,1% |
+| 24 | R$ 44.628 | R$ 340.971 | cerca de R$ 50 mil | 14,5% |
+| 60 | R$ 123.253 | R$ 413.153 | cerca de R$ 161 mil | 39,0% |
+| 120 | R$ 292.994 | R$ 568.985 | cerca de R$ 501 mil | 88,1% |
 
-Leia a tabela de baixo para cima. Contemplado no mês 120, você teria de vender a cota por quase 90% do valor da carta, e o comprador ainda assumiria 80 parcelas. Ninguém paga isso. No mês 60, quase 40% da carta, também difícil. Só nos primeiros anos a venda tem chance de superar a aplicação, e você não escolhe quando é sorteado. Lance acelera, mas exige dinheiro parado, que também deixaria de render.
+Leia a tabela de baixo para cima. Contemplado no mês 120, você teria de vender a cota por cerca de 88% do valor da carta, e o comprador ainda assumiria 80 parcelas. Ninguém paga isso. No mês 60, quase 40% da carta, também difícil. Só nos primeiros anos a venda tem chance de superar a aplicação, e você não escolhe quando é sorteado. Lance acelera, mas exige dinheiro parado, que também deixaria de render.
 
-Há ainda o Imposto de Renda: lucro na venda de uma cota pode ser tratado como ganho de capital. Antes de vender, confirme o tratamento com um contador e nas orientações da Receita Federal.
+Há ainda o Imposto de Renda sobre o eventual lucro na venda da cota. Antes de vender, confirme o tratamento tributário com um contador.
 
 ## Estratégia 2: comprar um imóvel com a carta e alugar
 
 A ideia: ser contemplado, comprar um imóvel e usar o aluguel para pagar as parcelas. A conta esbarra no rendimento do aluguel, que no Brasil costuma ficar abaixo do custo da parcela.
 
-Segundo o índice FipeZap, a rentabilidade média do aluguel residencial foi de 6,13% ao ano em setembro de 2026, considerando o aluguel bruto sobre o preço do imóvel.
+Segundo o índice FipeZap, a rentabilidade do aluguel residencial foi estimada em 6,13% ao ano em setembro de 2026. Para o exemplo, supomos que esse percentual seja o aluguel bruto anual sobre o valor do imóvel.
 
 Exemplo ilustrativo, com as mesmas premissas:
 
@@ -127,7 +127,7 @@ Mesmo nesses casos, vale comparar com simplesmente aplicar o mesmo valor todo m�
 ## Resumo
 
 - Consórcio não é aplicação: não há juros a seu favor, há taxa de administração e não há FGC.
-- Vender a carta só bate o CDI se a contemplação vier cedo; no mês 60, seria preciso vender por quase 40% da carta.
-- Comprar para alugar costuma ter fluxo negativo: com rentabilidade de 6,13% ao ano, o aluguel ficou abaixo da parcela no exemplo.
+- Vender a carta só bate o CDI se a contemplação vier cedo; no mês 60, seria preciso vender por cerca de 39% da carta.
+- Comprar para alugar costuma ter fluxo negativo: com rentabilidade estimada de 6,13% ao ano, o aluguel ficou abaixo da parcela no exemplo.
 - Pegar a carta em dinheiro exige quitar o saldo e não gera ganho.
 - Use o consórcio para comprar um imóvel com planejamento, depois de comparar com aplicar o mesmo dinheiro por conta própria.
