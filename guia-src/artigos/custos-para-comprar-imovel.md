@@ -1,10 +1,10 @@
 ---
 title: "Custos para comprar imóvel: o que pagar além da entrada"
-description: "Lista dos custos da compra de imóvel além da entrada em 2026: ITBI, cartório, avaliação do banco, seguros e mudança, com exemplo calculado e onde consultar cada valor."
+description: "Os custos da compra de imóvel além da entrada em 2026: ITBI, cartório, avaliação do banco e seguros, com exemplo calculado e onde consultar cada valor."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Além da entrada, separe dinheiro para ITBI, registro em cartório, avaliação do banco e certidões."
   - "No exemplo de um imóvel de R$ 500 mil financiado em São Paulo, esses custos iniciais passam de R$ 17 mil."
@@ -37,7 +37,7 @@ sources:
     url: "https://smargiassi.com.br/orientacoes/quanto-custa-escritura-imovel/"
   - title: "Brasil Indicadores: TR mensal e acumulada em 12 meses"
     url: "https://brasilindicadores.com.br/tr/"
-related: [itbi, avaliacao-do-imovel-pelo-banco, seguros-mip-e-dfi, entrada-para-financiar-imovel]
+related: [itbi, avaliacao-do-imovel-pelo-banco, seguros-mip-e-dfi, documentos-para-financiamento]
 ---
 
 Além da entrada, quem compra um imóvel paga o ITBI (imposto municipal), as taxas de cartório para registrar a compra e, se financiar, a tarifa de avaliação do banco. Somados, esses gastos iniciais costumam ficar entre 3% e 5% do valor do imóvel, segundo estimativas de mercado, e precisam ser pagos à vista, perto da assinatura. Depois disso vêm os custos que entram na parcela, como os seguros obrigatórios. Abaixo está cada item, quanto custa em outubro de 2026 e onde conferir o valor exato.
@@ -93,6 +93,17 @@ Antes de aprovar o crédito, o banco manda um engenheiro ou arquiteto avaliar o 
 
 A tarifa costuma ser cobrada mesmo se o financiamento não sair, e não é devolvida em caso de desistência. Compare esse valor entre bancos, porque ele entra no CET (Custo Efetivo Total) do contrato. O artigo sobre [avaliação do imóvel pelo banco](/artigos/avaliacao-do-imovel-pelo-banco) explica o que acontece se o laudo vier abaixo do preço.
 
+## Certidões e documentos
+
+Antes de fechar negócio, você e o banco vão pedir certidões para checar se o imóvel e o vendedor estão livres de problemas. As mais comuns:
+
+- **Matrícula atualizada com ônus reais**, emitida pelo Registro de Imóveis. Mostra quem é o dono e se há hipoteca, penhora ou outra restrição.
+- **Certidões do vendedor**, como as de ações cíveis, trabalhistas e protestos, que mostram se há dívidas que possam atingir o imóvel.
+- **Certidão negativa de débitos de IPTU**, emitida pela prefeitura.
+- **Declaração de quitação do condomínio**, assinada pelo síndico ou pela administradora.
+
+Algumas são gratuitas e outras são cobradas pelos cartórios, com valor definido na tabela estadual. A matrícula costuma ser exigida com emissão recente, e pode ser necessário pedir de novo se o processo demorar. A lista completa está no [checklist de documentos para financiamento](/artigos/documentos-para-financiamento).
+
 ## Custos que entram na parcela
 
 Alguns custos não aparecem na largada, mas pesam todo mês:
@@ -132,4 +143,5 @@ Para saber quanto do valor o banco aceitaria financiar no seu caso, use o [simul
 2. Confira a alíquota de ITBI e as reduções no site da prefeitura.
 3. Peça orçamento de registro ao cartório do imóvel e solicite o desconto de primeiro imóvel, se tiver direito.
 4. Compare a tarifa de avaliação e o CET entre bancos antes de pedir a avaliação.
-5. Verifique quanto de entrada cada modalidade exige no guia de [entrada para financiar imóvel](/artigos/entrada-para-financiar-imovel).
+5. Verifique quanto de entrada cada banco e modalidade exige e simule a parcela no [simulador de financiamento](/simulador).
+6. Reserve uma folga para a mudança e para os primeiros meses: condomínio, IPTU proporcional, ligação de luz, gás e internet, e pequenos reparos.

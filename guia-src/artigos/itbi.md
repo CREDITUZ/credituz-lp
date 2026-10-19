@@ -1,10 +1,10 @@
 ---
-title: "ITBI: o que é, quem paga, como calcular e o desconto no financiamento"
+title: "ITBI: quem paga, como calcular e o desconto no financiamento"
 description: "Entenda o ITBI na compra do imóvel: alíquotas de São Paulo, Rio, BH e DF em 2026, base de cálculo após o Tema 1.113 do STJ e o desconto no financiamento SFH."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "O ITBI é um imposto municipal pago pelo comprador, em geral antes do registro do imóvel no cartório."
   - "Em São Paulo, Rio e Belo Horizonte a alíquota geral é 3%. No Distrito Federal é 2%, e 1% na primeira venda de imóvel novo."

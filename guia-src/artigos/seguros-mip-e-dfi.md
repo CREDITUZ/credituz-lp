@@ -1,10 +1,10 @@
 ---
 title: "Seguros MIP e DFI: o que cobrem e quanto pesam na parcela"
-description: "Como funcionam os seguros MIP e DFI do financiamento imobiliário: o que cobrem, como o prêmio é calculado, se dá para escolher a seguradora e como pedir a indenização."
+description: "Seguros MIP e DFI do financiamento imobiliário: o que cobrem, como o valor é calculado, se dá para escolher a seguradora e como pedir a indenização."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "MIP quita o saldo devedor em caso de morte ou invalidez permanente. DFI paga o conserto do imóvel em danos como incêndio, desabamento e alagamento."
   - "No SFH os dois são obrigatórios. Pelas regras da Susep, no SFI só o MIP é exigido."
@@ -94,7 +94,19 @@ Duas consequências práticas:
 1. **O MIP cai com o tempo**, porque o saldo devedor diminui, mas pode subir quando você muda de faixa etária.
 2. **O DFI fica quase estável**, porque o valor de avaliação não cai.
 
-Para quem tem mais de 50 anos, o seguro pode representar uma parte relevante da parcela. É por isso que dois bancos com a mesma taxa de juros podem ter CET (Custo Efetivo Total) diferente. Compare sempre o CET, como mostra o artigo sobre [taxa de juros do financiamento](/artigos/taxa-de-juros-financiamento-imobiliario).
+### O que faz o seu seguro ficar mais caro ou mais barato
+
+| Fator | Efeito no valor |
+|---|---|
+| Idade mais alta | MIP maior, porque o risco de morte e invalidez cresce |
+| Saldo devedor maior (entrada menor) | MIP maior, porque a indenização possível é maior |
+| Imóvel de valor de avaliação alto | DFI maior |
+| Mais tempo de contrato pago | MIP menor, porque o saldo já caiu |
+| Seguradora escolhida | Cada uma tem tabela própria, e a diferença pode ser grande |
+
+A localização do imóvel, segundo a mesma reportagem do InfoMoney, não entra no preço. A seguradora olha as características da construção, não o bairro.
+
+Na prática, dar uma entrada maior reduz o seguro MIP desde o primeiro mês, além de reduzir os juros. Para quem tem mais de 50 anos, o seguro pode representar uma parte relevante da parcela. É por isso que dois bancos com a mesma taxa de juros podem ter CET (Custo Efetivo Total) diferente. Compare sempre o CET, como mostra o artigo sobre [taxa de juros do financiamento](/artigos/taxa-de-juros-financiamento-imobiliario).
 
 ## Exemplo prático com números
 
@@ -129,6 +141,13 @@ A Resolução CNSP 447/2022 permite substituir a seguradora durante o financiame
 - A nova seguradora pode pedir nova DPS. Se a sua saúde mudou desde a assinatura, a troca pode sair mais cara ou ser recusada.
 - Carências já cumpridas são mantidas.
 - Em caso de [portabilidade do financiamento](/artigos/portabilidade-financiamento-imobiliario), a nova seguradora não pode exigir nova DPS nem reiniciar carências.
+
+### Como comparar seguradoras na prática
+
+1. Peça ao banco a simulação com o valor de MIP e DFI separados, para cada seguradora disponível.
+2. Confira se a cobertura é a mesma: morte, invalidez permanente e a lista mínima de danos ao imóvel.
+3. Se buscar uma apólice fora do banco, peça à seguradora uma proposta específica para financiamento habitacional, com o banco como beneficiário.
+4. Compare o CET final do contrato com cada opção, e não só o valor do seguro.
 
 ## Como pedir a indenização
 

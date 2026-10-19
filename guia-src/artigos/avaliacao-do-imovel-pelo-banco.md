@@ -1,10 +1,10 @@
 ---
-title: "Avaliação do imóvel pelo banco: como funciona e o que fazer se vier baixa"
-description: "Como o banco avalia o imóvel no financiamento, quanto custa a tarifa, por que o laudo pode vir abaixo do preço e as opções para não perder a compra, com exemplo calculado."
+title: "Avaliação do imóvel pelo banco: como funciona e se vier baixa"
+description: "Como o banco avalia o imóvel no financiamento, quanto custa a tarifa e o que fazer se o laudo vier abaixo do preço para não perder a compra, com exemplo."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "O banco contrata um engenheiro ou arquiteto para estimar o valor de mercado do imóvel, que define quanto ele aceita financiar."
   - "A tarifa é paga pelo comprador e não volta se o crédito não sair. Exemplos publicados: Itaú R$ 1.600 ou R$ 3.200; BRB até R$ 3.500."
@@ -60,6 +60,24 @@ A avaliação também serve para:
 6. **Resultado.** O banco informa o valor de avaliação e, com ele, o valor máximo do financiamento.
 
 O Itaú afirma que o avaliador é escolhido por sistema automático e não pode ter vínculo com o banco. Cada banco tem seu próprio cadastro de avaliadores.
+
+### O que o avaliador observa
+
+O laudo não depende de opinião. O profissional segue critérios técnicos e anota, entre outros pontos:
+
+- **Localização:** rua, bairro, acesso a transporte e comércio, vizinhança.
+- **Área privativa e área total**, conferidas com a matrícula e o IPTU.
+- **Idade e estado de conservação** do imóvel e do prédio.
+- **Padrão de acabamento:** pisos, esquadrias, cozinha e banheiros.
+- **Itens que valorizam:** vagas de garagem, lazer do condomínio, vista, andar.
+- **Problemas visíveis:** infiltração, rachaduras, obras sem regularização.
+- **Imóveis comparáveis:** anúncios e vendas recentes de unidades parecidas na região.
+
+Construção que não aparece na matrícula, como um cômodo a mais numa casa, costuma ser desconsiderada ou até impedir o financiamento até a regularização.
+
+### Prazo e validade do laudo
+
+O tempo entre o pedido e o laudo varia por banco, cidade e tipo de imóvel. Avaliação remota de apartamento tende a ser mais rápida que vistoria presencial de casa. O laudo também tem prazo de validade definido pelo banco. Se a assinatura do contrato atrasar muito, por pendência de documento do vendedor, por exemplo, pode ser preciso refazer a avaliação e pagar de novo. Pergunte esses dois prazos ao gerente antes de começar.
 
 ## Quanto custa a avaliação
 
