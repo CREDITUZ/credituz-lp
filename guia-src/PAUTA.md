@@ -11,15 +11,15 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O1 publicado] financiamento-santander: financiamento imobiliário no Santander
 - [O2 publicado] financiamento-bradesco: financiamento imobiliário no Bradesco
 - [O2 publicado] financiamento-inter: financiamento imobiliário no Banco Inter
-- financiamento-nubank-e-bancos-digitais: bancos digitais no crédito imobiliário
+- [O3] financiamento-nubank-e-bancos-digitais: bancos digitais no crédito imobiliário
 - [O2 publicado] simulacao-financiamento-passo-a-passo: como simular e comparar propostas de vários bancos
 - [O2 publicado] cet-financiamento-imobiliario: o que é o CET e como ler
-- tr-no-financiamento: como a TR corrige o saldo
-- financiamento-corrigido-pelo-ipca: crédito imobiliário com IPCA, vantagens e riscos
-- taxa-prefixada-ou-pos-fixada: qual escolher
-- financiamento-de-terreno: como financiar terreno ou lote
-- financiamento-para-construcao: construir com financiamento (aquisição de terreno e construção)
-- financiamento-de-imovel-usado: regras e cuidados
+- [O3] tr-no-financiamento: como a TR corrige o saldo
+- [O3] financiamento-corrigido-pelo-ipca: crédito imobiliário com IPCA, vantagens e riscos
+- [O3] taxa-prefixada-ou-pos-fixada: qual escolher
+- [O3] financiamento-de-terreno: como financiar terreno ou lote
+- [O3] financiamento-para-construcao: construir com financiamento (aquisição de terreno e construção)
+- [O3] financiamento-de-imovel-usado: regras e cuidados
 - financiamento-de-imovel-comercial: sala, loja, galpão
 - financiamento-de-imovel-rural: chácara e sítio
 - financiamento-imovel-de-leilao: dá para financiar imóvel de leilão
@@ -52,14 +52,14 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O1 publicado] fgts-para-construir: FGTS na construção da casa
 - [O1 publicado] fgts-de-dois-compradores: casal usando o FGTS junto
 - [O2 publicado] fgts-imovel-usado
-- fgts-em-outra-cidade: regra do município
-- fgts-para-quitar-saldo-devedor
+- [O3] fgts-em-outra-cidade: regra do município
+- [O3] fgts-para-quitar-saldo-devedor
 - [O2 publicado] fgts-pagar-prestacoes-atrasadas
-- fgts-na-portabilidade
-- fgts-para-reforma: quando pode e quando não pode
-- fgts-terreno: dá para usar em terreno
-- fgts-imovel-comercial: por que não pode
-- fgts-de-conta-inativa
+- [O3] fgts-na-portabilidade
+- [O3] fgts-para-reforma: quando pode e quando não pode
+- [O3] fgts-terreno: dá para usar em terreno
+- [O3] fgts-imovel-comercial: por que não pode
+- [O3] fgts-de-conta-inativa
 - fgts-retido-saque-aniversario
 - fgts-autonomo-e-mei: quem não tem FGTS
 - fgts-aposentado
@@ -101,14 +101,14 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O1 publicado] minha-casa-minha-vida-faixa-4: classe média no programa
 - [O1 publicado] subsidio-minha-casa-minha-vida: como é calculado
 - [O2 publicado] minha-casa-minha-vida-imovel-usado
-- minha-casa-minha-vida-reforma: linha de reforma
-- minha-casa-minha-vida-rural
-- minha-casa-minha-vida-entidades
-- minha-casa-minha-vida-documentos
+- [O3] minha-casa-minha-vida-reforma: linha de reforma
+- [O3] minha-casa-minha-vida-rural
+- [O3] minha-casa-minha-vida-entidades
+- [O3] minha-casa-minha-vida-documentos
 - [O2 publicado] minha-casa-minha-vida-como-se-inscrever
-- minha-casa-minha-vida-cadunico
-- minha-casa-minha-vida-sorteio
-- minha-casa-minha-vida-servidor-publico
+- [O3] minha-casa-minha-vida-cadunico
+- [O3] minha-casa-minha-vida-sorteio
+- [O3] minha-casa-minha-vida-servidor-publico
 - minha-casa-minha-vida-autonomo
 - minha-casa-minha-vida-teto-por-cidade
 - minha-casa-minha-vida-juros-por-faixa
@@ -150,15 +150,15 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O1 publicado] consultar-score-gratis: Serasa, Boa Vista, Quod, SPC
 - [O1 publicado] registrato: como consultar o SCR no Banco Central
 - [O1 publicado] limpar-nome-antes-de-financiar: negociação e prazos
-- serasa-limpa-nome: como funciona
-- desenrola: programa de renegociação
-- divida-prescrita: o que é e o que muda
-- protesto-em-cartorio: como consultar e baixar
-- cheque-sem-fundo-ccf
-- cpf-irregular-receita
+- [O3] serasa-limpa-nome: como funciona
+- [O3] desenrola: programa de renegociação
+- [O3] divida-prescrita: o que é e o que muda
+- [O3] protesto-em-cartorio: como consultar e baixar
+- [O3] cheque-sem-fundo-ccf
+- [O3] cpf-irregular-receita
 - [O2 publicado] comprometimento-de-renda
 - [O2 publicado] analise-de-credito-como-funciona
-- score-baixo-o-que-fazer
+- [O3] score-baixo-o-que-fazer
 - score-alto-garante-aprovacao
 - cadastro-positivo-como-cancelar
 - open-finance-como-compartilhar-dados
@@ -201,13 +201,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O2 publicado] itbi-belo-horizonte
 - [O2 publicado] itbi-brasilia
 - [O2 publicado] itbi-curitiba
-- itbi-porto-alegre
-- itbi-salvador
-- itbi-fortaleza
-- itbi-recife
-- itbi-goiania
-- itbi-campinas
-- itbi-florianopolis
+- [O3] itbi-porto-alegre
+- [O3] itbi-salvador
+- [O3] itbi-fortaleza
+- [O3] itbi-recife
+- [O3] itbi-goiania
+- [O3] itbi-campinas
+- [O3] itbi-florianopolis
 - itbi-manaus
 - itbi-belem
 - itbi-vitoria
@@ -245,13 +245,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O1 publicado] lance-no-consorcio: como dar e calcular
 - [O1 publicado] credito-com-garantia-de-imovel-taxas
 - [O1 publicado] aluguel-com-opcao-de-compra
-- consorcio-melhores-administradoras: como avaliar (sem ranking pago)
-- consorcio-contemplado-a-venda
-- consorcio-taxa-de-administracao
-- consorcio-desistencia
-- consorcio-para-investir
-- consorcio-ou-poupar
-- home-equity-para-quitar-dividas
+- [O3] consorcio-melhores-administradoras: como avaliar (sem ranking pago)
+- [O3] consorcio-contemplado-a-venda
+- [O3] consorcio-taxa-de-administracao
+- [O3] consorcio-desistencia
+- [O3] consorcio-para-investir
+- [O3] consorcio-ou-poupar
+- [O3] home-equity-para-quitar-dividas
 - home-equity-riscos
 - refinanciamento-de-imovel
 - [O2 publicado] comprar-a-vista-ou-financiar
@@ -295,14 +295,14 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O1 publicado] corretagem-abusiva-e-sati
 - [O1 publicado] cobranca-indevida-financiamento
 - [O2 publicado] revisao-de-contrato-financiamento
-- juros-abusivos-financiamento
+- [O3] juros-abusivos-financiamento
 - [O2 publicado] leilao-extrajudicial-direitos
-- renegociacao-de-divida-imobiliaria
-- procon-e-imovel
-- codigo-de-defesa-do-consumidor-e-imovel
-- habite-se
-- averbacao-da-construcao
-- vistoria-de-entrega-de-chaves
+- [O3] renegociacao-de-divida-imobiliaria
+- [O3] procon-e-imovel
+- [O3] codigo-de-defesa-do-consumidor-e-imovel
+- [O3] habite-se
+- [O3] averbacao-da-construcao
+- [O3] vistoria-de-entrega-de-chaves
 - metragem-menor-que-a-prometida
 - propaganda-enganosa-imovel
 - condominio-direitos-e-deveres
