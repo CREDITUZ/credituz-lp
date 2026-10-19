@@ -4,7 +4,7 @@ description: "Como duas pessoas usam o FGTS na compra do mesmo imóvel, o que o 
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Duas ou mais pessoas podem usar o FGTS na mesma compra, mesmo sem parentesco, se todas forem compradoras e forem morar no imóvel."
   - "Cada pessoa precisa cumprir sozinha as regras: 3 anos de FGTS, nenhum imóvel residencial na região e nenhum financiamento ativo no SFH."

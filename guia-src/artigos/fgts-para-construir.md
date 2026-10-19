@@ -4,7 +4,7 @@ description: "Como usar o FGTS para construir a casa própria em terreno seu ou 
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O FGTS pode pagar a construção da casa própria em terreno que já é seu, desde que a obra seja feita com financiamento ou autofinanciamento formal."
   - "Comprar só o terreno com FGTS não é permitido em outubro de 2026. O terreno só entra se a compra estiver ligada à construção."
@@ -68,6 +68,8 @@ Este é o ponto que mais diferencia a construção da compra de imóvel pronto:
 5. **Última parcela.** Só sai com laudo de conclusão do profissional do banco ou com a construção averbada na matrícula do imóvel.
 
 O manual também admite liberar tudo em parcela única ao fim da obra. Quem escolhe o formato é a operação contratada com o banco.
+
+Na aquisição de terreno e construção, a primeira liberação costuma pagar o terreno ao vendedor, na assinatura e no registro do contrato. As parcelas seguintes seguem as medições da obra. Pergunte ao banco quanto do FGTS vai para o terreno e quanto fica reservado para a construção, porque isso muda quanto dinheiro próprio você precisa ter no início.
 
 O efeito prático: se a obra atrasar ou parar, o dinheiro do FGTS não foi todo gasto. Por outro lado, o construtor precisa ter fôlego para tocar cada etapa antes de receber.
 

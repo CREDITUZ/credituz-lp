@@ -4,7 +4,7 @@ description: "Quando o FGTS pode ser usado em imóvel na planta, por que ele nã
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Dá para usar o FGTS em imóvel na planta, mas só dentro de uma operação com agente financeiro: financiamento na planta ou autofinanciamento formalizado."
   - "O FGTS não paga, sozinho, as parcelas mensais da entrada que você acerta com a construtora."

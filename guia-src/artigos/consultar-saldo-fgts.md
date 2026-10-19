@@ -4,7 +4,7 @@ description: "Veja como consultar o saldo e o extrato do FGTS pelo app, pelo int
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O jeito mais simples de ver o saldo e o extrato é o aplicativo FGTS, da Caixa, com login pela conta gov.br."
   - "Correntistas da Caixa também veem o extrato no internet banking, e qualquer pessoa pode pedir na agência com documento com foto."
