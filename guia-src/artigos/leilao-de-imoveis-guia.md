@@ -4,7 +4,7 @@ description: "Guia para comprar imóvel em leilão: tipos, riscos de ocupação 
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Leilão compensa quando o desconto cobre o lance, os custos da compra, o tempo parado e o risco. Um desconto grande no anúncio pode virar prejuízo depois das taxas e das dívidas."
   - "Existem leilões judiciais, extrajudiciais de bancos, da Receita Federal e de prefeituras. Cada tipo tem regras, prazos e riscos diferentes, e o edital é o documento que manda."
@@ -95,6 +95,18 @@ Veja também a sensibilidade ao lance. Se a disputa levar o lance a R$ 230 mil, 
 A margem parece boa, mas o tempo muda o resultado. Se o dinheiro de R$ 263 mil ficar parado por um ano, ele renderia cerca de R$ 35,9 mil numa aplicação atrelada a 100% do CDI, em outubro de 2026, antes do imposto. Ou seja, quase toda a margem seria consumida pelo custo do dinheiro se o processo de desocupação e regularização demorar um ano. Se demorar dois anos, a conta pode virar prejuízo.
 
 Por isso, a conta de leilão deve ter uma previsão de prazo realista e um cenário com atraso.
+
+## Como ler o edital, ponto por ponto
+
+O edital é o documento que define a venda, e muitos problemas aparecem porque o comprador leu só o anúncio. Ao abrir o edital, procure cinco informações:
+
+- **Data, forma e valor mínimo do lance.** Confirme se há uma segunda praça, com valor menor, e as regras de desempate.
+- **Forma de pagamento.** Veja se o pagamento é à vista, em prazo curto ou em parcelas, e quais juros e garantias se aplicam.
+- **Comissão e taxas.** O edital indica quem paga a comissão do leiloeiro e em que prazo ela deve ser quitada.
+- **Situação de posse e ocupação.** Leia o que o edital diz sobre a entrega das chaves e sobre a eventual desocupação, e quem fica responsável por ela.
+- **Dívidas e ônus.** Procure menções a IPTU, condomínio, penhoras e ações em andamento, e o que o edital informa sobre quem paga cada uma.
+
+Em leilões extrajudicais de bancos, o edital também informa se o antigo dono ainda pode recomprar o imóvel antes da venda, e até quando. Se essa possibilidade existir, o lance pode ser desfeito, e o custo de preparação terá sido perdido.
 
 ## Os riscos que o anúncio não mostra
 

@@ -4,7 +4,7 @@ description: "Compare Airbnb e aluguel tradicional com números: taxa da platafo
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "No exemplo de um imóvel de R$ 400 mil, o aluguel tradicional rende mais líquido que o Airbnb até uma ocupação média de cerca de 64%. Acima disso, o Airbnb passa à frente."
   - "Em 2026, o aluguel recebido por pessoa física entra no carnê-leão, e a redução do IR zera o imposto mensal de rendimentos tributáveis de até R$ 5 mil. Acima desse valor, o imposto cresce gradualmente."

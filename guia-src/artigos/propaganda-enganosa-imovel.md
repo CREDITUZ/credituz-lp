@@ -4,7 +4,7 @@ description: "Anúncio, maquete ou decorado que não bate com o imóvel entregue
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Publicidade enganosa é a informação falsa ou que, até por omissão, induz o consumidor a erro sobre características, quantidade ou preço (CDC, art. 37, §1º e §3º)."
   - "Quem anuncia precisa provar que a informação é verdadeira (CDC, art. 38). Isso muda o peso da discussão a seu favor."

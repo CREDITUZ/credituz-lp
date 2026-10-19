@@ -4,7 +4,7 @@ description: "Se o imóvel tem área menor que a do anúncio ou do contrato, vej
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A lei presume que a metragem é só uma referência quando a diferença não passa de 5% (um vigésimo) da área total informada."
   - "Acima de 5%, você pode exigir complemento de área, abatimento proporcional no preço ou a resolução do contrato (Código Civil, art. 500)."

@@ -4,7 +4,7 @@ description: "Direitos e deveres do condômino pelo Código Civil (arts. 1.331 a
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "O prédio tem partes de uso exclusivo, como o apartamento, e partes comuns, como garagem, elevador e fachada. Cada unidade tem uma fração ideal, que mede sua participação no conjunto (Código Civil, art. 1.331)."
   - "Você pode usar e vender a sua unidade, usar as áreas comuns sem impedir os outros e votar nas assembleias, desde que esteja em dia com as contribuições (art. 1.335)."

@@ -4,7 +4,7 @@ description: "Imóvel em inventário: prazos do CPC, venda com todos os herdeiro
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Até a partilha, a herança é um todo indivisível e os herdeiros dividem o bem em condomínio. Ninguém vende uma casa específica sozinho (Código Civil, art. 1.791)."
   - "O herdeiro só pode ceder a sua parte por escritura pública, e os demais herdeiros têm preferência em igualdade de condições (arts. 1.793 e 1.794)."

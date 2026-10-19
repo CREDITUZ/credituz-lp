@@ -4,7 +4,7 @@ description: "Usucapião de imóvel: as modalidades do Código Civil, prazos de 
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 8
 key_points:
   - "Usucapião é a forma de se tornar dono de imóvel pela posse prolongada, nas condições que a lei define (Código Civil, arts. 1.238 a 1.244)."
   - "A regra geral pede 15 anos de posse sem oposição. O prazo cai para 10 anos com moradia ou obras de caráter produtivo (art. 1.238)."

@@ -4,7 +4,7 @@ description: "Veja se comprar na planta para revender dá lucro: custos, imposto
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Comprar na planta para revender dá lucro quando você vende antes da entrega, por um preço acima do que pagou, depois de custos e impostos. Sem isso, a conta fica no zero ou no prejuízo."
   - "A revenda costuma ser feita por cessão de direitos. Ela pode depender da concordância da construtora e pode ter custos próprios, além do imposto sobre o ganho de capital."
@@ -81,6 +81,10 @@ Agora compare com o que os mesmos R$ 120 mil renderiam numa aplicação atrelada
 Para empatar com essa aplicação, o preço da cessão teria de ficar em torno de R$ 154.700 sem ITBI, ou perto de R$ 160.300 com ITBI de 3%. Isso significa um prêmio de cerca de 29% a 34% sobre o valor pago, para uma operação que depende de a construtora aceitar a cessão e de o mercado estar aquecido no momento da venda.
 
 Esse é o ponto central: a revenda de um imóvel na planta precisa de um prêmio alto para justificar o risco e a espera. Se o prêmio depender de um mercado aquecido, a conta fica frágil.
+
+## O que procurar no contrato antes de comprar
+
+Antes de comprar para revender, leia o contrato com a pergunta da revenda em mente. Procure a cláusula que trata de cessão de direitos e as condições que a construtora impõe. Veja também o prazo de entrega e a tolerância previstos, o índice de correção das parcelas durante a obra e quem paga a taxa de transferência quando a cessão acontecer. Esses itens determinam se a revenda é viável e quanto ela custa, e não aparecem com destaque no material de vendas.
 
 ## Os riscos que mudam a conta
 

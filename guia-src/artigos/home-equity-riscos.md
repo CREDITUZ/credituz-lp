@@ -4,7 +4,7 @@ description: "Veja os riscos do home equity além da taxa: parcela que aperta, a
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "No home equity, o risco mais grave não é a taxa, e sim a garantia: se as parcelas atrasarem e o processo andar, você pode perder o imóvel."
   - "Teste antes de assinar: a parcela precisa caber com folga mesmo que a sua renda caia 20%. No exemplo, ela passou de 28% para 35% da renda."

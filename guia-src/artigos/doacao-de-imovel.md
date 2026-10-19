@@ -4,7 +4,7 @@ description: "Como doar um imóvel: escritura ou instrumento particular, registr
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Doação é o contrato em que alguém transfere bens do seu patrimônio a outra pessoa por liberalidade, sem receber nada em troca (Código Civil, art. 538)."
   - "A doação de imóvel exige escritura pública ou instrumento particular. A propriedade só passa ao donatário com o registro no cartório de imóveis."
@@ -63,7 +63,7 @@ O imposto que incide sobre a doação de imóvel é o ITCMD, o imposto estadual 
 
 Em São Paulo, a alíquota é de 4%, fixa, segundo a Lei 10.705/2000 em redação da Lei 10.992/2001, e a resposta à consulta da Fazenda estadual de 2026 confirma essa alíquota para doação de bens. A base de cálculo e a forma de avaliação devem ser conferidas na Fazenda.
 
-O ITBI, de competência municipal, não incide sobre doação, porque a Constituição limita esse imposto às transmissões por ato oneroso, ou seja, com contrapartida. Algumas prefeituras confirmam isso em suas páginas, mas o ideal é perguntar antes de pagar qualquer guia.
+O ITBI, de competência municipal, não incide sobre doação, porque a Constituição limita esse imposto às transmissões por ato oneroso, ou seja, com contrapartida. Mesmo assim, vale confirmar na prefeitura do município do imóvel antes de pagar qualquer guia.
 
 Os custos cartoriais, como emolumentos, também devem ser incluídos no cálculo. Eles variam por estado e por valor do imóvel.
 
@@ -102,6 +102,12 @@ Na escritura, a reserva precisa ser expressa, com a descrição do usufruto, que
 Uma doação pode ser revogada por ingratidão do donatário, mas só nas hipóteses que a lei prevê. O artigo 557 do Código Civil lista quatro: atentado contra a vida do doador ou homicídio doloso contra ele, ofensa física, injúria grave ou calúnia, e recusa de alimentos quando o donatário podia prestá-los.
 
 Essa revogação não é automática. Ela depende de ação judicial, e a lei fixa prazos para isso. Não se revoga uma doação porque houve briga familiar ou porque você mudou de ideia.
+
+## Doação ou outra saída?
+
+Nem sempre a doação é o melhor instrumento para o objetivo. Quem quer apenas garantir que a casa vá para determinada pessoa depois da morte pode considerar o testamento, que tem regras próprias e não gera o imposto no momento em que é feito. Quem quer transferir a propriedade agora, mas manter o uso do imóvel, pode combinar a doação com a reserva de usufruto, como visto acima.
+
+Já quem precisa de dinheiro pode pensar na venda, que tem ITBI e outras regras, ou no empréstimo com garantia do imóvel, que mantém a propriedade com o devedor. Cada alternativa tem custos, riscos e efeitos diferentes sobre a herança e sobre a família. Compare antes de decidir, e leve as contas para o tabelião ou o advogado.
 
 ## Passo a passo para doar
 

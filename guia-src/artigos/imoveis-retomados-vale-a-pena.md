@@ -4,7 +4,7 @@ description: "Imóvel retomado pelo banco pode sair com desconto. Veja como ele 
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Imóvel retomado é o que o credor recuperou depois que o devedor deixou de pagar um financiamento com alienação fiduciária. Ele é vendido pelo próprio banco ou em leilão."
   - "Para financiamento de moradia, a dívida do antigo dono pode ser extinta se o segundo leilão ficar sem lance. Em outros casos, o saldo continua devido, e isso não passa para o comprador novo, salvo em dívidas de condomínio e IPTU."
@@ -86,6 +86,25 @@ Se for preciso desocupar o imóvel, com custas e honorários de R$ 15 mil, a mar
 - **Matrícula com ônus.** Penhoras, hipotecas e outras averbações precisam ser resolvidas antes da escritura.
 - **Área ou uso irregular.** Diferenças entre a área vendida e a área averbada podem exigir regularização e custo adicional.
 - **Visita impossível.** Sem visita, o risco de estado e de dívidas ocultas aumenta, e o desconto deve ser maior.
+
+## Financiamento: a avaliação do banco pesa no resultado
+
+Se você pretende financiar a compra, o banco fará a própria avaliação do imóvel, e o valor avaliado define o limite do crédito. Num imóvel retomado, a avaliação pode vir abaixo do preço de venda, sobretudo quando o imóvel está deteriorado. Nesse caso, a diferença entre o preço e o financiamento precisa ser paga do seu bolso, e a conta muda.
+
+Outro ponto é a documentação. Bancos costumam exigir matrícula sem ônus impeditivos, certidões de quitação de condomínio e de IPTU e um imóvel que possa ser dado em garantia. Se algum desses documentos estiver pendente, o financiamento pode não sair, e o comprador fica com um imóvel comprado à vista sem previsão de financiamento. Antes de fechar a compra, converse com o banco sobre essas exigências.
+
+## Quando o imóvel retomado não compensa
+
+Há situações em que o desconto não resolve o problema. Vale desistir ou pedir uma redução de preço quando:
+
+- o imóvel não tem habite-se ou tem obra feita sem licença, e a regularização não é viável no seu orçamento;
+- a área construída não está averbada na matrícula;
+- há muitas dívidas de condomínio e a administração não consegue dar a informação por escrito;
+- o imóvel está em uma região sem demanda de compra ou aluguel, e o preço baixo reflete isso;
+- o estado do imóvel exige uma reforma maior que o desconto;
+- a pessoa que ocupa o imóvel tem ação judicial que pode demorar anos.
+
+Em todos esses casos, o preço de venda é só uma parte da conta. O restante é tempo e risco, e eles não aparecem no anúncio.
 
 ## Checklist antes de dar lance
 

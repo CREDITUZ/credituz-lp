@@ -4,7 +4,7 @@ description: "Entenda a diferença entre portabilidade, refinanciamento com outr
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Na portabilidade, a dívida atual é transferida para outro banco com o mesmo saldo e prazo, e a regra veda repassar custos de transferência ao devedor."
   - "No refinanciamento com outro banco, você faz um contrato novo, com nova avaliação, novo registro e custos que a portabilidade costuma não ter."
@@ -118,6 +118,8 @@ Peça ao menos duas propostas, uma da portabilidade e outra de refinanciamento, 
 3. os custos fixos da operação, como avaliação e registro;
 4. o tipo de taxa e o índice, se houver TR, IPCA ou outro;
 5. o prazo para concluir a operação.
+
+Um cuidado extra com o índice. Se a proposta atual usa taxa prefixada mais TR e a nova usa outro índice, ou taxa diferente de TR, a comparação só funciona com o mesmo critério. Pegue as duas parcelas, calcule quanto cada uma custa por mês no seu orçamento e confira o que acontece se o índice subir. Uma taxa menor com um índice mais volátil pode ser pior no médio prazo.
 
 O guia sobre [CET do financiamento imobiliário](/artigos/cet-financiamento-imobiliario) explica como ler esse indicador e o que costuma estar incluído.
 

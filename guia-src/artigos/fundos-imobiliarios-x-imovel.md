@@ -68,6 +68,12 @@ Agora compare com o imóvel. Num exemplo ilustrativo de um apartamento de R$ 400
 
 Esse cálculo é uma simplificação e serve para mostrar a lógica, não para decidir. Ele ignora alavancagem, prazo de vacância, o custo de desocupação e a variação do preço das cotas.
 
+## Como entrar e sair de um FII
+
+Comprar cotas de FII é mais simples que comprar um imóvel. Você abre conta numa corretora, escolhe o fundo e envia a ordem pela bolsa, geralmente com a cota de um único papel. Em contrapartida, há custos de corretagem e emolumentos da bolsa, que variam conforme a corretora e o plano escolhido, e que precisam entrar na conta de retorno. Vale também olhar o volume negociado antes de comprar, porque ele mostra quão fácil será sair da posição quando precisar.
+
+Para a venda, lembre que o preço é o do mercado naquele momento, e não o valor patrimonial do fundo. Se você vender numa semana de pânico, pode vender com desconto, mesmo que os dividendos tenham sido regulares.
+
 ## Os riscos que o rendimento não mostra
 
 **Preço da cota.** O FII distribui rendimento, mas a cota é negociada a preço de mercado. Ela pode cair mesmo quando o fundo paga dividendos regulares, porque o mercado revisa o valor dos ativos ou o desempenho do setor. Se você comprar hoje e vender depois de uma queda, o retorno total pode ser negativo, mesmo com dividendos isentos.

@@ -4,7 +4,7 @@ description: "Taxa de condomínio em atraso: quem responde, quanto o prédio pod
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Sobre a parcela atrasada incidem correção monetária, juros (os da convenção ou a taxa legal) e multa de até 2% (Código Civil, art. 1.336, §1º)."
   - "Quem compra o imóvel responde pelos débitos anteriores do antigo dono perante o condomínio (art. 1.345). O STJ discute a divisão quando o comprador já tem a posse."
