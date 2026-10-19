@@ -2,6 +2,8 @@
 
 > Desmistifique os regimes tributários MEI e Simples Nacional e entenda as obrigações fiscais essenciais para corretores de imóveis em 2025.
 
+**Atualização:** este artigo usa dados de 2025.
+
 - Categoria: Contabilidade
 - Publicado: 2026-04-18
 - Canonical: https://credituz.ai/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.html

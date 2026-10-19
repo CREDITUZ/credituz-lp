@@ -2,6 +2,8 @@
 
 > Um panorama completo das projeções da Selic, comparativo de taxas bancárias e tendências do mercado imobiliário para construtores e incorporadores.
 
+**Atualização:** este artigo usa regras e números de 2025. A versão revisada em outubro de 2026, para quem vai comprar, está no Guia Credituz: [https://guia.credituz.ai/artigos/taxa-de-juros-financiamento-imobiliario](https://guia.credituz.ai/artigos/taxa-de-juros-financiamento-imobiliario).
+
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html

@@ -2,6 +2,8 @@
 
 > Descubra qual a melhor opção para adquirir seu imóvel em 2025: consórcio ou financiamento, com análise detalhada e simulações práticas.
 
+**Atualização:** este artigo usa regras e números de 2025. A versão revisada em outubro de 2026, para quem vai comprar, está no Guia Credituz: [https://guia.credituz.ai/artigos/consorcio-ou-financiamento](https://guia.credituz.ai/artigos/consorcio-ou-financiamento).
+
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html

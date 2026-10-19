@@ -2,6 +2,8 @@
 
 > Entenda as exigências do CRECI, os impactos do CIB e da Reforma Tributária, e como a tecnologia otimiza a conformidade para imobiliárias em 2025.
 
+**Atualização:** este artigo usa dados de 2025.
+
 - Categoria: Jurídico
 - Publicado: 2026-04-18
 - Canonical: https://credituz.ai/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.html

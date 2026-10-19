@@ -2,6 +2,8 @@
 
 > Uma análise aprofundada do cenário de luxo e super luxo, revelando o dinamismo e o potencial de valorização em um ano de recordes.
 
+**Atualização:** este artigo usa dados de 2025.
+
 - Categoria: Mercado
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.html

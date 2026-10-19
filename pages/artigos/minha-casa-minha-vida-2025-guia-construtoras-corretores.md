@@ -2,6 +2,8 @@
 
 > Entenda as novas regras, faixas de renda e estratégias de vendas para o programa habitacional em 2025.
 
+**Atualização:** este artigo usa regras e números de 2025. A versão revisada em outubro de 2026, para quem vai comprar, está no Guia Credituz: [https://guia.credituz.ai/artigos/minha-casa-minha-vida](https://guia.credituz.ai/artigos/minha-casa-minha-vida).
+
 - Categoria: Mercado
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.html

@@ -2,6 +2,8 @@
 
 > Entenda a legislação, os direitos do comprador e como a Inteligência Artificial revoluciona a prevenção da inadimplência no mercado imobiliário em 2025.
 
+**Atualização:** este artigo usa regras e números de 2025. A versão revisada em outubro de 2026, para quem vai comprar, está no Guia Credituz: [https://guia.credituz.ai/artigos/distrato-imovel-na-planta](https://guia.credituz.ai/artigos/distrato-imovel-na-planta).
+
 - Categoria: Jurídico
 - Publicado: 2026-04-19
 - Canonical: https://credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.html
