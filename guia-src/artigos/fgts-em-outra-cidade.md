@@ -1,6 +1,6 @@
 ---
 title: "FGTS em outra cidade: a regra do município para usar o saldo"
-description: "Onde o imóvel precisa ficar para aceitar o seu FGTS: cidade de trabalho, de residência, vizinhas e região metropolitana, e o que muda para quem acabou de se mudar."
+description: "Onde o imóvel precisa ficar para aceitar o seu FGTS: cidade de trabalho, de residência, vizinhas e região metropolitana, e a regra para quem acabou de se mudar."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19

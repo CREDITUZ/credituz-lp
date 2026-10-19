@@ -86,6 +86,32 @@ Quanto ao FGTS, a notícia do Meu Tudo, de outubro de 2025, diz que o saldo do t
 
 Para comparar, um financiamento de R$ 40.000 em 36 meses a 0,82% ao mês, valor usado só como referência, daria parcelas de cerca de R$ 1.287,68 e um total de cerca de R$ 46.356,65 pagos. Se a sua obra for pequena, a conta pode fechar com economia. Use o [simulador de financiamento](/simulador) para testar outros prazos.
 
+## Como planejar a obra sem contar com o fundo
+
+Como o FGTS não entra na reforma, o planejamento precisa começar antes da compra. A forma mais segura é montar o orçamento em três colunas separadas: o preço do imóvel, a obra e a reserva. O saldo do fundo entra apenas na primeira coluna, e o banco só aprova o que cabe nela.
+
+Um roteiro simples:
+
+1. **Liste a obra com orçamento de pelo menos dois fornecedores.** Obras costumam ter custos extras, como remoção de entulho, ligações de água e energia e documentos da prefeitura.
+2. **Separe a obra em prioridades.** Hidráulica, elétrica e impermeabilização vêm antes de pintura e acabamento. Assim, se faltar dinheiro, o imóvel fica habitável e as partes estéticas esperam.
+3. **Reserve de 10% a 20% a mais que o orçamento.** Esse percentual é uma margem prática, não uma regra do manual, e serve para absorver imprevistos.
+4. **Peça ao banco a planilha de financiamento sem a obra.** Assim você vê a parcela que realmente cabe e não depende do valor da reforma para fechar a conta.
+5. **Compare linhas de crédito para reforma.** Antes de financiar a obra com um banco que não é o da compra, compare o custo efetivo total (CET), que inclui juros, tarifas e seguros.
+
+Se a reforma for grande, considere fazer em etapas, pagando cada uma com a renda do mês ou com uma linha própria. Isso reduz o risco de ficar com a casa pela metade e sem dinheiro para terminar.
+
+## Quando a obra é de construção, não de reforma
+
+Há uma diferença que confunde muita gente. Construir a casa do zero em terreno seu, ou comprar terreno e obra juntos dentro de uma operação formal, é uma aquisição. Nesses casos, o FGTS entra, e o banco libera o dinheiro por etapas conforme a obra avança. Reformar uma casa pronta, ou ampliá-la, não entra nessa modalidade.
+
+Se o seu plano é demolir e reconstruir quase tudo, a conversa com o banco muda. Ele vai perguntar se a obra faz parte de uma operação de construção financiada, com projeto, orçamento e cronograma. Sem isso, a obra é tratada como reforma e fica fora do fundo. O detalhe está em [FGTS para construir a casa](/artigos/fgts-para-construir).
+
+## Reforma e o saldo do FGTS depois da compra
+
+Depois de comprar com FGTS, você pode fazer reforma com recursos próprios ou com crédito de outra natureza. O que não pode é voltar ao fundo para pagar a obra. Por isso, pense na reforma antes de decidir quanto usar na entrada.
+
+Isso importa porque o saldo do fundo tem um valor de uso. Se você deixar uma parte no fundo para a reforma, ela não rende como uma aplicação própria e não pode ser usada depois para a obra. A decisão de quanto usar na compra deve considerar esse custo de oportunidade. Para comparar os cenários de amortizar e guardar, veja [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento).
+
 ## Erros comuns
 
 - **Contar com o FGTS para a obra e ficar sem o dinheiro na hora.** A reforma e os acabamentos costumam estourar o orçamento. Separe o valor antes de assinar.

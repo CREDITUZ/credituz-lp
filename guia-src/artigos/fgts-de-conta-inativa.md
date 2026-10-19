@@ -1,6 +1,6 @@
 ---
 title: "FGTS de conta inativa: como usar o saldo antigo na moradia"
-description: "Dá para usar o saldo de contas de empregos antigos na compra ou na quitação do imóvel? Veja quais contas entram, como localizá-las e o que conferir antes de pedir."
+description: "Dá para usar o saldo de contas de empregos antigos na compra ou na quitação? Veja quais contas entram, como localizá-las e o que conferir antes de pedir."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
@@ -94,6 +94,31 @@ Se uma das contas inativas fosse de um tipo não aceito, o cálculo mudaria: a e
 - **O saldo em data recente**, porque a distribuição de lucro e a correção mudam o valor.
 
 No formulário de autorização, o banco pede os números das contas e os valores de cada uma. Você pode indicar o total ou, se preferir, valores separados por conta, desde que a soma atenda à operação.
+
+## Quando a conta antiga não aparece ou não é aceita
+
+Duas situações tiram a conta antiga do cálculo, e as duas têm solução. A primeira é a conta que não aparece no aplicativo. Isso acontece com vínculos muito antigos, com empresas que mudaram de nome ou com cadastros desatualizados. A segunda é a conta que aparece, mas com um tipo que o manual não aceita para a moradia.
+
+Nos dois casos, o caminho é o mesmo:
+
+1. **Reúna os documentos do vínculo.** A carteira de trabalho antiga, física ou digital, é a principal prova. Holerites e termo de rescisão ajudam quando a carteira não está completa.
+2. **Vá a uma agência da Caixa.** Leve documento com foto e os papéis do vínculo. A agência localiza a conta e informa o saldo e o tipo.
+3. **Peça a classificação por escrito.** Se a conta é de um tipo não aceito, a Caixa informa por escrito, o que serve de prova para o banco.
+4. **Ajuste a conta da operação.** Se a conta for aceita após a localização, inclua o saldo na simulação do banco e refaça os números.
+
+Enquanto a conta não é localizada, não conte com o saldo dela. Um valor que não está confirmado não deve entrar na entrada nem no planejamento da parcela.
+
+## Conta inativa e o saque por três anos fora do regime
+
+Há uma regra que costuma gerar confusão. O artigo 20, inciso VIII, da Lei 8.036/1990 permite o saque quando o trabalhador fica três anos ininterruptos fora do regime do FGTS. Esse é um saque, com a conta sendo paga ao trabalhador. Não é a mesma coisa que usar a conta para a casa própria.
+
+Para a moradia, o caminho é outro: o saldo entra na operação de compra, entrada, amortização ou quitação, com o banco pedindo a movimentação das contas listadas no formulário. A conta inativa pode servir para o imóvel mesmo sem atender ao inciso VIII. O que importa é o tipo da conta e os requisitos do trabalhador. Se você quer saber se ainda pode sacar uma conta antiga em dinheiro, essa é outra pergunta, e a resposta depende do motivo do saque.
+
+## O que muda com a distribuição de lucro
+
+O saldo da conta inativa cresce com a correção do fundo e com a distribuição de lucro. Em 2026, o crédito aprovado pelo Conselho Curador seguiu a regra de proporção ao saldo de 31/12/2025, o que beneficia também as contas antigas. Por isso, o saldo de uma conta inativa pode ter subido sem que você tenha feito nada, e vale consultar o extrato antes de fechar a simulação.
+
+Esses créditos entram para a conta, não para a moradia diretamente. Eles só são usados se a conta for movimentada na operação. Veja em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) como o banco usa o saldo total.
 
 ## Erros comuns
 

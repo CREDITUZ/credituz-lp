@@ -82,6 +82,37 @@ Na terceira linha, o saldo pode ser usado até o limite da parte residencial. Se
 
 Muita gente trabalha de casa e se pergunta se o apartamento virou comercial. A resposta é não. A destinação vem do registro do imóvel, do IPTU e da convenção do condomínio. Um escritório dentro de casa não altera nenhum desses documentos, então o imóvel continua residencial. Se a convenção do prédio proíbe uso comercial, o problema é outro e deve ser verificado com o síndico ou com a administradora.
 
+## Como conferir a destinação antes de fazer a proposta
+
+Antes de fazer uma proposta ou de dar sinal, peça três documentos ao vendedor e confira-os com calma. A matrícula atualizada, emitida nos últimos 30 dias, mostra a destinação registrada e as averbações. O carnê ou a certidão do IPTU mostra a classificação usada pela prefeitura. Se o imóvel está em condomínio, a convenção do prédio mostra se há restrição de uso comercial.
+
+Com os três documentos em mãos, faça estas perguntas:
+
+- A destinação da matrícula é residencial?
+- O IPTU classifica o imóvel como residencial ou como comercial?
+- A convenção do condomínio permite uso residencial?
+- Há parte do imóvel usada como comércio, como loja ou consultório?
+- Há laudo de avaliação que separe a parte residencial?
+
+Se qualquer resposta for negativa ou duvidosa, não assine a proposta sem resolver a divergência. A correção costuma depender do vendedor, da prefeitura ou de um cartório, e pode levar tempo. Vale perguntar ao banco, antes de tudo, qual documento ele exige para aceitar a destinação.
+
+## Imóvel comercial e financiamento sem FGTS
+
+Mesmo quando o FGTS não entra, o imóvel comercial pode ter financiamento. Em geral, o crédito para imóvel comercial segue regras diferentes do crédito para moradia, com juros e prazos próprios e, muitas vezes, sem as condições do SFH (Sistema Financeiro da Habitação). Por isso, a comparação entre um imóvel residencial com FGTS e um comercial sem FGTS não é de preço, é de custo total.
+
+Se a sua intenção é ter um negócio ou um escritório, o FGTS não é a fonte certa, e a compra precisa ser planejada com outros recursos. Se a intenção é morar, a escolha deve recair sobre um imóvel residencial, mesmo que o comercial pareça mais barato.
+
+## Erros que levam à recusa na hora da análise
+
+Alguns erros aparecem com frequência nas análises do FGTS. Eles não são cobranças de má-fé, mas costumam causar recusa:
+
+- **Declarar a casa como residência sabendo que ela é comercial.** O manual prevê cobrança do valor e comunicação aos órgãos de controle.
+- **Assumir que o IPTU e a matrícula sempre batem.** Em imóveis antigos, é comum a divergência.
+- **Esquecer a convenção do condomínio.** Ela pode classificar o imóvel como comercial mesmo que a matrícula diga outra coisa.
+- **Comprar um imóvel misto sem laudo discriminado.** O banco não consegue calcular o uso do saldo.
+
+O cuidado com a destinação é parte da análise de risco da operação. Quanto mais cedo você confere, menor a chance de perder sinal ou de ter a compra travada.
+
 ## Erros comuns
 
 - **Comprar sala comercial pensando em morar.** A compra é recusada, e o sinal dado pode ficar preso em uma negociação.

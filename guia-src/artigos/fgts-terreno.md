@@ -88,6 +88,31 @@ A conta do limite segue a regra que o banco usa: o valor do FGTS e do financiame
 
 O manual proíbe o uso de carta de consórcio para terreno sem construção, reforma ou liquidação de financiamento (item 15.2.4). Isso significa que, mesmo em um consórcio imobiliário, o fundo não paga o lote isolado. Se você está pensando em comprar um terreno por consórcio, a construção precisa estar no mesmo projeto.
 
+## Passo a passo para quem quer construir com FGTS
+
+Se o seu plano é construir a casa em terreno que já é seu, ou comprar o terreno junto com a obra, o caminho costuma seguir esta ordem:
+
+1. **Confirme a titularidade do terreno.** O lote precisa estar no seu nome, registrado na matrícula. Se estiver em nome de outra pessoa, resolva isso antes de qualquer pedido.
+2. **Verifique dívidas e garantias.** Impostos atrasados, penhoras e outros ônus na matrícula podem travar a operação, porque o terreno costuma ser a garantia do financiamento.
+3. **Peça o projeto e o orçamento da obra.** O banco compara o custo total com a avaliação da casa pronta para definir o limite, como mostrado no exemplo.
+4. **Confira seus requisitos de FGTS.** Os 3 anos de trabalho, a ausência de outro imóvel residencial na região e a ausência de financiamento ativo no SFH valem também para a construção.
+5. **Assine a operação.** O banco debita o saldo do fundo de uma vez e o guarda em seu nome.
+6. **Acompanhe as liberações.** A obra é paga por etapas, conforme o cronograma. Cada liberação exige medição feita pelo banco ou por um engenheiro por ele indicado.
+
+Atenção ao prazo: o cronograma precisa ser realista. Atrasos na obra atrasam as liberações, e o construtor pode cobrar pela parte pronta antes do dinheiro chegar. Negocie os prazos antes de assinar.
+
+## O terreno de um cônjuge ou de um parente
+
+Muitas pessoas têm o terreno no nome de um pai, de uma mãe ou de um cônjuge. O manual exige que o terreno seja do trabalhador que usa o fundo. Se o terreno é de um parente, a solução costuma ser a transferência do lote antes da operação, com registro no cartório. Essa transferência tem custos de imposto e registro, e precisa ser avaliada com um profissional antes de ser feita.
+
+No casal casado sob comunhão de bens, o terreno de um pode entrar na análise do outro. A regra de cada regime está em [FGTS de duas pessoas na mesma compra](/artigos/fgts-de-dois-compradores). Se a compra for feita pelos dois, cada um pode usar o próprio saldo, observados os requisitos individuais.
+
+## Terreno e o uso do FGTS como entrada
+
+Um lote comprado com recursos próprios e a construção financiada com FGTS é uma combinação que nem sempre funciona. Se o terreno já foi pago e não faz parte da operação de construção, o fundo não o cobre retroativamente. O ideal é que o lote e a obra sejam tratados na mesma operação desde o começo, para que o banco considere o conjunto.
+
+Por isso, antes de fechar a compra do terreno, pergunte ao banco se ele aceita incluir a obra no mesmo contrato ou se há uma operação de terreno e construção que se encaixe no seu caso. Assim, o saldo do FGTS pode entrar no valor certo e no momento certo.
+
 ## Erros comuns
 
 - **Comprar o terreno antes de definir a obra.** Se o lote for pago com recursos próprios e a construção depois, o FGTS não volta para o terreno.
