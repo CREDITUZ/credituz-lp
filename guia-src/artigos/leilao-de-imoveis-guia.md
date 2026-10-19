@@ -54,7 +54,7 @@ O tipo de leilão muda o processo de posse. Em alguns casos, a entrega do imóve
 
 Este é o ponto que mais dá prejuízo a quem compra em leilão sem preparação. Há duas dívidas que costumam aparecer: impostos ligados ao imóvel e contribuições de condomínio.
 
-**IPTU e outros impostos.** O artigo 130 do Código Tributário Nacional prevê que certos impostos ligados ao imóvel, como o IPTU, passam para o adquirente quando inscritos em dívida ativa. Para a arrematação em hasta pública, o parágrafo único do mesmo artigo diz, textualmente, que a sub-rogação ocorre sobre o preço da venda. Na prática, isso significa que o valor pago no leilão responde pelas dívidas de imposto, e o comprador deve conferir o edital e as certidões para saber o que ficou para trás e o que foi quitado com o preço.
+**IPTU e outros impostos.** O artigo 130 do Código Tributário Nacional prevê que os créditos de impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse do imóvel, como o IPTU, se sub-rogam no adquirente, sem exigir inscrição em dívida ativa. Para a arrematação em hasta pública, o parágrafo único do mesmo artigo diz que a sub-rogação ocorre sobre o preço da venda. Na prática, isso significa que o valor pago no leilão responde pelas dívidas de imposto, e o comprador deve conferir o edital e as certidões para saber o que ficou para trás e o que foi quitado com o preço.
 
 **Condomínio.** Em abril de 2019, o STJ entendeu, segundo a imprensa jurídica, que o arrematante pode responder por dívida de condomínio anterior à compra quando tinha ciência prévia e inequívoca dela, mesmo que o edital não a mencione. Por isso, pergunte ao administrador do condomínio o saldo devedor antes do lance, e peça a declaração por escrito.
 

@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "Imóvel retomado é o que o credor recuperou depois que o devedor deixou de pagar um financiamento com alienação fiduciária. Ele é vendido pelo próprio banco ou em leilão."
-  - "Para financiamento de moradia, a dívida do antigo dono pode ser extinta se o segundo leilão ficar sem lance. Em outros casos, o saldo continua devido, e isso não passa para o comprador novo, salvo em dívidas de condomínio e IPTU."
+  - "Para financiamento de aquisição ou construção de imóvel residencial, a dívida do antigo dono fica extinta se o segundo leilão não tiver lance no valor de referência. Em outros casos, o saldo continua devido, e isso não passa para o comprador novo, salvo em dívidas de condomínio e IPTU."
   - "O desconto no preço é a principal vantagem, mas ele precisa cobrir ITBI, registro, reforma, eventual desocupação e o tempo parado do dinheiro."
   - "Antes de comprar, peça a certidão de matrícula atualizada, o histórico de dívidas de condomínio e IPTU e um laudo de estado do imóvel."
 faq:
@@ -47,9 +47,9 @@ Quando os leilões não vendem o imóvel, o credor passa a vender por outros can
 
 Esse é o ponto que mais confunde o comprador. Em regra, a dívida de financiamento é do antigo dono e do credor, e o comprador do imóvel retomado não assume o contrato antigo. Mas há regras que dependem do tipo de financiamento.
 
-Para financiamento de moradia, a Lei 9.514/1997 prevê, no artigo 26-A, parágrafo 4º, que a dívida fica extinta se não houver lance no segundo leilão. Para outros tipos de garantia, o devedor continua obrigado pelo saldo que sobrar, como explicado no guia sobre [home equity e riscos](/artigos/home-equity-riscos).
+Para financiamento de aquisição ou construção de imóvel residencial, a Lei 9.514/1997 prevê, no artigo 26-A, parágrafo 4º, que a dívida fica extinta se nenhum lance no segundo leilão atingir o valor de referência. Para outros tipos de garantia, como o home equity, o devedor continua obrigado pelo saldo que sobrar, como explicado no guia sobre [home equity e riscos](/artigos/home-equity-riscos).
 
-Outro ponto são as dívidas de condomínio e de IPTU. O Código Tributário Nacional, no artigo 130, faz com que certos impostos ligados ao imóvel passem para o adquirente, quando inscritos em dívida ativa. Em relação ao condomínio, a jurisprudência do STJ tem entendido, em alguns casos, que o comprador pode responder pelas dívidas anteriores quando sabia delas. Por isso, o comprador deve pedir o saldo do condomínio e as certidões de IPTU antes de qualquer proposta, e negociar por escrito quem paga o quê.
+Outro ponto são as dívidas de condomínio e de IPTU. O Código Tributário Nacional, no artigo 130, faz com que os créditos de impostos sobre a propriedade, como o IPTU, passem para o adquirente, sem exigir inscrição em dívida ativa. Em relação ao condomínio, a jurisprudência do STJ tem entendido, em alguns casos, que o comprador pode responder pelas dívidas anteriores quando sabia delas. Por isso, o comprador deve pedir o saldo do condomínio e as certidões de IPTU antes de qualquer proposta, e negociar por escrito quem paga o quê.
 
 ## Venda direta ou leilão: qual muda mais
 
@@ -74,7 +74,7 @@ Considere um apartamento que vale R$ 300 mil no mercado e está sendo vendido po
 | Registro e emolumentos, 2% (exemplo) | R$ 4.800 |
 | Reforma de recuperação | R$ 12.000 |
 | Custo total | R$ 264.000 |
-| Margem sobre o valor de mercado | R$ 36.000 (cerca de 14% sobre o custo) |
+| Margem sobre o valor de mercado | R$ 36.000 (13,6% sobre o custo) |
 
 Se for preciso desocupar o imóvel, com custas e honorários de R$ 15 mil, a margem cai para cerca de R$ 21 mil. E se o imóvel tiver dívidas de condomínio que você precise pagar, a margem diminui de novo. A pergunta final é se essa margem paga o tempo que o dinheiro fica parado até a regularização, comparado a uma aplicação de renda fixa.
 
@@ -119,4 +119,4 @@ Em todos esses casos, o preço de venda é só uma parte da conta. O restante é
 
 ## Resumo
 
-Imóvel retomado de banco pode ser uma boa compra quando o desconto é grande, a documentação está limpa e o custo total é conhecido. A dívida do antigo dono costuma ficar com o credor, mas dívidas de condomínio e IPTU exigem cuidado, e o estado do imóvel pode mudar a conta. No exemplo, o desconto de 20% sobre o valor de mercado virou uma margem de cerca de 14% depois de impostos e reforma, e essa margem encolhe com cada mês de espera. Antes de comprar, faça a conta completa e peça todas as certidões.
+Imóvel retomado de banco pode ser uma boa compra quando o desconto é grande, a documentação está limpa e o custo total é conhecido. A dívida do antigo dono costuma ficar com o credor, mas dívidas de condomínio e IPTU exigem cuidado, e o estado do imóvel pode mudar a conta. No exemplo, o desconto de 20% sobre o valor de mercado virou uma margem de 13,6% sobre o custo, depois de impostos e reforma, e essa margem encolhe com cada mês de espera. Antes de comprar, faça a conta completa e peça todas as certidões.

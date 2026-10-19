@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "Um fundo imobiliário (FII) é uma cota de uma carteira de imóveis ou títulos imobiliários. Você recebe parte do aluguel, mas não é dono de nenhum imóvel específico."
-  - "Os dividendos de FII pagos a pessoa física são isentos de IR se o fundo tiver ao menos 100 cotistas e você não tiver 10% ou mais das cotas. A MP 1.303/2025, que propunha mudar isso, perdeu a validade em 2025."
+  - "Os dividendos de FII pagos a pessoa física são isentos de IR se o fundo tiver ao menos 100 cotistas e você não tiver 10% ou mais das cotas. A MP 1.303/2025, que propunha mudar isso, caiu, segundo a imprensa especializada."
   - "Para empatar com a renda fixa atrelada ao CDI de 13,65% ao ano, um FII precisaria pagar cerca de 11,6% ao ano líquidos, em prazos acima de 720 dias. Esse é o número que você deve cobrar de qualquer fundo."
   - "Imóvel e FII têm riscos diferentes: o imóvel tem custos de manutenção e vacância, o FII tem variação de preço da cota e taxa de administração."
 faq:
@@ -22,14 +22,16 @@ faq:
 sources:
   - title: "Lei 11.033/2004 (regime de tributação de fundos imobiliários, art. 3º, III, e parágrafo 1º)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11033.htm"
-  - title: "Lei 15.270/2025 (reforma do IR, com menção aos rendimentos de FII na tributação mínima)"
+  - title: "Lei 15.270/2025, art. 2º (altera o art. 16-A, § 1º, V, alíneas i e j, da Lei 9.250/1995: rendimentos de FII na tributação mínima)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm"
   - title: "Lei 13.259/2016 (alíquotas de ganho de capital, art. 21 da Lei 8.981/1995)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13259.htm"
-  - title: "FIIs: dividendos seguirão isentos após queda da MP 1.303 (publicado em 09/10/2025)"
+  - title: "FIIs: dividendos seguirão isentos após queda da MP 1.303 (fiis.com.br)"
     url: "https://fiis.com.br/noticias/dividendos-fiis-fiagros-isentos-queda-mp-1303/"
   - title: "Acionista: nova tributação altera cenário de fundos imobiliários em 2026 (proposta da MP 1.303, 2025)"
     url: "https://acionista.com.br/nova-tributacao-altera-cenario-de-fundos-imobiliarios-em-2026/"
+  - title: "HSI: tributação na venda de cotas de FII (jun/2025), com a regra de 20% e o art. 37 da IN RFB 1.585/2015"
+    url: "https://www.hsinvest.com/wp-content/uploads/2025/06/20250616-Tributacao-FII.pdf"
 related: [comprar-imovel-para-alugar, alugar-ou-comprar, investir-ou-quitar-financiamento, airbnb-x-aluguel-tradicional]
 ---
 
@@ -45,15 +47,15 @@ Para comparar as duas opções, o número certo é o retorno líquido: quanto so
 
 **Dividendos de FII.** Pela Lei 11.033/2004, os rendimentos distribuídos por fundos imobiliários a pessoa física são isentos de IR, desde que sejam cumpridas duas condições principais. A primeira é que o fundo tenha no mínimo 100 cotistas. A segunda é que o investidor pessoa física não seja titular de 10% ou mais das cotas. Além disso, as cotas precisam ser negociadas em bolsa ou em mercado de balcão organizado. Se alguma condição deixar de valer, o benefício pode cair, e vale conferir a situação do fundo no relatório mensal.
 
-**Proposta que caiu.** Em 2025, a Medida Provisória 1.303 propunha tributar os dividendos de FII de cotas emitidas a partir de 2026 e reduzir a alíquota do ganho de capital de 20% para 17,5%. A proposta não foi votada no prazo de 120 dias e perdeu a validade em outubro de 2025, segundo a imprensa especializada. Por isso, a regra que vale hoje é a da Lei 11.033/2004, com a isenção dos dividendos. Como as regras tributárias mudam, confirme a situação vigente antes de decidir.
+**Proposta que caiu.** Em 2025, a Medida Provisória 1.303 propunha tributar os dividendos de FII de cotas emitidas a partir de 2026 e reduzir a alíquota do ganho de capital de 20% para 17,5%. A proposta não foi convertida em lei e caiu, segundo a imprensa especializada. Por isso, a regra que vale hoje é a da Lei 11.033/2004, com a isenção dos dividendos. Como as regras tributárias mudam, confirme a situação vigente antes de decidir.
 
-**Ganho de capital.** Quando você vende cotas de FII com lucro, esse ganho é tributado. Em regra, a alíquota aplicada é de 20%, segundo as fontes consultadas. Já na venda de um imóvel, o ganho de capital tem alíquotas progressivas de 15% até R$ 5 milhões, conforme a Lei 13.259/2016, além de regras de isenção em casos específicos.
+**Ganho de capital.** Quando você vende cotas de FII com lucro, esse ganho é tributado. Em regra, a alíquota é de 20%, conforme o artigo 37 da Instrução Normativa RFB 1.585/2015, segundo resumo de fonte de mercado. Confirme a regra vigente antes de decidir. Já na venda de um imóvel, o ganho de capital tem alíquotas progressivas de 15% até R$ 5 milhões, conforme a Lei 13.259/2016, além de regras de isenção em casos específicos.
 
 **Renda fixa, para comparar.** Aplicações de renda fixa, como CDBs e Tesouro Direto, pagam IR pela tabela regressiva: 22,5% até 180 dias, 20% de 181 a 360 dias, 17,5% de 361 a 720 dias e 15% acima de 720 dias, conforme a Lei 11.033/2004, art. 1º. Essa tabela é o que você precisa usar para o que ele deixa de ganhar.
 
 ## A conta de equilíbrio: quanto o FII precisa pagar
 
-Suponha que você tenha R$ 400 mil e compare um FII com uma aplicação de renda fixa que rende 100% do CDI. Em outubro de 2026, o CDI estava em 13,65% ao ano. O quadro abaixo mostra o rendimento líquido da renda fixa por prazo, que é o mínimo que um FII deveria entregar em dividendos isentos para empatar:
+Suponha que você tenha R$ 400 mil e compare um FII com uma aplicação de renda fixa que rende 100% do CDI. O CDI de referência usado aqui é de 13,65% ao ano. A Selic foi fixada em 13,75% na decisão do Copom de 16/09/2026, segundo a imprensa, e o CDI costuma ficar cerca de 0,10 ponto abaixo dela. O valor do CDI não foi conferido em fonte de cotação. O quadro abaixo mostra o rendimento líquido da renda fixa por prazo, que é o mínimo que um FII deveria entregar em dividendos isentos para empatar:
 
 | Prazo da aplicação | Alíquota de IR na renda fixa | Rendimento líquido ao ano |
 |---|---|---|
@@ -62,9 +64,9 @@ Suponha que você tenha R$ 400 mil e compare um FII com uma aplicação de renda
 | De 361 a 720 dias | 17,5% | 11,3% |
 | Acima de 720 dias | 15% | 11,6% |
 
-Cálculo ilustrativo, sobre o CDI de 13,65% de outubro de 2026, sem considerar variações do CDI ao longo do tempo. Um FII que paga menos que isso, em dividendos líquidos, perde para a renda fixa na conta de rendimento.
+Cálculo ilustrativo, sobre o CDI de referência de 13,65% ao ano, sem considerar variações do CDI ao longo do tempo. Um FII que paga menos que isso, em dividendos líquidos, perde para a renda fixa na conta de rendimento.
 
-Agora compare com o imóvel. Num exemplo ilustrativo de um apartamento de R$ 400 mil alugado por R$ 2.043 por mês, o equivalente ao rendimento bruto de 6,13% ao ano do índice FipeZap de setembro de 2026, o retorno líquido é de cerca de 4,6% ao ano, já descontados um mês de vacância por ano e uma manutenção de 1% do valor do imóvel. Para empatar com a renda fixa líquida de 11,6% ao ano, em prazo acima de 720 dias, esse imóvel precisaria valorizar cerca de 6,7% ao ano. Se a valorização for menor, o FII, em tese, rende mais; se for maior, o imóvel leva vantagem.
+Agora compare com o imóvel. Num exemplo ilustrativo de um apartamento de R$ 400 mil alugado por R$ 2.043 por mês, o equivalente à rentabilidade média de 6,13% ao ano do aluguel residencial no índice FipeZap de setembro de 2026, segundo a Portas, o retorno líquido é de cerca de 4,6% ao ano, já descontados um mês de vacância por ano e uma manutenção de 1% do valor do imóvel. Para empatar com a renda fixa líquida de 11,6% ao ano, em prazo acima de 720 dias, esse imóvel precisaria valorizar cerca de 7% ao ano. Se a valorização for menor, o FII, em tese, rende mais; se for maior, o imóvel leva vantagem.
 
 Esse cálculo é uma simplificação e serve para mostrar a lógica, não para decidir. Ele ignora alavancagem, prazo de vacância, o custo de desocupação e a variação do preço das cotas.
 
@@ -90,7 +92,7 @@ Para a venda, lembre que o preço é o do mercado naquele momento, e não o valo
 
 O imóvel tem vantagens que o FII não oferece. Ele pode ser usado como moradia, pode ser financiado com alavancagem e pode ser reformado para aumentar o aluguel. Também permite escolher o inquilino e a região. Em contrapartida, exige reserva para manutenção, paga IPTU e condomínio quando o contrato não transfere esses custos, e pode ficar vago por meses.
 
-Para o aluguel, há ainda o imposto de renda. O aluguel recebido por pessoa física é tributado pela tabela progressiva, no carnê-leão, mas, com a redução trazida pela Lei 15.270/2025, o imposto é zero para rendimentos tributáveis mensais de até R$ 5 mil. O tema é detalhado no guia sobre [Airbnb e aluguel tradicional](/artigos/airbnb-x-aluguel-tradicional).
+Para o aluguel, há ainda o imposto de renda. O aluguel recebido por pessoa física é tributado pela tabela progressiva, no carnê-leão, mas, com a redução trazida pela Lei 15.270/2025, o imposto mensal some para rendimentos tributáveis de até cerca de R$ 4.390, e a redução acaba em R$ 7.350. O tema é detalhado no guia sobre [Airbnb e aluguel tradicional](/artigos/airbnb-x-aluguel-tradicional).
 
 ## Quando faz sentido cada uma
 

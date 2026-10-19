@@ -4,7 +4,7 @@ description: "Usucapião de imóvel: as modalidades do Código Civil, prazos de 
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "Usucapião é a forma de se tornar dono de imóvel pela posse prolongada, nas condições que a lei define (Código Civil, arts. 1.238 a 1.244)."
   - "A regra geral pede 15 anos de posse sem oposição. O prazo cai para 10 anos com moradia ou obras de caráter produtivo (art. 1.238)."
@@ -18,7 +18,7 @@ faq:
   - q: "A usucapião sai pelo cartório ou só pela Justiça?"
     a: "As duas vias existem. A extrajudicial, no registro de imóveis, exige advogado, planta com responsável técnico e notificações, e volta para a Justiça se houver impugnação."
   - q: "Imóvel financiado pode ser usucapido?"
-    a: "Imóveis vinculados ao sistema de financiamento têm tratamento próprio, e a jurisprudência do STJ é restritiva nesses casos. Antes de qualquer passo, consulte um advogado."
+    a: "Quando a matrícula tem alienação fiduciária ou hipoteca em favor de banco, a análise muda, porque o bem tem garantia. Antes de qualquer passo, consulte um advogado e confira a matrícula."
 sources:
   - title: "Código Civil (Lei 10.406/2002), arts. 1.238, 1.240, 1.240-A, 1.242 e 102 (texto conferido em compilação jurídica)"
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-1238"
@@ -103,11 +103,11 @@ A via extrajudicial está no artigo 216-A da Lei 6.015/1973, incluído pelo Cód
 
 Quem não assinar a planta é notificado pessoalmente ou por correio com aviso de recebimento para dar consentimento em 15 dias. Se houver silêncio, ele é interpretado como concordância. Se não for localizado, a notificação segue por edital. O município, a União e o Estado também são cientificados, com 15 dias para se manifestar. Se houver impugnação justificada, o registrador envia o pedido ao juízo, e o requerente precisa emendar a inicial para o procedimento judicial.
 
-Esse procedimento foi alterado por lei de 2025, segundo a compilação consultada para este texto. Antes de seguir qualquer etapa, confirme a redação em vigor com o cartório ou com um advogado.
+Leis recentes podem ter mexido nesse procedimento, e nesta revisão não foi possível confirmar, em texto oficial, a redação vigente de todos os prazos e notificações. Antes de seguir qualquer etapa, confirme a redação em vigor com o cartório ou com um advogado.
 
 ## O que a usucapião não faz
 
-Alguns limites são importantes. Bens públicos não estão sujeitos a usucapião, conforme o artigo 102 do Código Civil. Imóveis vinculados ao sistema de financiamento têm tratamento próprio, e a jurisprudência do STJ é restritiva nesses casos. O tema aparece em detalhe no artigo sobre [contrato de gaveta](/artigos/contrato-de-gaveta), onde a regularização por usucapião é tratada com as devidas ressalvas.
+Alguns limites são importantes. Bens públicos não estão sujeitos a usucapião, conforme o artigo 102 do Código Civil. Imóveis com financiamento ou garantia em favor de banco exigem cuidado extra, porque a matrícula pode registrar a alienação fiduciária ou a hipoteca. O tema aparece em detalhe no artigo sobre [contrato de gaveta](/artigos/contrato-de-gaveta), onde a regularização por usucapião é tratada com as devidas ressalvas.
 
 Além disso, dívidas que acompanham o imóvel, como IPTU e cotas de condomínio em atraso, precisam ser verificadas no processo, porque não desaparecem só pela posse. Também não é solução rápida. Mesmo quando há prazo cumprido, a regularização passa por prova, notificações e registro, e o custo inclui profissionais e taxas do cartório.
 

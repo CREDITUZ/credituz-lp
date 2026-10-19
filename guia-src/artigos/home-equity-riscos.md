@@ -26,10 +26,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
   - title: "Lei 14.711/2023 (Marco Legal das Garantias)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm"
-  - title: "Santander: Crédito com Garantia de Imóvel (consultado em out. 2026)"
-    url: "https://www.santander.com.br/banco/credito-com-garantia-imovel"
-  - title: "Itaú: Crédito com Garantia de Imóvel (consultado em out. 2026)"
-    url: "https://www.itau.com.br/emprestimos-financiamentos/credito-garantia-imovel"
+  - title: "CNB/SP (30/10/2023): STF valida a retomada extrajudicial de imóveis financiados (Tema 982)"
+    url: "https://cnbsp.org.br/2023/10/30/stf-valida-lei-que-autoriza-que-imoveis-financiados-podem-ser-retomados-sem-decisao-judicial-em-caso-de-nao-pagamento/"
 related: [home-equity, home-equity-para-quitar-dividas, leilao-extrajudicial-direitos, renegociacao-de-divida-imobiliaria]
 ---
 
@@ -47,7 +45,7 @@ Ponto que muita gente não percebe: o direito do credor nasce do atraso, não de
 
 Antes de assinar, a pergunta útil não é "quanto eu consigo pegar?", e sim "quanto da minha renda sobra depois da parcela, se a renda cair?".
 
-Veja um exemplo ilustrativo. Considere uma dívida de R$ 150 mil, em 120 meses, com taxa de 1,35% ao mês, tabela Price, sem seguros nem tarifas. As taxas "a partir de" divulgadas pelos grandes bancos em outubro de 2026 ficaram entre cerca de 1,1% e 1,6% ao mês, e a sua taxa depende do perfil e do imóvel. Os números abaixo foram calculados para este exemplo:
+Veja um exemplo ilustrativo. Considere uma dívida de R$ 150 mil, em 120 meses, com taxa de 1,35% ao mês, tabela Price, sem seguros nem tarifas. As taxas "a partir de" variam por banco e mudam com frequência. Uma página de banco consultada mostrava 1,12% ao mês, sem data de atualização, e a sua taxa depende do perfil e do imóvel. Os números abaixo foram calculados para este exemplo:
 
 | Situação | Renda mensal | Parcela | Parcela sobre a renda |
 |---|---|---|---|
@@ -86,7 +84,7 @@ Ou seja, a sua proteção contra a queda de preços é pequena. A pergunta a faz
 
 ## Taxa pós-fixada: a parcela sobe com o índice
 
-Muitos contratos têm taxa pós-fixada, em que o juro real é somado à inflação (IPCA). Em outubro de 2026, o IPCA acumulava 4,58% em 12 meses até setembro, segundo a referência de inflação usada neste guia. Um contrato de 6% ao ano mais IPCA custaria, na conta simples, cerca de 10,9% ao ano. Se a inflação subir, a parcela sobe junto, sem que o banco precise mudar nada no contrato.
+Muitos contratos têm taxa pós-fixada, em que o juro real é somado à inflação (IPCA). Até setembro de 2026, o IPCA acumulava 4,58% em 12 meses, segundo a divulgação de mercado mais recente consultada. Um contrato de 6% ao ano mais esse IPCA custaria, com a composição dos juros, cerca de 10,9% ao ano (a soma simples daria 10,6%). Se a inflação subir, a parcela sobe junto, sem que o banco precise mudar nada no contrato.
 
 A pós-fixada costuma começar com taxa menor que a prefixada, e isso pode ser uma boa escolha. O risco é que a parcela cresça num ano em que a sua renda não cresce. Para comparar, use o CET (Custo Efetivo Total) das duas opções, e não só a taxa de cada uma. O guia de [taxa de juros do financiamento imobiliário](/artigos/taxa-de-juros-financiamento-imobiliario) explica como ler esse indicador.
 

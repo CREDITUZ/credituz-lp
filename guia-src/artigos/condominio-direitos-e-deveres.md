@@ -16,7 +16,7 @@ faq:
   - q: "Quem decide as regras do prédio?"
     a: "A convenção, aprovada por titulares de dois terços das frações ideais, define as regras gerais. O regimento interno detalha o uso do dia a dia. Assembleias tomam decisões conforme o quórum que a convenção e a lei exigem."
   - q: "Qual é a multa máxima por descumprir regras do condomínio?"
-    a: "A convenção pode prever multa de até cinco vezes a contribuição mensal, pelo descumprimento de deveres. Para condômino que se comporta de forma antissocial de modo reiterado, a lei prevê multa de até dez vezes, por deliberação da assembleia."
+    a: "A convenção pode prever multa de até cinco vezes a contribuição mensal, pelo descumprimento de deveres. Para condômino que se comporta de forma antissocial de modo reiterado, a lei prevê multa de até dez vezes, enquanto durar o comportamento, com direito de defesa assegurado."
   - q: "Posso votar nas assembleias se estou devendo?"
     a: "Não. O direito de votar e participar das deliberações depende de estar quite com as obrigações condominiais (art. 1.335, III)."
 sources:
@@ -41,7 +41,7 @@ Este texto explica quais são os direitos e os deveres, o que a convenção pode
 
 ## O que é o condomínio edilício
 
-O artigo 1.331 do Código Civil trata do condomínio edilício, que é o regime de prédios divididos em unidades autônomas, como apartamentos, salas e lojas. O §1º diz que essas unidades podem ser de propriedade exclusiva e livremente vendidas ou alugadas. Há uma exceção para abrigos de veículos, que não podem ser vendidos a pessoas de fora do condomínio sem autorização expressa na convenção.
+O artigo 1.331 do Código Civil trata do condomínio edilício, que é o regime de prédios divididos em unidades autônomas, como apartamentos, salas e lojas. O §1º diz que essas unidades podem ser de propriedade exclusiva e livremente vendidas ou alugadas. Há uma exceção para abrigos de veículos, que não podem ser vendidos nem alugados a pessoas estranhas ao condomínio sem autorização expressa na convenção.
 
 As partes comuns, segundo o §2º, incluem o solo, a estrutura, o telhado, as redes gerais de água, esgoto, gás e energia, e o acesso à via pública. Elas não podem ser vendidas separadamente nem divididas.
 
@@ -87,19 +87,17 @@ Na prática, a convenção pode regulamentar horário de barulho, uso de piscina
 
 Para o descumprimento de deveres, o §2º do artigo 1.336 permite multa prevista na convenção ou no ato constitutivo, mas ela não pode ser superior a cinco vezes o valor da contribuição mensal. Se a convenção não prevê multa, a assembleia geral decide a cobrança por dois terços dos condôminos restantes.
 
-O artigo 1.337 trata de dois casos mais graves. Para o condômino que descumpre reiteradamente seus deveres, a multa pode chegar a até cinco vezes a contribuição mensal, com deliberação de três quartos dos condôminos restantes. Para o condômino ou possuidor cujo comportamento antissocial reiterado torna a convivência incompatível, a multa pode chegar a até dez vezes, por deliberação da assembleia.
+O artigo 1.337 trata de dois casos mais graves. Para o condômino que descumpre reiteradamente seus deveres, a multa pode chegar a até cinco vezes a contribuição mensal, com deliberação de três quartos dos condôminos restantes. Para o condômino ou possuidor cujo comportamento antissocial reiterado torna a convivência incompatível, a multa pode chegar a até dez vezes, enquanto o comportamento durar, com direito de defesa assegurado.
 
 Essas multas não se confundem com a multa por atraso no pagamento, que é outra regra.
 
 ## O limite das punições
 
-O condomínio pode cobrar e executar a dívida, mas não pode punir o devedor de forma que atinja o uso das áreas comuns. O STJ decidiu, no REsp 1.564.030, julgado pela 3ª Turma, que o condomínio não pode proibir o condômino devedor e sua família de usar áreas comuns, como o clube, para expô-lo como inadimplente. O relator entendeu que o direito de uso decorre da fração ideal, e não da adimplência.
+O condomínio pode cobrar e executar a dívida, mas não pode punir o devedor de forma que atinja o uso das áreas comuns. O STJ decidiu, no REsp 1.564.030, julgado pela 3ª Turma em 2016, que o condomínio não pode proibir o condômino devedor e sua família de usar áreas comuns, como o clube, para expô-lo como inadimplente. O relator entendeu que o direito de uso decorre da fração ideal, e não da adimplência.
 
-No REsp 1.401.815, a mesma turma decidiu que a assembleia não pode suspender o uso de elevadores de um devedor, por se tratar de serviço essencial em prédio com esse número de andares.
+No REsp 1.401.815, relatado pela ministra Nancy Andrighi, a mesma turma decidiu que a assembleia não pode suspender o uso de elevadores de um devedor, por se tratar de serviço essencial em prédio com esse número de andares.
 
 Essas decisões mostram uma distinção útil. Multa, juros e cobrança judicial são meios legais. Restrição de uso de áreas comuns para pressionar o devedor, não.
-
-## Um exemplo para entender a regra
 
 Exemplo ilustrativo. Um condômino tem fração ideal de 1%, e a convenção prevê contribuição mensal de R$ 800. Ele atrasa uma parcela e a convenção estabelece multa de 2% sobre o débito. Se a assembleia tentar proibir o uso do salão de festas enquanto ele não pagar, a decisão está fora do que a lei permite. Se, em vez disso, o condomínio cobrar a parcela com multa e juros, o caminho é o previsto em lei, e esse é o assunto do próximo artigo.
 

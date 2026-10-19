@@ -9,7 +9,7 @@ key_points:
   - "Até a partilha, a herança é um todo indivisível e os herdeiros dividem o bem em condomínio. Ninguém vende uma casa específica sozinho (Código Civil, art. 1.791)."
   - "O herdeiro só pode ceder a sua parte por escritura pública, e os demais herdeiros têm preferência em igualdade de condições (arts. 1.793 e 1.794)."
   - "O inventário pode ser feito por escritura em cartório, sem testamento, sem herdeiro incapaz e com acordo entre todos, com advogado (CPC, art. 610)."
-  - "Vender um bem do espólio depende de autorização do juiz, com exceções previstas em norma do CNJ para custear o próprio inventário (CPC, art. 619)."
+  - "Vender um bem do espólio depende de autorização do juiz (CPC, art. 619). A Resolução CNJ 571/2024 criou uma via por escritura, sem autorização judicial, para pagar despesas do inventário."
 faq:
   - q: "Posso vender um imóvel que está em inventário?"
     a: "Não sozinho. A venda do bem como um todo exige a participação de todos os herdeiros ou autorização judicial. Um herdeiro só pode vender a sua parte, respeitando a preferência dos demais."
@@ -30,12 +30,12 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00131052015-610"
   - title: "Inventário de imóvel financiado: via extrajudicial e pagamento do saldo devedor (CNB/SP, 2025)"
     url: "https://cnbsp.org.br/2025/09/11/artigo-inventario-de-imovel-financiado-como-proceder-e-possivel-resolver-pela-via-extrajudicial-por-julio-martins/"
-  - title: "Resolução CNJ 571/2024: venda de bens do espólio por escritura para custear o inventário (notícia)"
-    url: "https://portas.com.br/para-corretores/regra-do-cnj-facilita-venda-de-imovel-de-heranca-para-pagar-inventario/"
-  - title: "ITCMD em São Paulo: alíquota de 4% (Lei estadual 10.705/2000, art. 16)"
+  - title: "Resolução CNJ 571, de 26/08/2024: art. 11-A da Resolução CNJ 35/2007, venda de bens do espólio por escritura"
+    url: "https://atos.cnj.jus.br/files/original2309432024083066d251371bc21.pdf"
+  - title: "ITCMD em São Paulo: alíquota de 4% (Lei estadual 10.705/2000, art. 16; fonte secundária)"
     url: "https://smargiassi.com.br/blog/itcmd-sao-paulo/"
-  - title: "Secretaria da Fazenda de São Paulo: resposta à consulta sobre ITCMD em doação (RC 33325, 2026)"
-    url: "https://legislacao.fazenda.sp.gov.br/Paginas/RC33325_2026.aspx"
+  - title: "ITCMD: alíquotas progressivas em estados e situação de São Paulo em julho de 2026 (AmdJus)"
+    url: "https://amdjus.com.br/itcmd-prazo-para-pagar-menos-ate-2027-pode-afetar-doacoes-de-imoveis/"
 related: [doacao-de-imovel, contrato-de-gaveta, escritura-e-registro-quanto-custa, financiamento-de-imovel-usado]
 ---
 
@@ -70,11 +70,11 @@ Essa escritura serve para registro do imóvel e para levantamento de valores em 
 
 O artigo 619 do CPC diz que o inventariante, para alienar bens do espólio, deve ouvir os interessados e obter autorização do juiz. Essa regra geral existe para proteger os herdeiros.
 
-Uma norma do Conselho Nacional de Justiça, a Resolução 571/2024, incluiu o artigo 11-A na Resolução 35/2007, segundo notícia especializada consultada para este texto. Pela notícia, o inventariante pode ser autorizado, por escritura pública, a vender bens móveis e imóveis do espólio sem autorização judicial, desde que o valor seja destinado às despesas do inventário, como impostos de transmissão, honorários e registros. A regra não é uma autorização ampla para vender o patrimônio herdado, e não pode haver indisponibilidade de bens envolvendo herdeiros ou cônjuge sobrevivente. Confirme o texto da resolução antes de usar essa via.
+A Resolução CNJ 571, de 26 de agosto de 2024, incluiu o artigo 11-A na Resolução CNJ 35/2007. Pelo que o artigo prevê, o inventariante pode ser autorizado, por escritura pública, a vender móveis e imóveis do espólio sem autorização judicial, desde que a escritura discrimine as despesas do inventário, como impostos de transmissão, honorários e emolumentos, e vincule o preço a elas. Ele também precisa prestar garantia quanto à destinação do dinheiro, e as despesas devem ser pagas em até um ano. Não é uma autorização ampla para vender o patrimônio herdado, e não pode haver indisponibilidade de bens de herdeiros ou do cônjuge sobrevivente. Peça ao tabelião o texto integral da resolução antes de usar essa via.
 
 ### Cessão da parte do herdeiro
 
-Se o herdeiro quer vender apenas a sua parte, a lei permite, mas com regras. O artigo 1.793 do Código Civil exige escritura pública para a cessão de direitos hereditários. Pelo resumo do texto, a cessão de um bem específico da herança, feita por um coerdeiro antes da partilha, é ineficaz. E a disposição de bem do acervo por qualquer herdeiro, sem prévia autorização do juiz da sucessão, também é ineficaz enquanto o bem for indivisível.
+Se o herdeiro quer vender apenas a sua parte, a lei permite, mas com regras. O artigo 1.793 do Código Civil exige escritura pública para a cessão de direitos hereditários. Pelo §2º, a cessão, feita por um coerdeiro, do direito sobre um bem específico da herança, considerado isoladamente, não produz efeitos. Por isso, ceder a casa inteira ou um apartamento da herança por um herdeiro só não resolve.
 
 O artigo 1.794 cria o direito de preferência. Se um herdeiro quer ceder sua quota a alguém de fora da sucessão, os outros herdeiros podem ficar com ela, pagando o mesmo preço e nas mesmas condições. É o chamado "tanto por tanto". Se eles não exercerem a preferência, a cessão pode ser concluída.
 
@@ -90,7 +90,7 @@ Exemplo ilustrativo. Um imóvel de R$ 500.000 foi deixado a três herdeiros, em 
 
 Se um dos herdeiros quiser vender a sua quota de R$ 166.667 a um terceiro, os outros dois têm preferência para comprar pelo mesmo preço. Se não quiserem, a venda pode ocorrer, mas a escritura de cessão precisa ser feita e o terceiro passa a ocupar a posição do herdeiro na partilha.
 
-A base de cálculo real do imposto depende do estado e da forma como o valor é declarado. Em São Paulo, a alíquota de 4% é fixa, segundo a Lei 10.705/2000 e a resposta à consulta da Fazenda estadual de 2026. Em outros estados, a alíquota pode ser diferente e pode estar em mudança.
+A base de cálculo real do imposto depende do estado e da forma como o valor é declarado. Em São Paulo, a alíquota de 4% consta do artigo 16 da Lei 10.705/2000, e uma notícia de julho de 2026 indicava que o estado ainda aplicava alíquota fixa, com projeto de alíquotas progressivas em discussão. Confirme a alíquota vigente na Fazenda antes de assinar. Em outros estados, a alíquota pode ser diferente.
 
 ## O que o banco costuma pedir para financiar
 
@@ -104,7 +104,7 @@ Essas regras mudam de banco para banco e de caso para caso. Consulte o banco ant
 
 O artigo 611 do CPC fixa prazos. O processo de inventário e partilha deve ser iniciado em até dois meses, contados da abertura da sucessão, e concluído nos doze meses seguintes. O juiz pode prorrogar esses prazos, de ofício ou a pedido de parte.
 
-Os prazos do imposto estadual são outra conta. Em São Paulo, segundo a referência da Fazenda estadual citada neste texto, o imposto costuma ser pago em até 30 dias da homologação do cálculo, sem ultrapassar 180 dias do óbito. O atraso gera juros e multa. Em outros estados, os prazos variam, e por isso vale conferir com a Fazenda local.
+Os prazos do imposto estadual são outra conta. Cada estado define o prazo de pagamento do ITCMD em lei ou decreto próprio, e o atraso gera juros e multa. Em São Paulo, confira na Fazenda estadual o prazo vigente antes de marcar a escritura ou a partilha.
 
 ## Cuidados que evitam problemas
 
@@ -128,7 +128,7 @@ Os prazos do imposto estadual são outra conta. Em São Paulo, segundo a referê
 - A cessão de quota exige escritura pública e respeita a preferência dos demais herdeiros (CC, arts. 1.793 e 1.794).
 - O inventário por escritura é possível sem testamento e sem incapaz, com advogado (CPC, art. 610).
 - O inventário deve começar em dois meses e terminar em 12, com prorrogação possível (CPC, art. 611).
-- A venda de bem do espólio exige autorização judicial, com a exceção recente da escritura para custear o inventário, que deve ser conferida (CPC, art. 619).
+- A venda de bem do espólio exige autorização judicial (CPC, art. 619), salvo a via por escritura da Resolução CNJ 571/2024, que exige garantia e vínculo com as despesas do inventário.
 - O banco exige a comprovação de quem pode vender, e o financiamento em aberto muda o cenário.
 
 Este texto não substitui a orientação de advogado ou tabelião. Como cada inventário tem detalhes próprios, procure um profissional antes de assinar qualquer compromisso de compra ou cessão, e a Defensoria Pública atende quem não pode pagar.

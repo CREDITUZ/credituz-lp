@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "A lei presume que a metragem é só uma referência quando a diferença não passa de 5% (um vigésimo) da área total informada."
-  - "Acima de 5%, você pode exigir complemento de área, abatimento proporcional no preço ou a resolução do contrato (Código Civil, art. 500)."
+  - "Acima de 5%, e quando o preço foi fixado por medida ou a área foi determinada no contrato, você pode exigir complemento de área, abatimento proporcional no preço ou a resolução do contrato (Código Civil, art. 500)."
   - "O prazo para reclamar é de um ano contado do registro do título (art. 501). Esperar a escritura ou a última parcela pode custar o direito."
   - "Compare sempre a mesma medida: área privativa com área privativa e área total com área total. Confira o contrato e o memorial de incorporação."
 faq:
@@ -20,18 +20,16 @@ faq:
   - q: "A área privativa do contrato vale como área total?"
     a: "Não. Cada medida tem a sua função. Compare a área privativa do contrato com a área privativa medida, e não com a área total do empreendimento."
 sources:
-  - title: "Código Civil (Lei 10.406/2002), arts. 500 e 501: venda com área determinada e prazo decadencial (texto conferido em compilação jurídica)"
-    url: "https://www.legjur.com/legislacao/art/LEI_00104062002-500"
-  - title: "Código Civil (Lei 10.406/2002), art. 501: decadência de um ano"
-    url: "https://www.legjur.com/legislacao/art/LEI_00104062002-501"
+  - title: "Código Civil (Lei 10.406/2002), arts. 500 e 501: venda com área determinada e prazo decadencial (texto reproduzido em site jurídico)"
+    url: "https://www.peticoesonline.com.br/art-500-cc"
+  - title: "Código Civil (Lei 10.406/2002), art. 501: decadência de um ano (texto reproduzido em site jurídico)"
+    url: "https://www.peticoesonline.com.br/art-501-cc"
   - title: "Código Civil, texto integral no Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), art. 26: prazos para reclamar de vícios"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "STJ, REsp 1.890.327/SP, 3ª Turma (julgado em 20/04/2021): diferença de área, prazo decadencial e indenização (resumo)"
-    url: "https://informativos.trilhante.com.br/julgados/stj-resp-1890327-sp"
-  - title: "IRIB: STJ reconhece que área até 5% menor que a da planta não gera indenização (decisão de 2011)"
-    url: "https://www.irib.org.br/stj-apartamento-construido-com-area-ate-5-menor-que-o-previsto-em-planta-nao-e-causa-para-indenizacao/"
+  - title: "STJ, REsp 1.890.327/SP, 3ª Turma, relatora Min. Nancy Andrighi: prazo de um ano em venda com metragem menor (resumo)"
+    url: "https://emporiododireito.com.br/leitura/terceira-turma-afasta-decadencia-de-dez-anos-em-acao-para-abatimento-do-preco-de-imovel-menor-que-o-contratado"
 related: [propaganda-enganosa-imovel, distrato-imovel-na-planta, vistoria-de-entrega-de-chaves, codigo-de-defesa-do-consumidor-e-imovel]
 ---
 
@@ -41,7 +39,7 @@ Essa regra trata da venda de imóvel por medida ou com área determinada, e est�
 
 ## O que diz a lei
 
-O artigo 500 do Código Civil cuida da venda com área determinada. Se a área real não corresponde às dimensões informadas, o comprador pode exigir o complemento. Se não for possível completar, pode pedir a resolução do contrato ou um abatimento proporcional no preço.
+O artigo 500 do Código Civil cuida da venda em que o preço foi fixado por medida ou em que a área foi determinada no contrato. Se a área real não corresponde às dimensões informadas, o comprador pode exigir o complemento. Se não for possível completar, pode pedir a resolução do contrato ou um abatimento proporcional no preço.
 
 O §1º do mesmo artigo define o limite: presume-se que a menção às dimensões foi apenas enunciativa quando a diferença não excede um vigésimo (5%) da área total informada. O comprador pode, porém, provar que não teria feito o negócio nessas condições.
 
@@ -83,13 +81,13 @@ Depois, vem a medição. Um engenheiro ou arquiteto habilitado pode medir a unid
 
 A matrícula do imóvel registra a área quando o registro já foi atualizado, e pode ajudar a comparar. Se a construtora fornecer um memorial com área diferente do contrato, peça por escrito a explicação e guarde a resposta.
 
-A análise de julgados do STJ recomenda que o comprador meça o imóvel logo após recebê-lo, porque a diferença de área costuma ser tratada como vício aparente, ou seja, perceptível na entrega. Medir cedo evita discussões sobre quando o defeito apareceu.
+No REsp 1.890.327/SP, a relatora tratou a metragem menor como vício aparente, constatável por uma simples medição. Por isso, meça logo após receber o imóvel. Medir cedo evita discussões sobre quando o defeito apareceu.
 
 ## Prazos e o risco da demora
 
-O prazo de um ano do artigo 501 é o ponto mais perigoso. Ele vale para pedir complemento, abatimento ou resolução, e começa no registro do título. O STJ, na 3ª Turma, ao julgar o REsp 1.890.327/SP em 20 de abril de 2021, entendeu que esse prazo de um ano se aplica a esses pedidos. Já o pedido de indenização segue o prazo geral de prescrição do Código Civil, de dez anos, e não o de um ano.
+O prazo de um ano do artigo 501 é o ponto mais perigoso. Ele vale para pedir complemento, abatimento ou resolução, e começa no registro do título. Se a posse atrasar por culpa do vendedor, a contagem começa na imissão na posse. No REsp 1.890.327/SP, a 3ª Turma aplicou o prazo de um ano do Código Civil a uma discussão sobre metragem menor e afastou o prazo de 90 dias do Código de Defesa do Consumidor, por entender que o prazo civil era mais favorável ao consumidor. O ministro Moura Ribeiro divergiu, e ficou vencido. Por isso, não espere o fim do prazo para reclamar.
 
-Há ainda o Código de Defesa do Consumidor, cujo artigo 26 fixa em 90 dias o prazo para reclamar de vício aparente em produto durável, contado da entrega. Como há discussão sobre enquadrar a metragem como vício aparente, o mais seguro é não esperar nenhum dos prazos chegar ao fim: reclame por escrito logo após a entrega e guarde o protocolo.
+O artigo 26 do Código de Defesa do Consumidor fala em 90 dias para vício aparente em produto durável, contado da entrega. Como o STJ, no caso citado, optou pelo prazo civil, o mais seguro é não esperar nenhum prazo acabar: reclame por escrito logo após a entrega e guarde o protocolo.
 
 ## Quando não cabe pedido
 
@@ -120,7 +118,7 @@ Antes de agir na Justiça, anote a data do registro do título. A partir dela, o
 
 - A lei presume que diferença de até 5% da área total informada é apenas referência.
 - Acima de 5%, você pode pedir complemento, abatimento proporcional ou a resolução do contrato.
-- O prazo para pedir essas soluções é de um ano contado do registro do título. A indenização segue prazo maior.
+- O prazo para pedir essas soluções é de um ano contado do registro do título (CC, art. 501). No REsp 1.890.327/SP, o STJ aplicou esse prazo e afastou o de 90 dias do CDC.
 - Meça logo após a entrega, com laudo técnico, e guarde todos os documentos e anúncios com data.
 - Para entender como a entrega de obra e as vistorias se encaixam nesse processo, veja [vistoria de entrega de chaves](/artigos/vistoria-de-entrega-de-chaves). Para o quadro geral de direitos do comprador, leia o [Código de Defesa do Consumidor e o imóvel](/artigos/codigo-de-defesa-do-consumidor-e-imovel).
 

@@ -14,7 +14,7 @@ faq:
   - q: "Doação de imóvel precisa de escritura?"
     a: "Sim, a doação de imóvel é feita por escritura pública ou instrumento particular, e a transferência só se completa com o registro no cartório de imóveis. Doação verbal de imóvel não produz esse efeito."
   - q: "Quem paga o imposto na doação?"
-    a: "Em regra, o donatário paga o ITCMD, mas a legislação estadual pode atribuir o pagamento ao doador em certas hipóteses, como quando o donatário não é residente no estado. Confira a regra do seu estado."
+    a: "Em regra, o donatário é o contribuinte do ITCMD, mas a lei de cada estado pode prever exceções, por exemplo quando doador ou donatário está em outro estado. Confira a regra do seu estado."
   - q: "Posso doar um imóvel e continuar morando nele?"
     a: "Sim, com reserva de usufruto, em que você mantém o direito de usar ou receber os frutos do bem. O usufruto precisa estar escrito na escritura e registrado."
   - q: "Posso desfazer a doação depois?"
@@ -30,11 +30,11 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-549"
   - title: "Código Civil, art. 557: revogação da doação por ingratidão"
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-557"
-  - title: "ITCMD em São Paulo: alíquota de 4% (Lei estadual 10.705/2000, art. 16, redação da Lei 10.992/2001)"
+  - title: "ITCMD em São Paulo: alíquota de 4% (Lei estadual 10.705/2000, art. 16, redação da Lei 10.992/2001; fonte secundária)"
     url: "https://smargiassi.com.br/blog/itcmd-sao-paulo/"
-  - title: "Secretaria da Fazenda de São Paulo: resposta à consulta sobre ITCMD em doação, com alíquota de 4% (RC 33325, 2026)"
-    url: "https://legislacao.fazenda.sp.gov.br/Paginas/RC33325_2026.aspx"
-  - title: "Reforma do ITCMD e alíquotas progressivas em estados (AmdJus, jul. 2026)"
+  - title: "Código Civil, art. 2.006: dispensa da colação no testamento ou no título de liberalidade (texto reproduzido em site jurídico)"
+    url: "https://www.peticoesonline.com.br/art-2006-cc"
+  - title: "Reforma do ITCMD: alíquotas progressivas em estados e situação de São Paulo (AmdJus, 26/07/2026)"
     url: "https://amdjus.com.br/itcmd-prazo-para-pagar-menos-ate-2027-pode-afetar-doacoes-de-imoveis/"
 related: [inventario-e-imovel, escritura-e-registro-quanto-custa, itbi, custos-para-comprar-imovel]
 ---
@@ -43,13 +43,11 @@ Doar um imóvel parece simples: você assina um documento e a casa passa para ou
 
 Este texto explica o que é a doação, como ela se formaliza, quais impostos incidem, o que a lei diz sobre doações entre pais e filhos e quais são os limites e os riscos. Não substitui a análise do seu caso, que depende de herdeiros, financiamento e do estado onde o imóvel está.
 
-## O que é doação
+## O que é doação e como se formaliza
 
 O artigo 538 do Código Civil define a doação como o contrato em que alguém, por liberalidade, transfere parte do seu patrimônio, em bens ou vantagens, para outra pessoa. A palavra-chave é liberalidade: o doador não recebe nada em troca. Se houver pagamento, ainda que simbólico, o negócio pode virar venda, com regras e impostos diferentes.
 
 Essa diferença importa. Venda de imóvel paga ITBI, o imposto municipal, e segue regras de contrato oneroso. Doação paga ITCMD, o imposto estadual, e segue regras próprias do Código Civil sobre liberalidade.
-
-## Forma e registro
 
 O artigo 541 do Código Civil diz que a doação far-se-á por escritura pública ou instrumento particular. Para bens móveis de pequeno valor, a lei aceita a doação verbal se a entrega for imediata. Para imóvel, essa exceção não se aplica, e a doação verbal não produz o efeito de transferir a casa.
 
@@ -59,9 +57,9 @@ Documentos que costumam ser pedidos incluem a matrícula atualizada do imóvel, 
 
 ## Impostos: ITCMD e ITBI
 
-O imposto que incide sobre a doação de imóvel é o ITCMD, o imposto estadual sobre transmissão causa mortis e doação. Cada estado fixa a sua alíquota e a sua base de cálculo, por lei própria. Há ainda um movimento de reforma tributária que permite alíquotas progressivas, e alguns estados estão revisando suas leis, segundo notícia especializada de julho de 2026.
+O imposto que incide sobre a doação de imóvel é o ITCMD, o imposto estadual sobre transmissão causa mortis e doação. Cada estado fixa a sua alíquota e a sua base de cálculo, por lei própria. A reforma tributária permite alíquotas progressivas, e os estados vêm revisando suas leis. Segundo notícia de 26/07/2026, São Paulo ainda aplicava alíquota fixa naquela data.
 
-Em São Paulo, a alíquota é de 4%, fixa, segundo a Lei 10.705/2000 em redação da Lei 10.992/2001, e a resposta à consulta da Fazenda estadual de 2026 confirma essa alíquota para doação de bens. A base de cálculo e a forma de avaliação devem ser conferidas na Fazenda.
+Em São Paulo, a alíquota é de 4%, segundo o artigo 16 da Lei 10.705/2000, na redação da Lei 10.992/2001. Como há projeto de alíquotas progressivas em discussão, confirme a alíquota vigente e a forma de avaliação na Fazenda antes de pagar a guia.
 
 O ITBI, de competência municipal, não incide sobre doação, porque a Constituição limita esse imposto às transmissões por ato oneroso, ou seja, com contrapartida. Mesmo assim, vale confirmar na prefeitura do município do imóvel antes de pagar qualquer guia.
 
@@ -79,25 +77,21 @@ Exemplo ilustrativo. Um pai doa a um filho um apartamento avaliado em R$ 500.000
 
 O resultado muda se a base de cálculo for outra, como o valor venal do imóvel, que pode ser menor ou maior que o valor de mercado. Por isso, o valor exato deve ser confirmado com a Fazenda e com o tabelião antes da assinatura.
 
-## Doação entre pais e filhos
+## Doação entre pais e filhos e a parte disponível
 
 O artigo 544 do Código Civil diz que a doação de ascendentes a descendentes, ou de um cônjuge a outro, importa adiantamento do que lhes cabe por herança. Ou seja, o que o filho recebeu em vida será considerado como antecipação da herança.
 
-Isso tem uma consequência prática. Na partilha, o herdeiro que recebeu doação pode ter de trazer o valor à conta, por meio da colação, para que a divisão entre os irmãos seja proporcional. A lei permite que o doador dispense a colação, dentro dos limites legais, mas essa dispensa precisa estar expressa no ato. Se não estiver, a doação pode gerar disputa depois.
-
-## O limite da parte disponível
+Isso tem uma consequência prática. Na partilha, o herdeiro que recebeu doação pode ter de trazer o valor à conta, por meio da colação, para que a divisão entre os irmãos seja proporcional. A lei permite que o doador dispense a colação, desde que a dispensa conste expressamente do testamento ou do próprio título da doação (art. 2.006). Se não estiver escrita, a doação pode gerar disputa depois.
 
 A lei protege uma parte da herança para os herdeiros necessários, que são descendentes, ascendentes e cônjuge. Quem doa não pode, em regra, transferir tudo o que tem e deixar esses herdeiros sem nada. O artigo 549 do Código Civil diz que a doação é nula na parte que exceda aquela de que o doador poderia dispor em testamento no momento da liberalidade.
 
 Isso não significa que a doação inteira seja anulada. A regra atinge o excedente. Se você doa um imóvel que representa quase todo o seu patrimônio, a parte que ultrapassa o limite legal pode ser questionada depois, pelos herdeiros, quando a sucessão se abrir.
 
-## Reserva de usufruto
+## Usufruto e revogação por ingratidão
 
 Uma forma comum de doar sem perder o uso do bem é a reserva de usufruto. O usufruto permite que o usufrutuário use o bem e receba seus frutos, enquanto a nua-propriedade fica com o donatário. O artigo 1.390 do Código Civil admite o usufruto sobre um ou mais bens, móveis ou imóveis, e o detalhamento dos direitos do usufrutuário está nos artigos seguintes.
 
 Na escritura, a reserva precisa ser expressa, com a descrição do usufruto, quem o detém e a sua duração. Ela também tem efeitos sobre quem paga IPTU, condomínio e reformas, o que deve ser definido no ato.
-
-## Revogação por ingratidão
 
 Uma doação pode ser revogada por ingratidão do donatário, mas só nas hipóteses que a lei prevê. O artigo 557 do Código Civil lista quatro: atentado contra a vida do doador ou homicídio doloso contra ele, ofensa física, injúria grave ou calúnia, e recusa de alimentos quando o donatário podia prestá-los.
 
@@ -131,7 +125,7 @@ Já quem precisa de dinheiro pode pensar na venda, que tem ITBI e outras regras,
 
 - Doação é liberalidade, sem contrapartida (CC, art. 538).
 - Imóvel exige escritura pública ou instrumento particular, e o registro transfere a propriedade (CC, art. 541).
-- O ITCMD incide e, em São Paulo, a alíquota é de 4% (Lei 10.705/2000, art. 16), mas a base e os prazos devem ser confirmados.
+- O ITCMD incide e, em São Paulo, a alíquota é de 4% (Lei 10.705/2000, art. 16), mas a base, os prazos e a eventual progressividade devem ser confirmados na Fazenda.
 - O ITBI não incide sobre doação por não ser operação onerosa.
 - Doação a filhos é adiantamento de herança (CC, art. 544), e o excedente sobre a parte disponível pode ser anulado (CC, art. 549).
 - A revogação por ingratidão só vale nas hipóteses do artigo 557.

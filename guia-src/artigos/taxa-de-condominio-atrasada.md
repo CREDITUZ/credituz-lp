@@ -6,8 +6,8 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
-  - "Sobre a parcela atrasada incidem correção monetária, juros (os da convenção ou a taxa legal) e multa de até 2% (Código Civil, art. 1.336, §1º)."
-  - "Quem compra o imóvel responde pelos débitos anteriores do antigo dono perante o condomínio (art. 1.345). O STJ discute a divisão quando o comprador já tem a posse."
+  - "Sobre a parcela atrasada incidem correção monetária, juros (os da convenção ou, na falta deles, a taxa legal do art. 406) e multa de até 2% (Código Civil, art. 1.336, §1º, com a redação da Lei 14.905/2024)."
+  - "Quem compra o imóvel responde pelos débitos anteriores do antigo dono perante o condomínio (art. 1.345). No Tema 886 dos repetitivos, o STJ mostrou que a posse do comprador e a ciência do condomínio podem mudar essa divisão quando o contrato não está registrado."
   - "Cotas condominiais previstas na convenção e comprovadas por documento são título executivo extrajudicial (Código de Processo Civil, art. 784, X), o que permite a execução e a penhora do imóvel."
   - "A cobrança prescreve em cinco anos quando a dívida está em documento, como a convenção e os balancetes (Código Civil, art. 206, §5º, I)."
 faq:
@@ -30,8 +30,8 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-206"
   - title: "Código de Processo Civil (Lei 13.105/2015), art. 784, X: crédito de condomínio como título executivo"
     url: "https://www.legjur.com/legislacao/art/LEI_00131052015-784"
-  - title: "STJ, REsp 1.345.331/RS (2ª Seção, 2015): responsabilidade por cotas condominiais na promessa de compra e venda (resumo do IRIB)"
-    url: "https://www.irib.org.br/noticias/detalhes/rela-ccedil-atilde-o-material-com-im-oacute-vel-define-responsabilidade-pelas-obriga-ccedil-otilde-es-de-condom-iacute-nio"
+  - title: "STJ, Tema 886 dos repetitivos (2ª Seção, 08/04/2015): despesas condominiais na promessa não registrada (resumo)"
+    url: "https://informativos.trilhante.com.br/temas-stj/tema-repetitivo-886-stj"
   - title: "Juros de condomínio fixados em convenção acima de 1% ao mês: posição do STJ (artigo de Jus.com.br)"
     url: "https://jus.com.br/artigos/67989/legalidade-dos-juros-moratorios-estipulados-na-convencao"
 related: [condominio-direitos-e-deveres, vistoria-de-entrega-de-chaves, leilao-extrajudicial-direitos, renegociacao-de-divida-imobiliaria]
@@ -49,11 +49,11 @@ Quando o imóvel está alugado, o inquilino costuma pagar as despesas ordinária
 
 ## Quanto o condomínio pode cobrar
 
-O artigo 1.336, §1º, do Código Civil trata da inadimplência. Pelo texto, o condômino que não paga a sua contribuição fica sujeito à correção monetária e aos juros moratórios convencionados. Se a convenção não prevê juros, aplicam-se os juros do artigo 406, que hoje seguem a taxa legal, definida a partir da Selic, descontado um índice de correção. Além disso, a lei permite multa de até 2% sobre o débito.
+O artigo 1.336, §1º, do Código Civil trata da inadimplência. Pelo texto, com a redação dada pela Lei 14.905/2024, o condômino que não paga a sua contribuição fica sujeito à correção monetária e aos juros moratórios convencionados. Se a convenção não prevê juros, aplicam-se os juros do artigo 406, que remetem à taxa legal. Essa taxa corresponde à Selic, deduzido o índice de atualização monetária (art. 406, §1º), e o valor atual deve ser consultado no Banco Central. Além disso, a lei permite multa de até 2% sobre o débito.
 
 Dois pontos merecem atenção.
 
-O primeiro é que a convenção pode fixar juros diferentes do padrão de 1% ao mês. O STJ já decidiu que a convenção pode prever juros acima de 1% ao mês para inadimplência de taxas condominiais, citando o REsp 1.002.525/DF, de 2010, e o AgRg no REsp 1.445.949/SP, de 2017. Isso não significa que qualquer taxa vale. Tribunais locais já consideraram abusivos percentuais muito altos, e a fixação deve ser razoável e proporcional.
+O primeiro é que a convenção pode fixar juros diferentes da taxa legal. Julgados do STJ admitiram juros acima de 1% ao mês previstos na convenção, citando o REsp 1.002.525/DF (2010) e o AgRg no REsp 1.445.949/SP (2017). Isso não significa que qualquer taxa vale. Tribunais locais já consideraram abusivos percentuais muito altos, e a fixação deve ser razoável e proporcional.
 
 O segundo é que a multa de 2% é o teto que a lei fixa para essa cobrança. Se a convenção prever multa maior, a cláusula pode ser questionada na Justiça.
 
@@ -74,17 +74,17 @@ Na prática, a correção monetária entra no cálculo e muda o total, e a conve
 
 O artigo 1.345 do Código Civil diz que o adquirente de unidade responde pelos débitos do alienante em relação ao condomínio, inclusive multas e juros moratórios. Esse é o ponto de partida. Quem compra um apartamento com dívida de condomínio pode ser cobrado pelo prédio, e depois precisa cobrar do antigo dono.
 
-A jurisprudência, porém, tem nuances. O STJ julgou o REsp 1.345.331/RS na 2ª Seção, em 2015, sob o rito dos recursos repetitivos. A tese mostrou que o que define a responsabilidade é a relação material com o imóvel. Se o comprador de um contrato não registrado recebeu a posse e o condomínio teve ciência inequívoca da transação, o vendedor deixa de responder pelas despesas do período em que o comprador ocupou o imóvel. Em decisões posteriores, algumas turmas do STJ passaram a aceitar a responsabilidade concorrente de comprador e vendedor, mesmo após a posse.
+A jurisprudência, porém, tem nuances. O STJ julgou o tema sob o rito dos recursos repetitivos (Tema 886, 2ª Seção, em 08/04/2015; o recurso paradigma apontado pelas fontes é o REsp 1.345.331/RS). A tese mostrou que o que define a responsabilidade é a relação material com o imóvel. Se o comprador de um contrato não registrado recebeu a posse e o condomínio teve ciência inequívoca da transação, o vendedor deixa de responder pelas despesas do período em que o comprador ocupou o imóvel.
 
-Na prática, a regra é cobrar de quem tem a posse e o vínculo com a unidade, mas o condomínio pode buscar as duas partes. Por isso, no momento da venda, o cuidado é exigir a declaração de quitação do condomínio e combinar no contrato quem paga o quê.
+Na prática, o condomínio costuma cobrar de quem está na posse e no nome do imóvel, e a divisão entre comprador e vendedor depende do caso. Por isso, no momento da venda, o cuidado é exigir a declaração de quitação do condomínio e combinar no contrato quem paga o quê.
 
 ## Quando a cobrança vira execução
 
 As cotas condominiais previstas na convenção ou aprovadas em assembleia, desde que documentalmente comprovadas, são título executivo extrajudicial pelo inciso X do artigo 784 do Código de Processo Civil. Isso significa que o condomínio não precisa de um processo de conhecimento para cobrar. Pode ajuizar execução direta, com base no próprio documento.
 
-Na execução, o devedor é citado para pagar ou indicar bens. Se não pagar, o imóvel pode ser penhorado. A proteção do bem de família, que existe para outras dívidas, não impede a penhora nesse tipo de cobrança, segundo a jurisprudência. Por isso, a dívida de condomínio é uma das que mais levam à perda do imóvel quando se acumula sem acordo.
+Na execução, o devedor é citado para pagar ou indicar bens. Se não pagar, o imóvel pode ser penhorado. Se a execução avançar, a discussão sobre a proteção do bem de família depende do caso concreto e deve ser levada a advogado. Por isso, a dívida de condomínio que se acumula sem acordo pode levar à perda do imóvel.
 
-O prazo para cobrar também tem regra própria. O artigo 206, §5º, I, do Código Civil fixa prescrição de cinco anos para a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Como a cota condominial costuma estar documentada em balancete e convenção, esse prazo é o que vale na maioria dos casos. Não deixe a dívida correr sem negociar.
+O prazo para cobrar também tem regra própria. O artigo 206, §5º, I, do Código Civil fixa prescrição de cinco anos para a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular. Quando a cota está documentada, por exemplo na convenção e nos balancetes aprovados, esse é o prazo a conferir com o advogado. Não deixe a dívida correr sem negociar.
 
 ## O que o condomínio não pode fazer
 
@@ -113,7 +113,7 @@ Se a dívida já está em execução, o prazo para defesa é curto. Procure um a
 ## Resumo e próximos passos
 
 - A taxa atrasada tem multa de até 2%, juros convencionados ou legais e correção (CC, art. 1.336, §1º).
-- Quem compra responde pelos débitos anteriores perante o condomínio (CC, art. 1.345), e a posse e a ciência do prédio podem mudar a divisão entre comprador e vendedor (STJ, REsp 1.345.331/RS).
+- Quem compra responde pelos débitos anteriores perante o condomínio (CC, art. 1.345), e a posse e a ciência do prédio podem mudar a divisão entre comprador e vendedor (STJ, Tema 886).
 - Cotas condominiais documentadas são título executivo (CPC, art. 784, X), e a dívida pode levar à penhora do imóvel.
 - A cobrança prescreve em cinco anos (CC, art. 206, §5º, I).
 - Negocie, peça o demonstrativo e não use restrição de áreas comuns como pressão, porque essa prática não é permitida.

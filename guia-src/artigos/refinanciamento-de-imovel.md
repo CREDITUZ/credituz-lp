@@ -20,8 +20,8 @@ faq:
   - q: "Preciso pagar para trocar de banco?"
     a: "Os custos de transferência não podem ser repassados ao devedor pela regra da portabilidade. Ainda assim, podem existir despesas de avaliação, seguro e registro dependendo do tipo de operação, e elas devem constar na proposta com o CET."
 sources:
-  - title: "Voto do Banco Central que trata da Resolução CMN 5.057/2022 (portabilidade de crédito), vigência em 1º/03/2023"
-    url: "https://normativos.bcb.gov.br/Votos/BCB/20231/Voto_do_BC_1_2023.pdf"
+  - title: "Resolução CMN 5.057/2022 (portabilidade de operações de crédito), arts. 6º, 8º, 15, 16, 20 e 21"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5057-2022_439765.html"
   - title: "Voto 100/2022 do CMN com a minuta de resolução sobre portabilidade de operações de crédito"
     url: "https://normativos.bcb.gov.br/Votos/CMN/2022100/Voto_do_CMN_100_2022.pdf"
   - title: "Resolução CMN 4.292/2013 (revogada pela Resolução CMN 5.057/2022), texto do Banco Central"
@@ -54,13 +54,13 @@ Portabilidade e renegociação são caminhos com menos burocracia. O refinanciam
 
 ## O que a regra da portabilidade garante
 
-Desde 1º de março de 2023, as regras da portabilidade de operações de crédito estão consolidadas na Resolução CMN 5.057/2022. Ela revogou a antiga Resolução CMN 4.292/2013 e reuniu regras que estavam espalhadas em outras normas, segundo o voto do Banco Central que trata da matéria. Alguns pontos que você deve conhecer:
+Desde 1º de março de 2023, as regras da portabilidade de operações de crédito estão consolidadas na Resolução CMN 5.057/2022. Ela revogou a antiga Resolução CMN 4.292/2013 (art. 20, inciso II) e entrou em vigor em 1º de março de 2023 (art. 21). Alguns pontos que você deve conhecer:
 
-- **Valor e prazo:** o valor transferido e o prazo na nova instituição não podem ser superiores ao saldo devedor e ao prazo que restam. Há uma exceção para troca de modalidade de crédito, que não é o caso da troca de banco com o mesmo contrato.
-- **Custos de transferência:** os custos de troca de informações e de transferência não podem ser repassados ao devedor.
-- **Ressarcimento ao banco de origem:** o banco que emprestou originalmente pode cobrar um ressarcimento pelo custo de originação, mas esse valor também não pode ser repassado a você. Em algumas operações, esse ressarcimento é proporcional ao saldo e diminui com o tempo.
-- **Prazo do banco de origem:** o banco que está perdendo a operação tem um prazo curto, de cinco dias úteis, para providenciar a transferência de recursos.
-- **Aumento de prestação:** se a nova parcela ficar maior que a atual, o banco de destino precisa obter concordância formal e específica do cliente.
+- **Valor e prazo:** o valor transferido e o prazo na nova instituição não podem ser superiores ao saldo devedor e ao prazo que restam (art. 6º, caput). Há uma exceção para troca de modalidade de crédito, que não é o caso da troca de banco com o mesmo contrato.
+- **Custos de transferência:** os custos de troca de informações e de transferência não podem ser repassados ao devedor (art. 15).
+- **Ressarcimento ao banco de origem:** o banco que emprestou originalmente pode cobrar um ressarcimento pelo custo de originação, mas esse valor também não pode ser repassado a você (art. 16).
+- **Prazo do banco de origem:** o banco que está perdendo a operação tem um prazo curto, de cinco dias úteis, para providenciar a transferência de recursos (art. 8º).
+- **Aumento de prestação:** se a nova parcela ficar maior que a atual, o banco de destino precisa obter concordância formal e específica do cliente (art. 6º, § 1º).
 
 Esses pontos protegem quem troca de banco. Mas eles não impedem que o novo banco faça uma análise de crédito e exija documentos, e não garantem que a nova taxa será menor. A portabilidade é um direito de troca, não uma promessa de economia.
 
@@ -77,7 +77,7 @@ Esses custos são legítimos, mas precisam aparecer no CET da proposta. Se o con
 
 ## Exemplo ilustrativo: quando a troca se paga
 
-Considere um saldo de R$ 300 mil, com 300 meses restantes. O exemplo abaixo ignora a TR para simplificar, e serve só para comparar a taxa atual com uma taxa nova. Em operações reais, a TR entra no cálculo.
+Considere um saldo de R$ 300 mil, com 300 meses restantes. O exemplo abaixo ignora a TR para simplificar, e serve só para comparar a taxa atual com uma taxa nova. Em operações reais, a TR entra no cálculo. As parcelas seguem a tabela Price, com taxa mensal equivalente à taxa anual.
 
 | Cenário | Taxa anual (exemplo) | Parcela (exemplo) | Economia por mês |
 |---|---|---|---|

@@ -22,10 +22,10 @@ faq:
 sources:
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), arts. 30, 34, 35, 36, 37 e 38"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "TJDFT, 5ª Turma Cível: construtoras condenadas por publicidade enganosa de empreendimento em Goiás (notícia de 22/06/2016)"
+  - title: "TJDFT, 5ª Turma Cível: construtoras condenadas por publicidade enganosa em Valparaíso de Goiás (notícia de 22/06/2016)"
     url: "https://www.diariodasleis.com.br/blog/bdi/noticia/construtoras-sao-condenadas-a-indenizar-por-publicidade-enganosa-em-contrato-imobiliario"
-  - title: "Código Civil (Lei 10.406/2002), art. 1.345: responsabilidade do adquirente por débitos do condomínio (texto conferido em compilação)"
-    url: "https://www.legjur.com/legislacao/art/LEI_00104062002-1345"
+  - title: "Conar: canal público de denúncias contra anúncios (notícia)"
+    url: "https://www.meioemensagem.com.br/comunicacao/conar-abre-canal-de-denuncias-ao-publico-via-whatsapp"
   - title: "Consumidor.gov.br: como funciona o serviço"
     url: "https://www.consumidor.gov.br/pages/conteudo/publico/1"
 related: [codigo-de-defesa-do-consumidor-e-imovel, metragem-menor-que-a-prometida, procon-e-imovel, desistir-da-compra-arrependimento]
@@ -48,7 +48,7 @@ A publicidade abusiva, prevista no §2º do mesmo artigo, é outra coisa. Ela ex
 | Informação falsa | enganosa (§1º) | vaga de garagem privativa que não existe |
 | Omissão de dado essencial | enganosa por omissão (§3º) | área de lazer que não consta do projeto aprovado |
 | Exagero comum de venda | em geral não enganosa | "o melhor bairro da cidade", sem dados objetivos |
-| Discriminação ou medo | abusiva (§2º) | anúncio que explora medo de perder a oportunidade de forma ofensiva |
+| Discriminação ou exploração do medo | abusiva (§2º) | anúncio que explora o medo ou a superstição, ou discrimina alguém |
 
 Exagero de vendedor, como "o melhor bairro da cidade", costuma ser tratado como opinião. O problema começa quando o anúncio traz dado objetivo que não existe no imóvel.
 
@@ -102,7 +102,7 @@ Se houver risco de perder prazo, como no caso de um distrato, procure orientaç�
 
 Em casos de propaganda enganosa, o pedido pode envolver dano material, como a diferença de valor entre o prometido e o entregue, e dano moral, quando há abalo relevante. A Justiça decide caso a caso.
 
-Um exemplo é o julgamento da 5ª Turma Cível do TJDFT, noticiado em 2016, em que construtoras foram condenadas por folder que prometia vaga privativa, quadra e lazer privativos e isenção de ITBI, mas entregou vagas rotativas e área de lazer em terreno público. Naquele caso, a decisão reconheceu a publicidade enganosa e determinou ressarcimentos, mas não reconheceu dano moral. O resultado, portanto, varia muito de caso para caso.
+Um exemplo é o caso do Edifício Residencial Rossi, em Valparaíso de Goiás, julgado pela 5ª Turma Cível do TJDFT e noticiado em 22/06/2016. A publicidade prometia vaga privativa, lazer privativo e isenção de ITBI, mas os compradores receberam vagas rotativas, área de lazer em terreno público e pagaram o imposto. A condenação incluiu ressarcimentos e devolução em dobro do ITBI, mas o dano moral não foi reconhecido, porque o tribunal entendeu que a situação estava dentro dos aborrecimentos da vida em sociedade. O resultado, portanto, varia muito de caso para caso.
 
 ## Erros comuns
 

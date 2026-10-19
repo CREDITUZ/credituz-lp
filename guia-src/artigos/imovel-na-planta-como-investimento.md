@@ -16,14 +16,14 @@ faq:
   - q: "Como é a revenda de um imóvel na planta?"
     a: "Em geral, por cessão de direitos do contrato de compra e venda. Você transfere a sua posição a outra pessoa, que assume as parcelas restantes. A construtora costuma precisar concordar e pode cobrar uma taxa."
   - q: "Quanto de imposto eu pago ao revender?"
-    a: "Em regra, o ganho de capital de pessoa física é tributado em 15% sobre a parcela até R$ 5 milhões, conforme a Lei 13.259/2016. Além disso, o ITBI da cessão depende do município, e o STF ainda não fixou a tese sobre isso."
+    a: "Em regra, o ganho de capital de pessoa física é tributado em 15% sobre a parcela até R$ 5 milhões, conforme a Lei 13.259/2016. Além disso, o ITBI da cessão depende do município, e o STF ainda não concluiu o julgamento do Tema 1124 sobre a cessão de direitos."
   - q: "Posso desistir se o mercado cair?"
     a: "A desistência tem regras próprias, como a Lei do Distrato (Lei 13.786/2018), e as retenções previstas nela. Leia o contrato e o quadro-resumo antes de assinar, porque o custo de desistir pode ser alto."
 sources:
   - title: "Lei 13.259/2016 (alíquotas de ganho de capital de pessoa física, art. 21 da Lei 8.981/1995)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13259.htm"
-  - title: "STF, Tema 1124: incidência de ITBI sobre cessão de direitos (notícia de 1º/09/2022)"
-    url: "https://www.diariodasleis.com.br/blog/bdi/noticia/incidencia-de-itbi-sobre-cessao-de-direitos-sera-reexaminada-pelo-supremo"
+  - title: "Coluna sobre o Tema 1124 do STF (ITBI na cessão de direitos), publicada em 21/10/2025"
+    url: "https://netcpa.com.br/colunas/futuro-da-incidencia-do-itbi-stf-e-plp-108-decidirao-se-cessoes-de-direitos-serao-tributadas/26584"
   - title: "Lei 13.786/2018 (Lei do Distrato)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm"
 related: [imovel-na-planta-ou-pronto, distrato-imovel-na-planta, juros-de-obra, atraso-na-entrega-do-imovel]
@@ -35,7 +35,7 @@ Comprar um imóvel na planta para revendê-lo antes da entrega é uma estratégi
 
 Quem compra na planta e revende antes da entrega ganha quando consegue vender por mais do que pagou, somando tudo o que colocou no imóvel. A conta precisa considerar o dinheiro que ficou parado, porque ele poderia estar rendendo numa aplicação de renda fixa.
 
-Uma boa forma de começar é escolher o CDI como referência. Em outubro de 2026, o CDI estava em 13,65% ao ano. Se o retorno da revenda não superar isso, depois de impostos e custos, você teria ganhado mais deixando o dinheiro aplicado e sem o risco da obra.
+Uma boa forma de começar é escolher o CDI como referência. O CDI de referência é de 13,65% ao ano, compatível com a Selic de 13,75% definida pelo Copom em 16/09/2026, segundo a imprensa. O valor do CDI não foi conferido em fonte de cotação. Se o retorno da revenda não superar isso, depois de impostos e custos, você teria ganhado mais deixando o dinheiro aplicado e sem o risco da obra.
 
 ## O que você desembolsa até revender
 
@@ -61,7 +61,7 @@ Quando você vende um direito sobre imóvel com lucro, o ganho de capital é tri
 
 O ganho é a diferença entre o valor de venda da cessão e o que você efetivamente pagou, e não o preço de tabela do imóvel. Esse ponto é importante porque o cálculo do ganho depende de comprovação dos pagamentos feitos.
 
-Há também o ITBI, imposto municipal de transmissão. Ele é cobrado em muitas cidades sobre a cessão de direitos, mas a aplicação não é uniforme. O Supremo Tribunal Federal reconheceu a repercussão geral do Tema 1124 para discutir essa incidência, e a matéria ainda não tinha tese definitiva no momento das fontes consultadas. Consulte a legislação da cidade e um contador ou advogado antes de calcular a operação.
+Há também o ITBI, imposto municipal de transmissão. Ele é cobrado em muitas cidades sobre a cessão de direitos, mas a aplicação não é uniforme. O Supremo Tribunal Federal tem o Tema 1124 em repercussão geral para discutir essa incidência. Segundo coluna publicada em 21/10/2025, o julgamento segue pendente e sem tese nova, e a tese anterior, do ARE 1.294.969/SP, vincula o fato gerador ao registro da transferência. Consulte a legislação da cidade e um contador ou advogado antes de calcular a operação.
 
 ## Exemplo ilustrativo: quanto a revenda precisa render
 
@@ -76,9 +76,9 @@ Considere um comprador que pagou R$ 120 mil em 24 meses, com as parcelas da obra
 | ITBI de 3% sobre o preço (exemplo) | Não cobrado | R$ 4.500 |
 | Valor líquido recebido | R$ 145.500 | R$ 141.000 |
 
-Agora compare com o que os mesmos R$ 120 mil renderiam numa aplicação atrelada a 100% do CDI, mantido em 13,65% ao ano por 24 meses, com IR de 15% por prazo acima de 720 dias. O valor líquido final seria de cerca de R$ 149.500.
+Agora compare com o que os mesmos R$ 120 mil renderiam numa aplicação atrelada a 100% do CDI, mantido em 13,65% ao ano por 24 meses, com IR de 15% por prazo acima de 720 dias. O valor líquido final seria de cerca de R$ 149.700.
 
-Para empatar com essa aplicação, o preço da cessão teria de ficar em torno de R$ 154.700 sem ITBI, ou perto de R$ 160.300 com ITBI de 3%. Isso significa um prêmio de cerca de 29% a 34% sobre o valor pago, para uma operação que depende de a construtora aceitar a cessão e de o mercado estar aquecido no momento da venda.
+Para empatar com essa aplicação, o preço da cessão teria de ficar em torno de R$ 155.000 sem ITBI, ou perto de R$ 160.700 com ITBI de 3%. Isso significa um prêmio de cerca de 29% a 34% sobre o valor pago, para uma operação que depende de a construtora aceitar a cessão e de o mercado estar aquecido no momento da venda.
 
 Esse é o ponto central: a revenda de um imóvel na planta precisa de um prêmio alto para justificar o risco e a espera. Se o prêmio depender de um mercado aquecido, a conta fica frágil.
 
