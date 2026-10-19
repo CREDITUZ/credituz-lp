@@ -4,7 +4,7 @@ description: "Calcule a rentabilidade real de comprar imóvel para alugar: vacâ
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 9
 key_points:
   - "A rentabilidade bruta média do aluguel residencial era de 6,13% ao ano em setembro de 2026, segundo o FipeZap. Depois dos custos, sobra bem menos."
   - "No exemplo de R$ 400 mil, a rentabilidade líquida do primeiro ano caiu para 4,2% sem IR e 2,9% para quem paga IR na alíquota de 27,5%."

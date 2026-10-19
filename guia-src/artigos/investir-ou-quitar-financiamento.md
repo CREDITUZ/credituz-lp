@@ -4,7 +4,7 @@ description: "Compare a taxa do financiamento imobiliário com o rendimento líq
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A comparação certa é o custo efetivo do financiamento (juros mais TR e seguros) contra o rendimento do investimento depois do imposto de renda."
   - "Num contrato de 11,4% ao ano mais TR, amortizar R$ 50 mil rendeu mais que investir a 100% do CDI em todos os cenários testados."
