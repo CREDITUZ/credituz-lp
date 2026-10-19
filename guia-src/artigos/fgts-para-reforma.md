@@ -7,21 +7,21 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "O FGTS (Fundo de Garantia do Tempo de Serviço) não paga reforma, ampliação nem compra de material de construção para um imóvel que você já tem ou está comprando."
-  - "Na amortização ou quitação, o valor sacado exclui o que foi usado em reforma, ampliação, taxas e impostos."
+  - "O manual proíbe usar o FGTS para taxas, impostos e demais despesas na aquisição (item 1.4), e a exclusão de reforma e ampliação aparece expressamente no consórcio (item 15.2.1)."
   - "A única forma de usar o fundo ligado à obra é na construção de casa em terreno seu ou na compra de terreno com construção, dentro de uma operação de financiamento."
-  - "O programa federal Reforma Casa Brasil, lançado em 2025, não usa o saldo do FGTS do trabalhador, segundo a imprensa."
+  - "O programa federal Reforma Casa Brasil, lançado em 2025, não aceita o saldo do FGTS, segundo declaração do ministro das Cidades em outubro de 2025."
   - "Antes de contar com o fundo para a obra, separe o que é compra, o que é construção e o que é reforma no orçamento."
 faq:
   - q: "Posso usar o FGTS para reformar o banheiro da casa que comprei?"
     a: "Não. O FGTS paga a aquisição do imóvel residencial, não obras feitas depois dela. A reforma precisa vir de outra fonte, como recursos próprios ou uma linha de crédito específica."
   - q: "Se eu financiar a reforma junto com a compra, o FGTS cobre?"
-    a: "Não cobre a parte da reforma. Na amortização, o manual exclui do valor sacado o que foi usado em reforma e ampliação, além de taxas e impostos."
+    a: "Não cobre a parte da reforma. O FGTS paga a aquisição do imóvel, e o manual proíbe o uso do fundo para taxas, impostos e demais despesas da aquisição (item 1.4). Peça ao banco que separe, no contrato, o valor da compra do valor da obra."
   - q: "Posso usar o FGTS para construir um anexo na minha casa?"
     a: "Só se a obra for parte de uma construção financiada ou autofinanciada no SFH para o seu imóvel. Ampliação feita por conta própria, sem essa operação, não é aceita."
   - q: "O Reforma Casa Brasil aceita FGTS?"
-    a: "Segundo a reportagem que consultei, o saldo do trabalhador não entra no programa. Confira as condições atuais no site oficial do programa ou na Caixa antes de decidir."
+    a: "Não. O ministro das Cidades disse em outubro de 2025 que o FGTS não pode ser usado na linha de crédito. Confira as condições atuais na Caixa antes de decidir."
 sources:
-  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 12.2, 13.1, 13.6.5 e 15.2.1 (fgts.gov.br)"
+  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 1.4, 12.2, 13.1, 13.5.1, 13.6.5 e 15.2.1 (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, art. 20, VII (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm"
@@ -29,6 +29,10 @@ sources:
     url: "https://sbtnews.sbt.com.br/noticia/brasil/minha-casa-minha-vida-governo-reduz-juros-do-reforma-casa-brasil-e-amplia-prazo-para-pagamento"
   - title: "FGTS fica fora do Reforma Casa Brasil, confirma governo federal (Meu Tudo, 21/10/2025)"
     url: "https://meutudo.com.br/blog/noticias/2025/10/21/fgts-fica-fora-do-reforma-casa-brasil-confirma-governo-federal/"
+  - title: "Ministro das Cidades: FGTS não poderá ser utilizado no Reforma Casa Brasil (Itatiaia, 20/10/2025)"
+    url: "https://www.itatiaia.com.br/politica/fgts-nao-podera-ser-usado-no-reforma-casa-brasil-esclarece-governo/"
+  - title: "Portaria consolidada do Reforma Casa Brasil, Ministério das Cidades (arquivo SEI, com marca 'Portaria Minuta')"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/habitacao/reforma-casa-brasil/arquivos/SEI_6686090_Portaria_Minuta.pdf"
 related: [fgts-para-construir, fgts-para-amortizar-financiamento, fgts-na-compra-do-imovel, fgts-imovel-usado]
 ---
 
@@ -50,7 +54,7 @@ O manual exige que o imóvel seja residencial urbano e sirva de moradia para o t
 | Ampliação de casa ou apartamento | Não | Inclusive quando o imóvel fica maior |
 | Material de construção | Não | Tijolo, cimento e acabamento comprados em separado |
 | Reforma financiada junto com a compra | Não, para essa parte | O valor da reforma sai do saque na amortização ou quitação |
-| Taxas e impostos da operação | Não | O manual também exclui taxas e impostos do valor sacado na amortização |
+| Taxas e impostos da operação | Não | Item 1.4 do manual proíbe o uso do FGTS para taxas, impostos e demais despesas na aquisição ou portabilidade |
 | Obra de casa nova em terreno seu | Sim, dentro da operação | Exige financiamento ou autofinanciamento formal, como explicado em [FGTS para construir](/artigos/fgts-para-construir) |
 
 Essa tabela vale para o uso do FGTS na moradia. Não muda a regra de quem reforma o imóvel com o próprio dinheiro.
@@ -63,7 +67,7 @@ Existem três situações em que a reforma aparece na conta do financiamento, e 
 
 **2. Reforma depois da compra.** Você pode fazer a obra depois de ter a casa e financiada. O fundo não entra nela. Se você quiser usar o saldo para amortizar, o valor sacado será o da amortização, não o da obra.
 
-**3. Averbação de construção antiga.** Se a casa foi ampliada sem registro, a construção precisa estar averbada na matrícula para o FGTS ser aceito na compra (item 13.5.1 do manual). Esse ajuste é responsabilidade do vendedor, e a [página sobre FGTS para imóvel usado](/artigos/fgts-imovel-usado) explica o que o banco confere.
+**3. Averbação de construção antiga.** Se a casa foi ampliada sem registro, a construção precisa estar averbada na matrícula para o FGTS ser aceito na compra (item 13.5.1 do manual). A [página sobre FGTS para imóvel usado](/artigos/fgts-imovel-usado) explica o que o banco confere.
 
 ## Exemplo ilustrativo: compra com reforma no mesmo contrato
 
@@ -80,11 +84,11 @@ Nesse caso, o saldo do fundo entra na compra, e a reforma precisa ser paga por f
 
 ## Reforma Casa Brasil
 
-O Reforma Casa Brasil é um programa federal de crédito para reforma, ampliação e melhoria de moradias que já existem. Foi anunciado em outubro de 2025 e recebeu mudanças em maio de 2026. Segundo a reportagem do SBT News de 6 de maio de 2026, o juro caiu para 0,82% ao mês e o prazo subiu para até 72 meses. A mesma reportagem não informa os valores máximos nem as faixas de renda, que passaram a acompanhar as atualizações do Ministério das Cidades.
+O Reforma Casa Brasil é um programa federal de crédito para reforma, ampliação e melhoria de moradias que já existem, dentro do Minha Casa, Minha Vida. A portaria que o regulamenta é de 8 de outubro de 2025, com alterações de 23 de outubro de 2025 e de 8 de maio de 2026. Consultei a versão consolidada publicada pelo Ministério das Cidades. Nela, o financiamento vai de R$ 10.000 a R$ 50.000, a renda familiar bruta pode ser de até R$ 13.000 e o prazo vai de 36 a 72 meses. Essa versão fixa a taxa em 0,99% ao mês. A imprensa, porém, relata que o juro caiu para 0,82% ao mês em maio de 2026 (SBT News, 6 de maio de 2026). Como os números não batem, confirme a taxa vigente na Caixa. O documento também traz a marca "Portaria Minuta" no rodapé, então vale checar a publicação oficial.
 
-Quanto ao FGTS, a notícia do Meu Tudo, de outubro de 2025, diz que o saldo do trabalhador não pode ser usado para pagar parcelas nem a entrada do programa. Essa informação é de imprensa e não consegui confirmá-la no site oficial, então confira antes de contar com ela.
+Quanto ao FGTS, o ministro das Cidades afirmou em 20 de outubro de 2025, em coletiva reportada pelo Itatiaia, que o fundo não pode ser usado nessa linha de crédito, nem para pagar parcelas, nem para complementar o financiamento. A portaria consolidada que consultei não menciona o FGTS.
 
-Para comparar, um financiamento de R$ 40.000 em 36 meses a 0,82% ao mês, valor usado só como referência, daria parcelas de cerca de R$ 1.287,68 e um total de cerca de R$ 46.356,65 pagos. Se a sua obra for pequena, a conta pode fechar com economia. Use o [simulador de financiamento](/simulador) para testar outros prazos.
+Para comparar, um financiamento de R$ 40.000 em 36 meses, valor usado só como referência, daria parcelas de R$ 1.326,28 a 0,99% ao mês (total de R$ 47.746,12) ou de R$ 1.287,68 a 0,82% ao mês (total de R$ 46.356,65). Se a sua obra for pequena, a conta pode fechar com economia. Use o [simulador de financiamento](/simulador) para testar outros prazos e taxas.
 
 ## Como planejar a obra sem contar com o fundo
 
@@ -122,7 +126,7 @@ Isso importa porque o saldo do fundo tem um valor de uso. Se você deixar uma pa
 ## Resumo e próximos passos
 
 - O FGTS não paga reforma, ampliação nem material de construção na casa própria.
-- Na amortização ou quitação, o valor sacado exclui a reforma, a ampliação, taxas e impostos.
+- O FGTS não paga taxas e impostos da aquisição (item 1.4 do manual), e a obra fica fora da operação de compra.
 - A obra pode entrar só na construção de casa nova dentro de uma operação formal de financiamento.
 - O Reforma Casa Brasil, segundo a imprensa, não usa o saldo do FGTS do trabalhador.
 

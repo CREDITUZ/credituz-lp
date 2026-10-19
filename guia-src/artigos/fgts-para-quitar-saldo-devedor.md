@@ -49,11 +49,11 @@ O manual da Caixa (item 15.1) aceita a quitação de financiamento de imóvel re
 | Data do contrato | Enquadramento aceito | Regra de valor |
 |---|---|---|
 | Até 11/06/2021 | Só dentro do SFH | Normas do SFH da data da concessão |
-| A partir de 12/06/2021 | Dentro ou fora do SFH | Avaliação dentro do limite do SFH na data da compra |
+| A partir de 12/06/2021 | Dentro ou fora do SFH | Avaliação dentro do teto do SFH na data de assinatura do contrato (Resolução CCFGTS 994, art. 10) |
 
 A abertura para contratos fora do SFH veio da Resolução 994/2021 do Conselho Curador do FGTS. Contratos fora do SFH mais antigos só entram se o banco aceitar reenquadrá-los no SFH, com nova avaliação e aditivo ao contrato (item 16.1 do manual).
 
-O limite de valor mudou em 2025. O CMN (Conselho Monetário Nacional) subiu o teto de avaliação do SFH para R$ 2,25 milhões em 10 de outubro de 2025, pela Resolução 5.255. Em 26 de novembro de 2025, o Conselho Curador ajustou a regra para que esse teto valha para contratos de qualquer data, segundo a Agência Brasil. Na prática, imóveis avaliados em até R$ 2,25 milhões passaram a aceitar o FGTS na quitação, mesmo em contratos assinados quando o teto era menor.
+O limite de valor mudou em 2025. A Resolução CMN 5.255, de 10/10/2025, fixou em R$ 2,25 milhões o limite de avaliação do imóvel no SFH. A versão consultada da norma não traz o teto anterior, então não afirmo se houve alta. Em 26/11/2025, o Conselho Curador do FGTS decidiu que esse teto vale para contratos de qualquer data, segundo O Povo, que reproduz a Agência Brasil. Na prática, imóveis avaliados em até R$ 2,25 milhões aceitam o FGTS na quitação, inclusive em contratos assinados antes da mudança.
 
 Há ainda uma trava importante: desde 9 de setembro de 2021, quem tem mais de um financiamento ativo no SFH não pode usar o FGTS em nenhum deles (item 8.5 do manual).
 
@@ -75,15 +75,15 @@ Nas regras de cidade, o que conta é onde você mora e trabalha hoje. Se você s
 
 Para amortizar, as parcelas precisam estar em dia. Para quitar, não. O manual (itens 15.1.5.2 e 15.1.5.2.1) admite prestações em atraso na liquidação: o saque cobre o saldo devedor total mais as parcelas vencidas, atualizadas.
 
-Isso pode salvar um contrato em risco, desde que o saldo do FGTS seja grande o bastante. Se não for, há a modalidade específica para parcelas atrasadas, com limite de 6 prestações vencidas, explicada em [FGTS para pagar parcelas atrasadas](/artigos/fgts-pagar-prestacoes-atrasadas). Em contratos com alienação fiduciária, o atraso prolongado pode levar à perda do imóvel, então não espere o problema crescer.
+Isso pode salvar um contrato em risco, desde que o saldo do FGTS seja grande o bastante. Se não for, há uma modalidade específica para prestações atrasadas, explicada em [FGTS para pagar parcelas atrasadas](/artigos/fgts-pagar-prestacoes-atrasadas). Em contratos com alienação fiduciária, o atraso prolongado pode levar à perda do imóvel, então não espere o problema crescer.
 
 ## Juntando saldos para fechar a conta
 
 O valor necessário para quitar costuma ser maior do que o saldo de uma pessoa só. Há três fontes que muita gente esquece:
 
-1. **Contas de empregos antigos.** Todas as contas com saldo disponível entram, inclusive as inativas. Veja como achá-las em [FGTS de conta inativa](/artigos/fgts-de-conta-inativa).
+1. **Contas de empregos antigos.** Entram as contas de tipo aceito pelo manual, inclusive as inativas. Veja como achá-las em [FGTS de conta inativa](/artigos/fgts-de-conta-inativa).
 2. **O FGTS do outro comprador.** Cada pessoa que consta no contrato e cumpre os requisitos pode usar o próprio saldo.
-3. **A distribuição de lucro do fundo.** Em agosto de 2026, o FGTS começou a creditar parte do lucro de 2025 nas contas, proporcional ao saldo de 31/12/2025, segundo a imprensa. Confira o saldo atualizado antes de pedir a simulação.
+3. **A distribuição de lucro do fundo.** O Conselho Curador aprovou o balanço de 2025 em 28/07/2026, segundo o site oficial do FGTS. Segundo a imprensa, o crédito, proporcional ao saldo de 31/12/2025, estava previsto para a primeira quinzena de agosto. O site oficial não informa valor nem data do crédito, então confira o saldo atualizado antes de pedir a simulação.
 
 Se o saldo bloqueado por antecipação do saque-aniversário estiver segurando parte do dinheiro, ele não entra. Saldo bloqueado não é liberado para a quitação.
 
@@ -107,7 +107,7 @@ Para calcular o seu caso, peça ao banco o saldo devedor para a data exata da qu
 
 ## O valor exato: juros do dia e seguros
 
-O saldo devedor muda todo dia. Se a quitação acontece fora da data de aniversário do contrato, há juros proporcionais aos dias corridos. O manual (item 15.1.5.3) permite que esses juros também sejam pagos com o FGTS, com uma declaração do banco informando o saldo e os juros. No exemplo acima, 12 dias de juros sobre R$ 68.000 a 10,5% ao ano dariam cerca de R$ 226,69. Por isso, peça ao banco o valor para a data provável do crédito, e não o saldo do último boleto.
+O saldo devedor muda todo dia. Se a quitação acontece fora da data de aniversário do contrato, há juros proporcionais aos dias corridos. O manual (item 15.1.5.3) permite que esses juros também sejam pagos com o FGTS, com uma declaração do banco informando o saldo e os juros. No exemplo acima, 12 dias de juros sobre R$ 68.000 a 10,5% ao ano, em juros simples sobre 365 dias, dariam cerca de R$ 234,74. Por isso, peça ao banco o valor para a data provável do crédito, e não o saldo do último boleto.
 
 O manual também prevê usar o FGTS para pagar saldo residual em situações específicas de contratos já liquidados (item 15.1.6) e para pagar a última parcela depois de uma redução de prazo, respeitado o intervalo de 2 anos (item 15.1.7). Se o seu caso for um desses, o banco indica a modalidade.
 

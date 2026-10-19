@@ -31,6 +31,8 @@ sources:
     url: "https://www.santander.com.br/blog/o-que-e-fgts-inativo"
   - title: "Distribuição de R$ 13,04 bilhões do lucro do FGTS a trabalhadores (Movimento Econômico, 28/07/2026)"
     url: "https://movimentoeconomico.com.br/economia/2026/07/28/fgts-distribuira-r-13-bilhoes-do-lucro-de-2025-a-1382-milhoes-de-trabalhadores/"
+  - title: "FGTS, página inicial: card Balanço e Distribuição dos Resultados FGTS 2025 (aprovação em 28/07/2026)"
+    url: "https://www.fgts.gov.br/"
 related: [consultar-saldo-fgts, fgts-na-compra-do-imovel, fgts-para-quitar-saldo-devedor, documentos-para-usar-fgts]
 ---
 
@@ -59,7 +61,7 @@ Isso significa que um emprego antigo de dois anos e um atual de um ano e meio po
 
 ## Distribuição de lucro também vale para a conta inativa
 
-Em julho de 2026, o Conselho Curador do FGTS aprovou a distribuição de R$ 13,04 bilhões do lucro de 2025 aos trabalhadores, segundo a imprensa. O crédito é proporcional ao saldo de cada conta em 31/12/2025, e o Movimento Econômico informou que vale para contas ativas e inativas. O índice informado foi de 0,01868341, o que acrescenta cerca de 1,87% ao saldo.
+Em 28/07/2026, o Conselho Curador do FGTS aprovou o balanço de 2025, segundo o site oficial do fundo. A imprensa informa que a distribuição soma R$ 13,04 bilhões, com crédito proporcional ao saldo de cada conta em 31/12/2025, válido para contas ativas e inativas. Segundo o Movimento Econômico, o índice é de 0,01868341, cerca de 1,87% do saldo, com crédito previsto para a primeira quinzena de agosto. O valor e a data do crédito não aparecem na página oficial que consultei, então confira no extrato.
 
 Exemplo ilustrativo: uma conta inativa com R$ 9.250 em 31/12/2025 receberia cerca de R$ 172,82 (9.250 × 0,01868341). O valor exato depende da data e do cálculo do fundo, então confira no extrato.
 
@@ -116,7 +118,7 @@ Para a moradia, o caminho é outro: o saldo entra na operação de compra, entra
 
 ## O que muda com a distribuição de lucro
 
-O saldo da conta inativa cresce com a correção do fundo e com a distribuição de lucro. Em 2026, o crédito aprovado pelo Conselho Curador seguiu a regra de proporção ao saldo de 31/12/2025, o que beneficia também as contas antigas. Por isso, o saldo de uma conta inativa pode ter subido sem que você tenha feito nada, e vale consultar o extrato antes de fechar a simulação.
+O saldo da conta inativa cresce com a correção do fundo e com a distribuição de lucro. Segundo a imprensa, o crédito segue a regra de proporção ao saldo de 31/12/2025, o que beneficia também as contas antigas. Por isso, o saldo de uma conta inativa pode ter subido sem que você tenha feito nada, e vale consultar o extrato antes de fechar a simulação.
 
 Esses créditos entram para a conta, não para a moradia diretamente. Eles só são usados se a conta for movimentada na operação. Veja em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) como o banco usa o saldo total.
 

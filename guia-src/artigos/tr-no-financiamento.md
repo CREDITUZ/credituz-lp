@@ -15,7 +15,7 @@ faq:
   - q: "O que é a TR no financiamento imobiliário?"
     a: "É a Taxa Referencial, um índice calculado pelo Banco Central que atualiza o saldo devedor todo mês nos contratos com recursos da poupança. A taxa de juros fixa do contrato incide sobre o saldo já corrigido."
   - q: "Quanto está a TR em outubro de 2026?"
-    a: "A TR mensal de referência de outubro de 2026 ficou em 0,1616%, e o acumulado de 12 meses estava em cerca de 2%, segundo a série do Banco Central compilada pelo Brasil Indicadores."
+    a: "A TR mensal de referência de outubro de 2026 ficou em 0,16%, e o acumulado de 12 meses estava em cerca de 2%, segundo a série do Banco Central compilada pelo Brasil Indicadores, que publica a taxa com duas casas decimais."
   - q: "A TR pode ficar negativa?"
     a: "Não. A fórmula do Banco Central tem piso de zero. Quando o cálculo daria um número negativo, a TR fica zerada, como aconteceu entre setembro de 2017 e novembro de 2021."
   - q: "Dá para tirar a TR do meu contrato?"

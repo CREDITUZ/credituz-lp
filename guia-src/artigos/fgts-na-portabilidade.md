@@ -35,6 +35,8 @@ sources:
     url: "https://novo.brb.com.br/wp-content/uploads/2026/06/PROPOSTA-PORTABILIDADE-IMOB_06.2026.pdf"
   - title: "PL permite que FGTS seja utilizado em financiamentos celebrados fora do SFH (IRIB, 12/08/2026)"
     url: "https://www.irib.org.br/pl-permite-que-fgts-seja-utilizado-em-financiamentos-celebrados-fora-do-sfh/"
+  - title: "Projeto reduz para 12 meses o intervalo para usar o FGTS no financiamento, PL 2.568/2026 (Sou Brasília, 11/08/2026)"
+    url: "https://soubrasilia.com/pl-2568-2026-fgts-12-meses-amortizacao-financiamento-imobiliario-camara/"
 related: [portabilidade-financiamento-imobiliario, fgts-para-amortizar-financiamento, sfh-e-sfi, fgts-pagar-prestacoes-atrasadas]
 ---
 
@@ -64,7 +66,7 @@ Se você pediu a amortização com FGTS e o dinheiro já foi debitado da sua con
 
 ### Parcelas pagas pelo FGTS
 
-A modalidade de pagamento de parte das prestações bloqueia um valor que cobre até 80% de cada parcela por 12 meses. Se você portar no meio desse período, o item 7.1.2 do manual exige que os bancos garantam o abatimento pelo prazo mínimo de 12 meses do contrato original. Peça ao banco novo que diga, por escrito, como as parcelas restantes serão abatidas.
+Na modalidade de pagamento de parte das prestações, o FGTS cobre até 80% de cada parcela por 12 meses. Se você portar no meio desse período, o item 7.1.2 do manual exige que os bancos garantam o abatimento pelo prazo mínimo de 12 meses do contrato original. Peça ao banco novo que diga, por escrito, como as parcelas restantes serão abatidas.
 
 ## O intervalo de 2 anos não recomeça
 
@@ -77,7 +79,7 @@ Duas consequências práticas:
 
 Se o contrato tem dois compradores, cada um tem o próprio prazo. Um coobrigado que não usou o FGTS nos últimos 2 anos pode amortizar no banco novo mesmo que o outro tenha amortizado há pouco (item 5.2.1 do manual).
 
-Em maio de 2026, o PL 2.568/2026 foi apresentado na Câmara para reduzir esse intervalo para 12 meses e permitir o uso em qualquer financiamento fora do SFH. Em agosto de 2026, aguardava relator na Comissão de Trabalho. Enquanto não virar lei, vale a regra atual.
+Em 22/05/2026, o deputado Gilson Marques apresentou na Câmara o PL 2.568/2026, que reduz esse intervalo para 12 meses e permite o uso em financiamentos fora do SFH, como os de carteira hipotecária. Segundo a notícia de 12/08/2026, o projeto aguardava a designação de relator na Comissão de Trabalho. Não consegui abrir a tramitação na Câmara, então o status atual pode ter mudado. Enquanto não virar lei, vale a regra atual.
 
 ## Exemplo: portar com e sem amortizar antes
 
@@ -90,21 +92,21 @@ Exemplo ilustrativo, com taxas hipotéticas e sem seguros, tarifas, TR e custos 
 | Amortizar R$ 30.000 e portar, mantendo o prazo | R$ 250.000 | 240 meses | R$ 3.130,46 | R$ 251.699,06 |
 | Amortizar R$ 30.000 e portar, reduzindo o prazo | R$ 250.000 | 214 meses | R$ 3.257,01 | R$ 224.544,81 |
 
-Só a troca de taxa reduz os juros futuros em R$ 38.248,92. Somar a amortização com FGTS e reduzir o prazo leva a economia para R$ 95.607,06 em relação a não fazer nada. A ordem também importa por outro motivo: se você amortiza antes, o banco novo financia um valor menor e a avaliação de risco fica mais confortável.
+Só a troca de taxa reduz os juros futuros em R$ 38.248,92. Somar a amortização com FGTS e reduzir o prazo leva a economia para R$ 95.607,06 em relação a não fazer nada. Além disso, amortizar antes faz o banco novo financiar um valor menor.
 
 O mesmo efeito de juros aparece se você portar primeiro e amortizar no banco novo logo depois, desde que o intervalo de 2 anos já tenha passado. A diferença é operacional: amortizar antes exige esperar o abatimento no banco atual; amortizar depois exige que o banco novo opere o FGTS e processe o pedido. Teste o seu caso no [simulador de financiamento](/simulador).
 
 ## Cuidados com o banco novo
 
 - **Ele opera o FGTS?** Para receber o saldo do fundo, o banco precisa atuar como agente financeiro do FGTS. A maioria dos grandes bancos atua, mas confirme antes, principalmente com instituições menores.
-- **Ele aceita o seu tipo de contrato?** Contratos feitos com recursos do próprio FGTS, como os do Minha Casa, Minha Vida, costumam ter taxa subsidiada. Algumas propostas de portabilidade excluem expressamente os contratos com recursos do FGTS, e isso costuma estar nas condições de cada banco. Pergunte antes de pagar avaliação.
-- **Valor e prazo.** Pela Resolução 5.057/2022 (art. 6º), o novo contrato não pode ter valor nem prazo maiores que o saldo devedor e o prazo que faltam. Se você queria alongar o prazo, isso não acontece na portabilidade.
-- **Parcelas em atraso.** Se há atraso, resolva antes. O FGTS pode cobrir até 6 parcelas atrasadas em uma modalidade própria, explicada em [FGTS para pagar parcelas atrasadas](/artigos/fgts-pagar-prestacoes-atrasadas).
+- **Ele aceita o seu tipo de contrato?** Contratos feitos com recursos do próprio FGTS, como os do Minha Casa, Minha Vida, costumam ter taxa subsidiada. Alguns bancos podem excluir expressamente os contratos com recursos do FGTS nas condições da proposta. Pergunte antes de pagar avaliação.
+- **Valor e prazo.** Pela Resolução 5.057/2022 (art. 6º), o novo contrato não pode ter valor nem prazo maiores que o saldo devedor e o prazo que faltam, salvo as exceções previstas no próprio artigo. Se você queria alongar o prazo, isso não acontece na portabilidade.
+- **Parcelas em atraso.** Se há atraso, resolva antes. Há uma modalidade própria para prestações atrasadas, explicada em [FGTS para pagar parcelas atrasadas](/artigos/fgts-pagar-prestacoes-atrasadas).
 - **Saldo bloqueado.** Valores reservados por antecipação do saque-aniversário continuam bloqueados depois da troca de banco e não entram em amortização.
 
 ### E se o contrato não é do SFH?
 
-Contratos do SFI (Sistema de Financiamento Imobiliário) assinados a partir de 12/06/2021, com imóvel avaliado dentro do limite do SFH na data da compra, também aceitam o FGTS na amortização, segundo o item 15.1 do manual. Contratos fora do SFH mais antigos só entram se o banco reenquadrá-los no SFH, com nova avaliação. O artigo 12 da Resolução 5.057/2022 também permite reenquadrar no SFH, na portabilidade, operações que atendam aos critérios do sistema. Se o seu contrato hoje não aceita FGTS, vale perguntar ao banco novo se a portabilidade pode trazê-lo para o SFH. As diferenças entre os sistemas estão em [SFH e SFI](/artigos/sfh-e-sfi).
+Contratos fora do SFH, inclusive do SFI (Sistema de Financiamento Imobiliário), assinados a partir de 12/06/2021, com imóvel avaliado dentro do teto do SFH na data de assinatura do contrato, também aceitam o FGTS na amortização (Resolução CCFGTS 994, art. 10, e item 15.1 do manual). Contratos fora do SFH mais antigos só entram se o banco reenquadrá-los no SFH, com nova avaliação. O artigo 12 da Resolução 5.057/2022 também permite reenquadrar no SFH, na portabilidade, operações que atendam aos critérios do sistema. Se o seu contrato hoje não aceita FGTS, vale perguntar ao banco novo se a portabilidade pode trazê-lo para o SFH. As diferenças entre os sistemas estão em [SFH e SFI](/artigos/sfh-e-sfi).
 
 ## Passo a passo
 
