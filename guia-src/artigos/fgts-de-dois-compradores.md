@@ -23,7 +23,7 @@ faq:
   - q: "Morarmos em cidades diferentes impede?"
     a: "Não necessariamente. Cônjuges que trabalham ou moram em cidades diferentes podem comprar na cidade de qualquer um deles, desde que cada um cumpra os requisitos."
 sources:
-  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 12.1, 12.2, 12.5 e 12.11 (fgts.gov.br)"
+  - title: "Manual do FGTS Utilização na Moradia Própria, vigência 05/04/2024, itens 5.2, 10.4, 12.1, 12.2, 12.5 e 12.11 (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Lei 8.036/1990 (Lei do FGTS), art. 20, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
@@ -40,7 +40,7 @@ O ponto que mais trava casais é outro: dependendo do regime de bens, o imóvel 
 
 ## As condições valem para cada pessoa
 
-O Manual do FGTS Utilização na Moradia Própria, da Caixa (vigência a partir de 5 de abril de 2024), exige que cada trabalhador que vai movimentar a conta atenda aos requisitos de forma individual:
+O Manual do FGTS Utilização na Moradia Própria, da Caixa (versão com vigência a partir de 5 de abril de 2024; a Circular Caixa 1.069, de outubro de 2024, publicou versão nova com mudanças operacionais no pedido de débito, sem alteração conhecida nestas regras), exige que cada trabalhador que vai movimentar a conta atenda aos requisitos de forma individual:
 
 | Requisito | Vale para |
 |---|---|
@@ -106,7 +106,7 @@ E se Ana e Bruno não fossem casados, apenas amigos dividindo a compra? A regra 
 
 A Caixa limita o total, e não cada conta. A soma do FGTS de todos os compradores com o valor financiado não pode passar do menor valor entre o preço de compra e a avaliação do imóvel. Se o casal tivesse R$ 120 mil de FGTS somado e o banco aprovasse R$ 360 mil de financiamento, o total (R$ 480 mil) passaria do preço. Nesse caso, o banco reduz o financiamento ou o valor sacado, e o saldo que sobrar continua na conta para uso futuro, como amortização.
 
-O total de FGTS mais financiamento (R$ 430 mil) fica abaixo do preço e da avaliação, então respeita o limite da Caixa. Para testar a sua combinação, use o [simulador de financiamento](/simulador).
+No exemplo original, o total de FGTS mais financiamento (R$ 430 mil) fica abaixo do preço e da avaliação, então respeita o limite da Caixa. Para testar a sua combinação, use o [simulador de financiamento](/simulador).
 
 ## Passo a passo para usar dois saldos
 
@@ -120,13 +120,13 @@ O total de FGTS mais financiamento (R$ 430 mil) fica abaixo do preço e da avali
 
 ## Depois da compra: amortizar com os dois saldos
 
-Depois do contrato assinado, cada comprador que consta como devedor pode usar o próprio FGTS para amortizar, quitar ou pagar parte das parcelas, respeitando os intervalos de cada modalidade. A contagem do intervalo é feita por conta, então é possível alternar os saldos ao longo dos anos. Os detalhes estão em [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento).
+Depois do contrato assinado, cada comprador que consta como devedor pode usar o próprio FGTS para amortizar, quitar ou pagar parte das parcelas, respeitando os intervalos de cada modalidade. Na amortização ou quitação, o intervalo mínimo é de 2 anos e é contado por trabalhador: segundo o manual da Caixa, um coobrigado pode usar o próprio FGTS no mesmo financiamento mesmo antes de completar 2 anos do uso feito pelo outro, se cumprir os demais requisitos. Os detalhes estão em [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento).
 
 ## Erros comuns e cuidados
 
 - **Colocar só um no contrato.** Quem não é comprador não usa o FGTS na compra.
 - **Esquecer o regime de bens.** Na comunhão universal, um imóvel antigo de um bloqueia os dois.
-- **Declarar que vai morar sem ir.** A declaração de residência é feita sob as penas da lei. Informação falsa pode obrigar a devolver o dinheiro com correção.
+- **Declarar que vai morar sem ir.** A declaração de residência é feita sob as penas da lei. Pelo manual da Caixa, informação falsa leva ao estorno do valor para a conta do FGTS e à comunicação à Polícia Federal e ao Ministério Público Federal.
 - **Não pensar na separação.** Comprar juntos cria um condomínio no imóvel. Em caso de término, venda ou divisão exigem acordo. Considere formalizar a união e a participação de cada um, e procure um advogado se a situação for complexa.
 - **Achar que a herança impede.** Até 40% de fração não impede. Confira o percentual na matrícula.
 

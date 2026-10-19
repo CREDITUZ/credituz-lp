@@ -33,13 +33,13 @@ sources:
 related: [desistir-da-compra-arrependimento, distrato-imovel-na-planta, custos-para-comprar-imovel, minha-casa-minha-vida]
 ---
 
-A cobrança de corretagem do comprador de imóvel na planta é válida quando o contrato prevê esse repasse e a incorporadora informou, antes da compra, o preço total do imóvel com o valor da comissão destacado. Já a taxa SATI (Taxa de Assessoria Técnico-Imobiliária), cobrada junto com a promessa de compra e venda, é abusiva. Foi o que o Superior Tribunal de Justiça (STJ) decidiu no Tema 938, em recurso repetitivo julgado em 24 de agosto de 2016, que orienta todos os tribunais do país. Quem pagou cobrança indevida tem 3 anos para pedir a devolução.
+A cobrança de corretagem do comprador de imóvel na planta é válida quando o contrato prevê esse repasse e a incorporadora informou, antes da compra, o preço total do imóvel com o valor da comissão destacado. Já a taxa SATI (Taxa de Assessoria Técnico-Imobiliária), cobrada junto com a promessa de compra e venda, é abusiva. Foi o que a Segunda Seção do Superior Tribunal de Justiça (STJ) decidiu no Tema 938, em recurso repetitivo julgado em 24 de agosto de 2016, cuja tese os demais tribunais devem seguir. Quem pagou cobrança indevida tem 3 anos para pedir a devolução.
 
 O tema continua atual porque estandes de lançamento ainda separam o preço em vários boletos. Este artigo explica as regras gerais; para analisar o seu contrato, procure o Procon, a Defensoria Pública ou um advogado.
 
 ## O que é corretagem e o que é SATI
 
-**Corretagem** é a comissão do corretor (ou da imobiliária) que intermediou a venda. Na compra na planta, é comum a incorporadora contratar a imobiliária para vender as unidades e, na hora da compra, pedir que o comprador pague a comissão diretamente, em boleto ou cheque separado. O percentual varia, mas costuma ficar entre 4% e 6% do preço.
+**Corretagem** é a comissão do corretor (ou da imobiliária) que intermediou a venda. Na compra na planta, é comum a incorporadora contratar a imobiliária para vender as unidades e, na hora da compra, pedir que o comprador pague a comissão diretamente, em boleto ou cheque separado. O percentual é negociado e varia conforme a região, o imóvel e a imobiliária.
 
 **SATI** é uma taxa cobrada por uma suposta assessoria técnica ou jurídica ao comprador na assinatura do contrato. Na prática, quem presta esse serviço costuma ser escolhido pela própria vendedora e atua no interesse dela. Por isso o STJ a considerou abusiva.
 
@@ -97,7 +97,7 @@ Atenção: esse prazo de 3 anos é específico para a devolução de corretagem 
 
 Antes de concluir que houve cobrança indevida, leia os papéis com uma pergunta em mente: o que você sabia sobre a corretagem antes de assinar?
 
-- **Quadro-resumo.** Em contratos assinados a partir de dezembro de 2018, ele deve trazer o valor da corretagem, a forma de pagamento e quem recebe. Se esses campos estão preenchidos e batem com o que você pagou, a cobrança tende a ser válida.
+- **Quadro-resumo.** Em contratos assinados depois que a Lei 13.786/2018 entrou em vigor, no fim de dezembro de 2018, ele deve trazer o valor da corretagem, a forma de pagamento e quem recebe. Se esses campos estão preenchidos e batem com o que você pagou, a cobrança tende a ser válida.
 - **Proposta ou ficha de reserva.** É o documento assinado no estande, às vezes antes do contrato. Veja se ela separa preço do imóvel e comissão.
 - **Tabela de vendas e anúncios.** Fotos do material do lançamento, prints do site e mensagens do corretor mostram qual preço foi anunciado.
 - **Recibos e boletos.** Confira em nome de quem foram emitidos. Boleto de imobiliária ou de pessoa física sem relação clara com o contrato é sinal de alerta.

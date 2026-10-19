@@ -27,10 +27,12 @@ sources:
     url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Lei 8.036/1990 (Lei do FGTS), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
+  - title: "Projeto de Lei 5.437/2026, ficha de tramitação (Senado Federal)"
+    url: "https://www25.senado.leg.br/web/atividade/materias/-/materia/175837"
   - title: "Projeto quer liberar FGTS para compra de terreno, PL 5.437/2026 (Seu Crédito Digital, 28/09/2026)"
     url: "https://seucreditodigital.com.br/fgts-compra-terreno-projeto-lei-5437-2026/"
-  - title: "Casa própria utilizando o FGTS: o que a Caixa permite (Gazeta SP, 25/08/2026)"
-    url: "https://www.gazetasp.com.br/economia/casa-propria-utilizando-o-fgts-veja-quem-tem-direito-o-que-a-caixa-permite-e-como-usar-o-seu-saldo/"
+  - title: "Caixa divulga nova versão do Manual do FGTS Utilização na Moradia Própria, Circular 1.069/2024 (COAD)"
+    url: "https://www.coad.com.br/home/noticias-detalhe/128625/caixa-divulga-nova-versao-do-manual-do-fgts-utilizacao-na-moradia-propria"
   - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 milhões (Diário de Pernambuco, 26/11/2025)"
     url: "https://www.diariodepernambuco.com.br/economia/2025/11/11701500-conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-rs-225-milhoes.html"
 related: [fgts-na-compra-do-imovel, avaliacao-do-imovel-pelo-banco, fgts-imovel-na-planta, custos-para-comprar-imovel]
@@ -38,7 +40,7 @@ related: [fgts-na-compra-do-imovel, avaliacao-do-imovel-pelo-banco, fgts-imovel-
 
 Sim, o FGTS (Fundo de Garantia do Tempo de Serviço) pode pagar a construção da sua casa. Existem dois caminhos: construir em um terreno que já está no seu nome ou comprar o terreno e financiar a obra no mesmo contrato. Nos dois casos, a construção precisa estar ligada a um financiamento ou a um autofinanciamento formal, e o dinheiro não cai na sua conta: o banco recebe o saldo e paga a obra por etapas.
 
-O que não dá, em outubro de 2026, é usar o FGTS para comprar só o terreno, sem obra, nem para reformar, ampliar ou comprar material. As condições do trabalhador são as mesmas da compra de imóvel pronto (3 anos de FGTS, nenhum imóvel residencial na região, nenhum financiamento ativo no SFH) e estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
+O que não dá, em outubro de 2026, é usar o FGTS para comprar só o terreno, sem obra, nem para reformar, ampliar ou comprar material. A Lei 8.036/1990 chega a citar a compra de "lote urbanizado de interesse social não construído", mas o manual da Caixa para a moradia própria não traz essa opção ao trabalhador: o terreno só entra ligado à construção. As condições do trabalhador são as mesmas da compra de imóvel pronto (3 anos de FGTS, nenhum imóvel residencial na região, nenhum financiamento ativo no SFH) e estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
 ## As duas modalidades de construção
 
@@ -49,7 +51,7 @@ O que não dá, em outubro de 2026, é usar o FGTS para comprar só o terreno, s
 | Estrutura exigida | Financiamento ou autofinanciamento da obra | Financiamento que inclui terreno e obra no mesmo contrato |
 | Garantia do banco | O terreno com a casa | O terreno comprado, com a casa |
 
-O Manual do FGTS Utilização na Moradia Própria, da Caixa, com vigência a partir de 5 de abril de 2024, diz duas coisas centrais sobre o terreno. Primeiro, ele precisa pertencer ao trabalhador (a exceção são os empreendimentos coletivos, em que a fração de terreno já vem embutida no preço da unidade). Segundo, usar o FGTS no terreno só é aceito quando isso está vinculado a um financiamento ou autofinanciamento para construir.
+O Manual do FGTS Utilização na Moradia Própria, da Caixa (versão com vigência a partir de 5 de abril de 2024; a Circular Caixa 1.069, de outubro de 2024, publicou versão nova com mudanças operacionais no pedido de débito, sem alteração conhecida nestas regras), diz duas coisas centrais sobre o terreno. Primeiro, ele precisa pertencer ao trabalhador (a exceção são os empreendimentos coletivos, em que a fração de terreno já vem embutida no preço da unidade). Segundo, usar o FGTS no terreno só é aceito quando isso está vinculado a um financiamento ou autofinanciamento para construir.
 
 ### O que conta como autofinanciamento
 
@@ -64,7 +66,7 @@ Este é o ponto que mais diferencia a construção da compra de imóvel pronto:
 1. **Débito único.** O valor do FGTS sai da sua conta de uma vez e vai para o agente financeiro.
 2. **Conta controlada.** O banco mantém o dinheiro em seu nome e o libera conforme o cronograma físico-financeiro, documento que mostra quanto da obra deve estar pronto em cada etapa.
 3. **Rendimento enquanto espera.** O saldo ainda não usado rende pelo índice da poupança, com piso no rendimento do FGTS.
-4. **Medições.** A cada etapa, um engenheiro ou arquiteto credenciado pelo banco vistoria a obra antes de liberar a parcela seguinte.
+4. **Medições.** Na prática, o banco vistoria cada etapa antes de liberar a parcela seguinte. O manual exige expressamente o laudo de profissional credenciado na liberação final.
 5. **Última parcela.** Só sai com laudo de conclusão do profissional do banco ou com a construção averbada na matrícula do imóvel.
 
 O manual também admite liberar tudo em parcela única ao fim da obra. Quem escolhe o formato é a operação contratada com o banco.
@@ -120,7 +122,7 @@ Fica fora do FGTS na construção:
 - obra em imóvel rural ou comercial;
 - construção para alugar ou vender.
 
-Sobre o terreno, há um projeto em tramitação. O PL 5.437/2026, apresentado no Senado em 22 de setembro de 2026, propõe permitir o uso do FGTS para comprar lote ou terreno e para amortizar o financiamento dessa compra. No fim de setembro, ele ainda aguardava despacho. Enquanto não for aprovado e regulamentado, a regra continua a mesma.
+Sobre o terreno, há um projeto em tramitação. O PL 5.437/2026, apresentado no Senado em 22 de setembro de 2026, propõe permitir o uso do FGTS para comprar lote ou terreno e para amortizar o financiamento dessa compra. Segundo a ficha do Senado, atualizada em 25 de setembro, ele ainda aguardava despacho para as comissões. Enquanto não for aprovado e regulamentado, a regra continua a mesma.
 
 ## Erros comuns e cuidados
 

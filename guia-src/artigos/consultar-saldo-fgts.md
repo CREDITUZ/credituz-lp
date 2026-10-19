@@ -17,7 +17,7 @@ faq:
   - q: "Quanto o empregador deposita de FGTS por mês?"
     a: "Na regra geral, 8% da remuneração do mês, conforme a Lei 8.036/1990. O 13º salário e as férias também geram depósito."
   - q: "Até quando o FGTS do mês precisa estar depositado?"
-    a: "Desde o FGTS Digital, o prazo é o dia 20 do mês seguinte ao da competência. Se cair em fim de semana ou feriado, vai para o dia útil seguinte."
+    a: "Desde o FGTS Digital, o prazo é o dia 20 do mês seguinte ao da competência. Se o dia 20 não for dia útil, o prazo é antecipado para o dia útil anterior."
   - q: "O saldo do app é o valor que posso usar na compra do imóvel?"
     a: "É o ponto de partida. Parte pode estar bloqueada por antecipação do saque-aniversário ou por empréstimo com garantia do FGTS, e o banco confirma o valor disponível na hora da operação."
   - q: "O que fazer se faltar depósito no extrato?"
@@ -25,20 +25,24 @@ faq:
 sources:
   - title: "Lei 8.036/1990 (Lei do FGTS), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
-  - title: "Sacar o FGTS: consultar saldo pelo App FGTS (gov.br)"
-    url: "https://servicos.gov.br/api/v1/servicos/61"
+  - title: "Sacar o FGTS: consultar saldo pelo App FGTS e login gov.br (gov.br)"
+    url: "https://www.gov.br/pt-br/servicos/sacar-o-fgts"
   - title: "Saque Digital e funções do aplicativo FGTS (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/trabalhador/saque-digital.aspx"
   - title: "Rentabilidade e resultado do FGTS em 2025 (fgts.gov.br)"
     url: "https://www.fgts.gov.br/Paginas/transparencia-prestacao-contas/resultados-fgts.aspx"
   - title: "FGTS Digital completa um ano: prazo até o dia 20 e pagamento por Pix (Contábeis, 30/07/2024)"
     url: "https://www.contabeis.com.br/noticias/66370/fgts-digital-completa-um-ano-veja-o-que-mudou-apos-a-implementacao/"
+  - title: "FGTS Digital: vencimento em dia não útil é antecipado (Contábeis, 29/02/2024, com base na cartilha da Caixa)"
+    url: "https://www.contabeis.com.br/noticias/63928/fgts-digital-caixa-esclarece-como-ficara-vencimento-em-dia-nao-util/"
   - title: "Como sacar o FGTS: login no app pela conta gov.br (Seu Crédito Digital, 20/01/2026)"
     url: "https://seucreditodigital.com.br/como-sacar-fgts-guia-digital-completo/"
+  - title: "Consultar FGTS pelo CPF e telefone 0800 726 0207 (Serasa, atualizado em 21/07/2025)"
+    url: "https://www.serasa.com.br/ensina/dicas/consultar-fgts-pelo-cpf/"
 related: [fgts-na-compra-do-imovel, saque-aniversario-e-financiamento, fgts-de-dois-compradores, fgts-para-amortizar-financiamento]
 ---
 
-Para consultar o saldo e o extrato do FGTS (Fundo de Garantia do Tempo de Serviço), o caminho mais rápido é o aplicativo FGTS, da Caixa, com login pela conta gov.br. Ali aparece cada contrato de trabalho que você já teve, com o saldo e a lista de depósitos. Quem é correntista da Caixa também vê o extrato no internet banking, e qualquer trabalhador pode pedir o extrato em uma agência levando documento com foto.
+Para consultar o saldo e o extrato do FGTS (Fundo de Garantia do Tempo de Serviço), o caminho mais rápido é o aplicativo FGTS, da Caixa, com login pela conta gov.br. Ali aparece cada contrato de trabalho que você já teve, com o saldo e a lista de depósitos. Quem é correntista da Caixa costuma encontrar o extrato também no internet banking, e qualquer trabalhador pode pedir o extrato em uma agência levando documento com foto.
 
 Se o objetivo é usar o dinheiro na compra de um imóvel, não basta olhar o total. Você precisa conferir se todas as contas aparecem, se há valor bloqueado e se os depósitos estão em dia. É isso que este texto mostra.
 
@@ -58,7 +62,7 @@ Para atendimento por telefone, a Caixa mantém a central do FGTS no 0800 726 020
 ## Passo a passo no aplicativo FGTS
 
 1. **Instale o aplicativo oficial.** Ele se chama FGTS e é publicado pela Caixa Econômica Federal. Confira o nome do desenvolvedor antes de baixar.
-2. **Entre com a conta gov.br.** Em 2026, o login é feito pela conta gov.br. Contas de nível prata ou ouro costumam liberar todas as funções; se a sua for bronze, você pode subir o nível no próprio aplicativo gov.br, por validação facial ou pelos dados de um banco credenciado.
+2. **Entre com a conta gov.br.** Em 2026, o login é feito pela conta gov.br. O serviço aceita conta bronze, prata ou ouro, mas algumas funções, como autorizar bancos a consultar o saldo, pedem nível prata ou ouro. Você sobe o nível no próprio aplicativo gov.br, por validação facial ou pelos dados de um banco credenciado.
 3. **Abra a lista de contas.** Cada vínculo de emprego gera uma conta vinculada separada. Contas de empresas antigas, em que você não trabalha mais, são as "inativas", e muitas vezes têm saldo esquecido.
 4. **Toque em cada conta e abra o extrato.** O extrato lista depósitos mensais, créditos de juros e atualização, saques e a distribuição de resultado do fundo.
 5. **Guarde o extrato completo.** Para usar o FGTS na casa própria, o banco pede os extratos de todas as contas que você vai movimentar. Ter o arquivo à mão acelera a análise.
@@ -70,11 +74,11 @@ No internet banking da Caixa, o caminho costuma ficar no menu de benefícios, na
 O extrato tem quatro tipos de lançamento que valem atenção:
 
 - **Depósito mensal.** É o valor que o empregador recolhe sobre o seu salário. Na regra geral, são 8% da remuneração do mês, conforme a Lei 8.036/1990. O 13º salário e as férias também geram depósito.
-- **Juros e atualização monetária.** O saldo rende 3% ao ano mais a TR (Taxa Referencial), creditados mensalmente.
-- **Distribuição de resultado.** Uma vez por ano, o Conselho Curador do FGTS distribui parte do lucro do fundo. Sobre 2025, foram distribuídos R$ 13,04 bilhões, e a rentabilidade total das contas no ano ficou em 6,90%, contra IPCA de 4,26%, segundo o próprio FGTS.
+- **Juros e atualização monetária.** Pela Lei 8.036/1990, o saldo é corrigido pela TR (Taxa Referencial), o mesmo índice da poupança, e recebe juros de 3% ao ano, com crédito mensal.
+- **Distribuição de resultado.** Uma vez por ano, o Conselho Curador do FGTS distribui parte do lucro do fundo. Sobre 2025, foram distribuídos R$ 13,04 bilhões, e a rentabilidade total das contas no ano ficou em 6,90%, contra IPCA de 4,26%, segundo o próprio FGTS. O valor foi aprovado pelo Conselho Curador em julho de 2026 e creditado nas contas em agosto.
 - **Saques e bloqueios.** Saques por demissão, saque-aniversário, uso na moradia e valores reservados como garantia de empréstimo aparecem aqui.
 
-A coluna de competência indica o mês a que o depósito se refere, e não a data em que ele caiu. Desde a implantação do FGTS Digital, em março de 2024, o empregador tem até o dia 20 do mês seguinte para recolher o valor, por Pix. Então é normal que o depósito de setembro só apareça no fim de outubro.
+A coluna de competência indica o mês a que o depósito se refere, e não a data em que ele caiu. Desde a implantação do FGTS Digital, em março de 2024, o empregador tem até o dia 20 do mês seguinte para recolher o valor, por guia paga com Pix. Se o dia 20 cair em fim de semana ou feriado, o prazo é antecipado para o dia útil anterior. Então é normal que o depósito de setembro só apareça no fim de outubro.
 
 ## Como conferir se o empregador depositou certo
 

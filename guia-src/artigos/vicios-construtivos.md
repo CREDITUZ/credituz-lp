@@ -52,7 +52,7 @@ O imóvel é considerado um bem durável, por isso o prazo do CDC é de 90 dias,
 
 ### Como os prazos se combinam
 
-O prazo de 5 anos do art. 618 é tratado pelo STJ como prazo de garantia: o defeito precisa aparecer dentro dele. Em decisões recentes (por exemplo, o AgInt no AREsp 2.263.559, julgado em outubro de 2024), a Corte entendeu que, aparecido o vício nesse período, o comprador pode pedir indenização em até 10 anos, pelo prazo geral do art. 205 do Código Civil, contados da ciência do problema. O STJ também já afastou o prazo de 90 dias do CDC para pedidos de indenização, que seguem a prescrição, e não a decadência.
+O prazo de 5 anos do art. 618 é tratado pelo STJ como prazo de garantia: o defeito precisa aparecer dentro dele. Em decisões da Terceira Turma (por exemplo, o AgInt no AREsp 2.263.559, julgado em outubro de 2024), a Corte entendeu que, aparecido o vício nesse período, o comprador pode pedir indenização em até 10 anos, pelo prazo geral do art. 205 do Código Civil, contados da ciência do problema. O STJ também já afastou o prazo de 90 dias do CDC para pedidos de indenização (AgInt no REsp 1.863.245, de 2020), que seguem a prescrição, e não a decadência. São decisões de turma, não de recurso repetitivo, então outros tribunais podem decidir de forma diferente.
 
 Isso não significa que você pode esperar. Quanto mais tempo passa, mais difícil é provar que o defeito vem da obra e não do uso, e o parágrafo único do art. 618 ainda prevê 180 dias para agir depois que o vício aparece, prazo cuja aplicação ao consumidor é discutida nos tribunais. A regra segura é: apareceu, reclamou.
 
@@ -70,7 +70,7 @@ Quem responde? A construtora e a incorporadora, em regra solidariamente, porque 
 
 ### O manual do proprietário
 
-Toda construtora entrega um manual de uso e manutenção com prazos de garantia por item: 1 ano para alguns acabamentos, 3 para outros, 5 para estrutura. Esses prazos são úteis como referência técnica, mas não reduzem o que a lei garante. Leia o manual com atenção por outro motivo: ele lista as manutenções que cabem a você. Se a falta de manutenção causar o problema (ralo nunca limpo, rejunte nunca refeito), a construtora pode negar o reparo com razão.
+Toda construtora entrega um manual de uso e manutenção com prazos de garantia por item, em geral menores para acabamentos e instalações e maiores para a estrutura. Esses prazos são úteis como referência técnica, mas não reduzem o que a lei garante. Leia o manual com atenção por outro motivo: ele lista as manutenções que cabem a você. Se a falta de manutenção causar o problema (ralo nunca limpo, rejunte nunca refeito), a construtora pode negar o reparo com razão.
 
 ## Exemplo com números
 
@@ -103,7 +103,7 @@ Se o problema está na fachada, na garagem, no telhado ou em outra área comum, 
 
 Se você comprou um imóvel usado de outra pessoa física, em geral não há relação de consumo, e o CDC não se aplica. Valem as regras do Código Civil para vício redibitório (arts. 441 e 445): para imóvel, o comprador tem 1 ano para pedir o desfazimento do negócio ou o abatimento do preço, contado da entrega efetiva, ou da ciência do vício quando ele só puder ser conhecido mais tarde. O vendedor que sabia do defeito e escondeu responde também por perdas e danos.
 
-A garantia de 5 anos do art. 618 continua alcançando quem construiu, mesmo que o imóvel tenha mudado de dono, desde que o defeito apareça dentro do prazo. Antes de comprar usado, uma vistoria com engenheiro costuma custar pouco perto do risco. A [avaliação do banco](/artigos/avaliacao-do-imovel-pelo-banco) não substitui essa vistoria, porque o foco dela é o valor de garantia, e não o estado técnico detalhado.
+Se o imóvel usado ainda está nos primeiros 5 anos desde a conclusão da obra e surge um problema de solidez ou segurança, pode haver base para acionar quem construiu, mas a situação de quem não comprou da construtora é discutida e depende do caso; vale ouvir um advogado. Antes de comprar usado, uma vistoria com engenheiro costuma custar pouco perto do risco. A [avaliação do banco](/artigos/avaliacao-do-imovel-pelo-banco) não substitui essa vistoria, porque o foco dela é o valor de garantia, e não o estado técnico detalhado.
 
 ## Seguro DFI não é garantia de obra
 

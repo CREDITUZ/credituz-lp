@@ -28,8 +28,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
   - title: "Código Civil (Lei 10.406/2002), arts. 417 a 420 (arras)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
-  - title: "STJ, Tema 938: corretagem e SATI"
-    url: "https://juris.damasio.com.br/temas/stj/938"
+  - title: "Teses do STJ sobre comissão de corretagem (Temas 938, 939 e 960)"
+    url: "https://tesesesumulas.com.br/tema/comissao-de-corretagem"
 related: [distrato-imovel-na-planta, corretagem-abusiva-e-sati, imovel-na-planta-ou-pronto, documentos-para-financiamento]
 ---
 
@@ -90,11 +90,11 @@ Na quarta-feira, depois de refazer as contas com a família, você decide desist
 | Cenário | Data de postagem | O que recebe |
 |---|---|---|
 | Arrependimento no prazo | até 10 de outubro | R$ 27.000 (tudo, inclusive a corretagem) |
-| Desistência depois do prazo, sem patrimônio de afetação e multa de 25% | 12 de outubro | R$ 15.000 menos R$ 3.750 de multa = R$ 11.250; a corretagem de R$ 12.000 pode ser retida |
+| Desistência depois do prazo, sem patrimônio de afetação e multa de 25% aplicada sobre o sinal | 12 de outubro | R$ 15.000 menos R$ 3.750 de multa = R$ 11.250; a corretagem de R$ 12.000 pode ser retida |
 
 Para a contagem, este exemplo considera os 7 dias corridos a partir do dia seguinte à assinatura, o que leva o prazo a 10 de outubro. Como a lei não detalha a forma de contagem, não deixe para o último dia: poste a carta o quanto antes.
 
-A diferença entre agir no prazo e agir 2 dias depois, neste exemplo, é de R$ 15.750. A multa de 25% é um teto da Lei 13.786/2018; o percentual real está no quadro-resumo do contrato.
+A diferença entre agir no prazo e agir 2 dias depois, neste exemplo, é de R$ 15.750. A multa de 25% é o teto da Lei 13.786/2018 para incorporação sem patrimônio de afetação (com patrimônio de afetação, o teto sobe para 50%), e a lei calcula a multa sobre a quantia paga; a base exata e o percentual real estão no contrato e no quadro-resumo.
 
 ## O sinal e as arras
 

@@ -29,8 +29,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
   - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 milhões (Diário de Pernambuco, 26/11/2025)"
     url: "https://www.diariodepernambuco.com.br/economia/2025/11/11701500-conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-rs-225-milhoes.html"
-  - title: "Casa própria utilizando o FGTS: o que a Caixa permite (Gazeta SP, 25/08/2026)"
-    url: "https://www.gazetasp.com.br/economia/casa-propria-utilizando-o-fgts-veja-quem-tem-direito-o-que-a-caixa-permite-e-como-usar-o-seu-saldo/"
 related: [fgts-na-compra-do-imovel, imovel-na-planta-ou-pronto, juros-de-obra, distrato-imovel-na-planta]
 ---
 
@@ -40,11 +38,13 @@ As regras do comprador e do imóvel são as mesmas da compra de imóvel pronto: 
 
 ## O que diz a regra para imóvel em construção
 
-O Manual do FGTS Utilização na Moradia Própria, documento da Caixa como agente operador do fundo (versão com vigência a partir de 5 de abril de 2024), trata a compra de imóvel em construção como uma modalidade própria. Ela só é aceita em três situações:
+O Manual do FGTS Utilização na Moradia Própria, documento da Caixa como agente operador do fundo, trata a compra de imóvel em construção como uma modalidade própria. Ela só é aceita em três situações:
 
 1. **Vinculada a financiamento**, dentro ou fora do SFH.
 2. **Vinculada a financiamento no SFH com caução de créditos futuros do FGTS**, uma garantia usada em programas específicos.
 3. **Por autofinanciamento** com construtora, incorporadora, cooperativa, companhia habitacional, administradora de consórcio ou contrato de empreitada registrado em cartório.
+
+A versão do manual consultada aqui tem vigência a partir de 5 de abril de 2024. Em outubro de 2024, a Circular Caixa 1.069 publicou uma versão nova, que, segundo o resumo oficial, mudou procedimentos operacionais do pedido de débito e fez ajustes de redação. Não encontramos mudança nas regras descritas neste texto, mas o banco aplica sempre a versão vigente.
 
 Na prática, isso exclui a ideia de "pagar a construtora com FGTS" fora de uma dessas estruturas. E mesmo o autofinanciamento depende de a construtora operar com um agente financeiro que receba e controle o dinheiro. Muitas incorporadoras não oferecem esse caminho e só aceitam o FGTS no repasse.
 
@@ -95,11 +95,11 @@ Agora o outro lado. Se o financiamento for só no repasse, o saldo do FGTS conti
 
 Além das condições pessoais, o imóvel na planta tem checagens próprias:
 
-- **Incorporação registrada.** O empreendimento precisa ter o registro de incorporação no cartório de registro de imóveis.
-- **Avaliação dentro do teto.** O banco pode usar o estudo de viabilidade do empreendimento ou o laudo da unidade pronta para enquadrar o valor no limite do SFH, hoje de R$ 2,25 milhões de avaliação.
+- **Incorporação registrada.** O banco confere se o empreendimento tem o registro de incorporação no cartório de registro de imóveis.
+- **Avaliação dentro do teto.** O banco avalia a unidade para enquadrar o valor no limite do SFH, hoje de R$ 2,25 milhões de avaliação. Quando o próprio banco financiou a construção do prédio, o manual permite usar o estudo de viabilidade inicial do empreendimento.
 - **Destinação residencial e urbana.** Unidades classificadas como comerciais, como alguns studios em apart-hotel, não aceitam FGTS.
 - **Contrato com a construtora em ordem.** O banco analisa o compromisso de compra e venda e pode recusar se houver cláusulas incompatíveis com a operação.
-- **Intervalo de 3 anos.** Um imóvel que já recebeu FGTS em compra ou construção só pode receber de novo depois de 3 anos. Na primeira venda direta pela construtora, essa comprovação é dispensada.
+- **Intervalo de 3 anos.** Um imóvel que já recebeu FGTS em compra ou construção só pode receber de novo depois de 3 anos. Na primeira venda feita por empresa, como a própria construtora, o manual dispensa essa comprovação.
 
 ## Erros comuns e cuidados
 

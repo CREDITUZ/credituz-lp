@@ -14,7 +14,7 @@ faq:
   - q: "O banco pode exigir que eu contrate o seguro dele no financiamento?"
     a: "Não. Os seguros MIP e DFI são obrigatórios no SFH, mas a Súmula 473 do STJ garante que você não seja obrigado a contratá-los com o banco ou com a seguradora indicada por ele."
   - q: "Paguei uma tarifa indevida. Recebo em dobro?"
-    a: "Pelo art. 42 do CDC, quem paga cobrança indevida tem direito ao dobro do que pagou em excesso, com correção e juros, salvo engano justificável. Em setembro de 2026, o STJ firmou no Tema 929 que não é preciso provar má-fé."
+    a: "Pelo art. 42 do CDC, quem paga cobrança indevida tem direito ao dobro do que pagou em excesso, com correção e juros, salvo engano justificável. Em setembro de 2026, o STJ concluiu o Tema 929 no sentido de que não é preciso provar má-fé; o acórdão ainda não havia sido publicado em outubro."
   - q: "Reclamar no Banco Central resolve meu caso?"
     a: "O Banco Central encaminha a reclamação ao banco, que tem de responder, e usa os registros para fiscalizar. Ele não decide o seu caso nem manda devolver dinheiro; para isso, os caminhos são o acordo, o Procon ou a Justiça."
   - q: "Seguro prestamista no financiamento é obrigatório?"
@@ -32,8 +32,10 @@ sources:
     url: "https://jusdocs.com/blog/tema-929-stj-devolucao-em-dobro-sem-modulacao"
   - title: "Resolução CMN 4.860/2020 (ouvidorias)"
     url: "https://www.ancord.org.br/wp-content/uploads/2021/01/ResolucaoBCB-4.860.pdf"
-  - title: "Banco Central: registrar reclamação"
-    url: "https://www.bcb.gov.br/meubc/registrar_reclamacao"
+  - title: "Migalhas: STJ conclui que devolução em dobro não exige prova de má-fé (Tema 929)"
+    url: "https://www.migalhas.com.br/quentes/464721/stj-devolucao-em-dobro-por-cobranca-indevida-nao-exige-prova-de-ma-fe"
+  - title: "Banco Central: como usa as reclamações dos cidadãos"
+    url: "https://www.bcb.gov.br/Nor/relcidfin/docs/art10_uso_das_reclamacoes.pdf"
 related: [seguros-mip-e-dfi, taxa-de-juros-financiamento-imobiliario, portabilidade-financiamento-imobiliario, custos-para-comprar-imovel]
 ---
 
@@ -56,7 +58,7 @@ Nem todo custo além dos juros é irregular. O financiamento tem despesas legít
 | Pacote de tarifas de conta corrente | opcional | o banco pode oferecer desconto nos juros, mas não pode condicionar o crédito |
 | "Serviços de terceiros" sem descrição | questionável | o Tema 958 considerou abusiva a cobrança sem especificar o serviço |
 
-O Tema 958 foi julgado pelo STJ em novembro de 2018 a partir de um financiamento com garantia do próprio bem (o caso era de veículo). O raciocínio, cobrar só por serviço efetivamente prestado e sem excesso, costuma ser usado como referência em outros financiamentos, mas cada caso depende do contrato.
+O Tema 958 foi julgado pela Segunda Seção do STJ em novembro de 2018 a partir de um financiamento bancário com garantia do próprio bem adquirido, e não de um financiamento imobiliário. O raciocínio, cobrar só por serviço efetivamente prestado e sem excesso, costuma ser usado como referência em outros financiamentos, mas cada caso depende do contrato.
 
 ### Venda casada e "relacionamento"
 
@@ -66,19 +68,19 @@ Peça sempre duas simulações por escrito: com e sem os produtos do pacote de r
 
 ### Seguros: a escolha é sua
 
-Os seguros MIP (Morte e Invalidez Permanente) e DFI (Danos Físicos ao Imóvel) são obrigatórios no SFH, e o MIP também é exigido no SFI. Mas a Súmula 473 do STJ diz que o mutuário do SFH não pode ser obrigado a contratar o seguro com o banco ou com a seguradora indicada por ele. Em 2018, no Tema 972, o STJ estendeu esse raciocínio aos contratos bancários em geral. Na prática, o banco precisa aceitar uma apólice de outra seguradora que atenda às coberturas exigidas, e você pode trocar durante o contrato. Veja como fazer em [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
+Os seguros MIP (Morte e Invalidez Permanente) e DFI (Danos Físicos ao Imóvel) são obrigatórios no SFH, e o MIP também é exigido no SFI. Mas a Súmula 473 do STJ diz que o mutuário do SFH não pode ser obrigado a contratar o seguro com o banco ou com a seguradora indicada por ele. Em 2018, no Tema 972, o STJ estendeu esse raciocínio aos contratos bancários em geral. Na prática, o banco precisa aceitar uma apólice de outra seguradora que atenda às coberturas exigidas. Veja como comparar e pedir a troca em [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
 
 ## A devolução em dobro
 
 O parágrafo único do art. 42 do CDC garante a quem pagou quantia indevida o direito de receber o dobro do que pagou em excesso, com correção monetária e juros legais, salvo hipótese de engano justificável.
 
-Durante anos se discutiu se era preciso provar má-fé do banco. O STJ, em 2020, entendeu que não, mas limitou o efeito a cobranças feitas depois de 30 de março de 2021. Em setembro de 2026, a Corte Especial concluiu o Tema 929, em recurso repetitivo (REsp 1.963.770/CE), com estas linhas gerais, segundo os relatos publicados até outubro de 2026 (o acórdão ainda não estava publicado):
+Durante anos se discutiu se era preciso provar má-fé do banco. O STJ, em 2020, entendeu que não, mas limitou o efeito a cobranças feitas depois de 30 de março de 2021. Em setembro de 2026, a Corte Especial concluiu o Tema 929, em recurso repetitivo (REsp 1.963.770/CE, julgado em sessão virtual encerrada em 15 de setembro), com estas linhas gerais, segundo relatos de veículos jurídicos publicados até outubro de 2026 (o acórdão ainda não estava publicado, e a redação final da tese pode trazer ajustes):
 
 - a devolução em dobro não depende de culpa ou dolo do fornecedor; basta a cobrança contrariar a boa-fé objetiva;
 - se o consumidor pediu a correção antes e o fornecedor se omitiu ou recusou, isso é indício suficiente para a dobra;
 - cabe ao fornecedor provar que agiu de boa-fé;
 - divergência na jurisprudência sobre a cobrança, ou cláusula declarada nula depois, pode configurar engano justificável e afastar a dobra;
-- a tese foi firmada sem a limitação de data de 2021.
+- segundo esses relatos, a tese foi fixada sem repetir a limitação de data de 2021, mas os detalhes sobre pagamentos antigos dependem do acórdão e da prescrição de cada caso.
 
 Um efeito prático: pedir a correção ao banco por escrito, antes de qualquer processo, não é só cortesia. A recusa ou o silêncio dele passa a contar a seu favor.
 
@@ -99,7 +101,7 @@ Se o seguro fosse uma contratação válida e opcional que você aceitou, a saí
 1. **Junte as provas.** Contrato, proposta, simulações, extratos com as cobranças, e-mails e mensagens do gerente. Anote datas e nomes.
 2. **SAC do banco.** Registre a reclamação, peça o cancelamento e a devolução, e anote o protocolo.
 3. **Ouvidoria do banco.** Se o SAC não resolver, a ouvidoria atua como última instância interna. Pela Resolução CMN 4.860/2020, ela tem até 10 dias úteis para responder, prorrogáveis uma vez em casos excepcionais e justificados.
-4. **Banco Central.** Registre reclamação pelo site ou pelo aplicativo do Banco Central. O BC encaminha ao banco, que deve responder, e usa os registros para fiscalizar e montar o ranking de reclamações. Ele não julga o caso individual nem determina devolução.
+4. **Banco Central.** Registre reclamação pelo site ou pelo aplicativo do Banco Central. O BC encaminha ao banco, que deve responder, e usa os registros para fiscalizar e montar o ranking de reclamações. Segundo o próprio BC, ele não tem competência legal para impor reembolso ou compensação no caso individual.
 5. **consumidor.gov.br ou Procon.** A plataforma pública consumidor.gov.br reúne a maioria dos bancos e costuma gerar resposta rápida. O Procon pode chamar o banco para audiência de conciliação.
 6. **Justiça.** Valores até 40 salários mínimos podem ir ao Juizado Especial Cível; até 20 salários mínimos, sem advogado. A Defensoria Pública atende quem não pode pagar.
 
