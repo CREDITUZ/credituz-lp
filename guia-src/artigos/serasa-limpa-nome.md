@@ -32,6 +32,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
   - title: "Migalhas: STJ suspende análise do Tema 1.264 sobre cobrança extrajudicial de dívida prescrita (jun. 2026)"
     url: "https://www.migalhas.com.br/quentes/457890/stj-suspende-analise-sobre-cobranca-extrajudicial-de-divida-prescrita"
+  - title: "Portal TELA: STJ começa a julgar e suspende cobrança extrajudicial de dívida prescrita (10 jun. 2026)"
+    url: "https://www.portaltela.com/noticias/politica/2026/06/10/stj-suspende-analise-de-cobranca-extrajudicial-de-divida-prescrita/"
 related: [limpar-nome-antes-de-financiar, nome-sujo-financiamento-imobiliario, divida-prescrita, registrato]
 ---
 
@@ -118,7 +120,7 @@ O outro lado: pagar à vista consome R$ 1.800 dos R$ 2.000 que ela reservou para
 
 ### Dívida antiga e o debate no STJ
 
-Há uma discussão em curso sobre dívidas prescritas exibidas em plataformas de negociação. O STJ afetou o tema como recurso repetitivo (Tema 1.264), para decidir se dívida prescrita pode ser cobrada fora da Justiça, inclusive pela inclusão em plataformas desse tipo. O julgamento na Segunda Seção foi suspenso em junho de 2026 por pedido de vista, e não localizamos tese fixada até a data deste artigo. Acompanhe no site do STJ e, se estiver em dúvida sobre uma cobrança antiga, procure o Procon ou um advogado.
+Há uma discussão em curso sobre dívidas prescritas exibidas em plataformas de negociação. O STJ afetou o tema como recurso repetitivo (Tema 1.264), para decidir se dívida prescrita pode ser cobrada fora da Justiça, inclusive pela inclusão em plataformas desse tipo. O julgamento na Segunda Seção começou em 10 de junho de 2026 e foi suspenso por pedido de vista do relator. Uma página de acompanhamento de repetitivos ainda registra o tema como afetado, sem tese fixada. Acompanhe no site do STJ e, se estiver em dúvida sobre uma cobrança antiga, procure o Procon ou um advogado.
 
 ## Próximos passos
 

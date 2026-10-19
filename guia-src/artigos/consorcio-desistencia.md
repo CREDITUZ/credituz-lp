@@ -4,7 +4,7 @@ description: "Veja o que acontece se você desistir do consórcio de imóvel: o 
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Quem desiste antes de ser contemplado vira consorciado excluído e tem direito ao que pagou ao fundo comum, corrigido, mas não na hora."
   - "A devolução sai quando a cota excluída é sorteada numa assembleia ou, se isso não acontecer, depois do encerramento do grupo."

@@ -4,7 +4,7 @@ description: "Por que o CadÚnico é a porta de entrada do Minha Casa Minha Vida
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O CadÚnico é o cadastro de programas sociais do governo federal. Ele não é um programa de moradia, mas é exigido no caminho da Faixa 1 e nas modalidades de entidades e rural."
   - "A família precisa atualizar os dados a cada 24 meses ou quando mudar renda, endereço ou composição familiar."

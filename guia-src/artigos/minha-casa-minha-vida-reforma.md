@@ -19,7 +19,7 @@ faq:
   - q: "Qual o valor máximo e o prazo do financiamento?"
     a: "O prazo máximo é de 72 meses. O valor máximo aparece como R$ 50 mil em parte da imprensa e como R$ 30 mil em outra, por isso confirme o limite para a sua família na simulação da Caixa."
   - q: "O dinheiro vai todo para a família de uma vez?"
-    a: "Não, pelo que foi divulgado. A regra publicada em outubro de 2025 falava em 90% antes da obra e 10% depois da comprovação com fotos. Confirme a regra vigente no contrato."
+    a: "Não, pelo que foi divulgado. Uma reportagem de outubro de 2025 falava em 90% antes da obra e 10% depois da comprovação com fotos. Confirme a regra vigente no contrato."
   - q: "Preciso ir a uma agência da Caixa?"
     a: "Em regra, não. O pedido é feito pelo site e pelo app. Se a renda reunir mais de uma pessoa, a Caixa encaminha a família a uma agência."
 sources:

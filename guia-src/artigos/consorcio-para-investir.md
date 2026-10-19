@@ -4,7 +4,7 @@ description: "Consórcio de imóvel como investimento: vender carta contemplada,
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Consórcio não é aplicação financeira: o dinheiro do fundo comum não rende para você, e a taxa de administração é custo."
   - "Vender uma carta contemplada com ágio só bate uma aplicação no CDI se a contemplação vier cedo. No exemplo, no mês 60 seria preciso vender por cerca de 39% da carta."

@@ -4,7 +4,7 @@ description: "A Faixa 1 do Minha Casa Minha Vida não tem sorteio pela regra fed
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Pela Portaria MCID 738/2024, a seleção da Faixa 1 classifica as famílias pelo número de critérios de prioridade, e não por sorteio. Empate se decide pela idade."
   - "Muitos municípios fazem sorteio público dentro de grupos de prioridade, conforme o edital. Isso é regra municipal, não federal."

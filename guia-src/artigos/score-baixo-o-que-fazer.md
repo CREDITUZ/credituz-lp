@@ -12,7 +12,7 @@ key_points:
   - "Para quem precisa financiar em até seis meses, o foco é reduzir o comprometimento de renda, porque a nota demora a responder."
 faq:
   - q: "Qual score é considerado baixo para financiar imóvel?"
-    a: "Na escala da Serasa, até 300 é faixa baixa, de 301 a 500 é regular e acima de 500 é boa. Não há corte oficial para financiamento: cada banco usa modelo próprio, e a nota é só uma parte."
+    a: "Na escala da Serasa, até 300 é faixa baixa, de 301 a 500 é regular, de 501 a 700 é boa e de 701 a 1.000 é excelente. Não há corte oficial para financiamento: cada banco usa modelo próprio, e a nota é só uma parte."
   - q: "Vale a pena pedir financiamento com score baixo?"
     a: "Vale verificar antes, sem pedir análise formal. Simule a parcela e a renda, puxe o Registrato e consulte os bureaus. Se as dívidas e a renda estiverem em ordem, o score pode não ser o fator decisivo."
   - q: "Quanto tempo leva para o score melhorar?"
@@ -39,14 +39,14 @@ Para entender como o banco usa a nota na análise, leia primeiro [score para fin
 
 ## Passo 1: descubra o motivo da nota baixa
 
-A nota é um resumo. Antes de agir, descubra o que a alimenta. Pela escala da Serasa, a faixa baixa vai de 0 a 300 e indica chance muito baixa de obter crédito; a faixa regular vai de 301 a 500 e indica chance razoável, com risco considerável. Acima de 500, a faixa é boa.
+A nota é um resumo. Antes de agir, descubra o que a alimenta. Pela escala da Serasa, a faixa baixa vai de 0 a 300 e indica chance muito baixa de obter crédito; a faixa regular vai de 301 a 500 e indica chance razoável, com risco considerável. Acima de 500, a faixa é boa (501 a 700) ou excelente (701 a 1.000).
 
 Para descobrir o motivo, faça o levantamento em quatro fontes, todas gratuitas:
 
 | Fonte | O que procurar | Como acessar |
 |---|---|---|
 | Serasa, Boa Vista, SPC e Quod | Negativações, consultas recentes e cadastro desatualizado | [Consulte o CPF nos bureaus](/artigos/consultar-score-gratis) |
-| Registrato do Banco Central | Atraso, prejuízo, limite não usado e cheques sem fundo | Conta gov.br prata ou ouro, pelo [passo a passo do Registrato](/artigos/registrato) |
+| Registrato do Banco Central | Atraso, prejuízo, limite não usado e cheques sem fundo | Login gov.br, pelo [passo a passo do Registrato](/artigos/registrato) |
 | Receita Federal | Situação cadastral do CPF | Site da Receita, com CPF e data de nascimento |
 | Seus próprios extratos | Parcelas, faturas em rotativo e assinaturas esquecidas | Internet banking e aplicativos de cartão |
 
@@ -72,7 +72,7 @@ Cada pedido de crédito gera uma consulta ao CPF, que conta contra no pilar de c
 - simule sem pedir análise formal, porque simulação e pedido de análise são coisas diferentes;
 - não feche empréstimo para "ter histórico", porque a nova parcela reduz o valor que você consegue financiar.
 
-Consultar o próprio score não entra nessa conta. A Serasa afirma que a consulta feita pelo consumidor não reduz a nota.
+Na página da Serasa sobre consultas, o excesso é tratado como buscas por crédito feitas por empresas. A consulta que você mesmo faz ao seu score não aparece ali como fator de queda.
 
 ## Passo 4: reduza o comprometimento de renda
 
@@ -101,7 +101,7 @@ Para quem é autônomo, o detalhe da comprovação está em [financiamento para 
 
 São ações simples e baratas, mas com efeito pequeno:
 
-- Atualize endereço, telefone, e-mail e renda nos bureaus. A Lei 12.414/2011 exige que o gestor corrija informação errada quando você pede.
+- Atualize endereço, telefone, e-mail e renda nos bureaus. Pela Lei 12.414/2011 (art. 5º, III), você pode impugnar informação errada no cadastro, e a correção ou o cancelamento deve sair em até 10 dias.
 - Confira se o Cadastro Positivo está ativo, porque ele mostra o histórico de pagamento de contas em dia, como explica [Cadastro Positivo e Open Finance](/artigos/cadastro-positivo-e-open-finance).
 - Mantenha contas e cartões antigos ativos, se a anuidade não pesar no orçamento.
 
@@ -135,11 +135,11 @@ Os valores de rotativo são aproximados e ilustrativos. A quitação do rotativo
 ## Erros comuns e cuidados
 
 - **Achar que score alto garante aprovação.** Renda, comprometimento, SCR e restrições pesam juntos.
-- **Pagar para "subir o score".** A Serasa afirma que ninguém altera a pontuação manualmente. Empresas que cobram para isso devem ser evitadas.
+- **Pagar para "subir o score".** A nota é calculada periodicamente pela Serasa, sem data fixa de atualização. Empresas que cobram para mexer nela devem ser evitadas.
 - **Pedir análise em vários bancos de uma vez.** Cada pedido gera consulta e pode criar ruído no histórico.
 - **Esquecer o SCR.** O banco vê as dívidas no SCR, mesmo que o score esteja bom.
 - **Assumir que o score vai resolver tudo sozinho.** Se a parcela não cabe na renda, a nota não muda o resultado.
-- **Entregar a senha do bureau ou do banco.** Nenhum deles pede senha por telefone ou mensagem.
+- **Entregar a senha do bureau ou do banco.** Bancos e bureaus não devem pedir senha por telefone ou mensagem.
 
 ## Quando desistir de esperar
 

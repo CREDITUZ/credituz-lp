@@ -4,7 +4,7 @@ description: "Como avaliar uma administradora de consórcio de imóvel: autoriza
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Não existe ranking oficial de melhores administradoras. O que existe são dados públicos para você checar autorização, reclamações e custo."
   - "Primeiro filtro: a empresa precisa ser autorizada pelo Banco Central. Vendedor ou site que não confirma isso deve ser descartado."

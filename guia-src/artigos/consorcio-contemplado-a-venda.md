@@ -4,7 +4,7 @@ description: "Comprar cota de consórcio contemplada: como funciona a transferê
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Comprar uma cota contemplada é assumir o lugar de alguém que já ganhou a carta: você paga um valor ao vendedor e continua as parcelas restantes."
   - "A transferência só vale com anuência prévia da administradora, que faz a sua análise de crédito, como prevê a Lei 11.795/2008."

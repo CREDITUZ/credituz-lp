@@ -4,7 +4,7 @@ description: "Como funciona o MCMV Rural em 2026: renda anual, subsídio para co
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "O MCMV Rural atende agricultores familiares, trabalhadores rurais e famílias que moram no campo, com subsídio para casa nova ou melhoria."
   - "A renda é anual. A Portaria MCID 333/2026, em vigor desde 1º/04/2026, traz a faixa atual. A Portaria 1.160/2025 e a Lei 14.620/2023 trazem valores anteriores ou de origem."

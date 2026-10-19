@@ -53,7 +53,7 @@ Essa diferença muda tudo. Na poupança, o imóvel só é comprado quando você 
 
 Em outubro de 2026, a Selic estava em 13,75% ao ano, após a decisão do Copom de 16 de setembro, unânime e com redução de 0,25 ponto. O CDI, referência para CDB, estava em 13,65%.
 
-A poupança segue regra própria. Pela Lei 8.177/1991, com a redação da Lei 12.703/2012, quando a meta da Selic está acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais a Taxa Referencial (TR). Com a TR em cerca de 2% ao ano, o rendimento efetivo fica perto de 8,3% ao ano. Um CDB de banco grande, atrelado a 100% do CDI, rende mais que isso antes do imposto de renda.
+A poupança segue regra própria. Pela Lei 8.177/1991, com a redação da Lei 12.703/2012, quando a meta da Selic está acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais a Taxa Referencial (TR). Supondo uma TR de cerca de 2% ao ano, hipótese que você deve trocar pela TR do período, o rendimento efetivo fica perto de 8,3% ao ano. Um CDB de banco grande, atrelado a 100% do CDI, rende mais que isso antes do imposto de renda.
 
 O CDB tem Imposto de Renda regressivo sobre o rendimento, de 22,5% em até 180 dias a 15% acima de 720 dias. Nos exemplos abaixo usamos 15%, que vale para aplicações de longo prazo.
 

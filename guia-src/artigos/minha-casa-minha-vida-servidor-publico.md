@@ -4,7 +4,7 @@ description: "Servidor público não tem linha própria no Minha Casa Minha Vida
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "Não encontramos uma linha federal do Minha Casa Minha Vida específica para servidores civis. As regras gerais de renda, imóvel e benefícios valem para a família do servidor."
   - "A renda considerada é a da família inteira. Pelo teto de R$ 13 mil da Portaria 333/2026, a soma de salários acima desse valor fica fora do programa."

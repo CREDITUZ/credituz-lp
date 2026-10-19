@@ -6,9 +6,9 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 9
 key_points:
-  - "A consulta de protestos pela central nacional dos cartórios (CENPROT) é gratuita por lei (Lei 9.492/1997, art. 41-A)."
+  - "A consulta de protestos pela central nacional dos cartórios (CENPROT) é gratuita (Lei 9.492/1997, art. 41-A, caput, III, e § 4º)."
   - "Pagar a dívida não cancela o protesto: é preciso pedir o cancelamento no tabelionato com o título original, a carta de anuência do credor ou a anuência eletrônica."
-  - "O cancelamento tem emolumentos, definidos por lei de cada estado; a anuência eletrônica dada pelo credor na central é gratuita."
+  - "O cancelamento tem emolumentos, definidos por lei de cada estado; confirme na central se a anuência eletrônica dada pelo credor tem algum custo."
   - "No financiamento, o protesto pesa duas vezes: no seu CPF, na análise de crédito, e no do vendedor, na análise jurídica do imóvel."
 faq:
   - q: "Como saber se tenho protesto no meu CPF?"
@@ -24,12 +24,14 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9492.htm"
   - title: "CENPROT: pesquisa gratuita de protestos"
     url: "https://www.pesquisaprotesto.com.br/"
-  - title: "IEPTB/Gazeta do Povo: cancelamento de protesto on-line e anuência eletrônica"
+  - title: "IEPTB, conteúdo publicitário na Gazeta do Povo: cancelamento de protesto on-line e anuência eletrônica"
     url: "https://www.gazetadopovo.com.br/conteudo-publicitario/ieptb/cancelamento-de-protesto-de-titulo-on-line-saiba-como-funciona-o-procedimento/"
   - title: "PGFN: manual de cancelamento de protesto pela CENPROT"
     url: "https://www.gov.br/pgfn/pt-br/servicos/orientacoes-contribuintes/protesto-de-certidao-da-divida-ativa-da-uniao/manualcancelamento-cenprot.pdf/@@download/file/manualCancelamento%20cenprot.pdf"
   - title: "STJ: Tema Repetitivo 725 (cancelamento do protesto cabe ao devedor após a quitação)"
     url: "https://informativos.trilhante.com.br/temas-stj/tema-repetitivo-725-stj"
+  - title: "Tese do Tema Repetitivo 725 do STJ, com REsp 1.339.436/SP (site secundário)"
+    url: "https://tesesesumulas.com.br/tese/stj/725"
   - title: "Código de Defesa do Consumidor (Lei 8.078/1990), art. 43"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
 related: [limpar-nome-antes-de-financiar, documentos-para-financiamento, nome-sujo-financiamento-imobiliario, serasa-limpa-nome]
@@ -54,7 +56,7 @@ Os cartórios informam protestos e cancelamentos às entidades de proteção ao 
 
 ## Como consultar protesto no seu CPF
 
-1. **Acesse a CENPROT.** O endereço oficial de consulta é pesquisaprotesto.com.br. Digite o endereço você mesmo. Pela Lei 9.492/1997 (art. 41-A, § 4º), a consulta sobre protestos é gratuita.
+1. **Acesse a CENPROT.** O endereço oficial de consulta é pesquisaprotesto.com.br. Digite o endereço você mesmo. Pela Lei 9.492/1997 (art. 41-A, caput, III, e § 4º), a consulta sobre protestos é gratuita.
 2. **Informe seu CPF.** O resultado diz se há protesto e em quais cartórios. Para ver valores e credores, o site pode pedir cadastro.
 3. **Anote cartório, credor e valor de cada protesto.** Você vai precisar disso para negociar e cancelar.
 4. **Se precisar de documento formal, peça a certidão.** O tabelião tem até cinco dias úteis para expedir a certidão, que cobre no mínimo os cinco anos anteriores ao pedido (art. 27). A certidão é paga.
@@ -72,7 +74,7 @@ O art. 26 da Lei 9.492/1997 diz que qualquer interessado pode pedir o cancelamen
 | O credor deu anuência eletrônica | Nada em papel: a anuência fica na central | CENPROT, com pagamento dos emolumentos |
 | Você discorda da dívida ou o credor sumiu | Ordem judicial | Pedido na Justiça |
 
-A anuência eletrônica é a opção mais prática. Pela lei, a central deve oferecer esse serviço, e ele é gratuito para quem dá a anuência. Depois que o credor autoriza, você entra na central, confere o pedido e paga os emolumentos para concluir.
+A anuência eletrônica costuma ser a opção mais prática, porque dispensa papel e firma reconhecida. A lei não detalha esse procedimento: ele é feito pela central, e o custo para o credor deve ser confirmado nela. Depois que o credor autoriza, você entra na central, confere o pedido e paga os emolumentos para concluir.
 
 ### Quem paga e quanto custa
 

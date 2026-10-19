@@ -4,7 +4,7 @@ description: "Trocar dívidas caras por um empréstimo com imóvel como garantia
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "Usar home equity para quitar dívidas caras, como cartão rotativo e crédito pessoal, pode reduzir muito o custo mensal e o total pago."
   - "A dívida sai da conta do cartão, mas o imóvel passa a ser a garantia. Se a parcela atrasar, o credor pode tomar o imóvel por procedimento de cartório."
@@ -25,7 +25,7 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm"
   - title: "Lei 9.514/1997 (alienação fiduciária de imóvel), arts. 26 e 27"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
-  - title: "Lei 14.690/2023 (limite de juros do rotativo do cartão a 100% do valor original)"
+  - title: "Lei 14.690/2023, art. 28 (limite dos juros e encargos do rotativo do cartão)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14690.htm"
   - title: "Agência Brasil: juros das famílias chegam a 64% ao ano, diz BC (30/07/2026, dados de junho)"
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/juros-das-familias-seguem-elevados-e-chegam-64-ao-ano-diz-bc"
@@ -33,8 +33,8 @@ sources:
     url: "https://www.jornaldocomercio.com/economia/2026/09/1265047-juro-medio-do-rotativo-do-cartao-de-credito-sobe-a-4449-ao-ano-em-agosto-diz-bc.html"
   - title: "Código de Defesa do Consumidor, arts. 54-A e 104-A (Lei 14.181/2021)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14181.htm"
-  - title: "Itaú, Santander e Bradesco: crédito com garantia de imóvel (consultados em out. 2026, dados do artigo de home equity)"
-    url: "https://www.itau.com.br/emprestimos-financiamentos/credito-garantia-imovel"
+  - title: "STJ, EREsp 1.559.348/DF (Segunda Seção, 24/05/2023), resumo de terceiros (Trilhante)"
+    url: "https://informativos.trilhante.com.br/julgados/stj-eresp-1559348-df"
 related: [home-equity, credito-com-garantia-de-imovel-taxas, golpes-de-credito-imobiliario, score-para-financiamento-imobiliario]
 ---
 
@@ -44,9 +44,9 @@ Este guia mostra quando a troca faz sentido, como fazer a conta e quais são os 
 
 ## O que é trocar dívida por home equity
 
-Você pega um empréstimo com garantia do seu imóvel, o banco aprova um valor com base na avaliação, e o dinheiro cai na sua conta. Com ele, você paga as dívidas existentes: cartão, cheque especial, empréstimo pessoal. A partir daí, em vez de várias dívidas com juros altos e prazos curtos, você tem uma parcela só, com juros menores e prazo longo, que pode chegar a 240 meses.
+Você pega um empréstimo com garantia do seu imóvel, o banco aprova um valor com base na avaliação, e o dinheiro cai na sua conta. Com ele, você paga as dívidas existentes: cartão, cheque especial, empréstimo pessoal. A partir daí, em vez de várias dívidas com juros altos e prazos curtos, você tem uma parcela só, com juros menores e prazo bem mais longo.
 
-A alienação fiduciária é o mecanismo que dá juros menores. Durante todo o contrato, a propriedade do imóvel fica em nome do credor até a quitação. Se você não paga, o credor pode retomar o imóvel por um procedimento no cartório, sem processo judicial, como prevê a Lei 9.514/1997. O STF confirmou a constitucionalidade desse procedimento em 2023.
+A alienação fiduciária é o mecanismo que dá juros menores. Durante todo o contrato, a propriedade do imóvel fica em nome do credor até a quitação. Se você não paga, o credor pode retomar o imóvel por um procedimento no cartório, sem processo judicial, como prevê a Lei 9.514/1997.
 
 ## Quanto custam as dívidas que você quer trocar
 
@@ -62,22 +62,23 @@ Esses números são médias de mercado. O seu contrato pode ser mais caro ou mai
 
 Exemplo ilustrativo, calculado em Python, com tabela Price e sem seguros, tarifas ou IOF. Suponha duas dívidas:
 
-- R$ 45 mil em crédito pessoal, a 4,21% ao mês (64% ao ano), em 48 meses.
-- R$ 15 mil no rotativo do cartão, a 15,18% ao mês (444,9% ao ano), quitados em 24 meses.
+- R$ 45 mil em crédito pessoal, a 4,21% ao mês (cerca de 64% ao ano), em 48 meses.
+- R$ 15 mil no rotativo do cartão, a 15,18% ao mês (444,9% ao ano), quitados em 6 meses.
 
-Sem a troca, as parcelas somam cerca de R$ 4.554 por mês nos primeiros 24 meses, e depois R$ 2.198 por mais 24 meses. O total pago fica em torno de R$ 162 mil.
+Usamos 6 meses para o rotativo porque, com 24 meses, os juros do rotativo somariam cerca de 277% do valor original, acima do teto de 100% que a Lei 14.690/2023 prevê para os juros e encargos do rotativo. Confirme com o banco como essa regra se aplica ao seu caso.
 
-Agora a troca: um home equity de R$ 60 mil, a 1,3% ao mês (cerca de 16,8% ao ano), com parcelas em tabela Price.
+Sem a troca, as parcelas somam cerca de R$ 6.180 por mês nos primeiros 6 meses, e depois R$ 2.198 por mais 42 meses. O total pago fica em torno de R$ 129 mil.
+
+Agora a troca: um home equity de R$ 60 mil, a 1,3% ao mês (cerca de 16,8% ao ano), com parcelas em tabela Price. A taxa de 1,3% é um exemplo, abaixo da taxa mínima de 1,55% ao mês que o Itaú divulgou na página consultada.
 
 | Cenário | Parcela mensal | Prazo | Total pago | Juros totais |
 |---|---|---|---|---|
-| Sem a troca (dívidas originais) | R$ 4.554 nos 24 primeiros meses, depois R$ 2.198 | 48 meses | cerca de R$ 162.000 | cerca de R$ 102.000 |
+| Sem a troca (dívidas originais) | R$ 6.180 nos 6 primeiros meses, depois R$ 2.198 | 48 meses | cerca de R$ 129.000 | cerca de R$ 69.000 |
 | Home equity a 1,3% ao mês | R$ 1.446 | 60 meses | R$ 86.782 | R$ 26.782 |
 | Home equity a 1,3% ao mês | R$ 990 | 120 meses | R$ 118.821 | R$ 58.821 |
+| Home equity a 1,55% ao mês | R$ 1.543 | 60 meses | R$ 92.595 | R$ 32.595 |
 
-A taxa de 1,3% ao mês usada aqui é um exemplo dentro da faixa que os bancos divulgam para o produto, de 1,12% a 1,59% ao mês como taxa mínima, e não uma oferta. A proposta real depende de perfil, imóvel e prazo.
-
-A conta mostra dois pontos. Primeiro, o alívio no fluxo é grande: a parcela cai de mais de R$ 4 mil para R$ 1.446. Segundo, o prazo de 120 meses reduz a parcela para R$ 990, mas quase dobra os juros em relação aos 60 meses. Por isso, escolha o menor prazo que caiba no orçamento com folga.
+A conta mostra dois pontos. Primeiro, o alívio no fluxo é grande: a parcela cai de R$ 6.180 nos primeiros meses para R$ 1.446. Segundo, o prazo de 120 meses reduz a parcela para R$ 990, mas mais que dobra os juros em relação aos 60 meses. Por isso, escolha o menor prazo que caiba no orçamento com folga. Com a taxa de 1,55% ao mês, o custo sobe, mas o total pago continua muito abaixo do cenário sem a troca.
 
 ## Quando faz sentido
 
@@ -109,12 +110,12 @@ O risco principal é a perda do imóvel, e ele é concreto. O procedimento da Le
 4. Até o segundo leilão, você pode recomprar o imóvel pagando a dívida e as despesas.
 5. Se o leilão render mais que a dívida, a diferença é devolvida a você. Se render menos, você pode continuar devendo o restante.
 
-Sobre a casa onde a família mora, o STJ, no REsp 1.560.562, entendeu que quem oferece o próprio bem de família em alienação fiduciária não pode depois usar a impenhorabilidade para escapar da execução. Ou seja, a casa pode ser perdida.
+Sobre a casa onde a família mora, o STJ (EREsp 1.559.348/DF, Segunda Seção, 2023) entendeu que quem oferece o único imóvel residencial em alienação fiduciária não conta com a proteção irrestrita do bem de família. Ou seja, a casa pode ser perdida.
 
 A Lei 14.711/2023, o Marco Legal das Garantias, trouxe mudanças que aumentam o risco de quem assina:
 
 - **Mais de uma garantia no mesmo imóvel.** Um credor pode ter a alienação fiduciária já registrada e outro pode vir depois, por ordem.
-- **Extensão da garantia.** Novas operações com o mesmo credor podem ser cobertas pela garantia já existente. Se você atrasar uma delas, o credor pode cobrar todas de uma vez.
+- **Extensão da garantia.** Novas operações com o mesmo credor podem ser cobertas pela garantia já existente. Se você atrasar uma delas, o credor pode cobrar todas de uma vez, se o contrato previr essa cláusula.
 - **Saldo devedor após o leilão.** Em operações que não são financiamento para moradia, se o leilão não cobrir a dívida, você continua devendo a diferença.
 
 Leia o contrato procurando as expressões "vencimento antecipado" e "extensão de garantia". Elas determinam o que acontece com todas as suas dívidas se uma parcela atrasar.
@@ -138,7 +139,7 @@ Se a dívida já ultrapassou a capacidade de pagamento, a garantia pode ser o ú
 
 Há uma limitação importante: a repactuação não alcança dívidas com garantia real nem financiamentos imobiliários. Por isso, se você ainda tem alternativa de renegociação sem colocar a casa em garantia, ela deve ser avaliada antes. Procure um Procon, a Defensoria Pública ou um advogado para esse caminho.
 
-Também vale lembrar que o rotativo do cartão tem limite. Desde janeiro de 2024, a Lei 14.690/2023 limita os juros acumulados do rotativo a 100% do valor original da dívida, ou seja, a dívida não pode passar do dobro do que foi usado. Confirme na sua fatura e com o banco como essa regra se aplica ao seu caso.
+Também vale lembrar que o rotativo do cartão tem limite. A Lei 14.690/2023 (art. 28) prevê que, se o Conselho Monetário Nacional não fixar outros limites em até 90 dias da publicação da lei, o total de juros e encargos do rotativo não pode exceder o valor original da dívida. Confirme na sua fatura e com o banco como essa regra se aplica ao seu caso.
 
 ## Golpes para ficar atento
 
@@ -148,12 +149,12 @@ Quem está endividado é alvo frequente de golpes. Desconfie de quem:
 - promete aprovação sem análise de crédito e sem avaliação do imóvel;
 - oferece "quitar sua dívida" em troca de taxa ou de dados bancários.
 
-Os bancos não cobram para liberar crédito, e a avaliação e o registro são cobrados dentro da operação, com contrato. O guia de [golpes de crédito imobiliário](/artigos/golpes-de-credito-imobiliario) reúne os sinais mais comuns.
+Bancos regulares não cobram taxa antecipada para liberar crédito. A avaliação e o registro são pagos dentro da própria operação, com contrato. O guia de [golpes de crédito imobiliário](/artigos/golpes-de-credito-imobiliario) reúne os sinais mais comuns.
 
 ## Resumo
 
 - Home equity para quitar dívidas caras pode reduzir a parcela e o custo total, mas troca dívida sem garantia por dívida com a casa como garantia.
-- No exemplo, R$ 60 mil de dívidas que custavam cerca de R$ 162 mil em 48 meses passariam a R$ 86 mil em 60 meses com home equity a 1,3% ao mês.
+- No exemplo, R$ 60 mil de dívidas que custariam cerca de R$ 129 mil até o mês 48 passariam a cerca de R$ 87 mil em 60 meses, com home equity a 1,3% ao mês.
 - A conta só funciona se o gasto que gerou a dívida parar; caso contrário, a dívida volta com a casa em garantia.
 - O procedimento de execução pelo cartório permite perder o imóvel em cerca de 15 dias após a intimação por atraso, sem processo judicial.
 - Se a dívida já é grande, avalie a repactuação pelo Código de Defesa do Consumidor e um atendimento jurídico antes de contratar.

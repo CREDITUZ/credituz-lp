@@ -4,7 +4,7 @@ description: "Entenda a taxa de administração do consórcio de imóvel: regras
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "A taxa de administração é a remuneração da administradora: um percentual fixo sobre a carta, diluído nas parcelas do plano."
   - "Não há teto legal. O STJ (Súmula 538) aceita taxas acima de 10%, e a média dos grupos novos de imóveis foi de 20,84% em dezembro de 2024, segundo o Banco Central."

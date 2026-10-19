@@ -4,7 +4,7 @@ description: "Documentos do Minha Casa Minha Vida em 2026: CadÚnico e prefeitur
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Não existe uma lista única. Os documentos mudam conforme o caminho: cadastro da prefeitura, entidade organizadora ou análise de crédito no banco."
   - "Todos os adultos que moram na casa e contribuem com a renda precisam apresentar documento com foto e CPF."
@@ -33,6 +33,8 @@ sources:
     url: "https://itarare.sp.gov.br/wp-content/uploads/2024/10/Lista_de_documentos_necessarios_atualizada.pdf"
   - title: "Portaria MCID nº 1.160/2025, versão compilada (documentos do MCMV Rural)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PortariaMCID1.160_2026_versaocompilada.pdf"
+  - title: "Lei nº 14.620/2023, Programa Minha Casa, Minha Vida (Planalto), art. 5º, §1º"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14620.htm"
 related: [documentos-para-financiamento, minha-casa-minha-vida-cadunico, minha-casa-minha-vida-como-se-inscrever, minha-casa-minha-vida-rural]
 ---
 

@@ -25,7 +25,7 @@ sources:
   - title: "Código Civil (Lei 10.406/2002), arts. 189, 191, 202, 205, 206 e 882"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
   - title: "STJ: Súmula 323 (prazo máximo de 5 anos nos cadastros)"
-    url: "https://arquivocidadao.stj.jus.br/index.php/sumula-323"
+    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?sumula=323"
   - title: "AASP/STJ: limite de permanência em cadastro negativo é contado do vencimento da dívida"
     url: "https://www.aasp.org.br/noticias/stj-para-terceira-turma-limite-de-permanencia-em-cadastro-negativo-deve-ser-contado-do-vencimento-da-divida/"
   - title: "Lei 7.357/1985 (Lei do Cheque), arts. 33, 59 e 61"
@@ -34,8 +34,8 @@ sources:
     url: "https://www.migalhas.com.br/quentes/457890/stj-suspende-analise-sobre-cobranca-extrajudicial-de-divida-prescrita"
   - title: "Serasa: termos de uso do Serasa Limpa Nome (dívidas com mais de 5 anos)"
     url: "https://www.serasa.com.br/app/termos-uso-serasa-limpa-nome/"
-  - title: "Idec: prazo de prescrição de dívidas e nome sujo"
-    url: "https://idec.org.br/dicas-e-direitos/nome-sujo-saiba-qual-o-prazo-para-prescricao-de-dividas"
+  - title: "Conjur: STJ concede perdão ao devedor de débito prescrito (REsp 2.088.100/SP, nov. 2023)"
+    url: "https://www.conjur.com.br/2023-nov-27/stj-concede-perdao-ao-devedor-de-debito-prescrito//?print=1"
 related: [nome-sujo-financiamento-imobiliario, serasa-limpa-nome, registrato, limpar-nome-antes-de-financiar]
 ---
 
@@ -71,10 +71,10 @@ O enquadramento exato de cada dívida pode gerar discussão, e o cheque ainda ad
 
 ### Quando o prazo começa e quando ele recomeça
 
-Em geral, a contagem começa no vencimento da dívida, quando nasce o direito de cobrar (Código Civil, art. 189). Duas situações mudam a conta:
+Em geral, a contagem começa no vencimento da dívida, que é quando o credor passa a poder cobrar (Código Civil, art. 189). Duas situações mudam a conta:
 
-- **Interrupção.** O art. 202 do Código Civil lista atos que zeram o prazo, como o reconhecimento da dívida pelo devedor. A interrupção só pode acontecer uma vez.
-- **Renúncia.** Pelo art. 191, quem paga ou faz acordo depois de a dívida prescrever pode ser visto como tendo renunciado à prescrição.
+- **Interrupção.** O art. 202 do Código Civil lista atos que reiniciam a contagem, como o reconhecimento inequívoco da dívida pelo devedor (inciso VI). A interrupção só pode acontecer uma vez.
+- **Renúncia.** Pelo art. 191, a renúncia à prescrição, expressa ou tácita, só vale depois que a prescrição se consuma. Pagar ou fazer acordo depois disso pode ser visto como renúncia tácita.
 
 Fazer um acordo novo sobre uma dívida antiga, por isso, não é um gesto neutro: ele cria uma nova obrigação, com novos vencimentos, que pode voltar a ser negativada se você parar de pagar.
 
@@ -97,7 +97,7 @@ Depois de 5 anos do vencimento:
 
 ### A discussão no STJ
 
-Há divergência sobre a cobrança fora da Justiça. Uma decisão da Terceira Turma do STJ (REsp 2.088.100/SP) é citada como sinal de visão restritiva, no sentido de que a prescrição também impede a cobrança extrajudicial; outra decisão (REsp 2.103.726) distinguiu a simples exibição em plataforma de negociação da cobrança ativa. Para uniformizar, o tribunal afetou o Tema 1.264 dos recursos repetitivos. O julgamento na Segunda Seção foi suspenso em 10 de junho de 2026 por pedido de vista, e não localizamos tese fixada até a data deste artigo. Acompanhe pelo site do STJ.
+Há divergência sobre a cobrança fora da Justiça. Na Terceira Turma, o REsp 2.088.100/SP (relatora Ministra Nancy Andrighi, julgamento unânime) entendeu que, reconhecida a prescrição, não é lícito ao credor fazer cobrança extrajudicial da dívida. Segundo comentário publicado pela Conjur, o acórdão menciona expressamente plataformas como o Serasa Limpa Nome. Para uniformizar o tema, o STJ afetou o Tema 1.264 dos recursos repetitivos. O julgamento na Segunda Seção começou em 10 de junho de 2026 e foi suspenso por pedido de vista do relator, sem tese fixada até a data deste artigo. Acompanhe pelo site do STJ.
 
 ## Exemplo prático: duas dívidas, duas decisões
 
@@ -110,7 +110,7 @@ Exemplo ilustrativo. Paula quer financiar um imóvel em 2027 e encontrou duas d�
 
 **Cartão de loja.** A negativação já deveria ter saído. Se ainda aparece, ela pede a exclusão. Pagar não é obrigatório, e o que for pago não volta (Código Civil, art. 882). Como a loja não é banco e não vai analisar o financiamento, deixar como está costuma ser razoável.
 
-**Empréstimo no banco X.** Esperar a dívida "caducar" significaria pedir o financiamento só depois de agosto de 2027, e mesmo assim o banco X guardaria o histórico. Se ela pretende financiar no banco X ou não quer esperar, negociar faz mais sentido. Em reais: com um acordo hipotético de 60% de desconto, ela pagaria R$ 1.800 e anteciparia o pedido em quase um ano. Essa dívida, aliás, tem o perfil do Desenrola 3.0 (abaixo de R$ 10 mil, vencida entre 2022 e 2024), que prevê acordos a partir de fevereiro de 2027; veja [como está o Desenrola](/artigos/desenrola).
+**Empréstimo no banco X.** Esperar a dívida "caducar" significaria pedir o financiamento só depois de agosto de 2027, e mesmo assim o banco X guardaria o histórico. Se ela pretende financiar no banco X ou não quer esperar, negociar faz mais sentido. Em reais: com um acordo hipotético de 60% de desconto, ela pagaria R$ 1.800 e anteciparia o pedido em quase um ano. Essa dívida, aliás, tem o perfil do Desenrola 3.0 (abaixo de R$ 10 mil, vencida entre 2022 e 2024), com cronograma noticiado de acordos a partir de fevereiro de 2027; veja [como está o Desenrola](/artigos/desenrola).
 
 ## Erros comuns e cuidados
 
