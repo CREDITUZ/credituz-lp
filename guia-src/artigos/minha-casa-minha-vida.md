@@ -10,19 +10,23 @@ key_points:
   - "O teto do imóvel vai de R$ 210 mil a R$ 275 mil nas Faixas 1 e 2 (conforme a cidade), R$ 400 mil na Faixa 3 e R$ 600 mil na Faixa 4."
   - "Os juros começam em cerca de 4% ao ano na Faixa 1 e chegam a cerca de 10% ao ano (nominal) na Faixa 4, o que dá perto de 10,5% em taxa efetiva."
   - "Subsídio, o desconto que reduz o valor a pagar, existe só nas Faixas 1 e 2."
-  - "Quem já tem imóvel residencial, financiamento ativo no SFH ou recebeu benefício habitacional federal nos últimos 10 anos não pode participar."
+  - "Quem já tem imóvel residencial, financiamento ativo no SFH ou recebeu benefício habitacional federal não pode participar (a MP 1.382/2026 retirou o antigo limite de 10 anos)."
 faq:
   - q: "Qual a renda máxima para o Minha Casa Minha Vida em 2026?"
     a: "R$ 13 mil de renda bruta familiar mensal em área urbana, limite da Faixa 4 desde abril de 2026. Antes, o teto era R$ 12 mil."
   - q: "Quem ganha até R$ 3.200 precisa se inscrever na prefeitura?"
-    a: "Para os imóveis subsidiados quase integralmente da Faixa 1, sim: a seleção é feita por prefeituras ou governos estaduais, a partir do CadÚnico. Também é possível comprar um imóvel diretamente com financiamento pela Caixa ou por um banco habilitado."
+    a: "Para os imóveis subsidiados quase integralmente da Faixa 1, sim: a seleção é feita por prefeituras ou governos estaduais, a partir do CadÚnico. Também é possível comprar um imóvel diretamente com financiamento pela Caixa ou pelo Banco do Brasil, que operam o programa."
   - q: "Nome sujo impede de participar?"
     a: "Não impede a inscrição, mas nas faixas com financiamento o banco faz análise de crédito e pode negar. Na Faixa 1 com seleção pela prefeitura, o peso é menor."
   - q: "Posso usar o FGTS no Minha Casa Minha Vida?"
     a: "Sim. O FGTS pode ser usado na entrada, para amortizar o saldo e para ajudar nas parcelas, desde que você cumpra as regras do fundo, como ter 3 anos de trabalho com carteira assinada."
   - q: "A Faixa 4 aceita imóvel usado?"
-    a: "Sim, a Faixa 4 aceita imóvel novo ou usado dentro do teto de R$ 600 mil. Desde o lançamento da faixa, o imóvel usado tem cota menor no Sul e no Sudeste (60% do valor, contra 80% nas demais regiões), então a entrada pesa mais. Confirme na simulação do banco."
+    a: "Sim, a Faixa 4 aceita imóvel novo ou usado dentro do teto de R$ 600 mil. O imóvel usado tem cota menor no Sul e no Sudeste: a IN MCID 45/2025 limita a 60% do valor, contra até 80% nas demais situações, segundo a Caixa, então a entrada pesa mais. Confirme na simulação do banco."
 sources:
+  - title: "MP 1.382/2026, sumário do Senado (altera a Lei 14.620/2023)"
+    url: "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1382"
+  - title: "Instrução Normativa MCID nº 45/2025, compilada"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/instrucoes-normativas/20260408_INSTRUO_NORMATIVA_N._45_COMPILADA.pdf"
   - title: "Portaria MCID nº 333, de 30 de março de 2026 (limites de renda urbanos e rurais)"
     url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PORTARIAMCIDN333DE30DEMARODE2026.pdf"
   - title: "FGTS eleva para R$ 13 mil limite de renda do Minha Casa, Minha Vida (O Povo, 24/03/2026)"
@@ -59,7 +63,7 @@ Como ler a tabela:
 - **O teto das Faixas 1 e 2** depende do porte e da região do município. O Conselho Curador do FGTS subiu esses limites em novembro e dezembro de 2025, e o teto mais alto chegou a R$ 275 mil.
 - **Os juros** são faixas de referência divulgadas na imprensa a partir de anúncios do governo e das condições da Caixa, e as reportagens nem sempre coincidem. Na Faixa 3, por exemplo, a taxa mais citada é 7,66% para cotistas do FGTS e 8,16% para os demais, e algumas reportagens mencionam taxas a partir de 6,5%. A taxa exata depende da sua renda dentro da faixa, da região e de você ter ou não 3 anos de FGTS: as pontas mais baixas valem para cotistas do FGTS e regiões Norte e Nordeste, e as mais altas para quem não é cotista. A Faixa 1, por exemplo, ganhou taxa de 4,5% ao ano para rendas entre R$ 2.850,01 e R$ 3.200.
 - **Na Faixa 4, 10% ou 10,5%?** A Caixa divulgou a taxa como juro nominal de 10% ao ano. Convertida para taxa efetiva, ela fica perto de 10,5%, por isso parte da imprensa publica um número e parte publica o outro. Compare sempre pelo CET (Custo Efetivo Total) da simulação.
-- **Imóvel usado na Faixa 4** é aceito. Pelas regras divulgadas no lançamento da faixa, o banco financia até 80% do imóvel novo em todo o país e do usado no Norte, Nordeste e Centro-Oeste, mas só 60% do usado no Sul e no Sudeste.
+- **Imóvel usado na Faixa 4** é aceito. A IN MCID 45/2025 (art. 6º) limita o financiamento do usado no Sul e no Sudeste a 60% do valor. Nos demais casos (imóvel novo em todo o país e usado no Norte, Nordeste e Centro-Oeste), a Caixa divulga cota de até 80%.
 
 Para comparação, o Jornal de Brasília apontava em maio de 2026 taxas de 12% ao ano ou mais no mercado para o mesmo perfil.
 
@@ -73,7 +77,7 @@ As condições básicas valem para todas as faixas:
 - ter renda familiar dentro de uma das faixas;
 - nenhum membro da família ter imóvel residencial em seu nome;
 - não ter financiamento habitacional ativo no SFH (Sistema Financeiro da Habitação);
-- não ter recebido, nos últimos 10 anos, benefício de programa habitacional federal com recursos do FGTS ou de fundos como FAR e FDS, salvo exceções como calamidade pública.
+- não ter recebido benefício de programa habitacional federal com recursos do FGTS ou de fundos como FAR e FDS, salvo exceções como calamidade pública. Até agosto de 2026 essa vedação valia só para os últimos 10 anos; a MP 1.382/2026 retirou esse limite, e a regra pode mudar de novo se a MP não for convertida em lei.
 
 Nas faixas com financiamento, o banco faz análise de crédito como em qualquer contrato. A idade somada ao prazo também tem limite, definido pelo banco, o que encurta o prazo para quem contrata mais velho. Quem tem restrição no CPF pode se inscrever, mas a aprovação do crédito fica mais difícil.
 
@@ -121,7 +125,7 @@ Não existe taxa para entrar na fila. Desconfie de quem cobra para "garantir vag
 ### Faixas 2, 3 e 4, e Faixa 1 com financiamento
 
 1. Some a renda bruta da família e descubra a faixa.
-2. Faça a simulação no simulador habitacional da Caixa ou de um banco habilitado.
+2. Faça a simulação no simulador habitacional da Caixa ou do Banco do Brasil.
 3. Escolha um imóvel novo, usado ou na planta dentro do teto da faixa. Muitas construtoras vendem unidades já enquadradas. Se for usado, confira a cota de financiamento da sua região.
 4. Reúna documentos pessoais, de renda e do imóvel. A lista completa está em [documentos para financiamento](/artigos/documentos-para-financiamento).
 5. Entregue para análise de crédito, aguarde a avaliação do imóvel e assine o contrato.

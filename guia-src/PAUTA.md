@@ -1,19 +1,19 @@
 # Pauta do Guia Credituz: meta de 50 artigos por categoria
 
 Prioridade dentro de cada categoria: de cima para baixo (intenção de busca e valor de anúncio
-mais altos primeiro). [O1] marca a onda 1. Cada onda tem de 20 a 30 artigos e só entra no ar
+mais altos primeiro). [O1 publicado] marca a onda 1. Cada onda tem de 20 a 30 artigos e só entra no ar
 depois da checagem de fatos. Antes de escrever, confira se o tema não repete um artigo existente.
 
 ## financiamento (10 publicados, faltam 40)
-- [O1] financiamento-caixa: como funciona o financiamento imobiliário da Caixa, linhas, cota, prazo e simulação
-- [O1] financiamento-banco-do-brasil: financiamento imobiliário no Banco do Brasil
-- [O1] financiamento-itau: financiamento imobiliário no Itaú
-- [O1] financiamento-santander: financiamento imobiliário no Santander
-- financiamento-bradesco: financiamento imobiliário no Bradesco
-- financiamento-inter: financiamento imobiliário no Banco Inter
+- [O1 publicado] financiamento-caixa: como funciona o financiamento imobiliário da Caixa, linhas, cota, prazo e simulação
+- [O1 publicado] financiamento-banco-do-brasil: financiamento imobiliário no Banco do Brasil
+- [O1 publicado] financiamento-itau: financiamento imobiliário no Itaú
+- [O1 publicado] financiamento-santander: financiamento imobiliário no Santander
+- [O2 publicado] financiamento-bradesco: financiamento imobiliário no Bradesco
+- [O2 publicado] financiamento-inter: financiamento imobiliário no Banco Inter
 - financiamento-nubank-e-bancos-digitais: bancos digitais no crédito imobiliário
-- simulacao-financiamento-passo-a-passo: como simular e comparar propostas de vários bancos
-- cet-financiamento-imobiliario: o que é o CET e como ler
+- [O2 publicado] simulacao-financiamento-passo-a-passo: como simular e comparar propostas de vários bancos
+- [O2 publicado] cet-financiamento-imobiliario: o que é o CET e como ler
 - tr-no-financiamento: como a TR corrige o saldo
 - financiamento-corrigido-pelo-ipca: crédito imobiliário com IPCA, vantagens e riscos
 - taxa-prefixada-ou-pos-fixada: qual escolher
@@ -47,14 +47,14 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - correspondente-bancario: o que faz e quanto custa
 
 ## fgts (3 publicados, faltam 47)
-- [O1] consultar-saldo-fgts: como ver o saldo e o extrato
-- [O1] fgts-imovel-na-planta: usar o FGTS em imóvel na planta
-- [O1] fgts-para-construir: FGTS na construção da casa
-- [O1] fgts-de-dois-compradores: casal usando o FGTS junto
-- fgts-imovel-usado
+- [O1 publicado] consultar-saldo-fgts: como ver o saldo e o extrato
+- [O1 publicado] fgts-imovel-na-planta: usar o FGTS em imóvel na planta
+- [O1 publicado] fgts-para-construir: FGTS na construção da casa
+- [O1 publicado] fgts-de-dois-compradores: casal usando o FGTS junto
+- [O2 publicado] fgts-imovel-usado
 - fgts-em-outra-cidade: regra do município
 - fgts-para-quitar-saldo-devedor
-- fgts-pagar-prestacoes-atrasadas
+- [O2 publicado] fgts-pagar-prestacoes-atrasadas
 - fgts-na-portabilidade
 - fgts-para-reforma: quando pode e quando não pode
 - fgts-terreno: dá para usar em terreno
@@ -64,9 +64,9 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - fgts-autonomo-e-mei: quem não tem FGTS
 - fgts-aposentado
 - fgts-de-quem-ja-tem-imovel
-- documentos-para-usar-fgts
+- [O2 publicado] documentos-para-usar-fgts
 - prazo-para-liberar-fgts-na-compra
-- fgts-negado-motivos
+- [O2 publicado] fgts-negado-motivos
 - fgts-e-minha-casa-minha-vida
 - fgts-futuro: o que é e como funciona
 - fgts-e-consorcio
@@ -96,16 +96,16 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - fgts-para-quem-trabalha-em-duas-empresas
 
 ## programas (2 publicados, faltam 48)
-- [O1] minha-casa-minha-vida-faixa-1: regras, subsídio e inscrição
-- [O1] minha-casa-minha-vida-faixa-3: regras e limites
-- [O1] minha-casa-minha-vida-faixa-4: classe média no programa
-- [O1] subsidio-minha-casa-minha-vida: como é calculado
-- minha-casa-minha-vida-imovel-usado
+- [O1 publicado] minha-casa-minha-vida-faixa-1: regras, subsídio e inscrição
+- [O1 publicado] minha-casa-minha-vida-faixa-3: regras e limites
+- [O1 publicado] minha-casa-minha-vida-faixa-4: classe média no programa
+- [O1 publicado] subsidio-minha-casa-minha-vida: como é calculado
+- [O2 publicado] minha-casa-minha-vida-imovel-usado
 - minha-casa-minha-vida-reforma: linha de reforma
 - minha-casa-minha-vida-rural
 - minha-casa-minha-vida-entidades
 - minha-casa-minha-vida-documentos
-- minha-casa-minha-vida-como-se-inscrever
+- [O2 publicado] minha-casa-minha-vida-como-se-inscrever
 - minha-casa-minha-vida-cadunico
 - minha-casa-minha-vida-sorteio
 - minha-casa-minha-vida-servidor-publico
@@ -135,8 +135,8 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - mercado-imobiliario-2026: panorama para o comprador
 - preco-dos-imoveis-2026: FipeZap e tendência
 - melhores-cidades-para-comprar-imovel
-- imovel-de-leilao-caixa: como funciona
-- venda-direta-caixa
+- [O2 publicado] imovel-de-leilao-caixa: como funciona
+- [O2 publicado] venda-direta-caixa
 - imoveis-retomados-bancos
 - programa-casa-verde-e-amarela-o-que-mudou (histórico)
 - moradia-para-idosos-programas
@@ -146,18 +146,18 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - programa-de-arrendamento-residencial-par
 
 ## credito (4 publicados, faltam 46)
-- [O1] aumentar-score-rapido: o que funciona e o que é mito
-- [O1] consultar-score-gratis: Serasa, Boa Vista, Quod, SPC
-- [O1] registrato: como consultar o SCR no Banco Central
-- [O1] limpar-nome-antes-de-financiar: negociação e prazos
+- [O1 publicado] aumentar-score-rapido: o que funciona e o que é mito
+- [O1 publicado] consultar-score-gratis: Serasa, Boa Vista, Quod, SPC
+- [O1 publicado] registrato: como consultar o SCR no Banco Central
+- [O1 publicado] limpar-nome-antes-de-financiar: negociação e prazos
 - serasa-limpa-nome: como funciona
 - desenrola: programa de renegociação
 - divida-prescrita: o que é e o que muda
 - protesto-em-cartorio: como consultar e baixar
 - cheque-sem-fundo-ccf
 - cpf-irregular-receita
-- comprometimento-de-renda
-- analise-de-credito-como-funciona
+- [O2 publicado] comprometimento-de-renda
+- [O2 publicado] analise-de-credito-como-funciona
 - score-baixo-o-que-fazer
 - score-alto-garante-aprovacao
 - cadastro-positivo-como-cancelar
@@ -170,7 +170,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - avalista-e-fiador
 - renda-informal-comprovacao
 - extrato-bancario-como-renda
-- declaracao-de-imposto-de-renda-e-financiamento
+- [O2 publicado] declaracao-de-imposto-de-renda-e-financiamento
 - carne-leao-e-financiamento
 - pro-labore-socio-empresa
 - renda-de-aluguel-como-comprovacao
@@ -181,7 +181,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - primeiro-emprego-e-financiamento
 - contrato-temporario-e-financiamento
 - pj-e-financiamento-pessoa-fisica
-- golpes-de-credito-imobiliario: como evitar
+- [O2 publicado] golpes-de-credito-imobiliario: como evitar
 - falso-correspondente-bancario
 - taxa-antecipada-golpe
 - simulador-falso
@@ -194,13 +194,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - score-quod
 
 ## custos (5 publicados, faltam 45)
-- [O1] itbi-sao-paulo: alíquota, cálculo e desconto SFH em SP
-- [O1] itbi-rio-de-janeiro
-- [O1] escritura-e-registro-quanto-custa
-- [O1] taxa-de-avaliacao-do-imovel: quanto cobra cada banco
-- itbi-belo-horizonte
-- itbi-brasilia
-- itbi-curitiba
+- [O1 publicado] itbi-sao-paulo: alíquota, cálculo e desconto SFH em SP
+- [O1 publicado] itbi-rio-de-janeiro
+- [O1 publicado] escritura-e-registro-quanto-custa
+- [O1 publicado] taxa-de-avaliacao-do-imovel: quanto cobra cada banco
+- [O2 publicado] itbi-belo-horizonte
+- [O2 publicado] itbi-brasilia
+- [O2 publicado] itbi-curitiba
 - itbi-porto-alegre
 - itbi-salvador
 - itbi-fortaleza
@@ -213,7 +213,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - itbi-vitoria
 - isencao-itbi: quando existe
 - itbi-parcelado
-- registro-de-imovel-passo-a-passo
+- [O2 publicado] registro-de-imovel-passo-a-passo
 - matricula-do-imovel: como ler
 - certidoes-do-imovel
 - certidoes-do-vendedor
@@ -241,10 +241,10 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - imposto-de-renda-aluguel
 
 ## alternativas (3 publicados, faltam 47)
-- [O1] consorcio-imobiliario-como-funciona
-- [O1] lance-no-consorcio: como dar e calcular
-- [O1] credito-com-garantia-de-imovel-taxas
-- [O1] aluguel-com-opcao-de-compra
+- [O1 publicado] consorcio-imobiliario-como-funciona
+- [O1 publicado] lance-no-consorcio: como dar e calcular
+- [O1 publicado] credito-com-garantia-de-imovel-taxas
+- [O1 publicado] aluguel-com-opcao-de-compra
 - consorcio-melhores-administradoras: como avaliar (sem ranking pago)
 - consorcio-contemplado-a-venda
 - consorcio-taxa-de-administracao
@@ -254,10 +254,10 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - home-equity-para-quitar-dividas
 - home-equity-riscos
 - refinanciamento-de-imovel
-- comprar-a-vista-ou-financiar
-- investir-ou-quitar-financiamento
+- [O2 publicado] comprar-a-vista-ou-financiar
+- [O2 publicado] investir-ou-quitar-financiamento
 - fundos-imobiliarios-x-imovel
-- comprar-imovel-para-alugar: rentabilidade
+- [O2 publicado] comprar-imovel-para-alugar: rentabilidade
 - airbnb-x-aluguel-tradicional
 - imovel-na-planta-como-investimento
 - leilao-de-imoveis-guia
@@ -277,7 +277,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - reajuste-do-aluguel-igpm-ipca
 - morar-de-aluguel-e-investir: simulação
 - casa-ou-apartamento
-- imovel-novo-ou-usado
+- [O2 publicado] imovel-novo-ou-usado
 - imovel-em-condominio
 - imovel-pequeno-studio
 - comprar-imovel-com-amigos
@@ -290,13 +290,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - previdencia-e-imovel
 
 ## direitos (3 publicados, faltam 47)
-- [O1] vicios-construtivos: defeitos na obra e garantia
-- [O1] desistir-da-compra-arrependimento
-- [O1] corretagem-abusiva-e-sati
-- [O1] cobranca-indevida-financiamento
-- revisao-de-contrato-financiamento
+- [O1 publicado] vicios-construtivos: defeitos na obra e garantia
+- [O1 publicado] desistir-da-compra-arrependimento
+- [O1 publicado] corretagem-abusiva-e-sati
+- [O1 publicado] cobranca-indevida-financiamento
+- [O2 publicado] revisao-de-contrato-financiamento
 - juros-abusivos-financiamento
-- leilao-extrajudicial-direitos
+- [O2 publicado] leilao-extrajudicial-direitos
 - renegociacao-de-divida-imobiliaria
 - procon-e-imovel
 - codigo-de-defesa-do-consumidor-e-imovel
@@ -316,9 +316,9 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - bem-de-familia
 - penhora-de-imovel
 - imovel-de-heranca-venda
-- contrato-de-gaveta
+- [O2 publicado] contrato-de-gaveta
 - compra-sem-escritura-riscos
-- promessa-de-compra-e-venda
+- [O2 publicado] promessa-de-compra-e-venda
 - sinal-arras
 - vendedor-desistiu
 - imovel-com-divida

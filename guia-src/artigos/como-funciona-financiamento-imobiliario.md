@@ -9,7 +9,7 @@ key_points:
   - "O banco paga a maior parte do imóvel ao vendedor e você devolve esse valor em parcelas mensais, com juros, por até 35 anos."
   - "O imóvel fica alienado ao banco como garantia até a última parcela. Atrasos longos podem levar à perda do imóvel."
   - "Você precisa de entrada (em geral de 20% a 30% do valor avaliado) e de renda suficiente para que a parcela caiba em cerca de 30% dela."
-  - "Desde outubro de 2025, o teto do SFH é de R$ 2,25 milhões, com custo efetivo limitado a 12% ao ano."
+  - "Desde outubro de 2025, o teto do SFH é de R$ 2,25 milhões, com juros e encargos limitados a 12% ao ano (seguros e tarifas ficam fora desse teto)."
   - "Compare propostas pelo CET (Custo Efetivo Total), não só pela taxa de juros anunciada."
 faq:
   - q: "Quanto tempo demora para aprovar um financiamento imobiliário?"
@@ -89,7 +89,7 @@ Todo financiamento imobiliário com recursos da poupança se enquadra em um dest
 | Item | SFH (Sistema Financeiro da Habitação) | SFI (Sistema Financeiro Imobiliário) |
 |---|---|---|
 | Valor máximo do imóvel | R$ 2,25 milhões (desde outubro de 2025) | Sem teto |
-| Limite de custo | Custo efetivo de até 12% ao ano | Taxa livre, negociada |
+| Limite de custo | Juros e encargos até 12% ao ano (sem seguros e tarifas) | Taxa livre, negociada |
 | Uso do FGTS | Permitido, dentro das regras do fundo | Não permitido |
 | Público típico | Primeira moradia, classe média | Imóveis acima do teto do SFH |
 
@@ -155,7 +155,7 @@ A Price exige renda menor para entrar, mas custa quase R$ 400 mil a mais em juro
 
 - O financiamento empresta a maior parte do valor, com o imóvel como garantia, por até 35 anos.
 - Você precisa de entrada (em geral 20% a 30% do valor avaliado), renda para a parcela caber em cerca de 30% dela e um imóvel com documentação em ordem.
-- No SFH, o teto do imóvel é de R$ 2,25 milhões e o custo efetivo é limitado a 12% ao ano. Acima disso, vale o SFI.
+- No SFH, o teto do imóvel é de R$ 2,25 milhões e juros e encargos são limitados a 12% ao ano, sem contar seguros e tarifas. Acima disso, vale o SFI.
 - SAC custa menos no total; Price exige renda menor no começo.
 - Compare propostas pelo CET e confira as regras na data da contratação, porque cotas e taxas mudam.
 
