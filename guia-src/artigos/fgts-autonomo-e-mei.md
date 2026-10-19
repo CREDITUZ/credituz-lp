@@ -90,6 +90,12 @@ Considere um imóvel de R$ 300.000, com entrada de R$ 60.000 e um saldo de R$ 25
 
 Os números são ilustrativos. O banco confere os valores reais na análise.
 
+## Caminhos conforme o seu perfil
+
+- **Se você tem saldo antigo e não tem vínculo atual**, o caminho é conferir o extrato, somar os períodos com depósito e checar as condições de moradia. Se o total de 3 anos for atendido, o saldo pode entrar na compra.
+- **Se você trabalha como autônomo e também tem um emprego com carteira**, o emprego gera depósitos próprios, e o saldo cresce enquanto o vínculo durar. Nesse caso, o planejamento deve considerar o saldo atual e a renda do emprego para a análise do financiamento.
+- **Se você é MEI sem histórico de carteira**, o FGTS não é um recurso disponível na compra. Concentre o planejamento na entrada com recursos próprios e na renda comprovada do negócio.
+
 ## Erros comuns e cuidados
 
 - **Achar que o MEI "paga" FGTS para si.** O MEI não faz depósito de FGTS pela própria atividade, e não há contribuição voluntária que crie saldo novo.

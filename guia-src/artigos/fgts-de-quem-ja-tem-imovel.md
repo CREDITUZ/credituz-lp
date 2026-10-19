@@ -54,6 +54,7 @@ Algumas situações aparecem com frequência:
 - **Fração ideal.** Se você é dono de uma parte de um imóvel residencial na mesma região, a fração pode bloquear. A análise depende de quanto você tem e de onde o imóvel fica.
 - **Promessa de compra não registrada.** Se você ainda tem um contrato de compra e venda de imóvel residencial na região, mas a escritura não foi feita, esse contrato também conta. As fontes listam o promitente comprador entre as situações que bloqueiam.
 - **Divórcio ou separação.** Se o imóvel ficou com o ex-cônjuge e você não tem mais parte nele, a situação muda. Se ainda há participação em nome do seu CPF, ela conta.
+- **Morar em imóvel de parente.** A regra fala em ser dono, promitente comprador ou usufrutuário de imóvel residencial. Morar de favor em casa dos pais não é a mesma coisa que ser dono, mas a análise depende da situação de cada caso, e o banco pode pedir documentos para confirmar.
 - **Imóvel comercial.** A regra fala em imóvel residencial. Um imóvel comercial, em regra, não impede a compra com FGTS, mas ele não pode ser o imóvel comprado com o saldo, porque a compra exige moradia.
 
 ## O outro lado da regra: vínculo com a cidade

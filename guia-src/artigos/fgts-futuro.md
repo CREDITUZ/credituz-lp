@@ -103,6 +103,10 @@ Para acompanhar um projeto com segurança, siga estes passos:
 
 Esse cuidado vale também para a sua leitura do que está em vigor. Uma notícia pode citar um projeto como se fosse lei, e a diferença muda o seu planejamento.
 
+## Três perguntas para ler qualquer notícia
+
+Antes de compartilhar ou usar uma reportagem sobre mudança no FGTS, responda a três perguntas. A primeira: a notícia cita o número do projeto, da medida provisória ou da resolução? A segunda: ela diz se o texto já foi aprovado, sancionado ou publicado? A terceira: ela informa a data da última movimentação? Se a resposta for "não" para as três, trate a informação como rumor até confirmar na fonte oficial.
+
 ## Erros comuns
 
 - **Adiar a compra por causa de um projeto.** Se a regra atual permite a compra, ela vale hoje. Esperar uma mudança incerta pode custar mais do que ganhar.

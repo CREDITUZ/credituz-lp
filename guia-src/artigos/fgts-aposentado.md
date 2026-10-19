@@ -99,6 +99,12 @@ Aposentado que quer financiar costuma comprovar a renda pelo benefício do INSS,
 
 A idade também pesa. Cada banco define o prazo máximo do financiamento e a idade limite do titular no fim do contrato, e essas regras mudam entre instituições. Pergunte as condições antes de fazer a simulação, porque um prazo menor aumenta a parcela. Se a sua renda vem só do benefício, uma renda composta com outra pessoa pode ajudar, e o tema está em [renda composta](/artigos/renda-composta).
 
+## Se a aposentadoria ainda não saiu
+
+Quem está perto da aposentadoria ganha com um planejamento antecipado. Antes do pedido, vale conferir o saldo de todas as contas, o tempo de FGTS somado e se há alguma antecipação ou saque anual em curso. Com essas informações, dá para decidir se o saldo será usado na compra ou sacado no benefício, porque, como visto, os dois caminhos não se somam.
+
+Se a compra for depois da aposentadoria, lembre que a renda passa a ser a do benefício, e que o banco analisa essa renda com a mesma atenção que a de um salário. Simular antes de decidir evita surpresas.
+
 ## Erros comuns e cuidados
 
 - **Sacar tudo sem comparar.** Sacar pode parecer prático, mas se você pretende comprar, o saldo na compra costuma pesar menos no custo total.
