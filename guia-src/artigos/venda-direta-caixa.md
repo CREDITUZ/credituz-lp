@@ -4,7 +4,7 @@ description: "Como funcionam a compra direta e a venda online de imóveis da Cai
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A Caixa vende imóveis que não saíram no leilão por duas modalidades online: compra direta (preço fixo, leva quem paga primeiro) e venda online (disputa por lances com cronômetro)."
   - "O valor anunciado é o mínimo aceito pela Caixa e não pode ser negociado para baixo."

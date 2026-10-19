@@ -4,7 +4,7 @@ description: "Como funcionam os leilões de imóveis da Caixa em 2026: modalidad
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 10
+reading_minutes: 9
 key_points:
   - "A Caixa leiloa principalmente imóveis retomados de quem deixou de pagar o financiamento, pelas regras da Lei 9.514/1997."
   - "No segundo leilão, o lance pode ser aceito a partir de metade do valor de avaliação, a critério do banco, desde a Lei 14.711/2023."
