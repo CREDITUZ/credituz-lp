@@ -4,7 +4,7 @@ description: "Como o banco usa a declaração de Imposto de Renda para comprovar
 category: credito
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Para autônomos, profissionais liberais e empresários, a declaração de Imposto de Renda é a prova de renda mais aceita pelos bancos; renda que não está nela tende a ser ignorada."
   - "O imóvel financiado vai na ficha Bens e Direitos pelo valor que você efetivamente pagou até 31 de dezembro, não pelo preço total nem pelo valor de mercado."

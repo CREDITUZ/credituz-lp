@@ -1,13 +1,13 @@
 ---
 title: "SFH e SFI: diferenças, limites e regras do financiamento em 2026"
-description: "Entenda a diferença entre SFH e SFI em 2026: teto de R$ 2,25 milhões, custo limitado a 12% ao ano, uso do FGTS e quando seu financiamento cai em cada sistema."
+description: "Entenda a diferença entre SFH e SFI em 2026: teto de R$ 2,25 milhões, juros limitados a 12% ao ano, uso do FGTS e quando seu financiamento cai em cada sistema."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "SFH e SFI são os dois sistemas em que se encaixa quase todo financiamento de imóvel no Brasil."
-  - "No SFH, o imóvel pode ser avaliado em até R$ 2,25 milhões desde outubro de 2025, e o custo efetivo é limitado a 12% ao ano."
+  - "No SFH, o imóvel pode ser avaliado em até R$ 2,25 milhões desde outubro de 2025, e juros e encargos são limitados a 12% ao ano, sem contar seguros e tarifas."
   - "Só no SFH você pode usar o FGTS para entrada, amortização ou quitação."
   - "O SFI não tem teto de valor nem limite de juros, e serve para imóveis mais caros, comerciais ou fora das regras do SFH."
   - "O sistema é definido pelo valor de avaliação do imóvel e pelas condições da operação, não pelo banco."
@@ -40,7 +40,7 @@ sources:
 related: [fgts-na-compra-do-imovel, taxa-de-juros-financiamento-imobiliario, minha-casa-minha-vida, como-funciona-financiamento-imobiliario]
 ---
 
-SFH (Sistema Financeiro da Habitação) e SFI (Sistema de Financiamento Imobiliário) são os dois conjuntos de regras em que cabem quase todos os financiamentos de imóvel no Brasil. A diferença que mais importa para você: no SFH, o imóvel residencial pode valer até R$ 2,25 milhões, o custo efetivo do crédito é limitado a 12% ao ano e você pode usar o FGTS. No SFI não há teto de valor nem de juros, e o FGTS, em regra, não entra.
+SFH (Sistema Financeiro da Habitação) e SFI (Sistema de Financiamento Imobiliário) são os dois conjuntos de regras em que cabem quase todos os financiamentos de imóvel no Brasil. A diferença que mais importa para você: no SFH, o imóvel residencial pode valer até R$ 2,25 milhões, juros e encargos do crédito são limitados a 12% ao ano (seguros e tarifas ficam fora desse teto) e você pode usar o FGTS. No SFI não há teto de valor nem de juros, e o FGTS, em regra, não entra.
 
 Esses números valem para outubro de 2026. O teto do SFH subiu de R$ 1,5 milhão para R$ 2,25 milhões com a Resolução CMN 5.255, de 10 de outubro de 2025.
 
@@ -50,7 +50,7 @@ Esses números valem para outubro de 2026. O teto do SFH subiu de R$ 1,5 milhão
 |---|---|---|
 | Para que serve | Imóvel residencial, compra, construção, reforma ou ampliação | Financiamento imobiliário em geral, residencial ou não |
 | Valor máximo do imóvel | R$ 2,25 milhões de avaliação | sem limite |
-| Limite de juros | custo efetivo de até 12% ao ano, somando juros, comissões e outros encargos | sem limite, taxa combinada em contrato |
+| Limite de juros | até 12% ao ano somando juros, comissões e outros encargos (seguros e tarifas ficam fora) | sem limite, taxa combinada em contrato |
 | Uso do FGTS | sim, cumpridas as regras do fundo | em regra, não |
 | Cota de financiamento | limite do CMN sobre o valor de avaliação, e cada banco define a sua cota dentro dele (a Caixa voltou a até 80% em 2025) | definida pela política de cada banco, dentro das regras gerais do CMN |
 | Origem do dinheiro | principalmente poupança (SBPE) e FGTS | poupança e títulos como LCI e LIG, entre outras fontes |
@@ -85,7 +85,7 @@ O limite de 12% ao ano no SFH continua. Em agosto de 2026, bancos pediram ao Ban
 
 Exemplo ilustrativo. Imóvel residencial avaliado em R$ 1,8 milhão, financiamento de 80% (R$ 1,44 milhão) pela tabela SAC (Sistema de Amortização Constante) em 360 meses, sem seguros e tarifas.
 
-Até outubro de 2025, esse imóvel ficava fora do SFH, porque passava de R$ 1,5 milhão. Hoje ele cabe no SFH. A comparação mostra o efeito de duas mudanças: poder usar o FGTS e ter o custo limitado a 12% ao ano.
+Até outubro de 2025, esse imóvel ficava fora do SFH, porque passava de R$ 1,5 milhão. Hoje ele cabe no SFH. A comparação mostra o efeito de duas mudanças: poder usar o FGTS e ter juros e encargos limitados a 12% ao ano.
 
 | Situação | Valor financiado | Taxa ao ano | Primeira parcela |
 |---|---|---|---|

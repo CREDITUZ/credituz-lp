@@ -63,7 +63,7 @@ O SBPE (Sistema Brasileiro de Poupança e Empréstimo) usa o dinheiro depositado
 - **Cota:** até 80% do valor do imóvel no SAC e até 70% na Price. A Caixa confirmou essas cotas em 9 de dezembro de 2025, depois de um período, desde novembro de 2024, em que financiava menos por falta de recursos da poupança.
 - **Prazo:** até 420 meses (35 anos), segundo a mesma nota.
 - **Correção:** o saldo devedor é corrigido pela TR (Taxa Referencial).
-- **Teto do SFH:** imóveis de até R$ 2,25 milhões entram no SFH (Sistema Financeiro da Habitação), que limita o custo efetivo a 12% ao ano. Acima disso, o financiamento vai para o SFI, com taxa livre. Veja [as diferenças entre SFH e SFI](/artigos/sfh-e-sfi).
+- **Teto do SFH:** imóveis de até R$ 2,25 milhões entram no SFH (Sistema Financeiro da Habitação), que limita juros e encargos a 12% ao ano (seguros e tarifas ficam fora desse teto). Acima disso, o financiamento vai para o SFI, com taxa livre. Veja [as diferenças entre SFH e SFI](/artigos/sfh-e-sfi).
 - **Mais de um financiamento:** desde dezembro de 2025, quem já tem financiamento habitacional ativo na Caixa pode contratar outro pelo SBPE, regra que estava suspensa desde novembro de 2024.
 
 ### Quanto custa o SBPE da Caixa
