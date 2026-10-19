@@ -20,7 +20,11 @@
 - [FGTS na compra do imóvel: regras, limites e como usar em 2026](https://guia.credituz.ai/artigos/fgts-na-compra-do-imovel): Quem pode usar o FGTS na compra da casa própria em 2026, qual o valor máximo do imóvel, que tipo de imóvel aceita e como o saldo reduz a entrada e a parcela.
 
 ## Programas e regras
+- [Subsídio do Minha Casa Minha Vida: como o desconto é calculado](https://guia.credituz.ai/artigos/subsidio-minha-casa-minha-vida): Como funciona o subsídio do Minha Casa Minha Vida em 2026: quem recebe, o que pesa no cálculo, tetos por região e como descobrir quanto você vai ganhar.
 - [SFH e SFI: diferenças, limites e regras do financiamento em 2026](https://guia.credituz.ai/artigos/sfh-e-sfi): Entenda a diferença entre SFH e SFI em 2026: teto de R$ 2,25 milhões, custo limitado a 12% ao ano, uso do FGTS e quando seu financiamento cai em cada sistema.
+- [Minha Casa Minha Vida Faixa 4: classe média, teto e juros](https://guia.credituz.ai/artigos/minha-casa-minha-vida-faixa-4): Faixa 4 do Minha Casa Minha Vida em 2026: renda até R$ 13 mil, imóvel de até R$ 600 mil, juros de 10% ao ano, regras do imóvel usado e quanto de entrada separar.
+- [Minha Casa Minha Vida Faixa 3: renda, teto, juros e entrada](https://guia.credituz.ai/artigos/minha-casa-minha-vida-faixa-3): Regras da Faixa 3 do Minha Casa Minha Vida em 2026: renda de R$ 5 mil a R$ 9.600, imóvel de até R$ 400 mil, juros de 7,66% a 8,16% e quanto de entrada separar.
+- [Minha Casa Minha Vida Faixa 1: renda, subsídio, parcela e inscrição](https://guia.credituz.ai/artigos/minha-casa-minha-vida-faixa-1): Quem pode entrar na Faixa 1 do Minha Casa Minha Vida, quanto se paga de prestação, como funciona o subsídio e como se inscrever pelo CadÚnico e pela prefeitura.
 - [Minha Casa Minha Vida 2026: faixas, renda, juros e subsídio](https://guia.credituz.ai/artigos/minha-casa-minha-vida): Faixas de renda do Minha Casa Minha Vida em 2026, teto do imóvel, juros, subsídio, quem pode participar e como se inscrever pela prefeitura ou pela Caixa.
 
 ## Crédito e score
@@ -42,8 +46,12 @@
 - [Alugar ou comprar imóvel: como fazer a conta em 2026](https://guia.credituz.ai/artigos/alugar-ou-comprar): Como comparar alugar e comprar imóvel com Selic, CDI, aluguel e valorização de outubro de 2026, com simulação de 10 anos à vista e financiada.
 
 ## Seus direitos
+- [Vícios construtivos: garantia, prazos e como reclamar](https://guia.credituz.ai/artigos/vicios-construtivos): Defeitos no imóvel novo: a garantia de 5 anos do Código Civil, os prazos do CDC para vícios aparentes e ocultos e o passo a passo para cobrar o reparo.
 - [Juros de obra: o que é a taxa de evolução e como pagar menos](https://guia.credituz.ai/artigos/juros-de-obra): Entenda os juros de obra (taxa de evolução de obra) no financiamento na planta: como são calculados, por que a parcela sobe, quando param e o que diz o STJ.
 - [Distrato de imóvel na planta: quanto você recebe de volta](https://guia.credituz.ai/artigos/distrato-imovel-na-planta): Veja o que a Lei do Distrato permite reter (até 25% ou 50%), os prazos de devolução, o direito de arrependimento de 7 dias e um exemplo com números.
+- [Direito de arrependimento na compra de imóvel: os 7 dias](https://guia.credituz.ai/artigos/desistir-da-compra-arrependimento): Quando você pode desistir da compra do imóvel em 7 dias sem multa, o que diz o art. 49 do CDC e o art. 67-A da Lei 4.591, e como exercer o direito.
+- [Corretagem e SATI: quando a cobrança é abusiva (Tema 938)](https://guia.credituz.ai/artigos/corretagem-abusiva-e-sati): O que o STJ decidiu no Tema 938 sobre corretagem e taxa SATI na compra na planta, quando a cobrança vale, o prazo de 3 anos e como pedir a devolução.
+- [Cobrança indevida no financiamento: venda casada e devolução](https://guia.credituz.ai/artigos/cobranca-indevida-financiamento): Tarifas e seguros indevidos no financiamento imobiliário, o que é venda casada, quando cabe devolução em dobro pelo art. 42 do CDC e onde reclamar.
 - [Atraso na entrega do imóvel: prazo de tolerância e direitos](https://guia.credituz.ai/artigos/atraso-na-entrega-do-imovel): Saiba quando o atraso da obra passa a gerar direitos: a tolerância de 180 dias, a multa de 1% ao mês, o distrato com devolução integral e o que diz o STJ.
 
 ## Ferramentas
