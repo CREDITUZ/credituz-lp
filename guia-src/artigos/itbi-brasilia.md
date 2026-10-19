@@ -27,10 +27,14 @@ sources:
     url: "https://www.idealsoftwares.com.br/idealnews/noticia.php?id=29958"
   - title: "NetCPA: CLDF aprova redução do ITBI, de 3% para 2% e 1% (dezembro de 2024)"
     url: "https://netcpa.com.br/colunas/itbi-camara-legislativa-aprova-reducao-do-imposto-cobrado-na-transferencia-de-imoveis-no-df/24143"
-  - title: "COAD: cartórios do DF podem emitir guias de ITBI (IN SUREC 8/2021)"
+  - title: "COAD: cartórios, bancos e construtoras podem emitir guias de ITBI no DF (Instrução Normativa 8, abril de 2021)"
     url: "https://www.coad.com.br/home/noticias-detalhe/105308/df-cartorios-e-tabelionatos-ja-podem-emitir-guias-de-itbi-e-itcd"
   - title: "Correio Braziliense: ITBI terá nova forma de cálculo com lei promulgada pelos distritais (dezembro de 2025)"
     url: "https://blogs.correiobraziliense.com.br/capital-sa/2025/12/04/itbi-tera-nova-forma-calculo-com-lei-promulgada-pelos-deputados-distritais/"
+  - title: "Jovem Pan: lei promulgada no DODF de 10/12/2025 muda a base de cálculo do ITBI no DF"
+    url: "https://jovempan.com.br/politica/nova-lei-no-df-impede-cobranca-abusiva-do-itbi-e-assegura-imposto-sobre-valor-real-do-imovel/"
+  - title: "Lei distrital 3.830/2006 (ITBI no DF), texto original com as isenções do art. 4º"
+    url: "https://www.normasbrasil.com.br/norma/lei-3830-2006-df_123563.html"
   - title: "STJ, Tema 1.113: teses sobre a base de cálculo do ITBI (resumo)"
     url: "https://juris.damasio.com.br/temas/stj/1113"
 related: [itbi, imovel-na-planta-ou-pronto, registro-de-imovel-passo-a-passo, custos-para-comprar-imovel]
@@ -67,11 +71,15 @@ Quem compra de outra pessoa um apartamento que já teve dono paga 2%, mesmo que 
 
 O novo art. 9º tem só as duas alíquotas acima. Não há uma alíquota menor para a parte financiada pelo SFH (Sistema Financeiro da Habitação), como existe em São Paulo, explicado em [ITBI em São Paulo](/artigos/itbi-sao-paulo). Quem financia um imóvel usado no DF paga 2% sobre a base inteira.
 
+### Habitação popular
+
+A Lei 3.830/2006 prevê, desde o texto original, isenção para a transmissão de habitações populares, com critérios definidos em regulamento, como área construída pequena e localização em regiões de menor renda. Não é um desconto automático para quem compra pelo Minha Casa, Minha Vida. Se o seu imóvel é de programa habitacional, pergunte à Receita do DF se ele se enquadra antes de pagar a guia.
+
 ## Base de cálculo no DF
 
 A Receita do DF historicamente calculava a base com uma tabela própria de valores de referência, o que muitas vezes gerava imposto sobre um valor maior que o preço pago.
 
-Em 2022, o STJ (Superior Tribunal de Justiça) decidiu no Tema 1.113 que o valor declarado pelo comprador é presumido correto e só pode ser afastado por processo administrativo próprio, e que o fisco não pode fixar a base de antemão por tabela. Em dezembro de 2025, a Câmara Legislativa derrubou um veto do governador e promulgou uma lei distrital, originada do PL 1.593/2025, que leva essa ideia para a lei do DF: a base passa a ser o valor de mercado, com o valor declarado presumido correto e sem uso de valor de referência genérico fixado antes. Não localizamos o número da lei promulgada em fonte oficial, por isso não o citamos aqui.
+Em 2022, o STJ (Superior Tribunal de Justiça) decidiu no Tema 1.113 que o valor declarado pelo comprador é presumido correto e só pode ser afastado por processo administrativo próprio, e que o fisco não pode fixar a base de antemão por tabela. Em dezembro de 2025, a Câmara Legislativa derrubou o veto do governador a um projeto de lei sobre o tema (PL 1.593/2025), e a lei foi promulgada no Diário Oficial do DF de 10 de dezembro, segundo a imprensa. Ela leva essa ideia para a lei do DF: a referência passa a ser o valor real do negócio, o valor declarado é presumido verdadeiro e o fisco não pode usar uma tabela de referência genérica fixada antes. Não localizamos o número da lei nem a data de vigência em fonte oficial, por isso não os citamos aqui. Na dúvida, pergunte ao cartório ou à Receita do DF como a base está sendo calculada hoje.
 
 Na prática:
 
@@ -81,7 +89,7 @@ Na prática:
 
 ## Como emitir a guia (DAR) do ITBI
 
-O documento de arrecadação no DF se chama DAR. Desde 2006, cartórios de notas e agentes do SFH podem emitir o ITBI, e a Instrução Normativa 8/2021 da Receita do DF ampliou e organizou a emissão por cartórios, bancos e construtoras. Na prática, há três caminhos:
+O documento de arrecadação no DF se chama DAR. Desde 2006, cartórios de notas e agentes do SFH podem emitir o ITBI, e a Instrução Normativa 8 da Secretaria de Economia, publicada em abril de 2021, ampliou e organizou a emissão por cartórios, bancos e construtoras. Na prática, há três caminhos:
 
 1. **Compra à vista com escritura.** O tabelionato de notas que vai lavrar a escritura emite o DAR. Você paga antes da lavratura e o cartório confere o pagamento.
 2. **Compra financiada.** O banco do financiamento, como agente do sistema habitacional, pode emitir o DAR com base no contrato. Pergunte ao gerente em que etapa ele faz isso e qual o vencimento.

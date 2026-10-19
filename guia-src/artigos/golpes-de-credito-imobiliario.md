@@ -8,12 +8,12 @@ reading_minutes: 8
 key_points:
   - "Pedido de pagamento antecipado para liberar crédito é o sinal mais claro de golpe; a Febraban afirma que não oferece empréstimos nem cobra para liberá-los."
   - "Pela Resolução CMN 4.935/2021, o correspondente não pode cobrar de você tarifa ou comissão própria e precisa informar para qual instituição trabalha."
-  - "O Banco Central mantém uma consulta pública de correspondentes, atualizada mensalmente, onde dá para conferir a instituição contratante."
+  - "O Banco Central mantém uma consulta pública de correspondentes, onde dá para conferir a instituição contratante."
   - "Boleto de parcela deve sair do app ou site oficial do banco; confira o código do banco e o beneficiário antes de pagar."
   - "Se cair em golpe com Pix, acione o seu banco na hora: o pedido pelo MED pode ser feito em até 80 dias, mas a chance de recuperar cai a cada hora."
 faq:
   - q: "Correspondente bancário pode cobrar taxa para aprovar meu financiamento?"
-    a: "Não pode cobrar tarifa ou comissão própria de você. A Resolução CMN 4.935/2021 proíbe a cobrança, pelo correspondente, de valores além das tarifas da tabela oficial da instituição. Custos legítimos, como a avaliação do imóvel, são cobrados pelo próprio banco."
+    a: "Não pode cobrar tarifa ou comissão própria de você. Pela Resolução CMN 4.935/2021, o contrato do correspondente deve proibir que ele cobre qualquer valor em benefício próprio, e o banco só pode cobrar as tarifas da sua tabela oficial. Custos legítimos, como a avaliação do imóvel, são cobrados pelo próprio banco."
   - q: "Como saber se um correspondente é verdadeiro?"
     a: "Peça o nome da empresa, o CNPJ e o banco que ela representa. Confira na consulta de correspondentes do Banco Central e confirme direto com o banco, pelos canais oficiais, que a proposta existe no seu CPF."
   - q: "Paguei um boleto falso da parcela. O banco devolve?"
@@ -21,18 +21,20 @@ faq:
   - q: "Leilão de imóvel da Caixa com desconto enorme pelo WhatsApp é real?"
     a: "Desconfie. Os imóveis da Caixa ficam no site venda-imoveis.caixa.gov.br, e os leilões indicam leiloeiros credenciados. Nunca pague por Pix para pessoa física ou para conta que não esteja no edital."
 sources:
-  - title: "Resolução CMN 4.935/2021 (correspondentes no país), arts. 3º, 11 e 14"
-    url: "https://www.legisweb.com.br/legislacao/?id=418036"
-  - title: "Banco Central: dados abertos, Correspondentes no país (atualização mensal)"
+  - title: "Banco Central: Resolução CMN 4.935/2021 (correspondentes no país), arts. 3º, 11 e 14"
+    url: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4935"
+  - title: "Banco Central: dados abertos, Correspondentes no país"
     url: "https://dadosabertos.bcb.gov.br/dataset/correspondentes"
   - title: "Banco Central: consulta de correspondentes no país"
     url: "https://www.bcb.gov.br/fis/info/correspondentes.asp"
   - title: "Febraban alerta que criminosos têm usado nome da entidade para aplicar golpes (Mercado & Consumo, 09/10/2026)"
     url: "https://mercadoeconsumo.com.br/09/10/2026/economia/febraban-alerta-que-criminosos-tem-usado-nome-da-entidade-para-aplicar-golpes/"
-  - title: "Prazo do MED no Pix: Instrução Normativa BCB 766/2026 (meutudo, 02/09/2026)"
-    url: "https://meutudo.com.br/blog/noticias/2026/09/02/prazo-para-contestacao-de-pix-devolvido-pelo-med-passa-de-30-para-80-dias-entenda/"
-  - title: "Portas: como funciona o leilão de imóveis da Caixa (atualizado em 16/10/2026)"
-    url: "https://portas.com.br/mercado-imobiliario/comprar/leilao-imoveis-caixa/"
+  - title: "Banco Central: Instrução Normativa BCB 766/2026, Manual Operacional do DICT (Pix), com regras do MED"
+    url: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=766"
+  - title: "Caixa: imóveis à venda (site oficial)"
+    url: "https://venda-imoveis.caixa.gov.br/sistema/busca-imovel.asp"
+  - title: "Decreto 21.981/1932 (profissão de leiloeiro), art. 24: comissão (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d21981.htm"
   - title: "Folha Vitória: orientações para identificar boletos falsos (atualizado em 20/09/2025)"
     url: "https://www.folhavitoria.com.br/economia/seis-orientacoes-para-fugir-dos-golpes-dos-boletos-falsos/"
 related: [taxa-de-avaliacao-do-imovel, registrato, aumentar-score-rapido, analise-de-credito-como-funciona]
@@ -65,8 +67,8 @@ Correspondente bancário é a empresa contratada por um banco para atender clien
 A Resolução CMN 4.935/2021 traz três regras que ajudam a separar o verdadeiro do falso:
 
 - **Atua por conta do banco.** O correspondente segue as diretrizes da instituição que o contratou (art. 3º).
-- **Não cobra de você.** É vedada a cobrança, de clientes atendidos pelo correspondente, de tarifa ou comissão, ressalvadas as tarifas da tabela da própria instituição (art. 11).
-- **Tem de dizer para quem trabalha.** O correspondente deve divulgar ao público a sua condição de prestador de serviços da instituição contratante (art. 14).
+- **Não cobra de você.** O banco não pode cobrar de quem é atendido pelo correspondente tarifa, comissão ou outra remuneração fora da sua tabela oficial de tarifas (art. 11, I), e o contrato do correspondente precisa proibir que ele cobre, em benefício próprio, qualquer valor ligado aos produtos do banco (art. 14, VII).
+- **Tem de dizer para quem trabalha.** O correspondente deve divulgar ao público, em local visível no site, no app ou no ponto de atendimento, que presta serviços à instituição contratante, com os canais de contato dela, inclusive a ouvidoria (art. 14, III).
 
 ### Boleto falso
 
@@ -82,7 +84,7 @@ O caminho mais seguro é não usar boleto recebido por mensagem: gere a segunda 
 
 ### Falso leilão de imóveis
 
-Sites que copiam o visual de bancos ou de leiloeiros anunciam imóveis com descontos muito acima do normal e pedem pagamento rápido. Os imóveis à venda da Caixa ficam no site venda-imoveis.caixa.gov.br, e os leilões apontam leiloeiros credenciados, com edital publicado. Em leilão real, o arrematante paga o lance nas condições do edital e uma comissão ao leiloeiro, que costuma ser de 5%.
+Sites que copiam o visual de bancos ou de leiloeiros anunciam imóveis com descontos muito acima do normal e pedem pagamento rápido. Os imóveis à venda da Caixa ficam no site venda-imoveis.caixa.gov.br, e os leilões apontam leiloeiros credenciados, com edital publicado. Em leilão real, o arrematante paga o lance nas condições do edital e uma comissão ao leiloeiro, em geral de 5% do valor arrematado, como prevê o Decreto 21.981/1932. O percentual e a forma de pagamento estão no edital de cada leilão.
 
 Sinais de golpe: endereço de site diferente do oficial, contato só por mensagem, pagamento por Pix para pessoa física ou para conta que não aparece no edital, pressa para "garantir" o imóvel.
 
@@ -93,7 +95,7 @@ Alguém anuncia um imóvel abaixo do preço, mostra fotos e pede um sinal para "
 ## Como verificar um correspondente, passo a passo
 
 1. **Peça os dados.** Nome empresarial, CNPJ e qual banco a empresa representa. Correspondente legítimo informa sem resistência.
-2. **Consulte o Banco Central.** O Banco Central mantém uma consulta pública de correspondentes no país e publica os dados também em formato aberto, com atualização mensal. Procure pelo CNPJ e confira se a instituição contratante é a que foi informada a você.
+2. **Consulte o Banco Central.** O Banco Central mantém uma consulta pública de correspondentes no país e publica os dados também no seu portal de dados abertos. Procure pelo CNPJ e confira se a instituição contratante é a que foi informada a você.
 3. **Confirme com o banco.** Ligue no número oficial (o que está no site do banco ou no verso do cartão, nunca o que veio na mensagem) e pergunte se aquela empresa é parceira e se existe proposta no seu CPF.
 4. **Veja quem recebe o dinheiro.** Qualquer pagamento legítimo vai para o banco, a prefeitura ou o cartório, nunca para a conta do correspondente ou de uma pessoa física.
 5. **Desconfie de promessas.** Aprovação garantida, sem análise, com nome sujo ou com juros muito abaixo dos bancos são sinais de fraude.
@@ -115,7 +117,7 @@ Em um financiamento real, Joana não pagaria nada disso antes de assinar. O que 
 
 Aja rápido. As primeiras horas são as que mais contam.
 
-1. **Avise o seu banco imediatamente.** Use o app ou o telefone oficial. Se o pagamento foi por Pix, peça a abertura do MED (Mecanismo Especial de Devolução). O pedido pode ser feito em até 80 dias da transferência, mas a chance de recuperar diminui conforme o dinheiro é movimentado.
+1. **Avise o seu banco imediatamente.** Use o app ou o telefone oficial. Se o pagamento foi por Pix, peça a abertura do MED (Mecanismo Especial de Devolução). Pelas regras do Pix definidas pelo Banco Central, o pedido pode ser feito em até 80 dias da transferência, mas a chance de recuperar diminui conforme o dinheiro é movimentado.
 2. **Registre boletim de ocorrência.** Muitos estados permitem fazer pela delegacia online. Guarde o número.
 3. **Junte as provas.** Comprovantes, prints de conversas, números de telefone, endereço do site, nomes e CNPJs usados.
 4. **Se entregou documentos, proteja o CPF.** Acompanhe o seu relatório no [Registrato](/artigos/registrato) para ver se alguém abriu conta ou contratou crédito no seu nome, e consulte os bureaus.

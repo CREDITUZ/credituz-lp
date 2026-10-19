@@ -4,13 +4,13 @@ description: "O que entra no CET do financiamento imobiliário pela Resolução 
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "O CET (Custo Efetivo Total) é a taxa anual que soma juros, seguros, tarifas, tributos e outras despesas do financiamento."
   - "A Resolução CMN 4.881/2020 obriga o banco a informar o CET antes da contratação, com planilha que mostra cada componente em reais e em percentual."
   - "Índices de preços e taxas flutuantes, como o IPCA, ficam fora do CET. Por isso, CET de linhas com indexadores diferentes não se compara direto."
   - "No exemplo calculado, uma proposta com taxa 0,30 ponto menor teve CET maior por causa de seguro e tarifa."
-  - "No SFH, o custo efetivo não pode passar de 12% ao ano."
+  - "No SFH, juros e encargos financeiros têm teto de 12% ao ano, mas seguros e tarifas ficam fora desse limite, então o CET pode passar disso."
 faq:
   - q: "O que é CET no financiamento imobiliário?"
     a: "É o custo total do financiamento expresso em uma taxa anual. Ele soma juros, seguros obrigatórios, tarifas, tributos e despesas pagas a terceiros vinculadas à operação, e é calculado sobre o valor que você efetivamente recebe."
@@ -19,7 +19,7 @@ faq:
   - q: "O banco é obrigado a informar o CET?"
     a: "Sim. O banco deve informar o CET antes da contratação, junto com a planilha de cálculo, e ele deve aparecer em destaque no contrato e em anúncios que mostrem taxa de juros. O Código de Defesa do Consumidor também exige essa informação na oferta de crédito."
   - q: "Qual CET é bom para financiamento imobiliário?"
-    a: "Não existe número fixo. O que importa é comparar o CET de propostas com o mesmo valor, prazo, sistema e indexador. No SFH, o custo efetivo tem teto legal de 12% ao ano."
+    a: "Não existe número fixo. O que importa é comparar o CET de propostas com o mesmo valor, prazo, sistema e indexador. No SFH, juros e encargos financeiros têm teto de 12% ao ano, mas esse teto não inclui seguros e tarifas, que entram no CET."
 sources:
   - title: "Resolução CMN 4.881, de 23/12/2020 (Custo Efetivo Total)"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/especialnor/Resolu%C3%A7%C3%A3o4881.pdf"
@@ -29,8 +29,10 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/D6306compilado.htm"
   - title: "Bradesco: Bradesco Imóveis, exemplo de CET (página oficial, consultada em 19/10/2026)"
     url: "https://banco.bradesco/html/classic/produtos-servicos/emprestimo-e-financiamento/imoveis/index.shtm"
-  - title: "InfoMoney: novo modelo de crédito imobiliário e teto de 12% ao ano no SFH (11/10/2025)"
-    url: "https://www.infomoney.com.br/?p=3059690"
+  - title: "Resolução CMN 4.676/2018, art. 13 (custo efetivo máximo de 12% ao ano no SFH e exclusões)"
+    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v9_P.pdf"
+  - title: "Resolução CMN 5.255, de 10/10/2025 (teto de avaliação do SFH em R$ 2,25 milhões)"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
   - title: "Banco Central: taxas de juros por instituição financeira"
     url: "https://www.bcb.gov.br/estatisticas/reporttxjuros"
 related: [simulacao-financiamento-passo-a-passo, taxa-de-juros-financiamento-imobiliario, seguros-mip-e-dfi, financiamento-inter]
@@ -43,9 +45,9 @@ O CET (Custo Efetivo Total) é a taxa anual que mostra quanto o financiamento cu
 A resolução, de 23 de dezembro de 2020, está em vigor desde 1º de fevereiro de 2021 e substituiu a antiga Resolução 3.517/2007. Os pontos que interessam a quem vai financiar, resumidos com as nossas palavras:
 
 - **Quem informa e para quem:** bancos e financeiras, para pessoas físicas e para micro e pequenas empresas.
-- **Quando:** antes da contratação, junto com a planilha de cálculo. Você tem direito ao CET já na simulação formal, não só no contrato.
+- **Quando:** antes da contratação, junto com a planilha de cálculo. Peça o CET na proposta, antes de assinar, e não só no contrato.
 - **Como:** em taxa percentual anual, com duas casas decimais.
-- **Planilha:** precisa mostrar o valor em reais de cada componente, o percentual de cada um sobre o total devido e a soma das parcelas. O banco precisa manter esse demonstrativo à disposição do Banco Central por pelo menos cinco anos.
+- **Planilha:** precisa mostrar o valor em reais de cada componente, o percentual de cada um sobre o total devido e a soma das parcelas. O banco precisa guardar esse demonstrativo por pelo menos cinco anos depois de entregá-lo.
 - **No contrato:** o CET aparece em destaque.
 - **Na publicidade:** sempre que o anúncio mostrar a taxa de juros, deve mostrar também o CET.
 
@@ -84,7 +86,7 @@ Na prática:
 
 ### Exemplo ilustrativo
 
-Duas propostas para o mesmo financiamento: R$ 400 mil de um imóvel de R$ 500 mil, 420 meses, SAC, comprador com a mesma idade. Taxas e valores de seguro escolhidos só para ilustrar, sem relação com um banco específico. Cálculo feito em Python, pela fórmula da resolução, sem TR.
+Duas propostas para o mesmo financiamento: R$ 400 mil de um imóvel de R$ 500 mil, 420 meses, SAC, comprador com a mesma idade. Taxas e valores de seguro escolhidos só para ilustrar, sem relação com um banco específico. Cálculo feito em Python, com fluxos mensais e taxa anualizada, sem TR.
 
 Premissas:
 
@@ -111,12 +113,12 @@ Ainda na proposta A, decompondo o CET:
 
 | Cenário | CET |
 |---|---|
-| Só juros | 10,89% ao ano |
-| Juros e avaliação | 11,02% ao ano |
+| Só juros | 10,90% ao ano |
+| Juros e avaliação | 11,03% ao ano |
 | Juros e seguros | 11,40% ao ano |
 | Juros, seguros e avaliação | 11,53% ao ano |
 
-Os seguros, neste exemplo, acrescentam cerca de meio ponto ao custo. Para um comprador mais velho, o MIP é maior e o efeito cresce. É por isso que trocar de seguradora pode valer a pena; veja [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
+Os seguros, neste exemplo, acrescentam meio ponto ao custo (de 10,90% para 11,40%). Para um comprador mais velho, o MIP é maior e o efeito cresce. É por isso que trocar de seguradora pode valer a pena; veja [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
 
 Na planilha que o banco entrega, a proposta A apareceria mais ou menos assim, em percentual do total devido: juros 62,31%, amortização 34,18%, seguros 3,23% e avaliação 0,27%.
 
@@ -138,12 +140,14 @@ O CET só compara bem propostas com o mesmo indexador. Nos outros casos:
 
 - **TR contra TR:** compare o CET direto. A TR é a mesma para todos os bancos.
 - **TR contra IPCA:** o CET da linha com IPCA fica mais baixo porque a inflação está fora. Some uma estimativa de inflação à parte fixa (por exemplo, a dos últimos 12 meses) e veja a parcela em cenários. O guia do [financiamento no Inter](/artigos/financiamento-inter), que usa IPCA, mostra essa conta.
-- **TR contra poupança:** a parte variável da poupança também fica fora. Com a Selic acima de 8,5% ao ano, ela tende a ficar no teto, e o custo real é maior que o CET sugere.
+- **TR contra poupança:** a parte variável da poupança também fica fora. Com a Selic acima de 8,5% ao ano, como em outubro de 2026, a poupança rende 0,5% ao mês mais TR, e o custo real fica bem acima do que o CET sugere.
 - **SAC contra Price:** o CET de um e de outro pode ficar parecido, porque é uma taxa, mas o total pago na Price é muito maior. Compare também o total desembolsado. Veja [SAC ou Price](/artigos/sac-ou-price).
 
 ## O teto do SFH
 
-No SFH (Sistema Financeiro da Habitação), que cobre imóveis de até R$ 2,25 milhões, o custo efetivo do financiamento não pode passar de 12% ao ano, regra mantida no novo modelo de crédito imobiliário de outubro de 2025. Se uma proposta de SFH vier com CET acima disso, pergunte ao banco o que entrou na conta. Acima do teto, no SFI, não há limite. Veja [SFH e SFI](/artigos/sfh-e-sfi).
+No SFH (Sistema Financeiro da Habitação), que cobre imóveis avaliados em até R$ 2,25 milhões desde a Resolução CMN 5.255/2025, a Resolução CMN 4.676/2018 (art. 13) fixa um custo efetivo máximo de 12% ao ano. Atenção ao que esse teto cobre: juros, comissões e outros encargos financeiros. Seguros e tarifas ficam de fora, e a TR, por ser atualização do saldo, não é tratada como juros.
+
+Por isso, um CET acima de 12% não significa, sozinho, que a proposta descumpre a regra: no exemplo acima, os juros são de 10,90% e o CET passa de 11,5% só por causa de seguros e avaliação. O que não pode passar de 12% é a parte de juros e encargos. Se a taxa de juros efetiva da proposta já estiver acima disso, pergunte ao banco se o contrato está mesmo no SFH ou foi feito a taxas de mercado, fora dele. Acima do teto de valor, no SFI, não há limite. Veja [SFH e SFI](/artigos/sfh-e-sfi).
 
 ## Erros comuns
 

@@ -38,7 +38,7 @@ sources:
 related: [cet-financiamento-imobiliario, taxa-de-juros-financiamento-imobiliario, financiamento-bradesco, financiamento-caixa]
 ---
 
-Para simular e comparar financiamento imobiliário entre bancos, defina antes um cenário fixo (valor do imóvel, entrada, prazo, sistema de amortização e indexador), peça a simulação com esse mesmo cenário em pelo menos três bancos e compare o CET (Custo Efetivo Total) e o total desembolsado. A taxa de juros anunciada sozinha engana: seguros, tarifas e produtos exigidos para o desconto mudam o custo final. Em outubro de 2026, as taxas de balcão dos cinco maiores bancos no SBPE começavam entre cerca de 10,3% e 12% ao ano mais TR, segundo a MySide. Essa faixa já basta para gerar dezenas de milhares de reais de diferença em 35 anos.
+Para simular e comparar financiamento imobiliário entre bancos, defina antes um cenário fixo (valor do imóvel, entrada, prazo, sistema de amortização e indexador), peça a simulação com esse mesmo cenário em pelo menos três bancos e compare o CET (Custo Efetivo Total) e o total desembolsado. A taxa de juros anunciada sozinha engana: seguros, tarifas e produtos exigidos para o desconto mudam o custo final. Em outubro de 2026, as taxas mínimas dos cinco grandes bancos acompanhados pela MySide no SBPE iam de 10,26% a 11,99% ao ano mais TR. Em R$ 400 mil financiados por 35 anos no SAC, essa distância soma cerca de R$ 110 mil de juros (cálculo nosso, sem TR, seguros e tarifas).
 
 ## Antes de simular: monte o seu cenário
 
@@ -92,11 +92,13 @@ O CET precisa estar na proposta: a Resolução CMN 4.881/2020 obriga o banco a i
 
 ### Exemplo ilustrativo
 
-Mesmo cenário nos três bancos: imóvel de R$ 500 mil, R$ 400 mil financiados, 420 meses, SAC. Taxas, seguros e tarifas escolhidos só para ilustrar, sem relação com bancos reais. Cálculo em Python, sem TR.
+Mesmo cenário nos três bancos: imóvel de R$ 500 mil, R$ 400 mil financiados, 420 meses, SAC. Taxas, seguros e tarifas escolhidos só para ilustrar, sem relação com bancos reais. Cálculo em Python, com fluxos mensais, sem TR.
 
 - **Banco X:** 10,90% ao ano, seguros de R$ 140 no 1º mês, avaliação de R$ 3.200, sem pacote.
 - **Banco Y:** 10,60% ao ano, mesmos seguros e avaliação, mas a taxa exige um pacote de produtos de R$ 80 por mês durante o contrato.
 - **Banco Z:** 11,20% ao ano, seguro MIP menor (R$ 112 no 1º mês com DFI), avaliação de R$ 2.500, sem pacote.
+
+Nos três, os seguros são calculados como percentual mensal (MIP sobre o saldo devedor, DFI sobre o valor do imóvel), por isso caem junto com o saldo.
 
 | Item | Banco X | Banco Y | Banco Z |
 |---|---|---|---|
@@ -104,7 +106,7 @@ Mesmo cenário nos três bancos: imóvel de R$ 500 mil, R$ 400 mil financiados, 
 | CET informado | 11,53% | 11,23% | 11,71% |
 | Primeira parcela completa | R$ 4.555,91 | R$ 4.464,85 | R$ 4.618,75 |
 | Primeira parcela com o pacote | R$ 4.555,91 | R$ 4.544,85 | R$ 4.618,75 |
-| Custo efetivo com o pacote (cálculo nosso) | 11,53% | 11,57% | 11,71% |
+| Custo efetivo com o pacote (cálculo nosso) | 11,53% | 11,58% | 11,71% |
 | Total desembolsado com pacote e avaliação | R$ 1.170.123,63 | R$ 1.184.554,43 | R$ 1.182.651,35 |
 
 O que a comparação mostra:

@@ -19,7 +19,7 @@ faq:
   - q: "Quanto tempo a prefeitura leva para emitir a guia?"
     a: "Até 5 dias úteis após o pedido no PROCEC. Se precisar de vistoria ou documento complementar, o prazo vai a até 20 dias."
   - q: "Posso parcelar o ITBI em Curitiba?"
-    a: "A prefeitura não parcela o ITBI. A guia é paga em uma parcela, mas aceita cartão de crédito, e o parcelamento pode ser contratado com a operadora do cartão, com os juros dela."
+    a: "A página da prefeitura não oferece parcelamento próprio do ITBI. Ela aceita cartão de débito e de crédito, e quem quiser parcelar contrata isso com a operadora do cartão, com os juros dela."
   - q: "O que acontece se a guia vencer?"
     a: "Sem pagamento em 30 dias, a guia é cancelada e você precisa fazer novo pedido, com toda a documentação de novo."
 sources:
@@ -31,6 +31,8 @@ sources:
     url: "https://www.curitiba.pr.gov.br/servicos/?termo=itbi"
   - title: "Prefeitura de Curitiba: Lei Complementar 108/2017 (ITBI), texto original"
     url: "https://mid.curitiba.pr.gov.br/2018/00217721.pdf"
+  - title: "Prefeitura de Curitiba, Portal da Transparência: incentivos fiscais do ITBI (programas da COHAB-CT, atualizado em maio de 2026)"
+    url: "https://mid-transparencia.curitiba.pr.gov.br/despesas/IncentivosFiscaisITBI.pdf"
   - title: "STJ, Tema 1.113: teses sobre a base de cálculo do ITBI (resumo)"
     url: "https://juris.damasio.com.br/temas/stj/1113"
 related: [itbi, custos-para-comprar-imovel, registro-de-imovel-passo-a-passo, minha-casa-minha-vida]
@@ -42,7 +44,7 @@ As regras gerais do imposto, como quem paga e a discussão sobre base de cálcul
 
 ## Alíquotas em 2026
 
-O ITBI de Curitiba está na Lei Complementar municipal 108/2017. A alíquota geral de 2,7% vem do art. 9º. As faixas para financiamento estão no art. 11, que foi alterado pela Lei Complementar 148/2025.
+O ITBI de Curitiba está na Lei Complementar municipal 108/2017. A alíquota geral de 2,7% vem do art. 9º, e as faixas para financiamento ficam no art. 11. Segundo a página da prefeitura, esse art. 11 foi alterado pela Lei Complementar 148/2025.
 
 | Situação | Alíquota |
 |---|---|
@@ -51,7 +53,7 @@ O ITBI de Curitiba está na Lei Complementar municipal 108/2017. A alíquota ger
 | Mesmas condições, de R$ 176.000,01 a R$ 205.000 | 0,5% |
 | Mesmas condições, de R$ 205.000,01 a R$ 220.000 | 1,6% |
 
-Os valores das faixas são os que a prefeitura publica na página de base de cálculo e alíquotas. O texto original da LC 108/2017 trazia faixas menores (até R$ 150 mil) e prazo mínimo de 5 anos. A prefeitura informa que a LC 148/2025 alterou o art. 11, e os valores da tabela são os que ela publica hoje. Antes de fechar o orçamento, confira a página da prefeitura, porque os valores podem mudar por lei.
+Os valores das faixas são os que a prefeitura publica na página de base de cálculo e alíquotas. O texto original da LC 108/2017, de dezembro de 2017, trazia faixas menores (até R$ 150 mil de valor venal) e prazo mínimo de 5 anos de financiamento. Antes de fechar o orçamento, confira a página da prefeitura, porque os valores podem mudar por lei.
 
 ### Condições da alíquota reduzida
 
@@ -64,6 +66,8 @@ Todas precisam estar presentes:
 5. **Valor até R$ 220 mil.**
 
 A regra da prefeitura não fala em SFH (Sistema Financeiro da Habitação) nem em Minha Casa, Minha Vida. O critério é o tipo do imóvel, o prazo e a garantia do financiamento, e o valor. Na prática, ela alcança sobretudo imóveis de valor mais baixo, faixa em que muitos compradores usam o [Minha Casa, Minha Vida](/artigos/minha-casa-minha-vida).
+
+Existe ainda uma isenção separada, no art. 10 da LC 108/2017, para empreendimentos habitacionais de interesse social da COHAB-CT (Companhia de Habitação Popular de Curitiba) ou de construtoras parceiras dela. Na primeira transmissão das unidades, o benefício vale até um teto de valor que a prefeitura publica no Portal da Transparência, e precisa ser pedido por escrito, com documentos emitidos pela COHAB-CT. Se o seu imóvel é desse tipo de programa, pergunte à COHAB-CT antes de pedir a guia.
 
 ### Como a faixa é aplicada
 
@@ -93,7 +97,7 @@ Na prática:
    - para mutuários da COHAB, a declaração de transmissão da companhia.
 3. **Aguarde a análise.** A guia é emitida em até 5 dias úteis a partir do primeiro dia útil após o pedido. Se precisar de vistoria ou de documento complementar, o prazo vai a até 20 dias.
 4. **Imprima e confira a guia** no serviço "ITBI: Imprimir e Consultar Guia". Confira nomes, valor e vencimento.
-5. **Pague em uma parcela**, de preferência pelos canais eletrônicos dos bancos conveniados. A prefeitura não parcela o ITBI, mas aceita cartão de débito e de crédito, e o parcelamento pode ser feito com a operadora do cartão, com os juros dela.
+5. **Pague a guia**, de preferência pelos canais eletrônicos dos bancos conveniados. A prefeitura não oferece parcelamento próprio, mas aceita cartão de débito e de crédito, e o parcelamento pode ser contratado com a operadora do cartão, com os juros dela.
 
 Se a escritura for lavrada em tabelionato conveniado ou o contrato for assinado numa agência da Caixa, a prefeitura informa que a guia pode ser emitida por um canal exclusivo desses parceiros. Pergunte ao tabelião ou ao gerente. A emissão da guia não tem taxa.
 

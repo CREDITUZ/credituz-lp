@@ -31,8 +31,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
   - title: "Lei 13.709/2018 (LGPD), art. 20: revisão de decisões automatizadas"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
-  - title: "Larya: análise de crédito imobiliário em 2026 (22/09/2026)"
-    url: "https://larya.com.br/blog/como-ser-aprovado-em-analise-de-credito-2026/"
   - title: "Resolução CNSP 447/2022, seguro habitacional (texto integral)"
     url: "https://www.lex.com.br/resolucao-cnsp-no-447-de-10-de-outubro-de-2022/"
 related: [comprometimento-de-renda, documentos-para-financiamento, avaliacao-do-imovel-pelo-banco, financiamento-negado]
@@ -116,7 +114,7 @@ A lição: a aprovação de crédito é um teto, e a avaliação pode reduzir o 
 Não há prazo oficial, e cada banco informa o seu. Algumas referências:
 
 - **Processo completo:** o Bradesco estima cerca de 30 dias com a documentação em ordem e avisa que o uso de FGTS na entrada pode estender esse prazo. É uma estimativa, não uma garantia.
-- **Análise de crédito da pessoa:** com tudo enviado, pode sair em poucos dias úteis. A Larya, em texto de setembro de 2026, cita de 5 a 15 dias úteis para a análise documental na Caixa.
+- **Análise de crédito da pessoa:** com tudo enviado, costuma ser a parte mais rápida e pode sair em poucos dias úteis, conforme o banco e as pendências. Nenhum banco é obrigado a cumprir um prazo fixo, então pergunte o prazo estimado no momento da proposta.
 - **Validade da aprovação:** a carta de crédito vale por um período limitado, que o banco informa na aprovação. Se o imóvel demorar a ser escolhido ou a documentação travar, pode ser preciso atualizar documentos ou refazer a análise.
 
 ### Por que demora

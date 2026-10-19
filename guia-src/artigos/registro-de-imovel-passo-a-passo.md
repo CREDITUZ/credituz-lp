@@ -33,6 +33,10 @@ sources:
     url: "https://www.registrodeimoveis.org.br/onr-lanca-a-nova-plataforma-ri-digital"
   - title: "Planalto: Lei 9.514/1997 (art. 38, contrato com força de escritura)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+  - title: "Planalto: Lei 10.169/2000 (estados e DF fixam os emolumentos)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/l10169.htm"
+  - title: "Planalto: Lei 11.977/2009, Minha Casa, Minha Vida (arts. 42 e 43, redução de emolumentos)"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11977.htm"
 related: [escritura-e-registro-quanto-custa, itbi, documentos-para-financiamento, custos-para-comprar-imovel]
 ---
 
@@ -83,7 +87,7 @@ Os prazos da Lei 6.015/1973, com a redação da Lei 14.382/2022, contam em dias 
 | Situação | Prazo para registrar ou emitir exigências |
 |---|---|
 | Regra geral | 10 dias úteis do protocolo |
-| Escritura de compra e venda sem cláusulas especiais | 5 dias úteis |
+| Escritura de compra e venda sem cláusulas especiais, averbação de construção ou cancelamento de garantia | 5 dias úteis |
 | Documento eletrônico enviado pelo Serp (sistema nacional de registro eletrônico) | 5 dias úteis |
 | Título que volta com todas as exigências cumpridas, dentro da prenotação | 5 dias úteis |
 
@@ -111,6 +115,20 @@ Se você não concorda com a exigência ou não consegue cumpri-la, pode pedir a
 Com tudo certo, o oficial faz o registro na matrícula, a ficha do imóvel em que ficam anotados donos, garantias e mudanças. No financiamento com alienação fiduciária, em geral entram dois atos: o registro da compra e o registro da alienação fiduciária em favor do banco. Depois, você recebe a certidão da matrícula com o seu nome como proprietário.
 
 No financiamento, é essa matrícula registrada que o banco exige para liberar o dinheiro ao vendedor. Por isso o vendedor também tem interesse em que o registro ande rápido.
+
+## Quanto custa e quando há desconto
+
+Os emolumentos, que são as taxas do cartório, não têm uma tabela nacional. Pela Lei 10.169/2000, cada estado e o Distrito Federal fixam os seus valores, em geral por faixas do valor do imóvel. Por isso, o mesmo registro custa diferente em São Paulo, Minas ou no Paraná. A tabela do seu estado costuma estar no site do cartório ou da associação de registradores local, e exemplos de valores estão em [escritura e registro: quanto custa](/artigos/escritura-e-registro-quanto-custa).
+
+Duas reduções previstas em lei federal ajudam quem compra para morar:
+
+| Situação | Redução nos emolumentos | Base legal |
+|---|---|---|
+| Primeira aquisição residencial financiada pelo SFH (Sistema Financeiro da Habitação) | 50% | Lei 6.015/1973, art. 290 |
+| Imóvel residencial do Minha Casa, Minha Vida adquirido do FAR ou do FDS | 75% | Lei 11.977/2009, art. 43 |
+| Imóvel residencial dos demais empreendimentos do Minha Casa, Minha Vida | 50% | Lei 11.977/2009, art. 43 |
+
+A redução do Minha Casa, Minha Vida cobre a escritura, quando exigida, o registro da compra e o da garantia do banco. O FAR (Fundo de Arrendamento Residencial) e o FDS (Fundo de Desenvolvimento Social) são fundos usados nas modalidades voltadas às famílias de menor renda. Os cartórios nem sempre aplicam o desconto sozinhos: declare no protocolo que é a sua primeira aquisição pelo SFH ou que o imóvel é do programa, e confira o recibo. Se o cartório negar, você pode reclamar na Corregedoria do Tribunal de Justiça do seu estado.
 
 ## Como acompanhar o pedido
 

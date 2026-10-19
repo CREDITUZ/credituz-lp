@@ -25,8 +25,10 @@ sources:
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
   - title: "Banco Central: Registrato, relatório de empréstimos e financiamentos (SCR)"
     url: "https://www.bcb.gov.br/cidadaniafinanceira/registrato"
-  - title: "Previdenciarista: margem consignável de aposentados do INSS em 2026 (14/09/2026)"
-    url: "https://previdenciarista.com/blog/aposentado-pode-comprometer-45-do-beneficio-em-2026-entenda/"
+  - title: "Lei 14.431/2022: margem consignável de 45% para benefícios do INSS (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14431.htm"
+  - title: "Lei 10.820/2003, texto compilado, com nota de vigência encerrada da MP 1.355/2026 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.820.htm"
   - title: "Resolução CNSP 447/2022, seguro habitacional (texto integral)"
     url: "https://www.lex.com.br/resolucao-cnsp-no-447-de-10-de-outubro-de-2022/"
   - title: "MySide: radar de taxas de juros do financiamento imobiliário (atualizado em 08/10/2026)"
@@ -81,7 +83,7 @@ O banco enxerga as suas dívidas por dois caminhos: o que você declara na propo
 
 O consignado engana porque não passa pela sua conta: o desconto acontece antes de o dinheiro chegar. Mesmo assim, ele é uma operação de crédito registrada no SCR, e o banco do financiamento vê a parcela.
 
-Para aposentados e pensionistas do INSS, a margem consignável total em 2026 é de 45% do benefício: 35% para empréstimo, 5% para cartão consignado e 5% para cartão consignado de benefício, segundo levantamento do Previdenciarista de setembro de 2026. Quem usa toda essa margem chega ao pedido de financiamento com quase metade da renda já comprometida, o que, na versão de comprometimento total, praticamente fecha a porta do crédito imobiliário. Ter margem consignável livre não significa ter espaço para o financiamento: são limites diferentes, com regras diferentes.
+Para aposentados e pensionistas do INSS, a Lei 10.820/2003, com a redação dada pela Lei 14.431/2022, permite descontar até 45% do benefício: 35% para empréstimos e financiamentos, 5% para cartão de crédito consignado e 5% para cartão consignado de benefício. Esse teto chegou a ser reduzido temporariamente em 2026 por medida provisória (MP 1.355/2026, já sem vigência), e as regras para contratar cartões consignados também podem mudar. A sua margem atual aparece no app ou no site Meu INSS. Quem usa toda essa margem chega ao pedido de financiamento com quase metade da renda já comprometida, o que, na versão de comprometimento total, praticamente fecha a porta do crédito imobiliário. Ter margem consignável livre não significa ter espaço para o financiamento: são limites diferentes, com regras diferentes.
 
 ### O caso do cartão de crédito
 
