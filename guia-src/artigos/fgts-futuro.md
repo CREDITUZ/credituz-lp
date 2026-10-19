@@ -26,6 +26,8 @@ sources:
     url: "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2562-2020"
   - title: "Projeto de Lei 2.398/2026, Senado Federal (pesquisa de tramitação, 14/05/2026)"
     url: "https://www25.senado.leg.br/web/atividade/materias/-/materia/174155"
+  - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 milhões, O Povo (26/11/2025)"
+    url: "https://www.opovo.com.br/noticias/economia/2025/11/26/amp/conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-rs-225-mi.html"
   - title: "Projeto para comprar outro imóvel a 50 km do trabalho pode liberar FGTS (Correio 24 Horas, 31/08/2026)"
     url: "https://www.correio24horas.com.br/economia/comprar-outro-imovel-a-50-km-do-trabalho-pode-ter-liberacao-de-fgts-em-novo-projeto-na-camara-veja-detalhes-0826"
   - title: "Subcomissão do Senado prevê distribuição de resultado do FGTS entre trabalhadores (COAD, 30/08/2012)"
@@ -85,7 +87,7 @@ Esse exemplo não quer dizer que o tema vai ou não andar. Ele mostra que uma pr
 
 ## Mudanças que não dependem do Congresso
 
-Nem toda mudança no FGTS passa por lei. O Conselho Curador do fundo pode alterar normas de uso, de limites e de operação por resolução. Uma reportagem de 18/09/2026 do Meu Tudo informou que o Conselho ainda estava pendente do planejamento de 2027 a 2029, o que mostra que o calendário de decisões é contínuo. Essas resoluções, quando publicadas, valem imediatamente para as operações que se enquadram nelas, e por isso é preciso conferir a norma vigente no momento da compra.
+Nem toda mudança no FGTS passa por lei. O Conselho Curador do fundo pode alterar normas de uso, de limites e de operação por resolução. Um exemplo recente: em 26/11/2025, o Conselho passou a aceitar para o uso do FGTS imóveis de até R$ 2,25 milhões, antes limitados a R$ 1,5 milhão, sem lei nova. A reportagem não informou o número da resolução, segundo O Povo. Uma reportagem de 18/09/2026 do Meu Tudo informou que o Conselho ainda vai discutir o planejamento de 2027 a 2029, o que mostra que o calendário de decisões é contínuo. Essas resoluções, quando publicadas, valem imediatamente para as operações que se enquadram nelas, e por isso é preciso conferir a norma vigente no momento da compra.
 
 ## O que muda para o seu planejamento hoje
 
