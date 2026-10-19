@@ -49,7 +49,7 @@ No imóvel pronto, novo ou usado, a sequência é direta:
 3. Você paga a entrada e o banco paga o restante ao vendedor.
 4. O contrato é registrado no cartório e você recebe as chaves.
 
-Desde a primeira parcela, parte do que você paga já reduz a dívida. O valor financiado é definido pela avaliação do banco e pela cota de financiamento. A Caixa, por exemplo, voltou em outubro de 2025 a financiar até 80% do valor no sistema SAC, mantendo 70% na Price. Outros bancos têm cotas próprias. Veja quanto você precisa juntar no guia sobre [entrada para financiar imóvel](/artigos/entrada-para-financiar-imovel).
+Desde a primeira parcela, parte do que você paga já reduz a dívida. O valor financiado é definido pela avaliação do banco e pela cota de financiamento. A Caixa, por exemplo, anunciou em outubro de 2025 a volta do financiamento de até 80% do valor no SAC, mantendo 70% na Price, nas linhas com recursos da poupança (SBPE). Essas cotas mudam com frequência, e outros bancos têm as suas; confirme no simulador do banco. Veja quanto você precisa juntar no guia sobre [entrada para financiar imóvel](/artigos/entrada-para-financiar-imovel).
 
 ## Como funciona o crédito no imóvel na planta
 

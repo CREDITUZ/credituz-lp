@@ -9,7 +9,7 @@ key_points:
   - "Autônomo e MEI podem financiar imóvel; o desafio é provar uma renda estável e compatível com a parcela."
   - "Os documentos mais usados são declaração de Imposto de Renda, extratos bancários, DECORE assinada por contador e, no caso do MEI, a DASN-SIMEI."
   - "Faturamento de MEI não é renda: o banco olha quanto sobra para você, não quanto a empresa fatura."
-  - "Em outubro de 2026, o limite de faturamento do MEI continua em R$ 81 mil por ano."
+  - "Em outubro de 2026, o limite do MEI ainda é R$ 81 mil por ano; um projeto aprovado pelo Congresso, à espera de sanção, prevê R$ 110 mil em 2027 e R$ 140 mil a partir de 2028."
   - "Organizar a vida financeira de 6 a 12 meses antes do pedido aumenta muito a chance de aprovação."
 faq:
   - q: "MEI pode financiar imóvel?"
@@ -17,7 +17,7 @@ faq:
   - q: "Extrato bancário serve como comprovante de renda?"
     a: "Na maioria dos bancos, sim, como complemento ou como principal prova para quem não tem holerite. É comum pedirem de 3 a 6 meses, e o banco considera a média das entradas recorrentes."
   - q: "O que é DECORE?"
-    a: "É a Declaração Comprobatória de Percepção de Rendimentos, emitida por um contador. Desde 1º de janeiro de 2026 ela segue a Resolução CFC 1.777/2025, que exige documentos de lastro assinados digitalmente."
+    a: "É a Declaração Comprobatória de Percepção de Rendimentos, emitida por um contador. Desde 1º de janeiro de 2026 ela segue a Resolução CFC 1.777/2025, que exige documentos de lastro assinados digitalmente. Nem todo banco aceita a DECORE, então pergunte antes."
   - q: "Preciso declarar Imposto de Renda para financiar sendo autônomo?"
     a: "Mesmo quando não é obrigatório, declarar ajuda muito. A declaração é a forma mais aceita de mostrar uma renda anual consistente, e renda que não aparece nela tende a ser desconsiderada."
   - q: "O banco usa o faturamento inteiro do MEI como renda?"
@@ -25,14 +25,14 @@ faq:
 sources:
   - title: "Prazo para declaração anual do MEI termina neste domingo (Movimento Econômico, 29/05/2026)"
     url: "https://movimentoeconomico.com.br/receita-federal/2026/05/29/prazo-para-declaracao-anual-do-mei-termina-neste-domingo-veja-como-fazer/"
-  - title: "Aumento do limite do MEI em 2026: valor atual e projeto de lei (Jettax, atualizado em 02/09/2026)"
-    url: "https://www.jettax.com.br/blog/aumento-do-limite-do-mei-em-2026-valor-atual-projeto-de-lei-e-o-que-pode-mudar/"
   - title: "CFC publica nova resolução sobre a Decore Eletrônica (CFC, 11/12/2025)"
     url: "https://cfc.org.br/noticias/cfc-publica-nova-resolucao-sobre-a-decore-eletronica/"
   - title: "CFC atualiza regras da Decore Eletrônica a partir de 2026 (Reforma Tributária)"
     url: "https://www.reformatributaria.com/cfc-atualiza-regras-da-decore-eletronica-e-endurece-exigencias-para-comprovacao-de-rendimentos-a-partir-de-2026/"
   - title: "Como autônomo pode comprovar renda para financiar imóvel (MySide, atualizado em 22/01/2026)"
     url: "https://myside.com.br/guia-imoveis/comprovar-renda-autonomo-financiamento"
+  - title: "Senado aprova aumento do teto do MEI para R$ 140 mil a partir de 2028 (Congresso em Foco, 15/10/2026)"
+    url: "https://www.congressoemfoco.com.br/noticia/123307/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-a-partir-de-2028"
   - title: "10 regras essenciais para financiar um imóvel novo pela Caixa em 2026 (CNN Brasil, 13/05/2026)"
     url: "https://www.cnnbrasil.com.br/branded-content/economia/negocios/10-regras-essenciais-para-financiar-um-imovel-novo-pela-caixa-em-2026/"
 related: [renda-para-financiar-imovel, renda-composta, documentos-para-financiamento, financiamento-negado]
@@ -58,13 +58,13 @@ Cada banco tem a sua lista, e ela muda. A tabela abaixo resume o que é mais ped
 |---|---|---|---|
 | Declaração de IRPF com recibo de entrega | Sim | Sim | Mostra a renda anual declarada e o patrimônio |
 | Extratos bancários (3 a 6 meses) | Sim, da conta pessoal | Sim, da conta PF e da conta PJ | Mostra entradas recorrentes |
-| DECORE assinada por contador | Comum | Comum | Declara a renda mensal com base em documentos de lastro |
+| DECORE assinada por contador | Aceita por alguns bancos | Aceita por alguns bancos | Declara a renda mensal com base em documentos de lastro |
 | Carnê-Leão (recolhimentos mensais) | Para quem recebe de pessoas físicas | Não se aplica | Prova rendimentos recebidos de outras pessoas |
 | DASN-SIMEI (declaração anual do MEI) | Não se aplica | Sim | Mostra o faturamento anual da empresa |
 | CNPJ ativo e certificado do MEI | Não se aplica | Sim | Prova que a empresa existe e está regular |
 | Contratos de prestação de serviço, notas fiscais | Ajudam | Ajudam | Reforçam a recorrência da renda |
 
-Alguns bancos também aceitam faturas de cartão de crédito e movimentação financeira consolidada como apoio. Em 2026 isso fica mais simples com o Open Finance, que permite compartilhar o histórico de contas com o banco que vai analisar o crédito, se você autorizar.
+Alguns bancos aceitam outros documentos de apoio, então vale perguntar. Em 2026 a análise também pode ficar mais simples com o Open Finance, que permite compartilhar o histórico de contas com o banco que vai analisar o crédito, se você autorizar.
 
 ### O que mudou na DECORE em 2026
 
@@ -74,7 +74,7 @@ A DECORE (Declaração Comprobatória de Percepção de Rendimentos) é emitida 
 
 O ponto que mais confunde: faturamento do MEI não é a sua renda. Se a empresa fatura R$ 6.000 por mês, parte disso paga mercadoria, transporte, ferramentas. O banco quer saber quanto sobra para você.
 
-Em outubro de 2026, o limite de faturamento do MEI continua em R$ 81 mil por ano, cerca de R$ 6.750 por mês. O PLP 108/2021, que elevaria o teto para perto de R$ 130 mil, teve urgência aprovada na Câmara em março de 2026, mas ainda não virou lei até a data deste texto. Isso coloca um teto natural para a renda que um MEI consegue comprovar só com a empresa.
+Em outubro de 2026, o limite de faturamento do MEI ainda é R$ 81 mil por ano, cerca de R$ 6.750 por mês. O PLP 186/2026, aprovado pela Câmara em 14 de outubro e pelo Senado em 15 de outubro de 2026, eleva o teto para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028, mas dependia de sanção presidencial na data deste texto. Enquanto o novo limite não valer, o teto atual coloca um limite natural para a renda que um MEI consegue comprovar só com a empresa.
 
 Os bancos costumam cruzar três informações:
 

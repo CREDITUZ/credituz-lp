@@ -29,8 +29,10 @@ sources:
     url: "https://www.infomoney.com.br/?p=3059690"
   - title: "Portas: Santander amplia financiamento para até 90% do valor do imóvel (13/05/2026, atualizado em 01/06/2026)"
     url: "https://portas.com.br/mercado-imobiliario/santander-amplia-financiamento-para-ate-90-do-valor-do-imovel/"
-  - title: "Agência Brasil: Caixa retoma financiamento para imóveis acima de R$ 2,25 milhões (03/03/2026)"
-    url: "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-retoma-financiamento-para-imoveis-acima-de-r-225-milhoes"
+  - title: "Money Times: Caixa voltará a financiar 80% do valor dos imóveis no SAC (10/10/2025)"
+    url: "https://www.moneytimes.com.br/caixa-voltara-a-financiar-80-do-valor-dos-imoveis-veja-os-detalhes-igdl/"
+  - title: "Fenacon/Agência Brasil: Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 milhões (27/11/2025)"
+    url: "https://fenacon.org.br/noticias/conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-r-225-mi/"
   - title: "IBRE/FGV: Sobre o novo modelo de crédito imobiliário"
     url: "https://blogdoibre.fgv.br/posts/sobre-o-novo-modelo-de-credito-imobiliario"
 related: [fgts-na-compra-do-imovel, custos-para-comprar-imovel, avaliacao-do-imovel-pelo-banco, sac-ou-price]
@@ -46,7 +48,7 @@ Cota de financiamento é o percentual do imóvel que o banco aceita financiar. A
 
 Dois detalhes mudam tudo:
 
-1. **A cota incide sobre o menor valor entre o preço de compra e a avaliação do banco.** Se você paga R$ 500 mil e o engenheiro avalia em R$ 460 mil, o banco calcula a cota sobre R$ 460 mil.
+1. **Em geral, a cota incide sobre o menor valor entre o preço de compra e a avaliação do banco.** Confirme a regra na simulação. Se você paga R$ 500 mil e o engenheiro avalia em R$ 460 mil, o banco calcula a cota sobre R$ 460 mil.
 2. **A cota é um teto, não uma garantia.** Mesmo com cota de 80%, o banco pode aprovar menos se a sua renda não comportar a parcela do valor máximo.
 
 ## Quanto cada banco e modalidade financia
@@ -59,7 +61,7 @@ Dois detalhes mudam tudo:
 | Operações selecionadas em banco privado | até 90% | 10% | Ex.: Santander, divulgado em maio de 2026, conforme perfil |
 | Minha Casa, Minha Vida | varia com faixa e cidade | varia | Subsídio e FGTS podem reduzir a entrada |
 
-Essas regras mudam com a disponibilidade de recursos. Em novembro de 2024, por falta de dinheiro da poupança, a Caixa havia reduzido a cota para 70% no SAC e 50% na Price em imóveis de até R$ 1,5 milhão. A volta para 80% e 70% foi anunciada em 10 de outubro de 2025, junto com o novo modelo de crédito imobiliário, que também elevou o teto do SFH para R$ 2,25 milhões. Por isso, confirme a cota na simulação do banco na data da contratação.
+Essas regras mudam com a disponibilidade de recursos. Em novembro de 2024, por falta de dinheiro da poupança, a Caixa havia reduzido a cota para 70% no SAC e 50% na Price em imóveis de até R$ 1,5 milhão. A volta para 80% no SAC foi anunciada em 10 de outubro de 2025, junto com o novo modelo de crédito imobiliário, que também elevou o teto do SFH para R$ 2,25 milhões. A nota de dezembro de 2025 confirmou 80% no SAC e 70% na Price. Por isso, confirme a cota na simulação do banco na data da contratação.
 
 ### Por que as cotas mudaram
 
@@ -89,7 +91,7 @@ São R$ 32 mil a mais saindo do seu bolso. Para se proteger, inclua no contrato 
 ## De onde pode vir a entrada
 
 - **Poupança própria e investimentos.** O caminho mais comum.
-- **FGTS.** Pode ser usado na entrada em imóvel residencial enquadrado no SFH, desde que você cumpra as regras do fundo (tempo de contribuição, não ter outro imóvel na mesma cidade, entre outras). O teto do imóvel no SFH subiu para R$ 2,25 milhões em outubro de 2025, o que ampliou os imóveis elegíveis. Veja [como usar o FGTS na compra](/artigos/fgts-na-compra-do-imovel).
+- **FGTS.** Pode ser usado na entrada em imóvel residencial enquadrado no SFH, desde que você cumpra as regras do fundo (tempo de contribuição, não ter outro imóvel na mesma cidade, entre outras). O teto do imóvel no SFH subiu para R$ 2,25 milhões em outubro de 2025, e em novembro de 2025 o Conselho Curador do FGTS liberou o uso do fundo para imóveis até esse valor, o que ampliou os imóveis elegíveis. Veja [como usar o FGTS na compra](/artigos/fgts-na-compra-do-imovel).
 - **Subsídio do Minha Casa, Minha Vida.** Para quem se enquadra nas faixas de renda, o desconto reduz o valor a pagar. Veja [as regras do programa](/artigos/minha-casa-minha-vida).
 - **Parcelamento com a construtora.** Em imóvel na planta, a construtora costuma parcelar a entrada durante a obra, em geral com correção pelo INCC (Índice Nacional de Custo da Construção). Compare em [imóvel na planta ou pronto](/artigos/imovel-na-planta-ou-pronto).
 - **Venda de outro bem.** Carro ou outro imóvel. Planeje o prazo, porque o vendedor quer receber no ato.
@@ -154,7 +156,7 @@ Uma regra prática: não zere a sua reserva para aumentar a entrada. Depois da c
 
 - Conte com 20% a 30% do valor avaliado como entrada na maioria dos financiamentos.
 - Caixa SBPE: até 80% no SAC e até 70% na Price. Bancos privados: em geral até 80%, com casos de até 90%.
-- A cota incide sobre o menor valor entre preço e avaliação.
+- Em geral, a cota incide sobre o menor valor entre preço e avaliação.
 - FGTS e subsídios podem compor a entrada, dentro das regras.
 - Some ITBI, registro e avaliação ao valor que você precisa ter guardado.
 

@@ -19,7 +19,7 @@ faq:
   - q: "Renda informal conta para o financiamento?"
     a: "Pode contar, desde que seja comprovada. Extratos bancários, declaração de Imposto de Renda e, no caso de MEI, a declaração anual do MEI são os documentos mais usados. Cada banco define o que aceita."
   - q: "Posso financiar com a renda do meu namorado ou de um amigo?"
-    a: "Muitos bancos aceitam composição de renda com pessoas sem parentesco, desde que todas assinem o contrato e sejam coproprietárias. As regras variam por banco e modalidade."
+    a: "Alguns bancos aceitam composição de renda com pessoas sem parentesco, desde que todas assinem o contrato e sejam coproprietárias. Outros aceitam só cônjuge ou companheiro. As regras variam por banco e modalidade."
 sources:
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
@@ -29,8 +29,8 @@ sources:
     url: "https://larya.com.br/blog/?p=17919"
   - title: "Agência Brasil: Caixa libera mais de um financiamento e cotas de 80% (SAC) e 70% (Price) (09/12/2025)"
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
-  - title: "Canal Rural: Banco Central detalha novo modelo de crédito imobiliário (11/05/2026)"
-    url: "https://www.canalrural.com.br/economia/banco-central-detalha-novo-modelo-de-credito-imobiliario-lancado-no-fim-de-2025/"
+  - title: "QuintoAndar: como funciona a composição de renda (atualizado em 28/05/2025)"
+    url: "https://www.quintoandar.com.br/guias/?p=2412030"
 related: [renda-composta, financiamento-autonomo-mei, sac-ou-price, financiamento-negado]
 ---
 

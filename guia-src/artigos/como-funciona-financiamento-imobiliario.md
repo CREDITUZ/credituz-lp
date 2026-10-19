@@ -31,6 +31,10 @@ sources:
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
+  - title: "Money Times: Caixa voltará a financiar 80% do valor dos imóveis no SAC (10/10/2025)"
+    url: "https://www.moneytimes.com.br/caixa-voltara-a-financiar-80-do-valor-dos-imoveis-veja-os-detalhes-igdl/"
+  - title: "Larya: idade mínima e máxima para financiar imóvel, regra de 80 anos e 6 meses (22/09/2026)"
+    url: "https://larya.com.br/blog/?p=17919"
   - title: "Lei 9.514/1997 (alienação fiduciária de imóveis)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
 related: [taxa-de-juros-financiamento-imobiliario, sac-ou-price, entrada-para-financiar-imovel, renda-para-financiar-imovel]
@@ -72,7 +76,7 @@ O prazo é limitado pela idade. Na regra usada por Caixa e Banco do Brasil, segu
 
 O banco não financia 100% do imóvel. A parte que ele cobre se chama cota de financiamento e é calculada sobre o valor de avaliação.
 
-Em outubro de 2025 a Caixa anunciou a volta da cota de até 80% no SBPE (Sistema Brasileiro de Poupança e Empréstimo, a linha com dinheiro da poupança) pelo sistema SAC, com até 70% na tabela Price, regra confirmada em nota de dezembro de 2025. Bancos privados trabalham com cotas próprias, em geral de até 80%, e alguns divulgaram em 2026 operações de até 90% para perfis selecionados. As cotas mudam conforme a política de cada banco, então confirme na simulação.
+Em outubro de 2025 a Caixa anunciou a volta da cota de até 80% no SBPE (Sistema Brasileiro de Poupança e Empréstimo, a linha com dinheiro da poupança) pelo sistema SAC. Em nota de dezembro de 2025, o banco confirmou até 80% no SAC e até 70% na tabela Price. Bancos privados trabalham com cotas próprias, em geral de até 80%, e alguns divulgaram em 2026 operações de até 90% para perfis selecionados. As cotas mudam conforme a política de cada banco, então confirme na simulação.
 
 Você pode usar o saldo do FGTS na entrada se cumprir as regras do fundo. O detalhamento por banco e modalidade está em [quanto de entrada é preciso](/artigos/entrada-para-financiar-imovel).
 
@@ -87,7 +91,7 @@ Todo financiamento imobiliário com recursos da poupança se enquadra em um dest
 | Uso do FGTS | Permitido, dentro das regras do fundo | Não permitido |
 | Público típico | Primeira moradia, classe média | Imóveis acima do teto do SFH |
 
-O teto do SFH subiu de R$ 1,5 milhão para R$ 2,25 milhões com o novo modelo de crédito imobiliário aprovado pelo CMN (Conselho Monetário Nacional) em 10 de outubro de 2025, e a mudança valeu de imediato. Esse modelo também muda, de forma gradual, a forma como os bancos usam o dinheiro da poupança. A transição completa está prevista para começar em 2027, segundo análise do IBRE/FGV. As diferenças completas estão em [SFH e SFI](/artigos/sfh-e-sfi).
+O teto do SFH subiu de R$ 1,5 milhão para R$ 2,25 milhões com o novo modelo de crédito imobiliário aprovado pelo CMN (Conselho Monetário Nacional) em 10 de outubro de 2025, e a mudança valeu de imediato. Esse modelo também muda, de forma gradual, a forma como os bancos usam o dinheiro da poupança. Parte das medidas, como a redução progressiva do depósito compulsório ligado ao crédito imobiliário, só começa a valer em 2027, segundo análise do IBRE/FGV. As diferenças completas estão em [SFH e SFI](/artigos/sfh-e-sfi).
 
 Existe ainda o Minha Casa, Minha Vida, com juros menores e subsídio para faixas de renda definidas pelo governo. Veja [as regras do programa](/artigos/minha-casa-minha-vida).
 

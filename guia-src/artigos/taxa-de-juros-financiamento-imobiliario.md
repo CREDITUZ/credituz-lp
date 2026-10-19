@@ -6,7 +6,7 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
-  - "Em outubro de 2026, as taxas de balcão dos grandes bancos no SBPE ficam, em geral, entre 10% e 12,3% ao ano mais TR."
+  - "Em outubro de 2026, as taxas de balcão dos cinco maiores bancos no SBPE começam entre cerca de 10,3% e 12% ao ano mais TR."
   - "A Selic está em 13,75% ao ano desde 16 de setembro de 2026. A próxima reunião do Copom é em 3 e 4 de novembro."
   - "No SFH, o custo efetivo do financiamento não pode passar de 12% ao ano."
   - "Um ponto percentual a mais na taxa pode custar dezenas de milhares de reais ao longo do contrato."
@@ -23,6 +23,8 @@ faq:
 sources:
   - title: "Copom reduz Selic para 13,75% ao ano (decisão de 16/09/2026)"
     url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
+  - title: "Economic News Brasil: Selic cai para 13,75%, quinto corte seguido (16/09/2026)"
+    url: "https://economicnewsbrasil.com.br/2026/09/16/nova-taxa-selic-projecao-dezembro-2026/"
   - title: "Calendário das reuniões do Copom em 2026"
     url: "https://amdjus.com.br/calendario-do-copom-em-2026-confira-as-datas-das-proximas-decisoes-sobre-a-taxa-de-juros/"
   - title: "Boletim Focus: estimativa para a Selic no fim de 2026 passa para 13,25% (13/10/2026)"
@@ -56,7 +58,7 @@ A tabela abaixo mostra as taxas "a partir de" divulgadas pelos bancos, compilada
 
 Fonte: MySide, atualização de 08/10/2026. Taxas mudam com frequência; confirme no simulador de cada banco antes de decidir.
 
-Para comparar com dados oficiais, o Banco Central publica no site dele um ranking das taxas médias efetivamente cobradas por instituição em cada modalidade de crédito, inclusive financiamento imobiliário. É uma boa forma de checar se a taxa "a partir de" está perto do que os clientes realmente pagam.
+Para comparar com dados oficiais, o Banco Central publica no site dele as taxas médias cobradas por instituição financeira em diversas modalidades de crédito, na página de taxas de juros por instituição. Vale consultar e ver quais modalidades estão disponíveis na data: quando há dado de financiamento imobiliário, ele ajuda a checar se a taxa "a partir de" está perto do que os clientes realmente pagam.
 
 ## Do que a taxa é feita
 
@@ -79,7 +81,7 @@ Todo financiamento habitacional tem dois seguros obrigatórios: MIP (morte e inv
 
 ## O que a Selic tem a ver com a sua taxa
 
-A Selic é a taxa básica de juros da economia, definida pelo Copom (Comitê de Política Monetária do Banco Central). Em 16 de setembro de 2026, o Copom cortou a Selic de 14% para 13,75% ao ano, por unanimidade. Foi o quinto corte seguido no ano. A próxima reunião está marcada para 3 e 4 de novembro de 2026, e a última do ano para 8 e 9 de dezembro.
+A Selic é a taxa básica de juros da economia, definida pelo Copom (Comitê de Política Monetária do Banco Central). Em 16 de setembro de 2026, o Copom cortou a Selic de 14% para 13,75% ao ano, por unanimidade. Foi o quinto corte seguido do ciclo de queda. A próxima reunião está marcada para 3 e 4 de novembro de 2026, e a última do ano para 8 e 9 de dezembro.
 
 O Boletim Focus de 13 de outubro de 2026, pesquisa do Banco Central com economistas do mercado, apontava mediana de 13,25% para a Selic no fim de 2026 e 12% no fim de 2027. Projeção não é garantia.
 

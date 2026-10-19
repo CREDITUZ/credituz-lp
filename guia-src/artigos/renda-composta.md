@@ -17,7 +17,7 @@ faq:
   - q: "Quem compõe renda vira dono do imóvel?"
     a: "Na prática, sim. Quem entra com renda costuma assinar o contrato como devedor e constar na matrícula como coproprietário, na proporção definida no contrato."
   - q: "Quantas pessoas podem somar renda?"
-    a: "Não existe um número único para todo o mercado. Cada banco fixa o seu limite, e o mais comum é aceitar duas ou três pessoas por contrato."
+    a: "Não existe um número único para todo o mercado. Alguns bancos limitam a quantidade de participantes, então confirme o limite no banco escolhido antes de juntar os documentos."
   - q: "Se um dos participantes tiver nome sujo, o financiamento é negado?"
     a: "Pode ser. O banco analisa o CPF de todos os participantes, e uma restrição relevante em qualquer um deles costuma reprovar a proposta ou exigir que essa pessoa saia da composição."
   - q: "Cada um pode usar o seu FGTS?"
@@ -27,12 +27,14 @@ sources:
     url: "https://meutudo.com.br/blog/idoso-pode-financiar-imovel-pela-caixa/"
   - title: "Como funciona a composição de renda para financiamento de imóvel (QuintoAndar)"
     url: "https://www.quintoandar.com.br/guias/?p=2412030"
-  - title: "10 regras essenciais para financiar um imóvel novo pela Caixa em 2026 (CNN Brasil, 13/05/2026)"
-    url: "https://www.cnnbrasil.com.br/branded-content/economia/negocios/10-regras-essenciais-para-financiar-um-imovel-novo-pela-caixa-em-2026/"
-  - title: "Taxas de juros do financiamento imobiliário em 2026 (Larya, 25/09/2026)"
-    url: "https://larya.com.br/blog/taxas-de-juros-financiamento-imobiliario-2026/"
-  - title: "Copom reduz Selic para 13,75% ao ano (16/09/2026)"
-    url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
+  - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
+    url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
+  - title: "MySide: radar de taxas de juros do financiamento imobiliário (atualizado em 08/10/2026)"
+    url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario"
+  - title: "Mutuus: seguro MIP, cobertura proporcional à renda de cada comprador"
+    url: "https://www.mutuus.net/blog/seguro-mip/"
+  - title: "Fenacon/Agência Brasil: regras do FGTS para moradia, Conselho Curador (27/11/2025)"
+    url: "https://fenacon.org.br/noticias/conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-r-225-mi/"
 related: [renda-para-financiar-imovel, financiamento-autonomo-mei, score-para-financiamento-imobiliario, documentos-para-financiamento]
 ---
 
@@ -40,7 +42,7 @@ Renda composta é quando duas ou mais pessoas somam o que ganham para que o banc
 
 ## Como o banco usa a renda somada
 
-O banco não olha só o valor do imóvel. Ele calcula qual parcela cabe no seu orçamento. A referência mais comum é que a primeira prestação não passe de 30% da renda bruta comprovada, regra citada nas condições da Caixa divulgadas em maio de 2026. Alguns programas e bancos usam percentuais diferentes, então trate os 30% como ponto de partida, não como regra universal.
+O banco não olha só o valor do imóvel. Ele calcula qual parcela cabe no seu orçamento. A referência mais comum é que a primeira prestação não passe de cerca de 30% da renda bruta comprovada. A Serasa, em texto de junho de 2026, informa que a Caixa limita a prestação a cerca de 30% da renda bruta familiar. Alguns programas e bancos usam percentuais diferentes, então trate os 30% como ponto de partida, não como regra universal.
 
 Na renda composta, o banco soma a renda bruta de todos os participantes e aplica esse limite sobre o total. Se você ganha R$ 4.500 e seu parceiro ganha R$ 3.500, a conta passa a ser feita sobre R$ 8.000.
 
@@ -61,7 +63,7 @@ Não há uma regra única para o mercado. Cada banco define o seu público aceit
 
 Levantamentos de mercado mostram exemplos dessa variação: há banco que só aceita casados ou em união estável e há banco que permite que duas pessoas sem parentesco comprem juntas. Como essas políticas mudam, a pergunta certa a fazer ao gerente ou ao correspondente é direta: "vocês aceitam composição de renda entre fulano e eu, com esse vínculo?".
 
-O número de participantes também varia. É comum o limite ficar em duas ou três pessoas por contrato, mas confirme no banco escolhido.
+O número de participantes também varia. Alguns bancos limitam quantas pessoas podem entrar no mesmo contrato, então confirme no banco escolhido.
 
 ## O que muda quando você compõe renda
 
@@ -87,7 +89,7 @@ O banco consulta score, restrições e endividamento de cada participante. Uma p
 
 ## Exemplo prático: quanto a composição aumenta o crédito
 
-Exemplo ilustrativo, calculado com taxa de 11,5% ao ano (taxa efetiva, sem TR), na faixa das taxas de balcão divulgadas pelos grandes bancos em setembro de 2026, prazo de 420 meses (35 anos) e limite de 30% da renda. Não inclui seguros e taxas, que entram no CET (Custo Efetivo Total) e reduzem um pouco o valor aprovado.
+Exemplo ilustrativo, calculado com taxa de 11,5% ao ano (taxa efetiva, sem TR), dentro da faixa das taxas de balcão do SBPE nos grandes bancos em outubro de 2026, segundo a MySide, prazo de 420 meses (35 anos) e limite de 30% da renda. Não inclui seguros e taxas, que entram no CET (Custo Efetivo Total) e reduzem um pouco o valor aprovado.
 
 | Composição | Renda bruta somada | Parcela máxima (30%) | Valor financiável na SAC | Valor financiável na Price |
 |---|---|---|---|---|

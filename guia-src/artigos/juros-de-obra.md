@@ -28,7 +28,7 @@ sources:
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=996&cod_tema_final=996"
   - title: "Dizer o Direito: juros no pé e o EREsp 670.117/PB (STJ, 2012)"
     url: "https://www.dizerodireito.com.br/2012/07/o-que-sao-juros-no-pe-eles-sao.html"
-  - title: "Migalhas: legalidade dos encargos no período de obras no MCMV (TJSP, IRDR Tema 6)"
+  - title: "Migalhas: legalidade dos encargos no período de obras no MCMV (IRDR do TJSP)"
     url: "https://www.migalhas.com.br/depeso/281265/da-legalidade-da-cobranca-de-encargos-no-periodo-de-obras-em-empreendimentos-populares-financiados-pelo-programa-do-governo-federal-minha-casa-minha-vida"
   - title: "Lei 13.786/2018 (prazo de tolerância de 180 dias)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm"
@@ -84,7 +84,7 @@ Ou seja, receber as chaves não encerra automaticamente os juros de obra. Se a c
 
 **Cobrança dentro do prazo é permitida.** Os tribunais costumam aceitar os juros de obra quando estão previstos no contrato e a obra está dentro do prazo.
 
-**Cobrança após o prazo de entrega, no MCMV, é ilícita.** No Tema 996, julgado em setembro de 2019, o STJ fixou que, nos contratos do Minha Casa, Minha Vida, é ilícito cobrar do comprador juros de obra ou encargo equivalente depois do prazo contratual de entrega das chaves, incluída a tolerância. O Tribunal de Justiça de São Paulo já havia firmado entendimento semelhante em incidente de demandas repetitivas (IRDR, Tema 6).
+**Cobrança após o prazo de entrega, no MCMV, é ilícita.** No Tema 996, julgado em setembro de 2019, o STJ fixou que, nos contratos do Minha Casa, Minha Vida, é ilícito cobrar do comprador juros de obra ou encargo equivalente depois do prazo contratual de entrega das chaves, incluída a tolerância. O caso chegou ao STJ a partir de um incidente de resolução de demandas repetitivas (IRDR) do Tribunal de Justiça de São Paulo, que já considerava ilícito esse repasse após o prazo contratual.
 
 O prazo de tolerância, em contratos de incorporação firmados após a Lei 13.786/2018, é de no máximo 180 dias. Para entender os direitos quando a obra atrasa, veja [atraso na entrega do imóvel](/artigos/atraso-na-entrega-do-imovel).
 
@@ -96,7 +96,7 @@ Em contratos fora do MCMV, a resposta depende das cláusulas e do caso. Alguns c
 |---|---|---|
 | Quem cobra | o banco | a incorporadora |
 | Sobre o quê | o valor já liberado pelo banco à construtora | as parcelas que você paga direto à incorporadora antes das chaves |
-| Posição do STJ | lícitos no prazo; ilícitos no MCMV após o prazo com tolerância (Tema 996) | lícitos se previstos de forma expressa (EREsp 670.117, 2012) |
+| Posição do STJ | lícitos no prazo; ilícitos no MCMV após o prazo com tolerância (Tema 996) | cláusula não abusiva, desde que clara no contrato (EREsp 670.117, 2012) |
 
 ## Como reduzir o quanto você paga
 
@@ -115,7 +115,7 @@ Você não precisa ser especialista para checar se a cobrança faz sentido. Peç
 3. **Seguros:** MIP e DFI aparecem no contrato ou no extrato; mudam com a idade e o valor do imóvel.
 4. **Taxa de administração:** valor fixo mensal, se o contrato prever.
 
-Se a diferença entre o boleto e a sua conta for maior do que seguros e tarifa explicam, peça a memória de cálculo por escrito. Use a taxa nominal do contrato, não a efetiva; é a nominal que o banco aplica nessa fórmula.
+Se a diferença entre o boleto e a sua conta for maior do que seguros e tarifa explicam, peça a memória de cálculo por escrito. Use a taxa nominal do contrato, não a efetiva; em geral é a nominal que o banco divide por 12 nessa conta. Se o contrato trouxer outra regra, siga o contrato.
 
 ### Planejamento do orçamento na fase de obra
 

@@ -7,19 +7,19 @@ updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "Portabilidade é transferir a dívida do imóvel para outro banco com juros menores, sem pagar tarifa ao banco atual."
-  - "As regras estão na Resolução CMN 5.057/2022, atualizada pela 5.265/2025: o banco de origem não pode recusar o pedido."
+  - "As regras estão na Resolução CMN 5.057/2022, alterada pela 5.265/2025: o banco de origem é obrigado a garantir a portabilidade que você pedir."
   - "O novo contrato não pode ter valor nem prazo maiores que o saldo devedor e o prazo restante."
   - "Há custos: avaliação do imóvel e registro no cartório. Compare a economia mensal com esses gastos."
   - "Quanto maior o saldo e o prazo restante, mais a redução de juros compensa."
 faq:
   - q: "O banco atual pode impedir a portabilidade?"
-    a: "Não. Pela Resolução CMN 5.057/2022, a instituição credora original não pode se recusar a transferir a operação quando você pede. Ela pode, porém, tentar oferecer condições melhores para você ficar."
+    a: "Não. Pela Resolução CMN 5.057/2022, a instituição credora original deve garantir a portabilidade quando o cliente pede e o novo banco envia os recursos. Ela pode, porém, tentar oferecer condições melhores para você ficar."
   - q: "Quanto custa fazer a portabilidade do financiamento imobiliário?"
     a: "O banco atual não pode cobrar tarifa pela transferência. Os custos principais são a avaliação do imóvel pelo novo banco e a averbação no cartório de registro de imóveis, que variam por banco e por estado."
   - q: "Posso aumentar o prazo na portabilidade?"
     a: "Não. O prazo da nova operação não pode ser maior que o prazo restante do contrato atual, e o valor não pode superar o saldo devedor."
   - q: "Financiamento com FGTS ou do Minha Casa Minha Vida pode ser portado?"
-    a: "Depende do banco. Muitos só aceitam portar contratos com recursos da poupança (SBPE). Contratos com recursos do FGTS costumam ficar de fora, então pergunte antes."
+    a: "Depende do banco. Muitos só aceitam portar contratos com recursos da poupança (SBPE); a proposta de portabilidade do BRB, por exemplo, exclui contratos com recursos do FGTS. Pergunte antes."
   - q: "Quanto tempo leva?"
     a: "A troca de recursos entre os bancos tem prazos curtos, de poucos dias úteis, mas o processo todo inclui análise de crédito, avaliação e registro, e costuma levar algumas semanas."
 sources:
@@ -35,6 +35,8 @@ sources:
     url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
   - title: "Taxas de juros do financiamento imobiliário em 2026 (Larya, 25/09/2026)"
     url: "https://larya.com.br/blog/taxas-de-juros-financiamento-imobiliario-2026/"
+  - title: "Resolução CMN 5.057/2022 (Normas Brasil, texto com arts. 3º e 8º)"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5057-2022_439765.html"
 related: [taxa-de-juros-financiamento-imobiliario, amortizar-financiamento-prazo-ou-parcela, avaliacao-do-imovel-pelo-banco, sfh-e-sfi]
 ---
 
@@ -46,16 +48,16 @@ Portabilidade é levar a sua dívida para outro banco, que quita o contrato anti
 
 As regras estão na Resolução CMN 5.057/2022, em vigor desde março de 2023, com alterações da Resolução CMN 5.265/2025, publicada em 28 de novembro de 2025. Os pontos que importam para você:
 
-- **O banco atual não pode recusar.** Se você pede a portabilidade, ele é obrigado a transferir a operação.
+- **O banco atual não pode recusar.** A resolução manda a instituição de origem garantir a portabilidade quando você pede e o novo banco transfere os recursos.
 - **Sem tarifa para você.** Os custos de troca de informações e de transferência de recursos entre os bancos não podem ser repassados ao cliente.
 - **Valor e prazo limitados.** A nova operação não pode ter valor maior que o saldo devedor nem prazo maior que o prazo restante. Portabilidade não é refinanciamento para pegar dinheiro extra nem para alongar a dívida.
 - **Proposta transparente.** O novo banco precisa informar taxa nominal e efetiva, CET (Custo Efetivo Total), prazo, sistema de amortização e valor das parcelas.
 - **Garantia transferida em ato único.** No crédito imobiliário, o documento final permite averbar no cartório, de uma só vez, a troca de credor e da garantia.
-- **SFH continua SFH.** Um contrato do Sistema Financeiro da Habitação continua no SFH depois da portabilidade. Contratos de fora podem ser reenquadrados no SFH se cumprirem as regras dele. Entenda a diferença em [SFH e SFI](/artigos/sfh-e-sfi).
+- **SFH continua SFH.** Um contrato do Sistema Financeiro da Habitação continua no SFH depois da portabilidade (a exceção é o teto de valor de avaliação). Contratos de fora podem ser reenquadrados no SFH se cumprirem as regras dele. Entenda a diferença em [SFH e SFI](/artigos/sfh-e-sfi).
 
 ### Prazos entre os bancos
 
-Depois que o novo banco aprova e pede a transferência, o banco de origem tem até cinco dias úteis para concluir a operação pelo sistema de registro tradicional. A Resolução 5.265/2025 criou uma segunda via, pela infraestrutura do Open Finance, com prazo de até três dias úteis. Pelo comunicado do Banco Central de novembro de 2025, a primeira modalidade levada ao Open Finance foi o crédito pessoal; o crédito imobiliário segue, em regra, pelo sistema tradicional. Esses prazos valem só para a etapa final: antes dela, há análise de crédito, avaliação e preparação do contrato.
+Depois de receber o pedido do novo banco, o banco de origem tem até cinco dias úteis para solicitar a transferência dos recursos, no sistema eletrônico tradicional. A Resolução 5.265/2025 criou uma segunda via, pela infraestrutura do Open Finance, com prazo de até três dias úteis. Pelo comunicado do Banco Central de novembro de 2025, a primeira modalidade levada ao Open Finance foi o crédito pessoal, aberta ao público a partir de fevereiro de 2026. Pergunte ao novo banco qual canal vale para o seu contrato imobiliário. Esses prazos valem só para a etapa final: antes dela, há análise de crédito, avaliação e preparação do contrato.
 
 ## Passo a passo da portabilidade
 
@@ -76,7 +78,7 @@ O banco atual não pode cobrar tarifa de você pela portabilidade. Mas existem c
 
 | Custo | Quem cobra | Observação |
 |---|---|---|
-| Avaliação do imóvel | Novo banco | Valor varia por banco. Um banco público divulgou teto de R$ 2.990 em junho de 2026, e a tarifa não é devolvida se você desistir depois da vistoria |
+| Avaliação do imóvel | Novo banco | Cada banco tem a sua tabela de tarifas. Exemplo de um só banco: na proposta de portabilidade do BRB de junho de 2026, o teto era R$ 2.990, sem devolução se você desistir depois da vistoria. Consulte a tabela do banco que você escolher |
 | Averbação no registro de imóveis | Cartório | Segue a tabela de emolumentos do estado; cresce com o valor do contrato |
 | Certidão atualizada da matrícula | Cartório | Valor baixo, mas costuma ser exigida pelo novo banco |
 | Seguros MIP e DFI | Novo banco | Não é custo extra, mas o preço pode mudar e entra no CET |
@@ -110,15 +112,15 @@ A regra prática: divida os custos da portabilidade pela economia mensal. Se o r
 
 Como o banco atual sabe que não pode impedir a saída, muitos preferem baixar a taxa a perder o cliente. Isso se chama, no mercado, de "retenção". Leve a proposta por escrito do concorrente e pergunte se o seu banco cobre. Uma redução no seu próprio banco não exige nova avaliação nem registro de troca de credor, embora possa exigir um aditivo contratual.
 
-O cenário de juros também influencia. Em 16 de setembro de 2026, o Copom cortou a Selic para 13,75% ao ano, o quinto corte seguido do ciclo. Em setembro, as taxas mínimas de balcão divulgadas pelos grandes bancos estavam entre cerca de 11,2% e 12% ao ano mais TR, segundo levantamento de mercado. Quem contratou em 2024 ou 2025 com taxa mais alta pode encontrar espaço para negociar, mas as taxas mudam toda semana e dependem do seu perfil.
+O cenário de juros também influencia. Em 16 de setembro de 2026, o Copom cortou a Selic para 13,75% ao ano, o quinto corte seguido do ciclo. Um levantamento publicado em 25 de setembro de 2026 listava taxas mínimas de balcão dos grandes bancos entre cerca de 11,2% e 12% ao ano mais TR. Quem contratou em 2024 ou 2025 com taxa mais alta pode encontrar espaço para negociar, mas as taxas mudam toda semana e dependem do seu perfil.
 
 ## Cuidados e erros comuns
 
 - **Comparar só a taxa nominal.** Seguros e tarifas mudam o CET. Uma taxa menor com seguro mais caro pode empatar.
 - **Esquecer a avaliação.** Se o imóvel for avaliado abaixo do saldo que você precisa portar, o banco pode recusar ou exigir que você pague a diferença.
 - **Ignorar o tipo de recurso.** Muitos bancos só aceitam portar contratos com recursos da poupança (SBPE). Contratos com recursos do FGTS ou de programas como o Minha Casa Minha Vida costumam ter restrições.
-- **Mudar de SAC para Price sem perceber.** A parcela pode até cair, mas você paga mais juros no total. A troca de sistema é permitida, e a nova parcela maior que a atual exige sua concordância expressa.
-- **Ter parcelas atrasadas.** Prestações em atraso no contrato atual podem levar o novo banco a cancelar o pedido.
+- **Mudar de SAC para Price sem perceber.** A parcela pode até cair, mas você paga mais juros no total. A proposta precisa informar o sistema de amortização, e uma nova parcela maior que a atual exige sua concordância formal e específica.
+- **Ter parcelas atrasadas.** Prestações em atraso no contrato atual podem levar o novo banco a cancelar o pedido, como prevê a proposta do BRB.
 - **Fazer portabilidade às vésperas de vender.** Se você pretende vender o imóvel em um ou dois anos, o custo provavelmente não se paga.
 
 Se o seu objetivo é pagar menos juros e você tem dinheiro guardado, compare também com uma amortização extraordinária no próprio contrato, explicada em [amortizar: prazo ou parcela](/artigos/amortizar-financiamento-prazo-ou-parcela).

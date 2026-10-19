@@ -23,8 +23,6 @@ faq:
 sources:
   - title: "Agência Brasil: Caixa volta a financiar 80% no SAC e 70% na Price (09/12/2025)"
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
-  - title: "Money Times: Caixa voltará a financiar 80% do valor dos imóveis (10/10/2025)"
-    url: "https://www.moneytimes.com.br/caixa-voltara-a-financiar-80-do-valor-dos-imoveis-veja-os-detalhes-igdl/"
   - title: "MySide: radar de taxas de juros do financiamento imobiliário (atualizado em 08/10/2026)"
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
@@ -47,7 +45,7 @@ Toda parcela tem duas partes: juros (o preço do dinheiro) e amortização (a pa
 
 ### Exemplo ilustrativo
 
-Financiamento de R$ 400 mil, juros de 11,5% ao ano (cerca de 0,91% ao mês), prazo de 420 meses. Para isolar o efeito do sistema, a conta não inclui TR, seguros nem tarifas.
+Financiamento de R$ 400 mil, juros de 11,5% ao ano (cerca de 0,91% ao mês), prazo de 420 meses. A taxa está dentro da faixa das taxas de balcão do SBPE nos grandes bancos em outubro de 2026, segundo a MySide. Para isolar o efeito do sistema, a conta não inclui TR, seguros nem tarifas.
 
 | | SAC | Price |
 |---|---|---|
