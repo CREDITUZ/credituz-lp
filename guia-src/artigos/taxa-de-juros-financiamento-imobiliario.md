@@ -21,8 +21,6 @@ faq:
   - q: "Qual a diferença entre taxa de juros e CET?"
     a: "A taxa de juros é só o preço do dinheiro emprestado. O CET inclui juros, seguros obrigatórios, tarifas e outros encargos, e por isso é o número que permite comparar propostas de bancos diferentes."
 sources:
-  - title: "Copom reduz Selic para 13,75% ao ano (decisão de 16/09/2026)"
-    url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
   - title: "Economic News Brasil: Selic cai para 13,75%, quinto corte seguido (16/09/2026)"
     url: "https://economicnewsbrasil.com.br/2026/09/16/nova-taxa-selic-projecao-dezembro-2026/"
   - title: "Calendário das reuniões do Copom em 2026"
