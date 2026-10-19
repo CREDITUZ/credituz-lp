@@ -29,7 +29,7 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036compilada.htm"
   - title: "Resolução CCFGTS 994, de 11 de maio de 2021 (Okai)"
     url: "https://okai.com.br/documento/2021-05-13/resolucao-ccfgts-nº-994-de-11-de-maio-de-2021"
-  - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 mi (O Povo, Agência Brasil, 26/11/2025)"
+  - title: "Conselho do FGTS libera uso do fundo para imóveis de até R$ 2,25 mi (O Povo, 26/11/2025)"
     url: "https://www.opovo.com.br/noticias/economia/2025/11/26/conselho-do-fgts-libera-uso-do-fundo-para-imoveis-de-ate-rs-225-mi.html"
   - title: "Lei 9.514/1997, art. 25 (termo de quitação e cancelamento da propriedade fiduciária), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
@@ -53,7 +53,7 @@ O manual da Caixa (item 15.1) aceita a quitação de financiamento de imóvel re
 
 A abertura para contratos fora do SFH veio da Resolução 994/2021 do Conselho Curador do FGTS. Contratos fora do SFH mais antigos só entram se o banco aceitar reenquadrá-los no SFH, com nova avaliação e aditivo ao contrato (item 16.1 do manual).
 
-O limite de valor mudou em 2025. A Resolução CMN 5.255, de 10/10/2025, fixou em R$ 2,25 milhões o limite de avaliação do imóvel no SFH. A versão consultada da norma não traz o teto anterior, então não afirmo se houve alta. Em 26/11/2025, o Conselho Curador do FGTS decidiu que esse teto vale para contratos de qualquer data, segundo O Povo, que reproduz a Agência Brasil. Na prática, imóveis avaliados em até R$ 2,25 milhões aceitam o FGTS na quitação, inclusive em contratos assinados antes da mudança.
+O limite de valor mudou em 2025. A Resolução CMN 5.255, de 10/10/2025, fixou em R$ 2,25 milhões o limite de avaliação do imóvel no SFH. A versão consultada da norma não traz o teto anterior, então não afirmo se houve alta. Em 26/11/2025, o Conselho Curador do FGTS decidiu que esse teto vale para contratos de qualquer data, segundo O Povo. Na prática, imóveis avaliados em até R$ 2,25 milhões aceitam o FGTS na quitação, inclusive em contratos assinados antes da mudança.
 
 Há ainda uma trava importante: desde 9 de setembro de 2021, quem tem mais de um financiamento ativo no SFH não pode usar o FGTS em nenhum deles (item 8.5 do manual).
 

@@ -38,7 +38,7 @@ sources:
 related: [financiamento-corrigido-pelo-ipca, taxa-prefixada-ou-pos-fixada, cet-financiamento-imobiliario, sac-ou-price]
 ---
 
-A TR (Taxa Referencial) é o índice que corrige o saldo devedor da maioria dos financiamentos imobiliários feitos com dinheiro da poupança. Todo mês, antes de calcular a parcela, o banco aplica a TR sobre o que você ainda deve. Só depois incide a taxa de juros fixa do contrato, sobre esse saldo já corrigido. Em outubro de 2026, a TR mensal ficou em 0,1616%, e o acumulado de 12 meses estava em cerca de 2%, segundo a série do Banco Central compilada pelo Brasil Indicadores. Parece pouco, mas, somado por 30 ou 35 anos, muda bastante o total que você paga.
+A TR (Taxa Referencial) é o índice que corrige o saldo devedor da maioria dos financiamentos imobiliários feitos com dinheiro da poupança. Todo mês, antes de calcular a parcela, o banco aplica a TR sobre o que você ainda deve. Só depois incide a taxa de juros fixa do contrato, sobre esse saldo já corrigido. Em outubro de 2026, a TR mensal ficou em 0,16%, e o acumulado de 12 meses estava em cerca de 2%, segundo a série do Banco Central compilada pelo Brasil Indicadores. Parece pouco, mas, somado por 30 ou 35 anos, muda bastante o total que você paga.
 
 ## O que é a TR e de onde ela vem
 
@@ -46,16 +46,16 @@ A TR foi criada pela Lei 8.177, de 1991, e hoje é calculada pelo Banco Central 
 
 - **Financiamento imobiliário com recursos da poupança (SBPE):** é o indexador mais comum nas linhas de taxa fixa dos grandes bancos. Em outubro de 2026, as taxas mínimas de balcão no SBPE ficavam entre 10,26% e 11,99% ao ano mais TR, segundo a MySide (08/10/2026).
 - **Poupança:** o rendimento da caderneta é formado por uma parte fixa (ou ligada à Selic) mais a TR.
-- **FGTS e linhas com dinheiro do FGTS:** o Pró-Cotista e o Minha Casa, Minha Vida também usam TR na correção do saldo.
+- **FGTS e linhas com dinheiro do FGTS:** o Minha Casa, Minha Vida, por exemplo, aparece com TR na correção do saldo nas tabelas de taxas publicadas pelo SP Imóvel em março de 2026.
 
 A Resolução CMN 4.676/2018, que regula o crédito imobiliário, permite atualizar o saldo por índice de preços ou pela remuneração básica da poupança, que é a TR. Por isso você vai ver propostas escritas como "11% ao ano + TR".
 
 ## Como o Banco Central calcula a TR
 
-A conta parte da TBF (Taxa Básica Financeira), que o Banco Central apura todos os dias a partir das taxas de títulos públicos prefixados. Da TBF se desconta um redutor, e o resultado é a TR. Em linguagem simples:
+A conta parte da TBF (Taxa Básica Financeira), que o Banco Central apura todos os dias a partir das taxas dos títulos públicos prefixados (LTN). Ela entra numa divisão por um redutor, que o Banco Central calcula e divulga junto com a TR. A fórmula da Resolução CMN 4.624/2018 fica assim: a TR é o maior valor entre zero e [(1 + TBF) ÷ redutor] − 1. Em linguagem simples:
 
 1. **A TBF acompanha os juros de mercado.** Com a Selic alta, a TBF sobe.
-2. **O redutor tira uma fatia da TBF.** O redutor é maior quando a TBF é maior, segundo a tabela do art. 6º da Resolução CMN 4.624/2018.
+2. **O redutor cresce junto com a TBF.** Segundo a tabela do art. 6º da Resolução, quanto maior a TBF, maior o redutor e menor a TR que sobra.
 3. **Se o resultado for negativo, a TR é zero.** A fórmula tem piso de zero. Foi o que aconteceu entre setembro de 2017 e novembro de 2021, quando a Selic estava muito baixa.
 
 Um exemplo real: no período de 14 de maio a 14 de junho de 2026, o Banco Central divulgou TBF de 1,0453%, redutor de 1,00872980 e TR de 0,1708% no mês (Comunicado 45.247).
@@ -66,13 +66,13 @@ Cada dia do mês tem a sua TR, válida por um mês a partir daquela data. Seu co
 
 | Mês de referência | TR no mês | Acumulado em 12 meses |
 |---|---|---|
-| janeiro de 2025 | 0,1690% | 0,90% |
-| julho de 2025 | 0,1758% | 1,49% |
-| janeiro de 2026 | 0,1718% | 1,98% |
-| junho de 2026 | 0,1709% | 2,03% |
-| outubro de 2026 | 0,1616% | 2,00% |
+| janeiro de 2025 | 0,17% | 0,90% |
+| julho de 2025 | 0,18% | 1,49% |
+| janeiro de 2026 | 0,17% | 1,98% |
+| junho de 2026 | 0,17% | 2,03% |
+| outubro de 2026 | 0,16% | 2,00% |
 
-Fonte: Brasil Indicadores, com dados do Banco Central, consultado em 19 de outubro de 2026. A TR acompanha os juros: com a Selic em 13,75% ao ano (decisão do Copom de 16 de setembro de 2026), ela segue positiva. Se a Selic cair bastante, a TR tende a cair junto e pode voltar a zero.
+Fonte: Brasil Indicadores, com dados do Banco Central, consultado em 19 de outubro de 2026. A página publica a TR com duas casas decimais; por isso a tabela não traz mais precisão. A TR acompanha os juros: com a Selic em 13,75% ao ano (decisão do Copom de 16 de setembro de 2026), ela segue positiva. Se a Selic cair bastante, a TR tende a cair junto e pode voltar a zero.
 
 ## Como a TR entra na sua parcela, mês a mês
 
@@ -86,16 +86,16 @@ O cálculo de cada mês segue esta ordem:
 
 ### Exemplo ilustrativo: o primeiro mês
 
-Financiamento de R$ 300 mil em 420 meses (35 anos), SAC, taxa efetiva de 11% ao ano (cerca de 0,873% ao mês) e TR de 0,1616% no mês. Sem seguros e tarifas.
+Financiamento de R$ 300 mil em 420 meses (35 anos), SAC, taxa efetiva de 11% ao ano (cerca de 0,873% ao mês) e TR de 0,16% no mês. Sem seguros e tarifas.
 
 | Etapa | Valor |
 |---|---|
 | Saldo inicial | R$ 300.000,00 |
-| Correção pela TR (0,1616%) | R$ 484,80 |
-| Saldo corrigido | R$ 300.484,80 |
-| Amortização (saldo corrigido ÷ 420) | R$ 715,44 |
-| Juros do mês | R$ 2.624,61 |
-| Parcela sem seguros | R$ 3.340,05 |
+| Correção pela TR (0,16%) | R$ 480,00 |
+| Saldo corrigido | R$ 300.480,00 |
+| Amortização (saldo corrigido ÷ 420) | R$ 715,43 |
+| Juros do mês (0,873% sobre o saldo corrigido) | R$ 2.624,57 |
+| Parcela sem seguros | R$ 3.340,00 |
 
 Sem a TR, a mesma parcela seria de cerca de R$ 3.334,66. No primeiro mês, a diferença é pequena. O efeito pesado vem do acúmulo: a TR soma valor ao saldo todo mês, e sobre esse saldo maior incidem juros nos meses seguintes.
 
@@ -158,7 +158,7 @@ Se a correção não bater com a TR publicada para a data de aniversário, peça
 ## Resumo e próximos passos
 
 - A TR corrige o saldo devedor todo mês, antes dos juros, nos contratos com dinheiro da poupança e do FGTS.
-- Em outubro de 2026, ela estava em 0,1616% no mês e cerca de 2% em 12 meses.
+- Em outubro de 2026, ela estava em 0,16% no mês e cerca de 2% em 12 meses.
 - Ela acompanha os juros da economia, tem piso de zero e fica fora do CET.
 - No exemplo deste guia, TR de 2% ao ano aumenta o total pago em cerca de 34%.
 - Antes de assinar, simule a parcela com TR de 1% a 3% ao ano e confira se ela cabe na sua renda. Para escolher entre SAC e Price, veja [SAC ou Price](/artigos/sac-ou-price).
