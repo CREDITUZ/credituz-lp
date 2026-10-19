@@ -20,7 +20,7 @@ faq:
   - q: "O DFI cobre infiltração ou vazamento?"
     a: "Em geral não. Desgaste, falta de manutenção e defeito de construção ficam fora. A cobertura mínima inclui incêndio, raio, explosão, vendaval, desmoronamento, ameaça de desmoronamento, danos ao telhado e inundação."
   - q: "Existe idade máxima para financiar por causa do seguro?"
-    a: "Sim. A soma da idade do comprador com o prazo do financiamento não pode passar de 80 anos e 6 meses, pela Resolução CNSP 447/2022, com exceções limitadas para programas públicos."
+    a: "Na prática, sim. Pela Resolução CNSP 447/2022, a seguradora não pode recusar quem tenha idade mais prazo de até 80 anos e 6 meses; acima disso pode recusar, e os bancos costumam usar esse teto. Há exceção limitada para maiores de 60 anos em programas habitacionais públicos."
 sources:
   - title: "Resolução CNSP 447/2022: seguro habitacional"
     url: "https://www.lex.com.br/resolucao-cnsp-no-447-de-10-de-outubro-de-2022/"
@@ -60,7 +60,7 @@ Limites que você precisa conhecer:
 - **Doença preexistente não declarada.** Antes de assinar, você preenche a DPS (Declaração Pessoal de Saúde). Doença conhecida e não informada pode levar à recusa da indenização. Responda com cuidado.
 - **Suicídio nos dois primeiros anos** do financiamento não é coberto.
 - **Quem já recebe aposentadoria por invalidez** tem cobertura só para morte.
-- **Idade.** A soma da idade com o prazo do financiamento não pode passar de 80 anos e 6 meses.
+- **Idade.** A seguradora é obrigada a aceitar quem tenha soma de idade e prazo do financiamento de até 80 anos e 6 meses. Acima disso, pode recusar, e por isso os bancos costumam limitar o prazo a esse teto.
 
 ### Renda composta e porcentagem de cobertura
 

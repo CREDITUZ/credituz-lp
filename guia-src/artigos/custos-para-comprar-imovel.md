@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "Além da entrada, separe dinheiro para ITBI, registro em cartório, avaliação do banco e certidões."
-  - "No exemplo de um imóvel de R$ 500 mil financiado em São Paulo, esses custos iniciais passam de R$ 17 mil."
+  - "No exemplo de um imóvel de R$ 500 mil financiado em São Paulo, só ITBI e avaliação já somam mais de R$ 15 mil."
   - "No financiamento bancário, o contrato do banco costuma substituir a escritura pública, mas o registro continua obrigatório."
   - "Quem compra o primeiro imóvel residencial pelo SFH tem direito a 50% de desconto nos emolumentos de registro, mas precisa pedir."
   - "Seguros MIP e DFI e eventual tarifa mensal entram na parcela, e não na conta de largada."
@@ -82,7 +82,7 @@ Onde consultar:
 
 ### Desconto de 50% no primeiro imóvel
 
-O artigo 290 da Lei 6.015/1973 (Lei de Registros Públicos) reduz pela metade os emolumentos de atos ligados à primeira aquisição de imóvel residencial financiada pelo SFH. O desconto não é automático. Você pede ao protocolar o registro e apresenta prova de que não tem outro imóvel residencial. Em 2025, o CNJ adotou leitura literal da regra: ter terreno ou sala comercial não impede o desconto, mas ter outro imóvel residencial impede. O desconto não vale para o ITBI.
+O artigo 290 da Lei 6.015/1973 (Lei de Registros Públicos) reduz pela metade os emolumentos de atos ligados à primeira aquisição de imóvel residencial financiada pelo SFH. O desconto não é automático. Você pede ao protocolar o registro e apresenta prova de que não tem outro imóvel residencial. Em decisão da Corregedoria Nacional de Justiça (Pedido de Providências 0007496-70.2024), prevaleceu a leitura literal da regra: ter terreno ou sala comercial não impede o desconto, mas ter outro imóvel residencial impede. O desconto não vale para o ITBI.
 
 ## Avaliação do imóvel pelo banco
 
@@ -124,7 +124,7 @@ Exemplo ilustrativo: apartamento usado de R$ 500.000 em São Paulo, com R$ 100.0
 | Certidões | consultar o cartório | Variam por estado e por quantidade de certidões |
 | **Subtotal conhecido** | **R$ 15.175,80** | Sem registro e certidões |
 
-Com registro e certidões, o total passa de R$ 17 mil com folga. Isso equivale a mais de 3% do preço do imóvel, além dos R$ 100 mil da entrada. Sem financiamento, o ITBI seria R$ 15.000, mas não haveria tarifa de avaliação, e entraria a escritura no tabelionato.
+Só esses dois itens já equivalem a cerca de 3% do preço do imóvel, além dos R$ 100 mil da entrada. O registro e as certidões somam mais alguns milhares de reais, conforme a tabela do cartório. Sem financiamento, o ITBI seria R$ 15.000, mas não haveria tarifa de avaliação, e entraria a escritura no tabelionato.
 
 Para saber quanto do valor o banco aceitaria financiar no seu caso, use o [simulador de financiamento](/simulador).
 

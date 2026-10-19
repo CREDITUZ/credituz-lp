@@ -93,7 +93,7 @@ Exemplo ilustrativo, calculado em Python mês a mês:
 - **Aluguel inicial:** 6,13% ao ano do valor do imóvel, ou R$ 2.554 por mês.
 - **Valorização do imóvel e reajuste do aluguel:** 5,5% ao ano, perto da alta do FipeZap de venda em 12 meses. Também testamos 4% ao ano.
 - **Custos da compra:** 4,5% do valor (R$ 22.500), somando ITBI de 3% e uma estimativa para cartório e avaliação. Detalhes em [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
-- **Investimento:** rende o CDI, com 15% de imposto de renda (alíquota para aplicações acima de 720 dias). Testamos CDI de 13,65%, 12% e 10% ao ano, mantido fixo por todo o período.
+- **Investimento:** rende o CDI, com 15% de imposto de renda (alíquota para aplicações acima de 720 dias). Testamos CDI de 13,65%, 12% e 10% ao ano, mantido fixo por todo o período. Para simplificar, o imposto é descontado do rendimento mês a mês, e o aluguel é reajustado uma vez por ano.
 - **Financiamento:** 20% de entrada, R$ 400.000 financiados em 360 meses pela tabela SAC, juros de 11,40% ao ano mais TR de 2% ao ano, e R$ 150 por mês de seguros. A primeira parcela fica em R$ 5.543 e a 120ª em R$ 4.127.
 - **Horizonte:** 10 anos.
 - **Ficaram de fora:** condomínio (pago por quem mora, nos dois casos), IPTU (em geral pago pelo inquilino no contrato), manutenção do imóvel, corretagem numa venda futura e mudanças de casa. Todos esses itens pesam mais contra a compra do que contra o aluguel.

@@ -9,7 +9,7 @@ key_points:
   - "O banco contrata um engenheiro ou arquiteto para estimar o valor de mercado do imóvel, que define quanto ele aceita financiar."
   - "A tarifa é paga pelo comprador e não volta se o crédito não sair. Exemplos publicados: Itaú R$ 1.600 ou R$ 3.200; BRB até R$ 3.500."
   - "Se o laudo vier abaixo do preço, o crédito cai e a diferença sai do seu bolso, a menos que você renegocie, conteste ou troque de banco."
-  - "Na Caixa, desde outubro de 2025, a cota máxima no SBPE é 80% do valor do imóvel."
+  - "Na Caixa, desde 13 de outubro de 2025, a cota máxima no SFH é 80% do valor do imóvel."
 faq:
   - q: "Quanto custa a avaliação do imóvel para financiamento?"
     a: "Cada banco tem sua tarifa. O Itaú publica R$ 1.600 para imóveis até R$ 350 mil e R$ 3.200 acima disso. O BRB informa máximo de R$ 3.500. Confira a tabela de tarifas do banco antes de pedir."
@@ -99,8 +99,8 @@ Por isso, peça avaliação apenas no banco em que você pretende fechar. Pedir 
 
 A cota de financiamento é aplicada sobre o valor do imóvel considerado pelo banco. Exemplos:
 
-- A Caixa passou a financiar até 80% do valor do imóvel no SBPE (poupança) a partir de 13 de outubro de 2025, com entrada mínima de 20%.
-- A cartilha do Bradesco informa percentuais aplicados sobre o valor de avaliação, de até 80% para imóvel residencial no SFH.
+- A Caixa passou a financiar até 80% do valor do imóvel em operações do SFH a partir de 13 de outubro de 2025, com entrada mínima de 20%.
+- A cartilha do Bradesco informa que, no SFH, pode ser financiado até 80% do valor de avaliação do imóvel residencial.
 
 Muitos bancos usam como base o menor valor entre o preço de compra e a avaliação. Na prática, isso quer dizer que uma avaliação acima do preço não libera crédito extra, mas uma avaliação abaixo reduz o crédito. Confira a regra exata na proposta do seu banco. O artigo sobre [entrada para financiar imóvel](/artigos/entrada-para-financiar-imovel) mostra as cotas por modalidade.
 

@@ -48,7 +48,7 @@ O prazo de tolerância é uma folga que o contrato dá à incorporadora para imp
 Pontos de atenção:
 
 - **Precisa estar no contrato.** A tolerância só vale se for "expressamente pactuada, de forma clara e destacada". O quadro-resumo do contrato deve trazer o prazo final de entrega.
-- **A data de entrega não pode depender do financiamento.** No Tema 996, o STJ decidiu que o contrato deve ter um prazo certo, sem amarrar a entrega à liberação do financiamento ou a outro negócio, admitindo só a tolerância.
+- **A data de entrega não pode depender do financiamento.** No Tema 996, que trata de contratos do Minha Casa, Minha Vida, o STJ decidiu que o contrato deve ter um prazo certo, sem amarrar a entrega à liberação do financiamento ou a outro negócio, admitindo só a tolerância.
 - **Os 180 dias contam a partir da data prometida**, não da assinatura do contrato.
 
 ## O que acontece depois dos 180 dias
@@ -66,7 +66,7 @@ O Superior Tribunal de Justiça julgou recursos repetitivos sobre atraso de obra
 
 - **Tema 970:** a multa moratória prevista no contrato já serve para indenizar o atraso e, em regra, não pode ser somada a lucros cessantes (o aluguel que você deixou de ganhar ou teve de pagar), quando fixada em valor equivalente ao aluguel.
 - **Tema 971:** em contrato de adesão que só prevê multa para o comprador, essa multa deve servir de base para indenizar o comprador quando o atraso é da vendedora.
-- **Tema 996 (Minha Casa, Minha Vida):** descumprido o prazo com a tolerância, o prejuízo do comprador é presumido, e a indenização é um aluguel mensal de imóvel semelhante até a entrega das chaves. Também é ilícito cobrar juros de obra depois desse prazo, e o saldo devedor deixa de ser corrigido pelo INCC, passando ao IPCA, salvo se o IPCA for mais caro.
+- **Tema 996 (Minha Casa, Minha Vida, faixas 1,5, 2 e 3):** descumprido o prazo com a tolerância, o prejuízo do comprador é presumido, e a indenização é um aluguel mensal de imóvel semelhante até a entrega das chaves. Também é ilícito cobrar juros de obra depois desse prazo, e o saldo devedor deixa de ser corrigido pelo INCC, passando ao IPCA, salvo se o IPCA for mais caro.
 
 Esses temas tratam principalmente de contratos anteriores à Lei 13.786/2018 ou de situações que ela não regula em detalhe. Para contratos novos, o ponto de partida é a lei.
 

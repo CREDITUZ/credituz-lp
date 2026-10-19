@@ -26,14 +26,16 @@ sources:
     url: "https://prefeitura.sp.gov.br/fazenda/w/servicos/itbi/2513"
   - title: "STJ, Tema 1.113: teses sobre a base de cálculo do ITBI (resumo)"
     url: "https://juris.damasio.com.br/temas/stj/1113"
-  - title: "Capital Aberto: STJ define base de cálculo do ITBI (REsp 1.937.821/SP)"
-    url: "https://capitalaberto.com.br/regulacao/legislacao-mercados/2022/04/em-decisao-favoravel-a-contribuintes-stj-define-base-de-calculo-do-itbi"
   - title: "Capital Aberto: momento de pagar o ITBI após a LC 227/2026"
     url: "https://capitalaberto.com.br/regulacao/legislacao-mercados/2026/01/momento-de-pagar-o-itbi-por-enquanto-nada-muda"
+  - title: "Congresso Nacional: Veto 8/2026 à LC 227/2026 (ITBI antecipado), não apreciado"
+    url: "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/18010"
+  - title: "TAGD: TJSP mantém o Tema 1.113 após a LC 227/2026 (maio de 2026)"
+    url: "https://tagdlaw.com.br/tjsp-rejeita-tese-municipal-e-mantem-tema-1-113-do-stj-como-regime-juridico-do-itbi-apos-lc-227-2026/"
   - title: "Lei distrital 7.635/2024 reduz ITBI no DF"
     url: "https://www.idealsoftwares.com.br/idealnews/noticia.php?id=29958"
-  - title: "Smargiassi: guia do ITBI em Belo Horizonte (leis e limites de 2026)"
-    url: "https://smargiassi.com.br/blog/itbi-belo-horizonte-guia/"
+  - title: "Prefeitura de Belo Horizonte: Lei 10.692/2013 (alíquota de 3%)"
+    url: "https://fazenda.pbh.gov.br/internet/legislacao/findkey.asp?key=L10692"
   - title: "Smargiassi: guia do ITBI no Rio de Janeiro"
     url: "https://smargiassi.com.br/blog/itbi-rio-de-janeiro/"
 related: [custos-para-comprar-imovel, sfh-e-sfi, documentos-para-financiamento, minha-casa-minha-vida]
@@ -47,7 +49,7 @@ O ITBI está previsto na Constituição e é cobrado por cada município, que de
 
 O momento exato da cobrança já foi muito discutido. O entendimento dos tribunais superiores é que o imposto nasce com o registro do imóvel no cartório. Na prática, você emite a guia no site da prefeitura e paga antes de levar a escritura ou o contrato do banco ao Registro de Imóveis, porque o cartório exige a prova de quitação.
 
-Em janeiro de 2026, a Lei Complementar 227/2026 (parte da regulamentação da reforma tributária) mudou o Código Tributário Nacional. O artigo que permitiria às prefeituras cobrar o ITBI antes, na assinatura do contrato, com alíquota menor como incentivo, foi vetado. Assim, o pagamento continua ligado ao registro, segundo as regras de cada município.
+Em janeiro de 2026, a Lei Complementar 227/2026 (parte da regulamentação da reforma tributária) mudou o Código Tributário Nacional. O artigo que permitiria às prefeituras cobrar o ITBI antes, na assinatura do contrato, com alíquota menor como incentivo, foi vetado. Até outubro de 2026, o Congresso ainda não tinha votado esse veto. Assim, o pagamento continua ligado ao registro, segundo as regras de cada município.
 
 ## Quem paga: comprador ou vendedor
 
@@ -66,7 +68,7 @@ A tabela resume as regras de quatro capitais. Os valores podem mudar por lei mun
 |---|---|---|
 | São Paulo | 3% | Financiamento SFH: 0,5% sobre até R$ 120.968 do valor financiado, para imóveis de até R$ 725.808 (limites de 2026) |
 | Rio de Janeiro | 3% (desde 2018, Lei 6.250/2017) | A legislação carioca prevê tratamento diferente para a parte financiada no SFH, mas os percentuais precisam ser confirmados no Carioca Digital |
-| Belo Horizonte | 3% (Lei 10.692/2013) | Redução de 50% para quem não tem outro imóvel, em residência padrão P1 com base de até R$ 254.292,79; isenção para residência com valor venal até R$ 74.595,39 (limites de 2026) |
+| Belo Horizonte | 3% (Lei 10.692/2013) | Redução de 50% para quem não tem outro imóvel, em residência de padrão de acabamento simples (P1) até um valor-limite; isenção para residências de valor venal baixo. Os limites são corrigidos todo ano e ficam no portal da Fazenda da prefeitura |
 | Distrito Federal | 2% | 1% na primeira transmissão de imóvel novo (Lei distrital 7.635/2024, em vigor desde janeiro de 2025) |
 
 Programas habitacionais como o [Minha Casa, Minha Vida](/artigos/minha-casa-minha-vida) podem ter isenção ou redução em várias cidades. Belo Horizonte, por exemplo, isenta operações de programas como o MCMV dentro de limites de renda e valor. Pergunte à prefeitura antes de pagar.
@@ -115,7 +117,7 @@ Em fevereiro de 2022, o Superior Tribunal de Justiça julgou o Tema 1.113 (REsp 
 - O valor da transação declarado pelo comprador é presumido correto. A prefeitura só pode afastá-lo por processo administrativo próprio, com direito de defesa.
 - O município não pode fixar antes a base de cálculo usando um valor de referência criado por ele mesmo.
 
-A LC 227/2026 incluiu no Código Tributário Nacional uma definição de valor venal como o preço à vista em condições normais de mercado, estimado pela administração com critérios técnicos e com possibilidade de contestação pelo contribuinte. Advogados tributaristas discutem se isso muda o cenário. Em maio de 2026, decisões do Tribunal de Justiça de São Paulo mantiveram o Tema 1.113 e afirmaram que a nova lei não autoriza aplicar o valor de referência automaticamente nem vale para cobranças passadas.
+A LC 227/2026 incluiu no Código Tributário Nacional uma definição de valor venal como o preço à vista em condições normais de mercado, estimado pela administração com critérios técnicos e com possibilidade de contestação pelo contribuinte. Advogados tributaristas discutem se isso muda o cenário, e o tema ainda não está pacificado. Em maio de 2026, duas decisões de uma câmara do Tribunal de Justiça de São Paulo mantiveram o Tema 1.113 e afirmaram que a nova lei não autoriza trocar automaticamente o valor declarado pelo valor de referência. Em agosto de 2026, outra câmara do mesmo tribunal entendeu que a LC 227/2026 alterou em parte aquele entendimento. Na dúvida, o caminho continua sendo questionar a cobrança, de preferência com orientação profissional.
 
 O que isso significa para você:
 

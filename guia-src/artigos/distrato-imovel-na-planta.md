@@ -24,7 +24,7 @@ faq:
 sources:
   - title: "Lei 13.786/2018 (Lei do Distrato)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm"
-  - title: "Portas: STJ mantém retenção de 50% em empreendimento com patrimônio de afetação (ago. 2026)"
+  - title: "Portas: STJ valida retenção de até 50% com patrimônio de afetação (2026)"
     url: "https://portas.com.br/noticias/apartamento-na-planta-stj-decide-que-construtora-pode-reter-ate-metade-do-valor-em-rescisoes-especificas/"
   - title: "Migalhas: a não retroatividade da Lei do Distrato (out. 2025)"
     url: "https://www.migalhas.com.br/depeso/442309/a-nao-retroatividade-da-lei-do-distrato-13-786-18"
@@ -66,7 +66,7 @@ Dois limites importantes: a soma dos descontos não pode passar do que você efe
 
 É um regime em que o terreno, a obra e o dinheiro do empreendimento ficam separados do caixa geral da incorporadora. Ele protege quem comprou, porque o dinheiro de um prédio não pode ser usado em outro. Em troca, a lei permitiu multa maior no distrato (até 50%) e devolução só depois do habite-se. A informação de que o empreendimento é afetado aparece na matrícula e deve constar do contrato.
 
-Em junho de 2026, a Quarta Turma do STJ manteve, por unanimidade, a retenção de 50% prevista em contrato de um empreendimento com patrimônio de afetação em Guarulhos (SP), negando o pedido do comprador para reduzi-la a 25%.
+Em 2026, o STJ voltou a validar a retenção de 50% quando esse percentual está expresso no contrato e o empreendimento está sob patrimônio de afetação. Mesmo assim, cada caso depende do contrato e do que foi efetivamente pago, e tribunais estaduais ainda discutem reduções em situações específicas.
 
 ## Prazos de devolução
 
