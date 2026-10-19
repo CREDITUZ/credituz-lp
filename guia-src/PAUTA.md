@@ -20,13 +20,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] financiamento-de-terreno: como financiar terreno ou lote
 - [O3] financiamento-para-construcao: construir com financiamento (aquisição de terreno e construção)
 - [O3] financiamento-de-imovel-usado: regras e cuidados
-- financiamento-de-imovel-comercial: sala, loja, galpão
-- financiamento-de-imovel-rural: chácara e sítio
-- financiamento-imovel-de-leilao: dá para financiar imóvel de leilão
-- financiamento-segundo-imovel: financiar mais de um imóvel
-- financiamento-para-reforma: crédito para reformar
-- financiamento-com-entrada-parcelada: como funciona
-- financiamento-sem-entrada: existe e quando
+- [O4] financiamento-de-imovel-comercial: sala, loja, galpão
+- [O4] financiamento-de-imovel-rural: chácara e sítio
+- [O4] financiamento-imovel-de-leilao: dá para financiar imóvel de leilão
+- [O4] financiamento-segundo-imovel: financiar mais de um imóvel
+- [O4] financiamento-para-reforma: crédito para reformar
+- [O4] financiamento-com-entrada-parcelada: como funciona
+- [O4] financiamento-sem-entrada: existe e quando
 - financiamento-aposentado: regras de idade e renda
 - financiamento-servidor-publico: condições para servidores
 - financiamento-para-quem-mora-fora: brasileiros no exterior
@@ -61,14 +61,14 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] fgts-imovel-comercial: por que não pode
 - [O3] fgts-de-conta-inativa
 - fgts-retido-saque-aniversario
-- fgts-autonomo-e-mei: quem não tem FGTS
+- [O4] fgts-autonomo-e-mei: quem não tem FGTS
 - fgts-aposentado
 - fgts-de-quem-ja-tem-imovel
 - [O2 publicado] documentos-para-usar-fgts
 - prazo-para-liberar-fgts-na-compra
 - [O2 publicado] fgts-negado-motivos
 - fgts-e-minha-casa-minha-vida
-- fgts-futuro: o que é e como funciona
+- [O4] fgts-futuro: o que é e como funciona
 - fgts-e-consorcio
 - fgts-para-imovel-de-leilao
 - fgts-e-heranca: saldo do falecido
@@ -162,7 +162,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - score-alto-garante-aprovacao
 - cadastro-positivo-como-cancelar
 - open-finance-como-compartilhar-dados
-- emprestimo-antes-do-financiamento: impacto
+- [O4] emprestimo-antes-do-financiamento: impacto
 - cartao-de-credito-e-financiamento
 - consorcio-ativo-e-financiamento
 - financiamento-de-carro-e-de-imovel
@@ -211,10 +211,10 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - itbi-manaus
 - itbi-belem
 - itbi-vitoria
-- isencao-itbi: quando existe
+- [O4] isencao-itbi: quando existe
 - itbi-parcelado
 - [O2 publicado] registro-de-imovel-passo-a-passo
-- matricula-do-imovel: como ler
+- [O4] matricula-do-imovel: como ler
 - certidoes-do-imovel
 - certidoes-do-vendedor
 - desconto-registro-primeiro-imovel
