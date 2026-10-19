@@ -29,14 +29,14 @@ sources:
     url: "https://www.opovo.com.br/noticias/economia/2026/03/24/fgts-eleva-para-rs-13-mil-limite-de-renda-do-minha-casa-minha-vida.html"
   - title: "Minha Casa, Minha Vida: aporte extra e novo teto para contratação (O Povo, 15/04/2026)"
     url: "https://www.opovo.com.br/noticias/economia/2026/04/15/lula-divulga-mudancas-no-mcmv-e-em-credito-para-reforma-de-casas-por-melhora-na-popularidade.html"
-  - title: "Minha Casa, Minha Vida passa a operar com novas regras (O Povo, 21/04/2026)"
-    url: "https://www.opovo.com.br/noticias/economia/2026/04/21/mcmv-passa-a-operar-com-novas-regras-veja-mudancas.html"
   - title: "FGTS eleva limite do Minha Casa Minha Vida para R$ 275 mil (Portas, 12/11/2025)"
     url: "https://portas.com.br/noticias/fgts-eleva-limite-do-minha-casa-minha-vida-para-r-275-mil/"
   - title: "Conselho Curador do FGTS aprova conjunto de medidas do MCMV (CBIC, 11/11/2025)"
     url: "https://cbic.org.br/conselho-curador-do-fgts-aprova-conjunto-de-medidas-do-mcmv/"
   - title: "FGTS amplia para R$ 13 bilhões subsídios do Minha Casa Minha Vida em 2026 (Jornal Opção, 10/09/2026)"
     url: "https://www.jornalopcao.com.br/ultimas-noticias/fgts-amplia-para-r-13-bilhoes-subsidios-do-minha-casa-minha-vida-em-2026-866818/"
+  - title: "Minha Casa Minha Vida amplia Faixa 4 para classe média (Jornal de Brasília, 11/05/2026)"
+    url: "https://jornaldebrasilia.com.br/noticias/economia/minha-casa-minha-vida-amplia-faixa-4-para-classe-media-com-juros-acessiveis/"
   - title: "Ministério das Cidades, Minha Casa Minha Vida"
     url: "https://www.gov.br/cidades/pt-br/assuntos/habitacao/minha-casa-minha-vida"
 related: [fgts-na-compra-do-imovel, renda-para-financiar-imovel, sfh-e-sfi, entrada-para-financiar-imovel]
@@ -59,7 +59,7 @@ Como ler a tabela:
 - **O teto das Faixas 1 e 2** depende do porte e da região do município. Em novembro de 2025, o Conselho Curador do FGTS subiu esses limites: nas grandes metrópoles, passou de R$ 264 mil para R$ 275 mil.
 - **Os juros** são faixas de referência divulgadas na imprensa a partir de anúncios do governo. A taxa exata depende da sua renda dentro da faixa, da região e de você ter ou não 3 anos de FGTS. A Faixa 1, por exemplo, ganhou taxa de 4,5% ao ano para rendas entre R$ 2.850,01 e R$ 3.200. Confira a taxa exata na simulação da Caixa.
 
-Para comparação, o mercado cobrava em 2026 taxas acima de 11% ao ano no financiamento imobiliário com recursos da poupança, com a Selic em 13,75% ao ano após a reunião do Copom de 16 de setembro de 2026.
+Para comparação, o Jornal de Brasília apontava em maio de 2026 taxas de 12% ao ano ou mais no mercado para o mesmo perfil. A Selic estava em 13,75% ao ano depois da reunião do Copom de 16 de setembro de 2026.
 
 Famílias da área rural têm faixas próprias, com renda anual: até R$ 50 mil na Faixa 1, até R$ 70,9 mil na Faixa 2 e até R$ 134 mil na Faixa 3, segundo as regras de abril de 2026.
 
@@ -131,7 +131,7 @@ O FGTS pode entrar na entrada e depois no abatimento do saldo, nas regras explic
 - **Calcular a faixa com a renda líquida.** O programa usa renda bruta. Uma família pode cair numa faixa acima da que imaginava.
 - **Escolher o imóvel antes da simulação.** O teto vale pelo valor do imóvel e a aprovação depende da parcela caber na renda. Simule antes de dar sinal.
 - **Ignorar a entrada.** Nas Faixas 3 e 4 não há desconto, e o banco não financia 100%. A parte restante sai de recursos próprios ou do FGTS. Veja como planejar em [entrada para financiar imóvel](/artigos/entrada-para-financiar-imovel).
-- **Esquecer custos de cartório e imposto.** Mesmo com redução de custos de registro prevista para imóveis do programa, sobra ITBI e outras despesas, conforme a cidade.
+- **Esquecer custos de cartório e imposto.** ITBI, registro e avaliação variam por cidade e por banco. Peça a estimativa antes de fechar.
 - **Confiar em números antigos.** As faixas mudaram em abril de 2025 e de novo em abril de 2026. Textos com renda máxima de R$ 12 mil ou teto de R$ 500 mil estão desatualizados.
 
 ## Resumo e próximos passos
