@@ -1,6 +1,6 @@
 ---
 title: "Cooperativa habitacional: como funciona e quais são os riscos"
-description: "Na cooperativa habitacional você entra como cooperado e paga pela casa junto com outras pessoas. Veja como funciona, o que diz a lei e os riscos antes de entrar."
+description: "Na cooperativa habitacional você entra como cooperado e paga pela casa junto com outras pessoas. Veja como funciona, o que diz a lei e quais são os riscos."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19

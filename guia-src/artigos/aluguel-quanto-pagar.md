@@ -1,10 +1,10 @@
 ---
 title: "Quanto da renda pagar de aluguel e como comparar com a parcela"
-description: "Não existe lei que fixe o limite do aluguel. Veja a referência de 30% da renda, o teste com renda menor e como comparar o aluguel com a parcela do financiamento."
+description: "Não existe lei que fixe o limite do aluguel. Veja a referência de 30% da renda, o teste com renda menor e como comparar o aluguel com a parcela."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Não há limite legal para o valor do aluguel. A referência de planejamento mais usada é de até 30% da renda bruta, a mesma régua que bancos aplicam às parcelas de financiamento."
   - "O aluguel pode ser reajustado pelo índice do contrato, mas o reajuste precisa respeitar a periodicidade mínima de um ano (Lei 10.192/2001, art. 2º, § 1º)."
@@ -92,6 +92,8 @@ Comparar aluguel com parcela sem o resto da conta engana. Considere um imóvel d
 A parcela Price é menor no início, e por isso é a mais usada como referência de comparação. No SAC, a primeira parcela é a mais alta do contrato, e cai ao longo dos anos. Para entender a diferença, leia [SAC ou Price](/artigos/sac-ou-price). Quem quer testar outros valores pode usar o [simulador de financiamento](/simulador) ou a [calculadora de quanto posso financiar](/quanto-posso-financiar).
 
 Para o exemplo, a parcela Price de R$ 2.982 é maior que um aluguel de R$ 2.000. A diferença de R$ 982 por mês não é lucro, porque a compra também custa a entrada de R$ 80 mil. Se esse dinheiro ficasse aplicado à Selic de 13,75% ao ano, fixada pelo Banco Central em setembro de 2026, ele renderia cerca de R$ 11 mil por ano antes do imposto de renda. Esse custo de oportunidade precisa entrar na conta. O comparativo mais completo está em [alugar ou comprar](/artigos/alugar-ou-comprar).
+
+Se a sua renda oscila, por ser autônomo ou por ter comissões, não use o melhor mês como base. Use a média dos últimos doze meses e, se possível, a renda do mês mais fraco. Um aluguel que cabe na média pode ficar pesado em um mês ruim, e a comparação com a parcela muda quando a renda cai. Quem tem renda variável deve manter uma reserva para cobrir pelo menos alguns meses de aluguel e de contas fixas antes de assumir qualquer compromisso de longo prazo.
 
 ## Custos que a parcela não mostra
 
