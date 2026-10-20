@@ -90,7 +90,7 @@ O que costuma acontecer na prática:
 
 1. **Antes do lance**, a Caixa orienta fazer a análise de risco de crédito e a conferência das condições do FGTS numa agência, num correspondente ou nos canais digitais. Quem dá o lance sem crédito aprovado corre o risco de ter a compra cancelada e de perder valores pagos.
 2. **Depois da arrematação**, você paga a parte não financiada e a comissão, e o financiamento segue o rito normal: avaliação do imóvel, assinatura e registro.
-3. **O FGTS segue as regras de sempre:** 3 anos de trabalho com depósito no FGTS, somando todos os empregos, imóvel residencial urbano na cidade onde você mora ou trabalha, não ter outro imóvel nessa cidade e valor dentro do teto do SFH. As regras estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
+3. **O FGTS segue as regras de sempre:** 3 anos de trabalho com depósito no FGTS, somando todos os empregos, imóvel residencial urbano na cidade onde você mora ou trabalha, não ter outro imóvel nessa cidade e valor dentro do teto da linha de crédito. Confirme o teto e a regra de FGTS no edital. As regras estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
 Lotes ocupados, com problema de documentação ou com pendência judicial podem aceitar só pagamento à vista. Se você depende de financiamento, filtre desde o início pelos lotes que aceitam crédito. As condições gerais de crédito do banco estão em [financiamento da Caixa](/artigos/financiamento-caixa).
 

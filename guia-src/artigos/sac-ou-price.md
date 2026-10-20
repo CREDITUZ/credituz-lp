@@ -9,7 +9,7 @@ key_points:
   - "No SAC a parcela começa mais alta e cai todo mês; na Price ela fica estável, antes da correção."
   - "No mesmo financiamento, o SAC paga bem menos juros no total que a Price."
   - "A Price exige renda menor para aprovar, porque a primeira parcela é mais baixa."
-  - "Na Caixa, a cota máxima é de 80% do imóvel no SAC e de 70% na Price, segundo nota de dezembro de 2025."
+  - "Na Caixa, a cota máxima é de 80% do imóvel no SAC e de 70% na Price, segundo a Agência Brasil em dezembro de 2025."
   - "Quem escolhe Price e amortiza todo mês a diferença para o SAC chega a um custo parecido ou menor."
 faq:
   - q: "Qual é melhor, SAC ou Price?"
@@ -95,7 +95,7 @@ Exemplo ilustrativo, sem seguros e tarifas, que aumentam a parcela real. O cálc
 
 ### Cota
 
-O sistema escolhido também pode mudar quanto o banco financia. Segundo nota da Caixa divulgada pela Agência Brasil em dezembro de 2025, a Caixa financia até 80% do valor do imóvel no SAC e até 70% na Price, na linha SBPE. Em um imóvel de R$ 500 mil, isso significa entrada mínima de R$ 100 mil no SAC e de R$ 150 mil na Price. Bancos privados têm regras próprias. Veja [quanto de entrada é preciso](/artigos/entrada-para-financiar-imovel).
+O sistema escolhido também pode mudar quanto o banco financia. Segundo a Agência Brasil em dezembro de 2025, a Caixa financia até 80% do valor do imóvel no SAC e até 70% na Price, na linha SBPE. Em um imóvel de R$ 500 mil, isso significa entrada mínima de R$ 100 mil no SAC e de R$ 150 mil na Price. Bancos privados têm regras próprias. Veja [quanto de entrada é preciso](/artigos/entrada-para-financiar-imovel).
 
 ## Quando escolher cada um
 
