@@ -18,17 +18,19 @@ faq:
   - q: "Se um dos compradores parar de pagar, o outro responde?"
     a: "Depende do contrato. Se houver cláusula de solidariedade, o banco pode cobrar a dívida inteira de qualquer um dos devedores, e não só a parte de cada um."
   - q: "Um comprador pode vender a sua parte sem o outro?"
-    a: "A lei permite vender a fração ideal, mas os outros coproprietários podem ter direito de preferência. Confirme as regras com um advogado antes de vender."
+    a: "A lei permite vender a fração ideal, mas, quando a venda é para terceiro, os outros coproprietários têm direito de preferência (art. 504 do Código Civil). Confirme as regras com um advogado antes de vender."
 sources:
-  - title: "Código Civil, Lei 10.406/2002, texto no Planalto (arts. 264, 1.314 e 1.320)"
+  - title: "Código Civil, Lei 10.406/2002, texto no Planalto (arts. 264, 504, 1.314 e 1.320)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
-  - title: "Prefeitura de São Paulo: ITBI, alíquotas e base de cálculo (atualizado para 2026)"
+  - title: "LegJur: texto do Código Civil, art. 1.314 (conferido também com os arts. 264, 504 e 1.320)"
+    url: "https://www.legjur.com/legislacao/art/lei_00104062002-1314"
+  - title: "Prefeitura de São Paulo: ITBI, alíquotas de 3% e regra do SFH (0,5% até R$ 120.968 e 3% no restante), página de janeiro de 2026"
     url: "https://prefeitura.sp.gov.br/fazenda/w/servicos/itbi/2513"
-  - title: "MySide: taxa média de financiamento imobiliário, atualizada em 08/10/2026 (11,40% ao ano mais TR)"
+  - title: "MySide: taxa média de financiamento imobiliário, atualizada em 08/10/2026 (11,40% ao ano)"
     url: "https://myside.com.br/guia-imoveis/taxa-juros-financiamento-imobiliario"
-  - title: "Brasil Indicadores: TR acumulada em 12 meses, atualizada em 01/10/2026 (2,00%)"
+  - title: "Brasil Indicadores: TR acumulada em 12 meses até outubro de 2026 (2,00%), atualizada em 01/10/2026"
     url: "https://brasilindicadores.com.br/tr/"
-  - title: "InfoMoney: como declarar a venda de imóvel e quando ela é isenta (publicada em 26/04/2026, imprensa)"
+  - title: "InfoMoney: como declarar a venda de imóvel e quando ela é isenta (publicada em 26/04/2026, imprensa, não é norma)"
     url: "https://www.infomoney.com.br/?p=3305489"
 related: [fgts-de-dois-compradores, renda-composta, separacao-de-bens, uniao-estavel-e-imovel]
 ---
@@ -39,7 +41,7 @@ Sim. Duas ou mais pessoas podem comprar um imóvel juntas, e cada uma passa a te
 
 Quando o imóvel pertence a mais de uma pessoa, ele fica em condomínio geral, também chamado de copropriedade. Cada um tem uma fração ideal, que é uma porcentagem do todo. Essa fração não corresponde a um cômodo ou a uma parte física da casa. Quem tem 40% tem 40% do imóvel inteiro.
 
-O Código Civil define alguns pontos básicos. Cada coproprietário pode usar o imóvel conforme a sua finalidade e defendê-lo, mas não pode mudar a destinação do bem nem ceder o uso a terceiros sem o consentimento dos outros. Cada um também pode dispor da sua própria fração (Lei 10.406/2002, art. 1.314). Além disso, qualquer coproprietário pode pedir a divisão da coisa comum a qualquer tempo, e cada um responde pela sua parte das despesas da divisão (art. 1.320).
+O Código Civil define alguns pontos básicos. Cada coproprietário pode usar o imóvel conforme a sua finalidade e defendê-lo. Ele também pode alienar (vender) a sua parte ideal ou dá-la em garantia (art. 1.314). Mas nenhum deles pode alterar a destinação do bem nem dar o uso a estranhos sem o consentimento dos outros. Além disso, a qualquer tempo é lícito a qualquer coproprietário exigir a divisão da coisa comum (art. 1.320).
 
 Essas regras são o ponto de partida. O acordo entre vocês pode detalhar mais, desde que não contrarie a lei.
 
@@ -47,7 +49,7 @@ Essas regras são o ponto de partida. O acordo entre vocês pode detalhar mais, 
 
 A lei não fixa uma proporção. Na prática, a divisão costuma seguir a renda de cada um ou o valor que cada um pode aportar. O exemplo abaixo é ilustrativo.
 
-Imagine um imóvel de R$ 600.000. A entrada de 20% é de R$ 120.000, e o financiamento de R$ 480.000 é pago em 360 meses pela tabela Price. O exemplo usa juros de 11,40% ao ano mais TR de 2%, que dá cerca de 13,6% ao ano na soma. Com essa taxa, a parcela total fica em R$ 5.251,38. Os custos de compra somam R$ 27.000, com ITBI de 3% (premissa para São Paulo) e cartório com avaliação de 1,5% (premissa do exemplo).
+Imagine um imóvel de R$ 600.000. A entrada de 20% é de R$ 120.000, e o financiamento de R$ 480.000 é pago em 360 meses pela tabela Price. O exemplo usa juros de 11,40% ao ano mais TR de 2%, que, compostos, dão cerca de 13,63% ao ano. Com essa taxa, a parcela total fica em R$ 5.251,38. Os custos de compra somam R$ 27.000, com ITBI de 3% e cartório com avaliação de 1,5%. São premissas conservadoras, porque o ITBI pelo SFH costuma ser menor (veja a seção de impostos).
 
 Agora considere duas pessoas, A, com renda de R$ 12.000, e B, com renda de R$ 8.000:
 
@@ -74,17 +76,17 @@ Um cuidado frequente: pagar a parte do outro sem que isso conste em nenhum docum
 
 No financiamento com vários compradores, o contrato pode prever solidariedade. Pelo Código Civil, há solidariedade quando, na mesma obrigação, concorre mais de um devedor, e cada um responde pela dívida inteira (art. 264).
 
-Na prática, isso muda o risco. No exemplo de 60% e 40%, se B deixar de pagar, e o contrato disser que os dois são devedores solidários, o banco pode cobrar de A o valor total de R$ 5.251,38 por mês, e não apenas os R$ 3.150,83 da parte dele. A divisão combinada entre vocês não obriga o banco, porque ela vale na relação entre os dois. Por isso, leia a cláusula antes de assinar e entenda o que ela significa para cada um.
+Na prática, isso muda o risco. No exemplo de 60% e 40%, se B deixar de pagar, e o contrato disser que os dois são devedores solidários, o banco pode cobrar de A o valor total da parcela, de R$ 5.251,38 por mês, e não apenas os R$ 3.150,83 da parte dele. A divisão combinada entre vocês não obriga o banco, porque ela vale na relação entre os dois. Por isso, leia a cláusula antes de assinar e entenda o que ela significa para cada um.
 
 ## Impostos e custos da compra
 
-O ITBI é cobrado pela prefeitura e pago pelo comprador. Em São Paulo, a alíquota geral é de 3% sobre a base de cálculo. Para financiamento pelo SFH, a prefeitura prevê uma alíquota menor sobre parte do valor, com faixas atualizadas para 2026. Confira o cálculo oficial antes de dividir o custo.
+O ITBI é cobrado pela prefeitura e pago pelo comprador. Em São Paulo, a alíquota geral é de 3% sobre a base de cálculo. Para financiamento pelo SFH de imóvel de até R$ 725.808, a prefeitura aplica 0,5% sobre o valor financiado até R$ 120.968 e 3% sobre o que exceder esse valor, financiado ou não. Essa regra vale para contratos a partir de 25/02/2022, e os limites são atualizados todo ano. No exemplo de R$ 600.000 com R$ 480.000 financiados, o cálculo pelo SFH daria cerca de R$ 14.976, contra R$ 18.000 a 3%. Confira o cálculo oficial antes de dividir o custo.
 
-Na venda futura, o ganho de capital é apurado sobre a fração de cada um. A imprensa recente relatou que a Receita Federal analisa a parte de cada proprietário ao aplicar o limite de isenção de R$ 440 mil. Como essa leitura veio de notícia e não da norma, confirme a regra na fonte oficial ou com um contador antes de decidir a venda.
+Na venda futura, o ganho de capital é apurado sobre a parte de cada um. Uma reportagem do InfoMoney, de 26/04/2026, afirma que a Receita considera a parte de cada proprietário ao aplicar o limite de isenção de R$ 440 mil. Essa leitura veio de notícia, não de norma, e não conseguimos confirmá-la no texto oficial. Confirme a regra com a Receita Federal ou com um contador antes de decidir a venda.
 
 ## O que acontece se um quiser sair
 
-Não há saída automática. Qualquer coproprietário pode pedir a divisão do bem a qualquer tempo (art. 1.320). Num imóvel, a divisão física quase nunca é viável, e na prática a saída costuma ser a venda da parte de um, ou do imóvel inteiro. A lei pode dar preferência aos outros coproprietários na compra da parte, e o acordo entre vocês também pode tratar desse direito. Se houver conflito, procure um advogado.
+Não há saída automática. Qualquer coproprietário pode pedir a divisão do bem a qualquer tempo (art. 1.320). Num imóvel, a divisão física quase nunca é viável, e na prática a saída costuma ser a venda da parte de um, ou do imóvel inteiro. Quando um coproprietário vende a sua parte para alguém de fora, a lei dá preferência aos outros, que podem comprar pelo mesmo valor, nos termos do art. 504. O acordo entre vocês também pode tratar desse direito. Se houver conflito, procure um advogado.
 
 Enquanto a dívida do financiamento existir, sair da compra também depende do banco. Quem sai precisa de um comprador novo, de quitar a sua parte ou de transferir a dívida, com as condições do contrato.
 
@@ -108,4 +110,4 @@ Enquanto a dívida do financiamento existir, sair da compra também depende do b
 
 ## Resumo
 
-A compra em grupo funciona quando a divisão está escrita: quem é dono de quanto, quem deve ao banco e como cada um sai. A lei oferece o ponto de partida, com a copropriedade, a divisão a qualquer tempo e a solidariedade quando o contrato prevê. O acordo entre vocês e a conferência da matrícula são o que protege cada um. Antes de assinar, calcule a parcela com a renda de cada pessoa e leia a cláusula de solidariedade com atenção.
+A compra em grupo funciona quando a divisão está escrita: quem é dono de quanto, quem deve ao banco e como cada um sai. A lei oferece o ponto de partida, com a copropriedade, a divisão a qualquer tempo, a preferência dos outros coproprietários e a solidariedade quando o contrato prevê. O acordo entre vocês e a conferência da matrícula são o que protege cada um. Antes de assinar, calcule a parcela com a renda de cada pessoa e leia a cláusula de solidariedade com atenção.
