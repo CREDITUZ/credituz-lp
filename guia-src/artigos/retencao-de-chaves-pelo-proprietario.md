@@ -6,8 +6,8 @@ published: 2026-10-20
 updated: 2026-10-20
 reading_minutes: 8
 key_points:
-  - "Enquanto alguém tem a posse do imóvel por contrato ou permissão, o dono não pode reter as chaves para pressionar pagamento ou saída (Código Civil, art. 1.197)."
-  - "Com contrato de locação, a saída do locatário precisa ser pelo despejo (Lei 8.245/1991, art. 5º), e a devolução das chaves encerra a posse do locatário."
+  - "Enquanto alguém usa o imóvel por contrato ou permissão, o dono, em regra, não pode reter as chaves para pressionar pagamento ou saída. A posse de quem usa o imóvel é protegida (Código Civil, art. 1.197)."
+  - "Com contrato de locação, se o locador quiser o imóvel de volta, a ação é a de despejo (Lei 8.245/1991, art. 5º). A entrega efetiva das chaves costuma marcar o fim da posse do locatário."
   - "Na locação por prazo indeterminado, o aviso de 30 dias (art. 6º) define a entrega. Sem aviso, o locador pode cobrar um mês de aluguel."
   - "Sem contrato escrito, a resposta depende de a ocupação ser locação verbal, comodato ou ocupação sem permissão, e cada caso tem caminho próprio."
 faq:
@@ -45,17 +45,17 @@ Este texto explica a retenção de chaves nos dois cenários mais comuns: com co
 
 ## Por que a chave tem peso jurídico
 
-Quem tem a chave e usa o imóvel exerce a posse. O Código Civil distingue a posse direta, de quem tem a coisa em seu poder por direito pessoal ou real, da posse indireta, de quem a transmitiu. O artigo 1.197 diz que a posse direta do inquilino não anula a posse indireta do dono, e que o possuidor direto pode defender a sua posse contra o indireto. Ou seja, mesmo sendo o dono, você não tem a posse de um imóvel que está alugado.
+Quem tem a chave e usa o imóvel exerce a posse. O Código Civil distingue a posse direta, de quem tem a coisa em seu poder por direito pessoal ou real, da posse indireta, de quem a transmitiu. O artigo 1.197 diz que a posse direta do inquilino não anula a posse indireta do dono, e que o possuidor direto pode defender a sua posse contra o indireto. Ou seja, o dono conserva a posse indireta, mas quem usa o imóvel alugado tem a posse direta e pode defendê-la até contra o dono.
 
-Quando a posse é tirada ou ameaçada, o artigo 1.210 permite que o possuidor se mantenha ou se restitua por sua própria força, desde que aja logo e não exceda o indispensável. Essa autodefesa é estreita, feita no próprio momento do esbulho. Trocar a fechadura semanas depois, por causa de uma dívida, não se encaixa nela.
+Quando a posse é tirada ou ameaçada, o § 1º do artigo 1.210 permite que o possuidor se mantenha ou se restitua por sua própria força, desde que aja logo e não exceda o indispensável. Essa autodefesa é estreita, feita no próprio momento do esbulho. Trocar a fechadura semanas depois, por causa de uma dívida, não se encaixa nela.
 
 Além disso, o Código Penal, no artigo 345, pune quem faz justiça pelas próprias mãos para satisfazer uma pretensão, mesmo legítima, salvo quando a lei permite. A pena prevista é de detenção de quinze dias a um mês, ou multa, além da sanção pela violência, se houver. Sem violência, o processo depende de queixa da vítima. Trocar a fechadura ou reter as chaves para forçar um pagamento pode se enquadrar nessa conduta, a depender dos fatos.
 
 ## Com contrato de locação
 
-Pela Lei 8.245/1991, a ação do locador para reaver o imóvel é a de despejo, seja qual for o motivo do fim da locação (art. 5º). O despejo é um processo judicial, e o proprietário não pode substituí-lo por um ato próprio.
+Pela Lei 8.245/1991, a ação do locador para reaver o imóvel é a de despejo, seja qual for o motivo do fim da locação, com a ressalva do caso de desapropriação previsto no próprio artigo (art. 5º). O despejo é um processo judicial, e o proprietário não pode substituí-lo por um ato próprio.
 
-Durante a locação, o locador é obrigado a garantir o uso pacífico do imóvel (art. 22). Reter as chaves contraria essa obrigação. Ao fim da locação, o locatário deve restituir o imóvel no estado em que o recebeu, salvo as deteriorações do uso normal (art. 23, inciso III). A devolução das chaves faz parte dessa restituição.
+Durante a locação, o locador é obrigado a garantir o uso pacífico do imóvel (art. 22). Reter as chaves pode contrariar essa obrigação. Ao fim da locação, o locatário deve restituir o imóvel no estado em que o recebeu, salvo as deteriorações do uso normal (art. 23, inciso III). A devolução das chaves faz parte dessa restituição.
 
 O artigo 23, inciso IX, permite a vistoria do imóvel pelo locador ou por seu mandatário, mas com combinação prévia de dia e hora. Se o dono precisa entrar, a entrada deve ser agendada, e não feita com uma chave guardada sem aviso.
 
@@ -65,7 +65,7 @@ Na locação por prazo indeterminado, o inquilino pode encerrar o contrato com a
 
 Se o inquilino entregou as chaves, a posse voltou para o dono, que pode guardá-las. A discussão passa a ser outra, sobre aluguel, garantia e danos.
 
-Um ponto recente merece atenção. Em janeiro de 2026, notícias sobre um julgamento da 3ª Turma do STJ, o REsp 2.220.656, relataram que o locador não pode condicionar a entrega das chaves à concordância com um laudo de vistoria, e que, nesse caso, os fiadores não respondem pelos aluguéis posteriores à desocupação. Segundo a notícia, a decisão tratou de locação não residencial, por prazo indeterminado, com comunicação tempestiva do locatário. O acórdão completo não foi lido aqui, e um caso residencial pode ter outro desfecho. Ainda assim, a linha de raciocínio mostra que o dono não pode impor condições unilaterais para encerrar a locação, e que eventuais danos devem ser cobrados em ação própria.
+Um julgamento recente da 3ª Turma do STJ, no REsp 2.220.656, foi noticiado em janeiro de 2026 (notícia do Migalhas, de 16/01/2026). Segundo a notícia, tratava-se de locação não residencial, por prazo indeterminado, em que o locador condicionou a entrega das chaves à aceitação de um laudo de vistoria, e o tribunal entendeu que os fiadores não respondiam pelos aluguéis posteriores à desocupação. O acórdão não foi lido nesta verificação. Como o caso é não residencial e a informação vem de uma notícia, o resultado não deve ser tomado como precedente aplicável a uma locação residencial ou à sua situação.
 
 ## Sem contrato escrito
 
