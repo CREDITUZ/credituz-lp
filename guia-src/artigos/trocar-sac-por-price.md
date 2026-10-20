@@ -39,12 +39,12 @@ Quando você troca de um para o outro no meio do contrato, o banco recalcula a d
 
 ## Por que a troca depende do banco
 
-Não encontramos uma regra pública que obrigue o banco a aceitar a troca do sistema depois da contratação. Também não conseguimos abrir o site da Caixa, onde costuma estar a política de cada linha, então não podemos afirmar o que o seu banco aceita. O que é razoável esperar, pela lógica do contrato, é o seguinte:
+Não encontramos uma regra pública que obrigue o banco a aceitar a troca do sistema depois da contratação. Também não encontramos a política da Caixa sobre troca de sistema em fonte pública, então não podemos afirmar o que o seu banco aceita. O que é razoável esperar, pela lógica do contrato, é o seguinte:
 
 - O sistema de amortização faz parte das condições do contrato. Mudá-lo exige acordo formal, geralmente por aditivo ou renegociação.
 - A nova parcela pode levar a nova análise de renda, porque ela muda o comprometimento.
 - A troca pode trazer taxa, seguros ou tarifas diferentes, e a proposta precisa informar o CET (Custo Efetivo Total).
-- Quem está com parcelas atrasadas costuma ter mais dificuldade para negociar condições novas.
+- Quem está com parcelas atrasadas pode ter mais dificuldade para negociar condições novas.
 
 Pergunte por escrito se a troca é possível, qual documento formaliza a mudança e quais custos existem.
 
@@ -63,7 +63,7 @@ No SAC, o saldo depois de 60 pagamentos cai para R$ 342.857,14. No mês 61, a pa
 
 A parcela cai R$ 828,39 por mês, o que parece um alívio. Mas, no total, a Price custa R$ 262.588,60 a mais do mês 61 até o fim do contrato. A troca ajuda o orçamento de hoje e encarece o contrato inteiro.
 
-Esses valores são sem TR. Com a correção pela TR (Taxa Referencial), o saldo é corrigido todo mês e a parcela da Price deixa de ser exatamente fixa, porque sobe junto com a correção. No SAC, a correção faz a parcela cair mais devagar. Por isso, simule com a TR e os seguros do seu contrato antes de decidir.
+Esses valores são sem TR. Com a TR (Taxa Referencial), o saldo e as parcelas são corrigidos ao longo do contrato, e o valor real muda. Por isso, simule com a TR e os seguros do seu contrato antes de decidir.
 
 ## Quando a troca pode fazer sentido
 
@@ -121,7 +121,7 @@ Para a nova parcela, use como referência o limite de cerca de 30% da renda brut
 - **Fechar sem ler o aditivo.** Confira o novo sistema, a taxa, o prazo e os seguros antes de assinar.
 - **Achar que a troca reduz a dívida.** A troca muda a forma de pagar. O saldo continua o mesmo no momento da troca.
 - **Comparar taxas de sistemas diferentes.** Compare SAC com SAC e Price com Price, sempre pelo CET.
-- **Esquecer a taxa do mercado.** A MySide divulgou em 8 de outubro de 2026 taxas mínimas no SBPE entre 10,26% e 11,99% ao ano mais TR. Se a sua taxa estiver bem acima dessa faixa, a renegociação da taxa pode render mais do que a troca de sistema.
+- **Esquecer a taxa do mercado.** A MySide informou em 8 de outubro de 2026 uma faixa de taxas no SBPE entre 10,26% e 11,99% ao ano, mais TR. Se a sua taxa estiver bem acima dessa faixa, a renegociação da taxa pode render mais do que a troca de sistema.
 
 ## Resumo e próximos passos
 

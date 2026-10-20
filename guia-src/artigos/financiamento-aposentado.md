@@ -35,7 +35,7 @@ Sim, aposentado pode financiar imóvel. A aposentadoria não proíbe o crédito.
 
 ## A regra de idade e prazo
 
-Não encontramos uma idade máxima fixa na legislação do financiamento. Na prática, os bancos usam a soma da idade com o prazo. Sites de comparação, como a MeuTudo e a Larya, descrevem essa regra como uma soma que não pode ultrapassar 80 anos e 6 meses. A Larya diz que ela vale para a maioria das instituições e atribui a regra à Caixa e ao Banco do Brasil. Não conseguimos abrir o site da Caixa para confirmar a regra no texto oficial, então trate esses números como informação de mercado e confirme na simulação.
+Não encontramos uma idade máxima fixa na legislação do financiamento. Na prática, os bancos usam a soma da idade com o prazo. Sites de comparação, como a MeuTudo e a Larya, descrevem essa regra como uma soma que não pode ultrapassar 80 anos e 6 meses. A Larya diz que ela vale para a maioria das instituições e atribui a regra à Caixa e ao Banco do Brasil. O MeuTudo também a atribui à Caixa. Não encontramos a regra em norma pública, então trate esses números como informação de mercado e confirme na simulação do banco.
 
 Se a regra for essa, a tabela mostra o prazo máximo por idade na contratação:
 
@@ -49,13 +49,13 @@ Se a regra for essa, a tabela mostra o prazo máximo por idade na contratação:
 
 O prazo de 35 anos aparece porque o SBPE cita até 420 meses em operações gerais, segundo a Agência Brasil. Quem tem 40 anos ainda cabe no teto. A partir de 46 anos, a soma com 35 anos já passa de 80 anos e 6 meses, e o prazo começa a cair.
 
-Dois detalhes fazem diferença. O primeiro é que a idade considerada costuma ser a da data da contratação, não a da assinatura do financiamento anterior. O segundo é que, em financiamento com mais de um comprador, o banco usa a idade do mais velho, pela regra descrita pela MeuTudo.
+Dois detalhes fazem diferença. O primeiro é que a idade considerada é a da contratação, segundo o MeuTudo. O segundo é que, em financiamento com mais de um comprador, o banco usa a idade do mais velho, pela regra descrita pela MeuTudo.
 
 ## Como o benefício entra na renda
 
 A aposentadoria e a pensão entram na análise como renda. A Serasa, em texto de 18 de junho de 2026, diz que a Caixa considera aposentadoria e pensão entre as rendas de análise, e que os bancos costumam limitar a parcela a cerca de 30% da renda bruta mensal. O texto não traz regra específica para quem recebe benefício do INSS, então a conta é a mesma de qualquer outra renda.
 
-Na prática, a comprovação costuma ser o extrato do benefício, geralmente dos últimos três meses, junto com a declaração de Imposto de Renda, como lista o artigo sobre [documentos para financiamento](/artigos/documentos-para-financiamento). O banco olha a renda bruta, não o valor líquido que cai na conta.
+Na prática, a comprovação costuma ser o extrato do benefício, junto com a declaração de Imposto de Renda, como lista o artigo sobre [documentos para financiamento](/artigos/documentos-para-financiamento). O banco olha a renda bruta, não o valor líquido que cai na conta.
 
 Quando a renda vem só do benefício, a conta é direta: 30% do valor bruto é o máximo da parcela. Se o benefício é de R$ 4.000, a parcela de referência fica em R$ 1.200, antes de seguros e de outras dívidas.
 
@@ -85,13 +85,13 @@ Evite aceitar um prazo que comprometa a renda de forma apertada só para fechar 
 
 ## Se a aposentadoria chegar durante o contrato
 
-Quem já tem um financiamento e se aposenta no meio do contrato enfrenta outra situação. A regra de comprovação de renda foi pensada para o momento da contratação. Depois disso, a troca de renda salarial pelo benefício pode exigir informação ao banco e, em alguns casos, reavaliação. Por isso, pergunte com antecedência como a mudança é tratada no seu contrato e se o banco pede documentos novos.
+Quem já tem um financiamento e se aposenta no meio do contrato enfrenta outra situação. Não encontramos regra pública sobre essa troca de renda. Por isso, pergunte com antecedência ao banco como a mudança é tratada no seu contrato e se ele pede documentos novos.
 
 Esse é o momento de rever o orçamento. Uma parcela que cabia no salário pode pesar no benefício, e a diferença entre as duas rendas costuma ser maior do que parece. Vale fazer a conta com o valor líquido que cai na conta, junto com as outras despesas fixas, antes de decidir se mantém o contrato, amortiza ou renegocia.
 
 ## Passo a passo para simular o seu caso
 
-1. Reúna o extrato dos últimos três meses do benefício e a declaração de Imposto de Renda, se houver.
+1. Reúna o extrato do benefício e a declaração de Imposto de Renda, se houver.
 2. Calcule 30% do valor bruto do benefício. Esse é o teto de referência para a parcela.
 3. Some sua idade com o prazo que você quer e compare com 80 anos e 6 meses. Se passar, reduza o prazo para o máximo permitido.
 4. Simule a Price e o SAC com o mesmo valor. Lembre que o SAC começa com parcela mais alta.

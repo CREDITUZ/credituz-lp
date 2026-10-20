@@ -50,7 +50,7 @@ No financiamento pelo SFH (Sistema Financeiro da Habitação), que é o conjunto
 
 ## Por que a carta não garante o contrato
 
-A decisão mais clara que encontramos sobre o tema é do TRF3 (Tribunal Regional Federal da 3ª Região), noticiada em 31 de julho de 2014. Um comprador tinha uma carta pré-aprovada e pediu que a Caixa fosse obrigada a contratar. O tribunal negou o pedido. Segundo a decisão, a carta comprova o crédito pré-aprovado, mas não obriga o banco a financiar o imóvel escolhido pela pessoa. No caso, a matrícula tinha hipoteca e penhora, e o financiamento exige imóvel livre de ônus. Como a decisão tem mais de dez anos, use o caso para entender o princípio, não como regra de hoje.
+A decisão mais clara que encontramos sobre o tema é do TRF3 (Tribunal Regional Federal da 3ª Região), noticiada em 31 de julho de 2014. Um comprador tinha uma carta pré-aprovada e pediu que a Caixa fosse obrigada a contratar. O tribunal negou o pedido. Segundo a decisão, a carta comprova o crédito pré-aprovado, mas não obriga o banco a financiar o imóvel escolhido pela pessoa. Segundo a notícia, a Caixa alegou que a matrícula tinha hipoteca e penhora, e que o financiamento exige imóvel livre de ônus. Como a decisão tem mais de dez anos, use o caso para entender o princípio, não como regra de hoje.
 
 Na prática, o imóvel passa por etapas próprias. A tabela mostra quais dependem da pessoa e quais dependem da casa:
 
@@ -92,7 +92,7 @@ Dois cuidados evitam surpresas. O primeiro é não contrair dívida nova, como f
 
 Quatro limites definem quanto dá para financiar:
 
-1. **Teto do SFH.** A Resolução CMN 5.255/2025, publicada em 10 de outubro de 2025, fixou em R$ 2.250.000 o valor de imóvel que se enquadra no SFH, alterando o art. 13 da Resolução CMN 4.676/2018. Acima desse valor, o financiamento sai das regras do SFH e as condições mudam.
+1. **Teto do SFH.** A Resolução CMN 5.255/2025, publicada em 10 de outubro de 2025, fixou em R$ 2.250.000 o limite máximo do valor de avaliação do imóvel financiado no SFH, alterando o art. 13 da Resolução CMN 4.676/2018. Acima desse valor, o financiamento sai das regras do SFH e as condições mudam.
 2. **Cota máxima.** É o percentual do imóvel que o banco financia. Uma notícia da Agência Brasil de 9 de dezembro de 2025 informou que, no SBPE (o crédito com recursos da poupança), o financiamento chegava a 80% do imóvel no SAC e a 70% na Price. A mesma notícia não atribui esses percentuais a uma nota da Caixa, então confirme a cota vigente no banco.
 3. **Renda que cabe na parcela.** Segundo a Serasa, em texto de 18 de junho de 2026, os bancos costumam limitar a parcela a cerca de 30% da renda bruta mensal. O limite pode variar conforme o perfil.
 4. **Prazo.** A mesma notícia da Agência Brasil cita prazo de até 420 meses (35 anos) para operações do SBPE em geral. Para quem tem mais idade, o prazo pode ser menor, um assunto que aparece em [financiamento para aposentado](/artigos/financiamento-aposentado).
@@ -101,7 +101,7 @@ Quatro limites definem quanto dá para financiar:
 
 Imagine uma carta de R$ 300 mil e um imóvel de R$ 380 mil. A diferença de R$ 80 mil precisa ser coberta com recursos próprios, como entrada e custos de compra.
 
-Agora, o valor da parcela. Para R$ 300 mil em 35 anos, com taxa de 11,5% ao ano, a Price fica em R$ 2.795,67 por mês e o SAC começa em R$ 3.448,03. Esse é um exemplo ilustrativo, calculado sem TR, seguros e tarifas, que aumentam a parcela real. A taxa está dentro da faixa de taxas mínimas no SBPE que a MySide divulgou em 8 de outubro de 2026, entre 10,26% e 11,99% ao ano mais TR, mas a taxa que você consegue depende do seu perfil e do banco.
+Agora, o valor da parcela. Para R$ 300 mil em 35 anos, com taxa de 11,5% ao ano, a Price fica em R$ 2.795,67 por mês e o SAC começa em R$ 3.448,03. Esse é um exemplo ilustrativo, calculado sem TR, seguros e tarifas, que aumentam a parcela real. A taxa de 11,5% ao ano, sem TR, fica dentro da faixa de 10,26% a 11,99% ao ano, mais TR, que a MySide informou em 8 de outubro de 2026 para o SBPE. A taxa que você consegue depende do seu perfil e do banco.
 
 Para que a Price de R$ 2.795,67 respeite o limite de 30% da renda, a renda bruta precisa ser de cerca de R$ 9.319 por mês, sem contar seguros.
 

@@ -12,7 +12,7 @@ key_points:
   - "Os custos incluem ITBI, escritura, registro e eventuais tarifas. O ITBI varia por município."
 faq:
   - q: "Dá para transferir o financiamento para outra pessoa sem o banco?"
-    a: "Não de forma regular perante o banco. Pela Lei 9.514/1997, o devedor só pode passar os direitos sobre o imóvel com concordância expressa do credor. Acordos informais sem o banco, como o contrato de gaveta, deixam a dívida no nome do vendedor."
+    a: "Não de forma regular perante o banco. Pelo art. 29 da Lei 9.514/1997, o devedor só pode transmitir os direitos sobre o imóvel com anuência expressa do credor. Acordos informais sem o banco, como o contrato de gaveta, deixam a dívida no nome do vendedor."
   - q: "Quem paga o ITBI na transferência?"
     a: "Em regra, quem compra. O valor depende da alíquota e da base de cálculo definidas pelo município, então consulte a prefeitura antes de fechar."
   - q: "O novo comprador precisa passar por análise?"
@@ -24,8 +24,8 @@ sources:
     url: "https://www2.camara.leg.br/legin/fed/lei/1997/lei-9514-20-novembro-1997-365383-normaatualizada-pl.html"
   - title: "Larya: como transferir o financiamento do meu imóvel para outra pessoa (publicado em 22/09/2026)"
     url: "https://larya.com.br/blog/como-transferir-o-financiamento-meu-imovel-para-outra-pessoa/"
-  - title: "Lei 10.692/2013 de Belo Horizonte, que fixa a alíquota de 3% do ITBI"
-    url: "https://fazenda.pbh.gov.br/internet/legislacao/findkey.asp?key=L10692"
+  - title: "Prefeitura de Belo Horizonte: ITBI, alíquota de 3,0%"
+    url: "https://prefeitura.pbh.gov.br/fazenda/tributos/ITBI"
   - title: "Agência Brasil: Caixa volta a financiar 80% no SAC e 70% na Price (09/12/2025)"
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/caixa-libera-contratacao-de-mais-de-um-financiamento-imobiliario"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (18/06/2026)"
@@ -49,7 +49,7 @@ Isso quer dizer que o vendedor não pode simplesmente passar a casa adiante e en
 | Quitação com novo financiamento | O novo banco financia o comprador, paga o saldo do vendedor e o restante vai ao vendedor | O novo banco, que faz contrato novo | Há novo contrato, novas taxas, seguros e custos de registro |
 | Contrato de gaveta | Acordo entre particulares, sem o banco | Ninguém do banco | O banco não reconhece o acordo, e a dívida fica com o vendedor |
 
-Na prática, muitas operações seguem a segunda forma. No mercado, ela aparece como uma operação com interveniente quitante: o novo banco quita a dívida do vendedor no mesmo ato em que financia o comprador. A Larya descreve esse caminho e alerta que, nele, o novo banco pede o saldo exato ao banco original.
+Na prática, a Larya descreve a segunda forma como interveniente quitante: o novo banco quita a dívida do vendedor no mesmo ato em que financia o comprador, e chama esse caminho de forma correta e segura. Ela alerta que, nele, o novo banco pede o saldo exato ao banco original.
 
 ## Quem é analisado
 
@@ -61,12 +61,12 @@ Além da pessoa, a análise pesa no imóvel e na idade. O banco avalia o valor d
 
 A transferência não é gratuita. Os custos mais comuns são:
 
-- **ITBI (Imposto de Transmissão de Bens Imóveis).** É um imposto municipal que incide quando o imóvel muda de dono. A alíquota e a base de cálculo são definidas pela cidade. Em Belo Horizonte, a Lei 10.692/2013 fixa alíquota de 3%. Veja os casos em [ITBI](/artigos/itbi).
+- **ITBI (Imposto de Transmissão de Bens Imóveis).** É um imposto municipal que incide quando o imóvel muda de dono. A alíquota e a base de cálculo são definidas pela cidade. Em Belo Horizonte, a alíquota é de 3% desde maio de 2014, segundo a prefeitura. Veja os casos em [ITBI](/artigos/itbi).
 - **Escritura e registro.** Cartório cobra conforme a tabela do estado e o valor da operação. Veja [quanto custa escritura e registro](/artigos/escritura-e-registro-quanto-custa).
 - **Avaliação do imóvel.** O banco cobra tarifa de avaliação, que varia conforme o banco e a cidade.
 - **Seguros e tarifas do contrato.** Os seguros MIP e DFI são exigidos no financiamento e entram no custo total.
 
-A Larya informa que, em geral, o comprador arca com esses custos, e que alguns bancos aceitam incluí-los no financiamento. Confirme essa possibilidade no banco antes de contar com ela.
+A Larya informa que, em geral, o comprador arca com esses custos, e que alguns bancos permitem incluí-los no financiamento, citando a Caixa e o Itaú. Confirme essa possibilidade no banco antes de contar com ela.
 
 ## Exemplo ilustrativo: quanto o comprador precisa levar
 
@@ -74,7 +74,7 @@ Imagine um imóvel de R$ 420 mil com saldo devedor de R$ 260 mil. O comprador d�
 
 Nessa conta, o novo financiamento de R$ 336 mil quita o saldo de R$ 260 mil. O restante, R$ 76 mil, vai ao vendedor. O ITBI, se a alíquota de 3% incidir sobre o preço de R$ 420 mil, seria de R$ 12.600, pago pelo comprador. Somando entrada e ITBI, ele precisa de R$ 96.600, sem contar escritura, registro, avaliação e seguros.
 
-Isso é um exemplo ilustrativo. A base de cálculo do ITBI pode ser o valor venal do imóvel, e não o preço, então a conta real pode mudar.
+Isso é um exemplo ilustrativo. Em Belo Horizonte, a base é o valor transmitido, que pode ser o valor do cadastro ou o valor declarado, se for maior. Por isso, a conta real pode mudar.
 
 ## Documentos que costumam ser pedidos
 
