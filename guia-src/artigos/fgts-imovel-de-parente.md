@@ -65,6 +65,25 @@ Este é o caso em que o FGTS costuma não entrar. Imagine que você quer comprar
 
 Esse manual é material comercial, e não encontrei a mesma regra em texto da Caixa. Por isso, a conclusão mais segura é tratar o caso como não permitido até que o banco confirme por escrito. Se o comprador for o próprio parente que vai morar, o FGTS dele pode ser usado, desde que ele cumpra as condições da tabela acima.
 
+## Quatro situações em família
+
+A regra fica mais clara quando se olha caso a caso. A tabela abaixo resume os cenários mais comuns, sempre supondo que o comprador cumpre as condições da lei.
+
+| Situação | O FGTS pode ser usado? | Ponto de atenção |
+|---|---|---|
+| Você compra a casa do seu pai ou da sua mãe e vai morar nela | Em regra, sim, com o saldo do próprio comprador | O consentimento dos irmãos e do cônjuge do vendedor é exigido pelo artigo 496 |
+| Você compra um imóvel para o seu pai ou a sua mãe morar | Não com o seu saldo, por se tratar de moradia de terceiro | O manual comercial lista esse caso como impedimento |
+| Seu filho compra e vai morar, e você ajuda com a parte que não é financiada | O saldo do filho pode ser usado, se ele cumprir as condições | O seu FGTS não entra na compra, e a sua ajuda deve aparecer no contrato |
+| Você compra a parte de um irmão em um imóvel herdado | O artigo 496 não se aplica, porque não é venda de ascendente para descendente | Os outros donos podem ter preferência, e a fração tem regras próprias, veja [FGTS para comprar fração de imóvel](/artigos/fgts-compra-de-fracao) |
+
+Repare que o artigo 496 fala apenas da venda de ascendente para descendente. Entre irmãos, a venda de uma parte segue outras regras, e a preferência de outros donos pode aparecer. Cada caso precisa ser lido com a matrícula na mão.
+
+## O que o banco pede da família
+
+O formulário de autorização do banco não pergunta sobre parentesco com o vendedor, mas pede dados que afetam a análise. Ele pede o estado civil, a data do casamento ou da união estável e o regime de bens. Pede também a declaração de Imposto de Renda, ou a confirmação de que você é isento e não declara. Por fim, pergunta sobre outros imóveis em nome do comprador no país e sobre imóveis nas cidades onde você mora e trabalha.
+
+Por isso, a família deve reunir esses dados antes da simulação. Se o comprador é casado, o regime de bens muda o que o cônjuge precisa declarar e assinar, e esse tema está em [FGTS de duas pessoas na mesma compra](/artigos/fgts-de-dois-compradores). Se um parente tem imóvel na mesma cidade, a análise passa a depender de onde ele fica em relação à sua moradia, e o tema está em [quem já tem imóvel](/artigos/fgts-de-quem-ja-tem-imovel).
+
 ## Passo a passo antes de assinar
 
 1. **Defina quem compra e quem vai morar.** Se forem pessoas diferentes, o FGTS só serve para o comprador que vai morar.
