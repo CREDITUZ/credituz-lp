@@ -7,12 +7,12 @@ updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "O Banco do Brasil financia imóveis pelo SBPE (poupança), pelo Pró-Cotista (FGTS) e por linhas ligadas ao Minha Casa Minha Vida."
-  - "Em outubro de 2026, a taxa de balcão do SBPE no BB começava em 11,60% ao ano mais TR, e a do Pró-Cotista em 9% ao ano mais TR, segundo a MySide."
+  - "Em outubro de 2026, a taxa de balcão do SBPE no BB começava em 11,60% ao ano mais TR, e a do Pró-Cotista em 9% ao ano mais TR, segundo a MySide. O portal SP Imóvel cita 8,66% ao ano para o mesmo produto; a diferença pode ser de taxa nominal e efetiva, e vale conferir na simulação."
   - "No SBPE, o BB financia até 80% do valor de avaliação, em até 420 meses, segundo levantamento de março de 2026."
   - "Quem recebe salário no BB tende a conseguir taxa menor. Compare sempre pelo CET, não pela taxa mínima."
 faq:
   - q: "Qual a taxa do financiamento imobiliário do Banco do Brasil?"
-    a: "No SBPE, a taxa começava em 11,60% ao ano mais TR em outubro de 2026, segundo a MySide (atualização de 8 de outubro). No Pró-Cotista, a partir de 9% ao ano mais TR. A taxa do seu contrato depende de relacionamento, idade e perfil de crédito."
+    a: "No SBPE, a taxa começava em 11,60% ao ano mais TR em outubro de 2026, segundo a MySide (atualização de 8 de outubro). No Pró-Cotista, a partir de 9% ao ano mais TR segundo a MySide (o SP Imóvel cita 8,66%; confirme a taxa efetiva na simulação). A taxa do seu contrato depende de relacionamento, idade e perfil de crédito."
   - q: "O Banco do Brasil financia quanto do imóvel?"
     a: "No SBPE, até 80% do valor de avaliação, segundo levantamento do portal SP Imóvel com dados do banco (março de 2026). No Pró-Cotista, até 80% em imóvel novo e 50% em usado, pela mesma fonte. Confirme na simulação."
   - q: "Posso usar o FGTS no financiamento do BB?"

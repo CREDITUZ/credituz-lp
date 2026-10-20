@@ -84,7 +84,7 @@ Onde consultar:
 
 ### Desconto de 50% no primeiro imóvel
 
-O artigo 290 da Lei 6.015/1973 (Lei de Registros Públicos) reduz pela metade os emolumentos de atos ligados à primeira aquisição de imóvel residencial financiada pelo SFH. O desconto não é automático. Você pede ao protocolar o registro e apresenta prova de que não tem outro imóvel residencial. Em decisão da Corregedoria Nacional de Justiça (Pedido de Providências 0007496-70.2024), prevaleceu a leitura literal da regra: ter terreno ou sala comercial não impede o desconto, mas ter outro imóvel residencial impede. O desconto não vale para o ITBI.
+O artigo 290 da Lei 6.015/1973 (Lei de Registros Públicos) reduz pela metade os emolumentos de atos ligados à primeira aquisição de imóvel residencial financiada pelo SFH. O desconto não é automático. Você pede ao protocolar o registro e apresenta prova de que não tem outro imóvel residencial. Em decisão da Corregedoria Nacional de Justiça divulgada em 2025 (Pedido de Providências 0007496-70.2024; o acórdão não foi consultado diretamente), a leitura literal da regra foi a que prevaleceu: ter terreno ou sala comercial não impede o desconto, mas ter outro imóvel residencial impede. O desconto não vale para o ITBI.
 
 ## Avaliação do imóvel pelo banco
 
