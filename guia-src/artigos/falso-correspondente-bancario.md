@@ -12,7 +12,7 @@ key_points:
   - "Se você já enviou documentos, registre o que foi enviado, acompanhe seu CPF e avise o banco que o golpe citou."
 faq:
   - q: "Como saber se um correspondente bancário é de verdade?"
-    a: "Peça nome, CNPJ e o banco que ele representa. Confira a empresa na base "Correspondentes no país", do Banco Central, e confirme pelo número oficial do banco se existe proposta no seu CPF."
+    a: "Peça nome, CNPJ e o banco que ele representa. Confira a empresa na base Correspondentes no país, do Banco Central, e confirme pelo número oficial do banco se existe proposta no seu CPF."
   - q: "Posso mandar documentos pelo WhatsApp para um correspondente?"
     a: "Evite. Enviar documentos para quem você não verificou dá a alguém dados suficientes para abrir crédito em seu nome. Só envie depois de confirmar o intermediário pelos canais oficiais."
   - q: "Pedido de selfie com documento na mão é normal em financiamento?"
