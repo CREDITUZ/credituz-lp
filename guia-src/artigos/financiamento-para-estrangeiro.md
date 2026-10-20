@@ -4,7 +4,7 @@ description: "Estrangeiro residente no Brasil pode financiar imóvel urbano. Vej
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 6
 key_points:
   - "A restrição de compra por estrangeiro da Lei 5.709/1971 vale para imóvel rural. Imóvel urbano não é alcançado por ela."
   - "O que pesa no financiamento é a situação migratória (tipo de residência e validade do documento), o CPF regular e a renda comprovada no Brasil."
@@ -93,6 +93,16 @@ Com juros de 11% ao ano, 360 meses e considerando apenas a parcela (sem TR, segu
 O teto de valor do imóvel no SFH é de R$ 2,25 milhões, desde a Resolução CMN 5.255, de 10 de outubro de 2025. O limite de 12% ao ano para juros e encargos no SFH não inclui seguros e tarifas, então o custo total pode ser maior. Veja a diferença entre os sistemas em [SFH e SFI](/artigos/sfh-e-sfi).
 
 Sobre o FGTS, a fonte do setor afirma que o uso no SFH é permitido para brasileiros e para estrangeiros contribuintes. Essa informação não veio de uma norma citada no texto, então confirme as condições no site do FGTS e com o banco antes de contar com esse recurso na entrada.
+
+## Se você chegou ao Brasil há pouco tempo
+
+Muitos estrangeiros chegam com a renda já garantida e um histórico de crédito zerado no Brasil. Esse é um problema comum, e ele não é intransponível. O banco avalia o que consegue ver aqui: CPF, conta, movimentação e pagamentos de contas e de cartão.
+
+O caminho mais prático costuma ser começar a construir esse histórico antes de precisar do financiamento. Isso inclui manter a conta ativa, pagar as contas em dia, usar algum cartão de forma moderada e, se for o caso, ter um vínculo de trabalho formal registrado no Brasil. Não há prazo mágico. O que muda a análise é a regularidade ao longo do tempo.
+
+Enquanto isso, vale simular o financiamento com os números reais, e não com a renda que você espera ter. Uma simulação com a renda comprovada aponta o imóvel que cabe no seu orçamento e evita a frustração de descobrir a recusa depois de visitar apartamentos.
+
+Quem tem patrimônio fora do Brasil pode usar esses bens como reforço, por exemplo com extratos e cartas de referência bancária. Nenhum banco é obrigado a aceitar isso, e o reforço não substitui a renda comprovada no Brasil quando o banco exige essa comprovação.
 
 ## Erros comuns
 

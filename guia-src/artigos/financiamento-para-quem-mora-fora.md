@@ -4,7 +4,7 @@ description: "Quem mora fora pode financiar imóvel no Brasil. Veja documentos, 
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Dá para financiar imóvel no Brasil morando fora, mas o banco pede mais documentos e comprovação de renda do que pediria de quem mora aqui."
   - "Os pontos que mais travam o processo são CPF irregular, falta de conta no Brasil, renda sem comprovação aceita e assinatura à distância."

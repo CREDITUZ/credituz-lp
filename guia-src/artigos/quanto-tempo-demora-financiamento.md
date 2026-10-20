@@ -4,7 +4,7 @@ description: "Veja o prazo de cada etapa do financiamento, da simulação ao reg
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 7
 key_points:
   - "Não existe um prazo oficial único. Estimativas de imprensa colocam o processo completo, da análise até a liberação, entre cerca de um e três meses."
   - "A análise de crédito costuma ser a etapa mais rápida. A avaliação do imóvel e a análise jurídica costumam tomar mais tempo."
@@ -95,6 +95,14 @@ Por isso, ao escolher a data da mudança, deixe folga e não agende a saída do 
 - **Assinar a proposta de compra sem prazo de validade.** Ela deve dizer até quando vale e o que acontece se o banco atrasar.
 - **Assumir dívida nova durante a análise.** Um financiamento de carro ou um cartão com saldo alto podem reduzir a aprovação.
 - **Não acompanhar o processo.** Pergunte o andamento por escrito, com a data da última etapa.
+
+## Imóvel novo na planta e imóvel usado
+
+O prazo muda conforme o tipo de imóvel. No imóvel usado, a análise jurídica costuma ser a mais demorada, porque a matrícula pode ter histórico longo, penhoras antigas ou inventário em aberto. Confira a matrícula e as certidões do vendedor antes de assinar a proposta de compra.
+
+No imóvel na planta, o dinheiro não sai de uma vez. A liberação segue o avanço da obra, em etapas, e o cronograma depende da construtora e do banco. Nesse caso, a conta não é só de prazo de cartório: é de prazo de obra. O guia sobre [juros de obra](/artigos/juros-de-obra) mostra como essa fase costuma funcionar e quanto ela custa.
+
+Em qualquer dos dois casos, a regra prática é a mesma: quanto mais cedo você mostrar ao banco e ao vendedor que os documentos estão completos, menor a chance de a etapa parar à espera de uma certidão que deveria ter sido pedida antes.
 
 ## Como cobrar o cronograma
 
