@@ -53,6 +53,7 @@
 
 ## FGTS
 - [Quanto rende o FGTS e o que isso muda na hora de comprar](https://guia.credituz.ai/artigos/rendimento-do-fgts): Quanto rende o saldo do FGTS em 2026 com TR e 3% ao ano, o efeito do lucro distribuído e por que essa taxa pesa na decisão de usar o saldo na compra.
+- [FGTS para comprar imóvel de pai, mãe, filho ou irmão](https://guia.credituz.ai/artigos/fgts-imovel-de-parente): Dá para usar o FGTS para comprar imóvel de parente? Veja a regra de moradia própria, a venda entre pai ou mãe e filho e o que confirmar antes de assinar.
 - [Como calcular o saldo do FGTS: depósitos, correção e exemplo](https://guia.credituz.ai/artigos/calculo-fgts): Como calcular o saldo do FGTS passo a passo: o depósito de 8%, o 13º, a correção mensal pela TR e os juros de 3% ao ano, com um exemplo de três anos.
 - [Vale a pena usar o FGTS na entrada do imóvel? A conta](https://guia.credituz.ai/artigos/fgts-vale-a-pena-usar-na-entrada): Usar o FGTS na entrada costuma compensar mais que deixar o saldo rendendo, mas depende da taxa do contrato, da sua reserva e da proteção do saldo.
 - [Saque-aniversário e financiamento: dá para usar o FGTS no imóvel?](https://guia.credituz.ai/artigos/saque-aniversario-e-financiamento): Quem aderiu ao saque-aniversário pode usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação de 2026.
@@ -201,7 +202,7 @@
 - [Avaliação do imóvel pelo banco: como funciona e se vier baixa](https://guia.credituz.ai/artigos/avaliacao-do-imovel-pelo-banco): Como o banco avalia o imóvel no financiamento, quanto custa a tarifa e o que fazer se o laudo vier abaixo do preço para não perder a compra, com exemplo.
 
 ## Alternativas
-- [Compra de imóvel em grupo: divisão, nome no contrato e cuidados](https://guia.credituz.ai/artigos/compra-em-grupo-de-imovel): Comprar imóvel com outra pessoa é copropriedade. Veja como dividir entrada e parcela, o que vai na matrícula e os riscos da solidariedade.
+- [Compra de imóvel em grupo: divisão, nome no contrato e cuidados](https://guia.credituz.ai/artigos/compra-em-grupo-de-imovel): Comprar imóvel com outra pessoa é copropriedade. Veja como dividir entrada e parcela, o que vai na matrícula e os riscos da solidariedade na dívida.
 - [Alugar e investir a diferença: a conta com custos de venda](https://guia.credituz.ai/artigos/morar-de-aluguel-e-investir): Quando alugar e investir a diferença vence comprar financiado, com corretagem, IR da venda e ponto de equilíbrio, em exemplo ilustrativo de 2026.
 - [Taxa de administração do consórcio: como funciona e comparar](https://guia.credituz.ai/artigos/consorcio-taxa-de-administracao): Entenda a taxa de administração do consórcio de imóvel: regras do Banco Central, média de 20,84%, antecipação, e como comparar propostas com prazos diferentes.
 - [Riscos do home equity: garantia, juros e perda do imóvel](https://guia.credituz.ai/artigos/home-equity-riscos): Veja os riscos do home equity além da taxa: parcela que aperta, atraso, queda do imóvel, saldo devedor após o leilão e um teste simples antes de assinar.

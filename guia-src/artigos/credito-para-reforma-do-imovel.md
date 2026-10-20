@@ -88,6 +88,18 @@ O crédito só funciona bem se a obra estiver planejada. Alguns cuidados evitam 
 - **Não use o crédito para outra coisa.** Dinheiro de reforma que vai para dívidas ou despesas do dia a dia reduz o que sobra para a obra e aumenta a parcela.
 - **Consulte o profissional antes de mudar a estrutura.** Alterações na estrutura ou na área exigem projeto e responsável técnico. Veja também [averbação da construção](/artigos/averbacao-da-construcao).
 
+## Como comparar duas propostas para a reforma
+
+Duas propostas com a mesma taxa mensal podem custar valores diferentes. Antes de escolher, coloque as propostas lado a lado com estes pontos:
+
+- **CET (Custo Efetivo Total).** Inclui juros, tarifas, seguros e outros encargos. É a base correta para comparar, e não a taxa de juros isolada.
+- **Liberação.** Se o dinheiro cai de uma vez ou em etapas, e quanto tempo passa até a última parcela da obra ser paga.
+- **Carência.** Se há um período sem pagamento de parcelas, e como os juros desse período são cobrados.
+- **Garantia.** Se a casa fica em garantia, quais são as consequências do atraso e qual o custo de registro e de avaliação.
+- **Parcela no pior mês.** Some a parcela a todas as despesas fixas da casa e veja se sobra margem em um mês ruim.
+
+Peça as simulações com os mesmos valores e o mesmo prazo. Só assim a comparação mostra qual proposta custa menos, e não qual tem o número mais bonito no anúncio.
+
 ## Erros comuns
 
 - **Pegar o valor total de uma vez sem perguntar sobre etapas.** O juro sobre o dinheiro parado pode ser evitável.

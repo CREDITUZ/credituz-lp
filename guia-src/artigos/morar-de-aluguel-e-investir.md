@@ -4,7 +4,7 @@ description: "Quando alugar e investir a diferença vence comprar financiado, co
 category: alternativas
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "Alugar e investir a diferença só vence se você investir todo mês o que sobra entre a parcela e o aluguel."
   - "A compra precisa incluir a saída: corretagem de cerca de 6% e imposto de 15% sobre o ganho de capital, além do saldo devedor."
@@ -40,9 +40,7 @@ sources:
 related: [alugar-ou-comprar, investir-ou-quitar-financiamento, ganho-de-capital-venda-de-imovel, custos-para-comprar-imovel]
 ---
 
-Sim, em muitos cenários, mas só depois de incluir o que a compra custa na saída. Alugar e investir a diferença tende a render mais que financiar quando o juro do financiamento fica muito acima da valorização do imóvel. Em outubro de 2026, o CDI está em 13,65% ao ano e o financiamento médio custa cerca de 13,6% ao ano com a TR. Com as premissas deste texto, a compra financiada só empata com o aluguel se o imóvel valorizar cerca de 9,5% ao ano por 10 anos. Use esse número como régua e refaça a conta com os seus valores.
-
-## A resposta curta
+Sim, em muitos cenários, mas só depois de incluir o que a compra custa na saída. Alugar e investir a diferença tende a render mais que financiar quando o juro do financiamento fica muito acima da valorização do imóvel. Com as premissas deste texto, a compra financiada só empata com o aluguel se o imóvel valorizar cerca de 9,5% ao ano por 10 anos. Use esse número como régua e refaça a conta com os seus valores.
 
 Quem aluga e investe a diferença precisa de duas coisas: aplicar todo mês o que sobra entre a parcela e o aluguel, e manter esse dinheiro rendendo perto do CDI. Quem compra financiado precisa que o imóvel suba mais que o custo do financiamento, da corretagem de venda e do imposto sobre o ganho. Segundo a Partnr, o CDI estava em 13,65% ao ano com data de referência de 16 de outubro de 2026. Segundo o MySide, a média de cinco grandes bancos era de 11,40% ao ano mais TR, com dados de 8 de outubro de 2026. Com juros nesse patamar, a conta costuma favorecer quem aluga, desde que a diferença seja investida de verdade.
 
@@ -139,15 +137,13 @@ A tabela mostra o efeito de mudar uma premissa de cada vez, no horizonte de 10 a
 
 Em todos esses cenários, alugar ficou à frente. A valorização do imóvel move o lado da compra, e a disciplina move o lado do aluguel: se só metade da diferença for investida, o patrimônio do locatário cai de R$ 644.521 para R$ 498.976. Isso não inverte a conta no exemplo, mas mostra por que o plano de investir precisa ser automático.
 
-## Erros comuns
+## Erros comuns e o que a planilha não mede
 
 - **Comparar parcela e aluguel sem a entrada.** A entrada e os custos de compra são dinheiro que deixa de render, e esse custo entra na conta.
 - **Esquecer a venda.** Corretagem e IR pesam mais quando o prazo é curto. No exemplo, em 5 anos, o locatário fica com R$ 316.078 contra R$ 183.190 de quem comprou.
 - **Investir só quando sobra.** Se a diferença não for aplicada todo mês, a vantagem do aluguel some.
 - **Usar o CDI de hoje para 30 anos.** O CDI acompanha a Selic, que muda com a política monetária. Quedas de juros mudam o resultado, como o cenário de 10% mostra.
 - **Ignorar a tabela regressiva.** Resgatar um investimento cedo paga IR mais alto. Quem precisa de dinheiro em pouco tempo deve considerar isso antes de investir a diferença.
-
-## Quando a compra ganha
 
 Alguns pontos não entram na planilha e podem pesar a favor da compra. Entre eles, a estabilidade de não depender da renovação do contrato, o valor de ter um endereço fixo e a possibilidade de usar o FGTS na entrada. Esse último ponto muda a conta, porque reduz o dinheiro que sai do seu bolso. Veja [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) antes de decidir. Ainda assim, a conta só fica justa quando esses fatores aparecem com um valor, mesmo que estimado.
 

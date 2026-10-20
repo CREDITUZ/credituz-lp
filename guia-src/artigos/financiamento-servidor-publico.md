@@ -24,8 +24,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm"
   - title: "Código de Defesa do Consumidor, Lei 8.078/1990, art. 52 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "Como comprovar renda para financiar um imóvel em 2026 (Rádio Itatiaia, publicado em 06/07/2026)"
-    url: "https://www.itatiaia.com.br/economia/negocios/como-comprovar-renda-para-financiar-um-imovel-em-2026/"
 related: [minha-casa-minha-vida-servidor-publico, renda-para-financiar-imovel, comprometimento-de-renda, renda-composta]
 ---
 
@@ -37,7 +35,7 @@ Para comprovar renda, o banco costuma pedir os contracheques dos últimos meses 
 
 Antes de simular, pergunte se a análise usa a renda bruta ou a líquida. A diferença muda bastante o valor máximo que cabe na parcela.
 
-Você vai ouvir muito falar em "30% da renda". Em matéria publicada em 6 de julho de 2026, a Rádio Itatiaia registrou que o mercado trabalha com a referência de que a parcela não deve comprometer mais de cerca de 30% da renda familiar mensal. Essa é uma referência de mercado, não uma regra legal. Cada banco define o próprio limite e pode aceitar percentuais diferentes conforme a renda, o prazo e a linha de crédito.
+Você vai ouvir muito falar em "30% da renda". Como referência de mercado, costuma-se considerar que a parcela não deve comprometer mais de cerca de 30% da renda familiar mensal, sem que isso seja regra oficial. Essa é uma referência de mercado, não uma regra legal. Cada banco define o próprio limite e pode aceitar percentuais diferentes conforme a renda, o prazo e a linha de crédito.
 
 ## Consignação: o que é e o que não é
 

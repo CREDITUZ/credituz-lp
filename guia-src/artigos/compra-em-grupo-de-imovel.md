@@ -1,6 +1,6 @@
 ---
 title: "Compra de imóvel em grupo: divisão, nome no contrato e cuidados"
-description: "Comprar imóvel com outra pessoa é copropriedade. Veja como dividir entrada e parcela, o que vai na matrícula e os riscos da solidariedade."
+description: "Comprar imóvel com outra pessoa é copropriedade. Veja como dividir entrada e parcela, o que vai na matrícula e os riscos da solidariedade na dívida."
 category: alternativas
 published: 2026-10-20
 updated: 2026-10-20
@@ -58,7 +58,9 @@ Agora considere duas pessoas, A, com renda de R$ 12.000, e B, com renda de R$ 8.
 
 Na primeira linha, a divisão segue a renda, e o peso da parcela é igual para os dois. Na segunda, B compromete 32,8% da renda com a parcela, e A, 21,9%. Nenhuma das duas é errada, mas a segunda exige que B tenha folga no orçamento ou que haja um acerto combinado por escrito. Os custos de compra também seguem a fração: no caso de 60% e 40%, A paga R$ 16.200 e B paga R$ 10.800.
 
-Cada banco define se aceita a renda somada de mais de um comprador e como faz a conta. Veja o tema em [renda composta](/artigos/renda-composta).
+Cada banco define se aceita a renda somada de mais de um comprador e como faz a conta. Veja o tema em [renda composta](/artigos/renda-composta). Para testar outros valores de imóvel e de renda, use a [calculadora de quanto posso financiar](/quanto-posso-financiar).
+
+Cada comprador também pode usar o próprio FGTS, desde que cumpra as regras da compra. Os detalhes de duas pessoas na mesma compra estão em [FGTS de duas pessoas na mesma compra](/artigos/fgts-de-dois-compradores). Quando a entrada usa FGTS, a divisão desse saldo deve constar no acordo, porque ele altera quanto cada um aporta do próprio bolso.
 
 ## Quem aparece no contrato e na matrícula
 
@@ -73,10 +75,6 @@ Um cuidado frequente: pagar a parte do outro sem que isso conste em nenhum docum
 No financiamento com vários compradores, o contrato pode prever solidariedade. Pelo Código Civil, há solidariedade quando, na mesma obrigação, concorre mais de um devedor, e cada um responde pela dívida inteira (art. 264).
 
 Na prática, isso muda o risco. No exemplo de 60% e 40%, se B deixar de pagar, e o contrato disser que os dois são devedores solidários, o banco pode cobrar de A o valor total de R$ 5.251,38 por mês, e não apenas os R$ 3.150,83 da parte dele. A divisão combinada entre vocês não obriga o banco, porque ela vale na relação entre os dois. Por isso, leia a cláusula antes de assinar e entenda o que ela significa para cada um.
-
-## FGTS, renda somada e o peso de cada um
-
-Cada comprador pode usar o próprio FGTS, desde que cumpra as regras para a compra. Os detalhes de duas pessoas na mesma compra estão em [FGTS de duas pessoas na mesma compra](/artigos/fgts-de-dois-compradores). Quando a entrada é feita com FGTS, a divisão do saldo deve constar no acordo, porque ele altera quanto cada um aporta do próprio bolso.
 
 ## Impostos e custos da compra
 
@@ -99,6 +97,14 @@ Enquanto a dívida do financiamento existir, sair da compra também depende do b
 - **Solidariedade:** a cláusula do contrato com o banco lida e explicada para cada um.
 - **Falecimento:** a fração de quem morre passa aos herdeiros, que passam a ser coproprietários. Um testamento ou um acordo específico pode orientar essa situação.
 - **Orientação profissional:** a combinação entre pessoas que não são casadas pede contrato bem redigido. Procure um advogado para revisar o acordo e as regras de cada caso.
+
+## Erros comuns
+
+- **Dividir de boca.** Um acordo que não está escrito gera conflito quando a renda muda ou quando um dos compradores deixa de pagar.
+- **Pôr no contrato só um nome.** Quem não assina o contrato e não aparece na matrícula fica sem a sua parte formalizada.
+- **Ignorar a solidariedade.** Imaginar que cada um responde só pela sua parte é um erro se o contrato disser o contrário.
+- **Pagar a parte do outro sem registro.** O dinheiro aportado sem documento é difícil de provar depois.
+- **Deixar a saída para depois.** Tratar a saída só quando o problema aparece costuma custar mais do que combinar antes.
 
 ## Resumo
 
