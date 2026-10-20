@@ -71,11 +71,11 @@ Um julgamento recente da 3ª Turma do STJ, no REsp 2.220.656, foi noticiado em j
 
 "Sem contrato" pode significar três situações diferentes, e a resposta muda em cada uma.
 
-A primeira é a locação verbal, em que o imóvel é alugado sem papel, mas há aluguel combinado e pago. A Lei 8.245/1991 trata também das locações ajustadas verbalmente (art. 47). Nesse caso, o caminho continua sendo o despejo, e não a troca de fechadura.
+A primeira é a locação verbal, em que o imóvel é alugado sem papel, mas há aluguel combinado e pago. A Lei 8.245/1991 trata também das locações ajustadas verbalmente (art. 47), e das que não têm prazo escrito de pelo menos 30 meses. Nesses casos, o artigo 47 limita as hipóteses em que o locador pode retomar o imóvel. A retomada se faz em juízo, e não pela troca de fechadura.
 
 A segunda é o comodato, a cessão gratuita, por exemplo a um parente. O artigo 581 do Código Civil diz que, sem prazo convencional, presume-se o tempo necessário para o uso concedido. O dono não pode retomar o imóvel antes disso, salvo necessidade imprevista e urgente reconhecida pelo juiz. Ou seja, o pedido de volta também passa pela Justiça nessa hipótese.
 
-A terceira é a ocupação sem qualquer permissão, quando alguém entra no imóvel sem autorização do dono. Nesse caso, o caminho é a ação de reintegração de posse. O Código de Processo Civil, no artigo 560, garante ao possuidor a reintegração em caso de esbulho, e a disputa sobre a posse é decidida no processo. A autodefesa do artigo 1.210 não serve para substituir essa ação, e o uso da força deve ser evitado.
+A terceira é a ocupação sem qualquer permissão, quando alguém entra no imóvel sem autorização do dono. Nesse caso, o caminho é a ação de reintegração de posse. O Código de Processo Civil, no artigo 560, garante ao possuidor a reintegração em caso de esbulho, e a disputa sobre a posse é decidida no processo. A autodefesa do § 1º do artigo 1.210 é limitada aos atos imediatos e não substitui essa ação, e o uso da força deve ser evitado.
 
 ## Quando reter as chaves
 
@@ -101,7 +101,7 @@ Se, em vez disso, o locatário saísse sem aviso, o dono poderia exigir R$ 2.000
 
 - **Trocar a fechadura para forçar pagamento ou saída.** Pode gerar indenização e, conforme o caso, responsabilidade criminal.
 - **Reter as chaves até a dívida ser paga.** A dívida se cobra pelo caminho próprio, e não pela posse do imóvel.
-- **Condicionar a entrega a algo que o contrato não prevê.** O julgamento citado acima, em locação não residencial, mostra o risco.
+- **Condicionar a entrega a algo que o contrato não prevê.** A notícia citada acima, sobre locação não residencial, mostra que essa exigência foi questionada na Justiça.
 - **Entrar no imóvel sem agendar.** A vistoria exige combinação prévia de dia e hora.
 - **Não registrar a devolução.** Sem data, estado do imóvel e assinatura, a discussão sobre danos e aluguel fica sem prova.
 
@@ -112,7 +112,7 @@ Quem devolve as chaves e quem as recebe deveriam ter a mesma versão do que acon
 ## Resumo
 
 - Em regra, o dono não pode reter as chaves de quem tem a posse do imóvel. O caminho é a ação de despejo ou a reintegração de posse, conforme o caso (Lei 8.245/1991, art. 5º).
-- Com contrato, a devolução das chaves encerra a posse do locatário e deve ser registrada (art. 23, inciso III).
+- Com contrato, a entrega efetiva das chaves costuma encerrar a posse do locatário, e deve ser registrada (art. 23, inciso III).
 - Na locação por prazo indeterminado, o aviso de 30 dias (art. 6º) define a entrega, e a falta dele permite a cobrança de um mês de aluguel.
 - Sem contrato escrito, verifique se há locação verbal, comodato ou ocupação sem permissão, porque o caminho muda.
 - A vistoria exige dia e hora combinados (art. 23, inciso IX).
