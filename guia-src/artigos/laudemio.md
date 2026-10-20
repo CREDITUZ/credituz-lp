@@ -85,11 +85,11 @@ Antes de assinar, peça ao vendedor a comprovação de que está em dia com a SP
 4. Depois do pagamento, a SPU emite a CAT, certidão do órgão que libera a transferência e tem validade de 90 dias.
 5. Confirme com o cartório de registro a ordem em que os documentos são exigidos no seu caso, porque o procedimento depende do momento da escritura ou do registro.
 
-O [ITBI](/artigos/itbi), que é um imposto municipal, não substitui o laudêmio. Os dois podem ser cobrados na mesma compra, e ambos entram na conta de custos.
+O [ITBI](/artigos/itbi) (Imposto sobre Transmissão de Bens Imóveis), que é um imposto municipal, não substitui o laudêmio. Os dois podem ser cobrados na mesma compra, e ambos entram na conta de custos.
 
 ## A PEC que pode acabar com a cobrança
 
-A PEC 3/2022, antiga PEC 39/2011, propõe revogar o inciso VII do artigo 20 da Constituição, que trata dos terrenos de marinha como bens da União. Com isso, a cobrança do laudêmio deixaria de existir. A proposta foi aprovada na Câmara dos Deputados, mas, segundo a notícia consultada, a votação na CCJ do Senado foi adiada após pedido de vista, sem nova data definida. Não consegui confirmar movimentação posterior, então verifique a tramitação no site do Senado.
+A PEC (Proposta de Emenda à Constituição) 3/2022, antiga PEC 39/2011, propõe revogar o inciso VII do artigo 20 da Constituição, que trata dos terrenos de marinha como bens da União. Com isso, a cobrança do laudêmio deixaria de existir. A proposta foi aprovada na Câmara dos Deputados, mas, segundo a notícia consultada, a votação na Comissão de Constituição e Justiça (CCJ) do Senado foi adiada após pedido de vista, sem nova data definida. Não consegui confirmar movimentação posterior, então verifique a tramitação no site do Senado.
 
 Enquanto a proposta não virar emenda à Constituição, a cobrança segue as regras atuais. Não conte com a extinção do laudêmio ao negociar um imóvel.
 

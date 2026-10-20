@@ -48,7 +48,7 @@ O custo de aquisição é a base da conta. Quanto maior ele for, menor o lucro t
 | Benfeitorias comprovadas, como reformas que aumentam o imóvel | Sim | Notas fiscais e contratos das obras |
 | Juros do financiamento | Em certas condições | Veja o [artigo sobre declaração de IR e financiamento](/artigos/declaracao-de-imposto-de-renda-e-financiamento) |
 
-A corretagem da venda é informada em um campo próprio da guia do programa GCAP, e não entra na mesma lista. Confira a regra vigente na própria ferramenta antes de declarar.
+A corretagem da venda é informada em um campo próprio da guia do programa GCAP (Ganhos de Capital), e não entra na mesma lista. Confira a regra vigente na própria ferramenta antes de declarar.
 
 Guarde todos os comprovantes desde a compra. Sem eles, a Receita pode desconsiderar a despesa, e o ganho fica maior.
 
@@ -102,7 +102,7 @@ A venda é registrada no programa GCAP (Ganhos de Capital), da Receita Federal. 
 
 Depois, a operação entra na declaração anual do IR. Guarde o contrato de venda, a escritura de venda, os comprovantes da compra e as notas das benfeitorias, porque a Receita pode pedir essa documentação.
 
-Segundo um guia de março de 2026, para a maioria das pessoas físicas, a reforma tributária não mudou o cálculo do imposto sobre a venda de imóvel neste ano. As regras de CBS e IBS atingem, em geral, pessoas físicas equiparadas a empresas, por exemplo quem vende vários imóveis em pouco tempo.
+Segundo um guia de março de 2026, para a maioria das pessoas físicas, a reforma tributária não mudou o cálculo do imposto sobre a venda de imóvel neste ano. As regras da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS) atingem, em geral, pessoas físicas equiparadas a empresas, por exemplo quem vende vários imóveis em pouco tempo.
 
 ## Quando a conta pode mudar
 

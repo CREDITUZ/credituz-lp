@@ -71,7 +71,7 @@ Exemplo ilustrativo: se a escritura for assinada em março de 2029, a restriçã
 
 ## Cessão do contrato: precisa de autorização da Caixa
 
-Muita gente tenta passar o contrato adiante, com um acordo informal, quando a família muda de cidade ou não consegue mais pagar. Esse caminho é arriscado. Segundo o Consultor Jurídico, em artigo de 24 de maio de 2022, o Superior Tribunal de Justiça decidiu, no REsp 1.950.000, que a cessão da posição do arrendatário no PAR só é válida se três condições forem atendidas:
+Há quem tente passar o contrato adiante por acordo informal, por exemplo quando a família muda de cidade ou não consegue mais pagar. Esse caminho é arriscado. Segundo o Consultor Jurídico, em artigo de 24 de maio de 2022, o Superior Tribunal de Justiça decidiu, no REsp 1.950.000, que a cessão da posição do arrendatário no PAR só é válida se três condições forem atendidas:
 
 - o novo arrendatário atende aos critérios de ingresso no programa, que o Ministério das Cidades define e que não podem ser flexibilizados;
 - a fila de interessados é respeitada;
