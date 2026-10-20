@@ -29,8 +29,8 @@ sources:
     url: "https://www.bcb.gov.br/fis/info/correspondentes.asp"
   - title: "Febraban alerta que criminosos têm usado nome da entidade para aplicar golpes (Mercado & Consumo, 09/10/2026)"
     url: "https://mercadoeconsumo.com.br/09/10/2026/economia/febraban-alerta-que-criminosos-tem-usado-nome-da-entidade-para-aplicar-golpes/"
-  - title: "Banco Central: Instrução Normativa BCB 766/2026, Manual Operacional do DICT (Pix), com regras do MED"
-    url: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=766"
+  - title: "Xataka: nova regra do Pix amplia de 30 para 80 dias o prazo de contestação de devolução pelo MED (recebedor)"
+    url: "https://www.xataka.com.br/diversos/nova-regra-do-pix-ja-esta-valendo-mudanca-aumenta-protecao-golpes"
   - title: "Caixa: imóveis à venda (site oficial)"
     url: "https://venda-imoveis.caixa.gov.br/sistema/busca-imovel.asp"
   - title: "Decreto 21.981/1932 (profissão de leiloeiro), art. 24: comissão (Planalto)"
@@ -117,7 +117,7 @@ Em um financiamento real, Joana não pagaria nada disso antes de assinar. O que 
 
 Aja rápido. As primeiras horas são as que mais contam.
 
-1. **Avise o seu banco imediatamente.** Use o app ou o telefone oficial. Se o pagamento foi por Pix, peça a abertura do MED (Mecanismo Especial de Devolução). Pelas regras do Pix definidas pelo Banco Central, o pedido pode ser feito em até 80 dias da transferência, mas a chance de recuperar diminui conforme o dinheiro é movimentado.
+1. **Avise o seu banco imediatamente.** Use o app ou o telefone oficial. Se o pagamento foi por Pix, peça a abertura do MED (Mecanismo Especial de Devolução). Pelas regras do Pix, a vítima pode pedir a devolução pelo MED em até 80 dias contados da transferência. Esse prazo não mudou em 2026: a alteração recente de 30 para 80 dias vale para o recebedor, que quer contestar uma devolução já feita. A chance de recuperar o dinheiro diminui conforme ele é movimentado.
 2. **Registre boletim de ocorrência.** Muitos estados permitem fazer pela delegacia online. Guarde o número.
 3. **Junte as provas.** Comprovantes, prints de conversas, números de telefone, endereço do site, nomes e CNPJs usados.
 4. **Se entregou documentos, proteja o CPF.** Acompanhe o seu relatório no [Registrato](/artigos/registrato) para ver se alguém abriu conta ou contratou crédito no seu nome, e consulte os bureaus.
