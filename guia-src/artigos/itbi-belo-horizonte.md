@@ -1,144 +1,91 @@
 ---
-title: "ITBI em Belo Horizonte: alíquota, redução de 50% e como emitir"
-description: "ITBI em BH em 2026: alíquota de 3%, redução de 50% até R$ 254.292,79 para o primeiro imóvel P1, isenções do MCMV, como declarar a DTIIV e exemplo calculado."
+title: "ITBI em Belo Horizonte: alíquota, redução de 50% e como pagar"
+description: "ITBI em BH: alíquota de 3% desde 2014, redução de 50% para o primeiro imóvel P1 dentro do teto anual e exemplo de cálculo. Confira o valor do ano na prefeitura."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 6
 key_points:
-  - "Em Belo Horizonte, o ITBI é 3% da base de cálculo desde 1º de maio de 2014 (Lei municipal 10.692/2013)."
-  - "Quem não tem outro imóvel e compra casa ou apartamento residencial de padrão P1, com base de até R$ 254.292,79, paga metade do imposto em 2026."
-  - "Financiar não reduz o ITBI em BH. A redução depende de ser o único imóvel, do padrão do imóvel e do valor."
-  - "Há isenção para imóvel residencial de valor venal até R$ 74.595,39 e para mutuários do Minha Casa, Minha Vida dentro dos limites de renda e valor."
-  - "A guia sai pela Declaração de ITBI (DTIIV) no portal da prefeitura, vale 120 dias e a certidão de quitação pode ser pedida 3 dias úteis após o pagamento."
+  - "Em Belo Horizonte, o ITBI é 3% da base de cálculo, alíquota fixada pela Lei municipal 10.692/2013."
+  - "A mesma lei prevê redução de 50% para o comprador que não tem outro imóvel e compra imóvel residencial de padrão P1, até um teto que é corrigido todo ano."
+  - "Não encontrei, na lei de Belo Horizonte, redução específica para a parte financiada. Confirme com a prefeitura antes de contar com qualquer desconto."
+  - "A base de cálculo é o valor que a prefeitura aceita para o imóvel. Se ela discordar do valor declarado, o contribuinte pode contestar o lançamento."
+  - "Antes de assinar a escritura ou pedir o registro, o imposto precisa estar pago. Confira prazos e forma de pagamento no portal da prefeitura."
 faq:
-  - q: "Qual é a alíquota do ITBI em Belo Horizonte em 2026?"
-    a: "É 3% da base de cálculo, desde maio de 2014. Para o primeiro imóvel residencial de padrão P1 com base de até R$ 254.292,79, o imposto cai pela metade, o que equivale a 1,5%."
-  - q: "Quem financia pelo SFH paga ITBI menor em BH?"
-    a: "Não por financiar. A legislação de Belo Horizonte não tem alíquota reduzida para a parte financiada. Os benefícios dependem do valor, do padrão do imóvel e de não ter outro imóvel, ou de programas como o Minha Casa, Minha Vida."
-  - q: "Quanto tempo vale a guia do ITBI em Belo Horizonte?"
-    a: "Segundo a prefeitura, 120 dias. Depois disso, a guia é cancelada e você precisa fazer uma nova declaração."
-  - q: "Posso parcelar o ITBI em BH?"
-    a: "Sim, a prefeitura oferece parcelamento pelo portal. Mas a certidão negativa só sai depois da última parcela, e o imóvel não pode ser registrado antes do pagamento total."
-  - q: "E se eu discordar do valor que a prefeitura usou?"
-    a: "Você pode apresentar reclamação contra o lançamento em até 30 dias do recebimento da notificação, que é o demonstrativo de cálculo gerado na declaração."
+  - q: "Qual é a alíquota do ITBI em Belo Horizonte?"
+    a: "É 3% sobre a base de cálculo, conforme a Lei municipal 10.692/2013. A mesma lei prevê redução de 50% em casos específicos, como o primeiro imóvel residencial de padrão P1."
+  - q: "Financiar reduz o ITBI em BH?"
+    a: "Não encontrei regra de redução específica para a parte financiada na lei de Belo Horizonte. Em São Paulo, por exemplo, há essa diferença. Em BH, o que pode reduzir o imposto é o enquadramento na redução de 50%, não o financiamento."
+  - q: "O que acontece se eu tiver outro imóvel?"
+    a: "A redução de 50% depende de você não ser proprietário de outro imóvel. Como a regra considera também o cônjuge ou companheiro, o casal inteiro precisa atender à condição."
+  - q: "Posso contestar o valor que a prefeitura usou como base?"
+    a: "Sim. A prefeitura informa o cálculo ao contribuinte, e é possível pedir revisão do lançamento dentro do prazo indicado no próprio documento. Em valores altos, vale consultar um advogado tributarista."
 sources:
-  - title: "Prefeitura de Belo Horizonte: ITBI, alíquota, base de cálculo, reduções e isenções"
-    url: "https://prefeitura.pbh.gov.br/fazenda/tributos/ITBI"
-  - title: "Prefeitura de Belo Horizonte: Lei 10.692/2013 (alíquota de 3% e redução de 50%)"
+  - title: "Lei municipal 10.692/2013, Belo Horizonte (alíquota de 3% e redução de 50%)"
     url: "https://fazenda.pbh.gov.br/internet/legislacao/findkey.asp?key=L10692"
-  - title: "Prefeitura de Belo Horizonte: Declaração de ITBI"
-    url: "https://prefeitura.pbh.gov.br/fazenda/itbi/avaliacao"
-  - title: "Portal de Serviços PBH: ITBI, revisão de lançamento"
-    url: "https://servicos.pbh.gov.br/servicos/i/5e864d1fd9521a26a9a8d43c/servicos+itbi-revisao-de-lancamento"
-  - title: "Portal de Serviços PBH: ITBI, parcelamento"
-    url: "https://servicos.pbh.gov.br/servicos/i/5e84dc39d9521a26a98b3870/servicos+itbi-parcelamento"
   - title: "STJ, Tema 1.113: teses sobre a base de cálculo do ITBI (resumo)"
     url: "https://juris.damasio.com.br/temas/stj/1113"
 related: [itbi, custos-para-comprar-imovel, registro-de-imovel-passo-a-passo, minha-casa-minha-vida]
 ---
 
-Em Belo Horizonte, o ITBI (Imposto sobre Transmissão de Bens Imóveis) é 3% da base de cálculo, desde 1º de maio de 2014. Quem compra o primeiro imóvel, sem ter outro em nome próprio ou do cônjuge, paga metade se o imóvel for residencial de padrão P1 e a base de cálculo ficar em até R$ 254.292,79, valor de 2026 informado pela prefeitura. Diferente de São Paulo, financiar não dá desconto. A guia é emitida pela Declaração de ITBI no portal da prefeitura e precisa estar paga antes da escritura ou do registro.
+Em Belo Horizonte, o ITBI (Imposto sobre Transmissão de Bens Imóveis) é 3% sobre a base de cálculo. A alíquota foi fixada pela Lei municipal 10.692/2013, que vale desde 2014. A mesma lei criou uma redução de 50% para quem compra o primeiro imóvel residencial, com padrão P1, e não tem outro imóvel em seu nome nem no de seu cônjuge ou companheiro.
 
-As regras gerais do imposto, como quem paga e a discussão sobre base de cálculo no STJ, estão no artigo sobre [ITBI](/artigos/itbi). Aqui o foco é a capital mineira, com as regras conferidas no site da Prefeitura de Belo Horizonte (PBH) em outubro de 2026.
+Este artigo trata só da capital mineira. As regras gerais do imposto, como quem paga e a discussão sobre a base de cálculo, estão no artigo sobre [ITBI](/artigos/itbi). Os custos de um imóvel, incluindo o imposto, estão em [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
 
-## Alíquota e benefícios em 2026
+## Alíquota de 3%
 
-A alíquota de 3% vem da Lei municipal 10.692/2013, que subiu o imposto de 2,5% para 3% a partir de maio de 2014. A mesma lei criou a redução de 50% para o comprador de imóvel simples que não tem outro.
+A alíquota de 3% é a regra geral. Na prática, o imposto é calculado sobre a base que a prefeitura aceita para o imóvel. Quando o comprador declara um valor, a prefeitura pode aceitá-lo ou apurar outro, geralmente com base no valor venal do imóvel, que é o valor de referência usado pelo município para o cadastro. Por isso, o valor da escritura nem sempre é o valor sobre o qual o imposto incide.
 
-| Situação | Como fica o ITBI em 2026 |
-|---|---|
-| Regra geral, à vista ou financiado | 3% sobre a base de cálculo |
-| Primeiro imóvel, residencial, padrão P1, base até R$ 254.292,79 | Redução de 50% (equivale a 1,5%) |
-| Imóvel residencial com valor venal até R$ 74.595,39 | Isento |
-| Mutuário do Minha Casa, Minha Vida com renda familiar até 6 salários mínimos, contrato até R$ 225.556,19 e valor apurado pela prefeitura até R$ 270.643,13 | Isento |
-| Programas PAR, URBEL e COHAB-MG, renda até 6 salários mínimos, valor venal até R$ 326.347,82 | Isento |
+Como exemplo ilustrativo, um apartamento avaliado em R$ 500.000 pela prefeitura, sem nenhuma redução, gera ITBI de R$ 15.000 (R$ 500.000 × 3%).
 
-Os limites em reais são atualizados todo ano. A própria Lei 10.692/2013 trazia, para a redução de 50%, um teto original de R$ 158.326,90, que foi corrigido até chegar ao valor de 2026. Por isso, confira a página de ITBI da PBH na semana em que for declarar.
+## Redução de 50%
 
-### Condições da redução de 50%
+A redução de 50% é o principal benefício para quem compra o primeiro imóvel. Pela lei, ela exige que o imóvel seja residencial, de padrão P1 e que o comprador não seja dono de outro imóvel. Como regra geral, o cônjuge ou companheiro também precisa atender à condição.
 
-A lei exige três condições ao mesmo tempo:
+A lei fixa um teto em reais para a base de cálculo, acima do qual a redução não se aplica. O teto original, de R$ 158.326,90, foi corrigido ao longo dos anos. O valor vigente em cada ano é publicado pela prefeitura, e vale consultar esse número antes de fechar o negócio, porque ele muda.
 
-1. **Você não tem outro imóvel.** Nem você, nem seu cônjuge ou companheiro podem ser donos ou promitentes compradores de outro imóvel. Repare que a lei fala em qualquer imóvel, não só residencial.
-2. **O imóvel é casa, apartamento ou barracão de padrão de acabamento P1**, a classificação mais simples do cadastro imobiliário da prefeitura. Se você não sabe o padrão do imóvel, pergunte à prefeitura antes de contar com o desconto.
-3. **O uso é exclusivamente residencial**, como moradia sua.
+Exemplo ilustrativo: um apartamento P1 de R$ 240.000, comprado por quem não tem outro imóvel, pagaria R$ 7.200 sem redução. Com a redução de 50%, o imposto cairia para R$ 3.600. A conta só vale se a base de cálculo estiver dentro do teto vigente no ano da compra. Acima dele, o imposto volta a ser calculado sem o desconto.
 
-As condições 1 e 3 são provadas por declaração assinada por você e pelo cônjuge ou companheiro. A prefeitura pode conferir depois. Declarar algo falso para obter o desconto gera cobrança do imposto com multa.
+## Financiamento
 
-Atenção ao limite: ele funciona como um corte. Se a base de cálculo passar de R$ 254.292,79, mesmo que por poucos reais, a redução deixa de valer e o imposto volta a ser 3% sobre o valor inteiro.
+Em São Paulo, a parte financiada pelo SFH (Sistema Financeiro da Habitação) tem alíquota reduzida. Em Belo Horizonte, não encontrei regra equivalente na lei municipal. Por isso, não conte com desconto por financiar. Se o banco ou o vendedor sugerir outra coisa, peça a base legal por escrito e confirme com a prefeitura.
 
-### Financiamento não reduz o imposto
+Outras isenções e benefícios podem existir para situações específicas, como alguns programas habitacionais. Como as condições mudam, o caminho mais seguro é confirmar na prefeitura, com base no imóvel e na renda do comprador.
 
-Muita gente procura em BH um desconto parecido com o paulistano, em que a parte financiada pelo SFH (Sistema Financeiro da Habitação) paga 0,5%. A legislação de Belo Horizonte não tem essa regra. Os benefícios dependem do valor, do padrão e de você não ter outro imóvel, ou de programas habitacionais. Para entender o modelo de São Paulo, veja [ITBI em São Paulo](/artigos/itbi-sao-paulo).
+## Como declarar e pagar
 
-## Base de cálculo em BH
+O ITBI é declarado pelo comprador ou pelo vendedor no portal da prefeitura, com os dados do imóvel, o número do IPTU, o valor da transação e a proporção que está sendo transferida. Depois da declaração, a prefeitura calcula o imposto e emite a guia de pagamento.
 
-A PBH informa que a base do ITBI é o valor venal do imóvel ou o valor declarado pelo comprador, o que for maior. O valor informado na Declaração de ITBI, que a prefeitura chama de DTIIV, é presumido verdadeiro, mas a prefeitura avisa que pode desconsiderá-lo.
+Antes de pagar, confira o demonstrativo de cálculo. Ele mostra a base usada pela prefeitura e a alíquota aplicada. Se houver redução ou isenção que não apareceu, é preciso pedir a correção antes do vencimento.
 
-Em 2022, o STJ (Superior Tribunal de Justiça) fixou no Tema 1.113 que o valor declarado é presumido correto e só pode ser afastado por processo administrativo próprio, e que o município não pode impor uma base de antemão por tabela própria. A Lei Complementar 227/2026 reabriu a discussão nos tribunais estaduais, como mostra o artigo sobre [ITBI](/artigos/itbi).
+O pagamento deve acontecer antes da lavratura da escritura, quando a compra é feita por escritura pública. Quando o contrato de financiamento precisa ser registrado, o imposto também deve estar pago antes do registro no cartório de imóveis. Os prazos de validade da guia e as formas de parcelamento mudam, por isso confirme no portal da prefeitura antes de agendar a escritura.
 
-Em Belo Horizonte, o caminho para discordar está previsto pela própria prefeitura: o demonstrativo de cálculo que sai na declaração vale como notificação, e você tem 30 dias a partir dele para apresentar reclamação contra o lançamento pelo Portal de Serviços. Em valores altos, consulte um advogado tributarista.
+Se o imposto não for pago, o débito pode ser inscrito em dívida ativa, o que traz cobrança e possível protesto. Para a quitação e a certidão necessária ao registro, veja o passo a passo em [registro de imóvel](/artigos/registro-de-imovel-passo-a-passo).
 
-## Como emitir a guia, passo a passo
+## Checklist antes de declarar
 
-1. **Reúna os dados.** Número do IPTU (índice cadastral) do imóvel, matrícula, CPF de compradores e vendedores, valor da transação e a proporção que está sendo transferida. O [checklist de documentos para financiamento](/artigos/documentos-para-financiamento) cobre o restante do que o banco e o cartório pedem.
-2. **Faça a Declaração de ITBI.** No portal da Fazenda da PBH, acesse "Declaração do ITBI". A declaração pode ser feita pelo comprador ou pelo vendedor. Para declarar em nome de outra pessoa sem passar por cartório, a prefeitura indica o serviço "ITBI: Declaração" no Portal de Serviços, com procuração eletrônica.
-3. **Ou declare no cartório de notas.** Em compras de 100% ou 50% do imóvel com IPTU atualizado, o tabelionato pode fazer a declaração para você.
-4. **Confira o demonstrativo de cálculo.** Ele traz a base usada pela prefeitura e o imposto. Se houver redução ou isenção, confira se ela foi aplicada.
-5. **Pague a guia na rede bancária credenciada**, até o vencimento. A guia tem validade de 120 dias. Passado esse prazo, ela é cancelada e você precisa declarar de novo.
-6. **Peça a certidão.** Depois de 3 dias úteis do pagamento, emita a certidão negativa na modalidade de ITBI e leve ao cartório.
+Reúna estes dados antes de abrir o portal, para não precisar corrigir a declaração depois:
 
-Se precisar corrigir um dado depois de declarar, o portal tem a opção "Correção". Isenções que não aparecem automaticamente são pedidas pelo serviço de isenção de ITBI no Portal de Serviços.
+1. **Número do IPTU.** É o índice cadastral do imóvel. Ele permite à prefeitura localizar o imóvel e conferir a metragem e o padrão.
+2. **Matrícula atualizada.** Confirma o proprietário atual e se existe ônus, como alienação fiduciária ou hipoteca.
+3. **Valor da transação e proporção transferida.** Se a compra for de parte do imóvel, a base de cálculo é proporcional à fração vendida.
+4. **Documentos pessoais do comprador e do vendedor.** Os dados são exigidos para a identificação das partes.
+5. **Comprovante de que o comprador não tem outro imóvel.** Essa informação é necessária para pedir a redução de 50%, e a prefeitura pode pedir comprovação adicional.
 
-## Prazo de pagamento e parcelamento
+Se o imóvel for adquirido com financiamento, leve o contrato de compra e venda e a simulação do banco. Esses documentos ajudam a conferir o valor declarado e a data prevista para a escritura.
 
-O pagamento precisa acontecer antes da lavratura da escritura, quando a compra é por escritura pública. Quando o documento é um instrumento particular com força de escritura, como o contrato de financiamento do banco, o ITBI deve estar pago antes do registro no cartório de imóveis.
+## Como a base pode ser contestada
 
-A prefeitura permite parcelar o ITBI. O detalhe que pesa: a certidão negativa só é emitida depois da última parcela, e o imóvel não pode ser registrado antes da quitação. Em financiamento, isso costuma ser um problema, porque o banco só libera o dinheiro ao vendedor depois do registro. Antes de parcelar, pergunte ao banco qual prazo ele dá para apresentar o contrato registrado.
-
-Se a guia não for paga, o débito pode ir para a dívida ativa e ser protestado.
-
-## Exemplo prático com números
-
-Exemplo ilustrativo, com as regras de 2026 e supondo que a prefeitura aceite o preço como base de cálculo.
-
-**Caso 1: apartamento de R$ 500.000, financiado.** Não há redução, porque o valor passa do limite.
-
-- ITBI: R$ 500.000 × 3% = **R$ 15.000**
-
-**Caso 2: primeiro imóvel, apartamento P1 de R$ 240.000, financiado.** O comprador não tem outro imóvel e vai morar nele.
-
-- ITBI sem redução: R$ 240.000 × 3% = R$ 7.200
-- Com a redução de 50%: **R$ 3.600**
-
-Outros cenários calculados com as mesmas regras:
-
-| Imóvel | Situação | ITBI |
-|---|---|---|
-| R$ 240.000 | Primeiro imóvel, P1, residencial | R$ 3.600,00 |
-| R$ 254.292,79 | Exatamente no limite, mesmas condições | R$ 3.814,39 |
-| R$ 260.000 | Acima do limite, mesmas condições | R$ 7.800,00 |
-| R$ 240.000 | Comprador já tem outro imóvel | R$ 7.200,00 |
-| R$ 500.000 | Qualquer comprador | R$ 15.000,00 |
-
-A terceira linha mostra o efeito do corte: passar do limite em pouco mais de R$ 5.700 dobra o imposto. Se o imóvel está perto do teto, confira com a prefeitura como ela vai calcular a base antes de fechar o preço.
+Se o valor da prefeitura for maior que o declarado, vale entender o motivo antes de pagar. Em muitos casos, a diferença vem de dados do cadastro, como metragem ou padrão, e pode ser corrigida com documentação. Quando a discordância é sobre o próprio valor de mercado, a contestação é um processo administrativo, que deve seguir o prazo indicado no lançamento. O STJ, no Tema 1.113, tratou dos limites para a prefeitura desconsiderar o valor declarado, e vale ler o resumo antes de contestar.
 
 ## Erros comuns
 
-- **Esperar desconto por financiar.** Em BH, o financiamento não muda a alíquota. Reserve 3% do valor, salvo se você se enquadra em redução ou isenção.
-- **Esquecer que o cônjuge conta.** Se o seu cônjuge ou companheiro tem outro imóvel, a redução de 50% não vale.
-- **Deixar a guia vencer.** Depois de 120 dias, é preciso declarar tudo de novo.
-- **Parcelar sem combinar com o banco.** Sem quitação total, não há registro, e sem registro o banco não libera o dinheiro.
-- **Não conferir o demonstrativo.** O prazo de 30 dias para reclamar começa com ele.
-- **Declarar valor abaixo do real.** Além de ilegal, o banco tem o laudo de avaliação, e a diferença chama atenção.
+- **Contar com desconto por financiar.** Em BH, não encontrei essa regra na lei municipal. Reserve 3% do valor, salvo se houver enquadramento em redução ou isenção.
+- **Esquecer o cônjuge.** Se ele tem outro imóvel, a redução de 50% pode não valer.
+- **Ignorar o teto.** Uma base de cálculo um pouco acima do limite vigente elimina a redução inteira.
+- **Não conferir o demonstrativo.** Erros de área, padrão ou valor só aparecem se alguém olhar o cálculo.
+- **Atrasar o pagamento.** Sem o imposto pago, a escritura ou o registro não saem, e o banco não libera o financiamento.
 
-## Resumo e próximos passos
+## Resumo
 
-Em Belo Horizonte, o ITBI é 3%, sem desconto por financiamento. O primeiro imóvel residencial de padrão P1 com base de até R$ 254.292,79 paga metade, e há isenções para imóveis de valor muito baixo e para o Minha Casa, Minha Vida dentro dos limites de 2026.
-
-1. Confira na página de ITBI da PBH os limites do ano e se o imóvel é P1.
-2. Faça a declaração perto da assinatura e confira o demonstrativo de cálculo.
-3. Pague antes da escritura ou do registro e emita a certidão após 3 dias úteis.
-4. Siga para o cartório, como explica o [registro de imóvel passo a passo](/artigos/registro-de-imovel-passo-a-passo), e some tudo aos [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
-5. Simule a parcela no [simulador de financiamento](/simulador).
+Em Belo Horizonte, o ITBI é 3%, e a lei municipal prevê uma redução de 50% para o primeiro imóvel residencial de padrão P1, dentro de um teto que é corrigido todo ano. Não encontrei desconto específico para a parte financiada. Antes de fechar o negócio, confirme na prefeitura o teto do ano, o padrão do imóvel e as isenções aplicáveis, e calcule o imposto com o valor que será usado como base.
