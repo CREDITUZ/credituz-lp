@@ -4,7 +4,7 @@ description: "Prioridade de idosos em programas habitacionais, reserva de 3% das
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O Estatuto da Pessoa Idosa (Lei 10.741/2003, art. 38) dá prioridade a idosos em programas habitacionais públicos ou subsidiados, com reserva de pelo menos 3% das unidades."
   - "No seguro habitacional (Resolução CNSP 447/2022, art. 13), a soma da idade com o prazo do financiamento tem como referência o limite de 80 anos e 6 meses. Cada banco tem política própria de prazo."

@@ -4,7 +4,7 @@ description: "Quais programas habitacionais dão prioridade à pessoa com defici
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "A Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) dá prioridade à pessoa com deficiência em programas habitacionais públicos ou subsidiados, com reserva de pelo menos 3% das unidades."
   - "No Minha Casa Minha Vida, a deficiência é um dos critérios de prioridade da seleção, mas a vaga depende da classificação e das unidades disponíveis."

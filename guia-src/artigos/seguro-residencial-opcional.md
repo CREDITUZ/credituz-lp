@@ -60,7 +60,7 @@ A mesma resolução permite outras coberturas facultativas nas apólices do merc
 
 - **Separação do valor.** O custo das coberturas facultativas não entra no custo efetivo do seguro habitacional obrigatório, e deve ser apresentado separadamente ao proponente (art. 11, parágrafo único). Na prática, você deve conseguir ver quanto custa cada cobertura.
 - **Cobertura de conteúdo.** A indenização por perda do conteúdo do imóvel só pode existir como cobertura adicional e facultativa (art. 30, parágrafo único).
-- **Franquia e carência.** Essas condições são vedadas nas coberturas obrigatórias, mas podem existir nas facultativas (arts. 24 e 25). Por isso, a franquia aparece mais em produtos opcionais.
+- **Franquia e carência.** A norma não admite franquia obrigatória nas coberturas de MIP e DFI (art. 24), e, em regra, também não admite carência nelas (art. 25, com exceções no art. 26). Franquias podem existir nas facultativas, por isso elas aparecem mais em produtos opcionais.
 
 Na prática, isso significa que um seguro de conteúdo pode vir junto com o DFI em uma mesma proposta, mas continua sendo uma escolha separada. Se a parcela subir por causa dele, peça a retirada por escrito.
 
@@ -68,13 +68,13 @@ Na prática, isso significa que um seguro de conteúdo pode vir junto com o DFI 
 
 O Código de Defesa do Consumidor (art. 39, I) proíbe condicionar o fornecimento de um produto ou serviço à compra de outro. Se a liberação do crédito ou uma taxa melhor depender da contratação de um seguro facultativo, a prática pode configurar venda casada. Essa análise depende dos fatos, e não existe orientação oficial que cubra todos os casos.
 
-Um ponto importante: a Resolução CNSP 447/2022 não traz regra específica sobre venda casada. A proteção ao consumidor vem, nesse caso, do próprio Código de Defesa do Consumidor. Se alguém disser que o seguro é obrigatório, peça a cláusula ou a norma que sustenta a exigência.
+Um ponto importante: no resumo consultado da Resolução CNSP 447/2022, não há regra específica sobre venda casada. A proteção ao consumidor vem, nesse caso, do próprio Código de Defesa do Consumidor. Se alguém disser que o seguro é obrigatório, peça a cláusula ou a norma que sustenta a exigência.
 
 ## Quem escolhe a seguradora
 
 A Súmula 473 do STJ, julgada em 13/06/2012 e publicada em 19/06/2012, diz que o mutuário do SFH não pode ser obrigado a contratar o seguro habitacional obrigatório com a instituição financeira que concedeu o crédito ou com a seguradora por ela indicada.
 
-A resolução da Susep, porém, não garante expressamente a livre escolha no momento da contratação. Por isso, na prática, pergunte ao banco se ele aceita uma apólice de outra seguradora que cumpra as coberturas mínimas. Peça a resposta por escrito.
+No resumo consultado da resolução do CNSP, não encontrei regra expressa sobre a escolha da seguradora no momento da contratação. Por isso, na prática, pergunte ao banco se ele aceita uma apólice de outra seguradora que cumpra as coberturas mínimas. Peça a resposta por escrito.
 
 Se o seguro já estiver contratado, a troca é possível. Pelo artigo 35 da resolução, a substituição por interesse do segurado exige que os prêmios vencidos estejam pagos. A seguradora substituta pode pedir uma nova Declaração Pessoal de Saúde (DPS), que é o formulário com informações sobre saúde do segurado. Se a troca for para a mesma seguradora, essa nova declaração não é exigida, e as carências não mudam (art. 35, § 3º).
 

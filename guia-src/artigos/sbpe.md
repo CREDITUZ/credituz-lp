@@ -4,7 +4,7 @@ description: "O que é o SBPE, por que ele usa dinheiro da poupança, como a reg
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "SBPE (Sistema Brasileiro de Poupança e Empréstimo) é a linha de financiamento imobiliário de mercado, com dinheiro captado da poupança e taxa definida pelo banco."
   - "Os bancos precisam direcionar parte do saldo da poupança para crédito imobiliário. A Resolução CMN 5.255/2025 mudou a forma de contar essas operações."
