@@ -65,7 +65,7 @@ Veja um exemplo ilustrativo, com premissas fictícias para mostrar a mecânica. 
 | Saldo ao fim da obra | R$ 369.404 |
 | Aumento em relação ao saldo inicial | 15,4% |
 
-O comprador não pagou juros explícitos na obra, mas o saldo cresceu quase 15%. Se o índice for de 0,3% ao mês, o aumento cai pela metade. A diferença entre índices é o que você precisa entender antes de assinar.
+O comprador não pagou juros explícitos na obra, mas o saldo cresceu quase 15%. Se o índice fosse de 0,3% ao mês, a correção acumulada em 24 meses ficaria em cerca de 7,5%. A diferença entre índices é o que você precisa entender antes de assinar.
 
 ## Juros depois da entrega e taxa combinada
 
