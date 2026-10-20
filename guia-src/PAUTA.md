@@ -20,13 +20,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] financiamento-de-terreno: como financiar terreno ou lote
 - [O3] financiamento-para-construcao: construir com financiamento (aquisição de terreno e construção)
 - [O3] financiamento-de-imovel-usado: regras e cuidados
-- financiamento-de-imovel-comercial: sala, loja, galpão
-- financiamento-de-imovel-rural: chácara e sítio
-- financiamento-imovel-de-leilao: dá para financiar imóvel de leilão
-- financiamento-segundo-imovel: financiar mais de um imóvel
-- financiamento-para-reforma: crédito para reformar
-- financiamento-com-entrada-parcelada: como funciona
-- financiamento-sem-entrada: existe e quando
+- [O4] financiamento-de-imovel-comercial: sala, loja, galpão
+- [O4] financiamento-de-imovel-rural: chácara e sítio
+- [O4] financiamento-imovel-de-leilao: dá para financiar imóvel de leilão
+- [O4] financiamento-segundo-imovel: financiar mais de um imóvel
+- [O4] financiamento-para-reforma: crédito para reformar
+- [O4] financiamento-com-entrada-parcelada: como funciona
+- [O4] financiamento-sem-entrada: existe e quando
 - financiamento-aposentado: regras de idade e renda
 - financiamento-servidor-publico: condições para servidores
 - financiamento-para-quem-mora-fora: brasileiros no exterior
@@ -60,15 +60,15 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] fgts-terreno: dá para usar em terreno
 - [O3] fgts-imovel-comercial: por que não pode
 - [O3] fgts-de-conta-inativa
-- fgts-retido-saque-aniversario
-- fgts-autonomo-e-mei: quem não tem FGTS
-- fgts-aposentado
-- fgts-de-quem-ja-tem-imovel
+- [O4] fgts-retido-saque-aniversario
+- [O4] fgts-autonomo-e-mei: quem não tem FGTS
+- [O4] fgts-aposentado
+- [O4] fgts-de-quem-ja-tem-imovel
 - [O2 publicado] documentos-para-usar-fgts
-- prazo-para-liberar-fgts-na-compra
+- [O4] prazo-para-liberar-fgts-na-compra
 - [O2 publicado] fgts-negado-motivos
-- fgts-e-minha-casa-minha-vida
-- fgts-futuro: o que é e como funciona
+- [O4] fgts-e-minha-casa-minha-vida
+- [O4] fgts-futuro: o que é e como funciona
 - fgts-e-consorcio
 - fgts-para-imovel-de-leilao
 - fgts-e-heranca: saldo do falecido
@@ -109,13 +109,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] minha-casa-minha-vida-cadunico
 - [O3] minha-casa-minha-vida-sorteio
 - [O3] minha-casa-minha-vida-servidor-publico
-- minha-casa-minha-vida-autonomo
-- minha-casa-minha-vida-teto-por-cidade
-- minha-casa-minha-vida-juros-por-faixa
-- minha-casa-minha-vida-quitar-antes
-- minha-casa-minha-vida-vender-imovel
-- minha-casa-minha-vida-atraso-parcela
-- minha-casa-minha-vida-segunda-vez
+- [O4] minha-casa-minha-vida-autonomo
+- [O4] minha-casa-minha-vida-teto-por-cidade
+- [O4] minha-casa-minha-vida-juros-por-faixa
+- [O4] minha-casa-minha-vida-quitar-antes
+- [O4] minha-casa-minha-vida-vender-imovel
+- [O4] minha-casa-minha-vida-atraso-parcela
+- [O4] minha-casa-minha-vida-segunda-vez
 - casa-paulista: programa do estado de SP
 - cdhu: habitação do estado de SP
 - programas-habitacionais-estaduais: visão geral por estado
@@ -159,13 +159,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O2 publicado] comprometimento-de-renda
 - [O2 publicado] analise-de-credito-como-funciona
 - [O3] score-baixo-o-que-fazer
-- score-alto-garante-aprovacao
-- cadastro-positivo-como-cancelar
-- open-finance-como-compartilhar-dados
-- emprestimo-antes-do-financiamento: impacto
-- cartao-de-credito-e-financiamento
-- consorcio-ativo-e-financiamento
-- financiamento-de-carro-e-de-imovel
+- [O4] score-alto-garante-aprovacao
+- [O4] cadastro-positivo-como-cancelar
+- [O4] open-finance-como-compartilhar-dados
+- [O4] emprestimo-antes-do-financiamento: impacto
+- [O4] cartao-de-credito-e-financiamento
+- [O4] consorcio-ativo-e-financiamento
+- [O4] financiamento-de-carro-e-de-imovel
 - divida-com-fiador
 - avalista-e-fiador
 - renda-informal-comprovacao
@@ -208,14 +208,14 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] itbi-goiania
 - [O3] itbi-campinas
 - [O3] itbi-florianopolis
-- itbi-manaus
-- itbi-belem
-- itbi-vitoria
-- isencao-itbi: quando existe
-- itbi-parcelado
+- [O4] itbi-manaus
+- [O4] itbi-belem
+- [O4] itbi-vitoria
+- [O4] isencao-itbi: quando existe
+- [O4] itbi-parcelado
 - [O2 publicado] registro-de-imovel-passo-a-passo
-- matricula-do-imovel: como ler
-- certidoes-do-imovel
+- [O4] matricula-do-imovel: como ler
+- [O4] certidoes-do-imovel
 - certidoes-do-vendedor
 - desconto-registro-primeiro-imovel
 - taxa-de-administracao-financiamento
@@ -252,16 +252,16 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] consorcio-para-investir
 - [O3] consorcio-ou-poupar
 - [O3] home-equity-para-quitar-dividas
-- home-equity-riscos
-- refinanciamento-de-imovel
+- [O4] home-equity-riscos
+- [O4] refinanciamento-de-imovel
 - [O2 publicado] comprar-a-vista-ou-financiar
 - [O2 publicado] investir-ou-quitar-financiamento
-- fundos-imobiliarios-x-imovel
+- [O4] fundos-imobiliarios-x-imovel
 - [O2 publicado] comprar-imovel-para-alugar: rentabilidade
-- airbnb-x-aluguel-tradicional
-- imovel-na-planta-como-investimento
-- leilao-de-imoveis-guia
-- imoveis-retomados-vale-a-pena
+- [O4] airbnb-x-aluguel-tradicional
+- [O4] imovel-na-planta-como-investimento
+- [O4] leilao-de-imoveis-guia
+- [O4] imoveis-retomados-vale-a-pena
 - compra-direto-com-proprietario
 - financiamento-direto-com-construtora
 - financiamento-com-loteadora
@@ -303,13 +303,13 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O3] habite-se
 - [O3] averbacao-da-construcao
 - [O3] vistoria-de-entrega-de-chaves
-- metragem-menor-que-a-prometida
-- propaganda-enganosa-imovel
-- condominio-direitos-e-deveres
-- taxa-de-condominio-atrasada
-- usucapiao
-- inventario-e-imovel
-- doacao-de-imovel
+- [O4] metragem-menor-que-a-prometida
+- [O4] propaganda-enganosa-imovel
+- [O4] condominio-direitos-e-deveres
+- [O4] taxa-de-condominio-atrasada
+- [O4] usucapiao
+- [O4] inventario-e-imovel
+- [O4] doacao-de-imovel
 - testamento-e-imovel
 - uniao-estavel-e-imovel
 - separacao-de-bens
