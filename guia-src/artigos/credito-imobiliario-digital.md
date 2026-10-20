@@ -1,6 +1,6 @@
 ---
-title: "Crédito imobiliário digital: como conferir plataformas antes de pagar"
-description: "Como funcionam as plataformas digitais de crédito imobiliário, quem empresta de fato, o que conferir no Banco Central, como ler o CET e os sinais de que é golpe."
+title: "Crédito imobiliário digital: como conferir antes de pagar"
+description: "Como funcionam as plataformas digitais de crédito imobiliário, quem empresta de fato, o que conferir no Banco Central, como ler o CET e os sinais de golpe."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
@@ -56,6 +56,10 @@ A primeira pergunta é quem empresta. A tabela ajuda a identificar o papel de ca
 A Resolução CMN 4.935/2021 trata dos correspondentes no país. Segundo o resumo que consultei, a instituição contratante precisa ter uma política escrita para escolher e controlar os correspondentes, fazer auditoria anual dos controles e publicar informações sobre eles. Se a plataforma não informar qual banco representa, desconfie.
 
 Um cuidado extra com a terminologia. A Resolução CMN 4.656/2018 criou a sociedade de crédito direto e a sociedade de empréstimo entre pessoas, que são as chamadas fintechs de crédito. O texto consolidado no site do Banco Central indica que a Resolução 4.656 foi revogada integralmente a partir de 1º de janeiro de 2025, pela Resolução CMN 5.177. Não consegui ler o texto da 5.177 em fonte aberta. Por isso, não use artigos antigos que descrevem esse regime como vigente, e confirme as regras atuais no site do Banco Central.
+
+## O que a proposta formal precisa ter
+
+Uma proposta séria vem por escrito, com data de validade e com os seguintes itens: nome e CNPJ da instituição que empresta, valor financiado, prazo, taxa de juros, CET anual, tarifas, seguros, valor estimado da primeira parcela, regras de amortização e garantia oferecida. Se algum desses itens não aparecer, peça antes de seguir. Se a plataforma recebe comissão do banco, isso normalmente não aparece no seu contrato. Pergunte por escrito se há remuneração da plataforma e quem a paga.
 
 ## Como conferir a empresa em dez minutos
 

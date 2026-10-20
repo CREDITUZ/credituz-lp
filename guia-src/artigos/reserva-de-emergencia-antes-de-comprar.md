@@ -1,6 +1,6 @@
 ---
-title: "Reserva de emergência antes de financiar: quanto guardar e por quê"
-description: "Quanto guardar de reserva de emergência antes de financiar um imóvel, como incluir os custos da casa na conta, quanto tempo leva para juntar e onde deixar o dinheiro."
+title: "Reserva de emergência antes de financiar: quanto guardar"
+description: "Quanto guardar de reserva de emergência antes de financiar um imóvel, como somar os custos da casa, quanto tempo leva para juntar e onde deixar o dinheiro."
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
@@ -80,11 +80,17 @@ A lei também soma a TR à remuneração, mas, para ser conservador, o exemplo a
 
 Se o prazo para juntar for longo demais, há duas saídas: aumentar o aporte ou adiar a compra. Adiar a compra para formar a reserva costuma ser uma decisão mais segura do que financiar com um colchão de um ou dois meses.
 
+Se você ainda não tem nada guardado, comece com uma meta menor, como um mês de despesas essenciais, e só depois avance para três meses. Essa etapa intermediária já reduz bastante o risco de atraso no primeiro ano, que é quando a casa costuma exigir mais gastos.
+
 ## Parcela e renda: a margem que a reserva protege
 
 Antes de financiar, veja também quanto da renda vai para a parcela. A regra dos 30% aparece com frequência nos guias de financiamento, e o guia sobre [comprometimento de renda](/artigos/comprometimento-de-renda) explica como ela é usada na análise. Mas o que protege você de verdade é a margem depois da parcela.
 
 Com a parcela de R$ 3.000, uma renda de R$ 9.000 faz a parcela consumir 33,3%. Se a renda cair 20%, para R$ 7.200, a fatia sobe para 41,7%. Nesse caso, a reserva é o que segura o orçamento até que a renda se recupere ou que a casa seja reorganizada. Use a [calculadora de quanto posso financiar](/quanto-posso-financiar) para ver um valor compatível com a sua renda, e o [simulador de financiamento](/simulador) para testar parcelas e prazos.
+
+## Renda variável, reajustes e revisão anual
+
+Se a sua renda muda de mês para mês, use a menor média dos últimos doze meses, e não o melhor mês, para definir o valor que você consegue pagar. Quem recebe comissões, trabalha por projeto ou é autônomo deve separar a parte do ganho que vai para a reserva antes de qualquer gasto. Além disso, revise a conta todo ano. Condomínio, IPTU e seguro são reajustados, e a reserva precisa acompanhar esses valores para continuar cobrindo o mesmo número de meses.
 
 ## Onde deixar a reserva
 

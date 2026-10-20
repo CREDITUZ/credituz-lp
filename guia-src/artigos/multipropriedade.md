@@ -1,5 +1,5 @@
 ---
-title: "Multipropriedade: direitos, registro e riscos de comprar uma fração"
+title: "Multipropriedade: direitos, registro e riscos da fração"
 description: "O que é a multipropriedade, como ela é registrada, quais direitos e deveres tem o comprador, o que acontece na venda e nos atrasos e os riscos antes de assinar."
 category: alternativas
 published: 2026-10-19
@@ -81,6 +81,8 @@ Se você deixar de pagar as taxas, o condomínio pode buscar a cobrança e, nos 
 
 Outro ponto é a proibição. A convenção, a planta ou o ato de vendas podem limitar ou proibir a multipropriedade, e a mudança dessa regra exige maioria absoluta dos donos (artigo 1.358-U). Confirme se o empreendimento permite o regime antes de comprar.
 
+A fração também pode ser transmitida por morte. Isso significa que, em um inventário, ela entra na partilha como qualquer outro bem, e os herdeiros passam a dividir as mesmas taxas e regras de uso. Vale considerar o tema no planejamento patrimonial, sobretudo se o imóvel for usado por mais de uma pessoa da família.
+
 ## Exemplo ilustrativo: fração semanal
 
 Considere, com números fictícios, uma fração semanal que custa R$ 25.000 e tem taxa anual de R$ 1.200 para o condomínio. Imagine que você passe uma semana por ano em um hotel que cobra R$ 600 por diária, ou seja, R$ 4.200 por semana, e troque essa estadia pela fração.
@@ -102,6 +104,10 @@ O cálculo é simplificado. Ele não considera o dinheiro parado, o reajuste das
 - **Administração terceirizada.** A convenção pode exigir um administrador profissional, e a qualidade dele afeta o uso e as taxas.
 - **Regras de uso.** Horários, reservas e limites de ocupação podem restringir o período que você imaginava.
 - **Confusão com contrato de uso.** Um produto sem registro pode oferecer a experiência sem a segurança do regime.
+
+## Para quem o modelo faz sentido
+
+A multipropriedade costuma servir a quem tem um período de uso certo todo ano, aceita pagar taxas mesmo nos períodos sem uso e não depende da revenda para recuperar o dinheiro. Ela é mais difícil de justificar para quem compra esperando ganhar com aluguel ou valorização. A taxa, as restrições de uso e a revenda limitada reduzem a margem. Se a motivação for investimento, compare a alternativa antes de decidir, como mostra o guia sobre [fundos imobiliários e imóvel físico](/artigos/fundos-imobiliarios-x-imovel).
 
 ## Checklist antes de assinar
 

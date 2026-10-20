@@ -96,6 +96,10 @@ O guia sobre [imóvel na planta como investimento](/artigos/imovel-na-planta-com
 
 Existe ainda a operação em que você entrega um terreno e recebe unidades prontas ou futuras de um empreendimento. Ela costuma ser conduzida pela incorporadora, com contrato próprio. A tributação e o ITBI desse modelo são específicos, e a conta precisa de análise individual.
 
+## Quando a permuta costuma fazer sentido
+
+A permuta evita a venda do imóvel no mercado aberto e pode reduzir a necessidade de dinheiro para comprar outro bem. Ela faz mais sentido quando você já conhece o bem que vai receber, tem uma avaliação confiável dos dois lados e quer evitar a espera por um comprador. O risco aparece quando o bem recebido ainda não existe, como na planta, ou quando a outra parte não consegue comprovar a propriedade e a situação do imóvel. Nesses casos, a troca pode demorar mais do que o previsto e exigir garantias adicionais.
+
 ## Cuidados antes de assinar
 
 - Peça a matrícula atualizada dos dois imóveis. Veja também as [certidões do imóvel](/artigos/certidoes-do-imovel), que mostram ônus, penhoras e dívidas.
