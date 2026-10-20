@@ -28,16 +28,16 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O4] financiamento-com-entrada-parcelada: como funciona
 - [O4] financiamento-sem-entrada: existe e quando
 - [O6] financiamento-aposentado: regras de idade e renda
-- financiamento-servidor-publico: condições para servidores
+- [O7] financiamento-servidor-publico: condições para servidores
 - [O5] financiamento-para-quem-mora-fora: brasileiros no exterior
 - [O5] financiamento-para-estrangeiro: estrangeiro residente
 - [O6] financiamento-com-carta-de-credito: carta de crédito aprovada antes de achar o imóvel
 - [O5] quanto-tempo-demora-financiamento: prazos de cada etapa
 - etapas-do-financiamento: da simulação ao registro
-- contrato-de-financiamento-clausulas: o que ler antes de assinar
+- [O7] contrato-de-financiamento-clausulas: o que ler antes de assinar
 - [O5] alienacao-fiduciaria: o que é e o que muda para quem compra
-- quitar-financiamento: como quitar antes do prazo
-- atrasar-parcela-financiamento: o que acontece e como renegociar
+- [O7] quitar-financiamento: como quitar antes do prazo
+- [O7] atrasar-parcela-financiamento: o que acontece e como renegociar
 - retomada-do-imovel-por-atraso: prazos e direitos
 - vender-imovel-financiado: como vender antes de quitar
 - [O6] transferir-financiamento: cessão para outra pessoa
@@ -72,21 +72,21 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - fgts-e-consorcio
 - [O6] fgts-para-imovel-de-leilao
 - [O6] fgts-e-heranca: saldo do falecido
-- rendimento-do-fgts: quanto rende e como é corrigido
+- [O7] rendimento-do-fgts: quanto rende e como é corrigido
 - [O5] fgts-vale-a-pena-usar-na-entrada
 - [O5] fgts-amortizar-ou-guardar
-- calculo-fgts: quanto é depositado por mês
+- [O7] calculo-fgts: quanto é depositado por mês
 - fgts-pelo-app: passo a passo no aplicativo
 - [O5] fgts-empregador-nao-depositou: o que fazer
 - [O6] fgts-trabalhador-domestico
 - [O5] fgts-e-divorcio
 - saque-fgts-doenca-grave (ligado à moradia só como contexto)
 - fgts-na-compra-a-vista
-- fgts-imovel-de-parente: comprar de pai, mãe, irmão
+- [O7] fgts-imovel-de-parente: comprar de pai, mãe, irmão
 - fgts-imovel-com-problema-documental
 - fgts-sfh-limite-de-valor
 - [O6] fgts-pro-cotista: linha Pró-Cotista
-- fgts-compra-de-fracao: comprar parte de imóvel
+- [O7] fgts-compra-de-fracao: comprar parte de imóvel
 - fgts-e-uniao-estavel
 - fgts-para-imovel-em-condominio-fechado
 - historico-uso-fgts-moradia: como saber se já usou
@@ -118,7 +118,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O4] minha-casa-minha-vida-segunda-vez
 - [O5] casa-paulista: programa do estado de SP
 - [O5] cdhu: habitação do estado de SP
-- programas-habitacionais-estaduais: visão geral por estado
+- [O7] programas-habitacionais-estaduais: visão geral por estado
 - [O6] programas-habitacionais-municipais
 - aluguel-social
 - [O5] regularizacao-fundiaria-reurb
@@ -127,9 +127,9 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O6] sbpe: o que é e como funciona
 - sfi-acima-do-teto
 - lig-e-cri-para-leigos: de onde vem o dinheiro do crédito imobiliário
-- poupanca-e-credito-imobiliario: por que a poupança importa
-- novo-modelo-credito-imobiliario: as mudanças de 2025 e 2026
-- selic-e-financiamento: como a Selic afeta o crédito
+- [O7] poupanca-e-credito-imobiliario: por que a poupança importa
+- [O7] novo-modelo-credito-imobiliario: as mudanças de 2025 e 2026
+- [O7] selic-e-financiamento: como a Selic afeta o crédito
 - copom-calendario-e-financiamento
 - historico-taxa-juros-financiamento
 - mercado-imobiliario-2026: panorama para o comprador
@@ -193,6 +193,10 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O6] score-e-cartorio
 - [O6] score-quod
 
+- [O7] scoring-interno-do-banco: como o banco usa a própria análise além do score do bureau
+- [O7] cheque-especial-e-financiamento: por que o cheque especial pesa na renda e na aprovação
+- [O7] rotativo-do-cartao-e-financiamento: como o rotativo do cartão afeta a análise de crédito
+- [O7] credito-para-reforma-do-imovel: crédito para reforma de imóvel já comprado, taxas e garantias
 ## custos (5 publicados, faltam 45)
 - [O1 publicado] itbi-sao-paulo: alíquota, cálculo e desconto SFH em SP
 - [O1 publicado] itbi-rio-de-janeiro
@@ -220,7 +224,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O6] desconto-registro-primeiro-imovel
 - taxa-de-administracao-financiamento
 - [O6] tarifa-de-cadastro
-- iof-no-financiamento-imobiliario: existe?
+- [O7] iof-no-financiamento-imobiliario: existe?
 - custos-cartorio-por-estado
 - [O6] corretagem-quem-paga
 - [O5] laudemio
@@ -240,6 +244,8 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - declarar-financiamento-no-ir
 - imposto-de-renda-aluguel
 
+- [O7] custo-de-manter-imovel-financiado: IPTU, condomínio, seguro e manutenção depois da compra
+- [O7] custo-de-mudanca-e-mobilia: quanto custa mudar e mobiliar o imóvel comprado
 ## alternativas (3 publicados, faltam 47)
 - [O1 publicado] consorcio-imobiliario-como-funciona
 - [O1 publicado] lance-no-consorcio: como dar e calcular
@@ -275,7 +281,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - contrato-de-aluguel
 - garantias-do-aluguel
 - reajuste-do-aluguel-igpm-ipca
-- morar-de-aluguel-e-investir: simulação
+- [O7] morar-de-aluguel-e-investir: simulação
 - casa-ou-apartamento
 - [O2 publicado] imovel-novo-ou-usado
 - imovel-em-condominio
@@ -289,6 +295,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - tesouro-renda-ou-imovel
 - previdencia-e-imovel
 
+- [O7] compra-em-grupo-de-imovel: duas ou mais pessoas comprando juntas, cuidados e divisão
 ## direitos (3 publicados, faltam 47)
 - [O1 publicado] vicios-construtivos: defeitos na obra e garantia
 - [O1 publicado] desistir-da-compra-arrependimento
@@ -337,3 +344,6 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - quitacao-por-invalidez
 - ouvidoria-banco-e-banco-central
 - consumidor-gov-br
+- [O7] direito-de-preferencia-do-inquilino: quando o inquilino tem preferência na venda
+- [O7] coproprietario-venda-de-imovel: o que muda quando o imóvel tem mais de um dono
+- [O7] retencao-de-chaves-pelo-proprietario: quando o proprietário pode ou não reter as chaves
