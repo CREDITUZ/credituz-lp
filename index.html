@@ -62,6 +62,18 @@
     f.parentNode.insertBefore(j, f);
   });
 
+  // --- Google Ads (AW-17041495312), mesmo padrao da LP de Loteadoras.
+  // Respeita o Consent Mode definido acima. As conversoes de clique
+  // (WhatsApp e cadastro) ficam no script antes de </body>.
+  (function () {
+    var f = d.getElementsByTagName('script')[0], j = d.createElement('script');
+    j.async = true;
+    j.src = 'https://www.googletagmanager.com/gtag/js?id=AW-17041495312';
+    f.parentNode.insertBefore(j, f);
+    gtag('js', new Date());
+    gtag('config', 'AW-17041495312');
+  })();
+
   w.credituzConsent = {
     ler: function () { try { return localStorage.getItem(CHAVE); } catch (e) { return null; } },
     definir: function (v) {
@@ -6574,6 +6586,13 @@ footer { background: var(--void); }
     var href=el.getAttribute('href')||'';
     var label=el.getAttribute('data-track')||'unlabeled_cta';
     push('marketing_cta_click',{cta_id:label,cta_text:(el.textContent||'').trim().slice(0,120),destination:href.slice(0,500)});
+    // Conversoes do Google Ads (Consent Mode decide o que e gravado).
+    // Cadastro no Credituz OS -> "Lead"; clique no WhatsApp -> "Contato".
+    function adsConv(sendTo){
+      if(typeof window.gtag==='function'){try{window.gtag('event','conversion',{send_to:sendTo})}catch(e){}}
+    }
+    if(href.indexOf('screen_hint=signup')>-1){ adsConv('AW-17041495312/XSo2CKnV2-EbEJCqgr4_'); }
+    else if(href.indexOf('wa.me/')>-1){ adsConv('AW-17041495312/LrZ3CNme6-EbEJCqgr4_'); }
     if(href.indexOf('dashboard.usecredituz.com')>-1){
       push('signup_start',{cta_id:label,product:label.indexOf('score')>-1?'credituz_score':'credituz_os'});
       if(window.fbq && window.credituzConsent && window.credituzConsent.ler && window.credituzConsent.ler()==='all'){try{window.fbq('track','InitiateCheckout',{content_name:label})}catch(e){}}

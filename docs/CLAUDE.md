@@ -88,7 +88,7 @@ Os 132 arquivos compartilham **6 blocos de CSS distintos**, cada um replicado by
 
 ### Tracking
 
-`index.html` carrega **dois** containers GTM (`GTM-KN3GQNDJ` e `GTM-T2M9N4CR`) e o Meta Pixel `3261631577333056`. CTAs apontam para `https://dashboard.usecredituz.com/auth/login?screen_hint=signup` e para o WhatsApp `https://wa.me/5511936209409`.
+`index.html` carrega **dois** containers GTM (`GTM-KN3GQNDJ` e `GTM-T2M9N4CR`), a tag do Google Ads `AW-17041495312` e o Meta Pixel `3261631577333056`. O script `credituz-marketing-events` dispara as conversoes do Google Ads direto via `gtag`: clique em CTA com `screen_hint=signup` envia "Lead" (`AW-17041495312/XSo2CKnV2-EbEJCqgr4_`) e clique em `wa.me` envia "Contato" (`AW-17041495312/LrZ3CNme6-EbEJCqgr4_`). Nao recrie essas conversoes no GTM, ou elas contam em dobro. CTAs apontam para `https://dashboard.usecredituz.com/auth/login?screen_hint=signup` e para o WhatsApp `https://wa.me/5511936209409`.
 
 ## Convenções
 
