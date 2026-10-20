@@ -1,6 +1,6 @@
 ---
 title: "FGTS na separação: o saldo entra na partilha do divórcio?"
-description: "Decisão do STJ de 2026 indica que o FGTS formado no casamento sob comunhão parcial entra na partilha. Veja o efeito no imóvel financiado."
+description: "Decisão do STJ de 2026 indica que o FGTS formado no casamento sob comunhão parcial entra na partilha. Veja o efeito no imóvel financiado e os passos a seguir."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
@@ -47,6 +47,10 @@ A decisão trata do regime de comunhão parcial. Nesse regime, em regra, o que �
 
 Também é importante saber a data do início do casamento ou da união estável. O FGTS depositado antes dessa data não entra na base. Por isso, guarde o extrato completo de cada um, com o período de cada vínculo de trabalho, e não apenas o saldo atual.
 
+## A data em que a relação termina
+
+A decisão trata do saldo formado durante o casamento ou a união estável. Por isso, a data em que a relação termina pode ser discutida no acordo, porque ela define até quando o FGTS entra na base da divisão. Essa data não deve ser fixada sem orientação de advogado, e vale registrá-la por escrito no acordo.
+
 ## Um exemplo ilustrativo de partilha
 
 Suponha dois cenários, sempre com o regime de comunhão parcial e sem saque anterior.
@@ -62,13 +66,13 @@ No segundo cenário, os R$ 10 mil anteriores ao casamento ficam de fora da base,
 
 O imóvel financiado é uma questão à parte, e o acordo de divórcio não resolve sozinho a dívida com o banco. Segundo o Migalhas, em artigo de 15 de julho de 2026, se os dois constam como devedores, ambos continuam responsáveis perante o banco, inclusive quem já deixou o imóvel. O acordo de divórcio vale entre os ex-cônjuges, mas não substitui a aprovação do banco.
 
-Para que um deles assuma a dívida sozinho, o banco normalmente faz nova análise de crédito, e a troca pode envolver a sub-rogação ou a cessão de direitos e obrigações. Se o outro cônjuge não tem renda para manter as parcelas sozinho, a troca pode não ser aprovada.
+Para que um deles assuma a dívida sozinho, o banco normalmente faz nova análise de crédito, e a troca pode envolver a sub-rogação ou a cessão de direitos e obrigações. Se o outro cônjuge não tem renda para manter as parcelas sozinho, a troca pode não ser aprovada. Nesse caso, a venda do imóvel costuma ser o caminho mais realista, e a quitação só se conclui com a participação do banco, que confirma o saldo devedor atualizado. Por isso, peça o valor atualizado da dívida antes de fechar qualquer acerto.
 
 Quando nenhum dos dois quer ficar com o imóvel, o mesmo texto cita duas saídas. A primeira é a venda: quita-se o saldo devedor com o valor da venda e divide-se o restante, depois de conferir saldo, taxas e valor de mercado. A segunda é a compensação: um fica com o bem e paga ao outro a parte correspondente.
 
 ## O FGTS usado na compra
 
-Se o FGTS foi usado na entrada ou para pagar parte da compra, esse valor já saiu da conta vinculada e não volta para a partilha. O que pode ser dividido é o saldo que sobrou, formado durante o casamento. Por isso, separe no acordo o que foi usado na compra e o que ainda está na conta. A regra de uso do FGTS na compra está em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
+Guarde os documentos da compra, como o contrato e os comprovantes de uso do saldo, porque eles mostram qual parte do patrimônio saiu da conta. Se o FGTS foi usado na entrada ou para pagar parte da compra, esse valor já saiu da conta vinculada e não volta para a partilha. O que pode ser dividido é o saldo que sobrou, formado durante o casamento. Por isso, separe no acordo o que foi usado na compra e o que ainda está na conta. A regra de uso do FGTS na compra está em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
 ## Passo a passo na separação
 
@@ -77,6 +81,18 @@ Se o FGTS foi usado na entrada ou para pagar parte da compra, esse valor já sai
 3. Inclua o FGTS no acordo de partilha, com o valor, a forma de divisão e a previsão de reserva ou saque da parte de cada um.
 4. Procure o banco antes de assinar. Pergunte quem continua devedor, se há transferência do financiamento, quais documentos são exigidos e o prazo de análise.
 5. Antes de assinar qualquer acordo, leve os documentos para um advogado ou para a Defensoria Pública, principalmente se há filhos, empresa ou patrimônio em outros bens.
+
+## Perguntas para levar ao advogado
+
+Antes de assinar, vale levar respostas claras para estas perguntas:
+
+- Qual é o regime de bens do casamento, e existe pacto antenupcial?
+- Qual é o saldo do FGTS de cada um, separado pelo período de casamento?
+- Quanto do saldo já foi usado na compra do imóvel?
+- Como fica a dívida do financiamento e quem assume as parcelas?
+- Onde e como a parte de cada um fica reservada até o saque?
+
+Pergunte também à Caixa, na agência ou pelo canal de atendimento, quais documentos são exigidos para movimentar ou reservar parte do saldo. A decisão do STJ não detalha esse procedimento, e os requisitos da instituição precisam ser confirmados.
 
 ## Erros comuns
 

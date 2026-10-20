@@ -1,10 +1,10 @@
 ---
 title: "Seguro fiança: o que cobre e quanto costuma custar no aluguel"
-description: "O que é o seguro fiança no aluguel, o que a apólice costuma cobrir, como estimar o custo anual e como ele se compara à caução e ao fiador."
+description: "O que é o seguro fiança no aluguel, o que a apólice costuma cobrir, como estimar o custo anual e como ele se compara à caução e ao fiador de pessoa física."
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O seguro fiança é uma das garantias que o locador pode exigir no aluguel. Pela Lei do Inquilinato (Lei 8.245/1991, art. 37), o contrato só pode usar uma delas."
   - "A apólice paga os aluguéis não quitados até o limite contratado e pode incluir encargos e reparos, conforme o plano. O texto da apólice é o que vale."
@@ -71,6 +71,22 @@ Cada garantia tem um custo de natureza diferente. A caução é um valor deposit
 | Seguro fiança | Prêmio anual ou parcelado, que não é devolvido | Quando o inquilino não paga, dentro da apólice | Teto de valor, prazo e coberturas da apólice |
 
 Nenhuma dessas opções é a melhor em abstrato. A escolha depende do que o locador aceita, da sua situação financeira e de quanto você consegue pagar de uma vez ou mensalmente.
+
+## Quando o seguro fiança pode fazer sentido
+
+Para quem aluga, o seguro fiança costuma ser útil quando não há um fiador disponível e a caução seria um valor alto para o início do contrato. O custo fixo anual substitui o depósito, e o dinheiro não fica imobilizado. Para o locador, a vantagem é ter uma garantia que não depende de terceiros, o que costuma tornar o contrato mais simples de fechar.
+
+A contratação, porém, passa por análise da seguradora. Em geral, ela avalia o perfil do inquilino, e pode pedir comprovação de renda e de cadastro. Essas exigências variam por seguradora e por plano, então pergunte logo no início quais documentos serão necessários. Se a análise recusar o perfil, o inquilino terá de apresentar outra garantia prevista em lei.
+
+## Como ler a apólice em cinco pontos
+
+Antes de assinar, procure cinco itens no texto completo. O primeiro é o teto de cobertura, que mostra até quanto a seguradora paga no total e por mês. O segundo é a franquia, que é a parte que o segurado paga em cada sinistro, se houver. O terceiro é a carência, o período em que a cobertura ainda não vale. O quarto são as exclusões, que dizem o que fica fora da cobertura. O quinto é a vigência: confirme se ela acompanha o contrato de aluguel e como funciona a renovação. Quando um desses itens não estiver claro, peça esclarecimento por escrito antes de contratar.
+
+## O que acontece em caso de atraso
+
+Se o inquilino deixa de pagar, o locador deve seguir o que a apólice e o contrato determinam sobre comunicação e prazos. Depois da análise do pedido, a seguradora paga os valores cobertos, dentro do limite contratado. Em seguida, pode cobrar do inquilino o que pagou, por meio de ação própria. Por isso, quem contratou o plano continua responsável pela dívida, mesmo com a seguradora pagando primeiro.
+
+Esse é o ponto que mais surpreende as pessoas: o seguro não elimina a dívida, apenas muda quem cobra o locador. Quando o atraso começa, a conversa com a seguradora e a regularização do pagamento costumam ser o caminho mais rápido.
 
 ## Erros comuns
 

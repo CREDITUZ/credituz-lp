@@ -68,6 +68,8 @@ Nem sempre a resposta é usar o saldo inteiro. Você pode usar uma parte na entr
 
 Essa divisão faz sentido quando a reserva fora do FGTS é pequena. Ela também ajuda quem tem um contrato de juros mais baixos, porque a diferença entre os dois lados fica menor e a proteção pesa mais.
 
+Vale notar também que a cota de financiamento limita quanto o banco empresta em relação ao valor do imóvel. Se a entrada mínima já exige o FGTS para fechar a conta, a pergunta deixa de ser se vale a pena e passa a ser quanto usar. Nesse caso, peça ao banco simulações com valores de entrada diferentes e compare a parcela e o total pago em cada uma.
+
 ## O que a conta não mostra
 
 Três pontos ficam fora do cálculo, e cada um pode mudar a decisão.
@@ -85,6 +87,8 @@ Três pontos ficam fora do cálculo, e cada um pode mudar a decisão.
 3. Calcule o financiamento com e sem o uso do FGTS no [simulador de financiamento](/simulador), trocando a taxa e o valor.
 4. Veja quanto de dinheiro próprio sobra depois da entrada e quantos meses de parcela ele cobre.
 5. Decida com a reserva em mente, e não só com a taxa. Confirme com o banco, antes de marcar a escritura, que o uso do saldo está previsto na sua operação.
+
+Se o resultado ficar muito perto, não decida só pela conta. Uma diferença pequena de juros raramente compensa a perda de uma reserva, e a escolha mais segura costuma ser aquela que deixa dinheiro disponível para os primeiros meses da parcela.
 
 ## Erros comuns
 

@@ -1,6 +1,6 @@
 ---
 title: "Empregador não depositou o FGTS: o que fazer e até quando cobrar"
-description: "Confira o extrato, cobre por escrito, denuncie à fiscalização e, se preciso, entre na Justiça. Veja os prazos de cobrança e a multa de 40%."
+description: "Confira o extrato, cobre por escrito, denuncie à fiscalização e, se preciso, entre na Justiça do Trabalho. Veja os prazos de cobrança e a multa de 40%."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
@@ -32,6 +32,18 @@ related: [consultar-saldo-fgts, fgts-negado-motivos, fgts-na-compra-do-imovel]
 ---
 
 Quando o empregador não deposita o FGTS, a primeira coisa a fazer é confirmar a falta no extrato, e só depois cobrar. Em seguida, peça o acerto por escrito, denuncie à fiscalização do trabalho e, se nada resolver, procure a Justiça do Trabalho ou o sindicato da sua categoria. O prazo para cobrar merece atenção desde o início, porque ele conta para trás a partir da data da ação. Este texto traz o caminho geral. Ele não substitui a orientação de um advogado ou da Defensoria Pública, principalmente se a empresa fechou ou entrou em recuperação.
+
+## O que guardar desde já
+
+Antes de qualquer cobrança, reúna os documentos que provam o vínculo e os depósitos. Esse material sustenta o pedido, seja na empresa, na fiscalização ou na Justiça:
+
+- a Carteira de Trabalho, com as anotações de cada contrato;
+- os holerites (contracheques) dos meses em que o depósito falta;
+- o extrato do FGTS, com a data em que você fez a consulta;
+- o termo de rescisão, se você já foi demitido;
+- as mensagens, e-mails e cartas trocados com a empresa sobre o assunto.
+
+Guarde cópias digitais e impressas. Se a empresa fechar ou mudar de endereço, esse acervo é o que resta para comprovar o que foi trabalhado.
 
 ## Primeiro, confirme que o depósito falta
 
@@ -76,6 +88,14 @@ Quando a demissão é feita pelo empregador sem justa causa, a empresa deve depo
 Quem foi dispensado sem justa causa pode sacar o saldo da conta vinculada, conforme o artigo 20, inciso I, da Lei 8.036. Por isso, a regularização dos depósitos tem efeito direto no seu saque. Enquanto o depósito falta, o saldo que você espera não aparece no extrato.
 
 Um exemplo ilustrativo: se os depósitos feitos durante o contrato somaram R$ 20 mil, a multa de 40% seria de R$ 8 mil, além do saldo. Esse número serve só para entender a regra, e o valor real depende da correção e dos juros do período.
+
+## O que pedir na Justiça
+
+Na reclamação trabalhista, o pedido costuma reunir os pontos abaixo. A lista é um roteiro geral, e a petição precisa de orientação jurídica:
+
+- os depósitos do FGTS que faltam, com correção monetária e juros;
+- a multa de 40%, se a dispensa foi sem justa causa;
+- as verbas rescisórias não pagas, como férias, 13º salário e aviso prévio, quando for o caso.
 
 ## Caminhos em resumo
 

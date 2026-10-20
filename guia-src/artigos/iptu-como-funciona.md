@@ -80,6 +80,16 @@ Por isso, mesmo que o vendedor tenha prometido pagar os anos anteriores, a prefe
 
 Depois do registro, peça à prefeitura a alteração do proprietário no cadastro. Sem isso, o carnê pode continuar sendo enviado para o antigo dono, e você só descobre um atraso quando a dívida já cresceu.
 
+## Cota única ou parcelas: como decidir
+
+A escolha entre pagar à vista e parcelar depende de duas contas simples. A primeira é o desconto da cota única. Um desconto de 3%, por exemplo, equivale a uma economia de 3% sobre o valor, mas a comparação justa é com o que o dinheiro renderia até as datas das parcelas. Se você tiver uso melhor para esse dinheiro naqueles meses, parcelar pode ser a opção mais barata. A segunda é a organização do caixa. Se a compra do imóvel já consumiu a reserva, o parcelamento reduz o risco de atraso, desde que as parcelas caibam no orçamento e o vencimento esteja na data certa.
+
+O mais importante é não deixar a conta para depois. Atraso gera multa e juros, e o débito fica no cadastro do imóvel até ser quitado.
+
+## Isenções e reduções
+
+Algumas prefeituras concedem isenção ou redução do IPTU para perfis específicos de imóvel ou de proprietário, como imóveis de baixo valor venal ou casos definidos pela lei municipal. Esses benefícios costumam depender de pedido do proprietário e de comprovação. Por isso, não presuma que o desconto do vendedor continua valendo para você. Antes de fechar a compra, confirme na lei municipal se o imóvel tem alguma redução e o que é preciso fazer para mantê-la ou pedi-la em seu nome.
+
 ## Erros comuns
 
 - **Pagar um carnê antigo sem pedir a certidão.** Pagar uma guia não garante que não existam outros anos em aberto. A certidão negativa mostra a situação do imóvel como um todo.

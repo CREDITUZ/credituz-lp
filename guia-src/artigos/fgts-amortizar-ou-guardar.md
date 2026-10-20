@@ -1,6 +1,6 @@
 ---
 title: "FGTS: amortizar o financiamento ou guardar o saldo?"
-description: "Compare com números ilustrativos três usos do saldo: reduzir o prazo, reduzir a parcela ou guardar a conta como proteção contra a demissão."
+description: "Compare com números ilustrativos três usos do saldo do FGTS: reduzir o prazo, reduzir a parcela ou guardar a conta como proteção contra a demissão."
 category: fgts
 published: 2026-10-19
 updated: 2026-10-19
@@ -47,6 +47,8 @@ Os valores de hoje descontam as economias futuras pela taxa de 3% ao ano, que é
 
 Repare que, no caminho de reduzir o prazo, a primeira parcela também cai, de R$ 3.384,30 para R$ 3.050,09. Isso acontece porque os juros passam a incidir sobre um saldo menor, mesmo mantendo a mesma amortização mensal.
 
+Por que comparar com o valor de hoje? Uma economia de R$ 1.000 daqui a dez anos não vale o mesmo que R$ 1.000 agora, porque o dinheiro de hoje pode render. Por isso, as economias futuras são trazidas a valor de hoje com a mesma taxa de 3% ao ano que o saldo renderia. Sem esse ajuste, a economia pareceria maior do que é. Mesmo com ele, a amortização continua na frente nos dois caminhos do exemplo.
+
 ## Quando reduzir o prazo faz mais sentido
 
 Reduzir o prazo é a opção que mais economiza juros no total, e ela faz sentido quando você tem folga para pagar a parcela atual e quer encurtar a dívida. Ela também combina com quem pretende quitar o financiamento antes do fim do contrato. Se a sua renda é estável e o orçamento já fecha, esse caminho costuma entregar o maior retorno.
@@ -65,9 +67,11 @@ Guardar o saldo tem três razões legítimas. A primeira é a proteção: em cas
 
 Vale lembrar que o saldo guardado rende apenas o que a conta paga. Ele não é um investimento com retorno garantido acima da dívida, e a comparação só faz sentido com a taxa real do seu contrato.
 
+Há também um ponto prático. O dinheiro amortizado não volta para a conta. Se a renda cair alguns meses depois, a parcela continua exigindo o pagamento, e o saldo que você poderia sacar já não existe. Quem tem uma reserva fora do FGTS, ou uma renda que dificilmente cai, consegue aceitar essa troca com tranquilidade. Quem depende de um único salário costuma ganhar mais protegendo a conta do que acelerando a dívida.
+
 ## Os limites da lei
 
-A amortização com FGTS segue regras próprias. Pelo artigo 20, inciso VI, da Lei 8.036, o saque para amortização ou liquidação do saldo devedor exige intervalo mínimo de 2 anos para cada movimentação, e a operação precisa ser financiamento habitacional no sistema SFH. Essa exigência limita o planejamento, porque você não pode amortizar todo ano. Por isso, faça a conta uma vez e escolha o caminho com calma.
+A amortização com FGTS segue regras próprias. Pelo artigo 20, inciso VI, da Lei 8.036, o saque para amortização ou liquidação do saldo devedor exige intervalo mínimo de 2 anos para cada movimentação, e a operação precisa ser financiamento habitacional no sistema SFH. Essa exigência limita o planejamento, porque você não pode amortizar todo ano. Por isso, faça a conta uma vez e escolha o caminho com calma. Se a sua intenção é usar o saldo em duas etapas, por exemplo uma parte agora e outra daqui a alguns anos, a primeira movimentação precisa ser pensada já com a data da segunda em mente.
 
 Além da lei, o banco e o Conselho Curador do FGTS podem ter procedimentos próprios para a aceitação do pedido. Confirme com o agente financeiro os documentos, o prazo de processamento e a forma de aplicação do valor, porque o efeito na parcela depende de como o banco registra a operação. Veja também o artigo sobre [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento), que trata do pedido passo a passo.
 
@@ -79,12 +83,15 @@ Além da lei, o banco e o Conselho Curador do FGTS podem ter procedimentos próp
 4. Simule as duas opções no [simulador de financiamento](/simulador), com o valor que você pretende amortizar.
 5. Peça ao banco, por escrito, o efeito esperado na parcela ou no prazo e o procedimento de aplicação.
 
+Ao pedir a simulação, peça também o saldo devedor atualizado na data, o cronograma de parcelas e as condições para aceitar uma amortização extraordinária. Assim você compara o cálculo do banco com o seu, e não só com a estimativa de um artigo.
+
 ## Erros comuns
 
 - **Amortizar tudo de uma vez sem reserva.** Se a renda cair, o saldo que poderia proteger você já não estará disponível.
 - **Escolher pela parcela sem olhar o total.** Reduzir a parcela alivia o mês, mas economiza menos juros que reduzir o prazo.
 - **Achar que o rendimento do FGTS compensa juros altos.** Com juros de 10% ao ano ou mais, o saldo parado perde na comparação.
 - **Esquecer o intervalo de 2 anos.** Planejar uma nova amortização antes do prazo legal gera recusa e tempo perdido.
+- **Olhar só a simulação do banco.** Ela mostra a parcela nova, mas não mostra o que a conta do FGTS deixaria de render ou de proteger. Compare as duas coisas antes de decidir.
 
 ## Resumo
 
