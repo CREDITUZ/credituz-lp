@@ -4,7 +4,7 @@ description: "Quando a casa da família não pode ser penhorada pela Lei 8.009/1
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Em regra, sim: o imóvel residencial próprio do casal ou da entidade familiar é impenhorável por dívidas comuns (Lei 8.009/1990, art. 1º)."
   - "A proteção existe por força da lei, sem registro. Também é possível instituir bem de família convencional por escritura ou testamento, até um terço do patrimônio líquido (Código Civil, art. 1.711)."

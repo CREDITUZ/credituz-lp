@@ -1,10 +1,10 @@
 ---
 title: "PAR: como funciona o aluguel com opção de compra da Caixa"
-description: "Como funciona o PAR, o Programa de Arrendamento Residencial da Caixa: contrato de arrendamento com opção de compra, quem pode participar, prazo de 24 meses e cessão."
+description: "Como funciona o PAR, programa da Caixa de arrendamento com opção de compra: quem pode participar, o prazo de 24 meses para vender e as regras de cessão."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O PAR, criado pela Lei 10.188/2001, é arrendamento residencial com opção de compra para população de baixa renda, operado pela Caixa."
   - "Você mora pagando prestação, e no fim do contrato pode comprar, desde que cumpra as condições e a Caixa aceite."

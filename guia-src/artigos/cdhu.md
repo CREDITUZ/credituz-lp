@@ -1,10 +1,10 @@
 ---
 title: "CDHU: como financiar a casa própria em SP com regras de 2026"
-description: "Como a CDHU financia a compra de imóvel em SP: faixas de renda, juros de 0% até 5 salários mínimos, parcela de 20% da renda, documentos e como a seleção funciona."
+description: "Como a CDHU financia a compra de imóvel em SP: faixas de renda, juros de 0% até 5 salários mínimos, parcela de 20% da renda, documentos e seleção."
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "A CDHU oferece moradias e financiamento próprio para famílias de renda baixa em São Paulo, com regras definidas em cada edital."
   - "No edital de Balbinos (ED 07/2026), famílias de até 5 salários mínimos têm financiamento da CDHU sem juros, com correção anual pelo IPCA e parcela de 20% da renda."
@@ -81,6 +81,12 @@ Os documentos aparecem nas cláusulas 8.1 a 8.6 do edital de Balbinos. Em resumo
 - comprovação de renda, que muda conforme o tipo de trabalho: holerites, CTPS, CNIS, declaração de Imposto de Renda ou DAS-MEI, entre outros.
 
 Para uma visão geral da lista de financiamento, veja [documentos para financiamento](/artigos/documentos-para-financiamento).
+
+## Como o IPCA mexe no saldo
+
+O edital prevê correção monetária anual pelo IPCA, ou índice que o substitua (cláusulas 11.1.5 e 11.2.5). No trecho consultado, ele não deixa claro se a correção recai sobre a parcela, sobre o saldo devedor ou sobre os dois. Essa diferença muda a conta. Com juros de 0%, o que faz a dívida crescer é a inflação, não o juro. Por isso, a conta que mais importa não é só a taxa, e sim o que acontece com a parcela e com o saldo nos anos seguintes.
+
+Pergunte à CDHU três coisas: como a parcela é reajustada em cada ano, qual é o saldo na data da contratação e quanto o contrato prevê de saldo ao fim dos 360 meses. Se a resposta não estiver escrita, peça a simulação completa com os reajustes.
 
 ## Exemplo ilustrativo: o que a parcela de 20% permite financiar
 

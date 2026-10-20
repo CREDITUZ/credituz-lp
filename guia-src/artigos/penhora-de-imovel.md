@@ -4,7 +4,7 @@ description: "Quando um imóvel pode ser penhorado por dívida do dono, a ordem 
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "A penhora recai sobre bens do devedor. Pela ordem do CPC, dinheiro vem primeiro e o imóvel aparece logo depois de títulos e veículos (CPC, art. 835)."
   - "Quando a penhora é averbada no registro de imóveis, presume-se que todos conhecem a constrição, o que protege o credor (CPC, art. 844)."

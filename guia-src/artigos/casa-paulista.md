@@ -4,7 +4,7 @@ description: "Como funciona o Casa Paulista, subsídio de R$ 10 mil a R$ 16 mil 
 category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O Casa Paulista é um subsídio do governo de São Paulo, sem devolução, que reduz o dinheiro próprio necessário para comprar o primeiro imóvel."
   - "O valor vai de R$ 10 mil a R$ 16 mil por unidade, conforme a localização, e a renda máxima é de três salários mínimos, ou R$ 4.863 em 2026."
@@ -43,6 +43,8 @@ Em outubro de 2026, o Casa Paulista é um subsídio do governo de São Paulo par
 O programa concede subsídios estaduais para complementar financiamentos habitacionais de famílias de baixa renda. Na forma atual, ele aparece como Carta de Crédito Individual (CCI), modalidade descrita na Resolução SDUH nº 17, de 19 de março de 2024. A SDUH coordena o programa. A Caixa faz a análise de crédito e opera o financiamento.
 
 O benefício é aplicado na compra do imóvel e diminui a entrada que você precisaria juntar. Segundo a Agência SP, em matéria de maio de 2026, ele é concedido a fundo perdido, ou seja, não volta para o governo, e não entra no valor financiado. Também não é aluguel: é um desconto no preço que você paga de dinheiro próprio.
+
+Não confunda o Casa Paulista com as regras de financiamento da CDHU. São caminhos diferentes, com renda, juros e forma de seleção próprios. Para comparar, veja [CDHU: como financiar a casa própria em SP](/artigos/cdhu). Quem tem renda perto do limite de três salários mínimos deve simular os dois cenários antes de escolher.
 
 | Item | Como está em outubro de 2026 | Base |
 |---|---|---|
@@ -101,6 +103,18 @@ Os prazos são curtos, e perdê-los faz o benefício desaparecer:
 - **Empreendimento:** o subsídio é vinculado ao empreendimento cadastrado, e não ao comprador (item 10.2 da resolução).
 
 Esses prazos estão nos itens 10.4.3 e 11.1 da resolução. Quem for comprar agora deve pedir à Caixa e ao empreendimento a situação atual da autorização.
+
+## Perguntas para fazer antes de assinar
+
+Antes de reservar qualquer imóvel, leve estas perguntas à Caixa e ao empreendimento. As respostas mudam conforme a chamada e a sua renda, e algumas não estão nos textos que consultamos:
+
+- Qual é o valor exato do subsídio desse empreendimento, dentro da faixa de R$ 10 mil a R$ 16 mil?
+- A renda foi calculada com o salário mínimo de referência vigente na chamada? Ela segue o valor de R$ 1.621 ou outro?
+- Qual é a taxa de juros, o prazo máximo e o valor da parcela na simulação da Caixa?
+- Qual é a data de validade da autorização de utilização de recursos e a situação atual do empreendimento?
+- Há algum documento ou comprovação extra exigido por este empreendimento além da lista geral?
+
+Guarde por escrito as respostas. Elas valem mais do que qualquer valor de referência publicado na imprensa.
 
 ## Erros comuns e cuidados
 

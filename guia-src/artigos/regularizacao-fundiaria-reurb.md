@@ -1,10 +1,10 @@
 ---
 title: "Reurb: o que muda para quem tem imóvel sem escritura"
 description: "O que é a Reurb, a regularização fundiária urbana, o que ela entrega ao morador sem escritura, quem pode pedir, quanto custa e as etapas do processo em 2026."
-category: direitos
+category: programas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "A Reurb é a regularização fundiária urbana: um processo da prefeitura que incorpora bairros informais à cidade e dá título aos moradores."
   - "Ela entrega ao morador um título de posse ou de propriedade e a Certidão de Regularização Fundiária (CRF), que levam à matrícula do imóvel."

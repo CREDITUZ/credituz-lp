@@ -4,7 +4,7 @@ description: "Como o sinal e as arras funcionam nos arts. 417 a 420 do Código C
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Sinal é o valor dado para firmar a compra. Ele vira arras quando o contrato diz que foi dado a título de arras, e aí entra o regime do Código Civil (art. 417)."
   - "Se as arras são confirmatórias e o comprador desiste sem motivo, o vendedor pode ficar com o sinal. Se o vendedor desiste, o comprador pode exigir o sinal de volta mais o equivalente (art. 418)."
