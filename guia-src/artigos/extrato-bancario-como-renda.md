@@ -24,8 +24,8 @@ sources:
     url: "https://openfinancebrasil.org.br/"
   - title: "Código Penal, Decreto-Lei 2.848/1940, art. 298 (falsificação de documento particular)"
     url: "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
-  - title: "Serasa: comprometimento de renda no financiamento imobiliário (publicado em 18/06/2026)"
-    url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
+  - title: "Serasa: comprometimento de renda com dívidas (atualizado em 19/06/2026)"
+    url: "https://www.serasa.com.br/credito/blog/comprometimento-renda/"
 related: [renda-informal-comprovacao, open-finance-como-compartilhar-dados, renda-para-financiar-imovel, cadastro-positivo-e-open-finance]
 ---
 

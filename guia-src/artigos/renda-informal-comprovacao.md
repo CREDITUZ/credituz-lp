@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 7
 key_points:
   - "O banco não pede um documento específico para renda informal, mas considera só a renda que consegue verificar, com repetição e origem identificável."
-  - "Segundo a Serasa, os bancos costumam aceitar comprometimento de até 30% da renda bruta mensal, prática de mercado e não regra oficial."
+  - "Não há percentual único de aprovação: cada banco tem a própria política. A Serasa cita 30% da renda líquida como referência geral para dívidas, não como regra de financiamento."
   - "Carnê-leão, declaração de Imposto de Renda e extratos formam uma trilha que o banco consegue ler. Recibo solto pesa pouco."
   - "Média estável de vários meses pesa mais que um mês forte isolado, porque o banco costuma olhar a regularidade."
 faq:
@@ -16,14 +16,14 @@ faq:
   - q: "Declaração escrita por mim sobre a minha renda serve?"
     a: "Sozinha, pesa pouco. Ela ganha força quando vem acompanhada de extratos, recibos ou declaração de Imposto de Renda que mostrem a mesma renda."
   - q: "Preciso pagar carnê-leão para a renda ser aceita?"
-    a: "Depende de você se enquadrar na obrigação. Segundo a Receita Federal, o carnê-leão incide sobre rendimentos recebidos de pessoa física. Se você se enquadra, pagar em dia cria um histórico formal. Confirme com um contador."
+    a: "Depende de você se enquadrar na obrigação. Segundo a Receita Federal, o carnê-leão incide sobre rendimentos recebidos de pessoa física ou do exterior. Se você se enquadra, pagar em dia cria um histórico formal. Confirme com um contador."
   - q: "Renda que cai em alguns meses atrapalha?"
     a: "Costuma atrapalhar, porque o banco olha a regularidade. Uma média estável de vários meses é mais útil que um mês alto isolado."
 sources:
   - title: "Receita Federal: carnê-leão (incidência sobre rendimentos de pessoa física e prazo de pagamento)"
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/pagamento/carne-leao"
-  - title: "Serasa: comprometimento de renda no financiamento imobiliário (publicado em 18/06/2026)"
-    url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
+  - title: "Serasa: comprometimento de renda com dívidas (atualizado em 19/06/2026)"
+    url: "https://www.serasa.com.br/credito/blog/comprometimento-renda/"
   - title: "Open Finance Brasil: compartilhamento de informações financeiras e revogação pelo consumidor"
     url: "https://openfinancebrasil.org.br/"
 related: [financiamento-autonomo-mei, extrato-bancario-como-renda, declaracao-de-imposto-de-renda-e-financiamento, renda-para-financiar-imovel]
@@ -41,7 +41,7 @@ Três perguntas guiam a análise, qualquer que seja o tipo de trabalho:
 2. Ela se repete? Um trabalho pontual não serve de base para uma parcela que dura décadas.
 3. Dá para ver de onde vem? Dinheiro sem origem identificada costuma ser descartado.
 
-A parcela entra nessa conta. Em texto publicado em 18 de junho de 2026, a Serasa afirma que os bancos costumam aceitar um comprometimento de até 30% da renda bruta mensal, e descreve esse número como prática de mercado, não como regra. Na prática, a renda considerada define a parcela máxima, e não o contrário.
+A parcela entra nessa conta, mas não existe um percentual único que decida a aprovação. Cada banco define a própria política. Em texto atualizado em 19 de junho de 2026, a Serasa diz que 30% da renda líquida é uma referência geral para o total de dívidas, e não uma regra de financiamento imobiliário. Os exemplos deste texto usam 30% apenas como premissa de cálculo. Na prática, a renda que o banco considera define a parcela máxima, e não o contrário.
 
 ## Quais provas juntar, por tipo de situação
 
@@ -59,11 +59,11 @@ Se você já é obrigado a declarar, a declaração entregue com recibo é uma d
 
 ## Passo 2: carnê-leão como trilha mensal
 
-A Receita Federal explica que o carnê-leão é o imposto mensal sobre rendimentos recebidos de pessoa física residente no Brasil ou do exterior. O pagamento deve ser feito até o último dia útil do mês seguinte ao do recebimento. Nem todo trabalhador informal precisa pagar: isso depende de como o dinheiro chega até você. Quem se enquadra e paga em dia cria uma sequência mensal de pagamentos, que mostra regularidade de um jeito que um documento anual não mostra.
+A Receita Federal explica que o carnê-leão é o imposto mensal sobre rendimentos recebidos de pessoa física ou do exterior, quando o contribuinte é residente no Brasil. O pagamento deve ser feito até o último dia útil do mês seguinte ao do recebimento. Nem todo trabalhador informal precisa pagar: isso depende de como o dinheiro chega até você. Quem se enquadra e paga em dia cria uma sequência mensal de pagamentos, que mostra regularidade de um jeito que um documento anual não mostra.
 
 ## Passo 3: extratos dos últimos meses
 
-Extrato é a prova que mais aparece quando não há holerite. Ele mostra a entrada de dinheiro, mas não a origem dela, por isso precisa ser lido junto com recibos e contratos. O que o banco costuma olhar em cada entrada está em [extrato bancário como renda](/artigos/extrato-bancario-como-renda).
+Extrato é a prova que mais aparece quando não há holerite. Ele mostra a entrada de dinheiro, mas não a origem dela, por isso precisa ser lido junto com recibos e contratos. O que o banco costuma olhar em cada entrada está em [extrato bancário como renda](/artigos/extrato-bancario-como-renda). Se o extrato vier pelo Open Finance, a decisão de compartilhar é sua: você escolhe a instituição, confirma cada etapa e pode encerrar o envio a qualquer momento.
 
 ## Passo 4: recibos, notas e contratos
 
@@ -73,7 +73,7 @@ Recibos, notas de serviço e contratos de prestação com clientes ligam cada en
 
 Exemplo ilustrativo, com números redondos. Marcos é pintor e recebe dos clientes por Pix. Nos últimos 12 meses, a média das entradas ficou em cerca de R$ 4.200 por mês. Só que, em alguns meses, ele não guardou recibo nem nota, e no momento da análise conseguiu comprovar apenas R$ 2.500 de renda recorrente.
 
-Considerando as premissas de uma taxa efetiva de 11,5% ao ano, prazo de 360 meses e tabela SAC, com comprometimento de 30%, o resultado fica assim:
+Considerando as premissas de uma taxa efetiva de 11,5% ao ano, prazo de 360 meses e tabela SAC, com comprometimento de 30% (premissa de cálculo, não regra de banco), o resultado fica assim:
 
 | Renda considerada pelo banco | Parcela máxima (30%) | Valor financiável aproximado |
 |---|---|---|

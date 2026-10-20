@@ -12,7 +12,7 @@ key_points:
   - "Se você já enviou documentos, registre o que foi enviado, acompanhe seu CPF e avise o banco que o golpe citou."
 faq:
   - q: "Como saber se um correspondente bancário é de verdade?"
-    a: "Peça nome, CNPJ e o banco que ele representa. Confira a empresa na consulta de correspondentes do Banco Central e confirme pelo número oficial do banco se existe proposta no seu CPF."
+    a: "Peça nome, CNPJ e o banco que ele representa. Confira a empresa na base "Correspondentes no país", do Banco Central, e confirme pelo número oficial do banco se existe proposta no seu CPF."
   - q: "Posso mandar documentos pelo WhatsApp para um correspondente?"
     a: "Evite. Enviar documentos para quem você não verificou dá a alguém dados suficientes para abrir crédito em seu nome. Só envie depois de confirmar o intermediário pelos canais oficiais."
   - q: "Pedido de selfie com documento na mão é normal em financiamento?"
@@ -20,12 +20,14 @@ faq:
   - q: "Se já mandei meus documentos para um falso correspondente, o que faço?"
     a: "Registre o que foi enviado, avise o banco cujo nome foi usado, faça boletim de ocorrência, acompanhe seu CPF no Registrato e troque as senhas das contas que usam seus dados."
 sources:
-  - title: "Banco Central: consulta pública de correspondentes no país"
-    url: "https://www.bcb.gov.br/fis/info/correspondentes.asp"
+  - title: "Banco Central: Correspondentes no país (dados abertos)"
+    url: "https://dadosabertos.bcb.gov.br/en/dataset/correspondentes"
   - title: "Serasa: golpe do empréstimo, tipos mais comuns e dados que os golpistas pedem (atualizado em 20/02/2026)"
     url: "https://www.serasa.com.br/credito/blog/golpe-do-emprestimo-tipos-mais-comuns-e-como-se-prevenir/"
-  - title: "Mercado & Consumo: Febraban alerta que criminosos usam o nome da entidade para aplicar golpes (09/10/2026)"
-    url: "https://mercadoeconsumo.com.br/09/10/2026/economia/febraban-alerta-que-criminosos-tem-usado-nome-da-entidade-para-aplicar-golpes/"
+  - title: "Febraban: comunicado sobre golpes com o nome da entidade (09/10/2026)"
+    url: "https://portal.febraban.org.br/noticia/4506/pt-br/"
+  - title: "Resolução CMN 4.935/2021 (correspondentes), resumo em notícia especializada"
+    url: "https://finsidersbrasil.com.br/noticias-sobre-fintechs/cmn-atualiza-regras-para-correspondentes-bancarios"
 related: [golpes-de-credito-imobiliario, taxa-antecipada-golpe, registrato, analise-de-credito-como-funciona]
 ---
 
@@ -47,14 +49,14 @@ Repare que o golpe já começou na fase 3, mesmo sem nenhum pedido de dinheiro. 
 
 ## O que um intermediário legítimo costuma fazer
 
-Um correspondente de verdade informa de qual banco é, mostra canais de contato da instituição e orienta a formalização da proposta pelos meios do banco. Pela regra do Banco Central, o correspondente precisa deixar claro ao público que presta serviço para uma instituição e quais são os canais dela. Se a empresa não mostra isso, ou esconde o nome do banco até o fim, a conversa já merece desconfiança.
+Um correspondente de verdade informa de qual banco é, mostra canais de contato da instituição e orienta a formalização da proposta pelos meios do banco. A Resolução CMN 4.935/2021 manda que a instituição contratante divulgue no próprio site as informações sobre os correspondentes que contrata. Por isso, o banco por trás da empresa deve ser verificável. Se a empresa não informa esse nome, ou só o revela no fim, a conversa já merece desconfiança.
 
 Atenção ao contrário também: uma empresa legítima não precisa de pressa. Quando o pedido vem com "só hoje", "vaga limitada" ou "o gerente libera só para você", a pressão é a técnica, e não a análise.
 
 ## Checagem em quatro passos
 
 1. **Peça os dados por escrito.** Nome empresarial, CNPJ e o banco que a empresa representa. Um intermediário sério informa isso sem resistência.
-2. **Consulte o Banco Central.** A consulta pública de correspondentes no país mostra as empresas e as instituições contratantes. Procure pelo CNPJ e veja se a instituição é a que foi informada a você. Os mesmos dados também estão no portal de dados abertos do Banco Central.
+2. **Consulte a base do Banco Central.** A base "Correspondentes no país", publicada no portal de dados abertos do Banco Central, reúne as empresas que atuam como correspondentes. Procure pelo nome ou pelo CNPJ e veja se a instituição que ela informou aparece como contratante. Se a base não estiver acessível no momento, confirme com o banco, como no passo 3.
 3. **Confirme com o banco pelo número oficial.** Use o número do site do banco ou o do verso do cartão, nunca o que chegou na mensagem. Pergunte se a empresa é parceira e se existe proposta no seu CPF.
 4. **Veja para onde vai o dinheiro.** Qualquer pagamento ligado a um financiamento real vai para o banco, para a prefeitura ou para o cartório, nunca para uma conta pessoal.
 
@@ -62,7 +64,7 @@ Se qualquer um desses passos falhar, pare ali. Não existe motivo para continuar
 
 ## Quais dados o golpista quer
 
-A Serasa, ao descrever golpes de empréstimo, lista dados que criminosos costumam pedir: CPF, número de documento, data de nascimento, comprovante de renda e de endereço, selfie com documento e acesso ao internet banking. Cada item isolado parece inofensivo. Juntos, podem abrir produtos em seu nome.
+A Serasa, ao descrever golpes de empréstimo, lista dados que criminosos costumam pedir: CPF, RG ou outro documento, data de nascimento, comprovantes de renda e de endereço, selfie com documento, senhas, códigos recebidos por SMS e acesso ao internet banking. Cada item isolado parece inofensivo. Juntos, podem abrir produtos em seu nome.
 
 Por isso a pergunta útil não é "o que eu perco se mandar?", e sim "quem vai ter esses dados e para qual finalidade?". Se a resposta não é clara e verificável, o documento não deve sair.
 
@@ -70,7 +72,7 @@ Por isso a pergunta útil não é "o que eu perco se mandar?", e sim "quem vai t
 
 Exemplo ilustrativo, sem valores. Rafaela recebe uma mensagem de uma "consultoria de crédito imobiliário" dizendo que ela tem pré-aprovação. Pedem CPF, RG e três holerites por WhatsApp, além de uma selfie segurando o RG.
 
-Antes de responder, Rafaela faz a checagem. Pede o CNPJ e o nome do banco. A empresa manda um nome, sem CNPJ, e diz que o banco "aparece na proposta depois". Rafaela procura o nome na consulta de correspondentes do Banco Central e não encontra nada que bata com o que recebeu. Por fim, liga para o número do banco que está no verso do cartão, e a atendente não tem nenhuma proposta em seu CPF.
+Antes de responder, Rafaela faz a checagem. Pede o CNPJ e o nome do banco. A empresa manda um nome, sem CNPJ, e diz que o banco "aparece na proposta depois". Rafaela procura o nome na base de correspondentes do Banco Central e não encontra nada que bata com o que recebeu. Por fim, liga para o número do banco que está no verso do cartão, e a atendente não tem nenhuma proposta em seu CPF.
 
 Rafaela não envia mais nada, guarda as mensagens e registra a ocorrência. A checagem levou poucos minutos. Quem manda documento antes dela, na mesma situação, costuma só descobrir o golpe depois.
 
@@ -94,7 +96,7 @@ Rafaela não envia mais nada, guarda as mensagens e registra a ocorrência. A ch
 | Pressa | Explica prazos sem usá-los como pressão | Usa prazo curto como argumento de venda |
 | Conferência | Aceita que você confirme tudo com o banco | Pede que você não ligue ou "não perca tempo" |
 
-Golpistas costumam citar nomes conhecidos porque a confiança do banco é transferida para quem fala em nome dele. Um logotipo ou a expressão "parceiro oficial" não substituem a checagem. Nesse caso, não responda pela própria mensagem. Procure o banco no aplicativo ou no endereço digitado por você e pergunte pela proposta.
+Golpistas costumam citar nomes conhecidos porque a confiança do banco é transferida para quem fala em nome dele. Em comunicado de 9 de outubro de 2026, a Febraban disse que criminosos têm usado o nome da entidade e o logotipo dela em perfis de WhatsApp para pedir dados bancários e senhas. Um logotipo ou a expressão "parceiro oficial" não substituem a checagem. Nesse caso, não responda pela própria mensagem. Procure o banco no aplicativo ou no endereço digitado por você e pergunte pela proposta.
 
 ## Erros comuns
 

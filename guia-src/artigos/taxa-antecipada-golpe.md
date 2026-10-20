@@ -9,22 +9,22 @@ key_points:
   - "Banco não cobra taxa para liberar financiamento. O dinheiro sai do banco, e os custos legítimos aparecem no contrato ou são pagos a órgãos com guia oficial."
   - "A Febraban, em alerta de 9 de outubro de 2026, afirmou que não oferece empréstimos nem cobra valores para liberá-los."
   - "O golpe escala: a primeira taxa abre espaço para uma segunda, com outro nome, como conta bloqueada ou desbloqueio."
-  - "Se pagou por Pix, peça o MED ao seu banco. Desde 1º de setembro de 2026, o prazo para pedir a devolução passou de 30 para 80 dias."
+  - "Se pagou por Pix, peça o MED ao seu banco logo. A imprensa relatou em setembro de 2026 que o prazo para pedir a devolução foi ampliado. Confirme o prazo vigente com o banco, porque ele é curto."
 faq:
   - q: "Financiamento imobiliário tem alguma cobrança antes da assinatura?"
     a: "Pode haver custos antes da assinatura, como a avaliação do imóvel, cobrada pelo próprio banco com regra própria. Taxa para liberar o crédito, paga a pessoa ou conta de terceiro, não faz parte de um financiamento real."
   - q: "E se disserem que a taxa é devolvida depois da liberação?"
     a: "É o argumento típico do golpe. Quem vai liberar o valor não precisa de um depósito prévio para fazê-lo, e a devolução prometida costuma não acontecer."
   - q: "Paguei a taxa e o crédito não saiu. Ainda tenho saída?"
-    a: "Em geral, sim. Pare de pagar, junte as provas, registre boletim de ocorrência e procure seu banco pelo canal oficial. Se o pagamento foi por Pix, peça o MED logo, porque o prazo corre desde a transferência."
+    a: "Em geral, sim. Pare de pagar, junte as provas, registre boletim de ocorrência e procure seu banco pelo canal oficial. Se o pagamento foi por Pix, peça o MED logo, porque o prazo é curto e costuma contar a partir da transação."
   - q: "Quais custos reais existem antes de a casa ser minha?"
     a: "Depende da cidade e do banco. Avaliação, ITBI, escritura e registro têm cobranças próprias, com guias ou valores conferidos com o banco, a prefeitura e o cartório."
 sources:
   - title: "Serasa: depósito antecipado para empréstimo, sinais do golpe e por que instituições legítimas não cobram antes (atualizado em 11/03/2026)"
     url: "https://www.serasa.com.br/credito/blog/deposito-antecipado-para-emprestimo-cuidado-com-o-golpe/"
-  - title: "Mercado & Consumo: Febraban alerta que criminosos usam o nome da entidade para aplicar golpes (09/10/2026)"
-    url: "https://mercadoeconsumo.com.br/09/10/2026/economia/febraban-alerta-que-criminosos-tem-usado-nome-da-entidade-para-aplicar-golpes/"
-  - title: "Mercado & Consumo: nova regra do Pix amplia prazo para contestar golpe, MED de 30 para 80 dias (01/09/2026)"
+  - title: "Febraban: comunicado sobre golpes com o nome da entidade (09/10/2026)"
+    url: "https://portal.febraban.org.br/noticia/4506/pt-br/"
+  - title: "Mercado & Consumo: nova regra do Pix para contestar golpe (01/09/2026), reportagem"
     url: "https://mercadoeconsumo.com.br/01/09/2026/economia/nova-regra-do-pix-amplia-prazo-para-contestar-golpe/"
   - title: "Código Penal, Decreto-Lei 2.848/1940, art. 171 (estelionato)"
     url: "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
@@ -39,7 +39,7 @@ Este texto explica por que a conta não fecha e o que fazer. Os outros golpes, c
 
 O banco ganha com os juros e as tarifas que aparecem no contrato, e recebe ao longo do financiamento. Ele tem interesse em emprestar para quem vai pagar. Cobrar antes de entregar o valor não remunera a instituição e não faz sentido na lógica do negócio.
 
-A Serasa, ao tratar de empréstimos em geral, afirma que instituições legítimas não exigem antecipação de taxas, depósitos ou parcelas para liberar o dinheiro, e que o custo total só é cobrado depois da liberação. No crédito imobiliário, a lógica é a mesma: o que é cobrado vem depois, dentro do contrato, ou com guia oficial de órgão público.
+A Serasa, ao tratar de empréstimos em geral, afirma que instituições financeiras legítimas nunca exigem a antecipação de taxas, depósitos ou parcelas para liberar um empréstimo. No crédito imobiliário, os custos legítimos aparecem no contrato, são pagos com guia oficial de órgão público ou são cobrados pelo próprio banco dentro do processo de análise, como a avaliação.
 
 ## O roteiro típico, em etapas
 
@@ -89,7 +89,7 @@ Repare também que o pedido quase sempre vem por Pix. A transferência é imedia
 ## Se você já pagou
 
 1. **Pare.** Não faça nenhum pagamento a mais, mesmo que a pessoa diga que é a última etapa.
-2. **Avise o seu banco pelo canal oficial.** Se o pagamento foi por Pix, peça o MED, o Mecanismo Especial de Devolução. Segundo reportagens de 1º de setembro de 2026, com base na Instrução Normativa BCB 766, o prazo para contestar passou de 30 para 80 dias. Para quem enviou o Pix, a contagem começa na transação. A devolução depende da resposta do banco do destinatário, e quanto mais tempo passa, mais difícil fica recuperar o valor.
+2. **Avise o seu banco pelo canal oficial.** Se o pagamento foi por Pix, peça o MED, o Mecanismo Especial de Devolução. Reportagens de setembro de 2026 relatam que o Banco Central ampliou o prazo para contestar, e que a contagem parte da transação. Confirme a regra vigente com o seu banco logo, porque o prazo é curto. A devolução depende da resposta do banco do destinatário, e quanto mais tempo passa, mais difícil fica recuperar o valor.
 3. **Registre boletim de ocorrência.** Guarde comprovantes, prints, números de telefone e nomes usados.
 4. **Troque senhas.** Se passou códigos, senhas ou acesso ao aplicativo, troque as senhas do banco e do e-mail.
 5. **Reclame nos canais oficiais.** Se o banco não resolver, registre reclamação no Procon, no consumidor.gov.br ou no Banco Central.

@@ -6,49 +6,49 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
-  - "Não existe um prazo oficial único. Estimativas de imprensa colocam o processo completo, da análise até a liberação, entre cerca de um e três meses."
-  - "A análise de crédito costuma ser a etapa mais rápida. A avaliação do imóvel e a análise jurídica costumam tomar mais tempo."
-  - "Pendência de documento, certidão do vendedor e prazo do cartório são as causas mais comuns de atraso, mais do que a análise do banco."
+  - "Não existe prazo oficial para o financiamento inteiro. Uma reportagem do setor estima de 50 a 90 dias, sem fonte oficial para esse número."
+  - "A análise de crédito costuma ser a etapa mais rápida. A avaliação do imóvel e a análise jurídica tomam mais tempo."
+  - "Pendência de documento, certidão do vendedor e agenda do cartório são causas comuns de atraso, muitas vezes mais do que a própria análise do banco."
   - "Os prazos de registro dependem do cartório e do município, então pergunte o prazo de cada um antes de marcar a data da mudança."
   - "Peça ao banco um cronograma por escrito e confira cada etapa. Quem acompanha o processo costuma ter menos surpresas."
 faq:
   - q: "Quanto tempo leva para o dinheiro cair na conta do vendedor?"
-    a: "Estimativas de imprensa falam em até cerca de três meses a partir da aprovação, somando assinatura, registro e liberação. Não há prazo oficial por etapa, então confirme o cronograma com o banco e o cartório."
+    a: "Não há prazo oficial. Uma reportagem do setor estima de 50 a 90 dias do pedido até a liberação, sem fonte oficial. Confirme o cronograma com o banco e o cartório."
   - q: "A análise de crédito demora quanto?"
-    a: "Uma estimativa de imprensa cita cerca de cinco dias para a análise de crédito. O prazo real depende da completude dos documentos e da política do banco."
+    a: "Não há prazo oficial. A análise costuma ser a etapa mais rápida, e o prazo real depende da completude dos documentos e da política do banco."
   - q: "Posso acelerar o financiamento?"
     a: "Sim, em grande parte. Entregue os documentos completos, resolva pendências de CPF e certidões antes de procurar imóvel e agende o cartório com antecedência."
   - q: "O prazo muda se o imóvel for na planta?"
     a: "Muda, porque a liberação segue o cronograma da obra e as parcelas da construtora. Veja os detalhes em [juros de obra](/artigos/juros-de-obra)."
 sources:
-  - title: "MySide: tempo de liberação do dinheiro no financiamento imobiliário (publicado em 20/10/2023, atualizado em 14/10/2025; estimativas de imprensa)"
+  - title: "MySide: tempo de liberação do dinheiro no financiamento imobiliário (publicado em 20/10/2023, atualizado em 14/10/2025; estimativas de imprensa sem fonte oficial)"
     url: "https://myside.com.br/guia-imoveis/tempo-liberacao-dinheiro-financiamento-imobiliario"
-  - title: "Padronização de registros de imóveis deve acelerar análise de crédito (IRIB, notícia de 09/06/2026, sem prazo numérico)"
+  - title: "Registro de Imóveis do Brasil (portal ligado ao ONR): padronização do registro deve agilizar a análise de crédito, notícia de 09/06/2026, sem prazo em dias"
     url: "https://www.registrodeimoveis.org.br/padronizacao-de-registro-deve-acelerar-analise-de-credito"
-  - title: "Decreto 8.660/2016 (apostila de Haia), Planalto, citado como referência de documentos do exterior"
-    url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8660.htm"
+  - title: "Lei 9.514, de 20 de novembro de 1997 (alienação fiduciária de coisa imóvel, art. 23 sobre o registro), Planalto"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
 related: [documentos-para-financiamento, avaliacao-do-imovel-pelo-banco, registro-de-imovel-passo-a-passo, prazo-para-liberar-fgts-na-compra]
 ---
 
-Um financiamento imobiliário leva, do pedido de análise até o dinheiro chegar ao vendedor, algo que as estimativas de imprensa colocam entre cerca de um e três meses. Não existe um prazo oficial único, porque cada etapa depende do banco, do imóvel, do cartório e da prefeitura. O que mais determina a velocidade não é a análise em si, e sim a documentação completa desde o início.
+Não existe um prazo oficial para o financiamento inteiro. Do pedido de análise até o dinheiro chegar ao vendedor, o processo depende do banco, do imóvel, do cartório e da prefeitura. Uma reportagem do setor estima o total entre 50 e 90 dias, mas não cita fonte oficial para esse número, então trate-o como ordem de grandeza. O que mais determina a velocidade não é a análise em si, e sim a documentação completa desde o início.
 
 Este texto mostra cada etapa, o que costuma levar tempo e o que você pode fazer para não perder semanas.
 
 ## O caminho completo, em ordem
 
-O processo passa por sete momentos. Nem todos têm prazo público, e isso importa para entender onde você pode cobrar um andamento.
+O processo passa por sete momentos. Nenhum deles tem prazo oficial publicado, e isso importa para entender onde você pode cobrar um andamento.
 
 | Etapa | O que acontece | Prazo que você pode esperar | Quem controla |
 |---|---|---|---|
 | 1. Simulação | Você informa renda, valor e prazo e recebe propostas | Costuma ser rápido, sem prazo oficial | Banco |
-| 2. Análise de crédito | O banco confere renda, score e histórico | Estimativa de imprensa: cerca de 5 dias | Banco |
-| 3. Avaliação do imóvel | Engenheiro do banco vistoria e define o valor | Estimativa de imprensa: 25 a 30 dias, junto com a análise jurídica | Banco |
-| 4. Análise jurídica | O banco confere matrícula e certidões | Incluída na faixa acima | Banco |
-| 5. Assinatura | Contrato assinado, presencial ou com certificado digital | Sem prazo público, depende de agenda | Banco e você |
-| 6. ITBI e registro | Pagamento do imposto da prefeitura e registro no cartório de imóveis | Varia por cartório e município | Prefeitura e cartório |
-| 7. Liberação | Banco paga o vendedor após o registro | Estimativa de imprensa: até cerca de 3 meses no total | Banco |
+| 2. Análise de crédito | O banco confere renda, score e histórico | Costuma ser a etapa mais rápida | Banco |
+| 3. Avaliação do imóvel | Engenheiro do banco vistoria e define o valor | Costuma levar mais tempo que a análise de crédito | Banco |
+| 4. Análise jurídica | O banco confere matrícula e certidões | Corre junto com a avaliação, sem prazo público | Banco |
+| 5. Assinatura | Contrato assinado, presencial ou com certificado digital | Depende da agenda do banco e do cartório | Banco e você |
+| 6. ITBI e registro | Imposto pago na prefeitura e registro no cartório de imóveis | Varia por município e cartório | Prefeitura e cartório |
+| 7. Liberação | Banco paga o vendedor após o registro | Confirme a data prevista por escrito | Banco |
 
-As faixas de prazo vêm de uma reportagem de guia de imóveis que não cita fonte oficial para cada número. Use essas faixas como referência de ordem de grandeza, e não como garantia.
+A faixa de 50 a 90 dias vem de uma reportagem de guia de imóveis publicada em 2023 e atualizada em outubro de 2025. Ela atribui os números a especialistas, sem citar fonte oficial para cada etapa.
 
 ## O que a análise de crédito verifica
 
@@ -70,21 +70,21 @@ O ITBI, imposto de transmissão de bens imóveis cobrado pela prefeitura, costum
 
 ## Registro no cartório: o prazo que mais varia
 
-O registro no cartório de imóveis é o passo que formaliza a compra e a garantia do banco. Ele depende do cartório da região do imóvel, da fila de títulos e da qualidade da documentação entregue.
+O registro no cartório de imóveis é o passo que formaliza a compra e a garantia do banco. Pela Lei 9.514/1997, a propriedade fiduciária nasce com o registro do contrato no Registro de Imóveis (art. 23). O prazo depende do cartório da região do imóvel, da fila de títulos e da qualidade da documentação entregue.
 
-Não consegui confirmar, em fonte oficial, um número de dias para essa etapa. Uma notícia do setor de registro publicada em 09/06/2026 cita que a padronização dos registros deve reduzir prazos de financiamento, mas não dá um número. Por isso, pergunte ao cartório qual é o prazo médio atual e se o título já pode ser apresentado antes da data de assinatura.
+Não encontrei, em fonte oficial, um número de dias para essa etapa. Uma notícia do portal Registro de Imóveis do Brasil, ligado ao ONR, de 09/06/2026, diz que a padronização do registro eletrônico deve agilizar a análise de crédito, mas não traz prazo em dias. Por isso, pergunte ao cartório qual é o prazo médio atual e se o título pode ser apresentado antes da data de assinatura.
 
 Se você tem prazo para mudar ou para entregar o imóvel atual, não marque a data com base em um número de dias que ninguém confirmou para o seu caso.
 
 ## Liberação ao vendedor
 
-A liberação é o pagamento do banco ao vendedor. Em geral, ela só acontece depois do registro. Uma estimativa de imprensa afirma que o dinheiro costuma sair cerca de 20 dias após as etapas do cartório, mas o texto não deixa claro se esse número vale só para a liberação ou para o conjunto. Use com cautela e pergunte ao banco a data prevista.
+A liberação é o pagamento do banco ao vendedor. Em geral, ela só acontece depois do registro. Não encontrei prazo oficial para essa etapa, então pergunte ao banco a data prevista e registre a resposta por escrito.
 
 Se o imóvel é financiado com FGTS, há uma etapa a mais de análise. O guia sobre [prazo para liberar o FGTS na compra](/artigos/prazo-para-liberar-fgts-na-compra) detalha esse caso.
 
 ## Exemplo ilustrativo: quanto custa a espera
 
-Imagine que você paga aluguel de R$ 2.500 por mês e que a liberação atrasa de 30 para 70 dias. O custo da espera extra, calculado de forma proporcional ao tempo, seria de cerca de R$ 5.833 (70 dias, ou 2,33 meses, de R$ 2.500). Não é uma previsão. Serve para você ver que um atraso de algumas semanas pode pesar no bolso, principalmente se você precisa manter aluguel e financiamento ao mesmo tempo.
+Imagine que você paga aluguel de R$ 2.500 por mês e que a liberação demora 40 dias a mais do que o previsto, período em que você continua pagando aluguel. Proporcionalmente, o aluguel equivale a cerca de R$ 83 por dia, e a espera extra custaria cerca de R$ 3.333. Não é uma previsão. Serve para você ver que um atraso de algumas semanas pode pesar no bolso, principalmente se você precisa manter aluguel e financiamento ao mesmo tempo.
 
 Por isso, ao escolher a data da mudança, deixe folga e não agende a saída do aluguel antes da data de registro.
 
@@ -98,7 +98,7 @@ Por isso, ao escolher a data da mudança, deixe folga e não agende a saída do 
 
 ## Imóvel novo na planta e imóvel usado
 
-O prazo muda conforme o tipo de imóvel. No imóvel usado, a análise jurídica costuma ser a mais demorada, porque a matrícula pode ter histórico longo, penhoras antigas ou inventário em aberto. Confira a matrícula e as certidões do vendedor antes de assinar a proposta de compra.
+O prazo muda conforme o tipo de imóvel. No imóvel usado, a análise da matrícula e das certidões do vendedor pode ser a etapa que mais atrasa, sobretudo quando o histórico da matrícula é longo. Confira a matrícula e as certidões antes de assinar a proposta de compra.
 
 No imóvel na planta, o dinheiro não sai de uma vez. A liberação segue o avanço da obra, em etapas, e o cronograma depende da construtora e do banco. Nesse caso, a conta não é só de prazo de cartório: é de prazo de obra. O guia sobre [juros de obra](/artigos/juros-de-obra) mostra como essa fase costuma funcionar e quanto ela custa.
 
@@ -112,7 +112,7 @@ Se o processo parar sem explicação, registre o pedido por escrito e guarde o p
 
 ## Resumo e próximos passos
 
-- Não há prazo oficial único. Estimativas de imprensa colocam o processo completo entre cerca de um e três meses.
+- Não há prazo oficial para o financiamento inteiro. Uma reportagem estima de 50 a 90 dias, sem fonte oficial.
 - A análise de crédito costuma ser a etapa mais rápida. A avaliação e a análise jurídica tomam mais tempo.
 - O registro no cartório é o passo mais variável. Confirme o prazo do seu cartório antes de marcar a mudança.
 - Documentação completa desde o início é o maior fator de velocidade.
