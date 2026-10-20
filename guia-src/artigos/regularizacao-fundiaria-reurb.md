@@ -53,11 +53,11 @@ Três conceitos da lei (art. 11) decidem o que o morador recebe:
 
 | Instrumento | O que é | Efeito para o morador |
 |---|---|---|
-| Legitimação de posse | ato do poder público que confere título reconhecendo a posse, com os ocupantes, o tempo de ocupação e a natureza da posse (art. 11, VI) | título que pode se converter em aquisição de direito real de propriedade |
+| Legitimação de posse | ato do poder público que reconhece a posse dentro da Reurb (art. 11, VI) | título que pode se converter em aquisição de direito real de propriedade |
 | Legitimação fundiária | mecanismo de reconhecimento da aquisição originária do direito real de propriedade (art. 11, VII) | propriedade reconhecida diretamente, mas só para núcleos existentes até 22 de dezembro de 2016 (art. 9, §2º) |
 | Certidão de Regularização Fundiária (CRF) | documento emitido pelo município ao final do procedimento, com o projeto aprovado, o termo de compromisso e, no caso de legitimação, a lista dos ocupantes (art. 11, V) | base para registrar o núcleo e abrir as matrículas |
 
-O Decreto 9.310/2018 reforça a função da CRF: ela é o ato administrativo que aprova a Reurb (art. 38) e segue um projeto mínimo de regularização, cujo conteúdo está no art. 30.
+O Decreto 9.310/2018 traz a mesma definição de CRF no seu art. 3º, V. No art. 38, ele a trata como o ato administrativo que aprova a Reurb, e o art. 30 lista o conteúdo mínimo do projeto de regularização que a sustenta.
 
 Na prática, o morador sai com um documento que o cartório consegue registrar. A partir daí, a matrícula deixa de ser um problema para venda e financiamento, porque o imóvel passa a ter registro. Essa é a diferença central em relação ao contrato de gaveta, que dá só posse de fato.
 
@@ -65,7 +65,7 @@ Na prática, o morador sai com um documento que o cartório consegue registrar. 
 
 O art. 14 da Lei 13.465 lista os legitimados a requerer a Reurb: a União, os estados, o Distrito Federal, os municípios, os beneficiários, os proprietários de imóveis, os loteadores e incorporadores, a Defensoria Pública e o Ministério Público. Ou seja, o morador pode pedir, mas quem conduz o processo é o município.
 
-Cada cidade regulamenta o procedimento por lei própria, como a Lei Municipal 17.734, de 2022, que trata da Reurb na capital paulista. Por isso, a primeira pergunta é: a sua prefeitura já tem um programa de Reurb ou uma lei local?
+Cada cidade regulamenta o procedimento por lei própria, como a Lei Municipal 17.734, de 11 de janeiro de 2022, que trata da Reurb na capital paulista e atribui o processamento à Secretaria de Habitação (SEHAB). Por isso, a primeira pergunta é: a sua prefeitura já tem um programa de Reurb ou uma lei local?
 
 ## As etapas, em linhas gerais
 
@@ -73,19 +73,21 @@ O caminho exato depende do município. Em linhas gerais, o processo segue esta s
 
 1. **Requerimento.** Um dos legitimados pede a Reurb à prefeitura, com a identificação do núcleo.
 2. **Levantamento e projeto.** Equipe técnica faz o levantamento da área e o projeto de regularização, com o conteúdo mínimo previsto no Decreto 9.310/2018.
-3. **Notificação.** Os titulares de domínio e os confrontantes são notificados e têm 30 dias para impugnar (art. 20 da lei). Quem não for encontrado é notificado por edital, com o mesmo prazo.
+3. **Notificação.** Os titulares de domínio e os confrontantes são notificados e têm 30 dias para impugnar a demarcação (art. 20 da lei). Quem não for encontrado é notificado por edital, com o mesmo prazo.
 4. **Aprovação municipal.** A aprovação pela prefeitura vale como aprovação urbanística do projeto e, se houver órgão ambiental capacitado, também como ambiental (art. 12).
 5. **Emissão da CRF e registro.** Com a CRF, o cartório abre as matrículas e registra os títulos.
 
-A demarcação urbanística é uma etapa facultativa, e o art. 19, §3º, esclarece que ela não é condição para a Reurb. Os artigos que tratam em detalhe da titulação e da CRF não foram conferidos para este texto, então verifique a redação atual no site do Planalto antes de contar com um prazo.
+A demarcação urbanística é uma etapa facultativa, e o art. 19, §3º, esclarece que ela não é condição para a Reurb. O rito detalhado, com prazos de análise e documentos, está na lei do município. Confira ali antes de contar com qualquer prazo.
 
 ## Quanto custa
 
-Para a Reurb-S, o art. 13, §1º, isenta de custas e emolumentos atos como o primeiro registro do núcleo, o registro da legitimação fundiária, o registro da CRF com abertura de matrícula por unidade e o registro do título de legitimação de posse e de sua conversão em propriedade. O mesmo parágrafo inclui a primeira averbação de construção residencial de até 70 m². O §2º dispensa a comprovação de pagamento de tributos e penalidades para esses atos.
+Para a Reurb-S, o art. 13, §1º, lista oito tipos de atos isentos de custas e emolumentos (incisos I a VIII). Entre eles estão o primeiro registro da Reurb-S (inciso I), o registro da legitimação fundiária (II), o registro do título de legitimação de posse e de sua conversão em propriedade (III), o registro da CRF com abertura de matrícula para cada unidade regularizada (IV) e a primeira averbação de construção residencial, limitada a 70 m² (V). O §2º dispensa a comprovação de pagamento de tributos e penalidades para esses atos.
 
-Exemplo ilustrativo: uma casa de 68 m², dentro do núcleo da Reurb-S, entra na faixa de 70 m² da isenção de averbação. Uma casa de 85 m² não se enquadra nessa faixa, e a lei não diz, nesse trecho, como fica a cobrança do excedente. Pergunte ao cartório como serão calculados os emolumentos do seu caso.
+Exemplo ilustrativo: uma casa de 68 m², dentro do núcleo da Reurb-S, fica dentro do limite de 70 m² da isenção de averbação. Uma casa de 85 m² tem a parte acima de 70 m² fora da isenção, e o valor dessa diferença segue a tabela de emolumentos do cartório. Pergunte ao cartório como serão calculados os emolumentos do seu caso antes de começar.
 
-Na Reurb-E, a lei não fixa valores de custas no trecho consultado. Os custos seguem as tabelas do estado e os eventuais tributos do município, então peça a estimativa antes de começar.
+Na capital paulista, a Lei Municipal 17.734/2022 traz outra isenção relevante. O art. 53 a isenta do Imposto sobre Transmissão de Bens Imóveis (ITBI) na aquisição do primeiro direito real de unidade derivada da Reurb-S. Confirme com a prefeitura se o seu imóvel se enquadra.
+
+Na Reurb-E, a lei federal não fixa valores de custas no trecho consultado. Os custos seguem as tabelas do estado e os eventuais tributos do município, então peça a estimativa antes de começar.
 
 Mesmo na Reurb-S, algumas despesas não desaparecem: a família precisa cumprir obrigações de infraestrutura, e o §7º do art. 13 manda ligar a edificação às redes de água, esgoto ou energia quando elas estiverem disponíveis, salvo regra municipal em contrário.
 
@@ -113,7 +115,8 @@ A Reurb também não é o mesmo caminho da usucapião. A usucapião depende de p
 
 - A Reurb é a regularização de núcleos informais conduzida pela prefeitura, com base na Lei 13.465/2017 e no Decreto 9.310/2018.
 - Ela pode entregar título de posse, reconhecimento de propriedade (apenas em núcleos existentes até 22 de dezembro de 2016) e a CRF para registro.
-- Na Reurb-S, há isenção de custas e emolumentos em atos como o primeiro registro e a primeira averbação de construção residencial de até 70 m².
+- Na Reurb-S, há isenção de custas e emolumentos em oito tipos de atos, incluindo a primeira averbação de construção residencial de até 70 m².
+- Na capital paulista, a Lei 17.734/2022 isenta de ITBI a primeira aquisição de unidade derivada da Reurb-S.
 - Quem tem imóvel sem escritura deve procurar a prefeitura, verificar se há programa local e, se houver disputa ou dúvida, buscar advogado ou a Defensoria Pública.
 
 Informações de referência de outubro de 2026, com base no texto da lei e do decreto. A legislação municipal e os valores dos emolumentos mudam, então confirme na prefeitura e no cartório da sua cidade antes de tomar qualquer decisão.
