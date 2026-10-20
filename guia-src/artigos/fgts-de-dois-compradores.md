@@ -128,7 +128,7 @@ Depois do contrato assinado, cada comprador que consta como devedor pode usar o 
 - **Esquecer o regime de bens.** Na comunhão universal, um imóvel antigo de um bloqueia os dois.
 - **Declarar que vai morar sem ir.** A declaração de residência é feita sob as penas da lei. Pelo manual da Caixa, informação falsa leva ao estorno do valor para a conta do FGTS e à comunicação à Polícia Federal e ao Ministério Público Federal.
 - **Não pensar na separação.** Comprar juntos cria um condomínio no imóvel. Em caso de término, venda ou divisão exigem acordo. Considere formalizar a união e a participação de cada um, e procure um advogado se a situação for complexa.
-- **Achar que a herança impede.** Até 40% de fração não impede. Confira o percentual na matrícula.
+- **Achar que a herança impede.** A fração de outro imóvel pode ou não pesar, conforme a regra do banco. Confira a matrícula e pergunte ao banco antes de contar com o uso do FGTS.
 
 ## Resumo e próximos passos
 
