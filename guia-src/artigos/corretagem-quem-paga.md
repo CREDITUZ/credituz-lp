@@ -4,7 +4,7 @@ description: "Quem paga a comissão do corretor na compra de imóvel usado, o qu
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Em regra, quem paga a comissão é quem contratou o corretor. Na venda de imóvel usado, isso costuma ser o vendedor, salvo acordo claro em contrário no contrato."
   - "O comprador só deve pagar se assumiu essa obrigação no contrato ou se foi ele quem contratou o profissional. Sem isso, a cobrança pode ser questionada."

@@ -4,7 +4,7 @@ description: "A tarifa de cadastro é cobrada pelo banco no início do relaciona
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 9
 key_points:
   - "A tarifa de cadastro paga a abertura do relacionamento com o banco, como a consulta a bases de crédito e o tratamento dos seus dados. Ela é cobrada no início, e não todo mês."
   - "O STJ, na Súmula 566, reconheceu que a tarifa pode ser cobrada em contratos bancários firmados depois de 30/04/2008. A cobrança, porém, ainda precisa seguir a regra geral do Banco Central, que exige previsão no contrato ou autorização prévia."
