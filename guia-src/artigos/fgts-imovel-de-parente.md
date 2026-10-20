@@ -4,7 +4,7 @@ description: "Dá para usar o FGTS para comprar imóvel de parente? Veja a regra
 category: fgts
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Em regra, dá para usar o FGTS na compra de imóvel de parente, desde que você seja o comprador e vá morar nele."
   - "O parentesco, por si, não bloqueia a compra. A lei exige moradia própria de quem usa o saldo."

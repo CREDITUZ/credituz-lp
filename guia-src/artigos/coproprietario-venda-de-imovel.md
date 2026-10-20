@@ -4,7 +4,7 @@ description: "Cada dono pode vender a sua fração, mas os outros têm preferên
 category: direitos
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Cada coproprietário pode vender a própria fração ideal, sem pedir permissão aos outros (Código Civil, art. 1.314)."
   - "Os demais donos têm preferência para ficar com a fração vendida a estranho, pelo mesmo preço, pelo prazo de 180 dias (art. 504)."
@@ -103,6 +103,10 @@ Os custos também se dividem pela fração. Supondo um IPTU anual de R$ 3.600, A
 - **Esquecer a outorga do cônjuge.** Sem ela, o registro da venda pode não sair.
 - **Partir do princípio de que imóvel divisível não tem preferência.** O STJ já decidiu de outro modo em 2015.
 - **Deixar de pagar a sua parte das despesas.** O atraso gera cobrança entre os donos.
+
+## Como conferir antes de comprar uma fração
+
+Quem compra uma fração deve olhar a matrícula do imóvel, que mostra quem são os donos, qual é a participação de cada um e se há ônus, penhoras ou ações em andamento sobre a fração. Se o vendedor herdou a parte, convém confirmar se o inventário foi concluído e se a partilha já está registrada, porque sem isso a venda pode ficar travada. Também vale pedir aos outros donos uma declaração por escrito de que conhecem a venda e não pretendem exercer a preferência, ou aguardar o prazo de 180 dias antes de pagar o valor integral. A escolha entre essas duas cautelas depende do caso e deve ser discutida com o advogado.
 
 ## Resumo
 

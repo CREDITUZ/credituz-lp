@@ -4,7 +4,7 @@ description: "Dá para usar o FGTS para comprar uma fração ideal ou a parte de
 category: fgts
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Em regra, dá para usar o FGTS na compra de uma fração de imóvel residencial, desde que a fração seja para a sua moradia."
   - "Não encontrei norma oficial com percentual mínimo ou máximo de fração para a compra com FGTS. Os textos comerciais citam 40%, mas o número não aparece em norma."
@@ -111,6 +111,7 @@ Esse número, porém, não diz quanto o banco vai financiar. Se o banco usar a p
 - **Usar o FGTS para comprar uma parte que não será moradia.** O saldo serve para a moradia própria, e uma fração para investimento não cabe nessa regra.
 - **Ignorar a preferência dos outros donos.** Um aviso não recebido pode transformar a compra em disputa judicial.
 - **Assinar uma proposta sem o método de avaliação.** Sem saber como a parte será avaliada, é difícil saber quanto o banco vai financiar.
+- **Usar o preço da casa inteira como referência.** O que você paga é a parte, e a conta de parcela, renda e entrada deve partir do valor dela, ajustado pelo método que o banco confirmar. Para o cálculo de renda, use a [calculadora de quanto posso financiar](/quanto-posso-financiar) com o valor da parte, e não o da casa.
 
 ## Resumo
 

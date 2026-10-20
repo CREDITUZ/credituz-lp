@@ -4,7 +4,7 @@ description: "Quanto rende o saldo do FGTS em 2026 com TR e 3% ao ano, o efeito 
 category: fgts
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O saldo do FGTS rende a TR mais 3% ao ano, o que deu cerca de 4,6% ao ano em outubro de 2026."
   - "Esse rendimento quase empata com a inflação de 4,58% em 12 meses, até setembro de 2026."
@@ -77,7 +77,7 @@ Este exemplo é ilustrativo. Ele supõe um saldo de R$ 30.000 em 31/12/2025, TR 
 | Só TR e juros de 3% ao ano | R$ 31.394,53 | R$ 1.394,53 | 4,65% ao ano | 0,07% ao ano |
 | Mesmo cenário, com crédito de lucro de 1,87% | R$ 31.981,09 | R$ 1.981,09 | 6,60% ao ano | cerca de 1,9% ao ano |
 
-Sem lucro, o saldo rende pouco mais de R$ 1.300 em um ano sobre R$ 30 mil. Com o crédito de lucro, o ganho passa de R$ 1.980. Esse crédito é o que faz a diferença entre quase empatar com a inflação e ganhar um pouco acima dela.
+Sem lucro, o saldo rende cerca de R$ 1.400 em um ano sobre R$ 30 mil. Com o crédito de lucro, o ganho passa de R$ 1.980. Esse crédito é o que faz a diferença entre quase empatar com a inflação e ganhar um pouco acima dela.
 
 ## Por que isso importa na compra
 

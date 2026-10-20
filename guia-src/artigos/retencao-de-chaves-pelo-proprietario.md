@@ -4,7 +4,7 @@ description: "O dono pode ficar com as chaves enquanto alguém ocupa o imóvel? 
 category: direitos
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "Enquanto alguém tem a posse do imóvel por contrato ou permissão, o dono não pode reter as chaves para pressionar pagamento ou saída (Código Civil, art. 1.197)."
   - "Com contrato de locação, a saída do locatário precisa ser pelo despejo (Lei 8.245/1991, art. 5º), e a devolução das chaves encerra a posse do locatário."
@@ -104,6 +104,10 @@ Se, em vez disso, o locatário saísse sem aviso, o dono poderia exigir R$ 2.000
 - **Condicionar a entrega a algo que o contrato não prevê.** O julgamento citado acima, em locação não residencial, mostra o risco.
 - **Entrar no imóvel sem agendar.** A vistoria exige combinação prévia de dia e hora.
 - **Não registrar a devolução.** Sem data, estado do imóvel e assinatura, a discussão sobre danos e aluguel fica sem prova.
+
+## Como registrar a entrega
+
+Quem devolve as chaves e quem as recebe deveriam ter a mesma versão do que aconteceu. Por isso, a entrega é melhor documentada quando há um recibo com a data, a lista de chaves entregues (portas, portões, garagem, correspondências), o estado geral do imóvel e a leitura dos medidores de água, luz e gás. Fotos com data ajudam, e a presença de duas testemunhas, ou de um tabelião para uma ata, reforça a prova. Esse registro protege os dois lados: o locatário comprova que devolveu, e o dono comprova o que recebeu. Quando o dono recusa uma vistoria combinada ou exige algo fora do contrato para receber as chaves, a recusa também deve ser registrada por escrito.
 
 ## Resumo
 
