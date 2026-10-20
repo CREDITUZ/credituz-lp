@@ -82,7 +82,7 @@ Repare que o artigo 496 fala apenas da venda de ascendente para descendente. Ent
 
 O formulário de autorização do banco não pergunta sobre parentesco com o vendedor, mas pede dados que afetam a análise. Ele pede o estado civil, a data do casamento ou da união estável e o regime de bens. Pede também a declaração de Imposto de Renda, ou a confirmação de que você é isento e não declara. Por fim, pergunta sobre outros imóveis em nome do comprador no país e sobre imóveis nas cidades onde você mora e trabalha.
 
-Por isso, a família deve reunir esses dados antes da simulação. Se o comprador é casado, o regime de bens muda o que o cônjuge precisa declarar e assinar, e esse tema está em [FGTS de duas pessoas na mesma compra](/artigos/fgts-de-dois-compradores). Se um parente tem imóvel na mesma cidade, a análise passa a depender de onde ele fica em relação à sua moradia, e o tema está em [quem já tem imóvel](/artigos/fgts-de-quem-ja-tem-imovel).
+Por isso, a família deve reunir esses dados antes da simulação. Se o comprador é casado, o regime de bens precisa ser informado, e o papel do cônjuge na compra depende dele. O tema está explicado em [FGTS de duas pessoas na mesma compra](/artigos/fgts-de-dois-compradores). Se um parente tem imóvel na mesma cidade, a análise passa a depender de onde ele fica em relação à sua moradia, e o tema está em [quem já tem imóvel](/artigos/fgts-de-quem-ja-tem-imovel).
 
 ## Passo a passo antes de assinar
 

@@ -82,6 +82,17 @@ Esse tipo de conta ajuda a estimar quanto a conta pode ter em uma data futura, o
 
 Se o seu resultado ficar diferente do saldo do app por mais do que alguns centavos ou reais, o problema costuma estar em um mês com depósito diferente ou em uma conta que você não incluiu. Os dois casos são fáceis de achar quando a planilha tem uma linha por mês.
 
+## Quando a conta não fecha
+
+Diferenças acontecem por motivos previsíveis, e nem sempre há erro. Antes de concluir que o empregador deixou de depositar, veja se alguma destas situações se aplica:
+
+- **Remuneração variável.** Horas extras, comissões e adicionais entram na base do mês em que foram pagos. Se o valor do mês anterior foi maior ou menor, o depósito acompanha essa diferença.
+- **Troca de empregador no meio do mês.** Cada vínculo tem a sua conta, e o depósito de cada um é calculado sobre a remuneração que ele pagou. Some as duas contas no período, em vez de tentar fechar um mês com um único contrato.
+- **Depósito ainda não feito.** O empregador tem um prazo para depositar, e o último mês pode aparecer no extrato alguns dias depois. Confira a data do extrato antes de concluir que falta algo.
+- **Parcelas que não entram na base.** Algumas verbas pagas na rescisão ou por indenização não geram depósito. Por isso, a conta deve partir da remuneração habitual e não de todos os valores que caíram na conta no mês de desligamento.
+
+Quando a diferença continua sem explicação, peça ao RH o demonstrativo de remuneração de cada mês e compare com o extrato. Se o problema persistir, a Caixa é o canal para verificar a conta.
+
 ## Erros comuns
 
 - **Usar o salário líquido.** A base é a remuneração, e não o valor depois dos descontos.

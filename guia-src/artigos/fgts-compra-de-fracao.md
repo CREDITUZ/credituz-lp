@@ -64,6 +64,31 @@ O parágrafo único trata do caso de vários donos: tem preferência quem fez be
 
 Na prática, se você compra a parte de um dos donos, os outros podem reclamar a venda. Por isso, peça ao vendedor a prova de que os demais foram avisados ou de que renunciaram por escrito. Se o imóvel for divisível, a análise muda, e um advogado deve avaliar o caso.
 
+## Cenários comuns
+
+A compra de uma fração aparece em situações diferentes, e cada uma muda a pergunta que você precisa fazer.
+
+| Cenário | O que costuma acontecer | O que confirmar |
+|---|---|---|
+| Herança entre irmãos, em que um quer ficar com a casa | Um herdeiro compra as partes dos outros, em geral após a partilha | Se a partilha está concluída e se a matrícula já mostra as frações |
+| Divórcio, em que um dos ex-cônjuges fica com a casa | A parte do outro é comprada em acordo, com a escritura correspondente | Se o acordo de divórcio foi homologado e se o regime de bens exige algo mais |
+| Imóvel comprado por dois ou mais irmãos ou amigos | Um dos donos quer vender a sua parte para outro | Se os demais donos foram avisados e se renunciaram por escrito |
+| Compra de uma parte para investir ou alugar | O FGTS não se aplica, porque a parte não é para moradia | Qualquer outra forma de financiamento, que deve ser analisada à parte |
+
+Em todos os casos, o ponto central é o mesmo: a parte precisa ser para a sua moradia, e os outros donos precisam ter sido ouvidos antes da venda.
+
+## Perguntas para levar ao banco
+
+Como as condições de fração variam e não estão em norma pública que eu tenha encontrado, leve estas perguntas por escrito antes de montar a proposta:
+
+- A instituição financia ou aceita o uso do FGTS para a compra de uma fração deste imóvel?
+- Qual método de avaliação é usado para a fração: a proporção do imóvel inteiro ou a avaliação da parte?
+- Há algum limite de percentual de fração para esta operação, e qual norma ou manual o define?
+- Quais documentos dos outros donos são exigidos, como autorização, renúncia de preferência ou escritura de cessão?
+- Se o imóvel tiver usufruto, penhora ou outra restrição, a operação é possível?
+
+Guarde as respostas. Elas valem como base de comparação quando um dos documentos ficar pendente.
+
 ## Exemplo ilustrativo: 30% de uma casa
 
 Este exemplo é ilustrativo e serve só para mostrar a conta de proporção. Uma casa é avaliada em R$ 400 mil, e você compra 30% dela de um irmão. Pela proporção, a parte vale cerca de R$ 120 mil (30% de R$ 400.000).
