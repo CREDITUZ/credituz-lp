@@ -4,7 +4,7 @@ description: "Comprar imóvel com outra pessoa é copropriedade. Veja como divid
 category: alternativas
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Quando duas ou mais pessoas compram juntas, cada uma fica com uma fração ideal do imóvel, chamada copropriedade."
   - "A divisão de entrada e parcela não precisa ser igual, mas precisa estar escrita e refletir o que cada um consegue pagar."
