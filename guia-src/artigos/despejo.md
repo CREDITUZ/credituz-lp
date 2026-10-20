@@ -6,15 +6,15 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 9
 key_points:
-  - "Seja qual for o motivo do fim da locação, o proprietário só pode reaver o imóvel pela ação de despejo (Lei 8.245/1991, art. 5º). Trocar fechaduras ou cortar serviços por conta própria não é caminho permitido."
-  - "No atraso de aluguel, o inquilino pode impedir a rescisão pagando o débito atualizado em 15 dias contados da citação, uma vez a cada 24 meses (art. 62)."
+  - "Seja qual for o motivo do fim da locação, o proprietário só pode reaver o imóvel pela ação de despejo (Lei 8.245/1991, art. 5º). Trocar fechaduras ou cortar serviços para forçar a saída não substitui a ordem judicial."
+  - "No atraso de aluguel, o inquilino pode impedir a rescisão pagando o débito atualizado em 15 dias contados da citação. A purgação não se repete se já foi usada nos 24 meses anteriores à nova ação (art. 62)."
   - "A liminar para desocupar em 15 dias, sem ouvir a outra parte, exige caução de três meses de aluguel e vale só nas hipóteses listadas no artigo 59, §1º."
   - "Depois da sentença, o prazo para sair costuma ser de 30 dias, e cai para 15 dias em algumas situações (art. 63, §1º)."
 faq:
   - q: "Quanto tempo leva uma ação de despejo?"
     a: "A lei não fixa um prazo total para o processo. O rito é o ordinário, com alterações, e a duração depende da citação, da defesa, de recursos e do juízo. O advogado pode dar uma estimativa para o caso concreto."
   - q: "Posso trocar a fechadura se o inquilino não paga?"
-    a: "Não. A retomada do imóvel depende de ordem judicial, e trocar fechaduras ou cortar serviços essenciais sem essa ordem é vedado e pode gerar indenização ao inquilino."
+    a: "Não. A retomada do imóvel depende de ordem judicial. Trocar fechaduras ou cortar serviços sem essa ordem pode gerar indenização ao inquilino, e um advogado deve avaliar cada caso."
   - q: "O inquilino que atrasa perde o imóvel de imediato?"
     a: "Não necessariamente. Ele pode purgar a mora em 15 dias da citação, pagando o débito atualizado e honorários de 10%, desde que não tenha usado esse direito nos 24 meses anteriores."
   - q: "Qual o prazo para o inquilino sair depois da sentença?"
@@ -24,8 +24,6 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm"
   - title: "Lei 8.245/1991, texto original com notas de alteração, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8245.htm"
-  - title: "Notícia de 02/02/2026 sobre a suposta nova lei do aluguel: não confirma alteração na lei e menciona propostas em debate (Diário de Pernambuco, fonte de imprensa)"
-    url: "https://diariodepernambuco.com.br/dpmais/lei-do-aluguel-libera-despejo-imediato-do-inquilino-em-2026-nesses-casos/"
 related: [imovel-com-inquilino, aluguel-com-opcao-de-compra, aluguel-quanto-pagar, penhora-de-imovel]
 ---
 
@@ -46,7 +44,7 @@ Para contratos de prazo inferior a 30 meses e para os verbais, o artigo 47 traz 
 | Acordo, infração contratual ou falta de pagamento | art. 9º, I a III | vale para qualquer contrato |
 | Obras urgentes ordenadas pelo poder público | art. 9º, IV | vale para qualquer contrato |
 | Fim do emprego, se a moradia era ligada ao trabalho | art. 47, II | vale para contrato de prazo inferior a 30 meses ou verbal |
-| Uso próprio ou de familiar, sem outro imóvel | art. 47, III | vale para os mesmos contratos; a lei exige prova, e alguns casos passam pela Justiça |
+| Uso próprio ou de familiar, sem outro imóvel | art. 47, III | vale para os mesmos contratos; a lei exige comprovação das condições |
 | Demolição ou obra que aumente a área em 20% | art. 47, IV | vale para os mesmos contratos; o percentual é de 50% para hotel ou pensão |
 | Locação que passou de cinco anos sem interrupção | art. 47, V | vale para os mesmos contratos |
 
@@ -70,9 +68,9 @@ A caução da liminar é uma garantia prestada pelo proprietário para responder
 
 ## O inquilino pode pagar e permanecer
 
-A falta de pagamento é o caso mais comum, e a lei oferece ao inquilino uma saída. Pelo artigo 62, inciso II, o locatário e o fiador podem evitar a rescisão do contrato pagando, em 15 dias contados da citação, o débito atualizado, sem necessidade de cálculo prévio, por meio de depósito judicial. O valor inclui aluguéis e encargos vencidos, multas quando exigíveis, juros de mora e custas e honorários do proprietário, que são de 10% sobre o montante devido, salvo outro percentual previsto no contrato.
+A falta de pagamento é o caso mais comum, e a lei oferece ao inquilino uma saída. Pelo artigo 62, inciso II, o locatário e o fiador podem evitar a rescisão do contrato pagando, em 15 dias contados da citação, o débito atualizado, por meio de depósito judicial. O valor inclui aluguéis e encargos vencidos, multas quando exigíveis, juros de mora e custas e honorários do proprietário, que são de 10% sobre o montante devido, salvo outro percentual previsto no contrato.
 
-A purgação da mora só pode ser usada uma vez a cada 24 meses. Se o inquilino já a usou nos dois anos anteriores à nova ação, não tem esse direito novamente. Os aluguéis que vencem até o pagamento também precisam ser depositados.
+A purgação da mora não pode ser usada de novo se o inquilino já a utilizou nos 24 meses anteriores à nova ação. Os aluguéis que vencem até o pagamento também precisam ser depositados.
 
 Por isso, o proprietário que recebe um atraso não deve contar com a retomada imediata. O processo leva tempo, e o inquilino pode quitar a dívida dentro do prazo.
 
@@ -80,14 +78,14 @@ Por isso, o proprietário que recebe um atraso não deve contar com a retomada i
 
 Se a ação termina com sentença favorável ao proprietário, o artigo 63 define o prazo para a desocupação voluntária. Em regra, são 30 dias. O prazo cai para 15 dias quando passaram mais de quatro meses entre a citação e a sentença de primeiro grau, ou quando a ação se funda no artigo 9º ou no artigo 46, §2º.
 
-Há prazos diferentes para outros casos. Escolas têm prazo mínimo de seis meses e máximo de um ano, ajustado ao período de férias escolares. Hospitais, repartições públicas e entidades semelhantes têm um ano, ou seis meses quando já se passou mais de um ano da citação.
+Há prazos diferentes para outros casos. Em estabelecimentos de ensino autorizados e fiscalizados pelo poder público, a desocupação deve coincidir com as férias escolares, respeitados o mínimo de seis meses e o máximo de um ano. Em hospitais, repartições públicas, asilos e estabelecimentos semelhantes, quando o despejo se funda em obras urgentes do poder público (art. 9º, IV) ou no art. 53, II, o prazo é de um ano, ou de seis meses se a sentença sai mais de um ano depois da citação (art. 63, §§2º e 3º).
 
 | Caso | Prazo para desocupar após a sentença |
 |---|---|
 | Regra geral | 30 dias |
 | Mais de quatro meses entre citação e sentença, ou ação fundada no art. 9º ou no art. 46, §2º | 15 dias |
-| Escola | de seis meses a um ano, conforme as férias escolares |
-| Hospital, repartição pública ou entidade semelhante | um ano, ou seis meses se já passou mais de um ano da citação |
+| Estabelecimento de ensino | de seis meses a um ano, conforme as férias escolares |
+| Hospital, repartição pública ou entidade semelhante, em despejo fundado no art. 9º, IV ou no art. 53, II | um ano, ou seis meses se a sentença sai mais de um ano após a citação |
 
 A sentença também fixa a caução para a execução provisória, que é a possibilidade de cumprir a ordem antes do fim do recurso. Pelo artigo 64, essa caução vai de seis a 12 meses de aluguel, e não se aplica às hipóteses do artigo 9º.
 
@@ -99,9 +97,9 @@ A garantia é diferente da caução do despejo. A primeira é prevista no contra
 
 ## O que mudou e o que não mudou
 
-A Lei 12.112, de 2009, alterou pontos do capítulo sobre o despejo, incluindo o artigo 59, o artigo 62, o artigo 63 e o artigo 64. O texto compilado do Planalto mostra essas alterações, e é a referência a consultar.
+A Lei 12.112, de 2009, alterou o capítulo sobre o despejo, entre eles o artigo 59, §1º (incisos VI a IX) e §3º, como indicam as notas do texto compilado do Planalto. É essa a referência a consultar.
 
-Em fevereiro de 2026, circulou notícia sobre uma nova lei do aluguel que liberaria despejo imediato. Ao ser lida, a matéria não confirma a aprovação de lei nova: ela menciona propostas em debate e descreve as regras já vigentes. Até que a alteração seja publicada e conferida no texto oficial, vale a redação da lei de 1991 com as alterações de 2009.
+Até a data de referência deste texto (outubro de 2026), não foi confirmada nenhuma lei nova que altere essas regras. Antes de agir, confira no texto oficial se houve mudança posterior.
 
 ## Exemplo com números
 
@@ -121,7 +119,7 @@ O exemplo mostra três valores diferentes que o proprietário precisa ter em men
 
 - **Trocar a fechadura para forçar a saída.** A retomada depende de ordem judicial, e essa conduta pode gerar indenização.
 - **Achar que o atraso dá direito à retomada imediata.** O inquilino tem 15 dias da citação para purgar a mora.
-- **Esquecer o limite de uma purgação a cada 24 meses.** O proprietário que sabe disso consegue calcular melhor o risco de um novo atraso.
+- **Esquecer o limite da purgação.** Ela não se repete se já foi usada nos 24 meses anteriores, e saber disso ajuda a medir o risco de um novo atraso.
 - **Não conferir a garantia do contrato.** Mais de uma modalidade no mesmo contrato é vedada.
 - **Contar com o prazo de 15 dias sem checar as hipóteses.** A regra geral é de 30 dias após a sentença.
 
@@ -129,7 +127,7 @@ O exemplo mostra três valores diferentes que o proprietário precisa ter em men
 
 - A ação de despejo é o único caminho para retomar o imóvel alugado (Lei 8.245/1991, art. 5º).
 - As hipóteses de retomada estão no artigo 9º e, para contratos sem prazo ou de prazo menor que 30 meses, também no artigo 47.
-- O inquilino pode purgar a mora em 15 dias da citação, uma vez a cada 24 meses (art. 62).
+- O inquilino pode purgar a mora em 15 dias da citação, e não pode repetir a purgação se a usou nos 24 meses anteriores à ação (art. 62).
 - A liminar exige caução de três meses de aluguel e vale só nas hipóteses do artigo 59, §1º.
 - Depois da sentença, o prazo para sair é, em regra, de 30 dias, e de 15 dias em algumas situações (art. 63).
 

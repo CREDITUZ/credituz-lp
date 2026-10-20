@@ -14,7 +14,7 @@ faq:
   - q: "Imóvel comprado na união estável é dos dois?"
     a: "Em regra, sim, quando foi comprado de forma onerosa durante a união e não há contrato com outro regime. O nome na matrícula não muda essa regra."
   - q: "Posso proteger o imóvel com um contrato?"
-    a: "Sim, com contrato escrito que escolha outro regime, como a separação de bens. Em regra, ele vale a partir da data em que é feito, e não apaga os direitos sobre o que já foi comprado. Confirme esse ponto com o tabelião."
+    a: "Sim, com contrato escrito que escolha outro regime, como a separação de bens. O alcance dele sobre o que já foi comprado não é automático, e deve ser confirmado com o tabelião e um advogado antes de assinar."
   - q: "Quem paga mais no financiamento tem mais direito ao imóvel?"
     a: "Sob comunhão parcial, o imóvel comum é dividido igualmente, mesmo que um dos dois tenha pago a maior parte. Fora desse regime, a participação depende de provar o esforço comum, como prevê a Súmula 380 do STF."
   - q: "O companheiro herda o imóvel como o cônjuge?"
@@ -32,8 +32,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
   - title: "Súmula 380 do STF: sociedade de fato entre concubinos e partilha pelo esforço comum (texto em site jurídico)"
     url: "https://juris.damasio.com.br/sumulas/stf/380"
-  - title: "Registro da união estável em cartório, com exemplo de regra estadual de 2014 (IBDFAM, artigo de opinião, fonte secundária)"
-    url: "https://ibdfam.org.br/artigos/972/Uni%C3%B5es+es%28ins%29critas"
+  - title: "Provimento CNJ 141/2023 sobre união estável no registro civil, com alteração do Provimento 37/2014 (resumo em site de cartórios, fonte secundária)"
+    url: "https://arpensp.org.br/noticia/provimento-cnj-n-1412023-regulamenta-uniao-estavel-e-alteracao-do-regime-de-bens-no-registro-civil"
   - title: "STF, julgamento de 10/05/2017 (REs 646.721 e 878.694): regime sucessório do companheiro (resumo em site de notários, fonte secundária)"
     url: "https://www.26notas.com.br/blog/?p=13478"
 related: [fgts-e-divorcio, separacao-de-bens, testamento-e-imovel, matricula-do-imovel]
@@ -55,15 +55,15 @@ O artigo 1.725 do Código Civil diz que, na união estável, as relações patri
 
 Na comunhão parcial, comunicam-se os bens que sobrevierem ao casal durante a união (artigo 1.658). O artigo 1.660, inciso I, inclui entre eles os bens adquiridos onerosamente, ou seja, com pagamento, mesmo que estejam apenas no nome de um dos cônjuges ou companheiros. Um imóvel comprado durante a união com dinheiro dos dois, ou só de um deles, em regra entra na comunhão.
 
-O artigo 1.659 traz as exclusões. Não entram na comunhão os bens que cada um já tinha antes da união e os recebidos por herança ou doação, além dos que os substituírem. Por isso, uma casa que um dos companheiros herdou da família antes de morar junto continua sendo dele, salvo prova em contrário.
+O artigo 1.659 traz as exclusões. Não entram na comunhão os bens que cada um já tinha antes da união e os recebidos por herança ou doação, além dos que os substituírem. Por isso, uma casa que um dos companheiros herdou da família antes de morar junto continua sendo dele.
 
 ## Quando há contrato escrito
 
 O contrato escrito é o instrumento que permite aos companheiros escolher as regras patrimoniais. Eles podem adotar a separação de bens, por exemplo, para que cada um mantenha o próprio patrimônio. Também podem prever outras regras, desde que a escolha seja feita por escrito.
 
-Dois pontos merecem cuidado. O primeiro é a forma. A lei fala em contrato escrito, e na prática muitos casais optam pela escritura pública em tabelionato, porque ela dá publicidade e reduz discussões futuras. Em alguns estados, a declaração da união estável e as regras de registro são disciplinadas pelas corregedorias. Um exemplo é o provimento de Pernambuco de 2014, citado em artigo do IBDFAM, que prevê registro no Registro Civil e, para os bens comuns, orientação de registro no cartório de imóveis. Esse é um exemplo de regra estadual, e não uma regra nacional.
+Dois pontos merecem cuidado. O primeiro é a forma. A lei fala em contrato escrito, e na prática muitos casais optam pela escritura pública em tabelionato, porque ela dá publicidade e reduz discussões futuras. O registro da união estável no Registro Civil é facultativo, e a norma nacional atual é o Provimento CNJ 141, de 16 de março de 2023, que atualizou o Provimento CNJ 37/2014. Algumas corregedorias estaduais tinham regras próprias antes, por isso vale perguntar ao cartório se a regra do seu estado continua em vigor.
 
-O segundo ponto é o tempo. Em regra, o contrato vale a partir da data em que é feito. Ele não é, por si só, um instrumento para tirar do outro companheiro o que já foi comprado em comunhão sem análise cuidadosa. Se a intenção é mudar o regime de um imóvel já adquirido, a conversa deve ser feita com o tabelião, que vai indicar o que é possível e o que precisa ser declarado.
+O segundo ponto é o alcance no tempo. O contrato é feito depois que a união começa, e o que ele faz com bens já comprados em comunhão não é automático. Ele não é, por si só, um instrumento para tirar do outro companheiro o que já foi comprado em comunhão sem análise cuidadosa. Se a intenção é mudar o regime de um imóvel já adquirido, a conversa deve ser feita com o tabelião, que vai indicar o que é possível e o que precisa ser declarado.
 
 ## A matrícula não diz tudo
 
@@ -79,7 +79,7 @@ Ou seja, o companheiro que contribuiu pode pedir a sua parte, mas precisa demons
 
 ## Exemplo com números
 
-Exemplo ilustrativo. Suponha um imóvel de R$ 400.000, comprado durante a união estável. A entrada foi de R$ 100.000, sendo R$ 80.000 de Ana e R$ 20.000 de Bruno. O restante, de R$ 300.000, foi financiado.
+Exemplo ilustrativo. Suponha um imóvel de R$ 400.000, comprado durante a união estável. A entrada foi de R$ 100.000, sendo R$ 80.000 de Ana e R$ 20.000 de Bruno. O restante, de R$ 300.000, foi financiado. Para simplificar, o exemplo não considera o saldo financiado.
 
 | Cenário | Regra aplicada | Participação de cada um no imóvel |
 |---|---|---|

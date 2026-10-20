@@ -9,7 +9,7 @@ key_points:
   - "Além do Minha Casa Minha Vida, estados e prefeituras têm programas próprios de moradia, e cada cidade tem o seu."
   - "O plano municipal de habitação mostra as metas e a demanda da cidade. Procure o documento no site da prefeitura ou na secretaria de habitação."
   - "Os requisitos mais comuns são residência comprovada, renda familiar dentro de um teto, CadÚnico atualizado e não ter imóvel."
-  - "O edital define prazo, documentos e a forma de seleção. Inscrição em prefeitura é gratuita."
+  - "O edital define prazo, documentos e a forma de seleção. Inscrição em programa público não deve ter custo."
   - "Muitos programas reservam unidades para idosos, pessoas com deficiência e famílias chefiadas por mulheres."
 faq:
   - q: "Como saber se minha cidade tem programa de moradia?"
@@ -19,7 +19,7 @@ faq:
   - q: "Preciso morar na cidade para me inscrever?"
     a: "Muitos editais exigem residência comprovada por um tempo mínimo. Em Cariacica (ES), o edital de 2026 pediu dois anos. Confira a exigência do seu município antes de se inscrever."
   - q: "Pagar uma taxa garante vaga em programa de moradia?"
-    a: "Não. Inscrição em edital de prefeitura é gratuita. Quem cobra para colocar seu nome na lista ou garantir unidade deve ser tratado como golpe."
+    a: "Não. Inscrição em edital público não deve ter custo. Quem cobra para colocar seu nome na lista ou garantir unidade deve ser tratado como golpe."
 sources:
   - title: "Lei 11.124/2005, cria o SNHIS e o FNHIS (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11124.htm"
@@ -27,8 +27,10 @@ sources:
     url: "https://www.gazetasp.com.br/cotidiano/casa-propria-prefeitura-de-sp-amplia-programa-pode-entrar-confira-regr/"
   - title: "Folha Vitória: Cariacica abre inscrições para imóveis do Minha Casa Minha Vida (27/07/2026)"
     url: "https://www.folhavitoria.com.br/economia/cariacica-abre-inscricoes-para-imoveis-do-minha-casa-minha-vida-veja-quem-pode-participar/"
-  - title: "Meutudo: novo valor do salário mínimo em 2026 (19/12/2025)"
-    url: "https://meutudo.com.br/blog/noticias/2025/12/19/beneficiarios-do-bpc-terao-novo-valor-de-salario-minimo-em-2026/"
+  - title: "Decreto 12.797, de 23/12/2025, salário mínimo de R$ 1.621 em 2026 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
+  - title: "Medida Provisória 1.382, de 01/08/2026, texto consolidado (LegJur)"
+    url: "https://www.legjur.com/legislacao/art/mpv_00013822026-7"
 related: [minha-casa-minha-vida-cadunico, minha-casa-minha-vida-faixa-1, minha-casa-minha-vida-sorteio, regularizacao-fundiaria-reurb]
 ---
 
@@ -44,7 +46,7 @@ Além disso, a prefeitura pode criar programas com dinheiro próprio. Algumas ci
 
 ## Exemplos reais de dois municípios
 
-**São Paulo (capital): Pode Entrar.** O programa, regulamentado pelo Decreto 60.927/2021, emite cartas de crédito para comprar imóvel pronto que esteja ocioso. Há três modalidades: convencional, em que a pessoa devolve o valor; com subsídio, em que não devolve; e convencional com subsídio, em que devolve uma parte. Pelo texto divulgado na época, a COHAB-SP atende famílias com renda bruta de até três salários mínimos no grupo 1, que tem prioridade, e de três a seis salários mínimos no grupo 2. Cada empreendimento reserva 5% das unidades para famílias com pessoa com deficiência, 5% para idosos e 5% para mulheres com medida protetiva. Com o salário mínimo de 2026, de R$ 1.621, três salários correspondem a R$ 4.863 e seis, a R$ 9.726. Como o decreto é de 2021, confirme no site da prefeitura se as regras seguem em vigor.
+**São Paulo (capital): Pode Entrar.** Segundo reportagem de 21/12/2021, o programa foi regulamentado pelo Decreto 60.927/2021 e emite cartas de crédito para aquisição de imóvel. Há três modalidades: convencional, em que a pessoa devolve o valor; com subsídio, em que não devolve; e convencional com subsídio, em que devolve uma parte. Pelo texto divulgado na época, famílias com renda bruta de até três salários mínimos entram no grupo 1, que tem prioridade, e as de três a seis salários mínimos no grupo 2. Pela mesma reportagem, há cotas de 5% das unidades para famílias com pessoa com deficiência, 5% para idosos e 5% para mulheres com medida protetiva. Com o salário mínimo de 2026, de R$ 1.621, três salários correspondem a R$ 4.863 e seis, a R$ 9.726. Não consegui confirmar se essas regras seguem em vigor em 2026, então veja o texto atual no site da prefeitura.
 
 **Cariacica (ES): edital de 2026.** A Folha Vitória divulgou, em 27 de julho de 2026, as condições de inscrição para o Residencial Vista da Serra I, com 250 unidades na Faixa 1 do Minha Casa Minha Vida. Pelo texto da reportagem, o edital pedia:
 
@@ -53,7 +55,7 @@ Além disso, a prefeitura pode criar programas com dinheiro próprio. Algumas ci
 - CadÚnico com dados atualizados até 31/01/2026, além de cadastro ativo na plataforma Habita Cariacica;
 - atender a pelo menos um critério de déficit habitacional, como morar em habitação precária, pagar mais de 30% da renda em aluguel ou estar em situação de rua;
 - reservas de pelo menos 50% para famílias do Bolsa Família, do BPC ou com pessoa com microcefalia, 3% para idosos e 3% para pessoas com deficiência, com prioridade para o térreo;
-- inscrições de 27/07 a 14/08/2026, somente pela plataforma indicada. Esse prazo já encerrou em outubro de 2026, e o exemplo serve para mostrar o tipo de exigência.
+- inscrições de 27/07 a 14/08/2026, somente pela plataforma indicada. Esse prazo já encerrou em 14/08/2026, e o caso serve para mostrar o tipo de exigência.
 
 A reportagem não traz o número do edital, então confira o texto oficial no canal da prefeitura antes de qualquer passo.
 
@@ -88,7 +90,7 @@ Os critérios variam, mas aparecem com frequência:
 - **Renda familiar** dentro da faixa do programa. A faixa municipal pode ser diferente da federal.
 - **CadÚnico atualizado** até a data de corte do edital.
 - **Não ter imóvel residencial** e não ter financiamento habitacional ativo pelo SFH ou pelo FGTS.
-- **Não ter recebido benefício habitacional federal** antes. Essa regra mudou em 2026 com a MP 1.382/2026, e o texto em vigor pode variar, então confira o edital.
+- **Não ter recebido benefício habitacional federal** antes. A Medida Provisória 1.382, de 1º/08/2026, alterou essa regra federal do Minha Casa Minha Vida (art. 9º, III, da Lei 14.620/2023), e a redação ainda pode mudar. Confira o edital.
 - **Sem restrições** no Cadin (cadastro de inadimplentes da União) e sem dívidas com a Receita Federal, quando o edital exige.
 - **Documentos pessoais e de renda**, como RG, CPF, comprovante de residência e comprovantes de renda.
 

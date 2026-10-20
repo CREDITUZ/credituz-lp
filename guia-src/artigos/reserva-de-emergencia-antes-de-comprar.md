@@ -8,7 +8,7 @@ reading_minutes: 7
 key_points:
   - "Guarde pelo menos 3 meses das suas despesas essenciais, já com os custos da casa nova. Seis meses é a referência de algumas cartilhas de educação financeira, e vale mais quando a renda oscila."
   - "A parcela é só uma parte do custo. Condomínio, IPTU, seguros e manutenção entram todo mês e precisam caber na conta junto com a reserva."
-  - "No exemplo deste texto, juntar a reserva de seis meses com R$ 1.500 por mês na poupança, a 0,5% ao mês, leva cerca de 37 meses."
+  - "No exemplo deste texto, juntar a reserva de seis meses com R$ 1.500 por mês na poupança, a 0,5% ao mês, leva cerca de 36 meses."
   - "Não use a reserva como entrada do imóvel. Um financiamento sem colchão transforma qualquer imprevisto em atraso, e o atraso pode levar à perda da garantia."
 faq:
   - q: "Quanto de reserva de emergência devo ter antes de financiar?"
@@ -20,22 +20,24 @@ faq:
   - q: "Onde guardar a reserva de emergência?"
     a: "Em aplicação de baixo risco e com resgate rápido, como a poupança ou títulos públicos de liquidez diária. Compare a rentabilidade líquida e confira as regras de resgate antes de escolher."
 sources:
-  - title: "MP-MG: 20 dicas para uma boa saúde financeira (dica 14, sobre a reserva de seis meses de despesas)"
+  - title: "MP-MG: 20 dicas para uma boa saúde financeira (dica 14: reserva de seis vezes as despesas mensais)"
     url: "https://www.mpmg.mp.br/data/files/B6/B2/C8/B8/E944A7109CEB34A7760849A8/20dicassaudefinanceira.pdf"
   - title: "Lei 12.703/2012 (remuneração da poupança: 0,5% ao mês quando a Selic está acima de 8,5% ao ano)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12703.htm"
   - title: "Economic News Brasil: Selic cai para 13,75% ao ano na decisão do Copom de 16/09/2026"
     url: "https://economicnewsbrasil.com.br/2026/09/16/nova-taxa-selic-projecao-dezembro-2026/"
+  - title: "Lei 9.514/1997, art. 26, parágrafo 1º (prazo de 15 dias, em texto comentado pelo escritório Sturzenegger e Cavalcante)"
+    url: "https://www.sturzeneggerecavalcante.com.br/artigos/o-prazo-que-deve-constar-na-intimacao-para-purgacao-da-mora-em-contratos-de-alienacao-fiduciaria-de-bem-imovel-e-15-dias/"
 related: [comprometimento-de-renda, custos-para-comprar-imovel, comprar-a-vista-ou-financiar, fgts-amortizar-ou-guardar]
 ---
 
-Antes de financiar um imóvel, tenha uma reserva de emergência equivalente a pelo menos três meses das suas despesas essenciais, já somadas aos custos da casa nova. Muitas cartilhas de educação financeira sugerem seis meses, e essa faixa faz mais sentido se a sua renda oscila ou se você depende de um único salário. A reserva importa porque o financiamento cria uma obrigação de longo prazo, com parcela fixa e garantia do próprio imóvel. Se a renda cair e não houver dinheiro guardado, o atraso pode começar em poucas semanas.
+Antes de financiar um imóvel, tenha uma reserva de emergência equivalente a pelo menos três meses das suas despesas essenciais, já somadas aos custos da casa nova. Muitas cartilhas de educação financeira sugerem seis meses, e essa faixa faz mais sentido se a sua renda oscila ou se você depende de um único salário. A reserva importa porque o financiamento cria uma obrigação de longo prazo, com parcela fixa e garantia do próprio imóvel. Se a renda cair e não houver dinheiro guardado, o atraso pode começar logo nos primeiros meses.
 
 ## Por que a reserva vem antes da casa
 
-Um financiamento costuma ter prazo de 20 a 35 anos. Nesse período, qualquer imprevisto pode acontecer: perda de emprego, doença, redução de horas de trabalho, reparo urgente no imóvel ou a necessidade de mudar de cidade. Sem reserva, a primeira reação costuma ser usar o cartão de crédito ou um empréstimo caro, e a parcela da casa passa a disputar espaço com juros altos.
+Um financiamento costuma durar muitos anos. Nesse período, qualquer imprevisto pode acontecer: perda de emprego, doença, redução de horas de trabalho, reparo urgente no imóvel ou a necessidade de mudar de cidade. Sem reserva, a primeira reação costuma ser usar o cartão de crédito ou um empréstimo caro, e a parcela da casa passa a disputar espaço com juros altos.
 
-No financiamento, o atraso tem consequência específica. Pela regra da alienação fiduciária, a garantia pode ser retomada se as parcelas vencidas não forem regularizadas no prazo do cartório. O guia sobre [riscos do home equity](/artigos/home-equity-riscos) explica esse procedimento, que vale também para o financiamento de compra. A reserva é a forma mais simples de evitar que um mês ruim vire um problema com a casa.
+No financiamento, o atraso tem consequência específica. Quando a garantia é a alienação fiduciária (Lei 9.514/1997), o cartório intima o devedor, e ele tem 15 dias para regularizar a dívida (artigo 26, parágrafo 1º). Se a dívida não for paga nesse prazo, a propriedade pode ser consolidada em nome do credor. O guia sobre [riscos do home equity](/artigos/home-equity-riscos) explica esse procedimento. A reserva é a forma mais simples de evitar que um mês ruim vire um problema com a casa.
 
 ## Quanto guardar: a conta com a casa nova
 
@@ -44,7 +46,7 @@ A conta começa pelas despesas essenciais de hoje, sem a moradia atual. Depois, 
 - a parcela do financiamento;
 - o condomínio, quando houver;
 - o IPTU, dividido por doze;
-- o seguro obrigatório do financiamento, que costuma ser mensal;
+- o seguro obrigatório do financiamento, que costuma vir junto com a parcela;
 - uma provisão para manutenção e reparos.
 
 Veja um exemplo ilustrativo, com valores fictícios. Considere despesas essenciais de R$ 6.000 por mês, sem contar o aluguel ou a moradia atual. Com a casa nova, somam-se uma parcela de R$ 3.000, condomínio de R$ 700, IPTU médio de R$ 150 por mês e seguro de R$ 120 por mês.
@@ -69,14 +71,14 @@ Note que a reserva é calculada sobre R$ 9.970, e não sobre R$ 6.000. É esse o
 
 ## Quanto tempo leva para juntar
 
-A reserva costuma ser formada aos poucos, e o rendimento ajuda. Pela Lei 12.703/2012, que alterou a Lei 8.177/1991, a poupança rende 0,5% ao mês quando a meta da Selic está acima de 8,5% ao ano. Em setembro de 2026, o Copom reduziu a Selic para 13,75% ao ano, segundo a imprensa especializada. Nesse cenário, a regra da poupança segue a faixa de 0,5% ao mês.
+A reserva costuma ser formada aos poucos, e o rendimento ajuda. Pela Lei 12.703/2012, que alterou o artigo 12 da Lei 8.177/1991, a poupança rende 0,5% ao mês enquanto a meta da Selic estiver acima de 8,5% ao ano. Em 16 de setembro de 2026, o Copom reduziu a Selic de 14% para 13,75% ao ano, segundo a Economic News Brasil. Nesse cenário, a regra da poupança segue a faixa de 0,5% ao mês.
 
-A lei também soma a TR à remuneração, mas, para ser conservador, o exemplo abaixo considera só os 0,5% ao mês. A conta é ilustrativa, não uma previsão.
+O exemplo abaixo considera só os 0,5% ao mês. Se a remuneração efetiva da poupança for maior no período, a reserva fica pronta mais cedo. A conta é ilustrativa, não uma previsão.
 
 | Meta de reserva | Aporte mensal | Tempo estimado |
 |---|---|---|
-| 3 meses (R$ 29.910) | R$ 1.500 | cerca de 20 meses |
-| 6 meses (R$ 59.820) | R$ 1.500 | cerca de 37 meses |
+| 3 meses (R$ 29.910) | R$ 1.500 | cerca de 19 meses |
+| 6 meses (R$ 59.820) | R$ 1.500 | cerca de 36 meses |
 
 Se o prazo para juntar for longo demais, há duas saídas: aumentar o aporte ou adiar a compra. Adiar a compra para formar a reserva costuma ser uma decisão mais segura do que financiar com um colchão de um ou dois meses.
 

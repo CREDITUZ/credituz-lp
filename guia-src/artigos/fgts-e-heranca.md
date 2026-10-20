@@ -16,14 +16,16 @@ faq:
   - q: "Quem recebe primeiro, o dependente ou o herdeiro?"
     a: "O dependente habilitado na Previdência. Os sucessores da lei civil só recebem na falta de dependentes."
   - q: "Um filho menor de idade recebe o dinheiro?"
-    a: "A cota dele fica em poupança e só é liberada ao completar 18 anos, salvo autorização judicial, segundo o artigo 38 do Decreto 99.684/1990."
+    a: "A cota dele fica em poupança e só é liberada ao completar 18 anos, salvo autorização judicial, segundo o § 2º do artigo 38 do Decreto 99.684/1990."
   - q: "Preciso de alvará judicial?"
     a: "Para dependentes habilitados, o decreto diz que não. Para sucessores sem dependentes, ele prevê alvará judicial. A Caixa pode aceitar outros documentos, então pergunte à agência."
 sources:
-  - title: "Decreto 99.684/1990, regulamento do FGTS, art. 38 (texto reproduzido pelo LegJur)"
-    url: "https://legjur.com/legislacao/art/dec_00996841990-38"
-  - title: "Lei 8.036/1990 (Lei do FGTS), Planalto"
-    url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
+  - title: "Decreto 99.684/1990, regulamento do FGTS, art. 38 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d99684.htm"
+  - title: "Lei 8.036/1990 (Lei do FGTS), art. 20, inciso IV (Planalto, texto compilado)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
+  - title: "Lei 8.213/1991, art. 16, rol de dependentes (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
   - title: "Saque do FGTS de familiar falecido: saiba como sacar (Jornal Contábil, texto de 2020, revisado em 2025)"
     url: "https://jornalcontabil.com.br/noticia/saque-do-fgts-de-familiar-falecido-saiba-como-sacar/"
 related: [fgts-de-conta-inativa, inventario-e-imovel, consultar-saldo-fgts]
@@ -33,9 +35,9 @@ Quando um trabalhador morre, o saldo do FGTS (Fundo de Garantia do Tempo de Serv
 
 ## Quem recebe primeiro: os dependentes
 
-O artigo 38 do Decreto 99.684/1990, que regulamenta o FGTS, diz que o saldo da conta vinculada do trabalhador falecido é pago ao dependente habilitado na Previdência Social, independentemente de autorização judicial. "Habilitado" quer dizer que a Previdência reconheceu essa pessoa como dependente, do mesmo modo que faz para a pensão por morte. Em geral, entram o cônjuge ou companheiro, os filhos e outros dependentes previstos nas regras do INSS. A lista exata depende de cada caso, então confirme com a Previdência.
+O artigo 38 do Decreto 99.684/1990, que regulamenta o FGTS, diz que o saldo da conta vinculada do trabalhador falecido é pago ao dependente habilitado na Previdência Social, independentemente de autorização judicial. "Habilitado" quer dizer que a Previdência reconheceu essa pessoa como dependente, do mesmo modo que faz para a pensão por morte. Pela Lei 8.213/1991, art. 16, a primeira classe de dependentes é formada pelo cônjuge, pelo companheiro e pelo filho não emancipado, menor de 21 anos ou inválido. Depois vêm os pais e, por último, os irmãos nas mesmas condições. A lista exata depende de cada caso, então confirme com a Previdência.
 
-A Lei 8.036/1990, que criou o FGTS, lista o falecimento do trabalhador entre as hipóteses de saque no seu artigo 20, e o decreto detalha a forma de pagamento.
+A Lei 8.036/1990, que criou o FGTS, lista o falecimento do trabalhador entre as hipóteses de saque no inciso IV do seu artigo 20, e o decreto detalha a forma de pagamento.
 
 Essa lógica é diferente da herança comum. O FGTS é uma conta do trabalhador, e a lei define quem pode recebê-la quando ele morre. Por isso, em regra, o saldo segue a ordem do decreto e não depende da partilha entre os herdeiros. Quando o saldo entra no inventário, a conta muda, como mostra a seção sobre inventário mais adiante.
 
@@ -96,14 +98,14 @@ Exemplo ilustrativo. Um trabalhador morre deixando esposa e um filho de 10 anos,
 
 ## Se o pedido for negado
 
-Peça a negativa por escrito, com o motivo indicado. Os motivos mais comuns costumam ser documentos incompletos, dependente que não está habilitado na Previdência e divergência de nomes ou datas entre documentos. Corrija o que for possível e protocole o pedido de novo. Se a solução não vier, a Caixa tem ouvidoria, e a reclamação pode ir ao Banco Central, como explica o guia sobre [FGTS negado](/artigos/fgts-negado-motivos). Em disputa entre herdeiros, o caminho mais seguro é a orientação de um advogado.
+Peça a negativa por escrito, com o motivo indicado. Corrija o que for possível e protocole o pedido de novo. Se a solução não vier, procure a ouvidoria da Caixa. O guia sobre [FGTS negado](/artigos/fgts-negado-motivos) explica os motivos mais comuns e os canais de reclamação. Em disputa entre herdeiros, o caminho mais seguro é a orientação de um advogado.
 
 ## Erros comuns
 
 - **Esperar o inventário terminar quando o FGTS não está nele.** Se o saldo não foi incluído, o processo pode andar em paralelo.
 - **Não habilitar os dependentes na Previdência.** Sem a habilitação, a via principal não se abre.
 - **Deixar uma conta esquecida.** Saldos de empregos antigos são os que mais passam despercebidos. O guia sobre [conta inativa](/artigos/fgts-de-conta-inativa) mostra como localizar contas antigas.
-- **Contar com um prazo fixo.** A imprensa consultada não informa prazo para o saque. Pergunte à Caixa qual é o prazo no seu caso.
+- **Contar com um prazo fixo.** O artigo 38 do decreto não fixa prazo para o saque. Pergunte à Caixa qual é o prazo prático no seu caso.
 - **Esquecer os menores.** A cota fica bloqueada até os 18 anos, salvo autorização judicial.
 - **Achar que o saldo resolve sozinho uma dívida do imóvel.** Se o falecido tinha financiamento, o contrato pode ter seguro por morte. Confira o contrato e veja o guia sobre [seguros MIP e DFI](/artigos/seguros-mip-e-dfi) antes de decidir.
 

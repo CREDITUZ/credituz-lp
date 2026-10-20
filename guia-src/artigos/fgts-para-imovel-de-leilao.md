@@ -20,12 +20,12 @@ faq:
   - q: "O teto de R$ 2,25 milhões vale no leilão?"
     a: "O teto é do SFH. Como o edital consultado fala em SBPE, confirme com a Caixa se o lote segue esse teto antes de contar com o FGTS."
 sources:
-  - title: "Edital de Leilão Público nº 0015/0226 CPA/RE, Caixa (cópia pública, sessões em maio de 2026)"
+  - title: "Edital de Leilão Público nº 0015/0226 CPA/RE, Caixa (cópia pública em site de terceiro, sem o Anexo II)"
     url: "https://qmwufkpyzcndzmrdrfql.supabase.co/storage/v1/object/public/pdfs/editais/e3f2f8da09572759.pdf"
   - title: "Matéria da BPMoney sobre FGTS em leilões da Caixa (10/08/2026)"
     url: "https://bpmoney.com.br/?p=415996"
-  - title: "Resolução CMN 5.255/2025, teto de avaliação do SFH (IRIB)"
-    url: "https://www.irib.org.br/?p=40886"
+  - title: "Resolução CMN 4.676/2018, art. 13, com a redação dada pela Resolução CMN 5.255/2025 (NormasBrasil)"
+    url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
 related: [fgts-na-compra-do-imovel, imovel-de-leilao-caixa, financiamento-imovel-de-leilao]
 ---
 
@@ -33,7 +33,7 @@ Sim, em alguns lotes. O FGTS (Fundo de Garantia do Tempo de Serviço) pode entra
 
 ## Por que o lote decide
 
-Leilão de imóvel não funciona como compra em imobiliária. O edital define a forma de pagamento aceita para cada imóvel. No edital de leilão público nº 0015/0226, da Caixa, com sessões em maio de 2026, o item 4.2 diz que cada imóvel tem condições próprias de pagamento e que elas devem ser conferidas no anúncio do imóvel no dia do leilão. Esse edital foi usado aqui como exemplo para entender as regras. Ele não vale para outro lote, e o seu edital pode dizer outra coisa.
+Leilão de imóvel não funciona como compra em imobiliária. O edital define a forma de pagamento aceita para cada imóvel. No edital de leilão público nº 0015/0226, da Caixa, o item 4.2 diz que cada imóvel tem condições próprias de pagamento e que elas devem ser conferidas no anúncio do imóvel no dia do leilão. Esse edital foi usado aqui como exemplo para entender as regras. Ele não vale para outro lote, e o seu edital pode dizer outra coisa. O texto que li é uma cópia pública em site de terceiro, não o site oficial da Caixa, que não consegui abrir nesta checagem.
 
 Quando o lote aceita FGTS, o item 4.5.1 condiciona o uso a duas coisas: o imóvel precisa aceitar essa forma de pagamento, e você precisa cumprir as regras do Conselho Curador do FGTS, que é o órgão que define as normas do fundo.
 
@@ -57,24 +57,24 @@ O edital consultado trata o FGTS como parte do valor ofertado, com recursos da c
 
 - Os recursos da conta precisam ser do próprio arrematante ou do coobrigado (item 4.5).
 - A soma do FGTS com o financiamento não pode passar do menor valor entre a proposta e a avaliação do imóvel (item 4.5.2).
-- Quem não se enquadra nas regras do FGTS, quando elas se aplicam, pode pagar multa de 5% do lance (item 14.1.4).
-- Quando o devedor do imóvel exerce a preferência de recompra, ele tem 30 dias corridos para assinar o contrato com uso do FGTS. Se não assinar, a operação é cancelada, com multa de 5% (item 16.3.4.1).
+- Quem não se enquadra nas regras do FGTS, quando elas se aplicam, perde 5% do valor do lance (item 14.1.4).
+- Quando o devedor do imóvel exerce a preferência de recompra, ele tem 30 dias corridos para assinar o contrato com uso do FGTS. Se não assinar, a operação é cancelada, com multa de 5% do valor da proposta (item 16.3.4.1).
 
 ## O financiamento no leilão tem regras próprias
 
 O mesmo edital cita o financiamento só na modalidade SBPE, que é o sistema de financiamento com recursos da poupança, e não menciona SFH nem SFI. Os pontos que mais pesam:
 
-- A entrada mínima é de 5% em recursos próprios (item 4.6.1).
+- A entrada mínima é de 5% do valor global da proposta, paga em dinheiro (itens 4.6.1 e 7.1.2).
 - O financiamento depende da análise de crédito da Caixa e da aprovação antes de dar lances (itens 4.2.2 e 4.6.3).
 - O contratante precisa ser pessoa física (item 4.6.4).
 - O limite do financiamento é o menor valor entre a proposta e a avaliação (item 4.6.5).
-- O contrato ou a escritura deve ser assinado em até 30 dias corridos depois da homologação do resultado (item 12.2).
+- O contrato ou a escritura deve ser assinado em até 30 dias corridos depois da divulgação do resultado homologado (item 12.2).
 
-O teto de avaliação de R$ 2,25 milhões do SFH, fixado pela Resolução CMN 5.255/2025, é o limite para o financiamento pelo sistema habitacional. Como o edital fala em SBPE, confirme com a Caixa se esse teto se aplica ao lote que você quer, antes de contar com o FGTS.
+O teto de avaliação de R$ 2,25 milhões do SFH, fixado no artigo 13 da Resolução CMN 4.676/2018 com a redação da Resolução CMN 5.255/2025, é o limite para o financiamento pelo sistema habitacional. Como o edital fala em SBPE, confirme com a Caixa se esse teto se aplica ao lote que você quer, antes de contar com o FGTS.
 
 ## Exemplo ilustrativo
 
-Exemplo ilustrativo, não é um lote real. Imagine um imóvel avaliado em R$ 280.000, em que você dá um lance de R$ 250.000. A proposta combina R$ 50.000 de FGTS, R$ 150.000 de financiamento e R$ 50.000 de recursos próprios. O financiamento segue a tabela SAC, em 360 meses, com taxa hipotética de 11% ao ano, sem TR, sem seguros e sem tarifas.
+Exemplo ilustrativo, não é um lote real. Imagine um imóvel avaliado em R$ 280.000, em que você dá um lance de R$ 250.000. A proposta combina R$ 50.000 de FGTS, R$ 150.000 de financiamento e R$ 50.000 de recursos próprios. O financiamento segue a tabela SAC, em 360 meses, com taxa efetiva hipotética de 11% ao ano (cerca de 0,8735% ao mês), sem TR, sem seguros e sem tarifas. Os valores abaixo foram recalculados nessa convenção.
 
 Os números ficam assim:
 
@@ -94,7 +94,7 @@ Se o lote não aceitasse FGTS, os R$ 50.000 do saldo teriam de vir do seu dinhei
 3. **Confira as regras do FGTS para você.** A condição é do comprador, e o guia sobre [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) explica cada uma.
 4. **Separe o dinheiro da comissão de 5% e da entrada própria.**
 5. **Informe a forma de pagamento no mesmo dia.** Se não informar, o edital trata a compra como à vista (itens 7.1.4 e 7.1.5).
-6. **Conte os prazos.** Após a homologação, há 2 dias úteis para pagar a parte em recursos próprios (itens 7.1.6 e 11.2.1). Depois de pagar essa parte, o arrematante tem 3 dias úteis para ir à agência ou ao CCA (item 12.4.1).
+6. **Conte os prazos.** Após a homologação, há 2 dias úteis para pagar a parte em recursos próprios (itens 7.1.6 e 11.2.1). Para lances acima de R$ 500 mil, o item 11.2.2 fixa outro prazo, contado da divulgação do resultado, então confira o seu edital. Depois de pagar essa parte, o arrematante tem 3 dias úteis para ir à agência ou ao CCA (item 12.4.1).
 
 ## Erros comuns
 

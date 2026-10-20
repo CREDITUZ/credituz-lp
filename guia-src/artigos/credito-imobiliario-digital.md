@@ -9,7 +9,7 @@ key_points:
   - "Uma plataforma digital pode ser a própria instituição autorizada, um correspondente de um banco ou um intermediário que encaminha propostas. Descubra qual é antes de compartilhar documentos."
   - "O Banco Central tem uma consulta de instituições autorizadas. Se a empresa não aparece como instituição, confirme se ela é correspondente e quem é o banco contratante."
   - "O CET (Custo Efetivo Total) reúne juros, tarifas e seguros. Uma taxa nominal menor pode ter CET maior, então compare o CET das propostas por escrito."
-  - "A parte digital é só uma etapa. A garantia do imóvel é registrada no cartório, e pedidos de pagamento antecipado para liberar o crédito são golpe."
+  - "A parte digital é só uma etapa. A garantia do imóvel é registrada no cartório, e pedido de pagamento antecipado para liberar o crédito é sinal de golpe."
 faq:
   - q: "Uma plataforma digital pode liberar financiamento imobiliário?"
     a: "Pode, se for uma instituição autorizada pelo Banco Central ou um correspondente de uma instituição autorizada. Antes de enviar documentos, confira o nome, o CNPJ e o banco que a empresa representa."
@@ -18,15 +18,15 @@ faq:
   - q: "Taxa menor sempre significa crédito mais barato?"
     a: "Não necessariamente. Tarifas e seguros entram no custo real. Compare o CET anual das propostas, que mostra o custo total da operação, e não só a taxa de juros."
   - q: "Posso pagar uma taxa para a plataforma liberar o financiamento?"
-    a: "Não. Banco não cobra taxa antecipada para liberar crédito. Os custos legítimos, como avaliação e registro, aparecem no contrato, e pedidos de pagamento antes da assinatura são sinal de golpe."
+    a: "Não. Instituição séria não cobra taxa antecipada para liberar o crédito. Os custos legítimos, como avaliação e registro, aparecem no contrato, e pedidos de pagamento antes da assinatura são sinal de golpe."
 sources:
   - title: "Resolução CMN 4.935/2021 (correspondentes no país), resumo publicado em 30/07/2021 e atualizado em 23/04/2025"
     url: "https://finsidersbrasil.com.br/noticias-sobre-fintechs/cmn-atualiza-regras-para-correspondentes-bancarios"
-  - title: "Banco Central: texto da Resolução CMN 4.656/2018 com a nota de revogação integral a partir de 1/1/2025"
-    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50579/Res_4656_v8_P.pdf"
+  - title: "Cesconbarrieu: novas regras para sociedades de crédito direto e de empréstimo entre pessoas (cita a Resolução CMN 5.159, publicada em 24/07/2024)"
+    url: "https://cesconbarrieu.com.br/cmn-novas-regras-para-as-sociedades-de-credito-direto-e-sociedades-de-emprestimos-entre-pessoas/"
   - title: "Finsiders: como checar dados oficiais sobre bancos e fintechs, com a ferramenta Encontre uma instituição (fev/2026)"
     url: "https://finsidersbrasil.com.br/noticias-sobre-fintechs/como-checar-dados-oficiais-sobre-a-saude-financeira-de-bancos-e-fintechs/"
-related: [golpes-de-credito-imobiliario, cet-financiamento-imobiliario, falso-correspondente-bancario, financiamento-nubank-e-bancos-digitais]
+related: [golpes-de-credito-imobiliario, cet-financiamento-imobiliario, falso-correspondente-bancario, analise-de-credito-como-funciona]
 ---
 
 Plataformas digitais de crédito imobiliário fazem a análise, enviam a proposta e acompanham a documentação pelo celular ou pelo computador. Algumas são instituições autorizadas pelo Banco Central, outras atuam como correspondentes de um banco e outras apenas encaminham o cliente para uma proposta. Antes de enviar documentos ou pagar qualquer valor, descubra qual é o papel da empresa, quem assina o contrato e quanto o financiamento custa de fato. Este texto mostra como fazer essa checagem em dez minutos e como ler as propostas.
@@ -55,7 +55,7 @@ A primeira pergunta é quem empresta. A tabela ajuda a identificar o papel de ca
 
 A Resolução CMN 4.935/2021 trata dos correspondentes no país. Segundo o resumo que consultei, a instituição contratante precisa ter uma política escrita para escolher e controlar os correspondentes, fazer auditoria anual dos controles e publicar informações sobre eles. Se a plataforma não informar qual banco representa, desconfie.
 
-Um cuidado extra com a terminologia. A Resolução CMN 4.656/2018 criou a sociedade de crédito direto e a sociedade de empréstimo entre pessoas, que são as chamadas fintechs de crédito. O texto consolidado no site do Banco Central indica que a Resolução 4.656 foi revogada integralmente a partir de 1º de janeiro de 2025, pela Resolução CMN 5.177. Não consegui ler o texto da 5.177 em fonte aberta. Por isso, não use artigos antigos que descrevem esse regime como vigente, e confirme as regras atuais no site do Banco Central.
+Um cuidado extra com a terminologia. A Resolução CMN 4.656/2018 criou a sociedade de crédito direto e a sociedade de empréstimo entre pessoas, que são as chamadas fintechs de crédito. Uma matéria de julho de 2024 apresenta a Resolução CMN 5.159 como a norma dessas sociedades. Não consegui confirmar em fonte aberta qual norma está em vigor hoje, por isso não use artigos antigos como referência de regra vigente e confira o normativo atual no site do Banco Central.
 
 ## O que a proposta formal precisa ter
 
@@ -63,7 +63,7 @@ Uma proposta séria vem por escrito, com data de validade e com os seguintes ite
 
 ## Como conferir a empresa em dez minutos
 
-1. Pesquise o nome e o CNPJ da empresa e veja se ela aparece como instituição autorizada no site do Banco Central, na ferramenta Encontre uma instituição, dentro da área Meu BC.
+1. Pesquise o nome e o CNPJ da empresa e veja se ela aparece como instituição autorizada no site do Banco Central, na ferramenta Encontre uma instituição (caminho Meu BC, depois Serviços).
 2. Se a empresa disser que é correspondente, peça o nome do banco contratante e confirme que o banco reconhece essa relação pelos canais oficiais dele.
 3. Confira o site: o endereço deve ser o da instituição, com CNPJ e informações de contato verificáveis.
 4. Peça a proposta por escrito, com o CET, a taxa de juros, as tarifas e os seguros.
@@ -94,7 +94,7 @@ Use também o [simulador de financiamento](/simulador) para testar parcelas e pr
 
 ## Dados, consentimento e Open Finance
 
-Plataformas digitais costumam pedir acesso aos seus dados bancários ou ao histórico de pagamentos. Isso pode ajudar na análise, mas exige cuidado. Confira para que a empresa vai usar os dados, por quanto tempo ficam guardados e como você pode revogar o consentimento. O consentimento do Open Finance pode ser revogado no próprio aplicativo do banco ou da plataforma. O guia sobre [Open Finance e compartilhamento de dados](/artigos/open-finance-como-compartilhar-dados) explica o processo.
+Plataformas digitais costumam pedir acesso aos seus dados bancários ou ao histórico de pagamentos. Isso pode ajudar na análise, mas exige cuidado. Confira para que a empresa vai usar os dados, por quanto tempo ficam guardados e como você pode revogar o consentimento. Se quiser parar o compartilhamento, peça a revogação do consentimento pelo canal da instituição que o recebeu. O guia sobre [Open Finance e compartilhamento de dados](/artigos/open-finance-como-compartilhar-dados) explica o processo.
 
 ## Sinais de golpe
 

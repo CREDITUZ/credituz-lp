@@ -18,7 +18,7 @@ faq:
   - q: "Posso trocar meu imóvel por apartamento na planta?"
     a: "Sim, se a construtora aceitar a operação e o contrato descrever a unidade, o preço, o prazo de entrega e como será paga a diferença. A troca depende da política da incorporadora."
   - q: "Preciso de escritura para fazer uma permuta?"
-    a: "Sim. A troca de propriedade de imóvel é formalizada em escritura pública e só fica completa com o registro na matrícula do imóvel. Um contrato particular sozinho não transfere a propriedade."
+    a: "Em geral, sim. Para imóveis de valor acima de 30 salários mínimos, a lei exige escritura pública (art. 108 do Código Civil), e a propriedade só passa para o nome da outra parte com o registro no cartório de imóveis (art. 1.245). Um contrato particular sozinho não transfere a propriedade."
 sources:
   - title: "Lei 13.259/2016 (alíquotas do ganho de capital de pessoa física, de 15% a 22,5%)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13259.htm"
@@ -28,6 +28,10 @@ sources:
     url: "https://cfc.org.br/noticias/artigo-a-permuta-de-imoveis-e-as-novas-regras-contabeis-e-fiscais/"
   - title: "Coluna NetCPA sobre o Tema 1124 do STF, ITBI e cessão de direitos (publicada em 23/02/2021)"
     url: "https://netcpa.com.br/colunas/stf-reafirma-jurisprudencia-e-define-que-nao-incide-itbi-sobre-cessao-de-direito/9121"
+  - title: "CNBSP: STF acolhe embargos no Tema 1124 e determina novo julgamento de mérito sobre o ITBI na cessão (publicada em 01/09/2022)"
+    url: "https://cnbsp.org.br/2022/09/01/stf-incidencia-de-itbi-sobre-cessao-de-direitos-sera-reexaminada-pelo-supremo/"
+  - title: "Código Civil, arts. 108 e 1.245 (texto em peticoesonline)"
+    url: "https://www.peticoesonline.com.br/art-108-cc"
 related: [ganho-de-capital-venda-de-imovel, itbi, imovel-na-planta-como-investimento, escritura-e-registro-quanto-custa]
 ---
 
@@ -48,7 +52,7 @@ A torna é o dinheiro que compensa a diferença de valor. Quem recebe a torna é
 | Sem torna | Não há | Em geral, nenhum ganho a tributar | Depende da cidade e da base de cálculo |
 | Com torna | Sim, para quem recebe | Tributado a 15% sobre a parte ligada à torna | Depende da cidade e da base de cálculo |
 
-As duas análises que consultei, uma de 2015 e outra de 2022, convergem na ideia de que a permuta sem torna não gera ganho tributável, porque o valor de cada imóvel permanece o mesmo para as duas partes. A conclusão vale para a regra geral, mas confirme com um contador o seu caso específico.
+As duas análises que consultei convergem. A do CFC, de outubro de 2015 e publicada em 16/12/2015, diz que a permuta sem torna não gera ganho de capital tributável, porque o valor de cada imóvel permanece o mesmo para as duas partes. A do Jornal Contábil, de 2022, diz que ela é isenta do imposto sobre ganho de capital e cita o artigo 29 da Instrução Normativa SRF 84/2001. A conclusão vale para a regra geral, mas confirme com um contador o seu caso específico.
 
 Uma troca de valores iguais é a mais simples. Na prática, a avaliação feita pelo comprador, a avaliação de mercado e o valor de referência da prefeitura costumam divergir. Essa diferença vira torna ou, em alguns casos, um problema de imposto. Por isso, alinhe a avaliação com um profissional independente antes de fechar a troca.
 
@@ -56,7 +60,7 @@ Uma troca de valores iguais é a mais simples. Na prática, a avaliação feita 
 
 Para pessoa física, a Lei 13.259/2016 fixou alíquotas progressivas sobre o ganho de capital: 15% até R$ 5 milhões, 17,5% entre R$ 5 milhões e R$ 10 milhões, 20% entre R$ 10 milhões e R$ 30 milhões, e 22,5% acima disso. Em uma permuta comum, a faixa aplicada é a de 15%.
 
-O cálculo do ganho com torna é o ponto que mais confunde. Segundo a análise publicada pelo Jornal Contábil em 2022, com base na Instrução Normativa SRF 84/2001, o ganho não é a torna inteira. Calcula-se a fração torna dividida pela soma da torna com o custo do imóvel entregue, e essa fração é aplicada sobre a torna. O custo do imóvel entra só no denominador.
+O cálculo do ganho com torna é o ponto que mais confunde. Segundo a análise publicada pelo Jornal Contábil em 2022, com base no artigo 23 da Instrução Normativa SRF 84/2001, o ganho não é a torna inteira. Calcula-se a fração torna dividida pela soma da torna com o custo do imóvel entregue, e essa fração é aplicada sobre a torna. O custo do imóvel entra só no denominador.
 
 Veja um exemplo ilustrativo, com números redondos e fictícios:
 
@@ -78,7 +82,7 @@ O ITBI, o Imposto sobre Transmissão de Bens Imóveis, é municipal. Cada cidade
 
 A escritura e o registro seguem a regra do contrato. Sem acordo, o Código Civil manda dividir as despesas do instrumento ao meio. Você pode negociar que uma das partes arque com tudo, mas isso deve estar escrito. O guia sobre [escritura e registro, quanto custa](/artigos/escritura-e-registro-quanto-custa) detalha esses valores.
 
-Há ainda uma discussão em aberto sobre o ITBI na cessão de direitos, que aparece em trocas por imóvel na planta. O tema chegou ao Supremo Tribunal Federal como Tema 1124. Em coluna de fevereiro de 2021, o entendimento apontado era de que o fato gerador do ITBI ocorre com o registro da transferência da propriedade. O julgamento, porém, não tinha tese final, e não encontrei uma conclusão posterior em fontes abertas. Trate esse ponto como incerto e verifique a situação atual com um advogado.
+Há ainda uma discussão em aberto sobre o ITBI na cessão de direitos, que aparece em trocas por imóvel na planta. O tema chegou ao Supremo Tribunal Federal como Tema 1124 (ARE 1.294.969). Em fevereiro de 2021, o STF entendeu que o fato gerador do ITBI ocorre com a transferência da propriedade, efetivada pelo registro. Em agosto de 2022, o Plenário acolheu embargos de declaração do Município de São Paulo sem reafirmar esse entendimento, e a questão voltou para um novo julgamento de mérito. Nas buscas que fiz, não encontrei esse julgamento concluído. Trate o ITBI na cessão como incerto e verifique a situação atual com um advogado ou com a prefeitura.
 
 ## Permuta por apartamento na planta
 

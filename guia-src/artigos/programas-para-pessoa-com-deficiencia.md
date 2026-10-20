@@ -10,16 +10,16 @@ key_points:
   - "No Minha Casa Minha Vida, a deficiência é um dos critérios de prioridade da seleção, mas a vaga depende da classificação e das unidades disponíveis."
   - "A lei exige áreas comuns e unidades do térreo acessíveis, o que deve pesar na escolha do imóvel."
   - "O BPC (um salário mínimo) exige renda por pessoa de até um quarto do salário mínimo. Não é prioridade em moradia, mas costuma aparecer junto no cadastro."
-  - "Não encontrei saque específico do FGTS para adaptar moradia de pessoa com deficiência. Confirme na Caixa antes de contar com isso."
+  - "Não consegui confirmar um saque do FGTS específico para adaptar moradia de pessoa com deficiência. Pergunte à Caixa por escrito antes de contar com isso."
 faq:
   - q: "Pessoa com deficiência tem prioridade no Minha Casa Minha Vida?"
     a: "Sim. A Lei 13.146/2015 garante prioridade em programas habitacionais públicos ou subsidiados, e a seleção do programa usa critérios de prioridade que incluem a deficiência. A vaga ainda depende da classificação e das unidades disponíveis."
   - q: "Preciso de laudo para pedir a prioridade?"
-    a: "Em geral, sim. Editais costumam pedir laudo médico com o código CID, mas a exigência exata está no edital do município ou do empreendimento. Confira antes de se inscrever."
+    a: "A Portaria MCID 738/2024 fala em comprovação por avaliação biopsicossocial, e o edital do município ou do empreendimento define o documento aceito. Confira antes de se inscrever."
   - q: "Quem recebe BPC fica dispensado de pagar a casa?"
-    a: "Não é automático. No caminho da prefeitura com imóvel do FAR, a regra federal dispensa a participação financeira de família com beneficiário do BPC ou do Bolsa Família. Veja as condições em [Minha Casa Minha Vida Faixa 1](/artigos/minha-casa-minha-vida-faixa-1)."
+    a: "Não é automático. Pela Portaria MCID 738/2024, art. 31, a dispensa de participação financeira depende de registro no Bolsa Família (§ 2º). O registro de BPC aparece no § 3º, sem dispensa expressa. Veja as condições em [Minha Casa Minha Vida Faixa 1](/artigos/minha-casa-minha-vida-faixa-1)."
   - q: "Posso usar o FGTS para adaptar o imóvel?"
-    a: "Não encontrei hipótese de saque do FGTS específica para adaptação de moradia de pessoa com deficiência. As hipóteses estão no art. 20 da Lei 8.036/1990, e a Caixa confirma o que vale em cada caso."
+    a: "Não consegui confirmar, nas fontes que consultei, uma hipótese de saque do FGTS para adaptação de moradia de pessoa com deficiência. As hipóteses de saque estão na Lei 8.036/1990, e a Caixa confirma o que vale em cada caso."
 sources:
   - title: "Lei 13.146/2015, Estatuto da Pessoa com Deficiência (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
@@ -34,7 +34,7 @@ sources:
 related: [minha-casa-minha-vida-entidades, minha-casa-minha-vida-sorteio, minha-casa-minha-vida-documentos, programas-habitacionais-municipais]
 ---
 
-A pessoa com deficiência tem prioridade em programas habitacionais públicos ou subsidiados, e a lei federal garante uma reserva mínima de 3% das unidades. No Minha Casa Minha Vida, a deficiência entra como critério de prioridade na seleção, mas a vaga continua dependendo da classificação e das unidades disponíveis. Estados e municípios podem ampliar essas reservas. Em São Paulo, por exemplo, o programa Pode Entrar reservou 5% das unidades para pessoas com deficiência, segundo o decreto de 2021.
+A pessoa com deficiência tem prioridade em programas habitacionais públicos ou subsidiados, e a lei federal garante uma reserva mínima de 3% das unidades. No Minha Casa Minha Vida, a deficiência entra como critério de prioridade na seleção, mas a vaga continua dependendo da classificação e das unidades disponíveis. Estados e municípios podem ampliar essas reservas. Em São Paulo, por exemplo, o programa Pode Entrar previa 5% das unidades para pessoas com deficiência, segundo reportagem sobre o decreto de 2021.
 
 ## O que a Lei 13.146/2015 garante
 
@@ -53,13 +53,13 @@ Na prática, a lei garante o direito de concorrer com prioridade e a reserva. Co
 
 ## Como funciona no Minha Casa Minha Vida
 
-Na seleção da Faixa 1 pela prefeitura, o programa não usa sorteio pela regra federal. A Portaria MCID 738/2024 classifica as famílias pelo número de critérios de prioridade que cumprem. A deficiência é um desses critérios, junto de outros, como família chefiada por mulher, idosos e crianças. Veja a lógica em [sorteio no Minha Casa Minha Vida](/artigos/minha-casa-minha-vida-sorteio).
+Na Faixa 1 do FAR, a Portaria MCID 738/2024 manda o ente local ordenar as famílias pelo número de critérios de prioridade que cumprem (art. 13). A deficiência é um desses critérios, junto de outros, como família chefiada por mulher, idosos e crianças. Em caso de empate, vale a maior idade do titular do contrato (art. 13, § 3º). Veja a lógica em [sorteio no Minha Casa Minha Vida](/artigos/minha-casa-minha-vida-sorteio).
 
 Os modelos em que uma entidade organiza o grupo também têm critérios de prioridade e reservas. Veja [MCMV Entidades](/artigos/minha-casa-minha-vida-entidades).
 
-Para comprovar a condição, o edital do empreendimento indica os documentos. Em geral, pede laudo médico atualizado, e o [roteiro de documentos do programa](/artigos/minha-casa-minha-vida-documentos) mostra os itens mais comuns.
+Para comprovar a condição, a portaria pede avaliação biopsicossocial, e o edital do empreendimento indica os documentos aceitos. O [roteiro de documentos do programa](/artigos/minha-casa-minha-vida-documentos) mostra os itens mais comuns.
 
-Na escolha da unidade, o térreo tende a ser destinado primeiro a quem tem mobilidade reduzida, em linha com a regra de acessibilidade da lei.
+A lei pede que as unidades do térreo sejam acessíveis (art. 32, III), mas a forma de escolha das unidades é definida no edital.
 
 ## O que checar na unidade antes de assinar
 
@@ -73,8 +73,8 @@ Alguns cuidados ajudam a não perder o momento da escolha. Na visita ao empreend
 
 ## Passo a passo para pedir a prioridade
 
-1. **Atualize o CadÚnico** no CRAS e confira se a deficiência está registrada. Ele alimenta a análise de critérios de prioridade em muitos programas.
-2. **Reúna o laudo médico**, com o código CID e a data de emissão. Confira se o edital aceita laudo de qualquer especialista ou exige um tipo específico.
+1. **Atualize o CadÚnico** no CRAS e confira se a deficiência está registrada. Muitos programas usam o cadastro na seleção, mas a portaria pede comprovação própria para a deficiência, então o cadastro sozinho pode não bastar.
+2. **Reúna o laudo médico ou a avaliação**, com a data de emissão. Confira se o edital aceita laudo de qualquer especialista ou exige um tipo específico, e se pede o código CID.
 3. **Leia o edital.** Ele diz quais documentos comprovam a prioridade, em que prazo devem ser entregues e onde a inscrição acontece.
 4. **Inscreva-se pelo canal oficial** e guarde o protocolo com a data e a lista de documentos enviados.
 5. **Se a prioridade for negada**, peça a motivação por escrito. O edital costuma informar o prazo e a forma de recurso. Se não informar, pergunte à secretaria por escrito qual é o caminho.
@@ -97,7 +97,7 @@ Se a pessoa usa cadeira de rodas ou tem mobilidade reduzida, vale levar um arqui
 
 ## FGTS e adaptação da moradia
 
-Não encontrei, nas hipóteses de saque da Lei 8.036/1990, um item específico para adaptar a moradia de pessoa com deficiência. O art. 20 lista as hipóteses, e a versão compilada da lei precisa ser conferida com a Caixa. Por isso, não conte com esse recurso sem confirmação por escrito.
+Não consegui confirmar, nas fontes que consultei, um item das hipóteses de saque da Lei 8.036/1990 voltado a adaptar a moradia de pessoa com deficiência. O texto compilado da lei não pôde ser lido até o artigo com as hipóteses, então a verificação precisa ser feita com a Caixa. Não conte com esse recurso sem confirmação por escrito.
 
 Se o FGTS for usado para comprar o imóvel, as regras de entrada, amortização e parcelas estão em [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel).
 
@@ -117,7 +117,7 @@ Se o edital negar a prioridade sem motivo claro, peça por escrito a justificati
 - No Minha Casa Minha Vida, a deficiência é critério de prioridade na seleção, e o edital define a comprovação.
 - Confira o acesso, o térreo e as áreas comuns antes de escolher a unidade.
 - O BPC exige renda por pessoa de até R$ 405,25 em 2026, com salário mínimo de R$ 1.621.
-- Não há confirmação de saque do FGTS para adaptação de moradia. Pergunte à Caixa.
+- Não consegui confirmar saque do FGTS para adaptação de moradia. Pergunte à Caixa por escrito.
 
 Procure o CRAS para atualizar o CadÚnico e a secretaria de habitação do município para saber quais programas estão abertos. Veja também [programas habitacionais municipais](/artigos/programas-habitacionais-municipais).
 

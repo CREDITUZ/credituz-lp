@@ -37,7 +37,7 @@ Para casos de imóvel recebido por herança, o guia sobre [quem já tem imóvel]
 
 ## Pró-Cotista não é uso do saldo
 
-Essa diferença muda a conta. Quando você usa o saldo na entrada, o dinheiro sai da conta vinculada e reduz o valor a financiar. No Pró-Cotista, a conta vinculada aparece como condição de elegibilidade: você precisa ter 3 anos de depósitos e um vínculo ativo ou um saldo mínimo. O financiamento em si vem do fundo, e a parcela vai para o banco que opera a linha.
+Essa diferença muda a conta. Quando você usa o saldo na entrada, o dinheiro sai da conta vinculada e reduz o valor a financiar. No Pró-Cotista, a conta vinculada aparece como condição de elegibilidade: você precisa ter 3 anos de trabalho sob o regime do FGTS e um vínculo ativo ou um saldo mínimo. O financiamento em si vem do fundo, e a parcela vai para o banco que opera a linha.
 
 Por isso, quem tem saldo e quer reduzir a entrada pode usar o saldo na compra, e o Pró-Cotista é outra possibilidade. O guia sobre [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) explica o uso do saldo.
 
@@ -51,9 +51,9 @@ Os requisitos estão no item 4.1 da Instrução Normativa (IN) MCID 41/2021, que
 | Vínculo ou saldo | Contrato de trabalho ativo, ou saldo de pelo menos 10% do valor de avaliação do imóvel na data da concessão |
 | Imóvel no município | Não ser proprietário, promitente comprador ou arrendatário de imóvel residencial no município onde mora, nem onde exerce a ocupação principal |
 | Outro financiamento do SFH | Não ter financiamento do SFH em qualquer lugar do país |
-| Renda | Não é requisito. A IN usa a renda só como critério de prioridade, com base na Resolução CCFGTS 702/2012 |
+| Renda | A IN 41 não exige renda: ela só usa a renda como critério de prioridade (Resolução CCFGTS 702/2012). No imóvel usado, a IN MCID 45/2025 limita a renda familiar bruta a R$ 12.000 por mês |
 
-Algumas páginas de divulgação citam limites de renda para a linha. A norma consultada não traz esse limite como requisito, então confirme com o banco por escrito.
+O limite de R$ 12.000 de renda familiar bruta vem da IN MCID 45/2025, art. 5º, parágrafo único, inciso I, e vale para o financiamento de imóvel usado no Pró-Cotista. A IN 41 não traz esse limite, então confirme com o banco, por escrito, se ele se aplica ao seu caso.
 
 ## Quanto dá para financiar
 
@@ -62,33 +62,33 @@ O teto está em duas normas. A IN 41 fixa o limite geral, e a IN MCID 45/2025 tr
 | Tipo de imóvel | Teto de financiamento | Fonte |
 |---|---|---|
 | Regra geral | 80% do valor de avaliação, ou 90% no SAC | IN 41, item 6.2, alínea a |
-| Imóvel usado | 50% do valor do imóvel | IN MCID 45/2025, artigo 5º, parágrafo único |
+| Imóvel usado | 50% da razão entre o financiamento e o menor valor entre venda e avaliação | IN MCID 45/2025, artigo 5º, parágrafo único, inciso II |
 | Valor do imóvel | Sem valor fixo na IN 41, que segue o limite do SFH | IN 41, item 6.2, alínea b |
 
 A IN 41 não separa imóvel novo e usado. A IN 45 traz a regra mais restrita para usado, então, se você compra um imóvel usado, conte com a entrada de pelo menos 50% do valor. Confirme com o banco, porque a aplicação depende da operação.
 
-O limite de valor do imóvel acompanha o teto do SFH, de R$ 2,25 milhões desde a Resolução CMN 5.255/2025.
+O limite de valor do imóvel acompanha o teto do SFH, de R$ 2,25 milhões, fixado no artigo 13 da Resolução CMN 4.676/2018 com a redação da Resolução CMN 5.255/2025.
 
 ## Juros: o que a norma diz e o que aparece no mercado
 
-O item 6.3 da IN 41 descreve a composição da taxa: o custo do empréstimo ao agente operador é de 6,5% ao ano, com risco de crédito de até 0,8% ao ano. Para o mutuário, a soma com a remuneração do agente financeiro de até 2,16% ao ano chega a um total de até 8,66% ao ano.
+O item 6.3 da IN 41 descreve a composição da taxa: o custo do empréstimo ao agente operador é de 6,5% ao ano, com risco de crédito de até 0,8% ao ano. Para o mutuário, a soma com a remuneração do agente financeiro de até 2,16% ao ano chega a um total de até 8,66% ao ano. Esse item não menciona a TR. Já o item 6.8 exige cobertura mínima de morte e invalidez permanente, sem dizer quanto isso custa.
 
-Os levantamentos de outubro de 2026 que consultei divergem. Uma matéria cita taxa de partida de 9% ao ano mais TR em um dos bancos. Outra, do SP Imóvel, atualizada em 09/10/2026, cita 8,66% mais TR. Essa diferença precisa ser explicada pelo banco. Se a taxa de balcão ficar acima do teto descrito na norma, pode haver regra posterior ou uma composição diferente, como a TR e seguros. Peça por escrito a taxa, a composição e o CET (Custo Efetivo Total).
+Os levantamentos de outubro de 2026 que consultei divergem. O SP Imóvel, atualizado em 09/10/2026, cita taxa nominal de 8,66% ao ano mais TR, conforme divulgação da Caixa. Os levantamentos da MySide citados nos guias de [financiamento na Caixa](/artigos/financiamento-caixa) e de [financiamento no Banco do Brasil](/artigos/financiamento-banco-do-brasil) registram 9,01% ao ano mais TR na Caixa e 9% no BB. Uma hipótese de convenção explica a diferença: 8,66% ao ano nominal, com juros calculados todo mês, equivalem a cerca de 9,01% ao ano efetivo, pela conta (1 + 0,0866 / 12) elevado a 12, menos 1. Essa é uma hipótese de cálculo, não confirmada em fonte oficial. Como a IN 41 descreve 8,66% como taxa nominal máxima, peça por escrito a taxa nominal, a efetiva, a composição com a TR e o CET (Custo Efetivo Total).
 
 ### Exemplo ilustrativo
 
-Exemplo ilustrativo, com imóvel novo avaliado em R$ 300.000. Com o teto de 80%, o financiamento seria de R$ 240.000, e a entrada, de R$ 60.000. A tabela SAC em 360 meses, sem TR e sem seguros, fica assim:
+Exemplo ilustrativo, com imóvel novo avaliado em R$ 300.000. Com o teto de 80%, o financiamento seria de R$ 240.000, e a entrada, de R$ 60.000. A tabela SAC em 360 meses, sem TR e sem seguros, com as taxas tratadas como efetivas ao ano (mensal de cerca de 0,6945% e 0,7207%), fica assim:
 
-- **A 8,66% ao ano:** primeira parcela de cerca de R$ 2.333,50, e juros totais de cerca de R$ 300.863,29.
-- **A 9% ao ano:** primeira parcela de cerca de R$ 2.396,42, e juros totais de cerca de R$ 312.221,25.
+- **A 8,66% ao ano efetivo:** primeira parcela de cerca de R$ 2.333,50, e juros totais de cerca de R$ 300.863,29.
+- **A 9% ao ano efetivo:** primeira parcela de cerca de R$ 2.396,42, e juros totais de cerca de R$ 312.221,25.
 
-A diferença de 0,34 ponto percentual, nesse cenário, soma cerca de R$ 11.358 em juros no contrato. Para o mesmo imóvel usado, com o limite de 50%, o financiamento cairia para R$ 150.000, e a entrada subiria para R$ 150.000.
+A diferença de 0,34 ponto percentual, nesse cenário, soma cerca de R$ 11.358 em juros no contrato. Se os 8,66% forem taxa nominal, com juros mensais de 1/12 da taxa, a primeira parcela sobe para cerca de R$ 2.398,67 e os juros totais para cerca de R$ 312.626,00. Por isso, peça ao banco a taxa efetiva anual. Para o mesmo imóvel usado, com o limite de 50%, o financiamento cairia para R$ 150.000, e a entrada subiria para R$ 150.000.
 
 ## Verba limitada e risco de suspensão
 
-A linha tem orçamento anual. A IN MCID 45/2025 fixa o orçamento de cada programa do FGTS, e o Pró-Cotista aparece nessa tabela. Como o recurso é limitado, a linha pode ficar indisponível durante o ano.
+A linha tem orçamento anual. A IN MCID 45/2025 fixa o orçamento de cada programa do FGTS, e o Pró-Cotista aparece nessa tabela (Anexo I, por programas). Como o recurso é limitado, a linha pode ficar indisponível durante o ano.
 
-O histórico mostra isso. Em 31/05/2017, a Caixa informou que os recursos disponíveis só atendiam às propostas já recebidas, e suspendeu novos financiamentos da linha até a reposição de verba. Não quer dizer que isso se repita, mas mostra por que vale perguntar sobre a verba na data do pedido.
+O histórico mostra isso. Em 31/05/2017, a Caixa confirmou a suspensão dos financiamentos habitacionais da linha e informou que os recursos disponíveis só atendiam às propostas já recebidas. Na ocasião, falou-se em cerca de R$ 3 bilhões para complementar a linha. Não quer dizer que isso se repita, mas mostra por que vale perguntar sobre a verba na data do pedido.
 
 ## Pró-Cotista e uso do saldo, lado a lado
 
@@ -122,7 +122,7 @@ Para ver como os bancos apresentam a linha, veja os guias sobre o [financiamento
 
 - O Pró-Cotista é um financiamento com recursos do FGTS, e não um saque do saldo.
 - Os requisitos são 3 anos de FGTS, vínculo ativo ou saldo de pelo menos 10% da avaliação, e nenhum imóvel residencial no município.
-- O teto geral é de 80% (90% no SAC), e o usado é limitado a 50%.
+- O teto geral é de 80% (90% no SAC), o usado é limitado a 50%, e a renda familiar do usado é limitada a R$ 12.000 por mês.
 - A taxa e a verba precisam ser confirmadas por escrito antes de assinar.
 
 As regras citadas valem para outubro de 2026, segundo as normas indicadas. Como a linha depende de verba e as taxas divulgadas variam, confirme as condições no banco antes de decidir.

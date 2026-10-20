@@ -4,7 +4,7 @@ description: "Como o testamento muda a partilha de um imóvel: a legítima de me
 category: direitos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "O testamento só pode dispor da metade da herança que a lei chama de parte disponível. A outra metade, a legítima, é reservada aos herdeiros necessários (Código Civil, arts. 1.845 a 1.846)."
   - "Se o casal é casado em comunhão parcial, a metade do imóvel que já pertence ao cônjuge não é herança, e o testamento não alcança essa parte (arts. 1.658 e 1.829)."

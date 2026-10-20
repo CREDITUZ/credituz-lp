@@ -9,12 +9,12 @@ key_points:
   - "Na separação escolhida por pacto antenupcial, cada cônjuge tem o próprio patrimônio, mas os dois contribuem para as despesas do casal (Código Civil, arts. 1.640, parágrafo único, e 1.688)."
   - "A separação é obrigatória em alguns casos, entre eles quando a pessoa tem mais de 70 anos (art. 1.641, inciso II)."
   - "A exigência de autorização do outro cônjuge para vender imóvel (art. 1.647, inciso I) não se aplica à separação absoluta. Na separação obrigatória, a resposta depende de análise caso a caso."
-  - "Na separação obrigatória, a Súmula 377 do STF comunica os bens adquiridos durante o casamento, mas o STJ passou a exigir prova da participação efetiva de quem pede a parte."
+  - "Na separação obrigatória, a Súmula 377 do STF comunica os bens adquiridos durante o casamento, mas a jurisprudência do STJ exige prova do esforço comum de quem pede a parte."
 faq:
   - q: "Com separação de bens, meu cônjuge precisa assinar a compra ou a venda do imóvel?"
     a: "Na separação escolhida por pacto, em regra não, porque a outorga do artigo 1.647 não se aplica a esse regime. Na separação obrigatória, a exigência pode variar, e o registrador costuma analisar o caso. Pergunte antes da escritura."
   - q: "Na separação obrigatória, tenho direito ao que o outro comprou?"
-    a: "Não automaticamente. A Súmula 377 comunica os bens adquiridos na constância do casamento, mas quem pede a parte precisa demonstrar a participação efetiva no pagamento."
+    a: "Não automaticamente. A Súmula 377 comunica os bens adquiridos na constância do casamento, mas quem pede a parte precisa demonstrar o esforço comum para a aquisição."
   - q: "Posso mudar o regime depois de casado?"
     a: "Sim, mas só com autorização judicial, a partir de pedido motivado dos dois cônjuges, com ressalva dos direitos de terceiros (Código Civil, art. 1.639, §2º)."
   - q: "Quem paga as contas da casa no regime de separação?"
@@ -32,8 +32,8 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-1688"
   - title: "Código Civil (Lei 10.406/2002), texto compilado (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
-  - title: "Súmula 377 do STF e o Informativo 628 do STJ: esforço comum na separação legal (artigo em site jurídico, fonte secundária)"
-    url: "https://jus.com.br/artigos/75678/a-sumula-377-do-stf-sob-a-luz-do-informativo-628-do-stj"
+  - title: "Súmula 377 do STF, texto (site jurídico, fonte secundária)"
+    url: "https://juris.damasio.com.br/sumulas/stf/377"
   - title: "CGJ-SP, Apelação 1000094-56.2023.8.26.0120, julgada em 12/09/2024 e publicada em 18/09/2024 (resumo do CNB/SP)"
     url: "https://cnbsp.org.br/2024/09/18/cgj-sp-trata-sobre-a-dispensa-de-outorga-uxoria-para-venda-de-imovel-em-regime-de-separacao-obrigatoria-de-bens/"
 related: [fgts-e-divorcio, uniao-estavel-e-imovel, testamento-e-imovel, fgts-de-dois-compradores]
@@ -57,7 +57,7 @@ A coluna da outorga é a que mais interessa a quem compra ou vende. Ela mostra q
 
 ## Separação escolhida por pacto
 
-O artigo 1.639 do Código Civil permite que os noivos, antes do casamento, estipulem livremente as regras sobre os seus bens. Quando escolhem a separação, o pacto antenupcial deve ser feito por escritura pública, conforme o artigo 1.640, parágrafo único. Para a comunhão parcial, basta uma declaração simples na habilitação. Para os demais regimes, o pacto é feito em tabelionato.
+O artigo 1.639 do Código Civil permite que os noivos, antes do casamento, estipulem livremente as regras sobre os seus bens. Quando escolhem a separação, o pacto antenupcial deve ser feito por escritura pública, conforme o artigo 1.640, parágrafo único. Se os noivos não escolhem nada, vale a comunhão parcial (art. 1.640, caput). A opção pela comunhão parcial é reduzida a termo na própria habilitação, e as demais escolhas exigem escritura pública.
 
 Nesse regime, cada cônjuge administra e dispõe do próprio patrimônio. Mesmo assim, ambos devem contribuir para as despesas do casal, de forma proporcional ao que cada um recebe pelo trabalho e ao patrimônio que possui. O pacto pode dispor de outra forma (artigo 1.688).
 
@@ -75,7 +75,7 @@ As hipóteses do artigo 1.641 se referem ao casamento. Na união estável, a reg
 
 No regime de separação obrigatória, a Súmula 377 do STF diz que se comunicam os bens adquiridos na constância do casamento. Em outras palavras, o que foi comprado durante o casamento, mesmo no nome de um só, poderia ser dividido.
 
-Essa comunicação não é automática na prática. Segundo artigo sobre o Informativo 628 do STJ, de julho de 2018, a corte uniformizou o entendimento e passou a exigir que quem alega ter contribuído comprove uma participação efetiva e relevante para a aquisição, que pode ser não financeira. Antes, o esforço era presumido. Agora precisa ser demonstrado no caso concreto.
+Essa comunicação não é automática na prática. Segundo a decisão da Corregedoria-Geral da Justiça de São Paulo de 2024 citada na seção seguinte, que se apoia no STJ (EREsp 1.171.820/PR), só se comunicam os bens adquiridos com esforço comum, e esse esforço precisa ser demonstrado no caso concreto.
 
 Por isso, quem está na separação obrigatória deve guardar os comprovantes de pagamento de entrada, de parcelas, de reformas e de contribuições, porque a prova é o que transforma a súmula em direito.
 
@@ -83,9 +83,9 @@ Por isso, quem está na separação obrigatória deve guardar os comprovantes de
 
 O artigo 1.647 do Código Civil diz que, em regra, um cônjuge não pode vender ou gravar com ônus real um imóvel sem o consentimento do outro. A própria lei ressalva o regime de separação absoluta, e é por isso que a separação escolhida por pacto costuma dispensar a assinatura do cônjuge.
 
-No regime obrigatório, o tema não tem resposta única. Uma decisão recente da Corregedoria Geral da Justiça de São Paulo, na Apelação 1000094-56.2023.8.26.0120, julgada em 12 de setembro de 2024 e publicada em 18 de setembro de 2024, afastou a exigência de outorga para a venda de imóvel recebido por herança por cônjuge casado sob separação obrigatória. O relator entendeu que se trata de bem particular, sem esforço comum, e que a Súmula 377 não se aplica a aquisições gratuitas.
+No regime obrigatório, o tema não tem resposta única. Uma decisão da Corregedoria Geral da Justiça de São Paulo, na Apelação 1000094-56.2023.8.26.0120, julgada em 12 de setembro de 2024 e publicada no DJe em 18 de setembro de 2024, afastou a exigência de outorga para a venda de imóvel recebido por herança por cônjuge casado sob separação obrigatória. O voto considerou o bem particular e entendeu que só se comunicam bens adquiridos a título oneroso com esforço comum. Como o imóvel veio por herança, não havia o que comunicar, e não faria sentido exigir a outorga. O relator também manifestou dúvidas sobre a aplicação da Súmula 377 no Código Civil atual.
 
-Essa decisão é de tribunal estadual, e trata de bem recebido por herança. Ela não resolve a compra onerosa, com pagamento durante o casamento. Para esse caso, a orientação prudente é perguntar ao cartório antes de assinar, e pedir a resposta por escrito.
+Essa é uma decisão administrativa da Corregedoria paulista, que vale para os cartórios de São Paulo e não é regra nacional. Ela trata de bem recebido por herança. Ela não resolve a compra onerosa, com pagamento durante o casamento. Para esse caso, a orientação prudente é perguntar ao cartório antes de assinar, e pedir a resposta por escrito.
 
 ## Exemplo com números
 

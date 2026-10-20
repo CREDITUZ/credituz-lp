@@ -27,6 +27,10 @@ sources:
     url: "https://www.normasbrasil.com.br/norma/resolucao-5255-2025_484830.html"
   - title: "CMN e BC estabelecem novo modelo de financiamento de crédito imobiliário (Legismap, out/2025)"
     url: "https://legismap.com.br/conteudos/artigos-e-noticias/cmn-e-bc-estabelecem-novo-modelo-de-financiamento-de-credito-imobiliario"
+  - title: "Resolução CMN 4.676/2018, texto consolidado com limite de custo efetivo de 12% (BCB, normativos)"
+    url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50628/Res_4676_v12_L.pdf"
+  - title: "Copom reduz Selic para 13,75% ao ano na 281ª reunião, em 16/09/2026 (Atlas Público)"
+    url: "https://atlaspublico.com.br/bcb/noticias/copom-reduz-selic-para-13-75pct-ao-ano-em-decisao-unanime-87748"
   - title: "Banco Central do Brasil, Selic e comunicados do Copom"
     url: "https://www.bcb.gov.br/"
 related: [sfh-e-sfi, tr-no-financiamento, sac-ou-price, entrada-para-financiar-imovel]
@@ -38,11 +42,11 @@ SBPE é a sigla de Sistema Brasileiro de Poupança e Empréstimo, o nome da linh
 
 A poupança é uma aplicação em que o dinheiro depositado pode ser retirado a qualquer momento. Os bancos usam esses depósitos para formar uma reserva de crédito imobiliário, mas existe uma obrigação: parte do saldo precisa ser direcionada para financiar imóveis, pela regra do Conselho Monetário Nacional (CMN).
 
-Segundo a análise da Legismap publicada em outubro de 2025, a exigência atual é de 65% do saldo, e parte dela deve ir para financiamentos do SFH. Essa leitura é jornalística. O texto da resolução é a referência final, e vale conferi-lo antes de tomar a informação como certa.
+Essa obrigação continua valendo com a Resolução CMN 5.255. Análises de imprensa citam um percentual de 65% do saldo, mas o texto da resolução consultado não traz esse número, então não use o percentual sem conferir o comunicado oficial do Banco Central.
 
 A Resolução CMN 5.255, de 10 de outubro de 2025, alterou essa norma e tratou também dos depósitos interfinanceiros imobiliários. Pelo texto publicado, ela elevou para R$ 2,25 milhões o limite de avaliação do imóvel no SFH, ao alterar o art. 13 da Resolução CMN 4.676/2018.
 
-Ainda segundo a análise citada, o novo modelo passa a contar cada operação pelo valor contratado, e não pelo saldo até a quitação, e aumenta o direcionamento de forma gradual a partir de 2027. As datas e os percentuais finais não aparecem com clareza no texto consultado, então confirme no comunicado do Banco Central. Os bancos também captam em outras fontes, como a Letra Imobiliária Garantida (LIG) e a Letra de Crédito Imobiliário (LCI).
+A resolução tem regras que começam em 1º de janeiro de 2026 e outras em 1º de janeiro de 2027. A partir de 2027, as operações elegíveis entram nas contas de controle pelo valor elegível multiplicado por fatores que dependem do prazo e do valor do imóvel. O artigo não reproduz esses fatores, então consulte a resolução para os números. Os bancos também captam em outras fontes, como a Letra Imobiliária Garantida (LIG) e a Letra de Crédito Imobiliário (LCI).
 
 ## A regra da poupança e por que ela importa
 
@@ -60,7 +64,7 @@ Quando a poupança rende menos do que outras aplicações, o dinheiro tende a sa
 4. **Sistema de amortização.** O contrato usa SAC ou Price, com parcelas que se comportam de forma diferente. Veja [SAC ou Price](/artigos/sac-ou-price).
 5. **Garantia.** Na alienação fiduciária, o imóvel fica como garantia do banco até a quitação. Veja [alienação fiduciária](/artigos/alienacao-fiduciaria).
 6. **Seguros e tarifas.** Seguros de morte e invalidez (MIP) e de danos ao imóvel (DFI) entram no custo. Veja [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
-7. **Teto do SFH.** Se a avaliação ficar até R$ 2,25 milhões, o financiamento pode seguir as regras do SFH, com teto de custo e uso do FGTS. Segundo a análise da Legismap, o custo efetivo do SFH é limitado a 12% ao ano. Uma reportagem de agosto de 2026 relata que os bancos pediram ao Banco Central a revisão desse teto por causa da Selic alta. Confira o detalhe em [SFH e SFI](/artigos/sfh-e-sfi).
+7. **Teto do SFH.** Se a avaliação ficar até R$ 2,25 milhões, o financiamento pode seguir as regras do SFH, com teto de custo e uso do FGTS. No SFH, o custo efetivo para o comprador, que inclui juros, comissões e outros encargos financeiros, é limitado a 12% ao ano. Seguros e tarifas ficam fora desse cálculo (Resolução CMN 4.676/2018, art. 13, II e § 2º). Confira o detalhe em [SFH e SFI](/artigos/sfh-e-sfi).
 
 Para ver as linhas lado a lado:
 
@@ -68,13 +72,13 @@ Para ver as linhas lado a lado:
 |---|---|---|---|
 | SBPE | Poupança e outras captações do banco | Pelo banco, conforme mercado e perfil do cliente | Quem comprova renda e passa na análise de crédito |
 | Linha com FGTS (como o Pró-Cotista) | Fundo de Garantia | Regras do fundo e do banco | Quem tem conta no FGTS e cumpre as condições |
-| Minha Casa Minha Vida | Recursos do FGTS e do orçamento federal | Faixas de renda e regras do programa | Famílias dentro das faixas de renda, com subsídio nas faixas 1 e 2 |
+| Minha Casa Minha Vida | Recursos do FGTS e do orçamento federal | Faixas de renda e regras do programa | Famílias dentro das faixas de renda, com subsídio concentrado nas faixas de menor renda |
 
 ## Quando o SBPE faz sentido
 
 O SBPE costuma ser o caminho para quem não se encaixa em um programa com subsídio, como um imóvel acima do teto do Minha Casa Minha Vida ou uma renda acima das faixas. Também é a linha mais comum para quem tem saldo no FGTS, mas prefere não usar o fundo na compra. Não existe resposta única. O que decide é a conta de cada proposta, com CET, prazo e uma parcela que caiba na renda.
 
-Os bancos costumam trabalhar com parcela de até cerca de 30% da renda bruta familiar, mas o limite exato e a forma de calcular a renda dependem de cada instituição. Antes de visitar imóveis, faça a simulação com o valor que você pretende pagar por mês.
+Cada banco define quanto da renda bruta familiar pode ir para a parcela, e a forma de calcular a renda também varia de uma instituição para outra. Antes de visitar imóveis, faça a simulação com o valor que você pretende pagar por mês.
 
 ## Como ler uma proposta
 
@@ -95,7 +99,7 @@ Exemplo ilustrativo de um financiamento de R$ 400.000 em 360 meses (30 anos), se
 | 10% | R$ 3.383,56 | R$ 4.300,77 | R$ 818.082,78 | R$ 575.732,94 |
 | 11% | R$ 3.653,43 | R$ 4.604,95 | R$ 915.234,67 | R$ 630.637,67 |
 
-Entre 10% e 11% ao ano, a diferença é de cerca de R$ 270 por mês na Price e de cerca de R$ 97 mil em juros no contrato inteiro. Por isso, a taxa efetiva e o CET valem mais do que a origem do dinheiro.
+Entre 10% e 11% ao ano, a diferença é de cerca de R$ 270 por mês na Price e de cerca de R$ 97 mil a mais em juros totais do contrato, também na Price. Por isso, a taxa efetiva e o CET valem mais do que a origem do dinheiro.
 
 ## Erros comuns e cuidados
 

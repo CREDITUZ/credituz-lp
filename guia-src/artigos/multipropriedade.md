@@ -9,14 +9,14 @@ key_points:
   - "Multipropriedade é um condomínio em que cada dono tem uma fração de tempo de uso exclusivo do imóvel. Ela foi regulada pela Lei 13.777/2018, no Código Civil."
   - "A fração de tempo mínima é de 7 dias, e o regime só existe com o registro do ato de instituição na matrícula do imóvel. Sem registro, você tem um contrato de uso, não essa propriedade."
   - "Você paga taxas anuais mesmo sem usar a fração. Na venda, não há direito de preferência dos outros donos, salvo previsão no ato de instituição ou na convenção."
-  - "Quem compra a fração sem a certidão de quitação do vendedor pode responder solidariamente pelas dívidas dele, segundo o Código Civil."
+  - "Quem compra a fração sem a declaração de inexistência de débitos da fração pode responder solidariamente pelas dívidas do vendedor (artigo 1.358-L do Código Civil)."
 faq:
   - q: "Multipropriedade é a mesma coisa que tempo compartilhado?"
     a: "Não necessariamente. A multipropriedade do Código Civil é uma fração de propriedade registrada. Muitos produtos de tempo compartilhado são contratos de uso, sem registro, e têm regras diferentes. Leia o contrato e procure o registro na matrícula."
   - q: "Posso vender minha fração de multipropriedade?"
     a: "Pode, por ato entre vivos ou por herança, sem precisar de consentimento dos outros donos. Basta avisar o administrador. A convenção pode prever direito de preferência ou limites, então leia o texto."
   - q: "O que acontece se eu deixar de pagar a taxa da multipropriedade?"
-    a: "O condomínio pode tomar a fração pela via judicial, segundo o artigo 1.358-S do Código Civil. Antes disso, a cobrança e as multas previstas na convenção podem se acumular."
+    a: "O condomínio pode pedir a adjudicação da fração de tempo, na forma da lei processual (artigo 1.358-S do Código Civil). Antes disso, a cobrança e as multas previstas na convenção podem se acumular."
   - q: "Multipropriedade tem garantia de valorização?"
     a: "Não. Ela é um direito de uso com custos fixos. O valor de revenda depende da demanda, da idade do empreendimento e das taxas, e não há garantia de retorno."
 sources:
@@ -38,13 +38,13 @@ A lei criou um capítulo próprio no Código Civil, com os artigos 1.358-B a 1.3
 Algumas regras estruturais:
 
 - **Fração de tempo mínima de 7 dias.** O período não pode ser menor que sete dias consecutivos ou intercalados, e pode ser fixo, flutuante ou misto (artigo 1.358-E).
-- **Igualdade entre os donos.** Todos têm o mesmo número mínimo de dias por ano, e a fração é indivisível.
+- **Igualdade entre os donos.** Todos têm direito a uma mesma quantidade mínima de dias seguidos por ano (artigo 1.358-E, parágrafo 2º), e a fração de tempo é indivisível (artigo 1.358-E).
 - **Imóvel indivisível.** O imóvel não pode ser dividido nem levado a uma ação de extinção de condomínio, e a mobília e os equipamentos acompanham o bem (artigo 1.358-D).
-- **Limite de frações por pessoa.** O ato de instituição pode limitar quantas frações uma mesma pessoa pode ter.
+- **Limite de frações por pessoa.** O ato de instituição ou a convenção pode fixar quantas frações de tempo uma mesma pessoa pode ter no imóvel (artigo 1.358-H).
 
 ## Registro: o ponto que define tudo
 
-A multipropriedade só existe se o ato que a criou for registrado no cartório de imóveis (artigo 1.358-F). Pela Lei de Registros Públicos, alterada pela mesma lei, o imóvel passa a ter um registro principal e um registro para cada fração de tempo (artigo 176, parágrafo 10). Também é possível que cada fração tenha inscrição municipal própria para o IPTU, conforme o parágrafo 11.
+A multipropriedade só existe se o ato que a criou for registrado no cartório de imóveis (artigo 1.358-F). Pela Lei de Registros Públicos, alterada pela mesma lei, o imóvel passa a ter uma matrícula principal e uma matrícula para cada fração de tempo (artigo 176, parágrafo 10). Também é possível que cada fração tenha inscrição municipal própria para o IPTU, conforme o parágrafo 11.
 
 Antes de qualquer pagamento, peça a [matrícula do imóvel](/artigos/matricula-do-imovel) e confirme se ela mostra a multipropriedade e a fração que você está comprando. Se o documento não menciona o regime, o que você tem é um contrato de uso, com regras e garantias diferentes. Isso vale para produtos que se apresentam como multipropriedade, mas não passam pelo registro.
 
@@ -61,7 +61,7 @@ Na transferência, a lei diz que ela segue as regras do direito civil e não dep
 
 ## Deveres e custos
 
-A multipropriedade também cria obrigações, que você assume mesmo sem usar o imóvel:
+A multipropriedade também cria obrigações, que você assume mesmo sem usar o imóvel (artigo 1.358-J):
 
 - pagar as taxas condominiais e as despesas de administração;
 - zelar pelo bem e comunicar defeitos logo que os notar;
@@ -71,15 +71,15 @@ A multipropriedade também cria obrigações, que você assume mesmo sem usar o 
 
 O artigo 1.358-J prevê que a multa e a perda temporária do uso podem ser aplicadas em caso de infrações repetidas. Os custos de reparo são divididos entre todos os donos quando decorrem de desgaste normal, e recaem sobre o dono responsável quando decorrem de uso anormal.
 
-Os custos totais não se limitam à taxa anual. Há também a parte da fração nas despesas de manutenção e o fundo de reserva, que a lei manda a convenção prever, sem fixar o valor. Se a convenção previr administrador profissional, a remuneração dele também entra na conta.
+Os custos totais não se limitam à taxa anual. A convenção define os deveres de cada multiproprietário e a sua parte nas instalações, na manutenção e na conservação do imóvel (artigo 1.358-G). Peça a planilha dessas despesas e confira como ela é reajustada.
 
 ## Venda, dívidas e inadimplência
 
-A venda merece atenção especial. O artigo 1.358-L diz que a transferência segue o direito civil e não exige consentimento dos outros donos. Porém, o comprador que não obtiver a certidão negativa de débitos do vendedor pode responder solidariamente pelas dívidas dele. Por isso, a certidão precisa fazer parte da compra, junto com a verificação das taxas pendentes.
+A venda merece atenção especial. O artigo 1.358-L diz que a transferência segue o direito civil e não exige consentimento dos outros donos. Porém, o comprador que não obtiver a declaração de inexistência de débitos da fração pode responder solidariamente pelas dívidas do vendedor. Por isso, essa declaração precisa fazer parte da compra, junto com a verificação das taxas pendentes.
 
-Se você deixar de pagar as taxas, o condomínio pode buscar a cobrança e, nos termos do artigo 1.358-S, levar a fração a juízo. O dono também só pode renunciar à fração em favor do condomínio se estiver com as taxas, os tributos e eventuais foros em dia (artigo 1.358-T). Ou seja, sair do negócio não é simples se houver dívida.
+Se você deixar de pagar as taxas, o condomínio pode buscar a cobrança e, nos termos do artigo 1.358-S, pedir a adjudicação da fração de tempo na forma da lei processual. O dono também só pode renunciar à fração em favor do condomínio se estiver com as taxas, os tributos e eventuais foros em dia (artigo 1.358-T). Ou seja, sair do negócio não é simples se houver dívida.
 
-Outro ponto é a proibição. A convenção, a planta ou o ato de vendas podem limitar ou proibir a multipropriedade, e a mudança dessa regra exige maioria absoluta dos donos (artigo 1.358-U). Confirme se o empreendimento permite o regime antes de comprar.
+Outro ponto é a proibição. A convenção do condomínio, o memorial de loteamento ou os instrumentos de venda de lotes podem limitar ou impedir a multipropriedade, e a mudança dessa regra exige maioria absoluta dos condôminos (artigo 1.358-U). Confirme se o empreendimento permite o regime antes de comprar.
 
 A fração também pode ser transmitida por morte. Isso significa que, em um inventário, ela entra na partilha como qualquer outro bem, e os herdeiros passam a dividir as mesmas taxas e regras de uso. Vale considerar o tema no planejamento patrimonial, sobretudo se o imóvel for usado por mais de uma pessoa da família.
 
@@ -100,7 +100,7 @@ O cálculo é simplificado. Ele não considera o dinheiro parado, o reajuste das
 
 - **Custos fixos que sobem.** A taxa cobre a parte da fração e pode ser reajustada por assembleia.
 - **Revenda difícil.** Sem preferência dos outros donos, o mercado da fração pode ser pequeno.
-- **Dívidas do vendedor.** Sem a certidão de quitação, você pode herdar um passivo que não é seu.
+- **Dívidas do vendedor.** Sem a declaração de inexistência de débitos da fração, você pode responder por um passivo que não é seu.
 - **Administração terceirizada.** A convenção pode exigir um administrador profissional, e a qualidade dele afeta o uso e as taxas.
 - **Regras de uso.** Horários, reservas e limites de ocupação podem restringir o período que você imaginava.
 - **Confusão com contrato de uso.** Um produto sem registro pode oferecer a experiência sem a segurança do regime.
@@ -114,7 +114,7 @@ A multipropriedade costuma servir a quem tem um período de uso certo todo ano, 
 - Confirme na matrícula o registro do regime e a descrição da sua fração.
 - Leia a convenção e o regulamento interno, que trazem as regras de uso, o fundo de reserva e as multas.
 - Peça a planilha das taxas dos últimos anos e a previsão do próximo período.
-- Verifique a certidão de débitos do condomínio e a certidão de quitação do vendedor, se a compra for de revenda.
+- Se a compra for de revenda, peça a declaração de inexistência de débitos da fração (artigo 1.358-L) e verifique as taxas em atraso do condomínio.
 - Confirme o direito de preferência e as condições de venda na convenção.
 - Veja o histórico do empreendimento e quem é o administrador.
 - Compare o custo anual com o que você pagaria em hospedagem, sem esquecer da manutenção.

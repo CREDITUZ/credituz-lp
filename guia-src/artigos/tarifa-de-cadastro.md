@@ -7,13 +7,13 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "A tarifa de cadastro paga a abertura do relacionamento com o banco, como a consulta a bases de crédito e o tratamento dos seus dados. Ela é cobrada no início, e não todo mês."
-  - "O STJ, na Súmula 566, reconheceu que a tarifa pode ser cobrada em contratos bancários firmados depois de 30/04/2008, desde que esteja prevista no contrato."
+  - "O STJ, na Súmula 566, reconheceu que a tarifa pode ser cobrada em contratos bancários firmados depois de 30/04/2008. A cobrança, porém, ainda precisa seguir a regra geral do Banco Central, que exige previsão no contrato ou autorização prévia."
   - "No financiamento pelo SFH, a norma específica não lista essa tarifa de forma expressa, e nem todo banco a cobra. Pergunte o fundamento antes de pagar."
   - "Não há teto nacional para o valor: cada instituição divulga o seu na tabela de tarifas, que você pode pedir com data de vigência."
   - "Confira se a tarifa está incluída no CET (Custo Efetivo Total), que mostra o custo real do financiamento."
 faq:
   - q: "A tarifa de cadastro é legal no financiamento imobiliário?"
-    a: "O STJ admite a tarifa em contratos bancários posteriores a 30/04/2008, desde que prevista no contrato. No SFH, porém, a norma específica não a lista de forma expressa. Por isso, vale pedir ao banco o fundamento por escrito antes de assinar."
+    a: "O STJ admite a tarifa em contratos bancários posteriores a 30/04/2008. No SFH, porém, a norma específica não a lista de forma expressa, e a regra geral exige previsão no contrato ou autorização prévia. Por isso, vale pedir ao banco o fundamento por escrito antes de assinar."
   - q: "Quanto costuma custar a tarifa de cadastro?"
     a: "Não há valor fixado em lei. Cada banco define o seu e publica na tabela de tarifas. Para comparar, use a tabela vigente de cada instituição, com a data de atualização."
   - q: "A tarifa de cadastro é cobrada todo mês?"
@@ -40,27 +40,27 @@ A tarifa de cadastro é o valor que o banco cobra para abrir o relacionamento co
 
 A base é a Resolução CMN 3.919/2010, do Conselho Monetário Nacional (CMN), que organiza as tarifas que os bancos podem cobrar de pessoas físicas. Três pontos importam para quem vai financiar:
 
-- Qualquer tarifa exige previsão no contrato ou autorização prévia do cliente. Sem isso, o valor não é devido.
-- A tabela anexa à resolução lista a tarifa de cadastro como "confecção de cadastro para início de relacionamento". O fato gerador é a pesquisa em serviços de proteção ao crédito e o tratamento dos dados cadastrais necessários para começar a relação. A norma também proíbe cobrá-la de forma cumulativa com outra tarifa de mesmo fato gerador.
-- Na Súmula 566, o STJ confirmou que a tarifa pode ser cobrada no início do relacionamento em contratos bancários posteriores à Resolução CMN 3.518/2007, que passou a valer em 30/04/2008. A súmula foi julgada em 24/02/2016 e publicada em 29/02/2016.
+- A cobrança deve estar prevista no contrato ou ter sido previamente autorizada ou solicitada pelo cliente (art. 1º). Sem essa base, a cobrança não se sustenta pela norma.
+- A tabela anexa à resolução (item 1.1) lista a tarifa como "confecção de cadastro para início de relacionamento". O fato gerador é a pesquisa em serviços de proteção ao crédito e o tratamento dos dados cadastrais necessários para começar a relação. O texto também registra que a tarifa não pode ser cobrada cumulativamente, sem detalhar com quais outros itens.
+- Na Súmula 566, o STJ afirmou que, nos contratos bancários posteriores ao início da vigência da Resolução CMN 3.518/2007 (30/04/2008), pode ser cobrada a tarifa de cadastro no início do relacionamento. O texto da súmula não exige cláusula contratual específica; a exigência de previsão ou autorização vem da resolução de 2010. A súmula foi julgada em 24/02/2016 e publicada em 29/02/2016.
 
 Mesmo quando é permitida, a cobrança não pode ser abusiva. O Código de Defesa do Consumidor (art. 51) considera nulas as cláusulas abusivas, e a Justiça costuma avaliar caso a caso se o valor é compatível com o serviço prestado.
 
-Vale guardar uma distinção simples. Permitir a tarifa não significa que ela seja obrigatória. Ela só é devida se estiver no contrato ou se você tiver autorizado. Por isso, a pergunta útil não é apenas se o banco pode cobrar, mas se ele mostrou a cobrança antes da assinatura e em qual cláusula ela aparece. A cobrança que surge só depois do contrato assinado merece atenção redobrada.
+Vale guardar uma distinção simples. Permitir a tarifa não significa que ela seja obrigatória. Ela só se sustenta se estiver no contrato ou se o serviço tiver sido solicitado ou autorizado por você. Por isso, a pergunta útil não é apenas se o banco pode cobrar, mas se ele mostrou a cobrança antes da assinatura e em qual cláusula ela aparece. A cobrança que surge só depois do contrato assinado merece atenção redobrada.
 
 ## E no financiamento imobiliário?
 
-Aqui está a parte que costuma gerar dúvida. A Resolução CMN 3.919/2010 não menciona crédito imobiliário. Ela cita o Sistema Financeiro da Habitação (SFH) como exemplo de serviço cuja legislação própria define as tarifas.
+Aqui está a parte que costuma gerar dúvida. No texto consultado, a Resolução CMN 3.919/2010 não menciona crédito imobiliário. Ela cita o Sistema Financeiro da Habitação (SFH) como um dos serviços cujas tarifas são definidas por legislação própria.
 
-Essa legislação própria é a Resolução CMN 4.676/2018, que trata das condições do crédito imobiliário. Na versão consolidada consultada, que inclui alterações até a Resolução CMN 5.055/2022, o artigo 14 prevê, para pessoas físicas no SFH, duas tarifas: uma para análise da proposta de seguro habitacional e outra mensal, de administração do contrato, limitada a R$ 25,00. A tarifa de cadastro não aparece nesse artigo.
+Essa legislação própria é a Resolução CMN 4.676/2018, que trata das condições do crédito imobiliário. Na versão consolidada consultada, o artigo 14 prevê duas tarifas que podem ser cobradas nas operações do SFH: uma para análise da proposta de seguro habitacional e outra mensal, de administração do contrato, limitada a R$ 25,00. A tarifa de cadastro não aparece nesse artigo. Atenção: essa consolidação não inclui alterações posteriores, como as Resoluções CMN 5.197/2024 e 5.255/2025, que mexeram em outros dispositivos da 4.676. Não confirmei se os artigos 8º-A e 14 mudaram depois, por isso confira o texto vigente no site do Banco Central.
 
-Isso não significa que nenhum banco a cobre. A tabela de tarifas do BRB, vigente desde 20/02/2026, traz o item "confecção de cadastro para início de relacionamento" em uma linha para financiamentos e outra para empréstimos, com cobrança "no ato da efetiva realização da operação". A tabela não deixa claro se o item vale para o crédito imobiliário, e não consegui confirmar o valor a partir do PDF. A conclusão prática é esta: a cobrança pode aparecer em tabelas de banco, mas não encontrei, na norma do SFH, autorização expressa para ela. O banco deve indicar onde ela está prevista.
+Isso não significa que nenhum banco a cobre. A tabela de tarifas do BRB, com vigência a partir de 20/02/2026, traz o item "confecção de cadastro para início de relacionamento" em uma linha para financiamentos e outra para empréstimos. A tabela não deixa claro se o item vale para o crédito imobiliário, e o PDF consultado tem texto difícil de ler, então não confirmei os valores. A conclusão prática é esta: a cobrança pode aparecer em tabelas de banco, mas não encontrei, na norma do SFH, autorização expressa para ela. O banco deve indicar onde ela está prevista.
 
 ## Quanto ela pode custar
 
 Não existe teto nacional. A resolução não fixa um valor, e cada instituição divulga o seu na tabela de tarifas. Por isso, o número só vale depois de conferido no documento do banco, com a data de vigência.
 
-O peso da tarifa aparece quando ela é financiada, porque você passa a pagar juros sobre ela. Veja um exemplo ilustrativo. Suponha uma tarifa de R$ 600 e uma taxa hipotética de 11% ao ano, em 360 meses. Essa taxa serve só para o cálculo, e não é uma oferta de banco.
+O peso da tarifa aparece quando ela é financiada, porque você passa a pagar juros sobre ela. Veja um exemplo ilustrativo. Suponha uma tarifa de R$ 600, financiada à taxa hipotética de 11% ao ano (efetiva), em 360 meses. Essa taxa serve só para o cálculo, e não é uma oferta de banco. Se o banco usar a taxa nominal dividida por 12, a parcela dessa tarifa sobe para R$ 5,71.
 
 | Forma de pagamento | Desembolso | Total pago | Custo a mais |
 |---|---|---|---|
@@ -88,12 +88,12 @@ A tarifa de cadastro deve ser cobrada no início do relacionamento, e não repet
 | Cobrança | Quando é paga | Limite conhecido |
 |---|---|---|
 | Tarifa de cadastro | No início do relacionamento | Sem teto nacional; cada banco divulga o seu |
-| Tarifa de avaliação do imóvel | Na análise do crédito | Limitada ao custo efetivo do serviço (art. 8º-A da Resolução CMN 4.676/2018) |
+| Tarifa de avaliação do imóvel | Na análise do crédito | Facultativa, limitada aos custos efetivamente incorridos e condicionada à anuência prévia do cliente (art. 8º-A, §§ 1º e 2º, da Resolução CMN 4.676/2018) |
 | Tarifa mensal de administração | Todo mês | R$ 25,00 no SFH (art. 14 da Resolução CMN 4.676/2018) |
 
 A tarifa de avaliação tem regras próprias, explicadas no artigo sobre a [taxa de avaliação do imóvel](/artigos/taxa-de-avaliacao-do-imovel). Não a confunda com a tarifa de cadastro.
 
-Se você já tem outra operação com o mesmo banco, por exemplo um cartão ou um empréstimo, pergunte se a tarifa de cadastro será cobrada de novo. A lógica da Súmula 566 é cobrar no início do relacionamento, e não a cada nova operação. Se o banco quiser cobrar outra vez, peça a justificativa por escrito e a base contratual para essa cobrança.
+Se você já tem outra operação com o mesmo banco, por exemplo um cartão ou um empréstimo, pergunte se a tarifa de cadastro será cobrada de novo. A súmula fala em cobrança no início do relacionamento, o que sugere que ela não se repete a cada operação, mas isso depende do que o contrato e a tabela do banco dizem. Se o banco quiser cobrar outra vez, peça a justificativa por escrito e a base contratual para essa cobrança.
 
 Antes de assinar, faça estas perguntas ao banco e peça as respostas por escrito:
 
@@ -120,6 +120,6 @@ Se a tarifa não estava no contrato, foi cobrada mais de uma vez ou ficou acima 
 
 ## Resumo e próximos passos
 
-A tarifa de cadastro é uma cobrança inicial, permitida em contratos bancários desde 2008 quando prevista no contrato. No financiamento pelo SFH, porém, não encontrei autorização expressa na norma específica, e nem todo banco a cobra. Não há teto nacional, então o valor vem da tabela de cada instituição.
+A tarifa de cadastro é uma cobrança inicial. O STJ admite sua cobrança em contratos bancários posteriores a 30/04/2008, mas a regra geral exige previsão no contrato ou autorização prévia. No financiamento pelo SFH, porém, não encontrei autorização expressa na norma específica, e nem todo banco a cobra. Não há teto nacional, então o valor vem da tabela de cada instituição.
 
 Antes de escolher o banco, peça a tabela vigente e a simulação com todas as tarifas. Para estimar quanto do valor do imóvel o banco financiaria, use o [simulador de financiamento](/simulador), e para ver o limite da sua renda, use a [calculadora de quanto posso financiar](/quanto-posso-financiar).
