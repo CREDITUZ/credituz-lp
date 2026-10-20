@@ -35,7 +35,7 @@ Este texto explica o entendimento geral e não substitui a orientação de um ad
 
 ## O que o STJ decidiu em 2026
 
-Segundo o resumo publicado pela Anoreg, a decisão foi tomada em 9 de fevereiro de 2026 pela Terceira Turma, com relatoria do ministro Moura Ribeiro, e publicada no Diário da Justiça Eletrônico em 13 de fevereiro. O processo corre em segredo de justiça, e a publicação não informa o número. A fundamentação é que os valores do FGTS formados na constância do casamento ou da união estável são frutos do esforço comum do casal.
+Segundo o resumo publicado pela Anoreg, a decisão foi tomada em 9 de fevereiro de 2026 pela Terceira Turma, com relatoria do ministro Moura Ribeiro, e publicada no Diário de Justiça Eletrônico Nacional (DJEN) em 13 de fevereiro. O processo corre em segredo de justiça, e a publicação não informa o número. A fundamentação é que os valores do FGTS formados na constância do casamento ou da união estável são frutos do esforço comum do casal.
 
 Três limites ficaram claros na decisão, segundo o mesmo resumo. O primeiro é que só entra na partilha o montante formado durante o casamento. O segundo é que a ausência de saque logo após a separação não afasta a meação, que é a metade a que cada um tem direito. O terceiro é que a parte de cada um pode ser reservada em uma conta vinculada específica, para saque futuro nas hipóteses legais.
 
