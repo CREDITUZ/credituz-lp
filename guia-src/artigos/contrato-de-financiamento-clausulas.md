@@ -7,14 +7,14 @@ updated: 2026-10-20
 reading_minutes: 7
 key_points:
   - "Confira a taxa, o índice de correção, o sistema de amortização e o CET antes de comparar propostas."
-  - "Seguros e tarifas ficam fora do teto de 12% ao ano do SFH, então uma taxa dentro do teto pode ter custo total alto."
+  - "Seguros e algumas tarifas ficam fora do teto de 12% ao ano do SFH, então uma taxa dentro do teto pode ter custo total alto."
   - "A garantia do imóvel segue a Lei 9.514/1997. Confira o uso do imóvel, a quitação e as hipóteses de vencimento antecipado."
   - "Peça a planilha de evolução do saldo e o contrato completo antes de assinar, e compare com a proposta."
 faq:
   - q: "Qual é a cláusula mais importante do contrato de financiamento?"
     a: "Não existe uma só. Para o custo, o mais importante costuma ser o CET, que reúne juros, tarifas e seguros. Para o risco, pesam as regras de atraso, de vencimento antecipado e da garantia."
   - q: "Taxa dentro do teto do SFH significa financiamento barato?"
-    a: "Não necessariamente. O teto de 12% ao ano da Resolução CMN 4.676/2018 não inclui seguros nem tarifas. Por isso, compare o custo efetivo total das propostas, e não apenas a taxa nominal."
+    a: "Não necessariamente. O teto de 12% ao ano da Resolução CMN 4.676/2018 não inclui seguros nem as tarifas do art. 14 da resolução. Por isso, compare o custo efetivo total das propostas, e não apenas a taxa nominal."
   - q: "O banco pode mudar as condições depois de assinar?"
     a: "Só o que estiver previsto no contrato e nas regras aplicáveis. Cláusulas que permitam alterações sem aviso e concordância merecem questionamento. Pergunte o que pode mudar, quando e como você é avisado."
   - q: "Preciso guardar uma cópia do contrato?"
@@ -33,9 +33,9 @@ Antes de assinar, confira as cláusulas que definem quanto você paga no total e
 
 ## O que o banco precisa informar
 
-O Código de Defesa do Consumidor (art. 52) exige que o fornecedor informe, de forma prévia e adequada, o preço, os juros e o total a pagar em operações de crédito. Se algum desses itens não aparecer com clareza, pergunte antes de seguir.
+O Código de Defesa do Consumidor (art. 52, I, II e V) exige que o fornecedor informe, de forma prévia e adequada, o preço, os juros de mora, a taxa efetiva anual e a soma total a pagar, com e sem financiamento. Se algum desses itens não aparecer com clareza, pergunte antes de seguir.
 
-Na alienação fiduciária, a Lei 9.514/1997 (art. 24) também define o conteúdo mínimo do contrato. Ele deve indicar o valor da dívida, ou uma estimativa ou o valor máximo, deve prever que você continua usando o imóvel, salvo em caso de inadimplemento, e deve trazer o valor de leilão e os procedimentos aplicáveis. Se alguma dessas informações estiver faltando, peça a correção por escrito.
+Na alienação fiduciária, a Lei 9.514/1997 (art. 24) também define o conteúdo mínimo do contrato. Ele deve indicar o valor da dívida, sua estimação ou seu valor máximo, deve prever que você usa o imóvel por sua conta e risco, salvo em caso de inadimplência, e deve trazer o valor do imóvel para leilão e a cláusula sobre os procedimentos de consolidação e leilão (art. 24, I, V, VI e VII). Se alguma dessas informações estiver faltando, peça a correção por escrito.
 
 ## Taxa, índice e sistema
 
@@ -53,9 +53,9 @@ A taxa nominal é a que aparece no anúncio ou na primeira conversa. O CET é a 
 
 ## Seguros e tarifas
 
-Os seguros do financiamento são o ponto que mais surpreende quem compara só a taxa. O seguro de morte e invalidez (MIP) e o seguro de danos físicos ao imóvel (DFI) costumam ser cobrados mensalmente e calculados sobre o saldo devedor. Confira as coberturas, a forma de cálculo, se a seguradora pode ser escolhida e se o valor cai conforme o saldo diminui. Os detalhes estão em [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
+Os seguros do financiamento são o ponto que mais surpreende quem compara só a taxa. O seguro de morte e invalidez (MIP) e o seguro de danos físicos ao imóvel (DFI) costumam ser cobrados mensalmente. Confira as coberturas, a base de cálculo de cada um, se a seguradora pode ser escolhida e se o valor acompanha a queda do saldo devedor. Os detalhes estão em [seguros MIP e DFI](/artigos/seguros-mip-e-dfi).
 
-As tarifas, como a de cadastro e a de avaliação do imóvel, também entram no custo. Veja [tarifa de cadastro](/artigos/tarifa-de-cadastro) e [taxa de avaliação do imóvel](/artigos/taxa-de-avaliacao-do-imovel). Pelo art. 13 da Resolução CMN 4.676/2018, o teto de 12% ao ano para juros e encargos no SFH não inclui seguros de morte e invalidez, danos físicos ao imóvel e responsabilidade civil do construtor, nem as tarifas. Por isso, uma proposta pode ter taxa dentro do teto e custo total alto.
+As tarifas, como a de cadastro e a de avaliação do imóvel, também costumam pesar no custo. Veja [tarifa de cadastro](/artigos/tarifa-de-cadastro) e [taxa de avaliação do imóvel](/artigos/taxa-de-avaliacao-do-imovel). Pelo art. 13, § 2º, da Resolução CMN 4.676/2018, o cálculo do teto de 12% ao ano para juros e encargos no SFH não inclui as apólices de seguro de morte e invalidez, danos físicos ao imóvel e responsabilidade civil do construtor, nem as tarifas do art. 14 da mesma resolução. Por isso, uma proposta pode ter taxa dentro do teto e custo total alto.
 
 Se o banco condiciona a aprovação a um produto que você não quer contratar, pergunte a base da exigência. O CDC (art. 39, I) veda condicionar o fornecimento de um produto ao fornecimento de outro.
 

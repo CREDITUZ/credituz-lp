@@ -21,8 +21,12 @@ faq:
   - q: "Uma reforma que muda a área precisa de registro?"
     a: "Mudanças que alteram a construção costumam exigir atualização no registro do imóvel. Veja o artigo sobre averbação da construção e confirme os passos com o cartório e a prefeitura da sua cidade."
 sources:
-  - title: "Casa Civil: Resolução CDFS/CCPR nº 10, de 24/04/2026 (juros de até 0,82% ao mês e prazo de até 72 meses, como parâmetros propostos)"
+  - title: "Casa Civil: Resolução CDFS/CCPR nº 10, de 24/04/2026 (encargos de até 0,82% ao mês e prazo de até 72 meses)"
     url: "https://www.gov.br/casacivil/pt-br/acesso-a-informacao/fundos/fundo-social-fs/resolucoes/RESOLUOCDFS_CCPRN10DE24DEABRILDE2026.pdf"
+  - title: "IstoÉ Dinheiro: CMN reduz juros e amplia prazo do Reforma Casa Brasil (05/05/2026)"
+    url: "https://istoedinheiro.com.br/cmn-reduz-juros-e-amplia-prazo-de-pagamento-para-programa-reforma-casa-brasil"
+  - title: "Meu Tudo: CMN aprova juros menores e mais prazo para o Reforma Casa Brasil (06/05/2026)"
+    url: "https://meutudo.com.br/blog/noticias/2026/05/06/cmn-aprova-juros-menores-e-mais-prazo-para-o-reforma-casa-brasil/"
   - title: "Lei 9.514/1997, arts. 22 e 26, com redação da Lei 14.711/2023: alienação fiduciária de imóvel e consolidação da propriedade (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
   - title: "Procon-SP, pesquisa de taxas de juros, setembro de 2026 (empréstimo pessoal de 8,66% ao mês, coleta em 01/09/2026)"
@@ -55,7 +59,7 @@ Depois da reforma, o custo do crédito passa a ser o da parcela, e ele depende d
 |---|---|---|---|---|
 | Empréstimo pessoal, média do Procon-SP | 8,66% (pesquisa de setembro de 2026) | 36 meses | R$ 3.647 | R$ 131.308 |
 | Taxa hipotética com garantia de imóvel | 2% (hipotética, só para comparação) | 36 meses | R$ 1.569 | R$ 56.495 |
-| Reforma Casa Brasil, teto proposto | 0,82% | 72 meses | R$ 738 | R$ 53.122 |
+| Reforma Casa Brasil, limite da resolução | 0,82% | 72 meses | R$ 738 | R$ 53.122 |
 
 Duas leituras importantes. A primeira é que o crédito pessoal, mesmo com parcela de prazo menor, custa muito mais no total. A segunda é que a linha de 0,82% ao mês só vale se a condição for confirmada no contrato da Caixa, porque os números aqui são parâmetros e não ofertas. O Procon-SP mede empréstimos de prazo de 12 meses, então a taxa de 8,66% serve como referência de mercado para o crédito pessoal, e não como o custo exato de uma reforma em 36 meses.
 
@@ -71,9 +75,9 @@ A garantia também pesa na avaliação. O banco costuma considerar o valor do im
 
 ## O Reforma Casa Brasil: parâmetros e cuidados
 
-O Reforma Casa Brasil é um programa federal para reforma em imóvel que a família já tem. A Resolução CDFS/CCPR nº 10, de 24/04/2026, fixa como parâmetros encargos de até 0,82% ao mês e prazo de até 72 meses, e limita a elegibilidade à renda familiar do teto do Minha Casa Minha Vida. Ao ler o texto, esses números aparecem como condições propostas, e a resolução autoriza o envio de uma proposta de ajuste ao Ministério da Fazenda. Por isso, não trate esses números como condição final.
+O Reforma Casa Brasil é um programa federal para reforma em imóvel que a família já tem. A Resolução CDFS/CCPR nº 10, de 24/04/2026, publicada pelo Casa Civil, traz como limites encargos de até 0,82% ao mês e prazo de até 72 meses, e restringe a elegibilidade a famílias com renda até o teto do Minha Casa Minha Vida. A mesma resolução autoriza o envio ao Ministério da Fazenda de uma proposta de ajuste às condições da linha. Em 5 de maio de 2026, a imprensa relatou que o CMN reduziu os juros para 0,82% ao mês e ampliou o prazo para 72 meses. Mesmo assim, a condição final é a do contrato da Caixa, e a simulação é o que vale.
 
-Há outros pontos a confirmar. A imprensa noticiou, em maio e em agosto de 2026, mudanças nos juros e no teto de valor, com números que divergem entre as reportagens. O texto da resolução não menciona a exigência de garantia. Confirme na simulação da Caixa qual é a taxa vigente, se há garantia, qual é o valor máximo e se o programa aceita o seu caso.
+Há outros pontos a confirmar. A imprensa divulgou valores diferentes para o teto de financiamento: uma reportagem de 06/05/2026 cita R$ 30 mil por família, com faixa de R$ 5 mil a R$ 30 mil conforme a renda e a análise de crédito da Caixa. O valor de R$ 50 mil não aparece nas fontes consultadas. No trecho da resolução consultado, também não há teto de valor. A resolução não menciona garantia, e as reportagens lidas não tratam do tema. Confirme na simulação da Caixa qual é a taxa vigente, se há garantia, qual é o valor máximo e se o programa aceita o seu caso.
 
 Os detalhes de elegibilidade, requisitos e passo a passo estão em [Reforma Casa Brasil: regras, juros e como pedir em 2026](/artigos/minha-casa-minha-vida-reforma).
 
@@ -112,5 +116,5 @@ Peça as simulações com os mesmos valores e o mesmo prazo. Só assim a compara
 - O custo do crédito para reforma depende da taxa, do prazo e de quando o dinheiro é liberado. Liberação em etapas, quando a linha permite, reduz os juros durante a obra.
 - No exemplo ilustrativo, liberar R$ 40 mil em três etapas reduziu os juros até o mês 4 em cerca de R$ 1.455.
 - Com a casa em garantia, a lei prevê a consolidação da propriedade após a mora, e o § 1º do art. 26 dá 15 dias para regularizar as parcelas vencidas.
-- O Reforma Casa Brasil tem parâmetros de até 0,82% ao mês e 72 meses, mas esses números são propostos e precisam ser confirmados na simulação da Caixa.
+- O Reforma Casa Brasil tem limites de até 0,82% ao mês e 72 meses na resolução de abril de 2026, e a imprensa relatou a mesma taxa aprovada pelo CMN em maio. Confirme na simulação da Caixa.
 - Orçamento por escrito, cronograma e notas fiscais são o que mais protege a obra e o crédito.

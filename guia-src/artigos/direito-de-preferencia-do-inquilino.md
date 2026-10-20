@@ -9,14 +9,14 @@ key_points:
   - "Quando o dono decide vender o imóvel alugado, o inquilino tem preferência para comprá-lo, em igualdade de condições com terceiros (Lei 8.245/1991, art. 27)."
   - "Ele tem 30 dias para aceitar a proposta por inteiro, de forma inequívoca. Sem essa resposta no prazo, o direito caduca (art. 28)."
   - "Aceitar com outro preço ou outra forma de pagamento não é aceitação integral. Quem responde deve guardar a prova do envio."
-  - "Se a preferência foi desrespeitada, o inquilino pode pedir perdas e danos ou, depositando o preço, reaver o imóvel em seis meses do registro da venda (art. 33)."
+  - "Se a preferência foi desrespeitada, o inquilino pode pedir perdas e danos ou, depositando o preço, reaver o imóvel em seis meses do registro da venda, desde que a locação esteja averbada na matrícula (art. 33)."
 faq:
   - q: "O inquilino é obrigado a comprar o imóvel?"
     a: "Não. A preferência é um direito, e não uma obrigação. Se ele não quiser ou não puder comprar, pode responder por escrito que não aceita, ou deixar o prazo passar."
   - q: "Quantos dias o inquilino tem para responder?"
-    a: "Trinta dias para aceitar a proposta integralmente, nos termos do artigo 28 da Lei 8.245/1991. Um prazo maior só existe se o dono concordar por escrito."
+    a: "Trinta dias para aceitar a proposta integralmente, nos termos do artigo 28 da Lei 8.245/1991. A lei não prevê prazo maior; qualquer extensão depende de acordo com o dono."
   - q: "Posso aceitar a compra e pedir outro parcelamento?"
-    a: "Em regra, não. A lei exige aceitação integral. Propor outras condições costuma ser tratado como recusa, e a resposta deve ser avaliada com um advogado."
+    a: "Em regra, não. A lei exige aceitação integral. Propor outras condições pode ser tratado como recusa, e a resposta deve ser avaliada com um advogado."
   - q: "A preferência vale em leilão ou em doação?"
     a: "Em regra, não. O artigo 32 afasta a preferência na venda por decisão judicial, na doação, na permuta e em outras transferências. Na alienação fiduciária e no leilão extrajudicial, a exclusão depende de cláusula específica no contrato."
 sources:
@@ -59,11 +59,11 @@ Se algum desses itens faltar, a comunicação pode ser questionada. O efeito de 
 
 ## Os 30 dias para responder
 
-O artigo 28 dá ao locatário trinta dias para manifestar, de forma inequívoca, a aceitação integral da proposta. Se ele não fizer isso no prazo, o direito de preferência caduca, ou seja, deixa de existir. Em regra, a contagem começa com o recebimento da comunicação, e não com a data em que o dono decidiu vender.
+O artigo 28 dá ao locatário trinta dias para manifestar, de forma inequívoca, a aceitação integral da proposta. Se ele não fizer isso no prazo, o direito de preferência caduca, ou seja, deixa de existir. A lei não diz expressamente a partir de quando o prazo corre. A contagem a partir da ciência da comunicação é o ponto que costuma ser discutido, e o resultado depende da forma de envio.
 
 O artigo 29 cuida de outro caso. Se o inquilino aceita e, depois, o dono desiste do negócio, o dono responde pelos prejuízos causados, inclusive pelos lucros que o inquilino deixou de ter. Isso não obriga o inquilino a comprar, mas mostra que a aceitação tem efeito real e que o dono não pode aceitar a proposta e recuar sem consequência.
 
-Trinta dias podem ser curtos para quem depende de financiamento. O artigo 28 não cria um prazo extra para isso. Se as partes quiserem mais tempo, o acordo precisa ser feito por escrito, com o dono, e assinado por ambos.
+Trinta dias podem ser curtos para quem depende de financiamento. A lei não prevê prazo extra para isso. Qualquer prazo maior depende de acordo com o dono, e a forma desse acordo convém ser conferida com um advogado.
 
 ## Como responder de forma que valha
 
@@ -98,17 +98,19 @@ Exemplo ilustrativo, com datas e valores hipotéticos. Um dono quer vender o im�
 
 | Marco | Data |
 |---|---|
-| Comunicação recebida | 02/11/2026 |
+| Comunicação recebida (início do prazo, neste exemplo) | 02/11/2026 |
 | Último dia para aceitar a proposta por inteiro (30 dias) | 02/12/2026 |
-| Venda registrada em 10/12/2026 sem comunicação ao inquilino (hipótese de preterição) | 10/12/2026 |
-| Prazo de seis meses para o inquilino preterido pedir o imóvel | 10/06/2027 |
 
-Nesse exemplo, se o inquilino responder por escrito até 2 de dezembro aceitando as condições, a venda é dele. Se não responder, a preferência caduca. Os seis meses só entram na conta se a preferência foi desrespeitada, por exemplo porque a comunicação nunca foi feita. Os valores e as datas são uma simulação, e o prazo real depende da forma de comunicação e dos fatos de cada caso.
+Se o inquilino responder por escrito até 2 de dezembro aceitando as condições, a venda é dele. Se não responder de forma clara, a preferência caduca.
+
+Outro cenário, também hipotético: a comunicação nunca é feita e a venda é registrada em 10/12/2026. O inquilino preterido pode pedir o imóvel em até seis meses do registro, ou seja, até 10/06/2027, desde que a locação esteja averbada na matrícula, como visto acima. Ele também pode pedir perdas e danos.
+
+Os valores e as datas são uma simulação, e o prazo real depende da forma de comunicação e dos fatos de cada caso.
 
 ## Erros comuns
 
 - **Responder com interesse, sem aceitar as condições.** "Tenho interesse" não é aceitação integral.
-- **Deixar o prazo passar em silêncio.** Pelo artigo 28, o silêncio leva à caducidade, e o dono não precisa provar recusa.
+- **Deixar o prazo passar em silêncio.** Pelo artigo 28, a falta de aceitação inequívoca no prazo faz o direito caducar, e o dono não precisa provar recusa.
 - **Não guardar a prova de envio.** Sem comprovação, a discussão sobre a data da resposta fica difícil.
 - **Aceitar sem ver a matrícula.** Ônus e a averbação da locação mudam o risco do negócio.
 - **Achar que a preferência vale em qualquer transferência.** Doação, permuta e leilão judicial estão fora da regra geral.

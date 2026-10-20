@@ -22,14 +22,14 @@ faq:
 sources:
   - title: "Código de Defesa do Consumidor, Lei 8.078/1990, arts. 51 e 52, § 1º (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
-  - title: "Lei 9.514/1997, art. 26, consolidação da propriedade e purgação da mora (Planalto)"
+  - title: "Lei 9.514/1997, arts. 26 e 27, consolidação, purgação da mora e leilão (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
-  - title: "Lei 9.514/1997, art. 27, leilão e destino do valor excedente (Planalto)"
-    url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+  - title: "Lei 14.711/2023, que alterou os arts. 26 e 27 da Lei 9.514/1997 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm"
 related: [renegociacao-de-divida-imobiliaria, alienacao-fiduciaria, fgts-pagar-prestacoes-atrasadas]
 ---
 
-Atrasar uma parcela gera multa, juros de mora e, em alguns casos, custos de cobrança. Isso não significa perder o imóvel no mesmo dia. No financiamento com alienação fiduciária, o banco precisa seguir um procedimento antes de retomar a garantia, e esse procedimento inclui notificação pessoal e um prazo de 15 dias para regularizar a dívida. Enquanto a regularização ainda é possível, o contrato continua valendo.
+Atrasar uma parcela gera multa, juros de mora e, em alguns casos, custos de cobrança. Isso não significa perder o imóvel no mesmo dia. No financiamento com alienação fiduciária, o banco precisa seguir um procedimento antes de retomar a garantia, e esse procedimento inclui intimação pessoal e um prazo de 15 dias para regularizar a dívida. Enquanto a regularização ainda é possível, o contrato continua valendo.
 
 ## Os primeiros dias: multa, juros e cobrança
 
@@ -46,21 +46,21 @@ Veja um exemplo ilustrativo. Considere a mesma prestação de R$ 2.842,24 do fin
 
 ### Como o atraso se acumula
 
-Atrasar mais de uma parcela multiplica o efeito, porque cada uma tem multa e juros próprios, e a parcela seguinte continua vencendo. Use o mesmo financiamento como exemplo ilustrativo, agora com três parcelas em atraso, de 45, 30 e 15 dias. A multa de 2% soma R$ 170,52, ou seja, três vezes R$ 56,84. Os juros de mora hipotéticos, de 1% ao mês calculados por dia, somam R$ 85,26. O total chega a R$ 255,78, cerca de 3% do valor das três parcelas, além das próprias parcelas.
+Atrasar mais de uma parcela multiplica o efeito, porque cada uma tem multa e juros próprios, e a parcela seguinte continua vencendo. Use o mesmo financiamento como exemplo ilustrativo, agora com três parcelas em atraso, de 45, 30 e 15 dias. A multa de 2% soma R$ 170,52, ou seja, três vezes R$ 56,84. Os juros de mora hipotéticos, de 1% ao mês calculados por dia, somam R$ 85,27. O total chega a R$ 255,79, cerca de 3% do valor das três parcelas, além das próprias parcelas.
 
 O exemplo mostra por que a negociação costuma ser mais barata quando feita logo no primeiro atraso. Cada mês a mais aumenta o número de parcelas em aberto e, com elas, o custo de regularizar a dívida.
 
 ## Quando o atraso vira procedimento
 
-A maioria dos financiamentos com garantia do próprio imóvel segue a alienação fiduciária, prevista na Lei 9.514/1997. Nesse modelo, o banco fica com a propriedade do imóvel como garantia, e você continua usando o imóvel enquanto paga. Se a dívida vence e não é paga, o credor pode seguir um roteiro legal:
+Nos financiamentos mais comuns, a garantia é o próprio imóvel, em alienação fiduciária, regulada pela Lei 9.514/1997. Confirme a modalidade no contrato. Nesse modelo, o banco fica com a propriedade do imóvel como garantia, e você continua usando o imóvel enquanto paga. Se a dívida vence e não é paga, o credor pode seguir um roteiro legal:
 
 1. **Mora.** A dívida está vencida e você está em mora.
-2. **Intimação pessoal.** A notificação é feita pelo oficial do registro de imóveis, a pedido do credor, e precisa ser entregue a você pessoalmente, e, se for o caso, ao terceiro fiduciante.
-3. **Prazo de 15 dias.** Você tem esse prazo para pagar as parcelas vencidas, as que vencerem até o pagamento, os juros, as penalidades e os encargos do contrato. Se pagar nesse prazo, o contrato é restabelecido.
+2. **Intimação pessoal.** A intimação é feita a pedido do credor e precisa ser entregue pessoalmente a você e, se for o caso, ao terceiro fiduciante. Pode ser feita pelo oficial do registro de imóveis, pelo oficial de registro de títulos e documentos ou pelo correio com aviso de recebimento (art. 26, § 3º).
+3. **Prazo de 15 dias.** Você tem esse prazo, contado da intimação, para pagar as parcelas vencidas, as que vencerem até o pagamento, juros, encargos, tributos, contribuições condominiais e despesas de cobrança (art. 26, § 1º). O contrato pode prever um período de carência antes da intimação (§ 2º). Se pagar nesse prazo, o contrato é restabelecido.
 4. **Consolidação.** Se a dívida não for paga, a propriedade do imóvel é consolidada em nome do credor, depois de cumpridas as formalidades do registro.
-5. **Leilão.** Consolidado o imóvel, o credor promove leilão público. O art. 27 da mesma lei trata das regras do leilão e do destino do valor que sobrar depois de pagar a dívida e as despesas.
+5. **Leilão.** Consolidado o imóvel, o credor promove leilão público, que deve ocorrer em até 60 dias contados do registro da consolidação (art. 27). O art. 27 da mesma lei trata das regras do leilão e do destino do valor que sobrar depois de pagar a dívida e as despesas.
 
-Não ignore a intimação. O prazo de 15 dias corre a partir da notificação, e ele é o momento em que a negociação ainda tem efeito direto sobre a garantia. Se houver notificação, procure um advogado ou o Procon, porque cada caso depende de documentos, datas e do contrato.
+Não ignore a intimação. O prazo de 15 dias corre a partir da intimação, e ele é o momento em que a negociação ainda tem efeito direto sobre a garantia. Se houver intimação, procure um advogado ou o Procon, porque cada caso depende de documentos, datas e do contrato.
 
 ## Como negociar antes de chegar à intimação
 
@@ -82,7 +82,7 @@ As regras de cada caminho estão nos artigos sobre [renegociação do financiame
 3. **Pergunte o efeito de pagar só o atraso.** Veja se a próxima parcela vence no mesmo dia e se a regularização encerra a mora.
 4. **Peça a proposta por escrito.** Ela deve trazer o valor total, o número de parcelas, a data de cada uma e os encargos incluídos.
 5. **Guarde todos os comprovantes e cartas.** Eles servem de prova se houver divergência depois.
-6. **Se a resposta não resolver, recorra por etapas.** Procure primeiro a ouvidoria do banco. Depois, o Procon. O Banco Central também recebe reclamações sobre instituições financeiras.
+6. **Se a resposta não resolver, recorra por etapas.** Procure primeiro a ouvidoria do banco. Depois, o Procon. Para reclamações contra instituições financeiras, consulte também o canal oficial do Banco Central no site bcb.gov.br.
 
 ## Quando a negociação não avança
 

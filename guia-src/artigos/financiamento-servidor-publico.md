@@ -39,7 +39,7 @@ Você vai ouvir muito falar em "30% da renda". Como referência de mercado, cost
 
 ## Consignação: o que é e o que não é
 
-Consignação é o desconto autorizado diretamente na folha de pagamento. No serviço público, ela segue as leis de cada ente, seja a União, o estado ou o município. Na esfera federal, o art. 45 da Lei 8.112/1990 diz que nenhum desconto incide sobre a remuneração sem imposição legal ou mandado judicial. As consignações em favor de terceiros dependem da autorização do servidor e de regra do próprio órgão.
+Consignação é o desconto autorizado diretamente na folha de pagamento. No serviço público, cada ente (União, estados e municípios) tem as próprias regras. Na esfera federal, o art. 45 da Lei 8.112/1990 diz que nenhum desconto incide sobre a remuneração sem imposição legal ou mandado judicial. Essa lei alcança a União, suas autarquias e fundações federais, não estados nem municípios, que seguem as próprias leis. Na esfera federal, a consignação em favor de terceiros depende da autorização do servidor e fica a critério da administração, na forma do regulamento.
 
 Isso não quer dizer que o financiamento seja pago pela folha. Na maior parte dos casos, a parcela do imóvel é debitada em conta. Pergunte ao banco qual é a forma de cobrança e se existe alguma etapa que envolva o órgão, porque a resposta depende do banco e do ente.
 
@@ -96,7 +96,7 @@ Alguns pontos costumam alterar o resultado mais do que o cargo em si:
 2. Liste todas as parcelas que saem do seu salário, incluindo consignados.
 3. Calcule quanto sobra para a parcela do imóvel, mantendo uma folga para condomínio, IPTU e imprevistos.
 4. Peça ao banco a análise para o seu tipo de vínculo, com a cota máxima e o prazo máximo.
-5. Compare as propostas pelo CET e não só pela taxa. O Código de Defesa do Consumidor (art. 52) manda o banco informar, antes da contratação, o preço, os juros e o total a pagar.
+5. Compare as propostas pelo CET e não só pela taxa. O Código de Defesa do Consumidor (art. 52, I, II e V) manda o banco informar, antes da contratação, o preço, os juros de mora, a taxa efetiva anual e a soma total a pagar.
 
 ## Resumo
 

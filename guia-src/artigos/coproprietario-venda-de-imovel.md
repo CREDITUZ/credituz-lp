@@ -7,18 +7,18 @@ updated: 2026-10-20
 reading_minutes: 8
 key_points:
   - "Cada coproprietário pode vender a própria fração ideal, sem pedir permissão aos outros (Código Civil, art. 1.314)."
-  - "Os demais donos têm preferência para ficar com a fração vendida a estranho, pelo mesmo preço, pelo prazo de 180 dias (art. 504)."
-  - "Se o dono for casado, a venda da fração costuma exigir a outorga do cônjuge, salvo no regime de separação absoluta de bens (art. 1.647)."
+  - "Os demais donos têm preferência para ficar com a fração vendida a estranho, pelo mesmo preço. Quem não foi informado da venda pode, em 180 dias e depositando o preço, ficar com a parte (art. 504)."
+  - "Se o dono for casado, a lei exige, em regra, a autorização do cônjuge para alienar imóvel, salvo no regime de separação absoluta de bens (art. 1.647). Se isso vale também para a fração ideal, é ponto a conferir com advogado."
   - "Havendo inquilino, o dono tem prioridade sobre o locatário na compra da fração (Lei 8.245/1991, art. 34)."
 faq:
   - q: "Posso vender minha parte de um imóvel sem avisar os outros donos?"
-    a: "Você pode vender a sua fração, mas a venda sem aviso aos outros donos deixa o comprador exposto. O coproprietário que não foi avisado pode, dentro de 180 dias, ficar com a parte vendida."
+    a: "Você pode vender a sua fração, mas a venda sem aviso aos outros donos deixa o comprador exposto. O coproprietário que não foi avisado pode, em 180 dias e depositando o preço, ficar com a parte vendida."
   - q: "Preciso de autorização dos outros donos para vender?"
     a: "Em regra, não. O direito dos outros é de preferência, que não se confunde com autorização. Eles podem ficar com a fração pelo mesmo preço, mas não podem impedir a venda por escolha própria."
   - q: "Meu cônjuge precisa assinar a venda da minha fração?"
-    a: "Se o regime não for o de separação absoluta, a lei exige a outorga conjugal para alienar bens imóveis. Sem ela, o cartório normalmente não registra a venda, e a falta pode ser suprida pela via judicial."
+    a: "Se o regime não for o de separação absoluta, a lei exige, em regra, a autorização do cônjuge para alienar bens imóveis (outorga conjugal). Se essa exigência alcança a fração ideal é ponto a conferir com advogado. Quando ela se aplica e falta, o cartório pode recusar o registro, e a falta pode ser suprida pela via judicial."
   - q: "A regra de preferência vale para imóvel divisível?"
-    a: "O texto do artigo 504 fala em coisa indivisível, mas o STJ já aplicou a preferência também a imóvel divisível, em 2015. O tema não está totalmente resolvido, e vale checar o caso com um advogado."
+    a: "O texto do artigo 504 fala em coisa indivisível, mas, em 2015, o STJ entendeu, no REsp 1.207.129-MG, que a preferência também existe em imóvel divisível, segundo a síntese publicada pelo tribunal. O tema não está totalmente resolvido, e vale checar o caso com um advogado."
 sources:
   - title: "Lei 10.406/2002 (Código Civil), texto compilado, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
@@ -35,7 +35,7 @@ sources:
 related: [inventario-e-imovel, uniao-estavel-e-imovel, direito-de-preferencia-do-inquilino, matricula-do-imovel]
 ---
 
-Resposta direta: cada dono de um imóvel em copropriedade pode vender a própria fração ideal, que é a participação que ele tem no todo. Não precisa da permissão dos outros para isso. O que a lei protege é o direito dos outros de ficar com a parte vendida a um estranho, pelo mesmo preço, desde que ajam dentro do prazo. Se o dono for casado, a venda também exige, em regra, a autorização do cônjuge, a chamada outorga conjugal.
+Resposta direta: cada dono de um imóvel em copropriedade pode vender a própria fração ideal, que é a participação que ele tem no todo. Não precisa da permissão dos outros para isso. O que a lei protege é o direito dos outros de ficar com a parte vendida a um estranho, pelo mesmo preço, desde que ajam dentro do prazo. Se o dono for casado, a lei exige, em regra, a autorização do cônjuge para alienar imóvel, a chamada outorga conjugal, e a aplicação dessa regra à fração ideal deve ser conferida.
 
 As regras estão no Código Civil, nos artigos sobre o condomínio (1.314 a 1.323), na parte sobre compra e venda que trata da preferência entre condôminos (art. 504) e, quando há inquilino, na Lei 8.245/1991. Este texto explica o que muda quando um imóvel tem mais de um dono. Ele não substitui a análise de um advogado, sobretudo quando há herança em aberto, separação ou disputa entre os donos.
 
@@ -49,25 +49,25 @@ Ao comprar uma fração, a pessoa passa a ser coproprietária, com os mesmos dir
 
 ## A preferência dos outros donos
 
-A regra central aparece no artigo 504. Ele diz que um condômino, em coisa indivisível, não pode vender sua parte a estranhos se outro consorte quiser comprá-la, pelo mesmo preço. Quem vende precisa dar conhecimento da venda aos demais.
+A regra central aparece no artigo 504. Ele diz que um condômino, em coisa indivisível, não pode vender sua parte a estranhos se outro consorte quiser comprá-la, pelo mesmo preço. A lei pressupõe que os demais donos sejam informados da venda.
 
-Quem não recebeu esse conhecimento pode, depositando o preço, ficar com a parte vendida ao estranho. O pedido precisa ser feito no prazo de 180 dias, sob pena de decadência, ou seja, de perda do direito. O texto fala em quem não teve conhecimento da venda, então o início da contagem depende de quando esse conhecimento aconteceu. Esse ponto é discutido, e um advogado deve confirmá-lo no caso concreto.
+Quem não foi informado da venda pode, depositando o preço, ficar com a parte vendida ao estranho. O pedido precisa ser feito em até 180 dias, sob pena de decadência, ou seja, de perda do direito. O texto não diz a partir de que momento os 180 dias começam a correr, e esse ponto pode ser discutido. Um advogado deve confirmá-lo no caso concreto.
 
 Quando há mais de um dono interessado, o parágrafo único do artigo 504 define a ordem. Tem preferência quem fez benfeitorias de maior valor. Se ninguém fez benfeitorias, tem preferência quem tem a maior fração. Se as frações forem iguais, a parte vendida fica com os comproprietários que a quiserem, depositando previamente o preço.
 
-Há uma controvérsia que vale conhecer. O texto do artigo fala em coisa indivisível. Em 2015, a 4ª Turma do Superior Tribunal de Justiça aplicou a preferência também a um imóvel divisível, no REsp 1.207.129-MG, citando o artigo 504 e o parágrafo único do artigo 1.314. Por isso, saber se o imóvel é divisível não encerra a dúvida sozinho.
+Há uma controvérsia que vale conhecer. O texto do artigo fala em coisa indivisível. Em 2015, a 4ª Turma do Superior Tribunal de Justiça, no REsp 1.207.129-MG, entendeu que a preferência também pode existir em imóvel divisível. A informação vem da síntese do próprio tribunal, reproduzida em uma nota de 2015 que cita o artigo 504 e o parágrafo único do artigo 1.314. O acórdão não foi lido nesta verificação. Por isso, saber se o imóvel é divisível não encerra a dúvida sozinho.
 
 ## Venda do imóvel inteiro e divisão
 
-Se nenhum dos donos quer ficar com o imóvel e a coisa é indivisível, o artigo 1.322 manda vendê-lo. Essa venda segue o caminho judicial, e a preferência, em igualdade de oferta, é dos próprios condôminos sobre um estranho. Entre os donos, a ordem segue o critério das benfeitorias e, depois, o da maior fração.
+Se a coisa é indivisível e os donos não querem que um deles fique com ela, indenizando os outros, o artigo 1.322 manda vendê-la e repartir o valor apurado. O texto não diz que essa venda seja necessariamente judicial. Em igualdade de condições, a preferência é dos próprios condôminos sobre um estranho. Entre os donos, a ordem segue o critério das benfeitorias e, depois, o da maior fração.
 
-Qualquer dono pode pedir a divisão do bem a qualquer tempo, segundo o artigo 1.320. Os donos também podem combinar que o imóvel fique sem divisão por até cinco anos, prorrogáveis. Na divisão, o artigo 1.321 manda aplicar, no que couber, as regras da partilha de herança.
+Qualquer dono pode pedir a divisão do bem a qualquer tempo, segundo o artigo 1.320. Os donos também podem combinar que o imóvel fique sem divisão por prazo não maior de cinco anos, prorrogável. Na divisão, o artigo 1.321 manda aplicar, no que couber, as regras da partilha de herança.
 
 Sem acordo, a disputa sobre a venda de uma fração costuma parar na Justiça. Por isso, vale resolver a divisão antes que um dos donos queira vender.
 
 ## Outorga do cônjuge
 
-O artigo 1.647, inciso I, do Código Civil diz que nenhum dos cônjuges pode alienar ou gravar de ônus real bens imóveis sem autorização do outro. A ressalva é o regime de separação absoluta de bens. A interpretação mais comum é que a exigência alcança também a venda de uma fração ideal, porque ela é venda de parte de imóvel. Assim, se o dono da fração for casado, sob regime diferente da separação absoluta, o cartório costuma pedir a autorização, conhecida como outorga conjugal.
+O artigo 1.647, inciso I, do Código Civil diz que nenhum dos cônjuges pode alienar ou gravar de ônus real bens imóveis sem autorização do outro. A ressalva é o regime de separação absoluta de bens. Não foi possível confirmar, nesta verificação, qual é a posição predominante sobre a aplicação dessa exigência à venda de fração ideal, nem a jurisprudência atual sobre o tema. Por isso, a pergunta deve ser levada ao cartório e a um advogado.
 
 Se o cônjuge recusa a autorização sem motivo justo, ou não tem como dá-la, o artigo 1.648 prevê que o juiz supra esse consentimento. É um caminho judicial, e não uma solução de cartório.
 
@@ -77,7 +77,7 @@ Para quem compra uma fração, as perguntas são simples: o vendedor é casado, 
 
 Os donos dividem as despesas de conservação e os encargos do imóvel na proporção de sua parte. O artigo 1.315 manda cada condômino contribuir na medida da fração, e presume que as partes ideais são iguais quando não há prova em contrário.
 
-Se o imóvel for alugado, a decisão de alugar cabe à maioria dos donos. O artigo 1.323 diz que, em igualdade de condições, o condômino tem preferência sobre um estranho para alugar o imóvel. Essa regra trata do aluguel, e não da venda. Para a venda, a referência é o artigo 504.
+Se o imóvel for alugado, a decisão de alugar cabe à maioria dos donos. O artigo 1.323 diz, no trecho sobre a deliberação da maioria, que, em condições iguais, o condômino tem preferência sobre quem não é condômino quando se decide alugar a coisa comum. Essa regra trata do aluguel, e não da venda. Para a venda, a referência é o artigo 504.
 
 ## Preferência dos donos sobre o inquilino
 
@@ -101,7 +101,7 @@ Os custos também se dividem pela fração. Supondo um IPTU anual de R$ 3.600, A
 - **Vender a fração sem avisar os outros donos.** Quem não recebe o aviso pode reclamar a parte vendida em 180 dias, o que deixa o comprador exposto.
 - **Achar que é preciso o consentimento de todos para vender a própria parte.** A regra é de preferência, e não de autorização.
 - **Esquecer a outorga do cônjuge.** Sem ela, o registro da venda pode não sair.
-- **Partir do princípio de que imóvel divisível não tem preferência.** O STJ já decidiu de outro modo em 2015.
+- **Partir do princípio de que imóvel divisível não tem preferência.** Em 2015, o STJ entendeu de outro modo para imóvel divisível, no REsp 1.207.129-MG.
 - **Deixar de pagar a sua parte das despesas.** O atraso gera cobrança entre os donos.
 
 ## Como conferir antes de comprar uma fração
@@ -113,7 +113,7 @@ Quem compra uma fração deve olhar a matrícula do imóvel, que mostra quem sã
 - Cada dono pode vender a própria fração ideal (Código Civil, art. 1.314).
 - Os outros donos têm preferência para ficar com a fração vendida a estranho, pelo mesmo preço, no prazo de 180 dias (art. 504).
 - Entre os donos interessados, a ordem segue as benfeitorias e, depois, o tamanho da fração (art. 504, parágrafo único).
-- Se o dono for casado, a venda exige a outorga conjugal, salvo no regime de separação absoluta (art. 1.647).
+- Se o dono for casado, a lei exige, em regra, a autorização do cônjuge para alienar imóvel, salvo no regime de separação absoluta (art. 1.647). Sua aplicação à fração ideal deve ser conferida com advogado.
 - Havendo inquilino, o dono tem prioridade sobre o locatário (Lei 8.245/1991, art. 34).
 
 Este texto é informativo e não trata de uma situação específica. Se o imóvel tem vários donos, herança em aberto ou processo de separação, procure um advogado de direito imobiliário antes de assinar qualquer contrato de venda de fração.

@@ -7,8 +7,8 @@ updated: 2026-10-20
 reading_minutes: 7
 key_points:
   - "O cheque especial é um limite automático da conta corrente: quando o saldo fica negativo, o valor usado vira dívida com juros."
-  - "Pela Resolução CMN 4.765/2019, art. 3º, os juros do cheque especial para pessoa física são limitados a 8% ao mês, em vigor desde 6 de janeiro de 2020."
-  - "Na pesquisa do Procon-SP divulgada em 08/10/2026, a taxa média máxima ficou em 8,00% ao mês, o equivalente a 151,82% ao ano."
+  - "Pela Resolução CMN 4.765/2019, art. 3º, os juros do cheque especial são limitados a 8% ao mês para pessoas naturais e MEI (art. 1º), em vigor desde 6 de janeiro de 2020."
+  - "Na pesquisa do Procon-SP com coleta em 02/10/2026, a taxa média ficou em 8,00% ao mês, o equivalente a 151,82% ao ano."
   - "A Serasa inclui o cheque especial entre as dívidas que reduzem a margem para o financiamento imobiliário."
   - "Sair do negativo por alguns meses seguidos, antes do pedido, é uma das formas mais diretas de liberar margem para a parcela."
 faq:
@@ -23,7 +23,7 @@ faq:
 sources:
   - title: "Resolução CMN 4.765/2019, art. 3º (limite de 8% ao mês) e art. 6º (vigência), Banco Central, normativos"
     url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50875/Res_4765_v2_P.pdf"
-  - title: "Procon-SP, pesquisa de taxas de juros, outubro de 2026 (coleta em 02/10/2026, divulgada em 08/10/2026)"
+  - title: "Procon-SP, pesquisa de taxas de juros, outubro de 2026 (coleta em 02/10/2026, documento com data de 08/10/2026)"
     url: "https://www.procon.sp.gov.br/wp-content/uploads/2026/10/RTTXJUROS_10_26.pdf"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (publicado em 18/06/2026)"
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
@@ -40,11 +40,11 @@ A diferença para outras dívidas é a forma de contratação. Um empréstimo te
 
 ## O teto de 8% ao mês
 
-Os juros do cheque especial para pessoa física têm teto. A Resolução CMN 4.765, de 27 de novembro de 2019, art. 3º, diz que as taxas de juros sobre o valor utilizado do cheque especial estão limitadas a, no máximo, 8% ao mês. O art. 6º fixa a entrada em vigor em 6 de janeiro de 2020.
+Os juros do cheque especial para pessoas naturais e MEI têm teto. A Resolução CMN 4.765, de 27 de novembro de 2019, art. 3º, diz que as taxas de juros sobre o valor utilizado do cheque especial estão limitadas a, no máximo, 8% ao mês. O art. 6º fixa a entrada em vigor em 6 de janeiro de 2020.
 
-Um detalhe importante: o STF declarou inconstitucional o art. 2º da mesma resolução, na ADI 6.407, com efeitos a partir de 1º de novembro de 2021. O art. 3º, que trata do teto, não foi atingido por essa decisão. Esse teto é o máximo permitido, e não significa que todo banco cobre 8%. Cada instituição define a sua taxa dentro desse limite.
+Um detalhe: o STF declarou inconstitucional o art. 2º da mesma resolução (ADI 6.407), e a Resolução CMN 4.962 revogou esse artigo a partir de 1º de novembro de 2021. O art. 3º, que trata do teto, segue no texto publicado pelo Banco Central sem essa revogação. Esse teto é o máximo permitido, e não significa que todo banco cobre 8%. Cada instituição define a sua taxa dentro desse limite.
 
-Para ver a taxa média de mercado, o Procon-SP faz uma pesquisa mensal com as taxas máximas pré-fixadas de seis bancos (Banco do Brasil, Bradesco, Caixa, Itaú, Safra e Santander) para clientes não preferenciais. Na pesquisa divulgada em 08/10/2026, com coleta em 02/10/2026, o cheque especial aparece com taxa média de 8,00% ao mês, equivalente a 151,82% ao ano. Na pesquisa de setembro, o valor foi o mesmo. Esse é um levantamento do Procon-SP, e não uma série do Banco Central. Trate o número como referência, e confirme a taxa do seu contrato.
+Para ver a taxa média de mercado, o Procon-SP publica pesquisas periódicas com seis bancos (Banco do Brasil, Bradesco, Caixa, Itaú, Safra e Santander). Na pesquisa com coleta em 02/10/2026 (o documento traz a data de 08/10/2026, sem rótulo de divulgação), o cheque especial aparece com taxa média de 8,00% ao mês, equivalente a 151,82% ao ano. Na pesquisa de setembro, o valor foi o mesmo. Esse é um levantamento do Procon-SP, e não uma série do Banco Central. Trate o número como referência, e confirme a taxa do seu contrato.
 
 | Período de uso (saldo de R$ 1.500 sem pagamento) | Juros acumulados, com capitalização mensal |
 |---|---|
@@ -98,6 +98,6 @@ Para o cenário de quitar várias dívidas de uma vez, o artigo sobre [compromet
 ## Resumo
 
 - O cheque especial é um limite automático com juros, e o saldo negativo pesa no financiamento.
-- Pela Resolução CMN 4.765/2019, art. 3º, o teto para pessoa física é de 8% ao mês, em vigor desde 6 de janeiro de 2020.
-- A pesquisa do Procon-SP de outubro de 2026 mostra taxa média máxima de 8,00% ao mês, ou 151,82% ao ano, com coleta em 02/10/2026.
+- Pela Resolução CMN 4.765/2019, art. 3º, o teto é de 8% ao mês para pessoas naturais e MEI, em vigor desde 6 de janeiro de 2020.
+- A pesquisa do Procon-SP de outubro de 2026 mostra taxa média de 8,00% ao mês, ou 151,82% ao ano, com coleta em 02/10/2026.
 - Antes do pedido, o caminho é quitar o negativo com recurso que não aumente a sua dívida, manter a conta limpa por um período e simular depois, com o CET na mão.

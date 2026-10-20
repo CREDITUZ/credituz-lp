@@ -16,7 +16,7 @@ faq:
   - q: "O banco pode cobrar taxa para eu quitar?"
     a: "Para pessoas físicas, a Resolução CMN 3.516/2007 veda a tarifa por liquidação antecipada em contratos firmados a partir de sua vigência. Em contratos anteriores, confira o texto assinado e pergunte a base de qualquer cobrança."
   - q: "Quanto tempo o banco tem para dar a quitação?"
-    a: "Pela Lei 9.514/1997, art. 25, o credor tem 30 dias, contados da quitação da dívida, para entregar o termo de quitação. Depois disso, o cartório pode cancelar o registro da garantia."
+    a: "Pela Lei 9.514/1997, art. 25, o credor tem 30 dias, contados da liquidação da dívida, para entregar o termo de quitação. Com o termo, o oficial do registro de imóveis cancela a propriedade fiduciária."
   - q: "Vale mais quitar ou investir o dinheiro?"
     a: "Compare o custo efetivo total (CET) do financiamento com o rendimento líquido do investimento, depois do imposto. Mantenha antes uma reserva de emergência, porque o dinheiro usado na quitação não volta."
 sources:
@@ -26,6 +26,8 @@ sources:
     url: "https://normativos.bcb.gov.br/Lists/Normativos/Attachments/48006/Res_3516_v3_P.pdf"
   - title: "Lei 9.514/1997, arts. 25 e 26, alienação fiduciária de imóveis (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+  - title: "Lei 14.711/2023, que alterou os arts. 25 a 27 da Lei 9.514/1997 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm"
 related: [amortizar-financiamento-prazo-ou-parcela, fgts-para-quitar-saldo-devedor, minha-casa-minha-vida-quitar-antes]
 ---
 
@@ -43,7 +45,7 @@ Dois pontos sustentam o direito de quitar antes do prazo.
 
 O primeiro é a regra do consumidor. O art. 52, § 2º, do Código de Defesa do Consumidor (Lei 8.078/1990) assegura a liquidação antecipada do débito, total ou parcialmente, com redução proporcional dos juros e dos demais acréscimos. Esse direito vale para o financiamento imobiliário, porque ele é crédito concedido a consumidor.
 
-O segundo é a proibição da tarifa. A Resolução CMN 3.516/2007, em seu art. 1º, veda às instituições financeiras a cobrança de tarifa em razão de liquidação antecipada para pessoas físicas, em contratos firmados a partir da entrada em vigor da resolução, de 6 de dezembro de 2007. Contratos anteriores podem ter outras regras. Por isso, confira o texto que você assinou antes de pagar qualquer valor que não esteja no saldo.
+O segundo é a proibição da tarifa. A Resolução CMN 3.516/2007, em seu art. 1º, veda às instituições financeiras a cobrança de tarifa em razão de liquidação antecipada para pessoas físicas, em contratos firmados a partir da entrada em vigor da resolução, aprovada em 6 de dezembro de 2007. Contratos anteriores podem ter outras regras. Por isso, confira o texto que você assinou antes de pagar qualquer valor que não esteja no saldo.
 
 ## Quanto custa quitar
 
@@ -53,7 +55,7 @@ A conta de quitação costuma ter cinco componentes. Nem todos aparecem em todos
 |---|---|---|
 | Saldo devedor na data | Valor que falta para quitar, já com os juros proporcionais | Posição de quitação, com data e prazo de validade |
 | Tarifa de liquidação | Vedada para pessoas físicas em contratos da vigência da Resolução 3.516/2007 | Cláusulas do contrato e a planilha de quitação |
-| Seguros MIP e DFI | Pode haver devolução da parte não utilizada, conforme contrato e seguradora | Banco e seguradora, por escrito |
+| Seguros MIP e DFI | Eventual devolução de parcela do seguro depende do contrato e da seguradora | Banco e seguradora, por escrito |
 | Despesas de cartório | Cancelamento da garantia e registro, com valores da tabela de emolumentos do estado | Cartório de registro de imóveis da sua cidade |
 | Encargos em atraso | Multa e juros de parcelas vencidas, se houver | Extrato de débito |
 
@@ -70,7 +72,7 @@ Se a dívida for transferida para outro banco por portabilidade, a quitação se
 3. **Veja se há tarifa ou cobrança extra.** Pergunte a base de cada item que não esteja no saldo, sobretudo nos contratos mais antigos.
 4. **Decida o que fazer com os seguros.** Pergunte se há devolução proporcional e como solicitar o cancelamento.
 5. **Pague pelo canal indicado e guarde o comprovante.** Use a data da posição de quitação, porque o saldo muda a cada dia com os juros.
-6. **Cobre o termo de quitação.** Pela Lei 9.514/1997, art. 25, o credor tem 30 dias, contados da quitação, para entregar o termo ao devedor. A lei também prevê multa de 0,5% ao mês, ou fração, sobre o valor do contrato quando o termo atrasa, em favor de quem não o recebeu no prazo.
+6. **Cobre o termo de quitação.** Pela Lei 9.514/1997, art. 25, o credor tem 30 dias, contados da liquidação da dívida, para entregar o termo ao devedor. A lei também prevê multa de 0,5% ao mês, ou fração, sobre o valor do contrato quando o termo atrasa (art. 25, § 1º-A), em favor de quem não o recebeu no prazo.
 7. **Confirme o cancelamento na matrícula.** Depois que o cartório recebe o termo, ele cancela o registro da propriedade fiduciária. Confira a [matrícula do imóvel](/artigos/matricula-do-imovel) para ver se a garantia saiu.
 
 ## Exemplo ilustrativo: quitar no mês 60

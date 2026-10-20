@@ -7,7 +7,7 @@ updated: 2026-10-20
 reading_minutes: 7
 key_points:
   - "O rotativo é a parte da fatura que sobra sem pagamento total, com juros até o fim do mês, e vai ao SCR como operação de crédito, na modalidade 0204."
-  - "A taxa média anual do rotativo foi de 444,9% em agosto de 2026, segundo o Banco Central, conforme noticiado em 29/09/2026."
+  - "A taxa média anual do rotativo foi de 444,9% em agosto de 2026, segundo o Jornal do Comércio (29/09/2026), que cita dados do Banco Central."
   - "Sem novas compras, o saldo cresce mês a mês: em um exemplo ilustrativo, R$ 1.500 viram cerca de R$ 2.292 em três meses."
   - "A Serasa não lista o rotativo entre as dívidas que reduzem a margem, mas o saldo aparece nos dados que o banco analisa."
   - "Quitar o rotativo antes do pedido costuma ser mais urgente do que trocar a dívida por outra sem fazer a conta do CET."
@@ -17,9 +17,9 @@ faq:
   - q: "Pagar o mínimo da fatura evita o rotativo?"
     a: "Não evita. O valor que sobra depois do pagamento parcial entra no rotativo, com juros. Pagar só o mínimo costuma transformar a maior parte da fatura em dívida cara, e o saldo continua aparecendo nos dados do mês seguinte."
   - q: "Existe limite para os juros do rotativo?"
-    a: "Sim. A Lei 14.690/2023, art. 28, § 1º, prevê que, se os limites de juros não forem aprovados no prazo, o total cobrado em juros e encargos não pode passar do valor original da dívida. Segundo o Banco Central, citado pela imprensa, a regra está em vigor desde janeiro de 2024. O teto limita o crescimento da dívida, mas não torna o rotativo barato."
+    a: "Sim. A Lei 14.690/2023, art. 28, § 1º, prevê que, se os limites de juros não forem aprovados no prazo, o total cobrado em juros e encargos não pode passar do valor original da dívida. Segundo o jornal O Povo (03/01/2024), o limite entrou em vigor em 3 de janeiro de 2024, depois da regulamentação do CMN no fim de 2023. O teto limita o crescimento da dívida, mas não torna o rotativo barato."
   - q: "Trocar o rotativo por um empréstimo pessoal compensa?"
-    a: "Pode compensar, se o CET do empréstimo for menor e a parcela couber no orçamento. Em setembro de 2026, a taxa média de empréstimo pessoal pesquisada pelo Procon-SP foi de 8,66% ao mês, bem abaixo da taxa equivalente do rotativo, mas a conta precisa ser feita com a proposta real."
+    a: "Pode compensar, se o CET do empréstimo for menor e a parcela couber no orçamento. Em setembro de 2026, a taxa média de empréstimo pessoal pesquisada pelo Procon-SP foi de 8,66% ao mês, para um prazo de referência de 12 meses, bem abaixo da taxa equivalente do rotativo, mas a conta precisa ser feita com a proposta real."
 sources:
   - title: "Banco Central: Instruções de preenchimento do Doc 3040 (SCR), modalidades 0204 e 0210 e envio mensal"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/Leiaute_de_documentos/scrdoc3040/SCR_InstrucoesDePreenchimento_Doc3040.pdf"
@@ -27,6 +27,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14690.htm"
   - title: "Jornal do Comércio: juro médio do rotativo sobe a 444,9% ao ano em agosto, diz BC (publicado em 29/09/2026)"
     url: "https://www.jornaldocomercio.com/economia/2026/09/1265047-juro-medio-do-rotativo-do-cartao-de-credito-sobe-a-4449-ao-ano-em-agosto-diz-bc.html"
+  - title: "O Povo: novo limite dos juros do rotativo entra em vigor nesta quarta (notícia de 03/01/2024)"
+    url: "https://www.opovo.com.br/noticias/economia/2024/01/03/amp/juros-do-rotativo-novo-limite-entra-em-vigor-nesta-quarta-entenda.html"
   - title: "Procon-SP, pesquisa de taxas de juros, setembro de 2026 (coleta em 01/09/2026)"
     url: "https://www.procon.sp.gov.br/wp-content/uploads/2026/09/RTTXJUROS-09.26-1.pdf"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (publicado em 18/06/2026)"
@@ -38,9 +40,9 @@ O rotativo do cartão é a parte da fatura que sobra depois de um pagamento que 
 
 ## Como o rotativo é registrado
 
-O Banco Central publica o manual de preenchimento do SCR (Sistema de Informações de Crédito), o documento 3040. Ele diz que o rotativo do cartão é informado como operação de crédito na modalidade 0204, que é o saldo devedor que sobra depois do vencimento da fatura, com os juros incluídos até o fim do mês. A data de contratação é o vencimento da fatura não paga integralmente, e o valor contratado é o saldo não pago naquela data.
+O Banco Central publica o manual de preenchimento do SCR (Sistema de Informações de Crédito), o documento 3040. Ele diz que o rotativo do cartão é informado na modalidade 0204, descrita como crédito rotativo vinculado a cartão de crédito, dentro da seção de empréstimos. O saldo é o que sobra depois do vencimento da fatura, com os juros calculados até o fim do mês. A data de contratação, segundo o manual, é o vencimento da fatura não paga integralmente.
 
-Esse é o ponto que costuma surpreender. Pagar a fatura com atraso não é a única forma de aparecer no SCR. Um pagamento parcial, que deixa saldo, já cria uma operação de rotativo. O documento também diz que os dados são enviados mensalmente, identificados por data-base no formato ano e mês. Ou seja, o saldo de um mês é o que o banco vê ao analisar o pedido, e um saldo que foi quitado no mês seguinte pode continuar aparecendo na foto anterior.
+Esse é o ponto que costuma surpreender. Pagar a fatura com atraso não é a única forma de aparecer no SCR. Um pagamento parcial, que deixa saldo, já cria uma operação de rotativo. O documento também diz que os dados são enviados mensalmente para cada instituição. Ou seja, o saldo de um mês é o que o banco vê ao analisar o pedido, e um saldo que foi quitado no mês seguinte pode continuar aparecendo na foto anterior.
 
 O manual é técnico, e a leitura para quem vai financiar é simples: o rotativo é uma dívida formal, com registro próprio e periódico.
 
@@ -101,7 +103,7 @@ O [plano de três meses](/artigos/cartao-de-credito-e-financiamento) do artigo s
 ## Resumo
 
 - O rotativo entra no SCR como operação de crédito, na modalidade 0204, e é informado todo mês.
-- A taxa média anual foi de 444,9% em agosto de 2026, segundo o Banco Central, citado pela imprensa. A conversão aproximada é de 15,2% ao mês.
+- A taxa média anual foi de 444,9% em agosto de 2026, segundo o Jornal do Comércio, que cita o Banco Central. A conversão aproximada é de 15,2% ao mês.
 - Em um exemplo ilustrativo, um saldo de R$ 1.500 sem pagamentos chega a cerca de R$ 2.292 em três meses.
 - A Serasa não cita o rotativo na lista de dívidas que reduzem a margem, mas o saldo aparece nos dados, e cada banco decide como pesar esse sinal.
 - Quitar o rotativo com recurso próprio, parar de rolar o saldo e comparar qualquer troca pelo CET são os passos com mais efeito antes do pedido.

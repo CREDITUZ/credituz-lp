@@ -8,7 +8,7 @@ reading_minutes: 8
 key_points:
   - "Além da nota do bureau, o banco aplica modelos e políticas internas que combinam renda, dívidas e o histórico que ele tem com você."
   - "Os pesos de cada fator e os limites de cada instituição não são divulgados, e nenhuma fonte pública revela a fórmula de um banco específico."
-  - "A Lei 12.414/2011 dá o direito de conhecer os principais critérios de análise de risco, respeitado o segredo empresarial."
+  - "Pela Lei 12.414/2011, art. 5º, IV, o cadastrado pode conhecer os principais critérios de análise de risco, respeitado o segredo empresarial."
   - "A LGPD prevê revisão de decisões tomadas somente por tratamento automatizado. O texto não garante revisão por uma pessoa."
   - "Dois bancos com a mesma nota podem responder de forma diferente, porque aplicam limites e políticas próprias."
 faq:
@@ -73,7 +73,7 @@ Uma diferença de 5 pontos percentuais no teto muda o valor financiável em cerc
 
 Duas normas dão instrumentos concretos. Elas não obrigam o banco a abrir a fórmula, mas garantem alguns caminhos.
 
-- **Lei 12.414/2011 (Cadastro Positivo), art. 5º, inciso IV.** O cadastrado tem direito de conhecer os principais elementos e critérios considerados na análise de risco, resguardado o segredo empresarial. A lei trata do cadastro positivo, mas o mesmo raciocínio de transparência é usado por quem pede a explicação da recusa. Ou seja, você pode pedir os principais critérios, sem esperar a fórmula exata.
+- **Lei 12.414/2011 (Cadastro Positivo), art. 5º, inciso IV.** O cadastrado tem direito de conhecer os principais elementos e critérios considerados na análise de risco, resguardado o segredo empresarial. A regra está no contexto do cadastro positivo, então não cria um direito geral de conhecer a fórmula do banco. Ela permite pedir os principais critérios da análise, sem esperar a fórmula exata.
 - **LGPD (Lei 13.709/2018), art. 20.** O titular pode pedir a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais, inclusive as que definem o seu perfil de crédito. Pelo § 1º, o controlador deve fornecer, quando solicitado, informações claras sobre os critérios e os procedimentos usados, observados os segredos comercial e industrial. O § 3º aparece como vetado no texto do Planalto, por isso a lei não garante, de forma expressa, a revisão por uma pessoa.
 
 Na prática, o pedido pode ser simples. Peça por escrito a motivação da recusa, pergunte quais critérios foram considerados e registre a data e o protocolo. Se a resposta for genérica, insista com o número de protocolo e, se não houver solução, procure o Procon ou a ouvidoria da instituição.
@@ -110,5 +110,5 @@ Nem todo banco responde com todos os detalhes, e o segredo empresarial pode limi
 
 - A análise interna do banco combina renda, dívidas, relacionamento e características do financiamento, e a nota de mercado é só uma parte.
 - Os pesos e os limites de cada banco não são públicos. Por isso, o mesmo perfil pode receber propostas bem diferentes.
-- A Lei 12.414/2011 dá direito a conhecer os principais critérios, e a LGPD, no art. 20, permite pedir informações e revisão de decisões automatizadas, sem garantir revisão humana.
+- A Lei 12.414/2011, art. 5º, IV, dá ao cadastrado o direito de conhecer os principais critérios, e a LGPD, no art. 20, permite pedir informações e revisão de decisões automatizadas, sem garantir revisão humana.
 - O que você controla é a renda comprovada, a organização das dívidas e a consistência dos dados. Simule em mais de um banco com o CET na mão antes de decidir.
