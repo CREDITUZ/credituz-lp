@@ -29,8 +29,10 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
   - title: "Gazeta SP: programa Pode Entrar, reservas para pessoa com deficiência e idosos"
     url: "https://www.gazetasp.com.br/cotidiano/casa-propria-prefeitura-de-sp-amplia-programa-pode-entrar-confira-regr/"
-  - title: "Meutudo: salário mínimo e BPC em 2026 (19/12/2025)"
-    url: "https://meutudo.com.br/blog/noticias/2025/12/19/beneficiarios-do-bpc-terao-novo-valor-de-salario-minimo-em-2026/"
+  - title: "Portaria MCID 738/2024, critérios de hierarquização do FAR (gov.br)"
+    url: "https://www.gov.br/cidades/pt-br/acesso-a-informacao/institucional/base-juridica/portarias/PortariaMCIDn7382024.pdf"
+  - title: "Decreto 12.797, de 23/12/2025, salário mínimo de R$ 1.621 em 2026 (Planalto)"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
 related: [minha-casa-minha-vida-entidades, minha-casa-minha-vida-sorteio, minha-casa-minha-vida-documentos, programas-habitacionais-municipais]
 ---
 
@@ -104,7 +106,7 @@ Se o FGTS for usado para comprar o imóvel, as regras de entrada, amortização 
 ## Erros comuns e cuidados
 
 - **Tratar a prioridade como vaga garantida.** A prioridade melhora a posição na fila, mas a unidade depende da classificação e da disponibilidade.
-- **Enviar laudo vencido ou sem o código CID** quando o edital pede. Verifique a validade antes da inscrição.
+- **Enviar laudo vencido ou sem os dados exigidos**, como o código CID, quando o edital pede. Verifique a validade antes da inscrição.
 - **Misturar as contas.** A renda do BPC é calculada por pessoa, e a renda para financiar é a bruta familiar. Uma família pode passar em uma e não na outra.
 - **Aceitar unidade sem checar acessibilidade.** Adaptar depois costuma ser caro e nem sempre é possível.
 - **Pagar para garantir reserva.** A reserva é definida no edital e não se compra.

@@ -6,19 +6,19 @@ published: 2026-10-19
 updated: 2026-10-19
 reading_minutes: 7
 key_points:
-  - "Em regra, quem paga a comissão é quem contratou o corretor. Na venda de imóvel usado, isso costuma ser o vendedor, salvo acordo por escrito em contrário."
+  - "Em regra, quem paga a comissão é quem contratou o corretor. Na venda de imóvel usado, isso costuma ser o vendedor, salvo acordo claro em contrário no contrato."
   - "O comprador só deve pagar se assumiu essa obrigação no contrato ou se foi ele quem contratou o profissional. Sem isso, a cobrança pode ser questionada."
-  - "A comissão é calculada sobre o valor do negócio fechado, e não sobre o preço anunciado. O Código Civil (art. 724) manda usar os usos locais quando nada foi fixado."
-  - "A regra da corretagem na planta, com a exigência de informar o preço total antes da compra, não se aplica diretamente ao imóvel usado."
+  - "A comissão costuma ser um percentual do negócio fechado, conforme o contrato de corretagem. Se nada foi fixado em lei ou entre as partes, o Código Civil (art. 724) manda usar a natureza do negócio e os usos locais."
+  - "A exigência de informar o custo antes da compra, discutida no Tema 938 do STJ, não se aplica diretamente ao imóvel usado, mas o princípio da transparência vale."
 faq:
   - q: "Quem paga a corretagem na compra de imóvel usado?"
     a: "Em geral, quem contratou o corretor, que costuma ser o vendedor. O comprador paga se o contrato disser isso de forma clara e se ele tiver contratado o profissional."
   - q: "Posso ser obrigado a pagar a comissão sem ter contratado o corretor?"
     a: "Em regra, não, desde que não exista previsão contratual em contrário. Se você for cobrado, peça por escrito a cláusula e o contrato de corretagem, e questione a cobrança."
   - q: "Como saber se o valor da comissão está certo?"
-    a: "Multiplique o percentual combinado pelo preço efetivamente fechado. Peça o contrato de corretagem, confira o percentual e o valor em reais e exija recibo ou nota da imobiliária."
+    a: "Multiplique o percentual combinado pela base de cálculo prevista no contrato, em geral o preço efetivamente fechado. Peça o contrato de corretagem, confira o percentual e o valor em reais e exija recibo ou nota da imobiliária."
   - q: "E se eu desistir da compra?"
-    a: "Depende do motivo. Se a desistência foi motivada por um problema que o vendedor não informou, o STJ já afastou a comissão em um caso de desistência motivada. Veja o artigo sobre [desistir da compra](/artigos/desistir-da-compra-arrependimento)."
+    a: "Depende do motivo. Em um caso julgado pelo STJ (REsp 1.364.574), a comissão não foi considerada devida porque a compra foi desfeita por risco jurídico do imóvel. Veja o artigo sobre [desistir da compra](/artigos/desistir-da-compra-arrependimento)."
 sources:
   - title: "Legislação: Código Civil (Lei 10.406/2002), art. 725, texto vigente"
     url: "https://www.legjur.com/legislacao/art/lei_00104062002-725"
@@ -48,13 +48,13 @@ O Código Civil traz duas regras que ajudam a entender o caso:
 
 Essas regras são gerais. O Código Civil não diz, de forma específica, que o comprador de imóvel usado paga ou não paga a comissão. Essa definição vem do contrato que cada pessoa assinou, e da situação concreta.
 
-Há ainda um princípio que ajuda na análise. Em um julgamento de 2018 (REsp 1.553.715, da 4ª Turma do STJ), o tribunal entendeu que o contrato de corretagem impõe obrigação de resultado: a comissão só é devida quando o corretor aproxima as partes e o negócio se concretiza. O caso era a venda de uma participação em shopping, e não uma compra residencial. Por isso, ele serve como referência, e não como regra direta para o seu caso.
+Há ainda um princípio que ajuda na análise. Em decisão da 4ª Turma do STJ (REsp 1.553.715, em agravo interno, publicada em 19/12/2018), o tribunal reafirmou que o contrato de corretagem impõe obrigação de resultado: a comissão só é devida quando o corretor aproxima as partes e o negócio se concretiza. O caso tratava de cobrança de comissão sobre a venda de uma participação em shopping que não foi concluída, e não de uma compra residencial. Por isso, ele serve como referência do princípio, e não como regra direta para o seu caso.
 
 ## O que o STJ decidiu sobre a corretagem na planta
 
-Muita informação sobre corretagem fala do Tema 938 do STJ. Esse julgamento trata da compra na planta, em que a incorporadora repassa a comissão ao comprador. Ele exige que o preço total e o valor da corretagem sejam informados antes da compra. O artigo sobre [corretagem abusiva e taxa SATI](/artigos/corretagem-abusiva-e-sati) explica essas regras.
+Muita informação sobre corretagem fala do Tema 938 do STJ (REsp 1.599.511/SP). Esse julgamento trata de cláusula que transfere ao comprador a obrigação de pagar a comissão, e a tese condiciona essa transferência à informação prévia e clara do custo da operação. Na fonte consultada, a tese aparece em termos gerais de contratos de compra e venda, mas não abri o acórdão integral. O artigo sobre [corretagem abusiva e taxa SATI](/artigos/corretagem-abusiva-e-sati) explica essas regras.
 
-Na compra de imóvel usado, essa lógica não se aplica diretamente, porque a relação é entre vendedor, comprador e a imobiliária, e não entre comprador e incorporadora. Ainda assim, o princípio da transparência continua valendo: quem cobra deve deixar claro o valor, o responsável e o momento do pagamento.
+Na compra de imóvel usado, o contexto muda, porque a relação costuma envolver vendedor, comprador e imobiliária, e não incorporadora. Ainda assim, o princípio da transparência continua valendo: quem cobra deve deixar claro o valor, o responsável e o momento do pagamento.
 
 ## Quem paga, na prática
 
@@ -67,7 +67,7 @@ A tabela resume as situações mais comuns. Ela não substitui o contrato, mas a
 | A comissão aparece no contrato de compra, sem que o comprador tenha contratado o profissional | Pode ser questionada | O motivo da cobrança e a cláusula por escrito |
 | A compra não se concretizou por desistência motivada, como um problema jurídico não informado | Pode não ser devida | Os documentos da desistência e as informações recebidas |
 
-O último caso merece atenção. Em um julgamento da 4ª Turma do STJ, noticiado pela Migalhas em outubro de 2017 (REsp 1.364.574), um casal desistiu de comprar um imóvel porque não sabia de uma execução fiscal contra um dos vendedores. A corte entendeu que a comissão não era devida nesse caso, porque a desistência foi motivada por risco jurídico. A decisão não trata de quem contrata o corretor nem de informação prévia sobre a comissão.
+O último caso merece atenção. Em julgamento da 4ª Turma do STJ (REsp 1.364.574), noticiado pela Migalhas em 31/10/2017, os compradores desistiram da compra depois de saber de uma execução fiscal contra um dos vendedores. A corte entendeu que a comissão não era devida nesse caso, porque a desistência foi motivada por risco jurídico. A notícia não trata de quem contratou o corretor nem de informação prévia sobre a comissão.
 
 ## Como conferir o valor
 
@@ -75,7 +75,7 @@ A comissão é um percentual. A lei não fixa um índice único para a compra de
 
 **percentual combinado × preço efetivamente fechado = valor da comissão**
 
-Um exemplo ilustrativo, com um percentual hipotético de 5%: se o imóvel for vendido por R$ 500.000, a comissão seria de R$ 25.000 (5% de R$ 500.000). Se o contrato de venda tiver preço menor que o anunciado, a comissão deve acompanhar o valor fechado, e não o anunciado.
+Um exemplo ilustrativo, com um percentual hipotético de 5%: se o imóvel for vendido por R$ 500.000, a comissão seria de R$ 25.000 (5% de R$ 500.000). Se o negócio fechar por menos que o anunciado e o contrato de corretagem usar o preço fechado como base, a comissão deve acompanhar esse valor, e não o anunciado.
 
 Antes de pagar, faça estas checagens:
 
@@ -87,11 +87,11 @@ Antes de pagar, faça estas checagens:
 
 ## Corretor do vendedor e corretor do comprador
 
-Na prática, o mesmo profissional ou a mesma imobiliária pode atender os dois lados, ou apenas um deles. Isso importa, porque o profissional que representa o vendedor tem interesse em fechar o negócio pelo preço que o vendedor quer. Se você procurou o imóvel por conta própria e a imobiliária apenas apresentou a casa, pergunte, antes de visitar ou fazer proposta, quem a contratou e quem paga a comissão.
+Na prática, o mesmo profissional ou a mesma imobiliária pode atender os dois lados, ou apenas um deles. Isso importa, porque o profissional que representa o vendedor pode ter interesse em fechar o negócio pelo preço que o vendedor pede. Se você procurou o imóvel por conta própria e a imobiliária apenas apresentou a casa, pergunte, antes de visitar ou fazer proposta, quem a contratou e quem paga a comissão.
 
 Se você mesmo contratou um corretor para buscar um imóvel, a situação muda. Nesse caso, a comissão costuma ser combinada com você, e o contrato de corretagem deve dizer isso com clareza. A cobrança só é legítima se esse acordo existir e estiver registrado por escrito.
 
-Vale também ler a proposta de compra, que muitas vezes é o primeiro documento assinado. Se nela houver a expressão "comissão" ou "corretagem", a responsabilidade deve estar descrita. Se a proposta não diz quem paga, essa lacuna é um ponto a seu favor caso a cobrança apareça depois, e vale registrar isso por escrito.
+Vale também ler a proposta de compra, que muitas vezes é o primeiro documento assinado. Se nela houver a expressão "comissão" ou "corretagem", a responsabilidade deve estar descrita. Se a proposta não diz quem paga, peça por escrito que a lacuna seja resolvida antes da assinatura do contrato definitivo.
 
 ## O que pedir antes de assinar
 
@@ -112,7 +112,7 @@ Se você for cobrado e não tiver contratado o corretor, siga esta ordem:
 1. Leia o contrato e localize a cláusula que fala em comissão.
 2. Peça por escrito a justificativa, o contrato de corretagem e a identificação de quem contratou o profissional.
 3. Envie uma notificação por escrito, com prazo para o cancelamento, e guarde o protocolo.
-4. Se não houver solução, procure o Procon do seu estado ou um Juizado Especial Cível. O Idec entende que a corretagem é uma relação de consumo regida pelo Código de Defesa do Consumidor, e essa leitura pode embasar a sua reclamação.
+4. Se não houver solução, procure o Procon do seu estado ou um Juizado Especial Cível. Em texto de 2011, o Idec entende que a corretagem é uma relação de consumo regida pelo Código de Defesa do Consumidor, e essa leitura pode embasar a sua reclamação.
 5. Para casos de valor alto ou dúvida sobre a sua situação, consulte um advogado. Este texto não é orientação jurídica individual.
 
 ## Erros comuns

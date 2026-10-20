@@ -7,15 +7,15 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "O Estatuto da Pessoa Idosa (Lei 10.741/2003, art. 38) dá prioridade a idosos em programas habitacionais públicos ou subsidiados, com reserva de pelo menos 3% das unidades."
-  - "No financiamento, a soma da idade com o prazo costuma ter limite de 80 anos e 6 meses, o mesmo usado pelo seguro habitacional (Resolução CNSP 447/2022)."
+  - "No seguro habitacional (Resolução CNSP 447/2022, art. 13), a soma da idade com o prazo do financiamento tem como referência o limite de 80 anos e 6 meses. Cada banco tem política própria de prazo."
   - "Aos 62 anos, o prazo máximo é de 18 anos e 6 meses. Quanto mais velha a pessoa, menor o prazo e maior a parcela."
   - "Aposentadoria e pensão contam como renda para financiar, e o banco costuma pedir o extrato do benefício."
   - "O BPC é uma regra separada do financiamento: exige renda por pessoa de até um quarto do salário mínimo, ou R$ 405,25 em 2026."
 faq:
   - q: "Idoso consegue financiar imóvel?"
-    a: "Sim, desde que passe pela análise de crédito e a soma da idade com o prazo fique dentro do limite do banco. O limite de 80 anos e 6 meses é o mais citado e vale para o seguro habitacional."
+    a: "Sim, desde que passe pela análise de crédito e a soma da idade com o prazo fique dentro da política do banco. O limite de 80 anos e 6 meses vem da regra do seguro habitacional, e cada banco confirma o próprio prazo na simulação."
   - q: "Qual o prazo máximo para quem tem 62 anos?"
-    a: "Pela regra de 80 anos e 6 meses, o prazo máximo é de 18 anos e 6 meses, ou 222 meses. Cada banco aplica a própria política, então confirme na simulação."
+    a: "Se o banco usar o limite de 80 anos e 6 meses, o prazo máximo é de 18 anos e 6 meses, ou 222 meses. Confirme o prazo do seu banco na simulação."
   - q: "Aposentado pode usar o FGTS para comprar imóvel?"
     a: "Depende da situação. As hipóteses de saque de quem se aposentou estão em [FGTS para aposentado](/artigos/fgts-aposentado), e vale conferir as condições antes de contar com o recurso."
   - q: "Há reserva de unidades para idosos no Minha Casa Minha Vida?"
@@ -32,7 +32,7 @@ sources:
 related: [fgts-aposentado, renda-composta, seguros-mip-e-dfi, home-equity-riscos]
 ---
 
-Idosos têm prioridade em programas habitacionais subsidiados e, no financiamento comum, enfrentam um limite de prazo que depende da idade. A regra mais citada soma a idade com o prazo: o total não pode passar de 80 anos e 6 meses. Quem tem 62 anos, por exemplo, pode contratar um prazo de até 18 anos e 6 meses. Esse encurtamento muda a parcela de forma relevante, e vale fazer a conta antes de escolher o imóvel.
+Idosos têm prioridade em programas habitacionais subsidiados e, no financiamento comum, enfrentam um limite de prazo que depende da idade. A regra do seguro habitacional soma a idade com o prazo e usa como referência o total de 80 anos e 6 meses. Se o banco aplicar o mesmo limite, quem tem 62 anos pode contratar um prazo de até 18 anos e 6 meses. Esse encurtamento muda a parcela de forma relevante, e vale fazer a conta antes de escolher o imóvel.
 
 ## Prioridade no Estatuto da Pessoa Idosa
 
@@ -49,11 +49,11 @@ Estados e municípios também podem reservar mais. O programa Pode Entrar, de S�
 
 ## O limite de idade no financiamento
 
-No seguro habitacional, a regra é clara. Pela Resolução CNSP 447/2022, art. 13, a seguradora não pode restringir a cobertura a quem está abaixo do limite de 80 anos e 6 meses, somando a idade ao prazo do financiamento. Na prática, quando essa soma passa do limite, a cobertura pode ser recusada. A norma prevê uma exceção, limitada a 3% das unidades de programas subsidiados, para contratos de pessoas com 60 anos ou mais. Depois de aceito, o segurado não perde a indenização por morte ou invalidez permanente por causa desse cálculo, desde que as informações tenham sido corretas (art. 31). A norma está em vigor desde 1º de novembro de 2022.
+No seguro habitacional, a regra vem da Resolução CNSP 447/2022, art. 13: a soma da idade com o prazo do financiamento tem como referência o limite de 80 anos e 6 meses. Acima desse limite, a cobertura pode ser recusada. A norma prevê uma exceção, limitada a 3% das unidades de programas subsidiados, para contratos de pessoas com 60 anos ou mais. Depois de aceito, o segurado não perde a indenização por morte ou invalidez permanente por causa do limite de idade, desde que as informações tenham sido corretas (art. 31). A norma está em vigor desde 1º de novembro de 2022 (art. 43).
 
-Os bancos aplicam a própria política de prazo. Segundo reportagem de junho de 2026, a Caixa usa a mesma soma de 80 anos e 6 meses, mas essa informação não veio de uma fonte oficial do banco, então confirme na simulação.
+Os bancos aplicam a própria política de prazo. Não encontrei, em fonte oficial da Caixa, a regra de idade para financiamento, então confirme o prazo máximo na simulação.
 
-Exemplo ilustrativo: financiamento de R$ 250.000 a 11% ao ano, sem TR, seguros ou tarifas. A taxa é hipotética.
+Exemplo ilustrativo: financiamento de R$ 250.000 a 11% ao ano, sem TR, seguros ou tarifas. A taxa é hipotética, e a conversão para a taxa mensal segue a equivalência composta (1,11 elevado a 1/12).
 
 | Idade ao contratar | Prazo máximo (80 anos e 6 meses menos a idade) | Parcela Price ilustrativa |
 |---|---|---|
@@ -71,9 +71,9 @@ A lista muda de banco para banco, mas o padrão inclui documento de identidade e
 
 ## Renda: aposentadoria e pensão
 
-Aposentadoria do INSS e pensão entram como renda para comprovar a capacidade de pagamento. O banco costuma pedir o extrato do benefício dos últimos meses, além de documentos pessoais e do imóvel. A maioria dos bancos trabalha com parcela de até cerca de 30% da renda, mas a regra exata é de cada instituição.
+Aposentadoria do INSS e pensão entram como renda para comprovar a capacidade de pagamento. O banco costuma pedir o extrato do benefício dos últimos meses, além de documentos pessoais e do imóvel. Cada banco define quanto da renda pode ir para a parcela, e a regra exata deve ser confirmada na simulação.
 
-Exemplo ilustrativo: um aposentado com renda de R$ 3.000 pode ter parcela de até R$ 900. Com 11% ao ano e prazo de 222 meses, em tabela Price e sem seguros, esse valor sustenta um financiamento de cerca de R$ 88.000. A renda, a idade e o prazo juntos definem o valor do imóvel que cabe no orçamento.
+Exemplo ilustrativo: um aposentado com renda de R$ 3.000 e uma parcela hipotética de R$ 900 (30% da renda, só para o cálculo). Com 11% ao ano e prazo de 222 meses, em tabela Price e sem seguros, esse valor sustenta um financiamento de cerca de R$ 88.000. A renda, a idade e o prazo juntos definem o valor do imóvel que cabe no orçamento.
 
 Quando a renda vem de mais de uma pessoa, a [renda composta](/artigos/renda-composta) pode ajudar, desde que haja combinação clara de quem paga o quê e de quem é dono do imóvel.
 

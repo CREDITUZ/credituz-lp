@@ -112,7 +112,7 @@ A multipropriedade costuma servir a quem tem um período de uso certo todo ano, 
 ## Checklist antes de assinar
 
 - Confirme na matrícula o registro do regime e a descrição da sua fração.
-- Leia a convenção e o regulamento interno, que trazem as regras de uso, o fundo de reserva e as multas.
+- Leia a convenção e o regulamento interno, que trazem as regras de uso, as contribuições e as multas.
 - Peça a planilha das taxas dos últimos anos e a previsão do próximo período.
 - Se a compra for de revenda, peça a declaração de inexistência de débitos da fração (artigo 1.358-L) e verifique as taxas em atraso do condomínio.
 - Confirme o direito de preferência e as condições de venda na convenção.
