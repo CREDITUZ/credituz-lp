@@ -4,7 +4,7 @@ description: "Entenda a alienação fiduciária do financiamento imobiliário: q
 category: financiamento
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Na alienação fiduciária, o imóvel fica registrado em seu nome, mas com a propriedade vinculada ao banco como garantia até a quitação."
   - "Depois de atrasar, você é intimado e tem 15 dias para pagar. Se não pagar, a propriedade pode ser consolidada no nome do banco, sem processo judicial."
