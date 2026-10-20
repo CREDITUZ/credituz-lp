@@ -73,7 +73,8 @@ O banco enxerga as suas dívidas por dois caminhos: o que você declara na propo
 | Empréstimo pessoal | Sim | Inclusive os feitos em app e fintech |
 | Consignado (folha ou INSS) | Sim | Já sai descontado, mas segue sendo dívida no SCR |
 | Compras parceladas no cartão | Sim | As parcelas futuras são compromisso |
-| Rotativo do cartão e cheque especial | Sim | Pesam também como sinal de risco |
+| Rotativo do cartão | Pode entrar | Não está na lista da Serasa, mas pesa como sinal de risco |
+| Cheque especial | Sim | Está na lista da Serasa |
 | Outro financiamento imobiliário | Sim | Inclusive como codevedor |
 | Crediário de loja | Pode entrar | Depende de ser informado a bureaus ou ao SCR |
 | Pensão alimentícia descontada em folha | Pode entrar | Aparece no contracheque |
