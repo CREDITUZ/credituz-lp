@@ -330,7 +330,6 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - vendedor-desistiu
 - imovel-com-divida
 - [O5] imovel-com-inquilino
-- direito-de-preferencia-inquilino
 - [O6] despejo
 - lei-do-inquilinato
 - devolucao-de-caucao
