@@ -3,6 +3,10 @@
 > Guias práticos sobre financiamento imobiliário, FGTS, juros, custos e direitos de quem compra imóvel, com dados atualizados e fontes oficiais.
 
 ## Financiamento
+- [Quitar o financiamento antes do prazo: custos e passo a passo](https://guia.credituz.ai/artigos/quitar-financiamento): Como quitar o saldo devedor do financiamento imobiliário antes do prazo: o que a lei garante, a tarifa proibida, os custos de cartório e o passo a passo.
+- [Financiamento para servidor público: renda, consignação e vínculo](https://guia.credituz.ai/artigos/financiamento-servidor-publico): Servidor público financia pelas mesmas linhas de qualquer comprador. Veja como a renda, a consignação e a estabilidade do vínculo entram na análise do banco.
+- [Contrato de financiamento: as cláusulas que mais importam](https://guia.credituz.ai/artigos/contrato-de-financiamento-clausulas): Cláusulas do contrato de financiamento que pedem atenção antes de assinar: taxa, seguros, tarifas, multa, garantia, quitação e vencimento antecipado.
+- [Atraso na parcela do financiamento: multa, juros e prazos](https://guia.credituz.ai/artigos/atrasar-parcela-financiamento): O que acontece quando a parcela do financiamento atrasa: limite da multa pelo CDC, prazo de 15 dias após a intimação, juros de mora e como negociar.
 - [Trocar SAC por Price depois de assinar: é possível?](https://guia.credituz.ai/artigos/trocar-sac-por-price): Dá para mudar do SAC para a Price no meio do financiamento? Veja o que o banco costuma exigir, como fica a parcela e o custo extra de trocar depois.
 - [Transferir o financiamento para outra pessoa: regras e custos](https://guia.credituz.ai/artigos/transferir-financiamento): Veja como passar um financiamento imobiliário para outro comprador, por que o banco precisa concordar, como o novo comprador é analisado e quanto custa.
 - [Taxa prefixada ou pós-fixada no financiamento: qual escolher](https://guia.credituz.ai/artigos/taxa-prefixada-ou-pos-fixada): Compare as linhas de financiamento imobiliário com TR, IPCA, poupança, CDI e taxa fixa pura: como cada uma reage aos juros e à inflação e como escolher.
@@ -48,6 +52,8 @@
 - [Alienação fiduciária: o que é e o que muda para quem compra](https://guia.credituz.ai/artigos/alienacao-fiduciaria): Entenda a alienação fiduciária do financiamento imobiliário: quem fica com o imóvel, o que acontece no atraso, os prazos da Lei 9.514 e o que sobra no leilão.
 
 ## FGTS
+- [Quanto rende o FGTS e o que isso muda na hora de comprar](https://guia.credituz.ai/artigos/rendimento-do-fgts): Quanto rende o saldo do FGTS em 2026 com TR e 3% ao ano, o efeito do lucro distribuído e por que essa taxa pesa na decisão de usar o saldo na compra.
+- [Como calcular o saldo do FGTS: depósitos, correção e exemplo](https://guia.credituz.ai/artigos/calculo-fgts): Como calcular o saldo do FGTS passo a passo: o depósito de 8%, o 13º, a correção mensal pela TR e os juros de 3% ao ano, com um exemplo de três anos.
 - [Vale a pena usar o FGTS na entrada do imóvel? A conta](https://guia.credituz.ai/artigos/fgts-vale-a-pena-usar-na-entrada): Usar o FGTS na entrada costuma compensar mais que deixar o saldo rendendo, mas depende da taxa do contrato, da sua reserva e da proteção do saldo.
 - [Saque-aniversário e financiamento: dá para usar o FGTS no imóvel?](https://guia.credituz.ai/artigos/saque-aniversario-e-financiamento): Quem aderiu ao saque-aniversário pode usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação de 2026.
 - [Quem já tem imóvel pode usar o FGTS para comprar outro?](https://guia.credituz.ai/artigos/fgts-de-quem-ja-tem-imovel): Ter imóvel não bloqueia o FGTS sempre. Veja a regra da cidade e da região metropolitana, os casos de herança e de imóvel comercial e o risco de declarar errado.
@@ -83,6 +89,10 @@
 - [Aposentado pode usar o FGTS para comprar imóvel? Regras e opções](https://guia.credituz.ai/artigos/fgts-aposentado): Aposentadoria não impede o uso do FGTS na casa própria. Veja o que a lei prevê, o que muda se você continuar trabalhando e como comparar os caminhos.
 
 ## Programas e regras
+- [Selic e financiamento imobiliário: como a taxa chega na parcela](https://guia.credituz.ai/artigos/selic-e-financiamento): Como a Selic influencia a taxa do financiamento e a parcela, por que a queda nem sempre chega inteira ao contrato e um exemplo com números ilustrativos.
+- [Programas habitacionais estaduais: o que existe no seu estado](https://guia.credituz.ai/artigos/programas-habitacionais-estaduais): Como descobrir os programas de moradia do governo do seu estado, quem os opera, quais requisitos costumam aparecer e como um exemplo do Paraná funciona.
+- [Poupança e crédito imobiliário: por que o rendimento mudou](https://guia.credituz.ai/artigos/poupanca-e-credito-imobiliario): Como a poupança financia o crédito imobiliário, por que a regra do rendimento depende da Selic e o que essa ligação significa para quem vai financiar.
+- [Novo modelo de crédito imobiliário: o que mudou e o que é debate](https://guia.credituz.ai/artigos/novo-modelo-credito-imobiliario): O que já está em vigor no crédito imobiliário em 2026, como o teto do SFH e o uso do FGTS mudaram e o que ainda é debate sobre a poupança e a MP 1.382.
 - [Vender imóvel do Minha Casa Minha Vida: restrições do contrato](https://guia.credituz.ai/artigos/minha-casa-minha-vida-vender-imovel): Pode vender um imóvel do Minha Casa Minha Vida? Veja a regra de uso próprio, o prazo de 60 meses do FAR, a garantia do banco e como vender sem perder o imóvel.
 - [Venda direta da Caixa: como comprar imóvel retomado sem leilão](https://guia.credituz.ai/artigos/venda-direta-caixa): Como funcionam a compra direta e a venda online de imóveis da Caixa em 2026: regras, sinal de 5%, financiamento, FGTS, desistência, dívidas e cuidados.
 - [Teto do Minha Casa Minha Vida por cidade: como descobrir o seu](https://guia.credituz.ai/artigos/minha-casa-minha-vida-teto-por-cidade): O teto do imóvel no Minha Casa Minha Vida muda conforme o porte e a região da cidade nas Faixas 1 e 2. Veja a tabela oficial e como conferir o seu caso.
@@ -116,6 +126,10 @@
 - [Atraso na parcela do Minha Casa Minha Vida: o que acontece](https://guia.credituz.ai/artigos/minha-casa-minha-vida-atraso-parcela): O que acontece se você atrasar a parcela do Minha Casa Minha Vida: multa, juros de mora, prazo de 15 dias, leilão e as saídas antes de perder o imóvel.
 
 ## Crédito e score
+- [Scoring interno do banco: a análise que vai além da nota](https://guia.credituz.ai/artigos/scoring-interno-do-banco): Todo banco tem a sua própria análise de risco, além da nota do bureau. Veja o que ela costuma considerar, o que a lei permite pedir e o que fica em sigilo.
+- [Rotativo do cartão e financiamento: como ele entra na análise](https://guia.credituz.ai/artigos/rotativo-do-cartao-e-financiamento): O saldo do rotativo é informado todo mês ao SCR e pode pesar no comprometimento de renda. Veja a taxa de agosto de 2026, um exemplo e como sair antes do pedido.
+- [Crédito para reforma do imóvel: custo, garantia e cuidados](https://guia.credituz.ai/artigos/credito-para-reforma-do-imovel): Quanto custa o dinheiro para reformar um imóvel já comprado: juros, liberação em etapas, o que a garantia da casa significa e o que checar antes de assinar.
+- [Cheque especial e financiamento: por que ele pesa na aprovação](https://guia.credituz.ai/artigos/cheque-especial-e-financiamento): O cheque especial é dívida cara que reduz a margem do financiamento. Veja o teto de 8% ao mês, a taxa média de 2026, um exemplo e como sair dele.
 - [Taxa para liberar financiamento é golpe: como reconhecer e agir](https://guia.credituz.ai/artigos/taxa-antecipada-golpe): Banco não cobra taxa para liberar financiamento. Veja por que o roteiro se repete, quais custos são reais, um exemplo com números e o que fazer se já pagou.
 - [Serasa Limpa Nome: como funciona e o efeito no financiamento](https://guia.credituz.ai/artigos/serasa-limpa-nome): Como funciona o Serasa Limpa Nome, quem define o desconto, quando a negativação sai e o que um acordo muda no financiamento imobiliário.
 - [Sem histórico de crédito: como começar a ser lido pelo banco](https://guia.credituz.ai/artigos/historico-de-credito-jovem): Jovem, primeiro emprego ou sem cartão: veja como o cadastro positivo, as contas em dia e a renda comprovada formam um histórico que a análise consegue ler.
@@ -150,6 +164,9 @@
 - [Análise de crédito do financiamento: etapas, prazos e critérios](https://guia.credituz.ai/artigos/analise-de-credito-como-funciona): Como funciona a análise de crédito do financiamento imobiliário: as etapas, o que o banco avalia (cadastro, renda, SCR, score, imóvel), prazos e por que demora.
 
 ## Custos e documentos
+- [IOF no financiamento imobiliário: quando incide e como aparece](https://guia.credituz.ai/artigos/iof-no-financiamento-imobiliario): Em regra, o financiamento de moradia não paga IOF para pessoa física. Veja quando o imposto incide, a alíquota vigente, o cálculo e onde conferir no contrato.
+- [Custo de mudança e mobília depois da compra do imóvel](https://guia.credituz.ai/artigos/custo-de-mudanca-e-mobilia): Como estimar o custo de mudar e mobiliar o imóvel comprado: frete, equipe, seguro, móveis e montagem, com método de orçamento e uma faixa de preço de 2020.
+- [Custo de manter imóvel financiado: IPTU, condomínio e seguro](https://guia.credituz.ai/artigos/custo-de-manter-imovel-financiado): Quanto custa manter um imóvel financiado depois da compra: IPTU, condomínio, seguros MIP e DFI e manutenção, com tabela mensal e anual de exemplo.
 - [Taxa de avaliação do imóvel: quanto cada banco cobra e quando](https://guia.credituz.ai/artigos/taxa-de-avaliacao-do-imovel): Quanto custa a taxa de avaliação do imóvel, valores publicados por Itaú e BRB, quando ela é paga e em que casos o banco não pode cobrar a tarifa.
 - [Tarifa de cadastro no financiamento: o que é e quanto pode custar](https://guia.credituz.ai/artigos/tarifa-de-cadastro): A tarifa de cadastro é cobrada pelo banco no início do relacionamento. Veja a base legal, quando ela aparece no financiamento e como conferir antes de assinar.
 - [Seguros MIP e DFI: o que cobrem e quanto pesam na parcela](https://guia.credituz.ai/artigos/seguros-mip-e-dfi): Seguros MIP e DFI do financiamento imobiliário: o que cobrem, como o valor é calculado, se dá para escolher a seguradora e como pedir a indenização.
@@ -184,6 +201,8 @@
 - [Avaliação do imóvel pelo banco: como funciona e se vier baixa](https://guia.credituz.ai/artigos/avaliacao-do-imovel-pelo-banco): Como o banco avalia o imóvel no financiamento, quanto custa a tarifa e o que fazer se o laudo vier abaixo do preço para não perder a compra, com exemplo.
 
 ## Alternativas
+- [Compra de imóvel em grupo: divisão, nome no contrato e cuidados](https://guia.credituz.ai/artigos/compra-em-grupo-de-imovel): Comprar imóvel com outra pessoa é copropriedade. Veja como dividir entrada e parcela, o que vai na matrícula e os riscos da solidariedade.
+- [Alugar e investir a diferença: a conta com custos de venda](https://guia.credituz.ai/artigos/morar-de-aluguel-e-investir): Quando alugar e investir a diferença vence comprar financiado, com corretagem, IR da venda e ponto de equilíbrio, em exemplo ilustrativo de 2026.
 - [Taxa de administração do consórcio: como funciona e comparar](https://guia.credituz.ai/artigos/consorcio-taxa-de-administracao): Entenda a taxa de administração do consórcio de imóvel: regras do Banco Central, média de 20,84%, antecipação, e como comparar propostas com prazos diferentes.
 - [Riscos do home equity: garantia, juros e perda do imóvel](https://guia.credituz.ai/artigos/home-equity-riscos): Veja os riscos do home equity além da taxa: parcela que aperta, atraso, queda do imóvel, saldo devedor após o leilão e um teste simples antes de assinar.
 - [Reserva de emergência antes de financiar: quanto guardar](https://guia.credituz.ai/artigos/reserva-de-emergencia-antes-de-comprar): Quanto guardar de reserva de emergência antes de financiar um imóvel, como somar os custos da casa, quanto tempo leva para juntar e onde deixar o dinheiro.
