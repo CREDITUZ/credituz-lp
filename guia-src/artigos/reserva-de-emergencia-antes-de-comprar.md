@@ -4,7 +4,7 @@ description: "Quanto guardar de reserva de emergência antes de financiar um im�
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Guarde pelo menos 3 meses das suas despesas essenciais, já com os custos da casa nova. Seis meses é a referência de algumas cartilhas de educação financeira, e vale mais quando a renda oscila."
   - "A parcela é só uma parte do custo. Condomínio, IPTU, seguros e manutenção entram todo mês e precisam caber na conta junto com a reserva."
@@ -107,6 +107,12 @@ Não considere o FGTS como reserva geral. Ele tem regras de saque próprias, e u
 Muita gente junta o dinheiro para a entrada e, quando a compra fecha, fica sem nada guardado. É um erro que aparece com frequência. A entrada, os custos de compra e a mudança consomem valores altos, e o imóvel ainda exige ajustes, como móveis, reparos e a primeira conta de condomínio. Os custos de compra variam por cidade e estão no guia sobre [custos para comprar imóvel](/artigos/custos-para-comprar-imovel).
 
 Uma regra prática: a entrada deve deixar a reserva intacta. Se a entrada precisar consumir a reserva, o financiamento está apertado, e o correto é ajustar o valor do imóvel ou o prazo da compra. O guia sobre [comprar à vista ou financiar](/artigos/comprar-a-vista-ou-financiar) ajuda a comparar essas escolhas.
+
+## Erros comuns na conta
+
+- **Contar o que não se repete.** Um recebimento único, como uma restituição de imposto ou um valor de venda de outro bem, pode sumir no mês seguinte. A reserva deve ser formada com dinheiro que você recebe com regularidade.
+- **Esquecer os custos fixos da casa.** Montar a reserva só com a despesa atual deixa de fora justamente o que mais pesa depois da mudança.
+- **Usar o cartão para os imprevistos.** Se a reserva não existe, o cartão vira financiamento caro, e a parcela da casa ainda precisa ser paga em dia.
 
 ## Checklist antes de financiar
 

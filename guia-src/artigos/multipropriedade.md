@@ -4,7 +4,7 @@ description: "O que é a multipropriedade, como ela é registrada, quais direito
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Multipropriedade é um condomínio em que cada dono tem uma fração de tempo de uso exclusivo do imóvel. Ela foi regulada pela Lei 13.777/2018, no Código Civil."
   - "A fração de tempo mínima é de 7 dias, e o regime só existe com o registro do ato de instituição na matrícula do imóvel. Sem registro, você tem um contrato de uso, não essa propriedade."

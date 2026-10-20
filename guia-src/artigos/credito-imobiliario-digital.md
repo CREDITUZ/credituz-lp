@@ -4,7 +4,7 @@ description: "Como funcionam as plataformas digitais de crédito imobiliário, q
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Uma plataforma digital pode ser a própria instituição autorizada, um correspondente de um banco ou um intermediário que encaminha propostas. Descubra qual é antes de compartilhar documentos."
   - "O Banco Central tem uma consulta de instituições autorizadas. Se a empresa não aparece como instituição, confirme se ela é correspondente e quem é o banco contratante."
@@ -87,6 +87,8 @@ Veja um exemplo ilustrativo, com números fictícios, de financiamento de R$ 300
 | CET anual aproximado | 10,78% | 10,28% |
 
 Nesse caso, a proposta B tem o CET menor, porque a taxa é mais baixa e a tarifa de R$ 3.500 pesa pouco. Mas o resultado muda com a tarifa. Se a proposta B cobrasse R$ 12.000 de tarifa, o CET dela subiria para cerca de 10,66% ao ano, e a diferença para a A cairia bastante. A lição é simples: a taxa sozinha não decide. Some tudo e compare o CET de cada proposta, no mesmo prazo e para o mesmo valor financiado.
+
+O total pago também conta. No mesmo exemplo, as 360 parcelas da proposta A somam cerca de R$ 970.013, e as da proposta B, cerca de R$ 922.992. A diferença nominal é de cerca de R$ 47.020, mas ela só aparece se você somar todas as parcelas, e não apenas olhar a primeira. Prazos mais longos diminuem a parcela e aumentam bastante o total pago, por isso compare sempre no mesmo prazo.
 
 Use também o [simulador de financiamento](/simulador) para testar parcelas e prazos, e a [calculadora de quanto posso financiar](/quanto-posso-financiar) para ver o valor compatível com a sua renda. O guia sobre [CET do financiamento imobiliário](/artigos/cet-financiamento-imobiliario) explica como ler cada item da proposta.
 

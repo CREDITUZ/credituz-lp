@@ -4,7 +4,7 @@ description: "Como funciona a permuta de imóvel, quando a torna gera imposto, q
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "Permuta é a troca de um imóvel por outro bem, que pode ser outro imóvel pronto, um terreno ou uma unidade na planta. A diferença em dinheiro entre os valores é a torna."
   - "Sem torna, a leitura mais comum das análises sobre o tema é que não há ganho de capital a tributar. Com torna, o ganho sobre a parte ligada a esse dinheiro entra no IR à alíquota de 15%, até R$ 5 milhões."
