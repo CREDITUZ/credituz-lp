@@ -92,7 +92,7 @@ O Banco Central publica, toda semana, o Boletim Focus, uma pesquisa com as expec
 
 Uma parcela cabe ou não no seu orçamento com a proposta que você recebeu, não com a expectativa de juros. Se a renda comporta a parcela com folga, uma queda futura pode ser um benefício. Se ela só cabe com um corte, o risco está em você, não na taxa.
 
-## Quando a Selic pesa mais na sua decisão
+### Quando a Selic pesa mais na sua decisão
 
 A Selic importa mais em alguns casos:
 
