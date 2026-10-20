@@ -8,7 +8,7 @@ reading_minutes: 7
 key_points:
   - "Protesto é um ato registrado no tabelionato. Negativação é a inclusão do nome em cadastro de inadimplentes de um bureau. São registros diferentes que podem andar juntos."
   - "Nas páginas consultadas, nenhuma fonte diz de forma clara se o protesto, por si só, entra no cálculo do score de cada bureau."
-  - "Um protesto ativo costuma travar a análise do financiamento, porque mostra uma pendência em aberto. Cada banco decide com seus próprios critérios."
+  - "Um protesto ativo pode dificultar a análise do financiamento, porque mostra uma pendência em aberto. Cada banco decide com seus próprios critérios."
   - "Para baixar um protesto, o pedido vai ao tabelionato. A Lei 9.492/1997 não fixa prazo para esse pedido, e os custos variam por estado e cartório."
 faq:
   - q: "Protesto derruba o score?"
@@ -26,6 +26,8 @@ sources:
     url: "https://www.serasa.com.br/premium/blog/protesto-em-cartorio-impede-financiamento-confira/"
   - title: "Serasa: protesto em cartório (blog de score)"
     url: "https://www.serasa.com.br/score/blog/protesto-em-cartorio/"
+  - title: "Santander: o que é o SCR (página de blog; a página do Banco Central não abriu na checagem)"
+    url: "https://www.santander.com.br/blog/o-que-e-scr"
 related: [protesto-em-cartorio, nome-sujo-financiamento-imobiliario, limpar-nome-antes-de-financiar, certidoes-do-imovel]
 ---
 
@@ -47,13 +49,13 @@ Na prática, um protesto de dívida com loja ou prestador de serviço geralmente
 
 ## O que se sabe sobre o efeito no score
 
-A página da Serasa sobre protesto diz que o registro dificulta o acesso a outras oportunidades de crédito e que os cartórios frequentemente compartilham informações com órgãos de crédito, o que pode levar à negativação. A mesma página não diz se o protesto, por si só, entra no cálculo da nota, nem qual é o peso dele. A segunda página da Serasa consultada, também sobre protesto, não trata da pontuação.
+A página da Serasa sobre protesto diz que os cartórios frequentemente compartilham informações com órgãos de crédito, o que pode levar à negativação, e que a negativação dificulta a obtenção de crédito. A mesma página não diz se o protesto, por si só, entra no cálculo da nota, nem qual é o peso dele. A segunda página da Serasa consultada, também sobre protesto, não trata da pontuação.
 
-A conclusão honesta é esta: o protesto pode virar negativação, e a negativação é um registro que as empresas de crédito consultam. Se a nota cair por causa de um protesto, o efeito vem por esse caminho, e nenhuma fonte consultada publica um peso próprio para o protesto. Por isso, não é possível prever a queda com precisão.
+A conclusão honesta é esta: o protesto pode virar negativação, e a negativação é um registro que as empresas de crédito consultam. Nenhuma das páginas consultadas diz que o protesto, sozinho, altera a nota, e nenhuma publica um peso para ele. Se houver algum efeito sobre a nota, ele não aparece nas fontes, e não é possível estimar a sua dimensão.
 
 ## Como o banco costuma olhar o protesto no financiamento
 
-Não existe regra pública que diga que protesto veta financiamento imobiliário. A decisão é do banco. Mas, na prática, uma pendência em aberto tende a travar a aprovação, porque mostra uma dívida não resolvida no momento da análise. A Serasa diz, de modo geral, que protestos e negativações dificultam o acesso ao crédito, sem entrar no detalhe de cada modalidade.
+Não encontrei regra pública que diga que protesto veta financiamento imobiliário. A decisão é do banco. Uma pendência em aberto pode travar a análise, porque mostra uma dívida não resolvida no momento em que o banco avalia o pedido. Essa é uma leitura prática, não uma regra das fontes consultadas. A Serasa diz, de modo geral, que a negativação dificulta a obtenção de crédito, sem tratar de financiamento.
 
 Antes de pedir a análise, faça a conferência em três lugares:
 
@@ -77,13 +79,13 @@ Depois do pedido, Paula esperou a baixa e conferiu de novo a central de protesto
 
 ## O que a lei diz sobre o cancelamento
 
-A Lei 9.492/1997 trata do cancelamento no artigo 26. Pela redação consultada, o pedido é feito diretamente no tabelionato de protesto por qualquer interessado, com a apresentação do documento protestado, cuja cópia fica arquivada. O artigo não fixa prazo para esse pedido. Quando o documento não pode ser apresentado, a lei prevê outras formas, como a declaração de anuência do credor. Quando o cancelamento decorre de motivo diferente do pagamento, o procedimento pode depender de decisão judicial.
+A Lei 9.492/1997 trata do cancelamento no artigo 26. Pela redação consultada, o pedido é feito diretamente no tabelionato de protesto por qualquer interessado, com a apresentação do documento protestado, cuja cópia fica arquivada. O artigo não fixa prazo para esse pedido. Quando o documento não pode ser apresentado, a lei prevê outras formas, como a declaração de anuência do credor, com firma reconhecida (§1º). Quando o cancelamento decorre de motivo diferente do pagamento, o procedimento pode depender de decisão judicial.
 
 Esse detalhe importa porque a baixa não depende do bureau. Pagar a dívida não substitui o pedido no cartório. Quem leva o pedido ao tabelionato, com o documento e o comprovante, é quem faz a baixa acontecer.
 
-## Quando o protesto foi feito por engano
+### Quando o protesto foi feito por engano
 
-Há casos em que o protesto não é seu: homonímia, dívida já paga com outro documento ou título emitido por equívoco. O pedido de cancelamento continua sendo feito no tabelionato, mas, quando o motivo não é o pagamento, o art. 26 da Lei 9.492/1997 indica que o cancelamento pode depender de determinação judicial. Por isso, nesses casos, reúna toda a prova disponível, peça o cancelamento no cartório e procure um advogado se o registro não for baixado. O tema envolve prova e, às vezes, discussão de indenização, então não é um caminho para improvisar.
+Há casos em que o protesto não é seu: homonímia, dívida já paga com outro documento ou título emitido por equívoco. O pedido de cancelamento continua sendo feito no tabelionato, mas, quando o motivo não é o pagamento, o art. 26, §3º, da Lei 9.492/1997 indica que o cancelamento pode depender de determinação judicial. Por isso, nesses casos, reúna toda a prova disponível, peça o cancelamento no cartório e procure um advogado se o registro não for baixado. O tema envolve prova e, às vezes, discussão de indenização, então não é um caminho para improvisar.
 
 ## O que levar ao banco e ao cartório
 

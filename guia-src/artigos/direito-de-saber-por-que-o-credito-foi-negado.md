@@ -32,6 +32,8 @@ sources:
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
   - title: "Consumidor.gov.br: plataforma oficial de reclamações"
     url: "https://www.consumidor.gov.br/pages/principal/"
+  - title: "Ministério da Justiça: boletim do consumidor.gov.br de 2024 (PDF)"
+    url: "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor/defesadoconsumidor/Biblioteca/boletins-1/boletim-consumidor-gov-br-2024.pdf"
 related: [financiamento-negado, analise-de-credito-como-funciona, registrato, score-para-financiamento-imobiliario]
 ---
 
@@ -100,13 +102,13 @@ Separe dois pedidos, porque eles vão a pessoas diferentes. Um vai ao banco, sob
 
 Se o banco alegar segredo empresarial, peça que a resposta diga por escrito o que foi retido e por qual motivo.
 
-Se a resposta não vier ou for insuficiente, há três caminhos: reclamação no consumidor.gov.br, reclamação no Procon e, quando o tema for tratamento de dados, petição à ANPD (LGPD, art. 18, §1º). Para casos maiores, procure um advogado ou a Defensoria Pública.
+Se a resposta não vier ou for insuficiente, há três caminhos: reclamação no consumidor.gov.br, reclamação no Procon e, quando o tema for tratamento de dados, petição à ANPD (LGPD, art. 18, §1º). No consumidor.gov.br, a empresa tem até 10 dias para se manifestar, segundo boletim do Ministério da Justiça de 2024. Para casos maiores, procure um advogado ou a Defensoria Pública.
 
 ## Exemplo ilustrativo: a margem que o banco calcula
 
 Exemplo ilustrativo, com números redondos e uma taxa de exemplo, que não é oferta de nenhum banco. Renata tem renda comprovada de R$ 9.000 por mês. A Serasa diz que os bancos costumam aceitar parcela de até 30% da renda bruta, mas trata isso como prática de mercado, não regra oficial. Esse teto dá R$ 2.700. Renata paga R$ 1.500 em parcelas de outras dívidas, então a margem para o imóvel seria de R$ 1.200.
 
-Com esses R$ 1.200, a taxa de exemplo de 11% ao ano e um prazo de 360 meses, pela tabela Price, a parcela corresponde a um financiamento de cerca de R$ 131 mil, sem considerar cota, seguros e taxas. Se as dívidas subissem para R$ 2.100, a margem cairia para R$ 600, e o valor para cerca de R$ 66 mil.
+Com esses R$ 1.200 por mês, uma taxa de exemplo de 11% ao ano (taxa efetiva, de cerca de 0,87% ao mês) e um prazo de 360 meses, pela tabela Price, a parcela sustenta um financiamento de cerca de R$ 131 mil, sem considerar cota, seguros e taxas. Se as dívidas subissem para R$ 2.100, a margem cairia para R$ 600, e o valor para cerca de R$ 66 mil.
 
 Por isso, a pergunta útil de Renata não é só "por que negou?". É "quais dívidas e qual renda entraram na conta?". Se alguma parcela registrada não é dela, ou se a renda considerada ficou abaixo da comprovada, o pedido de critérios e a correção servem exatamente para isso.
 

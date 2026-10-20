@@ -8,7 +8,7 @@ reading_minutes: 7
 key_points:
   - "Pouca informação não é o mesmo que informação ruim, mas faz a análise depender mais da renda comprovada e dos documentos."
   - "Desde 2019, segundo a Serasa, o cadastro positivo é aberto de forma automática, e ele reúne pagamentos de empréstimos, financiamentos, compras a prazo e contas de consumo."
-  - "A Serasa diz que consolidar um histórico leva de seis a 12 meses de bons hábitos, e a regularidade pesa mais que a quantidade de contratos."
+  - "A Serasa diz que, em geral, de seis a 12 meses de bons hábitos já são suficientes, e aponta a pontualidade como o fator mais importante."
   - "Não tome empréstimo só para criar histórico: a parcela reduz o valor que você consegue financiar."
 faq:
   - q: "Quem nunca teve cartão consegue financiar imóvel?"
@@ -40,15 +40,15 @@ Se você ainda não sabe o que pesa na nota, leia [score baixo: o que fazer](/ar
 Com pouco histórico, a análise costuma olhar quatro coisas:
 
 - **Renda formal comprovada.** Carteira assinada, contracheque e extrato bancário que mostre o recebimento.
-- **Pagamentos em dia, em qualquer conta ou contrato.** O tipo de pagamento importa menos que a regularidade, desde que ele seja registrado.
+- **Pagamentos em dia, em contas ou contratos que sejam registrados.** A Serasa aponta a pontualidade como o fator mais importante.
 - **Cadastro consistente.** Nome, CPF, endereço, telefone e e-mail iguais em todos os lugares. A Serasa recomenda manter esses dados corretos na plataforma.
-- **Consistência no tempo.** Poucos meses de bons hábitos ainda são pouco. A Serasa diz que consolidar um histórico leva de seis a 12 meses de bons hábitos.
+- **Consistência no tempo.** Poucos meses de bons hábitos dizem pouco. A Serasa diz que, em geral, de seis a 12 meses de bons hábitos já são suficientes.
 
 Quando não há dívidas registradas, a nota tem pouca informação para ler, e a análise se apoia mais na renda. Nesse caso, a documentação completa pesa mais. Um cadastro organizado também facilita a conferência, porque o banco precisa cruzar nome, CPF e endereço com os documentos enviados. Para comprovar renda, veja [renda para financiar imóvel](/artigos/renda-para-financiar-imovel) e [extrato bancário como renda](/artigos/extrato-bancario-como-renda).
 
 ## O cadastro positivo é o primeiro passo
 
-O cadastro positivo, regulado pela Lei 12.414/2011, registra pagamentos em dia e também atrasos. Desde 2019, segundo a Serasa, a abertura é automática e gratuita, e o cadastro não precisa ser ativado. Ainda assim, convém confirmar se ele existe e se os dados estão corretos.
+O cadastro positivo, regulado pela Lei 12.414/2011, reúne informações de pagamento, inclusive os atrasos. Desde 2019, segundo a Serasa, a abertura é automática e gratuita, e o cadastro não precisa ser ativado. Ainda assim, convém confirmar se ele existe e se os dados estão corretos.
 
 A Serasa lista, como tipos de dado, empréstimos, financiamentos, compras a prazo e contas de consumo, citando água, luz e telefone. O aluguel não aparece entre os exemplos dela. Por isso, não conte com o aluguel como fonte de histórico sem confirmar com a empresa que recebe o pagamento.
 
@@ -64,7 +64,7 @@ Se encontrar um erro, o gestor tem até 10 dias para corrigi-lo, em todas as bas
 | Emprego formal | Renda comprovada para a análise | Cada banco tem regra própria sobre tempo de emprego |
 | Empréstimo pequeno só para "criar histórico" | Mais uma parcela e mais uma dívida | A parcela reduz o valor que você consegue financiar, e pode não compensar |
 
-A Serasa indica o cartão com garantia como porta de entrada para quem tem dificuldade com cartões tradicionais. Não é o único caminho, e nenhum deles é obrigatório.
+A Serasa recomenda solicitar cartão com garantia. Não é o único caminho, e nenhum deles é obrigatório.
 
 ## O que a Serasa recomenda e o que evitar
 
@@ -105,7 +105,7 @@ Não há um calendário oficial para criar histórico. O que se pode fazer é or
 
 **Meses cinco a oito.** Mantenha a regularidade e evite pedir novos produtos de crédito nesse período, porque cada pedido pode gerar consulta ao CPF. Se houver renda formal, organize os comprovantes desde já.
 
-**Meses nove a doze.** Consulte de novo a nota e os dados. Se os registros estiverem consistentes e a renda comprovada, a conversa com o banco fica mais concreta. Se ainda não estiverem, a espera faz parte do processo, porque a Serasa fala em seis a 12 meses de bons hábitos para consolidar um histórico.
+**Meses nove a doze.** Consulte de novo a nota e os dados. Se os registros estiverem consistentes e a renda comprovada, a conversa com o banco fica mais concreta. Se ainda não estiverem, a espera faz parte do processo, porque a Serasa diz que, em geral, de seis a 12 meses de bons hábitos já são suficientes.
 
 Esse roteiro não promete nota nem aprovação. Ele serve para dar à análise um histórico que ela possa ler.
 
@@ -123,4 +123,4 @@ Esse roteiro não promete nota nem aprovação. Ele serve para dar à análise u
 - Sem histórico não é o mesmo que histórico ruim, mas o banco depende mais da renda e dos documentos.
 - O cadastro positivo é o primeiro passo: confira se ele existe, se os dados estão certos e corrija erros.
 - Pagamentos em dia, cartão com garantia usado sem atraso e contas de consumo em nome próprio formam o histórico.
-- Consolidar leva meses. A Serasa fala em seis a 12 meses de bons hábitos.
+- Consolidar leva meses. Segundo a Serasa, em geral, de seis a 12 meses de bons hábitos já são suficientes.

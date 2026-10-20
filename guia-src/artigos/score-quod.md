@@ -8,7 +8,7 @@ reading_minutes: 7
 key_points:
   - "Não existe um score oficial único. Cada empresa de cadastro calcula a sua nota com dados e modelo próprios, então os números não são intercambiáveis."
   - "A Serasa publica faixas: Baixo (0 a 300), Regular (301 a 500), Bom (501 a 700) e Excelente (701 a 1.000)."
-  - "A Boa Vista informa escala de 1 a 1.000. O Quod aparece com escala de 0 a 1.000 em fonte secundária, sem faixas publicadas nas páginas consultadas."
+  - "A Boa Vista informa escala de 1 a 1.000. O Quod aparece com escala de 0 a 1.000 apenas em fontes secundárias, sem faixas publicadas e sem confirmação no site da empresa."
   - "Para usar a nota, leia a explicação do próprio bureau, acompanhe a mesma fonte ao longo do tempo e confira os dados que a sustentam."
 faq:
   - q: "Quod e Serasa dão o mesmo número para a mesma pessoa?"
@@ -28,6 +28,8 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm"
   - title: "iDinheiro: Cadastro Positivo Quod (publicado em 21/06/2021, atualizado em 30/06/2025)"
     url: "https://www.idinheiro.com.br/financaspessoais/cadastro-positivo-quod/"
+  - title: "PlusDin: Quod score (publicado em 20/05/2025, atualizado em 28/05/2025)"
+    url: "https://plusdin.com.br/quod-score/"
   - title: "Equifax Boa Vista: página institucional com perguntas sobre o score"
     url: "https://www.equifax.com.br/"
   - title: "Quod: site institucional"
@@ -54,8 +56,8 @@ A tabela resume o que encontrei nas páginas consultadas para este texto, em out
 | Fonte | Escala informada | Faixas com nome e intervalo | Observação |
 |---|---|---|---|
 | Serasa | 0 a 1.000 (as faixas cobrem essa escala) | Sim | Página oficial descreve o significado de cada faixa |
-| Boa Vista (Equifax) | 1 a 1.000, segundo a página institucional | Não | O menu cita o Equifax OneScore, sem explicação |
-| Quod | 0 a 1.000, segundo o iDinheiro | Não encontradas | Site institucional sem a explicação; portal de consulta não abriu |
+| Boa Vista (Equifax) | 1 a 1.000, segundo a página institucional | Não | A página diz que as contas em nome da pessoa, pagas ou não, fazem parte do cálculo |
+| Quod | 0 a 1.000, segundo fontes secundárias (iDinheiro e PlusDin) | Não encontradas | Site institucional sem a escala nem a explicação; não localizei portal de consulta público |
 | SPC Brasil | Não localizei fonte oficial | Não localizei | Confira na área do consumidor da empresa |
 
 ### Serasa: a única com faixas publicadas
@@ -69,13 +71,13 @@ A Serasa divide a escala em quatro faixas e descreve o que cada uma indica sobre
 | Bom | 501 a 700 | Boa chance de crédito e baixa probabilidade de inadimplência, com condições um pouco menos favoráveis que nas faixas mais altas |
 | Excelente | 701 a 1.000 | Chance de crédito muito alta e inadimplência extremamente baixa |
 
-Dentro de uma mesma faixa, uma variação pequena diz menos do que a passagem de uma faixa para outra. Vale olhar o nome da faixa antes de comemorar ou de se preocupar com alguns pontos.
+A página oficial da Serasa não mostra data de publicação nem de atualização. Dentro de uma mesma faixa, uma variação pequena diz menos do que a passagem de uma faixa para outra. Vale olhar o nome da faixa antes de comemorar ou de se preocupar com alguns pontos.
 
 ### Boa Vista e Quod: escala informada, faixas não encontradas
 
-A página institucional da Equifax Boa Vista informa que a pontuação geralmente varia de 1 a 1.000 e que, quanto maior, melhor. A página não traz faixas com nomes. Ela explica que a nota indica a probabilidade de a pessoa pagar as contas em dia e que todas as contas em seu nome entram no cálculo, pagas ou não. O menu cita um produto chamado Equifax OneScore, sem explicação, e este texto não trata dele.
+A página institucional da Equifax Boa Vista informa que a pontuação geralmente varia de 1 a 1.000 e que, quanto maior, melhor. A página não traz faixas com nomes. Ela explica que a nota indica a probabilidade de a pessoa pagar as contas em dia e que as contas em seu nome, pagas ou não, fazem parte do cálculo.
 
-Sobre o Quod, a fonte disponível é um texto do iDinheiro, atualizado em 30 de junho de 2025. Ele diz que o score varia de 0 a 1.000 e que notas mais altas indicam menor chance de inadimplência. O site institucional da Quod não traz essa explicação, e o portal de consulta da empresa não abriu durante a checagem. A escala precisa ser confirmada no relatório da própria Quod antes de qualquer conclusão.
+Sobre o Quod, as fontes encontradas são textos de imprensa e de blogs. O iDinheiro (publicado em 21 de junho de 2021, atualizado em 30 de junho de 2025) diz que o score varia de 0 a 1.000 e que notas mais altas indicam menor chance de inadimplência. O PlusDin (atualizado em 28 de maio de 2025) diz o mesmo, mas sem citar a origem da informação. O site institucional da Quod não traz escala nem explicação, e não localizei um portal de consulta público. A escala, portanto, não foi confirmada pela própria empresa e precisa ser conferida no relatório do Quod antes de qualquer conclusão.
 
 ### SPC Brasil
 
