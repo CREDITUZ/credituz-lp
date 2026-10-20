@@ -27,8 +27,6 @@ sources:
     url: "https://www.gov.br/susep/pt-br/arquivos/arquivos-dos-documentos-e-publicacoes/arquivos-normas-em-consulta-publica/normas-publicadas/resolucaocnsp447.pdf"
   - title: "Lei 8.742/1993, Lei Orgânica da Assistência Social, art. 20 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8742.htm"
-  - title: "Meutudo: idade máxima para financiar imóvel pela Caixa (atualizado em 09/06/2026)"
-    url: "https://meutudo.com.br/blog/idoso-pode-financiar-imovel-pela-caixa/"
 related: [fgts-aposentado, renda-composta, seguros-mip-e-dfi, home-equity-riscos]
 ---
 
@@ -45,7 +43,7 @@ O art. 38 da Lei 10.741/2003, o Estatuto da Pessoa Idosa, trata dos programas ha
 
 As unidades reservadas devem ficar, preferencialmente, no térreo. Na prática, o edital indica a reserva e a ordem de atendimento. Como em outros grupos prioritários, a prioridade depende da classificação e das unidades disponíveis, e a reserva pertence ao empreendimento, não a uma pessoa específica.
 
-Estados e municípios também podem reservar mais. O programa Pode Entrar, de São Paulo, reserva 5% das unidades para idosos, segundo o decreto de 2021.
+Estados e municípios também podem reservar mais. O programa Pode Entrar, de São Paulo, previa 5% das unidades para idosos, segundo reportagem sobre o decreto de 2021.
 
 ## O limite de idade no financiamento
 
@@ -116,7 +114,7 @@ Um prazo menor eleva a parcela, mas reduz os juros totais, e essa troca pode faz
 ## Resumo e próximos passos
 
 - O Estatuto da Pessoa Idosa (art. 38 da Lei 10.741/2003) dá prioridade e reserva mínima de 3% em programas subsidiados.
-- A soma da idade com o prazo costuma ter limite de 80 anos e 6 meses, pela regra do seguro habitacional (art. 13 da Resolução CNSP 447/2022).
+- No seguro habitacional, a soma da idade com o prazo tem como referência 80 anos e 6 meses (art. 13 da Resolução CNSP 447/2022).
 - Quanto mais velha a pessoa, menor o prazo e maior a parcela. Simule antes de escolher o imóvel, no [simulador de financiamento](/simulador).
 - Aposentadoria e pensão contam como renda. O BPC segue regras próprias.
 - Para ver o valor de imóvel que cabe na sua renda, use a [calculadora de quanto posso financiar](/quanto-posso-financiar).

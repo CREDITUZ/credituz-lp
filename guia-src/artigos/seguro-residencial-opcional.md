@@ -31,26 +31,26 @@ sources:
 related: [seguros-mip-e-dfi, sfh-e-sfi, portabilidade-financiamento-imobiliario, custos-para-comprar-imovel]
 ---
 
-No financiamento pelo Sistema Financeiro da Habitação (SFH), o seguro obrigatório é formado pelo MIP (Morte e Invalidez Permanente) e pelo DFI (Danos Físicos ao Imóvel). Esses dois seguros entram na parcela e não podem ser dispensados. O que costuma ser chamado de "seguro residencial" pelo banco, porém, pode incluir coberturas que não são obrigatórias, como a proteção do conteúdo da casa. Essas coberturas são facultativas, e você pode recusá-las. Este artigo mostra a diferença, o que a regra exige e como comparar as opções.
+No financiamento pelo Sistema Financeiro da Habitação (SFH), o seguro obrigatório é formado pelo MIP (Morte e Invalidez Permanente) e pelo DFI (Danos Físicos ao Imóvel). Esses dois seguros costumam entrar na parcela, e a norma não permite dispensá-los. O que costuma ser chamado de "seguro residencial" pelo banco, porém, pode incluir coberturas que não são obrigatórias, como a proteção do conteúdo da casa. Essas coberturas são facultativas, e você pode recusá-las. Este artigo mostra a diferença, o que a regra exige e como comparar as opções.
 
 ## O que é obrigatório
 
-A Resolução CNSP 447/2022, do Conselho Nacional de Seguros Privados e publicada pela Superintendência de Seguros Privados (Susep), é a norma atual do seguro habitacional. Ela entrou em vigor em 1º de novembro de 2022. Pelo texto consultado:
+A Resolução CNSP 447/2022, do Conselho Nacional de Seguros Privados (CNSP), publicada no Diário Oficial da União em 14/10/2022, é a norma atual do seguro habitacional. Ela entrou em vigor em 1º de novembro de 2022 (art. 43). Pelos dispositivos consultados:
 
 - O seguro de mercado deve garantir, no mínimo, o MIP e o DFI (art. 6º).
 - No Sistema de Financiamento Imobiliário (SFI), a cobertura obrigatória se limita ao MIP (art. 6º, § 2º).
-- O MIP cobre morte, natural ou acidental, e invalidez permanente (art. 7º).
+- O MIP cobre morte, por causas naturais ou acidentais, e invalidez permanente total para a atividade principal do segurado (art. 7º).
 - O DFI cobre, no mínimo, incêndio, queda de raio ou explosão, vendaval, desmoronamento ou ameaça de desmoronamento, destelhamento e inundação ou alagamento (art. 8º).
 
 Para entender as diferenças entre os dois seguros e como o valor é calculado, leia o artigo sobre [seguros MIP e DFI](/artigos/seguros-mip-e-dfi). Aqui, o foco é separar o que é obrigatório do que é facultativo.
 
-Na proposta de financiamento do BRB, de novembro de 2025, por exemplo, o MIP aparece como um valor calculado pela faixa etária e incidente sobre o saldo devedor. O DFI aparece como um valor calculado com base na avaliação de mercado do imóvel. Esses dois critérios explicam por que o MIP tende a subir com o tempo e por que um imóvel mais caro paga um DFI maior. Os valores exatos são informados pelo banco na proposta, e não há um percentual fixo nacional para comparar.
+O custo do MIP e do DFI não é um percentual fixo nesta norma, e o valor exato aparece na proposta do banco. Confira como cada um foi calculado e peça a discriminação de cada seguro antes de assinar.
 
 No SFI, a diferença aparece no próprio desenho da cobertura. A norma exige apenas o MIP. O DFI pode ser contratado, mas não é exigido por essa regra, e isso pesa na comparação entre as modalidades. Para entender a diferença entre SFH e SFI, veja o artigo sobre [SFH e SFI](/artigos/sfh-e-sfi).
 
 | Seguro | Obrigatório no SFH | Obrigatório no SFI | O que cobre |
 |---|---|---|---|
-| MIP | Sim | Sim | Morte e invalidez permanente, com quitação do saldo |
+| MIP | Sim | Sim | Morte e invalidez permanente |
 | DFI | Sim | Não | Incêndio, vendaval, desmoronamento, inundação e outros danos ao imóvel |
 | Coberturas adicionais, como conteúdo | Não | Não | Bens dentro da casa e outras proteções contratadas à parte |
 
@@ -58,7 +58,7 @@ No SFI, a diferença aparece no próprio desenho da cobertura. A norma exige ape
 
 A mesma resolução permite outras coberturas facultativas nas apólices do mercado (art. 9º). Três regras merecem atenção:
 
-- **Separação do valor.** O custo das coberturas facultativas não entra no custo efetivo do seguro habitacional obrigatório, e deve ser apresentado de forma segregada ao contratante (art. 11, parágrafo único). Ou seja, você tem direito de ver quanto custa cada cobertura.
+- **Separação do valor.** O custo das coberturas facultativas não entra no custo efetivo do seguro habitacional obrigatório, e deve ser apresentado separadamente ao proponente (art. 11, parágrafo único). Na prática, você deve conseguir ver quanto custa cada cobertura.
 - **Cobertura de conteúdo.** A indenização por perda do conteúdo do imóvel só pode existir como cobertura adicional e facultativa (art. 30, parágrafo único).
 - **Franquia e carência.** Essas condições são vedadas nas coberturas obrigatórias, mas podem existir nas facultativas (arts. 24 e 25). Por isso, a franquia aparece mais em produtos opcionais.
 

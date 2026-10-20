@@ -125,6 +125,6 @@ Se você for cobrado e não tiver contratado o corretor, siga esta ordem:
 
 ## Resumo e próximos passos
 
-Na compra de imóvel usado, a comissão do corretor costuma ser paga por quem o contratou, em geral o vendedor. O comprador só paga se assumiu essa obrigação por escrito ou se foi ele quem contratou o profissional. O valor é um percentual sobre o preço fechado, e o contrato deve dizer quem paga e quanto.
+Na compra de imóvel usado, a comissão do corretor costuma ser paga por quem o contratou, em geral o vendedor. O comprador só paga se assumiu essa obrigação por escrito ou se foi ele quem contratou o profissional. O valor costuma ser um percentual, cuja base deve constar do contrato, e o contrato deve dizer quem paga e quanto.
 
 Antes de fechar a compra, reserve o valor da comissão separadamente e confirme quem paga. Para ver os demais custos além da entrada, leia o artigo sobre [custos para comprar imóvel](/artigos/custos-para-comprar-imovel). Para estimar o financiamento, use o [simulador de financiamento](/simulador).
