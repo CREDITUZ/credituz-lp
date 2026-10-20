@@ -4,7 +4,7 @@ description: "O cheque especial é dívida cara que reduz a margem do financiame
 category: credito
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O cheque especial é um limite automático da conta corrente: quando o saldo fica negativo, o valor usado vira dívida com juros."
   - "Pela Resolução CMN 4.765/2019, art. 3º, os juros do cheque especial para pessoa física são limitados a 8% ao mês, em vigor desde 6 de janeiro de 2020."

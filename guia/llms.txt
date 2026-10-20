@@ -54,6 +54,7 @@
 ## FGTS
 - [Quanto rende o FGTS e o que isso muda na hora de comprar](https://guia.credituz.ai/artigos/rendimento-do-fgts): Quanto rende o saldo do FGTS em 2026 com TR e 3% ao ano, o efeito do lucro distribuído e por que essa taxa pesa na decisão de usar o saldo na compra.
 - [FGTS para comprar imóvel de pai, mãe, filho ou irmão](https://guia.credituz.ai/artigos/fgts-imovel-de-parente): Dá para usar o FGTS para comprar imóvel de parente? Veja a regra de moradia própria, a venda entre pai ou mãe e filho e o que confirmar antes de assinar.
+- [FGTS para comprar fração de imóvel: o que a regra permite](https://guia.credituz.ai/artigos/fgts-compra-de-fracao): Dá para usar o FGTS para comprar uma fração ideal ou a parte de um imóvel? Veja a regra de moradia, a preferência entre donos e o que confirmar no banco.
 - [Como calcular o saldo do FGTS: depósitos, correção e exemplo](https://guia.credituz.ai/artigos/calculo-fgts): Como calcular o saldo do FGTS passo a passo: o depósito de 8%, o 13º, a correção mensal pela TR e os juros de 3% ao ano, com um exemplo de três anos.
 - [Vale a pena usar o FGTS na entrada do imóvel? A conta](https://guia.credituz.ai/artigos/fgts-vale-a-pena-usar-na-entrada): Usar o FGTS na entrada costuma compensar mais que deixar o saldo rendendo, mas depende da taxa do contrato, da sua reserva e da proteção do saldo.
 - [Saque-aniversário e financiamento: dá para usar o FGTS no imóvel?](https://guia.credituz.ai/artigos/saque-aniversario-e-financiamento): Quem aderiu ao saque-aniversário pode usar o FGTS na compra e no financiamento do imóvel. Veja o que fica bloqueado e as regras de antecipação de 2026.
@@ -239,6 +240,8 @@
 - [Airbnb ou aluguel tradicional: retorno, IR e regras do condomínio](https://guia.credituz.ai/artigos/airbnb-x-aluguel-tradicional): Compare Airbnb e aluguel tradicional com números: taxa da plataforma, custos, imposto de renda de 2026 no carnê-leão e a proibição que o condomínio pode impor.
 
 ## Seus direitos
+- [Preferência do inquilino na venda: 30 dias para responder](https://guia.credituz.ai/artigos/direito-de-preferencia-do-inquilino): Se o dono vender o imóvel alugado, o inquilino tem 30 dias para aceitar a proposta por inteiro. Veja o que a notificação deve trazer e como responder.
+- [Imóvel com mais de um dono: venda, outorga e preferência](https://guia.credituz.ai/artigos/coproprietario-venda-de-imovel): Cada dono pode vender a sua fração, mas os outros têm preferência pelo mesmo preço. Veja a regra do Código Civil, a outorga do cônjuge e a divisão de custos.
 - [Vícios construtivos: garantia, prazos e como reclamar](https://guia.credituz.ai/artigos/vicios-construtivos): Defeitos no imóvel novo: a garantia de 5 anos do Código Civil, os prazos do CDC para vícios aparentes e ocultos e o passo a passo para cobrar o reparo.
 - [Vistoria de entrega de chaves: checklist e seus direitos](https://guia.credituz.ai/artigos/vistoria-de-entrega-de-chaves): Como fazer a vistoria do imóvel novo antes de pegar as chaves: o que levar, checklist por item, como preencher o termo com ressalvas e o que pagar depois.
 - [Usucapião de imóvel: modalidades, prazos e requisitos](https://guia.credituz.ai/artigos/usucapiao): Usucapião de imóvel: as modalidades do Código Civil, prazos de 2 a 15 anos, requisitos de posse e moradia e o caminho extrajudicial no cartório. Visão geral.

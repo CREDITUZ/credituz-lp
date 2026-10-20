@@ -4,7 +4,7 @@ description: "Quanto custa o dinheiro para reformar um imóvel já comprado: jur
 category: credito
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 9
+reading_minutes: 8
 key_points:
   - "O custo do crédito depende da taxa, do prazo e de quando o dinheiro é liberado. Valor liberado de uma vez rende juros desde o primeiro dia, mesmo sem uso."
   - "Em um exemplo ilustrativo, liberar R$ 40 mil em três etapas, em vez de tudo no início, reduziu os juros até o quarto mês em cerca de R$ 1.450."

@@ -4,7 +4,7 @@ description: "O saldo do rotativo é informado todo mês ao SCR e pode pesar no 
 category: credito
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 8
+reading_minutes: 7
 key_points:
   - "O rotativo é a parte da fatura que sobra sem pagamento total, com juros até o fim do mês, e vai ao SCR como operação de crédito, na modalidade 0204."
   - "A taxa média anual do rotativo foi de 444,9% em agosto de 2026, segundo o Banco Central, conforme noticiado em 29/09/2026."
