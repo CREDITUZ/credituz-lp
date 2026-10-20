@@ -8,12 +8,12 @@ reading_minutes: 8
 key_points:
   - "Parte do dinheiro do financiamento imobiliário tradicional (SBPE) vem da poupança, porque os bancos são obrigados a direcionar uma fatia do saldo para crédito imobiliário."
   - "Desde a Lei 12.703/2012, o rendimento da poupança depende da Selic: com a Selic acima de 8,5% ao ano, o rendimento é 0,5% ao mês mais TR."
-  - "Com a Selic em 13,75% ao ano, desde 16/09/2026, a poupança rende 0,5% ao mês mais TR, cerca de 6,17% ao ano antes da TR."
+  - "Com a Selic em 13,75% ao ano, desde 16/09/2026, a poupança rende 0,5% ao mês mais TR, cerca de 6,17% ao ano em juros compostos, antes da TR."
   - "Um rendimento mais baixo da poupança tende a reduzir a captação, o que aperta a oferta de crédito imobiliário com esse dinheiro."
   - "Para o comprador, o que pesa é o custo final do contrato, não o rendimento da poupança. A regra nova de direcionamento começa a valer a partir de 2027."
 faq:
   - q: "A poupança paga quanto hoje?"
-    a: "Com a Selic acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais TR. Com a Selic em 13,75% ao ano, isso equivale a cerca de 6,17% ao ano antes da TR, que é variável e divulgada pelo Banco Central."
+    a: "Com a Selic acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais TR. Com a Selic em 13,75% ao ano, isso equivale a cerca de 6,17% ao ano em juros compostos, antes da TR, que é variável e divulgada pelo Banco Central."
   - q: "Quanto da poupança o banco precisa emprestar para imóveis?"
     a: "Pela regra usada como referência em outubro de 2026, cerca de 65% do saldo deve ser direcionado ao crédito imobiliário, 20% fica no compulsório do Banco Central e 15% é de livre aplicação. O novo modelo amplia esse direcionamento a partir de 2027."
   - q: "Se a poupança rende pouco, o financiamento fica mais barato?"
@@ -52,14 +52,14 @@ O crédito imobiliário que sai desse direcionamento é o SBPE, o sistema de fin
 
 ## A regra do rendimento: Lei 12.703/2012
 
-A forma como a poupança rende é definida pela Lei 12.703, de 7 de agosto de 2012, publicada no Diário Oficial de 8 de agosto de 2012. O texto do artigo 1º fixa duas situações:
+A forma como a poupança rende é definida pela Lei 12.703, de 7 de agosto de 2012, publicada no Diário Oficial de 8 de agosto de 2012. O artigo 1º da lei, que reescreve o artigo 12 da Lei 8.177/1991, fixa duas situações para a remuneração adicional, somada à TR:
 
 - Enquanto a meta da Selic ao ano for superior a 8,5%, a poupança rende 0,5% ao mês, mais a TR.
 - Nos demais casos, a poupança rende 70% da meta da Selic ao ano, mais a TR.
 
 A TR (Taxa Referencial) é um índice calculado pelo Banco Central e entra nas duas situações. Ela é o outro componente do rendimento e, nos financiamentos com recursos da poupança, também corrige o saldo devedor. Se quiser entender como ela pesa no contrato, veja o [guia sobre a TR no financiamento](/artigos/tr-no-financiamento).
 
-Na prática, a regra faz a poupança andar com a Selic. Quando os juros sobem, a poupança fica com rendimento fixo de 0,5% ao mês. Quando caem abaixo do limite, o rendimento passa a acompanhar 70% da Selic. Em dezembro de 2021, a Selic ultrapassou 8,5% e a poupança voltou à regra de TR mais 0,5% ao mês, segundo a reportagem publicada pela Mais Retorno na época.
+Na prática, a regra faz a poupança andar com a Selic. Quando os juros sobem, a poupança fica com rendimento fixo de 0,5% ao mês. Quando caem abaixo do limite, o rendimento passa a acompanhar 70% da Selic. Em dezembro de 2021, com a Selic a 9,25% ao ano, a poupança voltou à regra de 0,5% ao mês mais TR, segundo a imprensa da época (Mais Retorno e CUT, em 09/12/2021).
 
 ## Quanto rende a poupança em cada cenário
 
@@ -74,13 +74,13 @@ A tabela abaixo mostra o rendimento anual antes da TR. São cálculos ilustrativ
 
 O salto entre 8,50% e 8,60% mostra por que a regra interessa: encostar no limite muda o cálculo. Com a Selic em 13,75% ao ano, definida pelo Copom em 16 de setembro de 2026, o rendimento antes da TR é de cerca de 6,17% ao ano, que é o equivalente anual de 0,5% ao mês. Somada a TR, a conta fecha no rendimento final.
 
-A reportagem da Mais Retorno lembra ainda que contas abertas antes de maio de 2012 seguem outra regra. Se você tem poupança antiga, confirme a regra da sua conta com o banco.
+A lei também trata de forma diferente os depósitos feitos até a MP 567, de 3 de maio de 2012, e os feitos a partir de 4 de maio de 2012 (arts. 2º e 3º). Se você tem poupança antiga, confirme com o banco qual regra se aplica ao seu saldo.
 
 ## Por que a poupança perde atratividade
 
-Quando outros investimentos ficam mais atraentes, o dinheiro sai da poupança. Em entrevista ao InfoMoney, em outubro de 2025, o presidente do Banco Central, Gabriel Galípolo, disse que o crédito imobiliário brasileiro depende muito da poupança, que rende menos que outros produtos, e que a atratividade dela tende a cair à medida que as pessoas acessam outras aplicações. Na mesma reportagem, ele tratou a queda como uma tendência, não como um evento isolado.
+Quando outros investimentos ficam mais atraentes, o dinheiro sai da poupança. Em apresentação em São Paulo, em 10/10/2025, segundo o InfoMoney, o presidente do Banco Central, Gabriel Galípolo, afirmou que o crédito imobiliário depende fortemente da poupança e que "é normal que a atratividade da poupança vá caindo". A reportagem associa isso a um rendimento inferior ao de outros produtos financeiros.
 
-Se a captação da poupança cai, a base de recursos do crédito imobiliário encolhe. É por isso que o assunto aparece em propostas de mudança. O governo e o Banco Central anunciaram, em 10 de outubro de 2025, um novo modelo de financiamento que mexe justamente nessa base.
+Se a captação da poupança cai, a base de recursos do crédito imobiliário encolhe. É por isso que o assunto aparece em propostas de mudança. O CMN e o Banco Central anunciaram, em 10 de outubro de 2025, um novo modelo de financiamento que mexe justamente nessa base.
 
 ## O que a ligação com a Selic significa para o comprador
 
@@ -112,13 +112,13 @@ Esses quatro pontos ajudam a comparar duas propostas que parecem iguais no papel
 
 ## O que muda a partir de 2027
 
-Pelo texto divulgado pelo Banco Central em outubro de 2025, o novo modelo amplia o direcionamento do saldo da poupança para crédito imobiliário. A fonte da Legismap indica que a mudança passa a valer a partir de 2027, com transição. A análise da FGV IBRE descreve que, ao fim da transição, todo o saldo da poupança seria direcionado ao imóvel, com a dedução do compulsório crescendo a partir de 2027. Essa parte é técnica e ainda será ajustada, por isso o detalhe fica para o guia sobre o [novo modelo de crédito imobiliário](/artigos/novo-modelo-credito-imobiliario).
+Pelas fontes consultadas, o novo modelo, divulgado pelo CMN e pelo Banco Central em outubro de 2025, amplia o direcionamento do saldo da poupança para crédito imobiliário. A fonte da Legismap indica que a mudança passa a valer a partir de 2027, com transição. A análise da FGV IBRE descreve que, ao fim da transição, todo o saldo da poupança seria direcionado ao imóvel, com a dedução do compulsório crescendo a partir de 2027. Essa parte é técnica e ainda será ajustada, por isso o detalhe fica para o guia sobre o [novo modelo de crédito imobiliário](/artigos/novo-modelo-credito-imobiliario).
 
 ## Resumo
 
 - A poupança financia parte do crédito imobiliário tradicional, porque parte do saldo é direcionada a imóveis.
 - A Lei 12.703/2012 liga o rendimento da poupança à Selic. Com a Selic acima de 8,5% ao ano, o rendimento é 0,5% ao mês mais TR.
-- Com a Selic em 13,75% ao ano, desde 16/09/2026, a poupança rende cerca de 6,17% ao ano antes da TR.
+- Com a Selic em 13,75% ao ano, desde 16/09/2026, a poupança rende cerca de 6,17% ao ano em juros compostos, antes da TR.
 - A taxa do seu financiamento depende do custo do banco e do seu perfil, não do rendimento da poupança.
 - Compare propostas pelo CET e entenda como a TR corrige o seu saldo.
 

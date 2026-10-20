@@ -7,10 +7,10 @@ updated: 2026-10-20
 reading_minutes: 8
 key_points:
   - "Além do federal e do municipal, quase todo estado tem uma secretaria ou companhia de habitação com programas próprios, e cada um tem regras diferentes."
-  - "A Lei 11.124/2005 manda que estados que aderem ao sistema nacional de habitação criem fundo e conselho de habitação próprios."
+  - "A Lei 11.124/2005 exige que os estados que aderem ao sistema nacional de habitação tenham fundo e conselho de habitação próprios."
   - "Os estados costumam oferecer subsídio de entrada, unidades construídas pelo poder público ou apoio à regularização, e muitos combinam o benefício com o Minha Casa Minha Vida."
   - "Renda, residência no estado, CadÚnico e não ter imóvel são os requisitos que mais aparecem, mas o valor e a faixa mudam de um programa para outro."
-  - "Inscrever-se em programa estadual é de graça e pela plataforma oficial. Quem cobra para garantir vaga está tentando aplicar golpe."
+  - "Confirme no canal oficial do estado se a inscrição tem custo. Quem cobra para garantir vaga ou prioridade merece desconfiança."
 faq:
   - q: "Todo estado tem programa de moradia?"
     a: "Na prática, sim, porque a política habitacional tem a participação dos estados. A forma varia: alguns têm companhia própria, outros uma secretaria que coordena programas, e o nome muda de um estado para outro."
@@ -34,9 +34,9 @@ Quase todo estado tem programa de moradia próprio, além do federal e do munici
 
 ## Por que o estado tem programa próprio
 
-A habitação no Brasil é dividida entre União, estados e municípios. A Lei 11.124, de 16 de junho de 2005, criou o Sistema Nacional de Habitação de Interesse Social (SNHIS) e o fundo nacional que o alimenta. A lei diz que as políticas federal, estadual, do Distrito Federal e municipal devem ser compatíveis e integradas (art. 4º).
+A habitação no Brasil é dividida entre União, estados e municípios. A Lei 11.124, de 16 de junho de 2005, criou o Sistema Nacional de Habitação de Interesse Social (SNHIS) e o fundo nacional que o alimenta. A lei diz que as políticas federal, estadual, do Distrito Federal e municipal devem ser compatíveis e integradas (art. 4º, I, a).
 
-Para receber recursos federais por esse sistema, o estado precisa cumprir uma série de exigências. Pelo art. 12, ele deve criar um fundo de habitação de interesse social com orçamento próprio e um conselho de habitação com participação pública e privada, e assinar um termo de adesão ao SNHIS. As transferências federais também dependem de contrapartida do estado. Isso explica por que quase todo estado acaba com uma companhia, uma secretaria ou um fundo dedicado a moradia. O art. 17 ainda diz que os estados que aderem ao sistema devem atuar como articuladores, integrando os planos municipais.
+Para receber recursos federais por esse sistema, o estado precisa cumprir uma série de exigências. Pelo art. 12, incisos I, II e IV, o estado deve constituir fundo com dotação orçamentária própria, constituir conselho com participação de entidades públicas e privadas e firmar termo de adesão ao SNHIS. Pelo § 1º, as transferências federais ficam condicionadas ao oferecimento de contrapartida do estado. Isso ajuda a explicar por que quase todo estado acaba com uma companhia, uma secretaria ou um fundo dedicado a moradia. O art. 17 diz que os estados que aderem ao sistema devem atuar como articuladores das ações habitacionais no seu território, promovendo a integração dos planos habitacionais dos municípios.
 
 Na prática, o programa estadual pode ser de três tipos: recursos próprios do estado, dinheiro federal repassado pelo estado ou uma combinação dos dois. Por isso, o nome do programa pode mudar de uma gestão para outra, mesmo com a mesma função.
 
@@ -53,16 +53,16 @@ O formato mais comum hoje é o benefício de entrada combinado com o financiamen
 
 ## Exemplo real: Casa Fácil, no Paraná
 
-A Agência Estadual de Notícias do Paraná divulgou, em 24 de março de 2025, o Casa Fácil Paraná. Pela reportagem, o programa paga um benefício de R$ 20 mil por família, tratado como subsídio para a entrada do imóvel. O dinheiro vai direto ao banco e pode cobrir toda a entrada ou parte dela, o que também reduz a parcela.
+A Agência Estadual de Notícias do Paraná divulgou, em 24 de março de 2025, o Casa Fácil Paraná. Pela reportagem, o programa paga um benefício de R$ 20 mil por família, tratado como subsídio para a entrada do imóvel. O dinheiro é transferido diretamente ao banco e reduz a entrada que a família precisaria pagar.
 
 Segundo a mesma reportagem, os requisitos incluíam:
 
-- renda familiar de até quatro salários mínimos, que a matéria converteu para R$ 6.072;
+- renda mensal de até quatro salários mínimos, que a reportagem de março de 2025 converteu para R$ 6.072 na época;
 - não ser proprietário de imóvel;
 - não ter participado antes de outros projetos habitacionais públicos;
 - passar pela análise de crédito da Caixa, que verifica restrições e financiamentos ativos.
 
-A reportagem descreve o caminho assim: a família faz o cadastro no site da Cohapar (Companhia de Habitação do Paraná), recebe um comprovante de cadastro de interessado, leva o comprovante à construtora para negociar o imóvel e espera a análise da Cohapar e a aprovação de financiamento pela Caixa. O cadastro, segundo a matéria, vale por dois anos e precisa ser mantido atualizado.
+A reportagem descreve o caminho assim: a família faz o cadastro no site da Cohapar (Companhia de Habitação do Paraná), leva o comprovante à construtora para negociar o imóvel e espera a análise da Cohapar e a aprovação de financiamento pela Caixa. O cadastro, segundo a matéria, vale por dois anos e precisa ser mantido atualizado.
 
 Atenção: a notícia é de março de 2025, e a renda de quatro salários mínimos muda quando o salário mínimo muda. Antes de se cadastrar, confirme no site da Cohapar as regras em vigor, o valor do benefício e a renda máxima.
 
@@ -84,10 +84,10 @@ Os critérios se repetem em boa parte dos estados, mas o valor de cada um muda:
 - **Residência.** Muitos pedem morar no estado ou no município há certo tempo, comprovado por documento.
 - **CadÚnico.** Costuma ser exigido com dados atualizados até uma data de corte.
 - **Não ter imóvel.** Quase sempre há restrição a quem já é dono de imóvel residencial.
-- **Benefício anterior.** Quem já recebeu benefício habitacional do governo, federal ou estadual, pode ficar fora. A Medida Provisória 1.382, de 1º de agosto de 2026, reforça essa restrição no programa federal, segundo o texto do Senado sobre a MP.
+- **Benefício anterior.** Quem já recebeu benefício habitacional federal pode ficar fora. A Medida Provisória 1.382, de 1º de agosto de 2026, proíbe subsídios a quem já recebeu benefícios semelhantes de recursos federais, segundo o texto da MP (art. 7º).
 - **Situação de crédito.** Restrição no nome ou dívida ativa pode barrar a análise do banco ou da companhia.
 
-A inscrição em cadastro habitacional não é o mesmo que ser contemplado. Uma reportagem de 5 de setembro de 2026 sobre seleções do Minha Casa Minha Vida em seis estados lembra que o cadastro "não garante o recebimento do apartamento", e que o município faz a triagem, depois vem a checagem de requisitos. Programas estaduais podem seguir lógica parecida, mas o edital do seu estado é que define as regras.
+A inscrição em cadastro habitacional não é o mesmo que ser contemplado. Uma reportagem do O Povo, de 5 de setembro de 2026, sobre seleções do Minha Casa Minha Vida em seis estados lembra que o cadastro "não garante o recebimento do apartamento" e que cada município avalia a renda antes de confirmar a seleção. Programas estaduais podem seguir lógica parecida, mas o edital do seu estado é que define as regras.
 
 ## O que perguntar no órgão estadual
 
@@ -104,7 +104,7 @@ Anote as respostas e o número do protocolo. Se o atendente disser algo diferent
 
 ## Erros comuns e cuidados
 
-- **Pagar para entrar na lista.** A inscrição em programa público não deve ter custo. Desconfie de quem cobra taxa para garantir vaga ou prioridade.
+- **Pagar para entrar na lista.** Desconfie de quem cobra taxa para garantir vaga ou prioridade. Confirme no edital ou no canal oficial se a inscrição tem algum custo.
 - **Usar a regra de outro estado.** Renda, prazo de residência e valor do benefício são locais.
 - **Confiar em post antigo.** Redes sociais repetem editais vencidos. Use a página oficial e a data de publicação.
 - **Achar que o benefício estadual dispensa o banco.** Na maior parte dos casos ele entra no financiamento, e o banco ainda analisa renda e crédito.
@@ -129,6 +129,6 @@ Como o benefício entra na entrada, o valor financiado pode não mudar, e a dife
 - A Lei 11.124/2005 estrutura o sistema: estados aderentes precisam de fundo, conselho e termo de adesão.
 - Os tipos mais comuns são construção pelo estado, benefício de entrada e subsídio somado ao Minha Casa Minha Vida.
 - Os requisitos de renda, residência, CadÚnico e não ter imóvel aparecem em quase todos, mas os números mudam.
-- Inscrição não é contemplação, e cadastro é gratuito.
+- Inscrição não é contemplação, e o custo da inscrição deve ser confirmado no canal oficial.
 
 Valores e critérios mudam com frequência, então confirme no canal oficial do seu estado antes de agir. Para ver o quanto cabe no seu orçamento, use a [calculadora de quanto posso financiar](/quanto-posso-financiar) ou o [simulador de financiamento](/simulador).

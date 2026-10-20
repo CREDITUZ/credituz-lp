@@ -15,17 +15,17 @@ faq:
   - q: "Seguro MIP e DFI são obrigatórios?"
     a: "Sim, no financiamento habitacional. A Caixa informa que os dois são obrigatórios e não podem ser dispensados. O MIP acompanha o saldo devedor e a faixa etária de quem financia, e o DFI segue o valor de avaliação do imóvel."
   - q: "Quanto reservar por ano para manutenção?"
-    a: "Não existe índice oficial. Uma premissa usada no planejamento é reservar entre 0,5% e 1% do valor do imóvel por ano. Ajuste pela idade do prédio e pelo estado do imóvel."
+    a: "Não existe índice oficial. Este guia usa como premissa reservar entre 0,5% e 1% do valor do imóvel por ano. Ajuste pela idade do prédio e pelo estado do imóvel."
   - q: "Se o vendedor deixou condomínio atrasado, o débito passa para mim?"
     a: "Pelo artigo 1.345 do Código Civil, o adquirente de unidade responde pelos débitos do antigo dono com o condomínio, inclusive multas e juros. Peça a declaração de quitação antes de assinar."
   - q: "O IPTU pode subir sem o imóvel mudar?"
     a: "Pode. O valor venal é atualizado pela prefeitura, e a alíquota é fixada em lei municipal. Compare os carnês dos últimos anos para entender a variação."
 sources:
-  - title: "Código Civil, artigos 1.336 e 1.345 (texto reproduzido no Sindiconet)"
+  - title: "Código Civil, artigo 1.336 (texto reproduzido no Sindiconet)"
     url: "https://www.sindiconet.com.br/informese/direitos-e-deveres-do-condomino-art-1335-e1336-legislacao-codigo-civil-capitulo-sobre-condominios/amp"
   - title: "Código Civil, Lei 10.406/2002 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
-  - title: "Código Tributário Nacional, Lei 5.172/1966, artigos 32 e 130 (Planalto)"
+  - title: "Código Tributário Nacional, Lei 5.172/1966, artigos 32, 33 e 130 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
   - title: "Caixa: perguntas frequentes sobre novos financiamentos (seguros MIP e DFI)"
     url: "https://www.caixa.gov.br/voce/habitacao/perguntas-frequentes-novos-financiamentos/Paginas/default.aspx"
@@ -51,11 +51,11 @@ As premissas do exemplo são estas: valor venal de R$ 400.000, alíquota de IPTU
 
 ## IPTU: a conta é simples, o vencimento muda
 
-O IPTU (Imposto Predial e Territorial Urbano) é um imposto municipal. O Código Tributário Nacional, no artigo 32, diz que a competência é do município, e a lei municipal define a alíquota. O imposto é calculado pela multiplicação do valor venal do imóvel pela alíquota. O valor venal é a estimativa da prefeitura, e não o preço que você pagou.
+O IPTU (Imposto Predial e Territorial Urbano) é um imposto municipal. O Código Tributário Nacional, no artigo 32, diz que a competência é do município, e a alíquota é fixada pela lei municipal. Pelo artigo 33 do mesmo código, a base de cálculo é o valor venal do imóvel, que é a estimativa usada pela prefeitura e não o preço que você pagou. O imposto é calculado pela multiplicação do valor venal pela alíquota.
 
 Na conta de exemplo, um valor venal de R$ 400.000 com alíquota de 0,7% resulta em R$ 2.800 por ano, ou cerca de R$ 233 por mês. Essa é uma conta ilustrativa. Para o seu imóvel, a alíquota está na lei municipal e o valor venal está no cadastro da prefeitura.
 
-Duas coisas valem a atenção. A primeira é que a dívida de IPTU acompanha o imóvel. O artigo 130 do Código Tributário Nacional diz que os créditos sobre o imóvel passam ao adquirente, a não ser que o título comprove a quitação. A segunda é o cadastro. Depois do registro, peça a atualização do nome do proprietário na prefeitura, para o carnê chegar a você. O [artigo sobre IPTU](/artigos/iptu-como-funciona) trata de vencimentos e da divisão do ano da compra.
+Duas coisas valem a atenção. A primeira é que a dívida de IPTU acompanha o imóvel. O artigo 130 do Código Tributário Nacional diz que os impostos sobre o imóvel passam ao adquirente, salvo quando conste do título a prova de quitação. A segunda é o cadastro. Depois do registro, peça a atualização do nome do proprietário na prefeitura, para o carnê chegar a você. O [artigo sobre IPTU](/artigos/iptu-como-funciona) trata de vencimentos e da divisão do ano da compra.
 
 ## Condomínio: a cota segue a fração ideal
 
@@ -67,10 +67,10 @@ Para o comprador, o cuidado mais importante é a dívida anterior. O artigo 1.34
 
 ## Seguros MIP e DFI: o valor vem do contrato
 
-Os seguros são obrigatórios no financiamento habitacional, e entram na parcela. A Caixa, na página de perguntas frequentes sobre novos financiamentos, descreve os dois da seguinte forma.
+Os seguros são obrigatórios no financiamento habitacional, e entram na parcela. A Caixa, na página de perguntas frequentes sobre novos financiamentos (sem data de atualização), descreve os dois da seguinte forma.
 
-- **MIP (Morte e Invalidez Permanente).** Cobre o risco pessoal de morte ou invalidez de quem financia. O prêmio é calculado sobre o valor do financiamento, varia conforme a faixa etária de cada participante e acompanha o saldo devedor ao longo do contrato.
-- **DFI (Danos Físicos ao Imóvel).** Cobre danos físicos ao imóvel. O prêmio é uma taxa sobre o valor de avaliação, e a garantia é atualizada durante o contrato.
+- **MIP (Morte e Invalidez Permanente).** Cobre o risco pessoal de morte ou invalidez de quem financia. Segundo a Caixa, o prêmio varia conforme a faixa etária dos participantes, e o valor segurado acompanha o saldo devedor ao longo do contrato.
+- **DFI (Danos Físicos ao Imóvel).** Cobre danos físicos ao imóvel. Segundo a Caixa, o prêmio é uma taxa sobre o valor de avaliação do imóvel, e o valor segurado é o valor atualizado da garantia durante o contrato.
 
 Como o valor depende de taxas da apólice, a tabela deixa o seguro como "não estimado". Para saber quanto custa, veja a linha do seguro na proposta e a apólice. Ao comparar propostas, compare o seguro junto com o CET, porque ele entra no custo total. O [artigo sobre seguros MIP e DFI](/artigos/seguros-mip-e-dfi) mostra como ler as duas linhas.
 
@@ -78,7 +78,7 @@ Como o valor depende de taxas da apólice, a tabela deixa o seguro como "não es
 
 A manutenção não tem valor fixo. Pintura, troca de torneira, conserto de tomada, impermeabilização e reparo de piso podem aparecer em qualquer ano, e alguns custos são grandes e de uma só vez. A saída mais simples é uma reserva mensal.
 
-Não existe índice oficial para esse cálculo. A premissa usada no planejamento financeiro é reservar entre 0,5% e 1% do valor do imóvel por ano. Para um imóvel de R$ 500.000, isso dá entre R$ 2.500 e R$ 5.000 por ano, ou entre R$ 208 e R$ 417 por mês. Prédios mais antigos tendem a pedir mais, e imóveis novos com garantia de construtora podem pedir menos no início.
+Não há índice oficial para esse cálculo. Este guia usa como premissa reservar entre 0,5% e 1% do valor do imóvel por ano, sem fonte oficial. Para um imóvel de R$ 500.000, isso dá entre R$ 2.500 e R$ 5.000 por ano, ou entre R$ 208 e R$ 417 por mês. Prédios mais antigos tendem a pedir mais, e imóveis novos com garantia de construtora podem pedir menos no início.
 
 Uma forma prática de montar a reserva é separar uma conta só para isso, com um valor mensal fixo. Se o ano passar sem gastos, o dinheiro acumulado serve para a próxima reforma ou para amortizar parte do saldo.
 

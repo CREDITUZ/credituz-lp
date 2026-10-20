@@ -166,7 +166,7 @@
 - [Análise de crédito do financiamento: etapas, prazos e critérios](https://guia.credituz.ai/artigos/analise-de-credito-como-funciona): Como funciona a análise de crédito do financiamento imobiliário: as etapas, o que o banco avalia (cadastro, renda, SCR, score, imóvel), prazos e por que demora.
 
 ## Custos e documentos
-- [IOF no financiamento imobiliário: quando incide e como aparece](https://guia.credituz.ai/artigos/iof-no-financiamento-imobiliario): Em regra, o financiamento de moradia não paga IOF para pessoa física. Veja quando o imposto incide, a alíquota vigente, o cálculo e onde conferir no contrato.
+- [IOF no financiamento imobiliário: quando incide e como aparece](https://guia.credituz.ai/artigos/iof-no-financiamento-imobiliario): Em regra, o financiamento de moradia não paga IOF para pessoa física. Veja quando incide, as alíquotas de referência, o cálculo e onde conferir no contrato.
 - [Custo de mudança e mobília depois da compra do imóvel](https://guia.credituz.ai/artigos/custo-de-mudanca-e-mobilia): Como estimar o custo de mudar e mobiliar o imóvel comprado: frete, equipe, seguro, móveis e montagem, com método de orçamento e uma faixa de preço de 2020.
 - [Custo de manter imóvel financiado: IPTU, condomínio e seguro](https://guia.credituz.ai/artigos/custo-de-manter-imovel-financiado): Quanto custa manter um imóvel financiado depois da compra: IPTU, condomínio, seguros MIP e DFI e manutenção, com tabela mensal e anual de exemplo.
 - [Taxa de avaliação do imóvel: quanto cada banco cobra e quando](https://guia.credituz.ai/artigos/taxa-de-avaliacao-do-imovel): Quanto custa a taxa de avaliação do imóvel, valores publicados por Itaú e BRB, quando ela é paga e em que casos o banco não pode cobrar a tarifa.

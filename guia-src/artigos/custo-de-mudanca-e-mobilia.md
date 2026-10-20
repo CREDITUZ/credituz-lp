@@ -62,9 +62,9 @@ Desconfie de um orçamento muito abaixo dos outros. Em geral, algum item ficou d
 
 ## A única faixa pública encontrada, e por que ela não basta
 
-Em dezembro de 2020, um portal de notícias contábeis publicou uma pesquisa feita com cerca de 12 empresas de mudança em São Paulo, usando cotações de dois sites de intermediação. A faixa encontrada para um apartamento de cerca de 60 m², com um trajeto de aproximadamente 12 km, foi de R$ 1.261 a R$ 2.490, incluindo embalagem, carregamento e descarregamento. A reportagem atribuiu a variação, sobretudo, à disponibilidade de equipe e de caminhão na data escolhida, e ao tipo de embalagem.
+Em dezembro de 2020, um portal de notícias contábeis publicou uma pesquisa com cerca de 12 empresas de mudança em São Paulo. A faixa encontrada para um apartamento de cerca de 60 m², com um trajeto de aproximadamente 12 km, foi de R$ 1.261 a R$ 2.490, incluindo embalagem, carregamento e descarregamento. Segundo a reportagem, a variação vem sobretudo da mão de obra de cada empresa e da disponibilidade dela na data estipulada.
 
-Esse dado tem três limites. Tem mais de cinco anos, não foi atualizado para 2026, e não traz a metodologia completa, como o número de empresas por faixa de preço ou o que cada faixa cobria em volume. Use como uma ideia de ordem de grandeza na conversa com o orçamento, e nunca como o valor que você vai pagar. Se o seu imóvel tem mais caixas, mais andares ou um trajeto maior, a conta muda.
+Esse dado tem três limites. Tem mais de cinco anos, não encontrei atualização para 2026, e não traz a metodologia completa, como o número de empresas por faixa de preço ou o que cada faixa cobria em volume. Use como uma ideia de ordem de grandeza na conversa com o orçamento, e nunca como o valor que você vai pagar. Se o seu imóvel tem mais caixas, mais andares ou um trajeto maior, a conta muda.
 
 ## Mobília: monte uma lista por cômodo
 

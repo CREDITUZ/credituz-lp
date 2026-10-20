@@ -36,7 +36,7 @@ A Selic não é a taxa do seu financiamento. Ela é a taxa básica de juros da e
 
 A Selic é a taxa de juros que o Banco Central usa como principal instrumento de política monetária. O Copom se reúne em datas programadas e decide se a taxa sobe, cai ou fica igual. Em 16 de setembro de 2026, a Selic passou de 14% para 13,75% ao ano. Foi o quinto corte seguido no ciclo, com redução de 0,25 ponto percentual, segundo a Economic News Brasil.
 
-A próxima reunião, segundo a mesma fonte, estava prevista para novembro de 2026, depois das eleições. A data exata deve ser conferida no calendário publicado pelo Banco Central.
+A próxima reunião está prevista para 3 e 4 de novembro de 2026, segundo o calendário de 2026 divulgado pelo Banco Central e reproduzido pela B3 (Bora Investir). Confira a data no site do BC antes de usá-la.
 
 Para o consumidor, a Selic importa porque muda o preço do dinheiro na economia. Quando ela sobe, as taxas de mercado tendem a subir. Quando cai, a tendência é de queda, mas o movimento é gradual e depende de expectativas, da inflação e das condições de crédito.
 
@@ -50,17 +50,17 @@ A relação entre a Selic e o seu financiamento passa por algumas etapas:
 4. **Taxa do contrato.** A taxa final sai dessa soma, ajustada pelo perfil de risco, pelo prazo e pelo valor financiado.
 5. **Parcela.** Com a taxa definida, a parcela depende do sistema de amortização (SAC ou Price) e do prazo.
 
-Em cada etapa, a Selic entra como um dos fatores, não como o único. Por isso, a B3, em texto sobre o tema, descreve a Selic como a referência para as outras taxas de juros do país, com efeito indireto sobre o financiamento. A Selic de curto prazo também não é a taxa de longo prazo, que é a que mais importa para um contrato de 20 ou 30 anos.
+Em cada etapa, a Selic entra como um dos fatores, não como o único. Por isso, a Selic age de forma indireta sobre o financiamento. A Selic de curto prazo também não é a taxa de longo prazo, que é a que mais importa para um contrato de 20 ou 30 anos.
 
 ## A TR não é a Selic
 
-Muitos financiamentos com recursos da poupança corrigem o saldo devedor pela TR, a Taxa Referencial. A TR é um índice divulgado pelo Banco Central, previsto na Lei 8.177, de 1º de março de 1991, e não é definida pelo Copom. Ela tem outra metodologia e pode subir ou cair em momentos diferentes da Selic.
+Muitos financiamentos com recursos da poupança corrigem o saldo devedor pela TR, a Taxa Referencial. A TR é um índice divulgado pelo Banco Central, previsto na Lei 8.177, de 1º de março de 1991 (art. 1º), cuja metodologia é aprovada pelo Conselho Monetário Nacional. Ela não é definida pelo Copom e pode subir ou cair em momentos diferentes da Selic.
 
 Isso significa que a queda da Selic não elimina a correção pela TR. Se você quer entender como ela pesa no saldo e na parcela, veja o [guia sobre a TR no financiamento](/artigos/tr-no-financiamento).
 
 ## Exemplo ilustrativo: 0,25 ponto a menos na taxa
 
-Imagine um financiamento de R$ 300 mil, em 360 meses, com sistema Price e taxa anual de 11,50%. Agora compare com uma proposta de 11,25% ao ano, uma redução de 0,25 ponto, do tamanho do corte da Selic em setembro de 2026. Os números abaixo são ilustrativos. Não consideram TR, seguros, tarifas nem CET, e não representam oferta de nenhum banco.
+Imagine um financiamento de R$ 300 mil, em 360 meses, com sistema Price e taxa anual de 11,50%. Agora compare com uma proposta de 11,25% ao ano, uma redução de 0,25 ponto, do tamanho do corte da Selic em setembro de 2026. Os números abaixo são ilustrativos, calculados com a taxa anual convertida em mensal de forma composta. Não consideram TR, seguros, tarifas nem CET, e não representam oferta de nenhum banco.
 
 | Cenário | Taxa anual | Parcela inicial (Price) | Total pago em 360 meses |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Imagine um financiamento de R$ 300 mil, em 360 meses, com sistema Price e taxa a
 | Proposta B | 11,25% | R$ 2.791,08 | R$ 1.004.790 |
 | Diferença | 0,25 ponto | cerca de R$ 51 por mês | cerca de R$ 18.400 |
 
-Com o SAC, a diferença na primeira parcela também fica perto de R$ 57 (de R$ 3.567 para R$ 3.510). O total pago cai mais no SAC porque a dívida é amortizada mais rápido, embora a parcela inicial seja maior.
+Com o SAC, a primeira parcela cai cerca de R$ 57 (de R$ 3.567 para R$ 3.510). O total pago é menor que na Price nos dois cenários (cerca de R$ 793 mil e R$ 783 mil), mas a economia total com o corte de 0,25 ponto fica em torno de R$ 10.200, menos que na Price.
 
 O exemplo mostra um ponto importante: o efeito de um corte pequeno é real, mas modesto para um prazo longo. Se a proposta do banco vier com taxa de 10,50%, por exemplo, a conta muda bem mais. Mesmo assim, o que pesa é o contrato completo, e não o movimento isolado da Selic.
 

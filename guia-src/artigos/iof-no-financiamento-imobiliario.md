@@ -1,13 +1,13 @@
 ---
 title: "IOF no financiamento imobiliário: quando incide e como aparece"
-description: "Em regra, o financiamento de moradia não paga IOF para pessoa física. Veja quando o imposto incide, a alíquota vigente, o cálculo e onde conferir no contrato."
+description: "Em regra, o financiamento de moradia não paga IOF para pessoa física. Veja quando incide, as alíquotas de referência, o cálculo e onde conferir no contrato."
 category: custos
 published: 2026-10-20
 updated: 2026-10-20
 reading_minutes: 8
 key_points:
   - "Para pessoa física, o crédito para fins habitacionais é isento de IOF pelo artigo 9, inciso I, do Decreto 6.306/2007."
-  - "Quando o IOF incide, a alíquota fixa é de 0,38% mais 0,0082% ao dia, com a parte diária limitada a 365 dias."
+  - "Quando o IOF incide, as alíquotas de referência são 0,38% fixo mais 0,0082% ao dia, com a parte diária limitada a 365 dias."
   - "A base de cálculo é o valor emprestado (o principal), e não os juros."
   - "Empréstimo pessoal e crédito com garantia de imóvel usado para outros fins podem ter IOF, mesmo com imóvel dado em garantia."
   - "O IOF cobrado entra no CET, o custo total do contrato. Confira a linha do imposto e a finalidade declarada antes de assinar."
@@ -15,7 +15,7 @@ faq:
   - q: "Financiamento de imóvel tem IOF?"
     a: "Em regra, não, para pessoa física que compra moradia. O artigo 9, inciso I, do Decreto 6.306/2007 isenta o crédito para fins habitacionais. Confirme na proposta e no CET."
   - q: "Quanto de IOF seria cobrado sem a isenção?"
-    a: "A alíquota fixa é de 0,38% sobre o valor emprestado, somada a 0,0082% ao dia. A parte diária tem teto de 365 dias, e no limite o total chega a cerca de 3,37% do valor."
+    a: "A alíquota de referência é de 0,38% sobre o valor emprestado, somada a 0,0082% ao dia. A parte diária tem teto de 365 dias, e no limite o total chega a cerca de 3,37% do valor. Confirme a alíquota vigente no artigo 7 do decreto."
   - q: "O IOF entra no CET?"
     a: "Quando há cobrança, sim. O CET reúne juros, tarifas, seguros e impostos, por isso é o número certo para comparar propostas, e não só a taxa de juros."
   - q: "Financiamento de imóvel comercial pode ter IOF?"
@@ -29,8 +29,6 @@ sources:
     url: "https://www.legjur.com/legislacao/nivel/dec_00063062007/-capitulo-iv-da-isencao"
   - title: "Barbieri Advogados: IOF 2025, alíquotas após a decisão do STF"
     url: "https://barbieriadvogados.com/iof-2025-guia-completo-das-aliquotas-apos-decisao-do-stf-analise-juridica/"
-  - title: "QuintoAndar: IOF no financiamento imobiliário (guia de mercado)"
-    url: "https://www.quintoandar.com.br/guias/?p=2450827"
 related: [cet-financiamento-imobiliario, custos-para-comprar-imovel, home-equity, sfh-e-sfi]
 ---
 
@@ -44,13 +42,13 @@ A isenção depende da finalidade do dinheiro, e não só do tipo de contrato. U
 |---|---|---|
 | Financiamento para comprar imóvel residencial | Isento | Artigo 9, inciso I, do Decreto 6.306/2007 (crédito para fins habitacionais) |
 | Financiamento de sala comercial ou outro imóvel não residencial | Pode incidir | A isenção fala em fins habitacionais |
-| Empréstimo pessoal | Incide | Não há finalidade habitacional |
-| Crédito com garantia de imóvel para quitar dívidas ou gastos | Incide | O dinheiro não vai para moradia |
-| Cheque especial e outras linhas rotativas | Incide | Não há finalidade habitacional |
+| Empréstimo pessoal | Em regra, incide | Não há finalidade habitacional |
+| Crédito com garantia de imóvel para quitar dívidas ou gastos | Em regra, incide | O dinheiro não vai para moradia |
+| Cheque especial e outras linhas rotativas | Em regra, incide | Não há finalidade habitacional |
 
 O ponto que mais confunde é a garantia. Um imóvel dado em garantia não torna a operação habitacional. O que conta é o uso do dinheiro. Por isso, um crédito com garantia de imóvel, que os bancos chamam de home equity, costuma ter IOF quando o valor não é usado para comprar, construir ou reformar a moradia.
 
-## A alíquota vigente e a base de cálculo
+## As alíquotas de referência e a base de cálculo
 
 Quando o IOF é cobrado de pessoa física, a conta tem duas partes:
 
@@ -59,11 +57,11 @@ Quando o IOF é cobrado de pessoa física, a conta tem duas partes:
 
 A base é o principal, ou seja, a quantia que você recebe emprestada. Os juros não entram nessa conta. Em financiamento parcelado, a parte diária incide sobre o principal de cada parcela, pelo tempo até o vencimento dela. Como o teto de 365 dias existe, a soma máxima fica perto de 3,37% do valor emprestado, e não cresce para sempre com o prazo.
 
-Essas alíquotas constam do artigo 7 do Decreto 6.306/2007, na redação dada pelo Decreto 12.499/2025, publicado no Diário Oficial da União em 11 de junho de 2025. A alíquota diária para pessoa física continua em 0,0082%, e a alíquota fixa adicional de 0,38% vale para pessoa física e jurídica. As mudanças de 2025 atingiram sobretudo as empresas. Em julho de 2025, uma liminar do Supremo Tribunal Federal restabeleceu esse decreto. Nas fontes que consultei, o julgamento do mérito pelo plenário ainda não tinha data. Antes de fazer qualquer conta, confira no Planalto se a regra segue igual.
+As alíquotas de referência estão no artigo 7 do Decreto 6.306/2007, na redação dada pelo Decreto 12.499/2025, publicado no Diário Oficial da União em 11 de junho de 2025. Nas fontes de 2025 que consultei, as alíquotas de 0,38% e 0,0082% ao dia aparecem associadas à pessoa jurídica, e não consegui confirmar no texto oficial a alíquota aplicável à pessoa física. Em 16 de julho de 2025, o ministro Alexandre de Moraes, do Supremo Tribunal Federal, concedeu uma decisão cautelar nas ADIs 7827 e 7839 e na ADC 96. Ela restabeleceu o decreto com efeitos desde 11 de junho de 2025 e suspendeu dispositivos específicos do artigo 7. A decisão é provisória e depende de referendo do plenário. Não encontrei registro de julgamento de mérito até esta revisão, em 20 de outubro de 2026. Antes de fazer qualquer conta, confira no Planalto a redação vigente do artigo 7.
 
 ## Exemplo ilustrativo sem a isenção
 
-Exemplo ilustrativo: um empréstimo de R$ 400.000, com finalidade que não é moradia, pago em 120 parcelas mensais com amortização constante (SAC). Cada parcela de amortização vale R$ 3.333,33 e fica devida por 30 dias vezes o número da parcela, até o limite de 365 dias. Esse é um cálculo simplificado para ilustrar a regra, e não a planilha de um banco.
+Exemplo ilustrativo: um empréstimo de R$ 400.000, com finalidade que não é moradia, pago em 120 parcelas mensais com amortização constante (SAC). Cada parcela de amortização vale R$ 3.333,33 e fica devida por 30 dias vezes o número da parcela, até o limite de 365 dias. As alíquotas usadas são as de referência descritas acima. Esse é um cálculo simplificado para ilustrar a regra, e não a planilha de um banco.
 
 | Componente | Valor |
 |---|---|
@@ -111,7 +109,7 @@ Se a resposta vier vaga, peça o quadro de custos completo antes de decidir. Uma
 
 ## Onde confirmar a regra
 
-Três lugares resolvem a dúvida com segurança. O texto do Decreto 6.306/2007 e os decretos que o alteraram estão no site do Planalto, e a legislação do IOF é do próprio governo federal. O portal gov.br da Receita Federal também publica orientações sobre o IOF e as alíquotas em vigor. Por fim, a proposta do banco deve mostrar o IOF, quando houver, dentro do CET. Se os três não batem, pergunte ao banco qual dispositivo legal ele aplica, e peça que a resposta fique por escrito.
+Três lugares resolvem a dúvida com segurança. O texto do Decreto 6.306/2007 e os decretos que o alteraram estão no site do Planalto. A Receita Federal, que administra o IOF, também trata do tema nos seus canais oficiais. Por fim, a proposta do banco deve mostrar o IOF, quando houver, dentro do CET. Se os três não batem, pergunte ao banco qual dispositivo legal ele aplica, e peça que a resposta fique por escrito.
 
 ## Resumo e próximos passos
 
