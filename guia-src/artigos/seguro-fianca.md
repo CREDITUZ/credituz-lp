@@ -36,7 +36,7 @@ O seguro fiança locatício é um contrato com uma seguradora que garante ao don
 
 A Lei do Inquilinato (Lei 8.245/1991) lista as garantias que o locador pode exigir: caução em dinheiro, fiador, seguro fiança locatícia e cessão fiduciária de cotas de fundo de investimento (art. 37). O locador escolhe uma delas, e o contrato não pode combinar mais de uma modalidade. Quando a garantia é a caução em dinheiro, o valor não pode passar de três meses de aluguel (art. 38, § 2º).
 
-Os planos de seguro do ramo fiança locatícia são regulados pela Susep (Superintendência de Seguros Privados), órgão do governo federal que fiscaliza o setor de seguros. A regra vigente é a Circular Susep 671, de 1º de agosto de 2022, que substituiu a Circular 587/2019. Ela trata da elaboração e da comercialização dos planos, e não define preços.
+Os planos de seguro do ramo fiança locatícia são regulados pela Susep (Superintendência de Seguros Privados), órgão do governo federal que fiscaliza o setor de seguros. A regra vigente é a Circular Susep 671, de 1º de agosto de 2022, que revogou a Circular 587/2019. Ela estabelece regras para a elaboração e a comercialização dos planos desse ramo.
 
 ## O que a apólice costuma cobrir
 
@@ -82,7 +82,7 @@ Nenhuma dessas opções é a melhor em abstrato. A escolha depende do que o loca
 
 ## Para quem compra imóvel para alugar
 
-Quem compra para alugar é o locador, e a escolha da garantia fica com ele dentro das opções da lei. O seguro fiança reduz o risco de atraso, mas não elimina o risco de inadimplência nem a necessidade de acompanhar o contrato. Antes de comprar, faça a conta do aluguel líquido, descontando o custo da garantia, da manutenção e do tempo sem inquilino. O artigo sobre [comprar imóvel para alugar](/artigos/comprar-imovel-para-alugar) traz essa conta.
+Quem compra para alugar é o locador, e a escolha da garantia fica com ele dentro das opções da lei. O seguro fiança reduz o risco de atraso, mas não elimina o risco de inadimplência nem a necessidade de acompanhar o contrato. Antes de comprar, vale somar o custo da garantia, da manutenção e do tempo sem inquilino ao valor do aluguel, para ver o retorno líquido. O artigo sobre [comprar imóvel para alugar](/artigos/comprar-imovel-para-alugar) trata da rentabilidade do imóvel.
 
 ## Passo a passo para quem aluga
 
