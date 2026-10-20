@@ -4,7 +4,7 @@ description: "O que é o laudêmio, em quais imóveis ele incide (terrenos de ma
 category: custos
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Laudêmio é a taxa paga ao dono do terreno quando um imóvel em regime de aforamento é vendido. Nos terrenos de marinha, esse dono é a União."
   - "A regra é 5% sobre o valor atualizado do domínio pleno do terreno, sem as benfeitorias (Decreto-Lei 2.398/1987, art. 3º). O portal da SPU calcula com o valor declarado da transação, então confira a conta lá."
