@@ -4,7 +4,7 @@ description: "Quando alugar e investir a diferença vence comprar financiado, co
 category: alternativas
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 9
+reading_minutes: 11
 key_points:
   - "Alugar e investir a diferença só vence se você aplicar todo mês o que sobra entre a parcela e o aluguel, e também a entrada e os custos no primeiro dia."
   - "A compra precisa incluir a saída: corretagem de cerca de 6% e imposto de 15% sobre o ganho de capital, além do saldo devedor."
@@ -79,7 +79,7 @@ O exemplo é ilustrativo. Ele foi calculado mês a mês, não recomenda banco, p
 
 **O aluguel.** A matéria da FipeZap não diz se a rentabilidade de 6,13% é bruta ou líquida, nem descreve o cálculo. O exemplo trata o número como aluguel bruto, equivalente a 6,13% do preço por ano, pago pelo inquilino. Se o aluguel da sua região for maior em relação ao preço, a conta piora para quem aluga, como mostra a tabela de sensibilidade.
 
-**O ITBI.** O ITBI de 3% é uma estimativa conservadora. Em São Paulo, para financiamento pelo SFH de imóvel de até R$ 725.808, a prefeitura cobra 0,5% sobre o valor financiado até R$ 120.968 e 3% sobre o restante da base. Neste exemplo, isso daria cerca de R$ 10.476, e não R$ 13.500. Com essa regra, quem aluga fica com R$ 634.826 e quem compra com R$ 335.593 aos 10 anos, e a conclusão do exemplo não muda. Os limites são atualizados todo ano, então confira o cálculo oficial da sua prefeitura.
+**O ITBI.** O ITBI de 3% é uma estimativa conservadora. Em São Paulo, para financiamento pelo SFH de imóvel de até R$ 725.808, a prefeitura cobra 0,5% sobre o valor financiado até R$ 120.968 e 3% sobre o restante da base. Neste exemplo, isso daria cerca de R$ 10.476, e não R$ 13.500. Com essa regra, quem aluga fica com R$ 634.826 e quem compra com R$ 335.593 aos 10 anos, e a conclusão do exemplo não muda. Confira o cálculo oficial da sua prefeitura.
 
 **Os juros e a valorização.** O CDI foi mantido em 13,65% ao ano por todo o período, a TR foi tratada como fixa em 2% ao ano e a valorização do imóvel, em 5% ao ano. Nenhuma dessas taxas é garantida.
 
@@ -154,7 +154,7 @@ Em seis dos sete cenários, alugar fica à frente. A exceção é o cenário em 
 - **Usar o CDI de hoje para 20 ou 30 anos.** O CDI acompanha a Selic, que muda com a política monetária. Quedas de juros mudam o resultado, como o cenário de 10% mostra.
 - **Ignorar a tabela regressiva.** Resgatar um investimento cedo paga IR mais alto. Quem precisa de dinheiro em pouco tempo deve considerar isso antes de investir a diferença.
 
-Alguns pontos não entram na planilha e podem pesar a favor da compra. Entre eles, a estabilidade de não depender da renovação do contrato, o valor de ter um endereço fixo e a possibilidade de usar o FGTS na entrada. Esse último ponto muda a conta, porque reduz o dinheiro que sai do seu bolso. Veja [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) antes de decidir. A conta só fica justa quando esses fatores aparecem com um valor, mesmo que estimado.
+Alguns pontos não entram na planilha e podem pesar a favor da compra. Entre eles, a estabilidade de não depender da renovação do contrato, o valor de ter um endereço fixo e a possibilidade de usar o FGTS na entrada. Veja [FGTS na compra do imóvel](/artigos/fgts-na-compra-do-imovel) antes de decidir, porque ele reduz o dinheiro que sai do seu bolso. A conta só fica justa quando esses fatores aparecem com um valor, mesmo que estimado.
 
 ## Como fazer a sua conta
 
