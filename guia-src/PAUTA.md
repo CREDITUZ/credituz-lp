@@ -27,11 +27,11 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O4] financiamento-para-reforma: crédito para reformar
 - [O4] financiamento-com-entrada-parcelada: como funciona
 - [O4] financiamento-sem-entrada: existe e quando
-- financiamento-aposentado: regras de idade e renda
+- [O6] financiamento-aposentado: regras de idade e renda
 - financiamento-servidor-publico: condições para servidores
 - [O5] financiamento-para-quem-mora-fora: brasileiros no exterior
 - [O5] financiamento-para-estrangeiro: estrangeiro residente
-- financiamento-com-carta-de-credito: carta de crédito aprovada antes de achar o imóvel
+- [O6] financiamento-com-carta-de-credito: carta de crédito aprovada antes de achar o imóvel
 - [O5] quanto-tempo-demora-financiamento: prazos de cada etapa
 - etapas-do-financiamento: da simulação ao registro
 - contrato-de-financiamento-clausulas: o que ler antes de assinar
@@ -40,8 +40,8 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - atrasar-parcela-financiamento: o que acontece e como renegociar
 - retomada-do-imovel-por-atraso: prazos e direitos
 - vender-imovel-financiado: como vender antes de quitar
-- transferir-financiamento: cessão para outra pessoa
-- trocar-sac-por-price: dá para mudar depois de assinar
+- [O6] transferir-financiamento: cessão para outra pessoa
+- [O6] trocar-sac-por-price: dá para mudar depois de assinar
 - financiamento-divorcio: o que fazer com o imóvel financiado na separação
 - financiamento-morte-do-titular: seguro e quitação
 - correspondente-bancario: o que faz e quanto custa
@@ -70,22 +70,22 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O4] fgts-e-minha-casa-minha-vida
 - [O4] fgts-futuro: o que é e como funciona
 - fgts-e-consorcio
-- fgts-para-imovel-de-leilao
-- fgts-e-heranca: saldo do falecido
+- [O6] fgts-para-imovel-de-leilao
+- [O6] fgts-e-heranca: saldo do falecido
 - rendimento-do-fgts: quanto rende e como é corrigido
 - [O5] fgts-vale-a-pena-usar-na-entrada
 - [O5] fgts-amortizar-ou-guardar
 - calculo-fgts: quanto é depositado por mês
 - fgts-pelo-app: passo a passo no aplicativo
 - [O5] fgts-empregador-nao-depositou: o que fazer
-- fgts-trabalhador-domestico
+- [O6] fgts-trabalhador-domestico
 - [O5] fgts-e-divorcio
 - saque-fgts-doenca-grave (ligado à moradia só como contexto)
 - fgts-na-compra-a-vista
 - fgts-imovel-de-parente: comprar de pai, mãe, irmão
 - fgts-imovel-com-problema-documental
 - fgts-sfh-limite-de-valor
-- fgts-pro-cotista: linha Pró-Cotista
+- [O6] fgts-pro-cotista: linha Pró-Cotista
 - fgts-compra-de-fracao: comprar parte de imóvel
 - fgts-e-uniao-estavel
 - fgts-para-imovel-em-condominio-fechado
@@ -119,12 +119,12 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O5] casa-paulista: programa do estado de SP
 - [O5] cdhu: habitação do estado de SP
 - programas-habitacionais-estaduais: visão geral por estado
-- programas-habitacionais-municipais
+- [O6] programas-habitacionais-municipais
 - aluguel-social
 - [O5] regularizacao-fundiaria-reurb
 - reforma-casa-brasil (linhas federais de reforma, se vigentes)
 - pro-cotista
-- sbpe: o que é e como funciona
+- [O6] sbpe: o que é e como funciona
 - sfi-acima-do-teto
 - lig-e-cri-para-leigos: de onde vem o dinheiro do crédito imobiliário
 - poupanca-e-credito-imobiliario: por que a poupança importa
@@ -139,8 +139,8 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O2 publicado] venda-direta-caixa
 - imoveis-retomados-bancos
 - programa-casa-verde-e-amarela-o-que-mudou (histórico)
-- moradia-para-idosos-programas
-- programas-para-pessoa-com-deficiencia
+- [O6] moradia-para-idosos-programas
+- [O6] programas-para-pessoa-com-deficiencia
 - financiamento-habitacional-militar
 - credito-habitacional-cooperativas
 - [O5] programa-de-arrendamento-residencial-par
@@ -186,12 +186,12 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O5] taxa-antecipada-golpe
 - simulador-falso
 - lgpd-e-dados-no-financiamento
-- direito-de-saber-por-que-o-credito-foi-negado
+- [O6] direito-de-saber-por-que-o-credito-foi-negado
 - revisao-de-decisao-automatizada
-- historico-de-credito-jovem
+- [O6] historico-de-credito-jovem
 - score-para-aluguel
-- score-e-cartorio
-- score-quod
+- [O6] score-e-cartorio
+- [O6] score-quod
 
 ## custos (5 publicados, faltam 45)
 - [O1 publicado] itbi-sao-paulo: alíquota, cálculo e desconto SFH em SP
@@ -217,17 +217,17 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O4] matricula-do-imovel: como ler
 - [O4] certidoes-do-imovel
 - certidoes-do-vendedor
-- desconto-registro-primeiro-imovel
+- [O6] desconto-registro-primeiro-imovel
 - taxa-de-administracao-financiamento
-- tarifa-de-cadastro
+- [O6] tarifa-de-cadastro
 - iof-no-financiamento-imobiliario: existe?
 - custos-cartorio-por-estado
-- corretagem-quem-paga
+- [O6] corretagem-quem-paga
 - [O5] laudemio
 - custos-de-mudanca
 - condominio-e-iptu-na-conta
 - [O5] iptu-como-funciona
-- seguro-residencial-opcional
+- [O6] seguro-residencial-opcional
 - [O5] seguro-fianca
 - taxa-de-ligacao-e-vistoria
 - despachante-imobiliario-vale-a-pena
@@ -265,12 +265,12 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O5] compra-direto-com-proprietario
 - [O5] financiamento-direto-com-construtora
 - financiamento-com-loteadora
-- permuta-de-imovel
-- multipropriedade
+- [O6] permuta-de-imovel
+- [O6] multipropriedade
 - [O5] cooperativa-habitacional
 - compra-coletiva
 - fintechs-de-credito-imobiliario
-- credito-imobiliario-digital
+- [O6] credito-imobiliario-digital
 - [O5] aluguel-quanto-pagar
 - contrato-de-aluguel
 - garantias-do-aluguel
@@ -283,7 +283,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - comprar-imovel-com-amigos
 - comprar-imovel-solteiro
 - comprar-imovel-casal-sem-casamento
-- reserva-de-emergencia-antes-de-comprar
+- [O6] reserva-de-emergencia-antes-de-comprar
 - quanto-guardar-para-comprar-imovel
 - planejamento-financeiro-casa-propria
 - tesouro-renda-ou-imovel
@@ -310,9 +310,9 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - [O4] usucapiao
 - [O4] inventario-e-imovel
 - [O4] doacao-de-imovel
-- testamento-e-imovel
-- uniao-estavel-e-imovel
-- separacao-de-bens
+- [O6] testamento-e-imovel
+- [O6] uniao-estavel-e-imovel
+- [O6] separacao-de-bens
 - [O5] bem-de-familia
 - [O5] penhora-de-imovel
 - imovel-de-heranca-venda
@@ -324,7 +324,7 @@ depois da checagem de fatos. Antes de escrever, confira se o tema não repete um
 - imovel-com-divida
 - [O5] imovel-com-inquilino
 - direito-de-preferencia-inquilino
-- despejo
+- [O6] despejo
 - lei-do-inquilinato
 - devolucao-de-caucao
 - reformas-e-vizinhanca
