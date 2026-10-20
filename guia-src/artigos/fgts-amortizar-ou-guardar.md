@@ -20,12 +20,10 @@ faq:
   - q: "E se eu perder o emprego depois de amortizar?"
     a: "O saldo que você usou não estará mais na conta. Por isso, antes de amortizar, verifique se você tem reserva para cobrir as parcelas em caso de demissão."
 sources:
-  - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, arts. 13, 20 inciso I e inciso VI, Planalto"
+  - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, arts. 13 e 20 incisos I e VI, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
-  - title: "Casa própria utilizando o FGTS: quem tem direito e como usar o saldo (Gazeta de São Paulo, 25/08/2026, fonte secundária)"
-    url: "https://www.gazetasp.com.br/economia/casa-propria-utilizando-o-fgts-veja-quem-tem-direito-o-que-a-caixa-permite-e-como-usar-o-seu-saldo/"
-  - title: "TR, taxa referencial mensal, Brasil Indicadores (atualizada em 01/10/2026, fonte secundária, conferir no Banco Central)"
-    url: "https://brasilindicadores.com.br/tr/"
+  - title: "Banco Central do Brasil, portal, série da TR (a taxa mensal muda; consulte a série no site)"
+    url: "https://www.bcb.gov.br/"
 related: [fgts-para-amortizar-financiamento, fgts-para-quitar-saldo-devedor, fgts-vale-a-pena-usar-na-entrada]
 ---
 
@@ -37,13 +35,13 @@ Para comparar com números, use um financiamento hipotético de R$ 320 mil, com 
 
 Suponha que você tenha R$ 40 mil no FGTS e queira usar o saldo nesse momento. São três caminhos possíveis:
 
-| Caminho | Primeira parcela depois | Economia de pagamentos | Valor de hoje da economia (a 3% ao ano) |
+| Caminho | Primeira parcela depois | Economia nas parcelas, já descontados os R$ 40 mil | Valor de hoje das economias (a 3% ao ano) |
 |---|---|---|---|
-| Reduzir o prazo | R$ 3.050,09 | R$ 144.940,76, com 45 meses a menos | R$ 86.170,28 |
-| Reduzir a parcela | R$ 2.931,04, queda de 13,4% | R$ 96.313,75 | R$ 66.574,76 |
+| Reduzir o prazo | R$ 3.050,09 | R$ 104.940,76, com 45 meses a menos | R$ 91.418,05 |
+| Reduzir a parcela | R$ 2.931,04, queda de 13,4% | R$ 56.313,75 | R$ 70.629,17 |
 | Guardar o saldo na conta | Sem mudança | Nenhuma | R$ 40.000,00, que é o próprio saldo |
 
-Os valores de hoje descontam as economias futuras pela taxa de 3% ao ano, que é o rendimento do FGTS sem a TR, para comparar com os R$ 40 mil de hoje. Os dois caminhos de amortização batem o saldo parado. Reduzir o prazo rende mais no total, e reduzir a parcela rende menos, mas deixa o orçamento mais leve.
+Os valores de hoje descontam as economias futuras pela taxa de 3% ao ano, que é o rendimento do FGTS sem a TR, para comparar com os R$ 40 mil de hoje. Como os R$ 40 mil saem da conta para amortizar, a amortização só compensa quando o valor de hoje das economias supera esse montante. Os dois caminhos de amortização batem o saldo parado. Reduzir o prazo rende mais no total, e reduzir a parcela rende menos, mas deixa o orçamento mais leve.
 
 Repare que, no caminho de reduzir o prazo, a primeira parcela também cai, de R$ 3.384,30 para R$ 3.050,09. Isso acontece porque os juros passam a incidir sobre um saldo menor, mesmo mantendo a mesma amortização mensal.
 
@@ -65,13 +63,13 @@ Se você já teve dificuldade para pagar as parcelas, o [FGTS para pagar parcela
 
 Guardar o saldo tem três razões legítimas. A primeira é a proteção: em caso de dispensa sem justa causa, a lei permite o saque da conta (artigo 20, inciso I, da Lei 8.036). Esse uso não tem preço no cálculo de juros, mas pode ser decisivo para quem tem renda instável. A segunda é a taxa: se os juros do contrato estão perto de 3% ao ano, a vantagem de amortizar some. A terceira é o plano de vida: se você pretende usar o saldo em outra compra, em um prazo próximo, a conta muda.
 
-Vale lembrar que o saldo guardado rende apenas o que a conta paga. Ele não é um investimento com retorno garantido acima da dívida, e a comparação só faz sentido com a taxa real do seu contrato.
+O saldo guardado rende apenas o que a conta paga. Ele não é um investimento com retorno garantido acima da dívida, e a comparação só faz sentido com a taxa real do seu contrato.
 
 Há também um ponto prático. O dinheiro amortizado não volta para a conta. Se a renda cair alguns meses depois, a parcela continua exigindo o pagamento, e o saldo que você poderia sacar já não existe. Quem tem uma reserva fora do FGTS, ou uma renda que dificilmente cai, consegue aceitar essa troca com tranquilidade. Quem depende de um único salário costuma ganhar mais protegendo a conta do que acelerando a dívida.
 
 ## Os limites da lei
 
-A amortização com FGTS segue regras próprias. Pelo artigo 20, inciso VI, da Lei 8.036, o saque para amortização ou liquidação do saldo devedor exige intervalo mínimo de 2 anos para cada movimentação, e a operação precisa ser financiamento habitacional no sistema SFH. Essa exigência limita o planejamento, porque você não pode amortizar todo ano. Por isso, faça a conta uma vez e escolha o caminho com calma. Se a sua intenção é usar o saldo em duas etapas, por exemplo uma parte agora e outra daqui a alguns anos, a primeira movimentação precisa ser pensada já com a data da segunda em mente.
+A amortização com FGTS segue regras próprias. Pelo artigo 20, inciso VI, da Lei 8.036, o saque para amortização ou liquidação do saldo devedor exige intervalo mínimo de 2 anos para cada movimentação, e o financiamento precisa ter sido concedido no âmbito do SFH. Essa exigência limita o planejamento, porque você não pode amortizar todo ano. Por isso, faça a conta uma vez e escolha o caminho com calma. Se a sua intenção é usar o saldo em duas etapas, por exemplo uma parte agora e outra daqui a alguns anos, a primeira movimentação precisa ser pensada já com a data da segunda em mente.
 
 Além da lei, o banco e o Conselho Curador do FGTS podem ter procedimentos próprios para a aceitação do pedido. Confirme com o agente financeiro os documentos, o prazo de processamento e a forma de aplicação do valor, porque o efeito na parcela depende de como o banco registra a operação. Veja também o artigo sobre [FGTS para amortizar o financiamento](/artigos/fgts-para-amortizar-financiamento), que trata do pedido passo a passo.
 

@@ -20,12 +20,10 @@ faq:
   - q: "Se eu usar o FGTS na entrada, posso usar de novo depois?"
     a: "Uma nova movimentação do FGTS para amortizar exige intervalo mínimo de 2 anos entre as movimentações, segundo o artigo 20, inciso VI, da Lei 8.036. Confirme as condições com o banco antes de contar com esse uso."
 sources:
-  - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, arts. 13, 20 e 20 inciso VI e VII, Planalto"
+  - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, arts. 13 e 20 incisos I e VI, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
-  - title: "Casa própria utilizando o FGTS: quem tem direito e como usar o saldo (Gazeta de São Paulo, 25/08/2026, fonte secundária)"
-    url: "https://www.gazetasp.com.br/economia/casa-propria-utilizando-o-fgts-veja-quem-tem-direito-o-que-a-caixa-permite-e-como-usar-o-seu-saldo/"
-  - title: "TR, taxa referencial mensal, Brasil Indicadores (atualizada em 01/10/2026, fonte secundária, conferir no Banco Central)"
-    url: "https://brasilindicadores.com.br/tr/"
+  - title: "Banco Central do Brasil, portal, série da TR (a taxa mensal muda; consulte a série no site)"
+    url: "https://www.bcb.gov.br/"
 related: [fgts-na-compra-do-imovel, fgts-amortizar-ou-guardar, fgts-para-amortizar-financiamento]
 ---
 
@@ -33,7 +31,7 @@ Em geral, sim. Usar o FGTS na entrada costuma compensar mais do que deixar o sal
 
 ## O que o saldo rende e o que o financiamento custa
 
-O saldo da conta vinculada ao FGTS (Fundo de Garantia do Tempo de Serviço) rende juros de 3% ao ano, somados à correção pela TR (Taxa Referencial), a mesma base usada para corrigir a poupança. A Lei 8.036, de 1990, trata desse rendimento no artigo 13. Em outubro de 2026, a TR ficou em 0,16% no mês, segundo o Brasil Indicadores, uma fonte secundária que vale conferir no site do Banco Central.
+O saldo da conta vinculada ao FGTS (Fundo de Garantia do Tempo de Serviço) rende juros de 3% ao ano, somados à correção monetária pela TR (Taxa Referencial). A Lei 8.036, de 1990, trata desse rendimento no artigo 13. A TR muda todo mês, e o valor atual está na série do Banco Central, que é a fonte para conferir.
 
 O financiamento cobra juros do contrato. Em muitos contratos, o saldo devedor também é corrigido pela TR. Quando os dois lados seguem essa mesma correção, ela pesa na dívida e no saldo do FGTS da mesma forma, e a comparação útil fica entre os juros do contrato e os 3% ao ano do FGTS. Se o seu financiamento for corrigido por outro índice, como o IPCA (Índice Nacional de Preços ao Consumidor Amplo), a conta precisa ser refeita com esse índice, porque a TR deixa de cancelar a diferença.
 
@@ -68,7 +66,7 @@ Nem sempre a resposta é usar o saldo inteiro. Você pode usar uma parte na entr
 
 Essa divisão faz sentido quando a reserva fora do FGTS é pequena. Ela também ajuda quem tem um contrato de juros mais baixos, porque a diferença entre os dois lados fica menor e a proteção pesa mais.
 
-Vale notar também que a cota de financiamento limita quanto o banco empresta em relação ao valor do imóvel. Se a entrada mínima já exige o FGTS para fechar a conta, a pergunta deixa de ser se vale a pena e passa a ser quanto usar. Nesse caso, peça ao banco simulações com valores de entrada diferentes e compare a parcela e o total pago em cada uma.
+A cota de financiamento também limita quanto o banco empresta em relação ao valor do imóvel. Se a entrada mínima já exige o FGTS para fechar a conta, a pergunta deixa de ser se vale a pena e passa a ser quanto usar. Nesse caso, peça ao banco simulações com valores de entrada diferentes e compare a parcela e o total pago em cada uma.
 
 ## O que a conta não mostra
 

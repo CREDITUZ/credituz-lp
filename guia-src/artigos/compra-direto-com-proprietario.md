@@ -22,11 +22,11 @@ faq:
 sources:
   - title: "Código Civil (Lei 10.406/2002), texto no Planalto (art. 108, escritura pública)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406.htm"
-  - title: "Código Civil, art. 1.245 (transferência do imóvel pelo registro), texto reproduzido em Petições Online"
+  - title: "Código Civil, art. 1.245 (transferência do imóvel pelo registro), texto em Petições Online, fonte secundária"
     url: "https://www.peticoesonline.com.br/art-1245-cc"
-  - title: "Código Civil, art. 1.647 (outorga conjugal), texto reproduzido em Petições Online"
+  - title: "Código Civil, art. 1.647 (outorga conjugal), texto em Petições Online, fonte secundária"
     url: "https://www.peticoesonline.com.br/art-1647-cc"
-  - title: "Código Civil, art. 1.345 (débitos com o condomínio), texto reproduzido em Petições Online"
+  - title: "Código Civil, art. 1.345 (débitos com o condomínio), texto em Petições Online, fonte secundária"
     url: "https://www.peticoesonline.com.br/art-1345-cc"
   - title: "Código Tributário Nacional (Lei 5.172/1966), art. 130, texto no Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
@@ -61,7 +61,7 @@ Cada um desses itens tem regras e prazos próprios. O guia sobre [certidões do 
 
 ## Dívidas que seguem o imóvel
 
-Algumas dívidas não ficam com o vendedor. Elas acompanham o bem. O Código Tributário Nacional diz que os créditos de impostos sobre a propriedade do imóvel se transmitem com ele e se sub-rogam no adquirente, salvo quando há prova de quitação (art. 130). Na prática, o IPTU atrasado pode ser cobrado de quem comprou. No condomínio, o Código Civil diz que o adquirente de unidade responde pelos débitos do alienante em relação ao condomínio, incluindo multas e juros de mora (art. 1.345).
+Algumas dívidas não ficam com o vendedor. Elas acompanham o bem. O Código Tributário Nacional diz que os créditos de impostos sobre a propriedade do imóvel se transmitem com ele e se sub-rogam no adquirente, salvo quando o próprio título traz a prova de quitação (art. 130, caput). Na prática, o IPTU atrasado pode ser cobrado de quem comprou. No condomínio, o Código Civil diz que o adquirente de unidade responde pelos débitos do alienante em relação ao condomínio, incluindo multas e juros de mora (art. 1.345).
 
 Veja um exemplo ilustrativo, com valores fictícios: um apartamento tem IPTU em atraso de R$ 3.000, condomínio em atraso de R$ 2.400 e R$ 600 em multas e juros. Se você não exigir a quitação antes da escritura, pode acabar pagando R$ 6.000 além do preço combinado. A proteção é simples: exija certidões de quitação do IPTU e do condomínio e combine por escrito que o vendedor paga tudo o que venceu até a data da escritura. Se ele não quitar, o valor deve ser descontado do preço na hora do pagamento.
 

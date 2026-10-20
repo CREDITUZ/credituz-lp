@@ -16,7 +16,7 @@ faq:
   - q: "Posso sacar o FGTS logo depois da separação?"
     a: "Não necessariamente. A decisão do STJ diz que a ausência de saque imediato não afasta a divisão, e que a parte de cada um pode ser reservada para saque futuro, nas hipóteses legais."
   - q: "E se o imóvel foi financiado pelos dois?"
-    a: "Se os dois são devedores, ambos seguem responsáveis perante o banco. O acordo de divórcio vale entre vocês, mas para que um assuma a dívida sozinho, o banco normalmente faz nova análise de crédito."
+    a: "Se os dois são devedores, ambos podem seguir responsáveis perante o banco até a troca ser aprovada. O acordo de divórcio vale entre vocês, mas para que um assuma a dívida sozinho, o banco normalmente faz nova análise de crédito."
   - q: "O FGTS usado na compra do imóvel também é dividido?"
     a: "O valor já usado na compra saiu da conta. Na partilha, o que pode ser dividido é o saldo que sobrou na conta vinculada, formado durante o casamento."
 sources:
@@ -35,7 +35,7 @@ Este texto explica o entendimento geral e não substitui a orientação de um ad
 
 ## O que o STJ decidiu em 2026
 
-Segundo o resumo publicado pela Anoreg, a decisão foi tomada em 9 de fevereiro de 2026 pela Terceira Turma, com relatoria do ministro Moura Ribeiro, e publicada no Diário de Justiça Eletrônico Nacional (DJEN) em 13 de fevereiro. O processo corre em segredo de justiça, e a publicação não informa o número. A fundamentação é que os valores do FGTS formados na constância do casamento ou da união estável são frutos do esforço comum do casal.
+Segundo o resumo publicado pela Anoreg, a decisão foi tomada por unanimidade em 9 de fevereiro de 2026 pela Terceira Turma, com relatoria do ministro Moura Ribeiro, e publicada no Diário de Justiça Eletrônico Nacional (DJEN) em 13 de fevereiro. O processo corre em segredo de justiça, e a publicação não informa o número.
 
 Três limites ficaram claros na decisão, segundo o mesmo resumo. O primeiro é que só entra na partilha o montante formado durante o casamento. O segundo é que a ausência de saque logo após a separação não afasta a meação, que é a metade a que cada um tem direito. O terceiro é que a parte de cada um pode ser reservada em uma conta vinculada específica, para saque futuro nas hipóteses legais.
 
@@ -47,9 +47,7 @@ A decisão trata do regime de comunhão parcial. Nesse regime, em regra, o que �
 
 Também é importante saber a data do início do casamento ou da união estável. O FGTS depositado antes dessa data não entra na base. Por isso, guarde o extrato completo de cada um, com o período de cada vínculo de trabalho, e não apenas o saldo atual.
 
-## A data em que a relação termina
-
-A decisão trata do saldo formado durante o casamento ou a união estável. Por isso, a data em que a relação termina pode ser discutida no acordo, porque ela define até quando o FGTS entra na base da divisão. Essa data não deve ser fixada sem orientação de advogado, e vale registrá-la por escrito no acordo.
+Cada trabalhador tem a sua própria conta vinculada, e o extrato aparece separado para cada pessoa. Por isso, o levantamento precisa ser feito para os dois cônjuges, mesmo que só um tenha trabalhado de carteira assinada durante o casamento. Se algum vínculo começou antes da união, esse trecho do extrato deve ser separado no acordo.
 
 ## Um exemplo ilustrativo de partilha
 
@@ -64,11 +62,11 @@ No segundo cenário, os R$ 10 mil anteriores ao casamento ficam de fora da base,
 
 ## E se o imóvel foi financiado
 
-O imóvel financiado é uma questão à parte, e o acordo de divórcio não resolve sozinho a dívida com o banco. Segundo o Migalhas, em artigo de 15 de julho de 2026, se os dois constam como devedores, ambos continuam responsáveis perante o banco, inclusive quem já deixou o imóvel. O acordo de divórcio vale entre os ex-cônjuges, mas não substitui a aprovação do banco.
+O imóvel financiado é uma questão à parte, e o acordo de divórcio não resolve sozinho a dívida com o banco. Segundo o Migalhas, em artigo de 15 de julho de 2026, se os dois constam como devedores, ambos podem continuar responsáveis perante o banco enquanto a troca não for aprovada. O acordo de divórcio vale entre os ex-cônjuges, mas não substitui a aprovação do banco.
 
-Para que um deles assuma a dívida sozinho, o banco normalmente faz nova análise de crédito, e a troca pode envolver a sub-rogação ou a cessão de direitos e obrigações. Se o outro cônjuge não tem renda para manter as parcelas sozinho, a troca pode não ser aprovada. Nesse caso, a venda do imóvel costuma ser o caminho mais realista, e a quitação só se conclui com a participação do banco, que confirma o saldo devedor atualizado. Por isso, peça o valor atualizado da dívida antes de fechar qualquer acerto.
+Para que um deles assuma a dívida sozinho, o banco normalmente faz nova análise de crédito sobre quem vai ficar com o financiamento. Se o outro cônjuge não tem renda para manter as parcelas sozinho, a troca pode não ser aprovada. Nesse caso, a venda do imóvel costuma ser o caminho mais realista, e a quitação só se conclui com a participação do banco, que confirma o saldo devedor atualizado. Por isso, peça o valor atualizado da dívida antes de fechar qualquer acerto.
 
-Quando nenhum dos dois quer ficar com o imóvel, o mesmo texto cita duas saídas. A primeira é a venda: quita-se o saldo devedor com o valor da venda e divide-se o restante, depois de conferir saldo, taxas e valor de mercado. A segunda é a compensação: um fica com o bem e paga ao outro a parte correspondente.
+Quando nenhum dos dois quer ficar com o imóvel, as saídas mais citadas são duas. A primeira é a venda: quita-se o saldo devedor com o valor da venda e divide-se o restante, depois de conferir saldo, taxas e valor de mercado. A segunda é a compensação: um fica com o bem e compensa financeiramente o outro.
 
 ## O FGTS usado na compra
 
@@ -99,7 +97,8 @@ Pergunte também à Caixa, na agência ou pelo canal de atendimento, quais docum
 - **Achar que o FGTS é só de quem trabalhou.** Pela decisão de 2026, o saldo formado no casamento entra na divisão, mesmo sem saque.
 - **Deixar o FGTS de fora do acordo.** Um acordo que ignora a conta vinculada pode gerar disputa depois.
 - **Assinar a partilha sem falar com o banco.** O acordo entre o casal não muda a dívida perante a instituição financeira.
-- **Esperar sacar na hora.** A lei prevê hipóteses de saque, e a separação, sozinha, não é uma delas, segundo o resumo do STJ.
+- **Esperar sacar na hora.** A lei prevê hipóteses específicas de saque, e a separação, sozinha, não garante o saque, segundo o resumo do STJ.
+- **Pedir só o saldo atual.** O saldo de hoje mistura períodos antes e durante o casamento. O extrato completo, por período de trabalho, é o que permite separar a base partilhável.
 
 ## Resumo
 

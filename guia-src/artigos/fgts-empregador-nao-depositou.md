@@ -22,12 +22,10 @@ faq:
 sources:
   - title: "Lei 8.036/1990 (Lei do FGTS), texto compilado, arts. 15, 18 §1º e 20 inciso I, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
-  - title: "STF decide sobre o prazo prescricional do FGTS: 5 anos, ARE 709.212, de 13/11/2014 (Migalhas, resumo do julgamento)"
+  - title: "STF, ARE 709.212/DF, julgado em 13/11/2014: prazo de 5 anos para o FGTS (Migalhas, resumo do julgamento, fonte secundária; acórdão não conferido)"
     url: "https://www.migalhas.com.br/depeso/211259/stf-decide-sobre-o-prazo-prescricional-do-fgts"
-  - title: "A empresa não está pagando meu FGTS: o que fazer? (Migalhas, 18/10/2024)"
+  - title: "A empresa não está pagando meu FGTS: o que fazer? (Migalhas, 18/10/2024, fonte secundária)"
     url: "https://www.migalhas.com.br/depeso/417832/a-empresa-nao-esta-pagando-meu-fgts-o-que-fazer"
-  - title: "FGTS: Ministério orienta sobre o que fazer quando o empregador não realiza o depósito (Jornal Contábil, reproduzindo orientação de 2017, conferir o canal atual)"
-    url: "https://jornalcontabil.com.br/noticia/fgts-ministerio-orienta-sobre-o-que-fazer-quando-o-empregador-nao-realiza-o-deposito/"
 related: [consultar-saldo-fgts, fgts-negado-motivos, fgts-na-compra-do-imovel]
 ---
 
@@ -61,21 +59,21 @@ Esse registro vale depois. Se a empresa não responder ou negar o problema, a tr
 
 ## Terceiro, denuncie à fiscalização do trabalho
 
-A denúncia é feita às Superintendências Regionais do Trabalho, do Ministério do Trabalho. Um artigo de 2024 indica que a denúncia pode ser anônima e que a fiscalização pode obrigar a empresa a regularizar a situação. Uma orientação do Ministério reproduzida em 2017 dizia que a denúncia era presencial e sigilosa, sem canal eletrônico naquela data. Como as regras podem ter mudado, confirme o canal atual no site do Ministério do Trabalho antes de registrar.
+A denúncia é feita à fiscalização do trabalho, do Ministério do Trabalho e Emprego, e a fiscalização pode exigir que a empresa regularize a situação. Os canais de registro mudaram ao longo dos anos, e não foi possível confirmar no site oficial qual é o atual. Antes de registrar, consulte o gov.br do Ministério do Trabalho e Emprego para saber a forma vigente de denúncia, e se ela aceita identificação ou não.
 
 A fiscalização não substitui a sua cobrança individual. Ela pressiona a empresa, mas o valor que você tem direito a receber continua dependendo do acerto ou da Justiça.
 
 ## Quarto, procure o sindicato ou a Justiça do Trabalho
 
-Se você é filiado ao sindicato da categoria, ele pode notificar a empresa em seu nome. Essa é uma alternativa com custo baixo para quem está no emprego.
+Se você é filiado ao sindicato da categoria, vale perguntar se ele pode cobrar a empresa em seu nome. Essa pode ser uma alternativa de custo baixo para quem ainda está no emprego.
 
-Se a empresa não regulariza, ou se você já foi demitido sem os depósitos, a via é a reclamação trabalhista na Justiça do Trabalho. Nela, você pode pedir o FGTS não depositado, com correção e juros, e outras verbas pendentes, como férias, 13º salário e aviso prévio, segundo o texto do Migalhas de 2024.
+Se a empresa não regulariza, ou se você já foi demitido sem os depósitos, a via é a reclamação trabalhista na Justiça do Trabalho. Nela, você pode pedir o FGTS não depositado, com correção e juros, e outras verbas pendentes, como férias, 13º salário e aviso prévio, quando for o caso.
 
 Se a empresa faliu ou está em recuperação judicial, o FGTS continua devido. O caminho nesse caso é a Justiça, e o acompanhamento precisa de orientação jurídica, porque a ordem de pagamento pode variar.
 
 ## Os prazos de cobrança
 
-O prazo é o ponto que mais exige atenção. Em 2014, o STF (Supremo Tribunal Federal), ao julgar o ARE 709.212, passou a aplicar o prazo de 5 anos às cobranças de depósitos do FGTS, no lugar do prazo de 30 anos que existia antes. Segundo o resumo do julgamento publicado pelo Migalhas, o prazo de 5 anos conta para trás a partir da ação, e o prazo de 2 anos depois do fim do contrato continua valendo.
+O prazo é o ponto que mais exige atenção. Em 13/11/2014, o STF (Supremo Tribunal Federal), ao julgar o ARE 709.212/DF, passou a aplicar o prazo de 5 anos às cobranças de depósitos do FGTS, no lugar do prazo de 30 anos que existia antes. Segundo o resumo do julgamento publicado pelo Migalhas, o prazo de 5 anos conta para trás a partir da ação, e o limite de 2 anos depois do fim do contrato continua valendo. Para prazos que já estavam correndo em 2014, valeu o que terminasse primeiro: 30 anos contados do início do prazo ou 5 anos a partir da decisão.
 
 Na prática, o trabalhador pode cobrar apenas os depósitos dos últimos 5 anos anteriores à ação, desde que a ação seja proposta dentro de 2 anos depois da saída da empresa. Um exemplo ilustrativo: se o contrato terminou em 1º de março de 2024, a ação precisa ser proposta até 1º de março de 2026, e a cobrança alcança os depósitos dos 5 anos anteriores a essa data. Se você ainda está no emprego, o limite de 2 anos não corre, mas os depósitos anteriores aos 5 anos já não podem ser cobrados.
 
@@ -89,7 +87,7 @@ Quem foi dispensado sem justa causa pode sacar o saldo da conta vinculada, confo
 
 Um exemplo ilustrativo: se os depósitos feitos durante o contrato somaram R$ 20 mil, a multa de 40% seria de R$ 8 mil, além do saldo. Esse número serve só para entender a regra, e o valor real depende da correção e dos juros do período.
 
-## O que pedir na Justiça
+### O que pedir na Justiça
 
 Na reclamação trabalhista, o pedido costuma reunir os pontos abaixo. A lista é um roteiro geral, e a petição precisa de orientação jurídica:
 
@@ -107,7 +105,7 @@ Na reclamação trabalhista, o pedido costuma reunir os pontos abaixo. A lista �
 | Sindicato | Se você é filiado | Pergunte se o sindicato acompanha casos individuais |
 | Reclamação trabalhista | Após demissão ou se a empresa não regulariza | Observe o prazo de 2 anos e os 5 anos para trás |
 
-## Erros comuns
+### Erros comuns
 
 - **Esperar anos para cobrar.** O prazo para os depósitos mais antigos diminui com o tempo, e a demora pode fazer você perder parte do valor.
 - **Não guardar os comprovantes.** Sem o extrato e a troca de mensagens, a cobrança depende só da sua palavra.

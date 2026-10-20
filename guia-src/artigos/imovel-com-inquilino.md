@@ -28,6 +28,8 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00082451991-27"
   - title: "Lei 8.245/1991, art. 28 (prazo de trinta dias), LegJur"
     url: "https://www.legjur.com/legislacao/art/LEI_00082451991-28"
+  - title: "Lei 8.245/1991, art. 29 (desistência do locador após aceitação), síntese em LegJur"
+    url: "https://www.legjur.com/legislacao/art/LEI_00082451991-29"
   - title: "Lei 8.245/1991, art. 33 (locatário preterido e averbação), síntese em LegJur"
     url: "https://www.legjur.com/legislacao/art/LEI_00082451991-33"
 related: [aluguel-com-opcao-de-compra, comprar-imovel-para-alugar, matricula-do-imovel, promessa-de-compra-e-venda]
@@ -64,7 +66,7 @@ O quadro é uma leitura geral, e a palavra decisiva é "averbada". Uma cláusula
 
 O artigo 27 da Lei 8.245/1991 dá ao locatário preferência para adquirir o imóvel locado em caso de venda, promessa de venda, cessão ou dação em pagamento. Ele deve ter as mesmas condições oferecidas a terceiros. O dono precisa dar ciência do negócio por notificação judicial, extrajudicial ou outro meio que comprove a ciência inequívoca.
 
-A comunicação precisa trazer todas as condições do negócio, principalmente o preço, a forma de pagamento e a existência de ônus reais, além de indicar local e horário para o exame da documentação. Uma comunicação incompleta pode não produzir o efeito esperado, e isso é outro ponto de disputa.
+Pelo parágrafo único do artigo 27, a comunicação precisa trazer todas as condições do negócio, principalmente o preço, a forma de pagamento e a existência de ônus reais, além de indicar local e horário em que a documentação pode ser examinada. Uma comunicação incompleta pode não produzir o efeito esperado, e isso é outro ponto de disputa.
 
 O artigo 28 dá ao inquilino o prazo de 30 dias para aceitar integralmente a proposta. Se ele não manifestar, de forma clara, a aceitação total nesse prazo, o direito caduca. Já o artigo 29 prevê que, se o inquilino aceitar e o dono desistir do negócio, o dono responde pelos prejuízos, inclusive lucros cessantes.
 
@@ -88,7 +90,7 @@ Exemplo ilustrativo, com datas hipotéticas. Suponha que a venda seja registrada
 | Inquilino preterido pedir o imóvel, seis meses do registro (art. 33) | 10/11/2026 | 10/05/2027 |
 | Inquilino responder à proposta, 30 dias (art. 28) | 20/10/2026, por exemplo | 19/11/2026 |
 
-Os números mostram que o comprador de um imóvel alugado precisa acompanhar prazos por quase um ano. Se a denúncia for feita, o inquilino tem 90 dias para desocupar, o que pode levar o comprador a negociar a saída em vez de esperar o fim do prazo.
+Os números mostram que o comprador de um imóvel alugado precisa acompanhar prazos por cerca de seis meses depois do registro. Se a denúncia for feita, o inquilino tem 90 dias para desocupar, o que pode levar o comprador a negociar a saída em vez de esperar o fim do prazo.
 
 ## Negociar a saída do inquilino
 

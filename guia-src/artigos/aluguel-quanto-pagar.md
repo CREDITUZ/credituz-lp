@@ -4,9 +4,9 @@ description: "Não existe lei que fixe o limite do aluguel. Veja a referência d
 category: alternativas
 published: 2026-10-19
 updated: 2026-10-19
-reading_minutes: 7
+reading_minutes: 8
 key_points:
-  - "Não há limite legal para o valor do aluguel. A referência de planejamento mais usada é de até 30% da renda bruta, a mesma régua que bancos aplicam às parcelas de financiamento."
+  - "Não há limite legal para o valor do aluguel. Uma referência comum de planejamento é de até 30% da renda bruta. Esse número vem do crédito imobiliário, onde bancos aceitam comprometimento parecido para parcelas de financiamento."
   - "O aluguel pode ser reajustado pelo índice do contrato, mas o reajuste precisa respeitar a periodicidade mínima de um ano (Lei 10.192/2001, art. 2º, § 1º)."
   - "Teste o orçamento com a renda 20% menor. Se o aluguel passa de 30% nesse cenário, a margem é curta para um imprevisto."
   - "Ao comparar com a compra, use o custo total: parcela, juros, condomínio, IPTU, manutenção e o rendimento que a entrada deixa de render."
@@ -26,18 +26,18 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10192.htm"
   - title: "Serasa: comprometimento de renda no financiamento imobiliário (publicado em 18/06/2026)"
     url: "https://www.serasa.com.br/credito/blog/comprometimento-de-renda-financiamento-imobiliario/"
-  - title: "Banco Central do Brasil: taxa Selic (página oficial; a decisão de 16/09/2026 foi confirmada em notícias de imprensa)"
-    url: "https://www.bcb.gov.br/controleinflacao/taxaselic"
+  - title: "Banco Central do Brasil: histórico da taxa Selic (meta de 13,75% a partir de 17/09/2026, decisão do Copom de 16/09/2026)"
+    url: "https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros"
 related: [comprometimento-de-renda, alugar-ou-comprar, renda-para-financiar-imovel, sac-ou-price]
 ---
 
-Não existe limite legal para o aluguel. A resposta prática é que a maioria das pessoas deveria manter o aluguel dentro de uma faixa que deixe espaço para contas fixas, poupança e imprevistos. A referência de planejamento mais usada é de até 30% da renda bruta mensal. Essa é a mesma régua que os bancos aplicam às parcelas de financiamento, e não uma regra para quem aluga. Este texto mostra como usar essa referência, como fazer o teste com uma renda menor e como comparar o aluguel com a parcela de uma compra financiada. Para o outro lado da conta, leia [comprometimento de renda](/artigos/comprometimento-de-renda).
+Não existe limite legal para o aluguel. A resposta prática é que a maioria das pessoas deveria manter o aluguel dentro de uma faixa que deixe espaço para contas fixas, poupança e imprevistos. Uma referência comum de planejamento é de até 30% da renda bruta mensal. Esse percentual nasce no crédito imobiliário, como limite de comprometimento que os bancos aceitam para as parcelas de financiamento, e não é uma regra para quem aluga. Este texto mostra como usar essa referência, como fazer o teste com uma renda menor e como comparar o aluguel com a parcela de uma compra financiada. Para o outro lado da conta, leia [comprometimento de renda](/artigos/comprometimento-de-renda).
 
 ## A resposta direta: teto de planejamento, não teto legal
 
 Pelo texto da Lei 8.245/1991, o valor do aluguel é livre para as partes combinarem (art. 17). O contrato pode fixar qualquer valor inicial, desde que não seja em moeda estrangeira, nem atrelado à variação cambial ou ao salário mínimo. Por isso, nenhum órgão diz quanto da renda você pode gastar com aluguel. O que existe é uma referência usada por quem planeja o orçamento.
 
-Essa referência aparece em textos de crédito. O Serasa, em publicação de 18 de junho de 2026, informa que a maioria dos financiamentos aceita comprometimento de até 30% da renda bruta mensal. Aplicada ao aluguel, a mesma régua serve para testar se o orçamento tem folga. Ela não é uma proibição.
+O Serasa, em publicação de 18 de junho de 2026, informa que, na maioria dos financiamentos imobiliários, os bancos aceitam comprometimento de até 30% da renda bruta mensal. Esse dado é de financiamento. Aplicado ao aluguel, o mesmo percentual serve só para testar se o orçamento tem folga. Ele não é uma proibição.
 
 ## Quanto isso dá no seu caso
 
@@ -58,11 +58,11 @@ O salário pode cair, a empresa pode demitir e o contrato de trabalho pode mudar
 | Aluguel | Peso na renda de R$ 8.000 | Peso na renda de R$ 6.400 (queda de 20%) |
 |---|---|---|
 | R$ 1.600 | 20,0% | 25,0% |
-| R$ 2.000 | 25,0% | 31,2% |
+| R$ 2.000 | 25,0% | 31,3% |
 | R$ 2.400 | 30,0% | 37,5% |
 | R$ 2.800 | 35,0% | 43,8% |
 
-Com o aluguel de R$ 2.000, a pessoa está confortável enquanto a renda não cai. Com uma queda de 20%, o peso passa de 25% para 31,2%, o que já exige ajuste. Quem aluga R$ 2.800 fica com 43,8% da renda no cenário de queda, e precisa de um plano para reduzir gastos ou mudar de imóvel.
+Com o aluguel de R$ 2.000, a pessoa está confortável enquanto a renda não cai. Com uma queda de 20%, o peso passa de 25% para 31,3%, o que já exige ajuste. Quem aluga R$ 2.800 fica com 43,8% da renda no cenário de queda, e precisa de um plano para reduzir gastos ou mudar de imóvel.
 
 ## O aluguel também sobe
 
@@ -82,7 +82,7 @@ No quinto ano, o aluguel é cerca de 21,6% maior que no início. O total pago em
 
 ## Comparar aluguel com a parcela de uma compra
 
-Comparar aluguel com parcela sem o resto da conta engana. Considere um imóvel de R$ 400 mil, com entrada de 20% (R$ 80 mil) e financiamento de R$ 320 mil. O exemplo usa a taxa de 11,5% ao ano e prazo de 420 meses, sem seguros, tarifas e TR. Essas premissas são ilustrativas e seguem as usadas em [renda para financiar imóvel](/artigos/renda-para-financiar-imovel).
+Comparar aluguel com parcela sem o resto da conta engana. Considere um imóvel de R$ 400 mil, com entrada de 20% (R$ 80 mil) e financiamento de R$ 320 mil. O exemplo usa a taxa de 11,5% ao ano, convertida em mensal equivalente, e prazo de 420 meses, sem seguros, tarifas e TR. Essas premissas são ilustrativas e seguem as usadas em [renda para financiar imóvel](/artigos/renda-para-financiar-imovel).
 
 | Cenário (exemplo) | Primeira parcela | Peso na renda de R$ 8.000 | Renda para 30% |
 |---|---|---|---|
@@ -91,7 +91,7 @@ Comparar aluguel com parcela sem o resto da conta engana. Considere um imóvel d
 
 A parcela Price é menor no início, e por isso é a mais usada como referência de comparação. No SAC, a primeira parcela é a mais alta do contrato, e cai ao longo dos anos. Para entender a diferença, leia [SAC ou Price](/artigos/sac-ou-price). Quem quer testar outros valores pode usar o [simulador de financiamento](/simulador) ou a [calculadora de quanto posso financiar](/quanto-posso-financiar).
 
-Para o exemplo, a parcela Price de R$ 2.982 é maior que um aluguel de R$ 2.000. A diferença de R$ 982 por mês não é lucro, porque a compra também custa a entrada de R$ 80 mil. Se esse dinheiro ficasse aplicado à Selic de 13,75% ao ano, fixada pelo Banco Central em setembro de 2026, ele renderia cerca de R$ 11 mil por ano antes do imposto de renda. Esse custo de oportunidade precisa entrar na conta. O comparativo mais completo está em [alugar ou comprar](/artigos/alugar-ou-comprar).
+Para o exemplo, a parcela Price de R$ 2.982 é maior que um aluguel de R$ 2.000. A diferença de R$ 982 por mês não é lucro, porque a compra também custa a entrada de R$ 80 mil. A Selic está em 13,75% ao ano desde 17/09/2026, após a decisão do Copom de 16/09/2026. Se os R$ 80 mil rendessem essa taxa por um ano, o rendimento bruto seria de cerca de R$ 11 mil, antes do imposto de renda. Uma aplicação real pode render mais ou menos que a Selic, então use a taxa que você de fato consegue. Esse custo de oportunidade precisa entrar na conta. O comparativo mais completo está em [alugar ou comprar](/artigos/alugar-ou-comprar).
 
 Se a sua renda oscila, por ser autônomo ou por ter comissões, não use o melhor mês como base. Use a média dos últimos doze meses e, se possível, a renda do mês mais fraco. Um aluguel que cabe na média pode ficar pesado em um mês ruim, e a comparação com a parcela muda quando a renda cai. Quem tem renda variável deve manter uma reserva para cobrir pelo menos alguns meses de aluguel e de contas fixas antes de assumir qualquer compromisso de longo prazo.
 
@@ -126,4 +126,4 @@ Na locação, parte desses custos também existe, como condomínio e consertos d
 
 ## Resumo
 
-Não há lei que limite o aluguel. A referência de planejamento mais usada é de até 30% da renda bruta, e o teste com a renda 20% menor mostra se a margem é suficiente. O reajuste anual do contrato precisa ser somado à conta, porque ele cresce todo ano. Para comparar com a compra, use o custo total e não só a parcela, e inclua a entrada que deixa de render. Se a dúvida for sobre a sua renda ou o seu limite de crédito, procure uma simulação completa antes de decidir.
+Não há lei que limite o aluguel. A referência de planejamento de até 30% da renda bruta é uma régua de planejamento, não um limite legal, e o teste com a renda 20% menor mostra se a margem é suficiente. O reajuste anual do contrato precisa ser somado à conta, porque ele cresce todo ano. Para comparar com a compra, use o custo total e não só a parcela, e inclua a entrada que deixa de render. Se a dúvida for sobre a sua renda ou o seu limite de crédito, procure uma simulação completa antes de decidir.

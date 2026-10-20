@@ -8,7 +8,7 @@ reading_minutes: 8
 key_points:
   - "Na cooperativa habitacional, você entra como sócio e paga a casa em conjunto com outros cooperados. Em regra, não há financiamento bancário no meio."
   - "A cooperativa é regida pela Lei 5.764/1971, que a define como sociedade de pessoas de natureza civil e diz que ela não está sujeita a falência."
-  - "Se você desistir, a devolução pode ser menor que o total pago. Uma nota do Procon de Goiás, de maio de 2022, cita decisões que apontam devolução entre 80% e 100%."
+  - "Se você desistir, a devolução pode ser menor que o total pago. Uma nota do Procon de Goiás, de 31 de maio de 2022, afirma que o cooperado tem direito a receber entre 80% e 100% do valor pago. É nota estadual de 2022, não regra nacional."
   - "Antes de entrar, confira o registro da cooperativa, o estatuto, o terreno, o cronograma da obra e quem responde pelas despesas e pelo atraso."
 faq:
   - q: "Cooperativa habitacional é o mesmo que consórcio?"
@@ -22,10 +22,12 @@ faq:
 sources:
   - title: "Lei 5.764/1971 (Política Nacional de Cooperativismo), texto no Planalto (arts. 4º e 6º)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm"
-  - title: "Código Civil, art. 1.095 (responsabilidade dos sócios nas cooperativas), texto reproduzido em Petições Online"
+  - title: "Código Civil, art. 1.095 (responsabilidade dos sócios nas cooperativas), texto em Petições Online, fonte secundária"
     url: "https://www.peticoesonline.com.br/art-1095-cc"
-  - title: "Lei 4.591/1964 (condomínios e incorporações), texto consolidado no Planalto (trechos consultados, sem disposição sobre cooperativas)"
+  - title: "Lei 4.591/1964 (condomínios e incorporações), texto consolidado no Planalto (arts. 31 a 43 e 68 consultados, sem disposição sobre cooperativas habitacionais)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L4591compilado.htm"
+  - title: "Migalhas: uso de associações e cooperativas para burlar a lei de incorporação (comentário jurídico, fonte secundária)"
+    url: "https://www.migalhas.com.br/depeso/440614/uso-de-associacoes-e-cooperativas-para-burlar-a-lei-de-incorporacao"
   - title: "Procon-GO: alerta sobre cuidados na contratação de cooperativas habitacionais (nota de 31/05/2022)"
     url: "https://goias.gov.br/procon/procon-go-alerta-consumidores-sobre-cuidados-na-contratacao-de-cooperativas-habitacionais/"
 related: [minha-casa-minha-vida-entidades, consorcio-ou-financiamento, distrato-imovel-na-planta, atraso-na-entrega-do-imovel]
@@ -56,7 +58,7 @@ A cooperativa é regida pela Lei 5.764/1971. Seu artigo 4º diz que as cooperati
 
 Esse ponto da falência muda o caminho de cobrança e de liquidação quando algo dá errado. Ele não significa que o cooperado perca o direito de cobrar, mas exige atenção ao que o estatuto e o contrato preveem. Para entender o que acontece em caso de problema, procure um advogado.
 
-Uma confusão comum é achar que a Lei 4.591/1964 regula a cooperativa. Os trechos consultados dessa lei tratam de condomínios e incorporações imobiliárias, e não encontrei neles disposição sobre cooperativas. A base para avaliar a cooperativa é a Lei 5.764/1971, junto com o estatuto e o contrato.
+Uma confusão comum é achar que a Lei 4.591/1964 regula a cooperativa. Essa lei trata de condomínios e incorporações imobiliárias. Nos trechos que consultei (arts. 31 a 43 e o caput do art. 68), não encontrei disposição específica sobre cooperativas habitacionais. Não li a lei inteira, então a afirmação vale só para esses trechos. Um comentário jurídico publicado na Migalhas discute o uso de cooperativas para contornar a lei de incorporação e aponta o registro prévio do memorial de incorporação (art. 32). Se a cooperativa vender unidades a quem não é cooperado, esse ponto precisa de análise jurídica. A base para avaliar a cooperativa é a Lei 5.764/1971, junto com o estatuto e o contrato.
 
 ## Cooperativa, financiamento e consórcio: as diferenças
 
@@ -78,11 +80,11 @@ Os riscos mais citados por órgãos de defesa do consumidor são estes.
 
 ### Atraso e não entrega
 
-Atrasos e não entrega são a principal causa de ações judiciais contra cooperativas, segundo a nota do Procon de Goiás de maio de 2022. A nota diz que não cumprir os prazos fere o direito do cooperado e justifica ação contra a cooperativa, independentemente da justificativa dada. Por isso, leia o contrato à procura de prazo, multa e regras de devolução. Sem essas cláusulas claras, o cooperado fica sem saída prática quando a obra para.
+Atrasos na entrega são a maior causa de ações judiciais contra cooperativas, segundo a nota do Procon de Goiás de 31 de maio de 2022. A nota diz que o motivo do atraso não muda o direito do cooperado a ter o prazo respeitado. Por isso, leia o contrato à procura de prazo, multa e regras de devolução. Sem essas cláusulas claras, o cooperado fica sem saída prática quando a obra para.
 
 ### Desistência e devolução reduzida
 
-Se você desistir, a devolução pode ser menor que o total pago. A taxa de adesão, as multas e os descontos entram nessa conta. A nota do Procon de Goiás afirma que o Judiciário considera abusiva a cláusula que vá além dos limites do Código de Defesa do Consumidor, e cita decisões que apontam devolução de 80% a 100% do valor total pago, normalmente em parcela única.
+Se você desistir, a devolução pode ser menor que o total pago. A taxa de adesão, as multas e os descontos entram nessa conta. A mesma nota afirma que cláusulas que vão além dos limites do Código de Defesa do Consumidor são abusivas, e diz que o cooperado tem direito a receber entre 80% e 100% do valor pago. Como a nota é de 2022 e de órgão estadual, trate esse percentual como ponto de partida para a negociação, e não como garantia. Confira o que o seu contrato prevê.
 
 Veja um exemplo ilustrativo, com um cooperado que pagou R$ 60 mil ao longo da obra e desistiu:
 

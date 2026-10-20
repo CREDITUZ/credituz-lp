@@ -7,7 +7,7 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "Sinal é o valor dado para firmar a compra. Ele vira arras quando o contrato diz que foi dado a título de arras, e aí entra o regime do Código Civil (art. 417)."
-  - "Se as arras são confirmatórias e o comprador desiste sem motivo, o vendedor pode ficar com o sinal. Se o vendedor desiste, o comprador pode exigir o sinal de volta mais o equivalente (art. 418)."
+  - "Se as arras são confirmatórias e o comprador não cumpre o contrato, o vendedor pode ficar com o sinal. Se o vendedor desiste, o comprador pode exigir o sinal de volta mais o equivalente (art. 418)."
   - "Quando o contrato prevê direito de arrependimento, as arras são indenizatórias: quem desiste perde o sinal, ou devolve o valor mais o equivalente, sem indenização extra (art. 420)."
   - "A Lei 14.905/2024 mudou a redação do art. 418 para falar em atualização monetária, juros e honorários, sem índice fixo. O valor final depende do caso."
 faq:
@@ -30,6 +30,8 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-420"
   - title: "Lei 14.905, de 28/06/2024: nova redação do art. 418 do Código Civil, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14905.htm"
+  - title: "Lei 13.786, de 27/12/2018: distrato de imóvel na planta e em parcelamento, Planalto"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm"
 related: [promessa-de-compra-e-venda, desistir-da-compra-arrependimento, distrato-imovel-na-planta, contrato-de-gaveta]
 ---
 

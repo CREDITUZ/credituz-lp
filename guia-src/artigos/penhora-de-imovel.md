@@ -7,12 +7,12 @@ updated: 2026-10-19
 reading_minutes: 8
 key_points:
   - "A penhora recai sobre bens do devedor. Pela ordem do CPC, dinheiro vem primeiro e o imóvel aparece logo depois de títulos e veículos (CPC, art. 835)."
-  - "Quando a penhora é averbada no registro de imóveis, presume-se que todos conhecem a constrição, o que protege o credor (CPC, art. 844)."
+  - "Quando a penhora é averbada no registro de imóveis, a lei presume, de forma absoluta, que terceiros conhecem a constrição (CPC, art. 844)."
   - "Vender o imóvel depois de penhora registrada, ou em outros casos do art. 792 do CPC, pode configurar fraude à execução, e a venda não produz efeito contra o credor."
-  - "Sem penhora registrada, a Súmula 375 do STJ exige prova de má-fé do comprador. Já IPTU e dívidas de condomínio acompanham o imóvel."
+  - "Sem penhora registrada, a Súmula 375 do STJ exige que se prove a má-fé do terceiro adquirente. Já IPTU e dívidas de condomínio acompanham o imóvel."
 faq:
   - q: "Uma dívida pessoal do dono permite penhorar a casa dele?"
-    a: "Depende. Se o imóvel for a moradia única da família, a Lei 8.009/1990 o protege, em regra. Fora desse caso, e sem outra proteção, ele pode ser penhorado. Veja o artigo sobre bem de família."
+    a: "Depende. Se o imóvel for a moradia única da família, a Lei 8.009/1990 o protege, em regra. Fora desse caso, e sem outra proteção, ele pode ser penhorado. Veja o [artigo sobre bem de família](/artigos/bem-de-familia)."
   - q: "Comprei um imóvel e depois apareceu uma penhora. O que acontece?"
     a: "Depende do momento da venda e do registro. Quem comprou antes de qualquer penhora registrada e de boa-fé costuma ter mais segurança. O caso exige análise de advogado, com a matrícula e os processos do vendedor em mãos."
   - q: "Como saber se há penhora antes de comprar?"
@@ -30,8 +30,10 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00051721966-130"
   - title: "Código Civil, art. 1.345: responsabilidade do adquirente de unidade por débitos do condomínio, síntese em LegJur"
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-1345"
-  - title: "STJ: sem registro de penhora, fraude à execução exige prova de má-fé (notícia de agosto de 2023, Migalhas)"
+  - title: "STJ, 4ª Turma, agravos internos de agosto de 2023 sobre fraude à execução sem registro de penhora (notícia do Migalhas de 8/8/2023)"
     url: "https://www.migalhas.com.br/quentes/391337/stj-sem-registro-de-penhora-fraude-a-execucao-demanda-prova-de-ma-fe"
+  - title: "STJ, Súmula 375 (texto reproduzido pelo Damásio Jurídico)"
+    url: "https://juris.damasio.com.br/sumulas/stj/375"
 related: [contrato-de-gaveta, bem-de-familia, certidoes-do-imovel, matricula-do-imovel]
 ---
 
@@ -49,7 +51,7 @@ Há também a penhora de imóvel dado em garantia. Pelo § 3º do artigo 835, qu
 
 ## A penhora precisa ser registrada
 
-Uma penhora de imóvel vale de forma mais forte quando é averbada no registro de imóveis. O artigo 844 do CPC diz que, para presumir o conhecimento de terceiros, cabe ao credor providenciar a averbação, na matrícula, da penhora de bem imóvel. Depois da averbação, ninguém pode alegar que não sabia da constrição.
+Uma penhora de imóvel vale de forma mais forte quando é averbada no registro de imóveis. O artigo 844 do CPC diz que, para presunção absoluta de conhecimento por terceiros, cabe ao exequente providenciar a averbação da penhora no registro competente. Depois da averbação, a lei considera que o terceiro conhece a constrição, mesmo que alegue o contrário.
 
 É aqui que o registro muda a história. Uma penhora que aparece na matrícula é pública. Uma penhora que existe no processo, mas não foi averbada, pode passar despercebida para o comprador de boa-fé, e essa diferença é a que mais pesa na discussão sobre a venda.
 
@@ -67,7 +69,7 @@ Quando há fraude, a alienação não produz efeitos em relação ao credor, ou 
 
 ## Penhora registrada e penhora não registrada
 
-A Súmula 375 do STJ trata do caso em que a penhora não está registrada. Segundo a notícia publicada pelo Migalhas em agosto de 2023, a Corte Especial e o tema repetitivo consolidaram que o reconhecimento da fraude depende do registro da penhora ou da prova de má-fé do terceiro adquirente. O relator afirmou que não seria razoável exigir do comprador a pesquisa de certidões negativas em todo o país.
+A Súmula 375 do STJ trata do caso em que a penhora não está registrada. Ela diz que o reconhecimento da fraude depende do registro da penhora ou da prova de má-fé do terceiro adquirente. Em agosto de 2023, a 4ª Turma do STJ aplicou essa súmula em quatro agravos internos, e, segundo a notícia do Migalhas, o relator, ministro Raul Araújo, considerou pouco razoável exigir do comprador a pesquisa de certidões negativas em todo o país.
 
 Os cenários práticos ficam assim:
 
@@ -84,7 +86,7 @@ A tabela é uma simplificação. Cada caso depende das datas exatas, da ação e
 
 Quem comprou o imóvel e depois descobre uma penhora de dívida do antigo dono não fica sem caminho, mas precisa agir com rapidez. A primeira providência é reunir a escritura, o comprovante de pagamento do preço, a matrícula anterior à averbação e as certidões feitas no dia da compra. Esses documentos mostram a boa-fé e a data em que a venda ocorreu.
 
-Em seguida, a defesa costuma ser feita pelo próprio comprador, que não é parte do processo do vendedor. Essa via é chamada de embargos de terceiro, e é o meio próprio para afastar a constrição sobre um bem que já não pertence ao devedor. Quando o juiz pretende reconhecer a fraude, ele deve intimar o adquirente antes da decisão, e o prazo de 15 dias para os embargos corre a partir dessa intimação. Perder o prazo pode significar aceitar a penhora, mesmo que a compra tenha sido regular.
+Em seguida, a defesa costuma ser feita pelo próprio comprador, que não é parte do processo do vendedor. Essa via é chamada de embargos de terceiro, e é o meio próprio para afastar a constrição sobre um bem que já não pertence ao devedor. Quando o juiz pretende reconhecer a fraude, ele deve intimar o adquirente antes da decisão, e o §4º do artigo 792 prevê 15 dias para os embargos de terceiro. Quando esse prazo começa a contar em cada caso é uma questão para o advogado confirmar no processo. Perder o prazo pode significar aceitar a penhora, mesmo que a compra tenha sido regular.
 
 Na prática, o comprador também pode negociar com o credor, com o vendedor e com o cartório. Um acordo pode prever o pagamento da dívida com o preço retido, por exemplo. Qualquer solução desse tipo deve ser feita por escrito, com a participação de advogado, para que o valor e o efeito sobre o imóvel fiquem claros.
 
@@ -120,7 +122,7 @@ Essas etapas não garantem que nada aparecerá depois, porque uma ação pode se
 - A penhora atinge o imóvel do devedor, na ordem de preferência do CPC, em que o imóvel vem logo depois de dinheiro e títulos (art. 835).
 - A averbação da penhora na matrícula dá publicidade e presume o conhecimento de terceiros (art. 844).
 - Venda depois de penhora registrada ou em outros casos do art. 792 pode ser fraude à execução.
-- Sem registro, a Súmula 375 do STJ exige prova de má-fé do comprador para reconhecer a fraude.
+- Sem registro da penhora, a Súmula 375 do STJ exige prova de má-fé do terceiro adquirente para reconhecer a fraude.
 - IPTU e dívidas de condomínio acompanham o imóvel (CTN, art. 130; Código Civil, art. 1.345).
 - Antes de comprar, peça a certidão de ônus reais e as certidões do vendedor, e registre no contrato quem responde por cada dívida.
 

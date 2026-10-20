@@ -16,7 +16,7 @@ faq:
   - q: "Quem é fiador de aluguel perde a proteção da casa?"
     a: "Sim. A Lei 8.009/1990, no inciso VII do art. 3º, afasta a impenhorabilidade para a fiança em contrato de locação, e o STF decidiu que essa penhora é constitucional, seja a locação residencial ou comercial."
   - q: "A proteção vale para quem é solteiro, separado ou viúvo?"
-    a: "Sim. Segundo o STJ, a impenhorabilidade alcança também o imóvel de pessoa solteira, separada ou viúva, desde que seja a sua moradia."
+    a: "Sim. A Súmula 364 do STJ diz que o conceito de impenhorabilidade abrange também o imóvel de pessoa solteira, separada ou viúva, desde que ele seja a sua moradia."
   - q: "Posso alugar o único imóvel residencial e continuar protegido?"
     a: "Em parte. Pela Súmula 486 do STJ, o único imóvel residencial locado a terceiros continua impenhorável se a renda do aluguel for usada para a subsistência ou a moradia da família."
 sources:
@@ -30,8 +30,10 @@ sources:
     url: "https://www.legjur.com/legislacao/art/LEI_00104062002-1711"
   - title: "STJ, Jurisprudência em Teses nº 44: Bem de Família (revisada em 20/01/2023)"
     url: "https://www.stj.jus.br/docs_internet/jurisprudencia/jurisprudenciaemteses/Jurisprudencia%20em%20Teses%2044%20-%20Bem%20de%20Familia.pdf"
-  - title: "STF, Tema 1127 de repercussão geral: penhora de bem de família de fiador (julgado em 10/03/2022)"
+  - title: "STF, RE 1.307.334 (Tema 1127 de repercussão geral): penhora de bem de família de fiador (julgado em 08/03/2022)"
     url: "https://juris.damasio.com.br/temas/stf/1127"
+  - title: "STJ, Súmula 364 (texto reproduzido pelo Damásio Jurídico, consulta de texto oficial)"
+    url: "https://juris.damasio.com.br/sumulas/stj/364"
 related: [penhora-de-imovel, certidoes-do-imovel, renegociacao-de-divida-imobiliaria, usucapiao]
 ---
 
@@ -45,7 +47,7 @@ O artigo 1º da Lei 8.009/1990 diz que o imóvel residencial próprio do casal, 
 
 O parágrafo único estende a proteção às construções, às benfeitorias e aos equipamentos e móveis que guarnecem a casa, desde que estejam quitados. Já o artigo 2º deixa de fora alguns bens, como veículos de transporte, obras de arte e adornos suntuosos. Ou seja, a casa está protegida, mas o carro da família pode ser penhorado.
 
-O conceito de "entidade familiar" é amplo. Ele alcança o casal, mas também a pessoa que vive sozinha, separada ou viúva, segundo a jurisprudência do STJ. O que importa é a moradia.
+O conceito de "entidade familiar" é amplo. Ele alcança o casal, mas também a pessoa que vive sozinha, separada ou viúva, como reconhece a Súmula 364 do STJ. O que importa é a moradia.
 
 ## Bem de família convencional
 
@@ -55,11 +57,11 @@ Essa modalidade tem uma diferença importante: ela protege um teto, e não o im�
 
 Os dois mecanismos se somam. A instituição convencional não substitui a proteção legal, e por isso o registro da escritura deve ser feito com atenção ao texto e às regras de impenhorabilidade da lei especial.
 
-A proteção também precisa ser alegada no processo. A impenhorabilidade não é aplicada de ofício em todos os casos, e quem a invoca deve comprovar que o imóvel é a residência da família, por meio de documentos como a matrícula, contas de consumo no endereço e certidão de casamento ou de união estável, quando houver. Se a penhora já foi feita, a defesa é apresentada no próprio processo, e o prazo e a forma dependem da fase em que a execução se encontra. Por isso, a pessoa que recebe uma citação ou uma intimação de penhora não deve esperar: o ideal é procurar orientação logo.
+A proteção também precisa ser levada ao processo. Segundo a Jurisprudência em Teses nº 44 do STJ, a impenhorabilidade é questão de ordem pública, que o titular não pode renunciar, e pode ser alegada em qualquer momento até a arrematação do bem. Na prática, quem a invoca deve comprovar que o imóvel é a residência da família, por meio de documentos como a matrícula, contas de consumo no endereço e certidão de casamento ou de união estável, quando houver. Se a penhora já foi feita, a defesa é apresentada no próprio processo, e o prazo e a forma dependem da fase em que a execução se encontra. Por isso, a pessoa que recebe uma citação ou uma intimação de penhora não deve esperar: o ideal é procurar orientação logo.
 
 ## Quando a penhora é possível
 
-O artigo 3º da Lei 8.009/1990 lista as exceções. A tabela resume as principais. Os incisos seguem a ordem do texto da lei, e a redação de cada um deve ser conferida no texto oficial antes de qualquer uso em peça ou decisão.
+O artigo 3º da Lei 8.009/1990 lista as exceções. A tabela resume as principais, com os incisos na ordem do texto oficial da lei. Os incisos citados foram conferidos no texto publicado pelo Planalto, que também traz outras hipóteses, como a do inciso VIII, que trata de créditos da Procuradoria-Geral Federal por benefício previdenciário recebido indevidamente.
 
 | Tipo de dívida | Penhora do imóvel de moradia | Referência |
 |---|---|---|
@@ -75,7 +77,7 @@ Duas linhas merecem atenção. A primeira é a de financiamento: se a família c
 
 ## Fiador de aluguel: a exceção mais comum
 
-Quem assina como fiador de contrato de locação deve saber que a proteção da casa pode cair. O inciso VII do artigo 3º afasta a impenhorabilidade para essa obrigação. A jurisprudência confirmou a regra: a Súmula 549 do STJ considera legítima a penhora do bem de família do fiador, e o STF, no Tema 1127, fixou que é constitucional a penhora de bem de família pertencente a fiador de contrato de locação, seja residencial, seja comercial. O julgamento ocorreu em 10 de março de 2022.
+Quem assina como fiador de contrato de locação deve saber que a proteção da casa pode cair. O inciso VII do artigo 3º afasta a impenhorabilidade para essa obrigação. A jurisprudência confirmou a regra: a Súmula 549 do STJ considera legítima a penhora do bem de família do fiador, e o STF, no Tema 1127, fixou que é constitucional a penhora de bem de família pertencente a fiador de contrato de locação, seja residencial, seja comercial. O julgamento ocorreu em 8 de março de 2022.
 
 Na prática, isso significa que a casa do fiador pode responder pelo aluguel não pago, pelos encargos e por outras obrigações que a fiança cobre, conforme o contrato. Antes de assinar como fiador, leia o contrato, verifique o que a fiança inclui e avalie se outra garantia, como o seguro-fiança ou o depósito, é o caminho mais seguro para as duas partes.
 
@@ -83,7 +85,7 @@ Na prática, isso significa que a casa do fiador pode responder pelo aluguel nã
 
 O artigo 5º da Lei 8.009/1990 considera residência o imóvel único usado pelo casal ou pela entidade familiar como moradia permanente. Quando a família tem mais de um imóvel usado como residência, a proteção recai sobre o de menor valor, salvo se outro tiver sido registrado para esse fim no Registro de Imóveis.
 
-Veja um exemplo ilustrativo. Uma família mora em uma casa avaliada em R$ 420.000 e tem outra, de R$ 280.000, usada como moradia de um parente. Sem registro em contrário, a proteção recai sobre a de R$ 280.000, que é a de menor valor. Se a família registrar que a casa de R$ 420.000 é a sua residência, o registro muda a conta. A decisão de registrar é estratégica e deve ser tomada com orientação jurídica, porque depende da dívida e do patrimônio como um todo.
+Veja um exemplo ilustrativo. Uma família mora em uma casa avaliada em R$ 420.000 e tem outra, de R$ 280.000, que também usa como residência, em outra cidade onde trabalha um dos cônjuges. Sem registro em contrário, a proteção recai sobre a de R$ 280.000, que é a de menor valor. Se a família registrar que a casa de R$ 420.000 é a sua residência, o registro muda a conta. A decisão de registrar é estratégica e deve ser tomada com orientação jurídica, porque depende da dívida e do patrimônio como um todo.
 
 A Súmula 486 do STJ trata de outra situação. O único imóvel residencial locado a terceiros permanece impenhorável se a renda do aluguel for destinada à subsistência ou à moradia da família. Quando a família mora de aluguel em outra cidade e o único imóvel próprio está alugado, a análise deve considerar essa regra e a prova da destinação da renda.
 
