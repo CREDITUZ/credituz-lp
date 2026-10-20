@@ -4,21 +4,21 @@ description: "Dá para usar o FGTS para comprar uma fração ideal ou a parte de
 category: fgts
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "Em regra, dá para usar o FGTS na compra de uma fração de imóvel residencial, desde que a fração seja para a sua moradia."
-  - "Não encontrei norma oficial com percentual mínimo ou máximo de fração para a compra com FGTS. Os textos comerciais citam 40%, mas o número não aparece em norma."
+  - "O manual oficial do FGTS não fixa percentual máximo para a fração comprada. O 40% citado em textos comerciais se refere à fração de outro imóvel que o comprador já tenha."
   - "Os outros donos do imóvel podem ter direito de preferência na venda da parte, conforme o artigo 504 do Código Civil."
   - "Antes de assinar, peça a matrícula atualizada, o método de avaliação do banco e a confirmação por escrito de que a fração é aceita."
 faq:
   - q: "Dá para usar o FGTS para comprar só uma parte de imóvel?"
-    a: "Em regra, sim, se a parte for para a sua moradia e você cumprir as condições de comprador. Como não há norma específica para fração que eu tenha encontrado, a análise final é do banco, e a resposta deve ser confirmada por escrito."
+    a: "Em regra, sim, se a parte for para a sua moradia e você cumprir as condições de comprador. O manual oficial admite a aquisição de fração sem limite de percentual, mas a análise final e o método de avaliação ficam com o banco."
   - q: "O que é fração ideal?"
     a: "É a parte que cada dono tem sobre o imóvel inteiro, expressa em percentual, mesmo quando o imóvel não está dividido fisicamente. Aparece com frequência em herança, em partilha de divórcio e em imóveis de vários irmãos."
   - q: "Quem tem preferência para comprar a parte de um dos donos?"
-    a: "Os outros donos do imóvel podem ter preferência, nas condições do artigo 504 do Código Civil, quando o imóvel é indivisível. Quem não recebeu o aviso pode pedir a parte vendida no prazo de 180 dias."
+    a: "Os outros donos podem ter preferência, nas condições do artigo 504 do Código Civil, quando o imóvel é indivisível. Quem não recebeu o aviso pode pedir a parte vendida no prazo de 180 dias."
   - q: "Posso comprar fração de imóvel herdado com FGTS?"
-    a: "Um blog de dezembro de 2025 descreve esse caminho, mas não cita norma que o sustente. Trate a hipótese como algo a levar ao banco e a um advogado, e não como regra confirmada."
+    a: "Não encontrei regra específica para fração recebida por herança. Trate a hipótese como algo a levar ao banco e a um advogado, e não como regra confirmada."
 sources:
   - title: "Lei 8.036/1990 (Lei do FGTS), artigo 20, texto compilado, Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm"
@@ -26,16 +26,14 @@ sources:
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
   - title: "Artigo 504 do Código Civil, texto de referência (Peticoes Online)"
     url: "https://www.peticoesonline.com.br/art-504-cc"
-  - title: "Manual de utilização do FGTS (Ademicon), material comercial sem data"
-    url: "https://ademicon.com.br/ademicon-imagens-wp/Manual-de-utliza%C3%A7%C3%A3o-do-FGTS.pdf"
+  - title: "Manual da Moradia Própria do FGTS, versão de 05/04/2024 (fgts.gov.br)"
+    url: "https://www.fgts.gov.br/Paginas/downloads/manuais/MANUAL_DA_MORADIA_PROPRIA_05_04_2024.pdf"
   - title: "Formulário de autorização de movimentação de conta vinculada do FGTS para aquisição, Santander (2026)"
     url: "https://cms.santander.com.br/sites/WPS/documentos/arq-aquisicao/26-07-01_192401_autorizacao-para-movimentacao-de-conta-vinculada-do-fgts-aquisicao.pdf"
-  - title: "É possível usar o FGTS para comprar a parte de um imóvel herdado? (blog Spimovel, dezembro de 2025)"
-    url: "https://spimovel.com.br/blog/e-possivel-usar-o-fgts-para-comprar-a-parte-de-um-imovel-herdado-veja-as-regras/4247/"
 related: [condominio-direitos-e-deveres, fgts-de-quem-ja-tem-imovel, fgts-e-heranca, fgts-de-dois-compradores]
 ---
 
-Em regra, sim: dá para usar o FGTS para comprar uma fração de imóvel residencial, desde que a fração seja para a sua moradia e você cumpra as condições de comprador. A regra não trata a fração de forma especial, e a análise final fica com o banco. Não encontrei norma oficial que fixe um percentual mínimo ou máximo de fração para a compra com FGTS. Os textos comerciais que li citam o limite de 40%, sobretudo no caso de herança, mas esse número não aparece em norma que eu tenha conseguido abrir.
+Em regra, sim: dá para usar o FGTS para comprar uma fração de imóvel residencial, desde que a fração seja para a sua moradia e você cumpra as condições de comprador. A análise final fica com o banco. O manual oficial do FGTS, na versão de 05/04/2024, admite a aquisição de fração ideal independentemente do percentual que está sendo comprado. O número de 40% que aparece em textos comerciais refere-se a outra situação: a fração de imóvel que o comprador já possui, e não a fração que ele compra.
 
 ## O que é fração ideal
 
@@ -79,11 +77,11 @@ Em todos os casos, o ponto central é o mesmo: a parte precisa ser para a sua mo
 
 ## Perguntas para levar ao banco
 
-Como as condições de fração variam e não estão em norma pública que eu tenha encontrado, leve estas perguntas por escrito antes de montar a proposta:
+Como as condições de fração podem mudar de uma versão do manual para outra, leve estas perguntas por escrito antes de montar a proposta:
 
 - A instituição financia ou aceita o uso do FGTS para a compra de uma fração deste imóvel?
 - Qual método de avaliação é usado para a fração: a proporção do imóvel inteiro ou a avaliação da parte?
-- Há algum limite de percentual de fração para esta operação, e qual norma ou manual o define?
+- Há algum limite de percentual de fração para esta operação, e qual norma ou manual o define, na versão vigente?
 - Quais documentos dos outros donos são exigidos, como autorização, renúncia de preferência ou escritura de cessão?
 - Se o imóvel tiver usufruto, penhora ou outra restrição, a operação é possível?
 
@@ -99,14 +97,14 @@ Esse número, porém, não diz quanto o banco vai financiar. Se o banco usar a p
 
 1. **Peça a matrícula atualizada.** Confira quem são os donos e qual fração cada um tem. Se houver herança, confirme também se o inventário ou a partilha está concluído.
 2. **Pergunte ao banco, por escrito,** se aceita a compra de fração, se usa FGTS nessa operação e qual método de avaliação adota.
-3. **Confira as condições do comprador.** São necessários 3 anos de FGTS, moradia própria e nenhum outro imóvel residencial na região. Se você já tem uma fração de imóvel residencial na mesma cidade, a compra pode ficar bloqueada, e o tema está em [quem já tem imóvel](/artigos/fgts-de-quem-ja-tem-imovel).
+3. **Confira as condições do comprador.** Pelo manual, são necessários 3 anos de FGTS, moradia própria, nenhum financiamento ativo no SFH e nenhum outro imóvel residencial no município, nos vizinhos ou na região metropolitana. A exceção de fração de até 40% de outro imóvel, sem ultrapassar esse percentual em cada um, não impede a compra (item 12.2, alínea "f", do manual). Se você já tem imóvel residencial na mesma cidade, veja [quem já tem imóvel](/artigos/fgts-de-quem-ja-tem-imovel).
 4. **Verifique a preferência dos outros donos.** Peça a prova de aviso ou a renúncia por escrito.
-5. **Confira o ITBI e o registro.** O imposto costuma incidir sobre a parte adquirida, mas a regra municipal define o cálculo. Veja [ITBI, o que é e como calcular](/artigos/itbi) e confirme com a prefeitura.
+5. **Confira o ITBI e o registro.** A base de cálculo do ITBI depende da regra da prefeitura. Pergunte se o imposto incide sobre a parte adquirida ou sobre o valor do imóvel inteiro. Veja [ITBI, o que é e como calcular](/artigos/itbi).
 6. **Assine apenas com registro previsto.** Acordos de papel sem escritura e registro não dão garantia de propriedade. Veja [contrato de gaveta](/artigos/contrato-de-gaveta).
 
 ## Erros comuns
 
-- **Confiar no percentual de 40% de um texto comercial.** Um número sem norma não deve guiar a decisão. Confirme com o banco.
+- **Confundir o 40%.** Esse percentual vale para a fração de outro imóvel que o comprador já tem. Ele não limita a fração que está sendo comprada, mas confirme a aplicação no seu caso com o banco.
 - **Comprar uma parte sem ver quem são os outros donos.** A falta dessa informação é o principal motivo de problemas depois do contrato.
 - **Usar o FGTS para comprar uma parte que não será moradia.** O saldo serve para a moradia própria, e uma fração para investimento não cabe nessa regra.
 - **Ignorar a preferência dos outros donos.** Um aviso não recebido pode transformar a compra em disputa judicial.
@@ -116,8 +114,8 @@ Esse número, porém, não diz quanto o banco vai financiar. Se o banco usar a p
 ## Resumo
 
 - Em regra, dá para usar o FGTS para comprar fração de imóvel residencial que será sua moradia.
-- Não encontrei norma com percentual de fração para essa compra. Quem decide é o banco, e a resposta precisa ser por escrito.
+- O manual oficial de 2024 admite a fração sem limite de percentual na compra, e o 40% se refere à fração de outro imóvel que o comprador já possui.
 - Os outros donos podem ter direito de preferência, conforme o artigo 504 do Código Civil.
-- Antes de assinar, peça a matrícula, o método de avaliação e a confirmação por escrito da fração. Um advogado deve analisar a venda entre donos.
+- Antes de assinar, peça a matrícula, o método de avaliação e a confirmação por escrito do banco. Um advogado deve analisar a venda entre donos.
 
 Para estimar o valor financiável com o saldo do FGTS, use a [calculadora de quanto posso financiar](/quanto-posso-financiar). Para simular a parcela, use o [simulador de financiamento](/simulador).

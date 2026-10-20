@@ -4,7 +4,7 @@ description: "Quanto rende o saldo do FGTS em 2026 com TR e 3% ao ano, o efeito 
 category: fgts
 published: 2026-10-20
 updated: 2026-10-20
-reading_minutes: 7
+reading_minutes: 8
 key_points:
   - "O saldo do FGTS rende a TR mais 3% ao ano, cerca de 4,6% ao ano com a TR de outubro de 2026, e, pela decisão do STF, deve repor pelo menos a inflação medida pelo IPCA."
   - "Esse rendimento quase empata com a inflação de 4,58% em 12 meses, até setembro de 2026."
