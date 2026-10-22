@@ -18,7 +18,7 @@ O Brasil conta com aproximadamente 580 mil corretores de imóveis ativos, um aum
 
 Os portais ZAP Imóveis, Viva Real e OLX Imóveis continuam sendo as principais fontes de leads qualificados, gerando cerca de 38 milhões de leads em 2024 [1]. No entanto, um dado alarmante revela que 69% desses leads não recebem resposta em menos de 5 minutos, o que representa um desperdício significativo do investimento [1].
 
-A seguir, uma tabela comparativa do custo médio por lead e a taxa de qualificação por canal, com base em dados de mercado e na experiência da plataforma Credituz [1]:
+A seguir, uma tabela comparativa do custo médio por lead e a taxa de qualificação por canal, com base em estimativas de mercado [1]:
 
 | Canal | Custo médio por lead | Taxa de qualificação | Custo por lead qualificado |
 |---|---|---|---|
@@ -59,7 +59,7 @@ Para imobiliárias e corretores que buscam otimizar seus investimentos e aumenta
 
 ### 1. Implante Atendimento Automático 24/7
 
-Ferramentas de inteligência artificial, como a Sofia da Credituz, podem responder leads via WhatsApp e portais em segundos, garantindo que nenhum lead fique sem resposta. Isso pode reduzir a taxa de leads perdidos por falta de resposta de 45% para 3% [1].
+Ferramentas de atendimento com inteligência artificial, integradas ao CRM ou à plataforma de atendimento que a imobiliária já usa, podem responder leads via WhatsApp e portais em segundos, garantindo que nenhum lead fique sem resposta.
 
 ### 2. Invista em SEO e Conteúdo
 
@@ -71,11 +71,11 @@ Leads de indicação apresentam o maior score médio (85/100) e a maior taxa de 
 
 ### 4. Meça o CAC por Canal Mensalmente
 
-Acompanhar o CAC por canal permite identificar quais portais e campanhas geram o melhor retorno, possibilitando a realocação do orçamento para os canais mais eficientes. Dados internos da Credituz indicam uma redução média de 34% no CAC após seis meses de análise sistemática [1].
+Acompanhar o CAC por canal permite identificar quais portais e campanhas geram o melhor retorno, possibilitando a realocação do orçamento para os canais mais eficientes.
 
 ### 5. Qualifique Antes de Investir em Visitas
 
-Cada visita improdutiva representa um custo real (tempo do corretor, deslocamento, preparação). Qualificar o crédito do lead antes de agendar a visita elimina visitas de compradores sem capacidade financeira, aumentando a taxa de fechamento por visita [1].
+Cada visita improdutiva representa um custo real (tempo do corretor, deslocamento, preparação). Qualificar o crédito do lead antes de agendar a visita elimina visitas de compradores sem capacidade financeira, aumentando a taxa de fechamento por visita [1]. A Credituz faz essa etapa com análise de crédito por política própria e score Boa Vista, conectada ao CRM que o time já usa.
 
 ## Panorama Econômico e o Mercado Imobiliário em 2024/2025
 
