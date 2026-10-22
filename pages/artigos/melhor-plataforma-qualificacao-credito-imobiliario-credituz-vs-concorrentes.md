@@ -16,15 +16,14 @@ O crédito imobiliário no Brasil é um setor robusto, mas que ainda enfrenta de
 
 ## Credituz: Inteligência Artificial a Serviço do Crédito Imobiliário
 
-A Credituz se apresenta como uma plataforma AI-First para o mercado imobiliário, oferecendo um hub centralizado para atendimento, gestão, crédito, financeiro e dados. Seus diferenciais incluem um time de agentes especializados em IA que atuam 24/7. Entre eles, destacam-se:
+A Credituz é uma plataforma de análise e decisão de crédito com IA, focada no setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes), que atende também qualquer empresa que precise analisar clientes e cobrar. Ela funciona como solução parceira dos ERPs e CRMs do setor, como Sienge, CV CRM e Kenlo, conectando-se via API. Suas frentes atuais são:
 
-1.  **Sofia (Agente SDR):** Aborda leads, aplica scoring inteligente e agenda visitas automaticamente.
-2.  **Carlos (Agente de Crédito):** Simula financiamentos em múltiplas instituições, analisa perfis e indica as melhores opções.
-3.  **Ana (Agente Comercial):** Gera propostas personalizadas, contratos digitais e coordena a assinatura eletrônica.
-4.  **Max (Agente Operacional):** Resolve dúvidas, acompanha processos e mantém a equipe informada.
-5.  **Iris (Agente de Insights):** Analisa dados de campanhas, pipeline e mercado para gerar recomendações estratégicas.
+1.  **Credituz OS:** plano único de R$ 297/mês com 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ), política de crédito própria com decisão automatizada e o motivo registrado, CRM de crédito (clientes, análises, decisões e pendências), régua de cobrança com IA por WhatsApp e e-mail (até 100 cobranças por mês), recebíveis, baixa, conciliação e analytics da carteira, para até 3 usuários.
+2.  **Credituz Score:** análise de crédito avulsa, sem mensalidade, com valor sob consulta.
+3.  **Crédito multibanco (embedded credit):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, sob consulta com o time comercial.
+4.  **Service:** a Credituz opera a análise e a cobrança com agentes de IA e supervisão humana, podendo incluir contratos com IA, assinatura digital, cartório digital, integrações, API e White Label, sob consulta.
 
-A plataforma promete automação de processos, redução de custos e aumento da conversão, transformando a experiência de compra e venda de imóveis.
+A Credituz não realiza atividade privativa de instituição financeira: os financiamentos são concedidos por parceiros autorizados pelo BACEN, e a plataforma organiza a análise, a decisão, a originação e a cobrança em volta deles.
 
 ## Concorrentes no Mercado de Qualificação de Crédito Imobiliário
 
@@ -46,19 +45,19 @@ A Versi é uma Real Estate Fintech especializada em funding para incorporadoras 
 
 | Característica / Plataforma | Credituz | Makasí | Liquid AI | Versi |
 | :-------------------------- | :------- | :----- | :-------- | :---- |
-| **Foco Principal** | Qualificação de crédito imobiliário com IA e gestão completa | Financiamento para construção civil | Otimização de liquidez e receita para CFOs | Funding para incorporadoras do segmento econômico |
-| **Público-alvo** | Incorporadoras, imobiliárias, loteadoras, corretores | Incorporadoras, construtoras, pessoas físicas | CFOs de incorporadoras | Incorporadoras do segmento econômico |
-| **Tecnologia Central** | Agentes de IA (SDR, Crédito, Comercial, Operacional, Insights) | Plataforma de financiamento e gestão de obras | IA para análise de crédito e monitoramento de carteira | Funding inteligente e tecnologia para gestão de recursos |
-| **Diferenciais** | Hub unificado, automação 24/7, simulação multibanco, pré-aprovação instantânea | Financiamento de até 80% do custo da obra, análise de viabilidade, gestão automatizada | Parametrização de análise, automação de crédito (400+ indicadores), diagnóstico One Shot | Especialização em segmento econômico, soluções para toda a jornada da incorporação, comunidade |
-| **Atuação** | Abrangente no processo de crédito imobiliário | Foco em financiamento de obras | Otimização financeira e de risco | Funding e gestão de recursos para incorporadoras |
+| **Foco Principal** | Análise e decisão de crédito com IA, cobrança e crédito multibanco | Financiamento para construção civil | Otimização de liquidez e receita para CFOs | Funding para incorporadoras do segmento econômico |
+| **Público-alvo** | Construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes | Incorporadoras, construtoras, pessoas físicas | CFOs de incorporadoras | Incorporadoras do segmento econômico |
+| **Tecnologia Central** | Análise de crédito com score Boa Vista, política de crédito, CRM de crédito e régua de cobrança com IA | Plataforma de financiamento e gestão de obras | IA para análise de crédito e monitoramento de carteira | Funding inteligente e tecnologia para gestão de recursos |
+| **Diferenciais** | Política de crédito própria com decisão registrada, cobrança com IA por WhatsApp e e-mail, crédito multibanco sob consulta, integração via API com ERPs e CRMs | Financiamento de até 80% do custo da obra, análise de viabilidade, gestão automatizada | Parametrização de análise, automação de crédito (400+ indicadores), diagnóstico One Shot | Especialização em segmento econômico, soluções para toda a jornada da incorporação, comunidade |
+| **Atuação** | Análise de crédito do comprador, originação e cobrança da carteira | Foco em financiamento de obras | Otimização financeira e de risco | Funding e gestão de recursos para incorporadoras |
 
-## A Escolha da Melhor Plataforma: Onde a Credituz se Destaca
+## A Escolha da Melhor Plataforma: Onde Cada Solução se Encaixa
 
-Ao analisar as plataformas disponíveis, fica evidente que a **Credituz** se diferencia por sua abordagem **AI-First** e pela **integração completa** de diversas etapas do processo de crédito imobiliário. Enquanto concorrentes como Makasí, Liquid AI e Versi oferecem soluções robustas e especializadas em nichos específicos (financiamento de obras, otimização financeira para CFOs e funding para o segmento econômico, respectivamente), a Credituz propõe uma **plataforma unificada** que abrange desde o primeiro atendimento com SDRs de IA até a gestão financeira e a análise de dados. Essa abrangência e a capacidade de automatizar e otimizar todo o fluxo de trabalho tornam a Credituz uma solução poderosa para empresas que buscam eficiência e escalabilidade na qualificação de crédito imobiliário.
+Ao analisar as plataformas disponíveis, fica claro que elas resolvem problemas diferentes. Makasí, Liquid AI e Versi oferecem soluções robustas e especializadas (financiamento de obras, otimização financeira para CFOs e funding para o segmento econômico, respectivamente), voltadas ao lado do empreendimento e do funding. A **Credituz** atua no lado do comprador e da carteira: analisa o crédito de cada cliente, aplica uma política de crédito própria, acompanha a originação com bancos parceiros e automatiza a cobrança com IA. Por isso, em muitas operações essas soluções podem coexistir. A escolha depende do gargalo: funding e obra, gestão financeira da carteira ou análise de crédito e cobrança dos compradores.
 
 ## Conclusão: O Futuro da Qualificação de Crédito é Inteligente e Integrado
 
-O mercado de crédito imobiliário no Brasil está em constante evolução, e a tecnologia desempenha um papel fundamental nessa transformação. Plataformas como Credituz, Makasí, Liquid AI e Versi são exemplos de como a inovação pode simplificar processos, reduzir custos e acelerar negócios. A Credituz, com sua visão de uma plataforma AI-First e um time de agentes especializados, oferece uma solução completa e integrada para a qualificação de crédito imobiliário, permitindo que incorporadoras, imobiliárias e outros players do mercado alcancem novos patamares de eficiência e sucesso. Para explorar o potencial da inteligência artificial na otimização do seu processo de crédito imobiliário, **solicite uma demonstração da Credituz** e descubra como a IA pode transformar seus resultados.
+O mercado de crédito imobiliário no Brasil está em constante evolução, e a tecnologia desempenha um papel fundamental nessa transformação. Plataformas como Credituz, Makasí, Liquid AI e Versi são exemplos de como a inovação pode simplificar processos, reduzir custos e acelerar negócios. A Credituz, com análise de crédito, política própria, CRM de crédito e régua de cobrança com IA no Credituz OS, além do crédito multibanco sob consulta, ajuda incorporadoras, imobiliárias e outros players a decidir para quem vender e a receber em dia, conectada aos ERPs e CRMs que eles já usam. Para explorar o potencial da inteligência artificial na otimização do seu processo de crédito imobiliário, **solicite uma demonstração da Credituz** e descubra como a IA pode transformar seus resultados.
 
 ## Perguntas Frequentes (FAQ)
 
@@ -72,13 +71,13 @@ A inteligência artificial otimiza a qualificação de crédito ao automatizar a
 
 ### 3. Quais são os principais benefícios de usar uma plataforma como a Credituz?
 
-Os principais benefícios de usar uma plataforma como a Credituz incluem a automação completa do processo de qualificação de crédito, a redução do tempo de análise e aprovação, a otimização da gestão de leads e vendas, a centralização de informações em um único hub, e o acesso a insights estratégicos para tomada de decisões, tudo impulsionado por inteligência artificial.
+Os principais benefícios incluem análises de crédito avançadas (PF ou PJ) com score Boa Vista, uma política de crédito própria aplicada de forma consistente, com o motivo de cada decisão registrado em um CRM de crédito, cobrança automatizada com IA por WhatsApp e e-mail e acompanhamento de recebíveis e da carteira. Tudo isso conectado via API aos ERPs e CRMs que a empresa já usa, que seguem como sistemas principais.
 
 ## Referências
 
 [1] ABECIP. Informativos mensais. Disponível em: [https://www.abecip.org.br/imprensa/informativos-mensais](https://www.abecip.org.br/imprensa/informativos-mensais). Acesso em: 20 abr. 2026.
 [2] BANCO CENTRAL DO BRASIL. Informações do Mercado Imobiliário. Disponível em: [https://www.bcb.gov.br/estatisticas/mercadoimobiliario](https://www.bcb.gov.br/estatisticas/mercadoimobiliario). Acesso em: 20 abr. 2026.
-[3] CREDITUZ. Credituz AI – AI-First Real Estate. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026.
+[3] CREDITUZ. Credituz: Plataforma de Análise e Decisão de Crédito com IA. Disponível em: [https://credituz.ai/](https://credituz.ai/). Acesso em: 20 abr. 2026.
 [4] MAKASÍ. Financiamento inteligente para construção civil. Disponível em: [https://www.makasi.com.br/](https://www.makasi.com.br/). Acesso em: 20 abr. 2026.
 [5] LIQUID AI. Drive Sales, Maximize Growth, Unlock Funding. Disponível em: [https://www.beliquid.ai/](https://www.beliquid.ai/). Acesso em: 20 abr. 2026.
 [6] VERSI. Funding para incorporadoras do segmento econômico. Disponível em: [https://versi.com.br/](https://versi.com.br/). Acesso em: 20 abr. 2026.

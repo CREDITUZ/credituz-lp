@@ -47,9 +47,9 @@ No mercado imobiliário, a velocidade de resposta é um fator crítico para a co
 
 Embora os benefícios da IA sejam evidentes, sua implementação no mercado imobiliário apresenta desafios. É crucial que as imobiliárias evitem o erro comum de tentar implementar a IA sem uma estratégia clara ou sem a integração adequada com os processos existentes. A escolha da plataforma de IA, a configuração dos fluxos de atendimento e a capacitação da equipe para trabalhar em conjunto com a IA são fatores determinantes para o sucesso. A IA deve ser vista como uma ferramenta de apoio, e não como um substituto completo para a expertise humana.
 
-## Conclusão: O Futuro Híbrido da Prospecção Imobiliária com a Credituz
+## Conclusão: O Futuro Híbrido da Prospecção Imobiliária
 
-A discussão sobre **SDR com IA vs SDR humano para o mercado imobiliário** não se trata de uma escolha excludente, mas sim de uma sinergia estratégica. O futuro da prospecção imobiliária reside no modelo híbrido, onde a eficiência, escala e precisão da inteligência artificial se unem à empatia, inteligência emocional e capacidade de negociação do SDR humano. A Credituz, como plataforma de IA para o mercado imobiliário, oferece soluções que permitem essa integração, otimizando a qualificação de leads, acelerando o tempo de resposta e liberando o potencial máximo da sua equipe de vendas. Ao adotar a Credituz, sua imobiliária não apenas aumenta a conversão de leads, mas também garante um processo de vendas mais previsível, eficiente e lucrativo. Descubra como a Credituz pode transformar a sua operação e levar seus resultados a um novo patamar.
+A discussão sobre **SDR com IA vs SDR humano para o mercado imobiliário** não se trata de uma escolha excludente, mas sim de uma sinergia estratégica. O futuro da prospecção imobiliária reside no modelo híbrido, onde a eficiência, escala e precisão da inteligência artificial se unem à empatia, inteligência emocional e capacidade de negociação do SDR humano. Depois que o SDR, humano ou com IA, entrega um lead qualificado, ainda falta responder se o comprador tem crédito para fechar e garantir que as parcelas sejam pagas. É aí que entra a Credituz: ela não é uma ferramenta de SDR, e sim uma plataforma de análise de crédito e cobrança com IA, conectada via API ao CRM que a equipe já usa. Com o Credituz OS (plano único de R$ 297/mês), a imobiliária faz análises de crédito avançadas do comprador (PF ou PJ, com score Boa Vista), aplica uma política de crédito própria com o motivo de cada decisão registrado e automatiza a régua de cobrança por WhatsApp e e-mail. Assim, o funil comercial e o crédito trabalham juntos, e o time de vendas investe tempo em quem tem perfil para comprar.
 
 ## FAQ
 
@@ -61,9 +61,9 @@ A principal diferença reside na capacidade de processamento e na natureza da in
 
 Não, o SDR com IA não substitui o corretor ou o SDR humano, mas atua como um poderoso copiloto. Ele automatiza as tarefas repetitivas de prospecção e qualificação inicial, liberando os profissionais humanos para se concentrarem em atividades de maior valor, como o relacionamento com o cliente e o fechamento de vendas.
 
-### 3. Como a Credituz pode ajudar minha imobiliária a otimizar a conversão de leads?
+### 3. Como a Credituz complementa o trabalho do SDR na minha imobiliária?
 
-A Credituz oferece uma plataforma de IA que integra e automatiza o processo de qualificação de leads, garantindo respostas imediatas, personalização em escala e entrega de leads altamente qualificados para sua equipe de vendas. Isso resulta em maior eficiência, redução de custos e um aumento significativo nas taxas de conversão.
+A Credituz não faz prospecção, atendimento de leads nem agendamento de visitas. Ela entra depois da qualificação comercial: analisa o crédito do comprador (PF ou PJ, com score Boa Vista), aplica a política de crédito da imobiliária com decisão automatizada e o motivo registrado em um CRM de crédito, e cuida da régua de cobrança com IA por WhatsApp e e-mail. Ela se conecta via API ao CRM que a equipe já usa, que segue como sistema principal.
 
 ## Referências
 

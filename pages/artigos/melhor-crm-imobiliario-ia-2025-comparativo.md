@@ -81,17 +81,17 @@ A adoção de um CRM com IA deve ser guiada por dados. Segundo o Instituto Brasi
 
 A Fundação Getulio Vargas (FGV) aponta que a confiança no setor imobiliário está atrelada à eficiência operacional e à capacidade de prever movimentos de mercado [5]. Um CRM equipado com IA preditiva permite que gestores antecipem tendências e aloquem recursos de forma mais inteligente.
 
-## Como a Credituz Potencializa seus Resultados
+## Como a Credituz Complementa o seu CRM
 
-Enquanto o CRM com IA organiza seus leads e automatiza o atendimento, a **Credituz** entra como a peça fundamental para viabilizar as vendas. Como uma plataforma de IA especializada no mercado imobiliário e de crédito, a Credituz simplifica e acelera a aprovação de financiamentos.
+Enquanto o CRM com IA organiza seus leads, o funil e o atendimento, a **Credituz** cuida de uma etapa que o CRM comercial normalmente não cobre: a análise de crédito do comprador e a cobrança depois da venda. A Credituz não é um CRM de vendas e não disputa espaço com as plataformas acima. Ela é solução parceira desses sistemas: o CRM segue como sistema principal, e a Credituz se conecta via API para somar análise de crédito e régua de cobrança com IA.
 
-Ao integrar a inteligência do seu CRM com a agilidade da Credituz, você cria uma jornada perfeita para o cliente: desde o primeiro contato automatizado até a aprovação de crédito sem burocracia. A Credituz analisa o perfil do comprador em tempo real, conectando-o às melhores opções de financiamento do mercado, garantindo que a venda não trave na etapa de crédito.
+Com o **Credituz OS** (plano único de R$ 297/mês, com 5 análises de crédito avançadas por mês, PF ou PJ, com score Boa Vista), a imobiliária aplica uma política de crédito própria, com decisão automatizada e o motivo registrado em um CRM de crédito (clientes, análises, decisões e pendências), e acompanha a carteira com uma régua de cobrança com IA por WhatsApp e e-mail. Quando a operação também precisa acompanhar financiamentos, o crédito multibanco (simulação, pedido e CRM Corban) é contratado sob consulta com o time comercial; a concessão do financiamento é sempre feita por instituições parceiras autorizadas pelo BACEN.
 
 ## Conclusão
 
 Escolher o melhor CRM imobiliário com IA em 2025 depende das necessidades específicas da sua operação. Se o foco é automação de marketing, o HubSpot pode ser a escolha certa. Para equipes focadas em conversão rápida, o Astreaux.AI ou o Follow Up Boss são excelentes opções. Já para uma imersão total no mercado brasileiro com foco no WhatsApp, o Imobisis se destaca.
 
-Independentemente da plataforma escolhida, o futuro do mercado imobiliário pertence àqueles que utilizam a tecnologia para escalar o atendimento sem perder a personalização. E para garantir que cada lead qualificado se transforme em uma venda concretizada, conte com a **Credituz** para revolucionar a aprovação de crédito da sua imobiliária.
+Independentemente da plataforma escolhida, o futuro do mercado imobiliário pertence àqueles que utilizam a tecnologia para escalar o atendimento sem perder a personalização. E para que cada lead qualificado tenha o crédito analisado com critério e a venda seja recebida em dia, conecte ao CRM escolhido a **Credituz**, com análise de crédito e régua de cobrança com IA.
 
 ---
 
@@ -105,6 +105,9 @@ No Brasil, o WhatsApp é o principal canal de comunicação entre corretores e c
 
 **3. Como a IA ajuda na qualificação de leads imobiliários?**
 A IA analisa o comportamento do lead (como páginas visitadas, tempo de resposta e interações anteriores) para determinar seu nível de interesse. Assim, ela prioriza os contatos mais "quentes" para que o corretor foque seus esforços em quem realmente está pronto para comprar.
+
+**4. A Credituz é um CRM imobiliário?**
+Não. A Credituz não é um CRM de vendas. Ela é solução parceira de CRMs como HubSpot, Pipedrive, Kenlo e outros: o CRM continua como sistema principal da equipe comercial, e a Credituz se conecta via API para somar análise de crédito do comprador e régua de cobrança com IA.
 
 ---
 

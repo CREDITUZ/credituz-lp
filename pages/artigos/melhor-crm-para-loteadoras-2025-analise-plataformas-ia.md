@@ -78,9 +78,11 @@ A Kenlo é uma das maiores plataformas de tecnologia para o mercado imobiliário
 
 A escolha do CRM ideal para sua loteadora em 2025 deve ir além das funcionalidades básicas. É fundamental considerar a integração da Inteligência Artificial como um pilar estratégico. Avalie qual plataforma oferece as soluções de IA que melhor se alinham aos seus desafios e objetivos, seja na captação de leads, na personalização do atendimento ou na otimização de processos internos. A capacidade de integração com outros sistemas (ERPs, plataformas de marketing) e a qualidade do suporte também são fatores cruciais.
 
-## Conclusão: O Futuro é Agora com a Credituz
+## Conclusão: CRM com IA e Crédito Trabalhando Juntos
 
-O mercado de loteamentos em 2025 exige agilidade, inteligência e personalização. As plataformas de CRM com IA apresentadas demonstram o potencial transformador dessa tecnologia. A **Credituz**, como uma plataforma de IA para o mercado imobiliário, se destaca por oferecer soluções inovadoras que vão além do CRM tradicional, integrando inteligência preditiva, automação avançada e personalização em todas as etapas da jornada do cliente. Ao escolher a Credituz, sua loteadora não apenas adquire um sistema, mas uma parceria estratégica para impulsionar vendas, otimizar operações e garantir um crescimento sustentável em um mercado cada vez mais competitivo. Descubra como a Credituz pode revolucionar a gestão da sua loteadora e prepare-se para o futuro do mercado imobiliário.
+O mercado de loteamentos em 2025 exige agilidade, inteligência e personalização. As plataformas de CRM com IA apresentadas demonstram o potencial transformador dessa tecnologia. A **Credituz** não é um CRM de vendas e não concorre com essas plataformas: ela é solução parceira delas e cobre uma etapa crítica para loteadoras, que muitas vezes vendem lotes parcelados com financiamento direto. O CRM escolhido segue como sistema principal, e a Credituz se conecta via API para somar análise de crédito do comprador e régua de cobrança com IA.
+
+Com o **Credituz OS** (plano único de R$ 297/mês), a loteadora faz 5 análises de crédito avançadas por mês, PF ou PJ, com score Boa Vista (análise adicional por R$ 24,90 PF ou R$ 29,90 PJ), aplica uma política de crédito própria com decisão automatizada e o motivo registrado, e acompanha clientes, análises, decisões e pendências em um CRM de crédito. Depois da venda, a régua de cobrança com IA por WhatsApp e e-mail (até 100 cobranças por mês), os recebíveis, a baixa, a conciliação e o analytics da carteira ajudam a manter as parcelas em dia. Assim, o CRM cuida da venda e a Credituz cuida de para quem vender e de como receber.
 
 ## Perguntas Frequentes (FAQ)
 
@@ -95,6 +97,10 @@ Os principais benefícios incluem aprimoramento na captação e qualificação d
 ### Como escolher o melhor CRM com IA para minha loteadora?
 
 Para escolher o melhor CRM com IA, considere as funcionalidades de IA que mais se alinham às suas necessidades (ex: captação de leads, atendimento, automação), a capacidade de integração com outros sistemas, a facilidade de uso da plataforma, a qualidade do suporte oferecido e a reputação da empresa no mercado. É importante buscar uma solução que ofereça uma visão completa e integrada da jornada do cliente.
+
+### A Credituz é um CRM para loteadoras?
+
+Não. A Credituz é solução parceira de CRMs e ERPs como CV CRM, Kenlo, Sienge e outros. O CRM continua como sistema principal da equipe comercial, e a Credituz se conecta via API para acrescentar análise de crédito do comprador, política de crédito própria e régua de cobrança com IA para as parcelas dos lotes.
 
 ## Referências
 

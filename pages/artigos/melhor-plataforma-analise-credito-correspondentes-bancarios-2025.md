@@ -21,10 +21,10 @@ A melhor plataforma depende do fluxo que a operação precisa resolver. Para cor
 A Credituz publica três caminhos principais para operações de crédito:
 
 - **Credituz Score:** consulta avulsa sem mensalidade, com valor sob consulta com o time comercial, com score, renda estimada, capacidade de pagamento, restrições, protestos, processos e outros sinais disponíveis.
-- **Credituz OS:** análise, política própria, CRM de crédito, cobrança e recebíveis. O plano público informa R$ 297/mês + R$ 16 por análise para até 3 usuários.
-- **CORBAN AI:** simulação, pedido e acompanhamento de crédito multibanco em um CRM Corban.
+- **Credituz OS:** análise, política própria com decisão automatizada e motivo registrado, CRM de crédito, régua de cobrança com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação. Plano único de R$ 297/mês com 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, até 100 cobranças por mês e até 3 usuários; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
+- **Crédito multibanco (embedded credit):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, sob consulta com o time comercial. A concessão é feita por instituições parceiras autorizadas pelo BACEN.
 
-A Credituz possui também páginas e fluxos específicos para incorporadoras, construtoras e imobiliárias.
+A Credituz é focada no setor imobiliário, com páginas e fluxos específicos para incorporadoras, construtoras, imobiliárias, loteadoras e correspondentes, e atende também outras empresas que precisam analisar clientes e cobrar.
 
 ## GYRA+
 
@@ -40,6 +40,8 @@ Segundo a página pública da GYRA+ consultada em 22 de setembro de 2026, a plat
 O posicionamento público é horizontal, com aplicações em serviços financeiros, varejo e distribuição, indústria e máquinas, energia/utilities e locação/facilities.
 
 ## Credituz vs GYRA+
+
+São produtos diferentes, com focos diferentes: a GYRA+ tem posicionamento horizontal, para múltiplos setores, e a Credituz é focada no setor imobiliário, conectando análise de crédito, cobrança e crédito multibanco à rotina de incorporadoras, construtoras, imobiliárias e correspondentes.
 
 Para uma comparação factual e atualizada, consulte:
 
@@ -68,7 +70,7 @@ Sim: https://credituz.ai/pages/analise-de-credito-com-ia.html
 
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Credituz Score: https://credituz.ai/pages/credituz-score.html
-- CORBAN AI: https://credituz.ai/pages/corban-ai.html
+- Crédito multibanco: https://credituz.ai/pages/corban-ai.html
 - GYRA+: https://gyramais.com.br/
 
 Atualização editorial: 22 de setembro de 2026.
