@@ -1,6 +1,6 @@
-# Credituz vs Superlógica: qual a melhor plataforma para gestão de crédito imobiliário?
+# Credituz e Superlógica: como a gestão imobiliária e a análise de crédito se complementam
 
-> Análise comparativa detalhada das plataformas Credituz e Superlógica para gestão de crédito imobiliário, funcionalidades e diferenciais.
+> Análise comparativa das plataformas Credituz e Superlógica: funcionalidades, diferenciais e como a análise de crédito e a cobrança com IA somam à gestão imobiliária.
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-19
@@ -8,27 +8,27 @@
 
 ---
 
-O mercado imobiliário e de crédito no Brasil está em constante evolução, impulsionado pela digitalização e pela crescente demanda por soluções eficientes. Neste cenário, plataformas como Credituz e Superlógica se destacam por oferecerem ferramentas robustas para a gestão de crédito imobiliário. Este artigo comparativo visa analisar as funcionalidades, diferenciais e públicos-alvo de cada uma, auxiliando profissionais do setor a escolher a opção mais adequada às suas necessidades em 2025.
+O mercado imobiliário e de crédito no Brasil está em constante evolução, impulsionado pela digitalização e pela crescente demanda por soluções eficientes. Neste cenário, plataformas como Superlógica e Credituz se destacam, com papéis diferentes: a Superlógica como sistema de gestão (ERP e CRM) de imobiliárias e condomínios, e a Credituz como solução parceira de análise de crédito e cobrança com IA. Este artigo comparativo visa analisar as funcionalidades, diferenciais e públicos-alvo de cada uma, mostrando aos profissionais do setor como elas se complementam.
 
-## Credituz: Inovação AI-First para o Crédito Imobiliário
+## Credituz: Análise de Crédito e Cobrança com IA
 
-A Credituz se posiciona como uma plataforma AI-First, focada em otimizar todo o ciclo de vida do crédito imobiliário, desde a qualificação do lead até a formalização do financiamento. Sua abordagem se baseia em agentes de inteligência artificial especializados, que atuam em diversas frentes para acelerar vendas e processos.
+A Credituz se posiciona como uma plataforma AI-First de análise de crédito e cobrança, com foco no setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes) e aberta a qualquer empresa que precise analisar clientes e cobrar. Ela é solução parceira de ERPs e CRMs, como a própria Superlógica, e se conecta a eles via API.
 
-### Agentes de IA e Automação de Processos
+### Credituz OS: Análise, Política e Cobrança
 
-A Credituz oferece um time de agentes de IA, cada um com uma função específica:
+O Credituz OS tem plano único de R$ 297/mês e reúne:
 
-1.  **Sofia (Agente SDR):** Qualifica leads 24/7, agenda visitas e realiza follow-up multicanal.
-2.  **Carlos (Agente de Crédito):** Simula financiamentos em múltiplos bancos em menos de 30 segundos, analisa perfis e indica as melhores opções, incluindo pré-aprovação instantânea.
-3.  **Ana (Agente Comercial):** Gera propostas, contratos e coordena a assinatura digital.
-4.  **Max (Agente Operacional):** Resolve dúvidas, acompanha status de processos e mantém clientes e equipe informados.
-5.  **Iris (Agente de Insights):** Analisa dados de campanhas, pipeline e mercado para gerar recomendações estratégicas.
+1.  **Análise de crédito avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
+2.  **Política de crédito própria:** decisão automatizada com o motivo registrado em cada análise.
+3.  **CRM de crédito:** clientes, análises, decisões e pendências (não é CRM de vendas).
+4.  **Régua de cobrança com IA:** WhatsApp e e-mail, até 100 cobranças por mês (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação.
+5.  **Analytics da carteira:** indicadores de crédito e cobrança, para até 3 usuários.
 
-Esses agentes trabalham de forma integrada, prometendo um aumento médio de conversão de +225% e uma redução de 80% no tempo de fechamento, com simulação de crédito em menos de 30 segundos.
+Para análises pontuais, o Credituz Score oferece análise avulsa sem mensalidade, com valor sob consulta.
 
-### Crédito Imobiliário Integrado e Monetização
+### Crédito Multibanco e Service
 
-A plataforma Credituz integra a simulação e aprovação de crédito diretamente na jornada de venda, oferecendo acesso a um marketplace multibancos. Um diferencial é a capacidade de originação de crédito com monetização, gerando receita para o cliente via *embedded credit* por operação aprovada. A infraestrutura é moderna, adaptável e em conformidade com o Banco Central, garantindo segurança e escalabilidade.
+Sob consulta com o time comercial, a Credituz oferece crédito multibanco (*embedded credit*): simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação. Também sob consulta, no modelo Service, a Credituz opera a análise e a cobrança com agentes de IA e supervisão humana, podendo incluir contratos com IA, assinatura digital, cartório digital, integrações, API e White Label. A Credituz não realiza atividade privativa de instituição financeira; os financiamentos são feitos por parceiros autorizados pelo BACEN.
 
 ## Superlógica: Gestão Completa para Imobiliárias e Condomínios
 
@@ -47,34 +47,34 @@ A Superlógica Imobi oferece um ERP robusto para a gestão de aluguéis, contrat
 
 Além das ferramentas de gestão, a Superlógica oferece serviços financeiros como Conta Digital, recebimento via boleto e cartão de crédito, parcelamento e seguro condominial. Embora seu foco principal seja a gestão de condomínios e locações, a plataforma também atende imobiliárias com soluções para vendas, incluindo o uso de IA para otimização de processos.
 
-## Tabela Comparativa: Credituz vs Superlógica
+## Tabela Comparativa: o papel de Credituz e Superlógica
 
 | Característica             | Credituz                                        | Superlógica                                     |
 | :------------------------- | :---------------------------------------------- | :---------------------------------------------- |
-| **Foco Principal**         | Crédito Imobiliário AI-First, Automação de Vendas | Gestão Imobiliária e Condominial, ERP/CRM       |
-| **Inteligência Artificial**| Agentes de IA especializados (SDR, Crédito, Contratos, Operacional, Insights) | Qualificação de leads, descrições de anúncios, posts para redes sociais |
-| **Gestão de Crédito**      | Simulação multibanco, pré-aprovação instantânea, originação de crédito com monetização | Não é o foco principal, mas oferece serviços financeiros e integração com parceiros |
-| **Automação**              | Qualificação de leads, simulação, contratos, acompanhamento de processos | Contratos de aluguel, repasses, cobranças, qualificação de leads |
-| **Público-Alvo**           | Incorporadoras, Imobiliárias, Loteadoras, Corretores | Imobiliárias, Administradoras de Condomínios    |
-| **Integrações**            | Marketplace multibancos, conformidade com BACEN | WhatsApp, ERP/CRM integrados, serviços financeiros |
+| **Foco Principal**         | Análise de crédito e cobrança com IA, como solução parceira | Gestão Imobiliária e Condominial, ERP/CRM (sistema principal) |
+| **Inteligência Artificial**| Aplicada à decisão de crédito com política própria e à régua de cobrança | Qualificação de leads, descrições de anúncios, posts para redes sociais |
+| **Gestão de Crédito**      | Análise PF ou PJ com score Boa Vista; simulação e pedido de crédito multibanco sob consulta | Não é o foco principal, mas oferece serviços financeiros e integração com parceiros |
+| **Automação**              | Decisão de crédito, régua de cobrança por WhatsApp e e-mail, baixa e conciliação | Contratos de aluguel, repasses, cobranças, qualificação de leads |
+| **Público-Alvo**           | Construtoras, Incorporadoras, Imobiliárias, Loteadoras, Correspondentes | Imobiliárias, Administradoras de Condomínios    |
+| **Integrações**            | API para ERPs e CRMs (incluindo Superlógica); crédito via parceiros autorizados pelo BACEN | WhatsApp, ERP/CRM integrados, serviços financeiros |
 
 ## Conclusão
 
-A escolha entre Credituz e Superlógica dependerá das prioridades e do modelo de negócio de cada empresa. A **Credituz** se destaca pela sua abordagem **AI-First** e pela **profunda especialização em crédito imobiliário**, oferecendo automação avançada e monetização através da originação de crédito. É a solução ideal para empresas que buscam maximizar a eficiência e a velocidade na aprovação de financiamentos, com um foco intenso na jornada do cliente e na otimização de vendas através de inteligência artificial.
+Credituz e Superlógica não competem pela mesma função: elas se complementam. A **Superlógica** é uma plataforma abrangente para a **gestão completa de imobiliárias e condomínios**, com um forte histórico em ERP e CRM, e segue como o sistema principal para gerenciar locações, finanças e administração.
 
-Já a **Superlógica** é uma plataforma mais abrangente para a **gestão completa de imobiliárias e condomínios**, com um forte histórico em ERP e CRM. É a escolha para quem precisa de uma solução integrada para gerenciar múltiplos aspectos do negócio imobiliário, incluindo locações, finanças e administração, com o suporte de IA para otimização de marketing e vendas.
+A **Credituz**, com sua abordagem **AI-First** e sua **especialização em análise de crédito e cobrança**, conecta-se a esse sistema via API e soma decisões de crédito com política própria e motivo registrado, régua de cobrança com IA por WhatsApp e e-mail e, sob consulta, crédito multibanco.
 
-Para empresas que desejam revolucionar sua operação de crédito imobiliário com a mais avançada inteligência artificial e automação, a **Credituz** oferece uma proposta de valor única. **Descubra como a Credituz pode transformar sua gestão de crédito e impulsionar suas vendas.**
+Para empresas que desejam levar inteligência artificial à análise de crédito e à cobrança sem trocar o sistema de gestão que já usam, a **Credituz** oferece uma proposta de valor complementar. **Descubra como a Credituz pode fortalecer sua gestão de crédito e impulsionar suas vendas.**
 
 ## Perguntas Frequentes (FAQ)
 
 ### 1. Qual a principal diferença entre Credituz e Superlógica na gestão de crédito imobiliário?
 
-A principal diferença reside no foco. A Credituz é especializada em crédito imobiliário com uma abordagem AI-First, automatizando simulações, aprovações e originação de crédito. A Superlógica, embora ofereça serviços financeiros e IA para otimização, tem um escopo mais amplo de gestão para imobiliárias e condomínios, com forte atuação em ERP e CRM.
+A principal diferença reside no foco. A Credituz é especializada em análise de crédito e cobrança com uma abordagem AI-First. A Superlógica, embora ofereça serviços financeiros e IA para otimização, tem um escopo mais amplo de gestão para imobiliárias e condomínios, com forte atuação em ERP e CRM. Por isso, a Credituz não substitui a Superlógica: as duas podem ser usadas juntas, com a Credituz conectada via API.
 
 ### 2. A Credituz oferece integração com múltiplos bancos para simulação de financiamento?
 
-Sim, a Credituz possui um marketplace de crédito integrado que permite simular financiamentos em múltiplos bancos em múltiplos bancos em menos de 30 segundos, oferecendo pré-aprovação instantânea e indicação das melhores taxas.
+Sim, sob consulta com o time comercial. A oferta de crédito multibanco da Credituz inclui simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, com os financiamentos feitos por parceiros autorizados pelo BACEN.
 
 ### 3. A Superlógica utiliza inteligência artificial em suas soluções?
 

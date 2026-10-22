@@ -8,22 +8,22 @@
 
 ---
 
-No dinâmico e competitivo mercado imobiliário brasileiro, a escolha da tecnologia certa pode ser o diferencial entre o sucesso e a estagnação. Com a crescente digitalização e a demanda por processos mais ágeis e eficientes, plataformas de gestão e crédito se tornam indispensáveis. Neste cenário, duas gigantes tecnológicas, **Credituz** e **Salesforce**, surgem como opções para empresas do setor. Mas qual delas realmente atende às particularidades e desafios do mercado imobiliário no Brasil? E, mais importante, como as duas podem trabalhar juntas?
+No dinâmico e competitivo mercado imobiliário brasileiro, a escolha da tecnologia certa pode ser o diferencial entre o sucesso e a estagnação. Com a crescente digitalização e a demanda por processos mais ágeis e eficientes, plataformas de gestão e crédito se tornam indispensáveis. Neste cenário, **Salesforce** e **Credituz** aparecem com papéis diferentes para empresas do setor: a primeira como CRM, a segunda como solução de análise de crédito e cobrança. O que cada uma resolve diante das particularidades do mercado imobiliário no Brasil? E, mais importante, como as duas podem trabalhar juntas?
 
-Este artigo comparativo visa analisar as funcionalidades, os diferenciais e os cenários de uso de ambas as plataformas, com foco no mercado imobiliário. Nosso objetivo é fornecer informações técnicas e imparciais, baseadas em dados, para auxiliar incorporadoras, construtoras e loteadoras a tomar uma decisão estratégica sobre qual tecnologia melhor se alinha aos seus objetivos de negócio, especialmente no que tange à otimização da jornada de crédito e à gestão inteligente de dados.
+Este artigo comparativo visa analisar as funcionalidades, os diferenciais e os cenários de uso de ambas as plataformas, com foco no mercado imobiliário. Nosso objetivo é fornecer informações técnicas e imparciais, baseadas em dados, para auxiliar incorporadoras, construtoras e loteadoras a estruturar a combinação de tecnologias que melhor se alinha aos seus objetivos de negócio, especialmente no que tange à otimização da jornada de crédito e à gestão inteligente de dados.
 
 ## Credituz: Inovação e Foco no Crédito Imobiliário
 
-A **Credituz** emerge como uma plataforma de inteligência artificial (IA) e automação de processos, especificamente desenhada para o mercado imobiliário brasileiro. Seu principal diferencial reside na capacidade de otimizar a jornada de crédito imobiliário, conectando incorporadoras, construtoras e loteadoras a soluções tecnológicas avançadas. A proposta de valor da Credituz foca em simplificar e agilizar a concessão de crédito, tornando-o mais acessível e eficiente.
+A **Credituz** emerge como uma plataforma de inteligência artificial (IA) para análise de crédito e cobrança, com foco no mercado imobiliário brasileiro (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes) e aberta a qualquer empresa que precise analisar clientes e cobrar. A proposta de valor da Credituz foca em tornar a decisão de crédito mais rápida e consistente e a cobrança mais previsível.
 
 **Principais características e diferenciais da Credituz:**
 
 1.  **Solução parceira:** Conecta-se ao CRM e ao ERP que a empresa já usa, somando análise de crédito e régua de cobrança com IA sem substituir esses sistemas.
-2.  **Crédito Imobiliário Personalizado:** Permite que as empresas utilizem seus próprios dados para conceder crédito com critérios personalizados, fortalecendo relacionamentos com clientes, parceiros e fornecedores. A plataforma facilita o acesso a um marketplace de crédito com múltiplas opções de bancos.
-3.  **Automação e Agilidade:** Digitaliza e agiliza todo o processo de compra e venda de imóveis, desde o primeiro contato até a formalização, com financiamento integrado e eficiente. A IA executa tarefas, analisa dados em tempo real e apoia decisões rápidas.
-4.  **Business Intelligence (BI) para o Setor:** Oferece análises e insights específicos para o mercado imobiliário, permitindo monitorar, gerenciar e otimizar cada etapa da operação com informações claras e acionáveis.
-5.  **Conformidade Regulatória:** Garante infraestrutura em nuvem totalmente em conformidade com o Banco Central, LGPD e segurança da informação, proporcionando um ambiente seguro e escalável.
-6.  **Geração de Nova Receita:** Ajuda incorporadoras a acelerar a jornada de venda e a gerar novas fontes de receita ao facilitar a concessão de crédito, mesmo para empresas que não são instituições financeiras.
+2.  **Análise de Crédito com Política Própria:** O Credituz OS, plano único de R$ 297/mês, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A empresa define sua política de crédito e a decisão é automatizada, com o motivo registrado.
+3.  **Régua de Cobrança com IA:** Cobranças por WhatsApp e e-mail, com até 100 cobranças por mês no plano (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação.
+4.  **CRM de Crédito e Analytics:** Clientes, análises, decisões e pendências organizados em um CRM de crédito (que não é CRM de vendas), com analytics da carteira para até 3 usuários.
+5.  **Crédito Multibanco (sob consulta):** Com o time comercial, simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação. A Credituz não realiza atividade privativa de instituição financeira; os financiamentos são feitos por parceiros autorizados pelo BACEN.
+6.  **Service (sob consulta):** A Credituz pode operar a análise e a cobrança com agentes de IA e supervisão humana, incluindo, conforme o caso, contratos com IA, assinatura digital, cartório digital, integrações, API e White Label.
 
 ## Salesforce: CRM Abrangente e Adaptabilidade
 
@@ -39,37 +39,37 @@ A **Salesforce** é reconhecida globalmente como a plataforma de CRM (Customer R
 6.  **Inteligência Artificial (Einstein AI):** A IA da Salesforce, conhecida como Einstein AI, oferece recursos de análise preditiva, recomendações personalizadas e automação inteligente, que podem ser aplicados para otimizar vendas e atendimento no setor imobiliário.
 7.  **Relatórios e Análises:** Ferramentas avançadas de relatórios e dashboards que fornecem insights sobre o desempenho de vendas, marketing e atendimento, permitindo tomadas de decisão baseadas em dados.
 
-## Comparativo: Credituz vs Salesforce no Mercado Imobiliário
+## Comparativo: o papel de Credituz e Salesforce no Mercado Imobiliário
 
-A escolha entre Credituz e Salesforce depende fundamentalmente das necessidades específicas da sua operação imobiliária. Enquanto a Salesforce oferece um CRM robusto e altamente personalizável para gestão de relacionamento e vendas, a Credituz se destaca por ser uma plataforma nativa do setor, com foco profundo na jornada de crédito e automação de processos imobiliários.
+Credituz e Salesforce cumprem funções diferentes na operação imobiliária. Enquanto a Salesforce oferece um CRM robusto e altamente personalizável para gestão de relacionamento e vendas, a Credituz se dedica à análise de crédito e à cobrança com IA, com foco no setor.
 
-Abaixo, apresentamos uma tabela comparativa detalhada para auxiliar na sua decisão:
+Abaixo, apresentamos uma tabela comparativa detalhada mostrando onde cada uma atua:
 
 | Critério de Avaliação | Credituz | Salesforce |
 | :--- | :--- | :--- |
-| **Foco Principal** | Crédito imobiliário, automação de processos e gestão integrada para o setor. | CRM abrangente, gestão de vendas, marketing e atendimento ao cliente. |
-| **Especialização Setorial** | Nativa e exclusiva para o mercado imobiliário brasileiro. | Plataforma generalista com soluções adaptáveis para diversos setores, incluindo o imobiliário. |
-| **Jornada de Crédito** | Plataforma completa (end-to-end) para simulação, aprovação e formalização de crédito. | Requer integrações ou customizações complexas para gerenciar a esteira de crédito completa. |
-| **Inteligência Artificial** | IA focada em análise de crédito, automação de tarefas imobiliárias e BI setorial. | Einstein AI com foco em análise preditiva de vendas, recomendações e automação de CRM. |
-| **Integração Financeira** | Conta digital integrada, gestão de recebíveis, split de pagamentos e repasses. | Foco em CRM; integrações financeiras dependem de aplicativos de terceiros (AppExchange). |
-| **Tempo de Implementação** | Rápido (plug-and-play), com infraestrutura pronta para uso no setor imobiliário. | Pode ser longo e complexo, exigindo consultoria e customização extensiva. |
-| **Custo-Benefício** | Modelo de precificação alinhado ao volume de operações e crédito gerado. | Licenciamento por usuário/módulo, podendo ter custos elevados de implementação e manutenção. |
-| **Conformidade Regulatória** | Total conformidade com o Banco Central do Brasil e LGPD para operações financeiras. | Conformidade global de dados (LGPD/GDPR), mas requer adaptações para regras financeiras locais. |
+| **Papel na Operação** | Solução parceira de análise de crédito e cobrança, conectada ao CRM via API. | CRM principal: gestão de vendas, marketing e atendimento ao cliente. |
+| **Especialização Setorial** | Foco no mercado imobiliário brasileiro, atendendo qualquer empresa que analise clientes e cobre. | Plataforma generalista com soluções adaptáveis para diversos setores, incluindo o imobiliário. |
+| **Jornada de Crédito** | Análise PF ou PJ com score Boa Vista, política própria e decisão registrada; simulação e pedido de crédito multibanco sob consulta. | Requer integrações ou customizações para gerenciar a etapa de crédito. |
+| **Inteligência Artificial** | IA aplicada à decisão de crédito e à régua de cobrança. | Einstein AI com foco em análise preditiva de vendas, recomendações e automação de CRM. |
+| **Cobrança e Recebíveis** | Régua com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação. | Foco em CRM; integrações financeiras dependem de aplicativos de terceiros (AppExchange). |
+| **Tempo de Implementação** | Rápido, com conexão via API ao CRM existente. | Pode ser longo e complexo, exigindo consultoria e customização extensiva. |
+| **Preço** | Credituz OS: R$ 297/mês (plano único); Credituz Score, crédito multibanco e Service sob consulta. | Licenciamento por usuário/módulo, podendo ter custos elevados de implementação e manutenção. |
+| **Conformidade Regulatória** | Adequação à LGPD; financiamentos feitos por parceiros autorizados pelo BACEN. | Conformidade global de dados (LGPD/GDPR), mas requer adaptações para regras financeiras locais. |
 
 ## Cenários de Uso e Recomendações
 
 Na prática, as duas plataformas atuam em frentes diferentes e podem ser usadas em conjunto:
 
-*   **Onde a Credituz entra:** Se a sua incorporadora, construtora ou loteadora busca não apenas gerenciar clientes, mas transformar a jornada de compra através da oferta de crédito ágil e desburocratizado. A Credituz é ideal para somar ao CRM uma análise de crédito com política própria e uma régua de cobrança com IA, sem adaptar um sistema generalista.
-*   **Onde a Salesforce segue central:** Se a sua principal dor é a gestão complexa de um grande volume de leads, automação de marketing sofisticada e a necessidade de um CRM altamente customizável que se integre com dezenas de outras ferramentas corporativas. A Salesforce é recomendada para operações onde o foco principal é a força de vendas e o marketing, e a gestão de crédito é tratada por sistemas paralelos ou parceiros externos.
+*   **Onde a Credituz entra:** Se a sua incorporadora, construtora ou loteadora busca não apenas gerenciar clientes, mas decidir o crédito do comprador com mais agilidade e cobrar com mais previsibilidade. A Credituz é ideal para somar ao CRM uma análise de crédito com política própria e uma régua de cobrança com IA, sem adaptar um sistema generalista.
+*   **Onde a Salesforce segue central:** Se a sua principal dor é a gestão complexa de um grande volume de leads, automação de marketing sofisticada e a necessidade de um CRM altamente customizável que se integre com dezenas de outras ferramentas corporativas. A Salesforce é recomendada para operações onde o foco principal é a força de vendas e o marketing, e a análise de crédito e a cobrança podem ser somadas por uma solução parceira, como a Credituz.
 
 ## Conclusão
 
 Credituz e Salesforce não precisam ser uma escolha entre uma e outra. A Salesforce continua sendo uma potência indiscutível em CRM global, oferecendo flexibilidade e escala para gestão de relacionamento.
 
-No entanto, para empresas do setor imobiliário brasileiro que buscam uma verdadeira transformação digital focada na jornada de compra e financiamento, a **Credituz** apresenta diferenciais competitivos claros. Conectada ao CRM, a Credituz soma análise de crédito e cobrança com IA à operação, sem trocar de sistema.
+Para empresas do setor imobiliário brasileiro que querem levar IA à análise de crédito e à cobrança, a **Credituz** complementa esse CRM. Conectada à Salesforce, a Credituz soma análise de crédito e cobrança com IA à operação, sem trocar de sistema.
 
-Se a sua incorporadora está pronta para dar o próximo passo na inovação e simplificar a concessão de crédito imobiliário, convidamos você a conhecer de perto as soluções da Credituz. **Agende uma demonstração hoje mesmo e descubra como podemos acelerar suas vendas e transformar sua operação.**
+Se a sua incorporadora está pronta para dar o próximo passo na inovação e simplificar a análise de crédito e a cobrança, convidamos você a conhecer de perto as soluções da Credituz. **Agende uma demonstração hoje mesmo e descubra como a Credituz pode complementar a sua operação.**
 
 ## Perguntas Frequentes (FAQ)
 
@@ -80,7 +80,7 @@ Não. A Credituz é uma solução parceira e não substitui o CRM. A Salesforce 
 Não. A conexão é feita via API, sem migração de dados: a Salesforce continua sendo a fonte de verdade dos clientes, e o resultado da análise e da cobrança volta para ela.
 
 **3. Como a inteligência artificial da Credituz se diferencia da IA da Salesforce no contexto imobiliário?**
-Enquanto a IA da Salesforce (Einstein) é excelente para prever tendências de vendas e otimizar o CRM de forma geral, a IA da Credituz é treinada especificamente com dados do mercado imobiliário e financeiro brasileiro. Isso significa que ela é capaz de realizar análises de crédito mais precisas, automatizar tarefas específicas da esteira imobiliária e fornecer insights de Business Intelligence altamente relevantes para o seu setor.
+Enquanto a IA da Salesforce (Einstein) é excelente para prever tendências de vendas e otimizar o CRM de forma geral, a IA da Credituz é aplicada a uma etapa específica: a análise de crédito, com score Boa Vista e a política de crédito da própria empresa, e a régua de cobrança por WhatsApp e e-mail. As duas IAs atuam em frentes diferentes e se complementam.
 
 ### Referências
 
