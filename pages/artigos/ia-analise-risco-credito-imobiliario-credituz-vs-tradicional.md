@@ -35,28 +35,31 @@ Os bancos brasileiros já utilizam IA há pelo menos uma década para incrementa
 
 ## Credituz: Inovação e Eficiência na Análise de Risco com IA
 
-A Credituz se posiciona na vanguarda dessa transformação, oferecendo uma plataforma de IA para o mercado imobiliário que otimiza a análise de risco de crédito. Diferente das soluções tradicionais, a Credituz integra algoritmos avançados de aprendizado de máquina para:
+A Credituz se posiciona nessa transformação com uma plataforma de análise de crédito e cobrança com IA, focada no setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes). Ela se conecta via API ao CRM e ao ERP que a empresa já usa e, diferente das soluções tradicionais, oferece:
 
-1.  **Análise Preditiva Avançada**: Utiliza modelos que consideram não apenas o histórico financeiro, mas também dados comportamentais e de mercado para prever com maior acurácia a probabilidade de inadimplência.
-2.  **Processamento de Dados em Escala**: Capacidade de analisar milhares de dados de mercado e de clientes em segundos, fornecendo uma visão 360º do perfil de risco [6].
-3.  **Redução do Tempo de Aprovação**: Assim como a Caixa Econômica Federal que viu seu tempo de análise cair drasticamente, a Credituz permite que incorporadoras, construtoras e corretores acelerem a aprovação de financiamentos, melhorando a experiência do cliente e a velocidade dos negócios.
-4.  **Minimização de Vieses**: A automação e a análise baseada em algoritmos reduzem a subjetividade humana, promovendo uma avaliação mais imparcial e justa.
-5.  **Otimização de Portfólio**: Ajuda as instituições a gerenciar e otimizar seus portfólios de crédito, identificando riscos e oportunidades de forma proativa.
+1.  **Análise de Crédito Avançada**: análises PF ou PJ com score Boa Vista, que combinam histórico financeiro e dados de mercado para estimar a probabilidade de inadimplência do comprador ou locatário.
+2.  **Política de Crédito Própria com Decisão Automatizada**: a empresa define seus critérios, e cada análise recebe uma decisão automática com o motivo registrado, trazendo uma visão completa do perfil de risco [6].
+3.  **Redução do Tempo de Aprovação**: assim como a Caixa Econômica Federal viu seu tempo de análise cair drasticamente, a Credituz permite que incorporadoras, construtoras, imobiliárias e corretores decidam o crédito com mais rapidez, melhorando a experiência do cliente e a velocidade dos negócios.
+4.  **Minimização de Vieses**: a decisão baseada em regras claras e registradas reduz a subjetividade humana, promovendo uma avaliação mais imparcial, consistente e auditável.
+5.  **Gestão da Carteira e Cobrança**: o CRM de crédito organiza clientes, análises, decisões e pendências; a régua de cobrança com IA por WhatsApp e e-mail, com baixa e conciliação dos recebíveis, e o analytics da carteira ajudam a identificar riscos de forma proativa depois da venda.
+
+Tudo isso está no **Credituz OS**, plano único de R$ 297/mês, com 5 análises incluídas por mês (análise adicional por R$ 24,90 PF ou R$ 29,90 PJ), até 100 cobranças por mês e até 3 usuários. Para análises pontuais, o **Credituz Score** oferece análise avulsa sem mensalidade, com valor sob consulta. Quando o cliente precisa de financiamento, o crédito multibanco da Credituz está disponível sob consulta; a Credituz não realiza atividade privativa de instituição financeira, e os financiamentos são feitos por parceiros autorizados pelo BACEN.
 
 ### Tabela Comparativa: Credituz vs. Soluções Tradicionais
 
 | Característica             | Soluções Tradicionais                                   | Credituz (IA)                                                               | Impacto no Mercado Imobiliário                                     |
 | :------------------------- | :------------------------------------------------------ | :-------------------------------------------------------------------------- | :----------------------------------------------------------------- |
 | **Tempo de Análise**       | Dias a semanas                                          | Horas a minutos                                                             | Acelera a aprovação de financiamentos, reduzindo a burocracia.     |
-| **Fontes de Dados**        | Restritas (contracheques, score básico)                 | Amplas (dados financeiros, comportamentais, mercado, públicos)              | Avaliação mais completa e justa, ampliando o acesso ao crédito.    |
-| **Precisão da Análise**    | Moderada, sujeita a vieses humanos                      | Alta, baseada em modelos preditivos e aprendizado de máquina                | Redução da inadimplência e maior segurança para as instituições.    |
+| **Fontes de Dados**        | Restritas (contracheques, score básico)                 | Amplas (score Boa Vista, dados financeiros, de mercado e públicos)          | Avaliação mais completa e justa, ampliando o acesso ao crédito.    |
+| **Precisão da Análise**    | Moderada, sujeita a vieses humanos                      | Alta, baseada em score Boa Vista e política de crédito própria              | Redução da inadimplência e maior segurança para as instituições.    |
 | **Custo Operacional**      | Alto (mão de obra intensiva)                            | Reduzido (automação de processos)                                           | Otimização de recursos e maior rentabilidade.                      |
 | **Capacidade de Escala**   | Limitada                                                | Alta (processamento massivo de dados)                                       | Permite atender a um volume maior de solicitações de crédito.      |
-| **Prevenção a Fraudes**    | Reativa, baseada em regras fixas                        | Proativa, identificação de padrões anômalos em tempo real                  | Maior segurança nas operações e proteção contra perdas.            |
+| **Prevenção a Fraudes**    | Reativa, baseada em regras fixas                        | Consulta a dados de bureau (score Boa Vista) antes de cada decisão         | Maior segurança nas operações e proteção contra perdas.            |
+| **Registro da Decisão**    | Disperso em planilhas e e-mails                         | Decisão automatizada com o motivo registrado no CRM de crédito              | Mais transparência e facilidade de auditoria.                      |
 
 ## Conclusão: O Futuro da Análise de Risco é com IA e Credituz
 
-A **Inteligência Artificial** não é apenas uma ferramenta, mas uma força transformadora no mercado de crédito imobiliário brasileiro. As soluções tradicionais, embora ainda presentes, mostram suas limitações diante da complexidade e da velocidade exigidas pelo cenário atual. A Credituz, com sua plataforma de IA para análise de risco de crédito imobiliário, oferece uma alternativa superior, proporcionando agilidade, precisão e segurança para incorporadoras, construtoras e corretores. Ao adotar a IA, o setor imobiliário não apenas otimiza seus processos, mas também contribui para um mercado mais acessível e justo. Descubra como a Credituz pode revolucionar a análise de risco em seus projetos e impulsionar seus negócios.
+A **Inteligência Artificial** não é apenas uma ferramenta, mas uma força transformadora no mercado de crédito imobiliário brasileiro. As soluções tradicionais, embora ainda presentes, mostram suas limitações diante da complexidade e da velocidade exigidas pelo cenário atual. A Credituz, com sua plataforma de IA para análise de crédito e cobrança, oferece agilidade, consistência e segurança para incorporadoras, construtoras, imobiliárias e corretores, conectando-se aos sistemas que eles já usam. Ao adotar a IA, o setor imobiliário não apenas otimiza seus processos, mas também contribui para um mercado mais acessível e justo. Descubra como o Credituz OS pode melhorar a análise de risco em seus projetos e impulsionar seus negócios.
 
 ## FAQ: Perguntas Frequentes sobre IA e Crédito Imobiliário
 
