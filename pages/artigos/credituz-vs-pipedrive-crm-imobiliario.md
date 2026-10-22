@@ -79,7 +79,7 @@ Se o seu objetivo é não apenas organizar suas vendas, mas ter uma tecnologia q
 Sim, o Pipedrive é bastante flexível e pode ser configurado por corretores autônomos para gerenciar seus contatos e funil de vendas. No entanto, exigirá configurações manuais para se adaptar perfeitamente ao fluxo imobiliário.
 
 **2. A Credituz substitui a necessidade de um CRM tradicional como o Pipedrive?**
-Sim. A Credituz possui um módulo de CRM completo integrado à sua plataforma, eliminando a necessidade de contratar um sistema de gestão de pipeline separado, com a vantagem de ter IA nativa operando em cada etapa.
+Não. A Credituz é uma solução parceira e não substitui o CRM comercial. O Pipedrive segue com a gestão do pipeline de vendas, e a Credituz se conecta a ele para cuidar da análise de crédito e da régua de cobrança com IA.
 
 **3. Como a IA da Credituz ajuda na simulação de financiamento?**
 A Credituz utiliza um agente de IA específico (Carlos) que se conecta às principais instituições financeiras do país. Ele analisa o perfil do cliente e simula as condições de financiamento em menos de 30 segundos, indicando a melhor taxa e viabilidade de aprovação.

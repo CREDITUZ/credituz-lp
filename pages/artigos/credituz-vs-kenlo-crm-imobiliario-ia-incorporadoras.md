@@ -22,7 +22,7 @@ De acordo com o Banco Central do Brasil (BACEN), o volume de concessões de cré
 
 ### Credituz: A Plataforma AI-First para o Mercado Imobiliário
 
-A Credituz posiciona-se como uma plataforma inovadora, centralizando atendimento, gestão, crédito, financeiro e dados em um único hub. Seu grande diferencial é a arquitetura baseada em agentes de inteligência artificial especializados, projetados para atuar em cada etapa da jornada comercial.
+A Credituz posiciona-se como uma solução parceira, que se conecta ao CRM e ao ERP já em uso para somar análise de crédito e régua de cobrança com IA. Seu grande diferencial é a arquitetura baseada em agentes de inteligência artificial especializados, projetados para atuar em cada etapa da jornada comercial.
 
 Para incorporadoras, a Credituz oferece um ecossistema onde a IA não é apenas um recurso adicional, mas o núcleo da operação. A plataforma promete resolver problemas crônicos do setor, como a demora no atendimento de leads e a complexidade na simulação de crédito.
 

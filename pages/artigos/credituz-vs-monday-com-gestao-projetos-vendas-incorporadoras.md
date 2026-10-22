@@ -41,7 +41,7 @@ A grande força da Monday.com reside na sua versatilidade. Contudo, por ser uma 
 
 Diferente de soluções generalistas, a Credituz foi concebida desde o primeiro dia (AI-first) para resolver as dores específicas do mercado imobiliário e de crédito no Brasil. A plataforma não se limita a organizar tarefas; ela atua ativamente na operação através de um time de agentes de Inteligência Artificial especializados.
 
-A proposta da Credituz é centralizar atendimento, gestão (CRM), crédito, financeiro e análise de dados em um único *hub*, eliminando a necessidade de múltiplas integrações frágeis e planilhas paralelas.
+A proposta da Credituz é complementar os sistemas que a incorporadora já usa, conectando-se ao CRM e ao ERP para somar análise de crédito e régua de cobrança com IA, sem planilhas paralelas.
 
 **Diferenciais da Credituz para incorporadoras:**
 

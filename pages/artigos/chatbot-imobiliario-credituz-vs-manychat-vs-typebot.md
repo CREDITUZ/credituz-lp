@@ -24,7 +24,7 @@ Os agentes da Credituz incluem:
 4.  **Max (Agente Operacional):** Resolve dúvidas, acompanha status de processos e mantém clientes e equipe informados em tempo real, garantindo uma experiência pós-venda fluida.
 5.  **Iris (Agente de Analytics):** Analisa dados de campanhas, pipeline e mercado para gerar recomendações estratégicas, otimizar investimentos e identificar oportunidades de crescimento.
 
-O diferencial da Credituz é sua **plataforma unificada**, centralizando atendimento, gestão, crédito, financeiro e dados. Isso elimina a necessidade de múltiplas ferramentas e integrações frágeis, proporcionando uma visão 360° da operação. Os resultados são expressivos: **aumento médio de 225% na conversão**, 80% de redução no tempo de fechamento e 98% de satisfação dos clientes [2]. Esses dados demonstram o impacto direto da IA especializada na eficiência e rentabilidade do negócio imobiliário.
+O diferencial da Credituz é sua **plataforma unificada**, centralizando atendimento, gestão, crédito, financeiro e dados. Tudo isso conectado aos sistemas que a empresa já usa, como CRM e ERP, sem substituí-los. Os resultados são expressivos: **aumento médio de 225% na conversão**, 80% de redução no tempo de fechamento e 98% de satisfação dos clientes [2]. Esses dados demonstram o impacto direto da IA especializada na eficiência e rentabilidade do negócio imobiliário.
 
 ## ManyChat: Automação Conversacional para Marketing Imobiliário
 

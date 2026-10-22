@@ -179,6 +179,14 @@
         },
         {
           "@type": "Question",
+          "name": "A Credituz substitui o meu ERP ou CRM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Não. A Credituz é uma solução parceira: o seu ERP e o seu CRM, como Sienge, CV CRM ou HubSpot, continuam sendo os sistemas de gestão da empresa. A Credituz se conecta a eles via API para somar análise de crédito com política própria e régua de cobrança com IA, sem migração de dados."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "O que conta como uma cobrança na Credituz?",
           "acceptedAnswer": {
             "@type": "Answer",

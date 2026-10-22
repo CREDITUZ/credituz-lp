@@ -62,7 +62,7 @@ A principal diferença reside no foco. A Credituz é especializada no mercado im
 
 ### 2. A Credituz substitui um CRM como o HubSpot?
 
-Não necessariamente. A Credituz complementa as funcionalidades de um CRM ao oferecer uma camada profunda de inteligência artificial e gestão de crédito específica para o setor imobiliário. Dependendo das necessidades da imobiliária, as duas plataformas podem ser utilizadas em conjunto para maximizar a eficiência.
+Não. A Credituz é uma solução parceira e complementa o CRM com análise de crédito e régua de cobrança com IA, específicas para o setor imobiliário. O HubSpot segue como o CRM da imobiliária, e as duas plataformas trabalham em conjunto.
 
 ### 3. Como a Credituz ajuda na aprovação de crédito imobiliário?
 

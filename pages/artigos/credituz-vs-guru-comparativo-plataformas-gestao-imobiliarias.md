@@ -12,7 +12,7 @@ No dinâmico mercado imobiliário brasileiro, a escolha da plataforma de gestão
 
 ## Credituz: A Vanguarda AI-First no Mercado Imobiliário
 
-A Credituz é uma plataforma **AI-First**, com arquitetura e funcionalidades intrinsecamente construídas sobre inteligência artificial. Seu modelo emprega um time de agentes especializados de IA, cobrindo toda a jornada imobiliária, do primeiro contato à aprovação do financiamento. Destacam-se Sofia (SDR), Carlos (Crédito), Ana (Comercial), Max (Operacional) e Iris (Insights). A Credituz promete aumento médio de conversão de +225%, redução de 80% no tempo de fechamento e simulações de crédito em menos de 30 segundos. É uma solução unificada que centraliza atendimento, CRM, gestão de crédito, controle financeiro e análise de dados, eliminando a necessidade de múltiplas ferramentas.
+A Credituz é uma plataforma **AI-First**, com arquitetura e funcionalidades intrinsecamente construídas sobre inteligência artificial. Seu modelo emprega um time de agentes especializados de IA, cobrindo toda a jornada imobiliária, do primeiro contato à aprovação do financiamento. Destacam-se Sofia (SDR), Carlos (Crédito), Ana (Comercial), Max (Operacional) e Iris (Insights). A Credituz promete aumento médio de conversão de +225%, redução de 80% no tempo de fechamento e simulações de crédito em menos de 30 segundos. É uma solução parceira, que se conecta aos sistemas que a imobiliária já usa para somar análise de crédito e régua de cobrança com IA.
 
 **Principais Funcionalidades e Diferenciais da Credituz:**
 

@@ -64,7 +64,7 @@ Descubra como a inteligência artificial e a automação podem transformar os re
 ## Perguntas Frequentes (FAQ)
 
 **1. A Credituz substitui um ERP tradicional como a Totvs?**
-Não necessariamente. A Credituz é focada na jornada de vendas, análise de crédito e soluções financeiras para o mercado imobiliário. Muitas incorporadoras utilizam a Credituz integrada ao seu ERP (como a Totvs) para potencializar a frente comercial e de crédito, enquanto mantêm o ERP para o *backoffice* contábil e fiscal.
+Não. A Credituz é uma solução parceira e não substitui o ERP. A Totvs segue como o sistema de gestão da incorporadora, e a Credituz se conecta a ele para somar análise de crédito com política própria e régua de cobrança com IA.
 
 **2. Como a inteligência artificial da Credituz ajuda na análise de crédito?**
 A IA da Credituz cruza milhares de dados em segundos para traçar um perfil de risco preciso do comprador. Isso permite aprovações de crédito mais rápidas, justas e seguras, reduzindo a burocracia e o tempo de espera que costumam travar as vendas de imóveis.

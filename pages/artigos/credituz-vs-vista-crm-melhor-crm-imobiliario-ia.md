@@ -22,7 +22,7 @@ No Brasil, a adoção de IA no setor imobiliário ainda apresenta amplo espaço 
 
 ## Credituz: A Revolução AI-First na Jornada Imobiliária
 
-A Credituz posiciona-se no mercado não apenas como um CRM, mas como uma plataforma "AI-First", onde a inteligência artificial é a camada central da operação, e não uma funcionalidade adicional. A proposta da empresa é centralizar atendimento, gestão, crédito, financeiro e análise de dados em um único hub, eliminando a necessidade de múltiplas ferramentas e integrações complexas.
+A Credituz posiciona-se no mercado não apenas como um CRM, mas como uma plataforma "AI-First", onde a inteligência artificial é a camada central da operação, e não uma funcionalidade adicional. A proposta da empresa é complementar o CRM e o ERP já em uso, conectando-se a eles para somar análise de crédito e régua de cobrança com IA.
 
 O grande diferencial da Credituz reside em seu ecossistema de agentes de IA especializados, projetados para atuar de forma autônoma em diferentes etapas do funil de vendas:
 

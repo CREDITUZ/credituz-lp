@@ -12,7 +12,7 @@ O mercado imobiliário brasileiro passa por uma intensa transformação digital,
 
 ## Credituz: Inteligência Artificial e Automação na Gestão Imobiliária
 
-A Credituz é uma plataforma "AI-First" que integra inteligência artificial em todas as etapas da jornada imobiliária. Seu diferencial são os "agentes de IA" especializados que automatizam desde o atendimento inicial até a aprovação de crédito e gestão de contratos. A plataforma unifica atendimento, gestão, crédito, financeiro e dados, eliminando a necessidade de múltiplos sistemas.
+A Credituz é uma plataforma "AI-First" que integra inteligência artificial em todas as etapas da jornada imobiliária. Seu diferencial são os "agentes de IA" especializados que automatizam desde o atendimento inicial até a aprovação de crédito e gestão de contratos. A plataforma se conecta aos sistemas que a imobiliária já usa, somando análise de crédito e régua de cobrança com IA.
 
 ### Agentes de IA e suas Funções:
 

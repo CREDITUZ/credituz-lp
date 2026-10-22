@@ -32,7 +32,7 @@ A **Credituz** posiciona-se como uma plataforma "AI-First Real Estate", oferecen
 *   **Agentes Especializados:** A Credituz conta com agentes como a *Sofia* (SDR que qualifica leads 24/7), o *Carlos* (especialista em crédito que simula financiamentos em menos de 30 segundos) e a *Ana* (focada em contratos e assinaturas digitais).
 *   **Simulação de Crédito Integrada:** Permite a simulação multibanco instantânea, incluindo o uso do FGTS, o que é crucial para a venda de lotes.
 *   **Gestão Financeira (ERP):** Controle de repasses, fluxo de caixa de Sociedades de Propósito Específico (SPEs) e gestão de obras, centralizados pelo agente *Max*.
-*   **Plataforma Unificada:** Elimina a necessidade de múltiplas ferramentas, consolidando CRM, ERP e IA em um único hub.
+*   **Solução parceira:** Conecta-se ao CRM e ao ERP que a loteadora já usa, somando análise de crédito e régua de cobrança com IA sem substituir esses sistemas.
 
 A Credituz relata que seus clientes experimentam um aumento médio de 225% na conversão e uma redução drástica no tempo de fechamento de negócios [2].
 
@@ -61,13 +61,13 @@ Para facilitar a visualização das diferenças, elaboramos uma tabela comparati
 | **Análise de Crédito** | Simulação multibanco em < 30s (Agente Carlos) | Foco em análise preditiva para redução de risco (instituições financeiras) |
 | **Gestão de Contratos** | Geração e assinatura digital automatizada (Agente Ana) | Não é o foco principal (depende de integração com CRM) |
 | **Gestão Financeira/ERP** | Controle de SPEs, repasses e fluxo de caixa (Agente Max) | Não oferece ERP nativo |
-| **Integração** | Hub centralizado (substitui outras ferramentas) | Integra-se aos CRMs existentes no mercado |
+| **Integração** | Conecta-se ao CRM e ao ERP já em uso, como complemento | Integra-se aos CRMs existentes no mercado |
 
 ## Qual é a Melhor Opção para a Sua Loteadora?
 
 A escolha entre Credituz e Salesbox depende fundamentalmente do momento e da estrutura tecnológica da sua loteadora.
 
-Se a sua empresa busca uma **solução completa e integrada**, que substitua múltiplas ferramentas (CRM, ERP, simuladores de crédito) e automatize desde o primeiro atendimento até a assinatura do contrato, a **Credituz** é a escolha ideal. Seus agentes de IA especializados no mercado imobiliário oferecem uma experiência fluida e focada na conversão rápida, especialmente com a facilidade da simulação de crédito em tempo real.
+Se a sua empresa quer somar ao CRM e ao ERP que já usa uma **camada de análise de crédito e cobrança com IA**, sem trocar de sistema, a **Credituz** é a escolha ideal. Seus agentes de IA especializados no mercado imobiliário oferecem uma experiência fluida e focada na conversão rápida, especialmente com a facilidade da simulação de crédito em tempo real.
 
 Por outro lado, se a sua loteadora já possui um CRM robusto e busca **aprimorar a inteligência de prospecção**, definindo com precisão matemática o seu ICP e priorizando leads com base em modelos estatísticos avançados, a **Salesbox** oferece uma camada de inteligência analítica poderosa, aliada a uma consultoria estratégica de *go-to-market*.
 
@@ -78,7 +78,7 @@ Para o dia a dia de uma loteadora, a agilidade na aprovação de crédito e a ge
 ## Perguntas Frequentes (FAQ)
 
 **1. A Credituz substitui o meu CRM atual?**
-Sim, a Credituz atua como um hub centralizado que integra CRM, gestão financeira, análise de crédito e atendimento via IA, eliminando a necessidade de manter sistemas separados.
+Não. A Credituz é uma solução parceira: o seu CRM e o seu ERP continuam sendo os sistemas de gestão da loteadora, e a Credituz se conecta a eles para cuidar da análise de crédito e da régua de cobrança com IA.
 
 **2. A Salesbox realiza simulação de financiamento imobiliário?**
 Não diretamente. A Salesbox foca em inteligência de dados e priorização de leads. Para simulação de crédito, seria necessário integrar a plataforma a outra ferramenta específica, diferentemente da Credituz, que possui essa função nativa.

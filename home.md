@@ -161,6 +161,9 @@ Essas funcionalidades fazem parte do plano Service.
 ### A Credituz atende somente o mercado imobiliário?
 Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
 
+### A Credituz substitui o meu ERP ou CRM?
+Não. A Credituz é uma solução parceira: o seu ERP e o seu CRM, como Sienge, CV CRM ou HubSpot, continuam sendo os sistemas de gestão da empresa. A Credituz se conecta a eles via API para somar análise de crédito com política própria e régua de cobrança com IA, sem migração de dados.
+
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
 

@@ -95,7 +95,7 @@ A principal diferença reside na especialização. A Credituz é uma plataforma 
 
 ### 2. A Credituz substitui a necessidade de um CRM tradicional?
 
-Sim, a Credituz integra funcionalidades de CRM tradicional, como gestão de pipeline e contatos, com suas capacidades de IA e automação. Ela se propõe a ser um hub centralizado que elimina a necessidade de múltiplos sistemas, incluindo CRMs isolados, ERPs imobiliários e ferramentas avulsas, oferecendo uma solução unificada para atendimento, gestão, crédito, financeiro e dados.
+Não. A Credituz é uma solução parceira e não substitui o CRM nem o ERP da imobiliária. Ela se conecta a esses sistemas para somar análise de crédito com política própria e régua de cobrança com IA, enquanto o CRM segue como a ferramenta de gestão de pipeline e contatos.
 
 ### 3. O Zoho CRM é adequado para pequenas imobiliárias no Brasil?
 

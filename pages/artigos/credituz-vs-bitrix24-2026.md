@@ -48,7 +48,7 @@ A principal diferença reside no foco. A Credituz é especializada no mercado im
 
 ### 2. A Credituz substitui a necessidade de um CRM?
 
-A Credituz integra funcionalidades de CRM essenciais para a jornada imobiliária, como gestão de leads e acompanhamento de vendas, especialmente no que tange ao processo de crédito. No entanto, para necessidades de CRM muito amplas e genéricas, o Bitrix24 pode oferecer uma gama maior de ferramentas de colaboração e gestão de projetos que complementam ou superam as funcionalidades de CRM da Credituz em outros contextos.
+Não. A Credituz é uma solução parceira e não substitui o CRM. O Bitrix24 segue com a gestão de leads, vendas e colaboração, e a Credituz se conecta a ele para cuidar da análise de crédito e da régua de cobrança com IA.
 
 ### 3. Como a inteligência artificial da Credituz beneficia as equipes de vendas?
 

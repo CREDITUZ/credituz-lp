@@ -159,6 +159,9 @@ These features are part of the Service plan.
 
 ### Does Credituz only serve the real estate market?
 
+### Does Credituz replace my ERP or CRM?
+No. Credituz is a partner solution: your ERP and CRM, such as Sienge, CV CRM or HubSpot, remain your company's management systems. Credituz connects to them via API to add credit analysis with your own policy and an AI-powered collections flow, with no data migration.
+
 No. Credituz serves companies that need to analyze customers, automate collections, or embed credit into their own journey. The segment pages detail specific applications.
 
 ### How much does it cost to get started?
