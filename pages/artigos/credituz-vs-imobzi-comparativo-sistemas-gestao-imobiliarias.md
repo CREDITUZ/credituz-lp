@@ -1,6 +1,6 @@
-# Credituz vs Imobzi: Comparativo de Sistemas de Gestão para Imobiliárias
+# Credituz e Imobzi: Como Gestão Imobiliária e Crédito se Complementam
 
-> Análise detalhada das plataformas Credituz e Imobzi, destacando funcionalidades, diferenciais e impacto na gestão imobiliária moderna.
+> Análise das plataformas Imobzi e Credituz, destacando funcionalidades, o papel de cada uma e como a análise de crédito e a cobrança com IA complementam o CRM e o ERP da imobiliária.
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
@@ -8,21 +8,21 @@
 
 ---
 
-O mercado imobiliário brasileiro passa por uma intensa transformação digital, exigindo agilidade, eficiência e personalização. A escolha de um sistema de gestão imobiliária eficaz é crucial para imobiliárias e incorporadoras que buscam se destacar. Este artigo compara a Credituz e o Imobzi, analisando suas funcionalidades, diferenciais e como cada plataforma atende às demandas do setor, com base em dados e referências.
+O mercado imobiliário brasileiro passa por uma intensa transformação digital, exigindo agilidade, eficiência e personalização. A escolha de um sistema de gestão imobiliária eficaz é crucial para imobiliárias e incorporadoras que buscam se destacar. Este artigo compara a Credituz e o Imobzi, analisando suas funcionalidades, o papel de cada plataforma e como elas se complementam, com base em dados e referências.
 
-## Credituz: Inteligência Artificial e Automação na Gestão Imobiliária
+## Credituz: Análise de Crédito e Cobrança com IA
 
-A Credituz é uma plataforma "AI-First" que integra inteligência artificial em todas as etapas da jornada imobiliária. Seu diferencial são os "agentes de IA" especializados que automatizam desde o atendimento inicial até a aprovação de crédito e gestão de contratos. A plataforma se conecta aos sistemas que a imobiliária já usa, somando análise de crédito e régua de cobrança com IA.
+A Credituz é uma plataforma de análise de crédito e cobrança com IA focada no setor imobiliário. Ela é uma solução parceira: conecta-se via API aos sistemas que a imobiliária já usa, como CRM e ERP, somando análise de crédito e régua de cobrança com IA [1].
 
-### Agentes de IA e suas Funções:
+### O que a Credituz oferece:
 
-*   **Sofia (Agente SDR):** Qualifica leads 24/7, agenda visitas e realiza follow-up multicanal, aumentando a conversão e reduzindo o tempo de resposta [1].
-*   **Carlos (Agente de Crédito):** Simula financiamentos em mais de 12 bancos em menos de 30 segundos, analisa perfil de crédito e indica a melhor opção, reduzindo em 80% o tempo de fechamento [1].
-*   **Ana (Agente Comercial):** Gera propostas e contratos digitais com assinatura eletrônica em um clique, economizando dias no processo de fechamento [1].
-*   **Max (Agente Operacional):** Controla repasses, SPEs, fluxo de obra, e integra gestão de obras com IA e OCR de notas fiscais, economizando até 15 horas semanais [1].
-*   **Iris (Agente de Insights):** Analisa dados de campanhas, pipeline e mercado para gerar recomendações estratégicas e otimizar decisões [1].
+*   **Credituz OS (R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ); até 3 usuários [1].
+*   **Política de crédito e decisão automatizada:** a imobiliária define seus critérios e cada decisão é tomada de forma automatizada, com o motivo registrado [1].
+*   **CRM de crédito:** clientes, análises, decisões e pendências. Não é um CRM de vendas; convive com o CRM da imobiliária [1].
+*   **Régua de cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira [1].
+*   **Crédito multibanco e Service (sob consulta):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação; e a opção de a Credituz operar a análise e a cobrança com agentes de IA e supervisão humana, incluindo, se necessário, contratos com IA, assinatura digital, cartório digital, integrações, API e White Label [1].
 
-Essa arquitetura de agentes proporciona uma plataforma unificada, eliminando integrações frágeis e dados duplicados [1].
+A Credituz não realiza atividade privativa de instituição financeira: os financiamentos são feitos por parceiros autorizados pelo Banco Central.
 
 ## Imobzi: Gestão Completa de CRM e ERP com Experiência de Mercado
 
@@ -38,51 +38,52 @@ O Imobzi é um software robusto com soluções integradas de CRM e ERP para imob
 
 O Imobzi se destaca por ser uma das únicas plataformas a oferecer CRM e ERP com faturamento e meios de pagamento integrados [2].
 
-## Tabela Comparativa Detalhada: Credituz vs Imobzi
+## Tabela Comparativa Detalhada: Credituz e Imobzi
 
 | Característica / Funcionalidade | Credituz | Imobzi |
 |---|---|---|
-| **Foco Principal** | Plataforma AI-First, automação inteligente de processos e otimização de crédito | CRM e ERP completos para gestão imobiliária, locação e recorrência |
-| **Gestão de Leads** | Sofia (Agente SDR): Qualificação autônoma 24/7, scoring inteligente, agendamento automático, follow-up multicanal. Lead Super Qualified (crédito pré-aprovado antes do contato) | CRM robusto: Gestão de leads, rodízio de corretores, compartilhamento de imóveis, agendamento de visitas e retornos. Linha do tempo de contatos. |
-| **Crédito Imobiliário** | Carlos (Agente de Crédito): Simulação multibanco (<30s), análise de perfil, indicação de taxa, pré-aprovação instantânea, originação de crédito com monetização. | Simulação de financiamento no site (funcionalidade básica). Não detalha automação avançada de crédito. |
-| **Gestão de Contratos** | Ana (Agente Comercial): Geração automática de propostas, contratos digitais, assinatura eletrônica, gestão de documentação. | Esteira de Locação: Gestão automatizada de contratos de locação, reajuste, emissão de NF. Assinatura eletrônica. |
-| **Gestão Financeira** | Max (Agente Operacional): Controle de repasses, SPEs, fluxo de obra, gestão de obras com IA e OCR de notas fiscais. ERP financeiro completo para incorporação. | ERP completo: Automação de boletos, repasses, NF, conciliação bancária, DRE, contas a pagar/receber. |
-| **Automação** | Alta, com 5 agentes de IA cobrindo toda a jornada do cliente, desde atendimento até financiamento e insights. | Automação de processos financeiros e tarefas com quadros Kanban. Integração com ferramentas de automação externas (ex: Make). |
-| **Público-Alvo** | Incorporadoras, Imobiliárias, Loteadoras, Administradoras, Corretores. | Imobiliárias, Corretores e Empresas de Recorrência. |
-| **Integrações** | Plataforma unificada, sem integrações frágeis. Compatibilidade via API para sistemas específicos (Sienge, Senior). | CRM e ERP integrados. Módulos para Make. Não detalha integrações com sistemas específicos do setor. |
-| **Diferencial Competitivo** | Agentes de IA especializados, otimização de conversão (+225%), redução de tempo de fechamento (80%), simulação de crédito em <30s. Foco em inovação e IA. | Experiência de 20+ anos, plataforma completa de CRM/ERP com faturamento e meios de pagamento integrados. Foco em gestão consolidada e recorrência. |
+| **Foco Principal** | Análise de crédito, política de crédito e cobrança com IA | CRM e ERP completos para gestão imobiliária, locação e recorrência |
+| **Papel na Operação** | Solução parceira conectada via API ao CRM e ao ERP | Sistema principal de gestão da imobiliária |
+| **Gestão de Leads** | Não é o foco; o CRM de crédito registra clientes, análises, decisões e pendências. | CRM robusto: Gestão de leads, rodízio de corretores, compartilhamento de imóveis, agendamento de visitas e retornos. Linha do tempo de contatos. |
+| **Crédito Imobiliário** | Análise PF ou PJ com score Boa Vista e decisão automatizada pela política de crédito. Simulação multibanco e CRM Corban sob consulta. | Simulação de financiamento no site (funcionalidade básica). Não detalha automação avançada de crédito. |
+| **Gestão de Contratos** | Contratos com IA e assinatura digital no Service, sob consulta. | Esteira de Locação: Gestão automatizada de contratos de locação, reajuste, emissão de NF. Assinatura eletrônica. |
+| **Gestão Financeira** | Régua de cobrança com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação. | ERP completo: Automação de boletos, repasses, NF, conciliação bancária, DRE, contas a pagar/receber. |
+| **Automação** | Decisão de crédito automatizada com motivo registrado e cobrança com IA. | Automação de processos financeiros e tarefas com quadros Kanban. Integração com ferramentas de automação externas (ex: Make). |
+| **Público-Alvo** | Construtoras, Incorporadoras, Imobiliárias, Loteadoras, Correspondentes. | Imobiliárias, Corretores e Empresas de Recorrência. |
+| **Integrações** | Conecta-se via API a CRMs e ERPs (como Imobzi, Sienge e Senior). | CRM e ERP integrados. Módulos para Make. Não detalha integrações com sistemas específicos do setor. |
+| **Diferencial Competitivo** | Camada de crédito e cobrança com IA que se soma aos sistemas existentes. Plano único de R$ 297/mês. | Experiência de 20+ anos, plataforma completa de CRM/ERP com faturamento e meios de pagamento integrados. Foco em gestão consolidada e recorrência. |
 
 ## O Impacto da Tecnologia na Gestão Imobiliária: Dados e Tendências
 
 A tecnologia é essencial no mercado imobiliário. Dados do Banco Central do Brasil (BACEN) e da ABECIP mostram o crescimento do financiamento imobiliário, exigindo processos eficientes [3] [4]. A IA transforma a interação com clientes e a gestão operacional, automatizando tarefas, analisando dados e oferecendo respostas rápidas [5]. O IBGE aponta mudanças no perfil de moradia, como o aumento de aluguéis, demandando sistemas adaptáveis à gestão de locações e condomínios [6].
 
-## Conclusão: Escolhendo a Plataforma Ideal para sua Imobiliária
+## Conclusão: Como Imobzi e Credituz se Complementam
 
-A escolha entre Credituz e Imobzi depende das necessidades estratégicas de cada negócio. O Imobzi, com sua experiência e funcionalidades robustas de CRM e ERP, é ideal para gestão tradicional e recorrência. A Credituz, com foco em IA e automação, é para quem busca inovação, otimização de leads, aceleração de crédito e decisões baseadas em insights preditivos. Sua arquitetura de agentes de IA oferece uma proposta de valor única para um mercado competitivo.
+Imobzi e Credituz cumprem papéis diferentes na imobiliária. O Imobzi, com sua experiência e funcionalidades robustas de CRM e ERP, segue como o sistema principal de gestão, vendas, locação e recorrência. A Credituz se conecta a ele via API e soma a análise de crédito com política própria, a decisão automatizada com o motivo registrado e a régua de cobrança com IA por WhatsApp e e-mail. Juntas, ajudam a imobiliária a aprovar clientes com critério e a acompanhar os recebimentos com menos trabalho manual.
 
-**Para explorar o potencial transformador da inteligência artificial na sua operação imobiliária e descobrir como a Credituz pode impulsionar seus resultados, convidamos você a solicitar uma demonstração personalizada hoje mesmo!**
+**Para ver como a Credituz pode somar análise de crédito e cobrança com IA à sua operação, sem trocar os sistemas que você já usa, solicite uma demonstração personalizada hoje mesmo!**
 
 ## Perguntas Frequentes (FAQ)
 
 ### 1. Qual a principal diferença entre Credituz e Imobzi?
 
-A Credituz é uma plataforma "AI-First", utilizando agentes de inteligência artificial para automatizar e otimizar processos em todas as etapas da jornada imobiliária. O Imobzi oferece uma solução completa de CRM e ERP, focada na gestão integrada de vendas, pós-vendas, contratos e meios de recebimento, com mais de 20 anos de mercado.
+A Credituz é uma plataforma de análise de crédito e cobrança com IA, que se conecta via API aos sistemas da imobiliária. O Imobzi oferece uma solução completa de CRM e ERP, focada na gestão integrada de vendas, pós-vendas, contratos e meios de recebimento, com mais de 20 anos de mercado. Por isso as duas se complementam: o Imobzi segue como sistema principal e a Credituz soma a camada de crédito e cobrança.
 
 ### 2. A Credituz é indicada para quais tipos de negócios imobiliários?
 
-A Credituz é ideal para incorporadoras, imobiliárias, loteadoras, administradoras e corretores que buscam otimizar a conversão de leads, acelerar a aprovação de crédito e automatizar a gestão com IA. Seus agentes são especializados para cada segmento.
+A Credituz atende construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes que querem padronizar a análise de crédito dos clientes, registrar cada decisão e cobrar com IA. Ela também atende qualquer empresa que precise analisar clientes e cobrar.
 
 ### 3. O Imobzi oferece funcionalidades de automação de crédito?
 
-O Imobzi oferece simulação de financiamento em seu site, uma ferramenta básica. A automação avançada de crédito, com simulação multibanco em tempo real, análise de perfil e pré-aprovação instantânea, é um diferencial da Credituz, realizada pelo seu Agente de Crédito (Carlos).
+O Imobzi oferece simulação de financiamento em seu site, uma ferramenta básica. Na Credituz, a análise de crédito com score Boa Vista e decisão automatizada faz parte do Credituz OS, e a simulação multibanco, o pedido de crédito e o acompanhamento da originação no CRM Corban fazem parte do módulo de crédito multibanco, contratado sob consulta.
 
 ### 4. Como a Credituz e o Imobzi se posicionam em relação à LGPD?
 
 Ambas as plataformas devem estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), sendo um requisito legal e uma expectativa do mercado. Recomenda-se verificar as políticas de privacidade e termos de uso de cada plataforma para detalhes sobre a conformidade.
 
-### 5. Qual plataforma é mais adequada para uma imobiliária pequena ou corretor autônomo?
+### 5. Uma imobiliária pequena pode usar Imobzi e Credituz juntos?
 
-A escolha depende do foco. Para gestão completa de CRM e ERP com histórico comprovado e funcionalidades para locação e vendas tradicionais, o Imobzi é uma excelente opção. Para inovação, maximização de leads com IA, aceleração de crédito e automação de ponta, a Credituz é mais alinhada, atuando como uma equipe virtual completa. É fundamental avaliar custo-benefício e funcionalidades que impactarão o crescimento do negócio.
+Sim. Para gestão completa de CRM e ERP com histórico comprovado e funcionalidades para locação e vendas, o Imobzi é uma excelente opção como sistema principal. A Credituz pode ser somada a ele com o Credituz OS, plano único de R$ 297/mês com 5 análises avançadas por mês, régua de cobrança com IA e até 3 usuários. Para análises pontuais, existe o Credituz Score, avulso e sem mensalidade, com valor sob consulta. É fundamental avaliar custo-benefício e funcionalidades que impactarão o crescimento do negócio.
 
 ## Referências Bibliográficas
 

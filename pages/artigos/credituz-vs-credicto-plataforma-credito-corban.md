@@ -16,19 +16,19 @@ Historicamente, os CORBANs atuavam como intermediários, facilitando o acesso a 
 
 Dados da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (ABECIP) indicam um crescimento robusto no volume de financiamentos imobiliários no Brasil, com um volume expressivo de recursos sendo direcionados para a aquisição e construção de imóveis [2]. Esse cenário favorável, contudo, exige que os CORBANs estejam equipados com as melhores ferramentas para competir e prosperar. A capacidade de processar informações rapidamente, oferecer simulações precisas e gerenciar um grande volume de propostas tornou-se um diferencial competitivo essencial.
 
-## Credituz: Inteligência Artificial e Automação para o CORBAN do Futuro
+## Credituz: Análise de Crédito, Cobrança com IA e Originação Multibanco
 
-A Credituz se posiciona como uma plataforma AI-First, focada em centralizar atendimento, gestão, crédito, financeiro e dados em um único ecossistema integrado. Seu grande diferencial reside na utilização de **agentes de IA especializados** que atuam em diversas etapas da jornada do cliente, desde a qualificação de leads até a formalização do contrato [3].
+A Credituz é uma plataforma de crédito com IA focada no setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes), que atende também qualquer empresa que precise analisar clientes e cobrar. Ela funciona como solução parceira: conecta-se via API ao CRM e ao ERP que a operação já usa e soma a camada de análise de crédito e de cobrança [3].
 
-As principais funcionalidades da Credituz incluem:
+As principais frentes da Credituz incluem:
 
-1.  **Sofia (Agente SDR):** Qualifica leads 24/7, aplica scoring inteligente e agenda visitas automaticamente, garantindo que nenhum lead seja perdido.
-2.  **Carlos (Agente de Crédito):** Realiza simulações multibanco instantâneas (em menos de 30 segundos), analisa o perfil de crédito e indica a melhor opção para o cliente.
-3.  **Ana (Agente Comercial):** Gera propostas personalizadas, contratos e coordena a assinatura digital, agilizando o fechamento de negócios.
-4.  **Max (Agente Operacional):** Resolve dúvidas operacionais, acompanha o status dos processos e mantém clientes e equipe informados em tempo real.
-5.  **Iris (Agente de Insights):** Analisa dados de campanhas, pipeline e mercado para gerar recomendações estratégicas e identificar oportunidades de crescimento.
+1.  **Credituz OS (plano de R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ), política de crédito própria e decisão automatizada com o motivo registrado, para até 3 usuários.
+2.  **CRM de crédito:** organiza clientes, análises, decisões e pendências de documentação. Não é um CRM de vendas; ele registra a trilha do crédito de cada cliente.
+3.  **Régua de cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira.
+4.  **Crédito multibanco (sob consulta):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, contratados com o time comercial.
+5.  **Service (sob consulta):** a Credituz opera a análise e a cobrança com agentes de IA e supervisão humana, podendo incluir contratos com IA, assinatura digital, cartório digital, integrações, API e White Label.
 
-Com essa abordagem, a Credituz promete uma **redução significativa da burocracia**, um **aumento na taxa de conversão** e uma **otimização da eficiência operacional** para os CORBANs, permitindo que se concentrem no relacionamento com o cliente e na estratégia de vendas.
+Para o CORBAN, o resultado esperado é menos retrabalho na análise do cliente, decisões de crédito registradas e padronizadas e acompanhamento organizado de cada pedido de crédito. A Credituz não realiza atividade privativa de instituição financeira: os financiamentos são feitos por parceiros autorizados pelo Banco Central.
 
 ## Credicto: Infraestrutura Completa para a Performance do Profissional de Crédito
 
@@ -49,34 +49,34 @@ Para auxiliar os CORBANs na decisão entre Credituz e Credicto, apresentamos uma
 
 | Característica / Plataforma | Credituz | Credicto |
 | :-------------------------- | :------- | :------- |
-| **Foco Principal**          | IA e Automação de ponta a ponta | Infraestrutura completa para personal bankers |
-| **Agentes de IA**           | Sim (Sofia, Carlos, Ana, Max, Iris) | Não (foco em ferramentas e suporte humano) |
-| **Simulação de Crédito**    | Multibanco, instantânea (<30s) | Multibanco, inteligente, ágil |
-| **Gestão de CRM/Pipeline**  | Integrado, visual, com automação AI | Integrado, visual, com comunicação automatizada |
-| **Automação de Processos**  | Alta (qualificação, simulação, contrato, suporte) | Média (checklist, comunicação) |
-| **Suporte Bancário**        | Indireto via automação e IA | Direto via especialistas e gerente dedicado |
-| **Documentação**            | Digital, integrada aos agentes | Agilizada, checklist inteligente |
-| **Público-alvo**            | CORBANs, incorporadoras, imobiliárias, loteadoras, corretores | CORBANs, imobiliárias, seguros, consultores financeiros, AAI |
-| **Modelo de Negócio**       | Assinatura, foco em eficiência e dados | Assinatura (subscription fee), alto comissionamento |
-| **Diferencial Competitivo** | IA para otimização e escala | Autonomia e suporte direto aos bancos |
+| **Foco Principal**          | Análise de crédito, política e cobrança com IA, com originação multibanco sob consulta | Infraestrutura completa para personal bankers |
+| **Uso de IA**               | Sim (decisão automatizada pela política de crédito e régua de cobrança com IA) | Não (foco em ferramentas e suporte humano) |
+| **Simulação de Crédito**    | Multibanco, no módulo de crédito sob consulta | Multibanco, inteligente, ágil |
+| **Gestão de CRM/Pipeline**  | CRM de crédito no Credituz OS e CRM Corban no crédito multibanco | Integrado, visual, com comunicação automatizada |
+| **Automação de Processos**  | Alta (análise, decisão por política, cobrança e conciliação) | Média (checklist, comunicação) |
+| **Suporte Bancário**        | Via parceiros autorizados pelo BACEN, com acompanhamento no CRM Corban | Direto via especialistas e gerente dedicado |
+| **Documentação**            | Pendências registradas no CRM de crédito | Agilizada, checklist inteligente |
+| **Público-alvo**            | Construtoras, incorporadoras, imobiliárias, loteadoras, correspondentes | CORBANs, imobiliárias, seguros, consultores financeiros, AAI |
+| **Modelo de Negócio**       | Credituz OS a R$ 297/mês; Score avulso, crédito multibanco e Service sob consulta | Assinatura (subscription fee), alto comissionamento |
+| **Diferencial Competitivo** | Análise, política e cobrança com IA em uma camada que se conecta aos sistemas existentes | Autonomia e suporte direto aos bancos |
 
 ## Conclusão: Escolhendo a Plataforma Ideal para o Seu Negócio CORBAN
 
 A escolha entre Credituz e Credicto dependerá das prioridades e do modelo de negócio de cada CORBAN. Ambas as plataformas oferecem soluções robustas para o mercado de crédito imobiliário, mas com abordagens distintas.
 
-A **Credituz** se destaca pela sua **abordagem AI-First**, sendo a escolha ideal para CORBANs que buscam inovação, automação de ponta a ponta e escalabilidade através de agentes de inteligência artificial. Sua capacidade de otimizar cada etapa do processo, desde a prospecção até o pós-venda, com intervenção humana minimizada, a torna uma ferramenta poderosa para quem visa alta eficiência e um volume crescente de operações. A Credituz é a plataforma que permite ao CORBAN do futuro focar na estratégia e no crescimento, enquanto a IA cuida da execução [3].
+A **Credituz** é indicada para CORBANs e empresas do setor imobiliário que querem padronizar a análise de crédito dos clientes, registrar cada decisão com o motivo, cobrar com uma régua de IA e, quando fizer sentido, acompanhar a originação multibanco pelo CRM Corban. Ela se conecta aos sistemas que a operação já usa e cuida da camada de crédito e cobrança, deixando o profissional livre para o relacionamento com o cliente [3].
 
 Por outro lado, a **Credicto** é a opção mais adequada para CORBANs que valorizam a **autonomia do profissional**, um **suporte humano especializado** e uma infraestrutura completa que centraliza as melhores ofertas de crédito. Seu foco em ferramentas modulares e o acesso direto a gerentes de contas dedicados junto aos bancos podem ser um diferencial para quem busca um relacionamento mais próximo com as instituições financeiras e um controle mais granular sobre cada etapa do processo [4].
 
-Em um mercado cada vez mais competitivo, a decisão pela plataforma certa pode ser o divisor de águas para o sucesso do seu negócio CORBAN. Avalie suas necessidades, compare os diferenciais e escolha a ferramenta que melhor impulsionará seus resultados. Para conhecer mais sobre as soluções inovadoras da Credituz e como a inteligência artificial pode revolucionar suas operações de crédito imobiliário, **solicite uma demonstração hoje mesmo!**
+Em um mercado cada vez mais competitivo, a decisão pela plataforma certa pode ser o divisor de águas para o sucesso do seu negócio CORBAN. Avalie suas necessidades, compare os diferenciais e escolha a ferramenta que melhor impulsionará seus resultados. Para conhecer como a Credituz pode apoiar a análise de crédito e a cobrança da sua operação, **solicite uma demonstração hoje mesmo!**
 
 ## Perguntas Frequentes (FAQ)
 
 ### 1. A Credituz e a Credicto são concorrentes diretos?
-Embora ambas atuem no mercado de crédito imobiliário para CORBANs, Credituz e Credicto possuem abordagens e diferenciais distintos. A Credituz foca em automação e IA de ponta a ponta, enquanto a Credicto oferece uma infraestrutura completa com forte suporte humano e autonomia para o profissional. A escolha ideal depende das prioridades de cada CORBAN.
+Embora ambas atuem no mercado de crédito imobiliário para CORBANs, Credituz e Credicto possuem abordagens e diferenciais distintos. A Credituz foca em análise de crédito, política e cobrança com IA, com originação multibanco sob consulta, enquanto a Credicto oferece uma infraestrutura completa com forte suporte humano e autonomia para o profissional. A escolha ideal depende das prioridades de cada CORBAN.
 
 ### 2. Qual plataforma oferece melhor suporte para Home Equity?
-Ambas as plataformas oferecem suporte para Home Equity. A Credituz, através de seus agentes de IA, agiliza a simulação e formalização. A Credicto se especializa em Home Equity e Financiamento Imobiliário, oferecendo ferramentas específicas e suporte dedicado para essas modalidades.
+A Credicto se especializa em Home Equity e Financiamento Imobiliário, oferecendo ferramentas específicas e suporte dedicado para essas modalidades. Na Credituz, operações dessa natureza entram pelo módulo de crédito multibanco, contratado sob consulta com o time comercial, e os financiamentos são feitos por parceiros autorizados pelo Banco Central.
 
 ### 3. É necessário ser um Correspondente Bancário para usar a Credicto?
 Não. A Credicto foi desenhada para atender a um ecossistema amplo de profissionais de crédito e parceiros de negócios, incluindo imobiliárias, empresas de seguros, administradoras de consórcios, consultores financeiros e agentes autônomos de investimento, além dos CORBANs.

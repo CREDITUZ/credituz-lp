@@ -1,4 +1,4 @@
-# Credituz vs Imoview: Comparativo de Sistemas para Imobiliárias Digitais
+# Credituz e Imoview: Como se Complementam nas Imobiliárias Digitais
 
 > Análise aprofundada das plataformas que impulsionam o mercado imobiliário moderno
 
@@ -8,7 +8,7 @@
 
 ---
 
-O mercado imobiliário brasileiro passa por uma transformação digital acelerada, impulsionada pela demanda por eficiência, agilidade e uma experiência aprimorada para clientes e corretores. Nesse cenário, a escolha de **sistemas para imobiliárias digitais** torna-se um fator crítico para o sucesso e a competitividade. Plataformas como Credituz e Imoview emergem como soluções proeminentes, cada uma com suas particularidades e focos. Este artigo visa apresentar um comparativo detalhado entre Credituz e Imoview, auxiliando imobiliárias e corretores na tomada de decisão sobre qual sistema melhor se alinha às suas necessidades estratégicas e operacionais.
+O mercado imobiliário brasileiro passa por uma transformação digital acelerada, impulsionada pela demanda por eficiência, agilidade e uma experiência aprimorada para clientes e corretores. Nesse cenário, a escolha de **sistemas para imobiliárias digitais** torna-se um fator crítico para o sucesso e a competitividade. Plataformas como Credituz e Imoview emergem como soluções proeminentes, cada uma com suas particularidades e focos. Este artigo visa apresentar um comparativo detalhado entre Credituz e Imoview, mostrando o papel de cada sistema e como os dois se complementam nas necessidades estratégicas e operacionais de imobiliárias e corretores.
 
 ## O Cenário das Imobiliárias Digitais e a Necessidade de Tecnologia
 
@@ -22,21 +22,21 @@ A digitalização no setor imobiliário não é mais uma opção, mas uma necess
 4.  **Análise de Mercado:** Compreender as tendências de preços, demanda e oferta para tomar decisões estratégicas.
 5.  **Automação de Marketing:** Criar campanhas eficazes e automatizadas para atrair e engajar potenciais clientes.
 
-## Credituz: Inovação com Inteligência Artificial para o Crédito Imobiliário
+## Credituz: Análise de Crédito e Cobrança com Inteligência Artificial
 
-A Credituz se posiciona como uma plataforma de IA focada em otimizar o processo de crédito imobiliário, um dos gargalos mais significativos do setor. Sua proposta de valor reside na utilização de inteligência artificial para simplificar, agilizar e tornar mais transparente a jornada do financiamento. A plataforma integra-se a diversas instituições financeiras, permitindo que imobiliárias e corretores ofereçam aos seus clientes uma análise de crédito pré-aprovada em tempo recorde, reduzindo a burocracia e aumentando as chances de fechamento de negócios. A Credituz não é apenas um dos **sistemas para imobiliárias digitais**; é uma ferramenta estratégica para acelerar vendas e qualificar leads com base na capacidade de crédito.
+A Credituz se posiciona como uma plataforma de IA focada na análise de crédito e na cobrança, etapas que costumam ser gargalos significativos do setor. É uma solução parceira: conecta-se via API ao sistema de gestão que a imobiliária já usa e soma a ele a análise de crédito do cliente, a política de crédito com decisão automatizada e a régua de cobrança com IA. Assim, a imobiliária sabe com antecedência se o cliente tem perfil de crédito, reduz a burocracia e aumenta a segurança dos negócios. A Credituz não é apenas um dos **sistemas para imobiliárias digitais**; é uma camada estratégica de crédito e cobrança que trabalha junto com eles.
 
 ### Principais Diferenciais da Credituz:
 
-*   **Análise de Crédito com IA:** Utiliza algoritmos avançados para avaliar o perfil de crédito do cliente em minutos, não em dias.
-*   **Integração Bancária:** Conecta-se a múltiplos bancos, oferecendo as melhores opções de financiamento disponíveis no mercado.
-*   **Simulação Personalizada:** Permite simulações de crédito detalhadas, com diferentes cenários e condições.
-*   **Gestão de Propostas:** Centraliza o acompanhamento de todas as propostas de financiamento, desde a submissão até a aprovação.
-*   **Redução de Burocracia:** Automatiza a coleta e organização de documentos, minimizando erros e retrabalho.
+*   **Credituz OS (R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ); até 3 usuários.
+*   **Política de Crédito Própria:** a imobiliária define seus critérios e a decisão é automatizada, com o motivo registrado.
+*   **CRM de Crédito:** centraliza clientes, análises, decisões e pendências de documentação. Não é um CRM de vendas.
+*   **Régua de Cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira.
+*   **Crédito Multibanco (sob consulta):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, com os financiamentos feitos por parceiros autorizados pelo Banco Central.
 
 ## Imoview: Soluções Abrangentes para Gestão Imobiliária
 
-O Imoview é um sistema de gestão imobiliária consolidado no mercado, conhecido por sua abrangência e por oferecer um conjunto completo de ferramentas para o dia a dia da imobiliária. Diferente da Credituz, que tem um foco mais nichado no crédito, o Imoview atua em diversas frentes, desde a gestão de carteira de imóveis e clientes até a integração com portais imobiliários e ferramentas de marketing. É um dos **sistemas para imobiliárias digitais** que busca oferecer uma solução "tudo em um" para as operações imobiliárias.
+O Imoview é um sistema de gestão imobiliária consolidado no mercado, conhecido por sua abrangência e por oferecer um conjunto completo de ferramentas para o dia a dia da imobiliária. Diferente da Credituz, que tem foco na análise de crédito e na cobrança, o Imoview atua em diversas frentes, desde a gestão de carteira de imóveis e clientes até a integração com portais imobiliários e ferramentas de marketing. É um dos **sistemas para imobiliárias digitais** que busca oferecer uma solução "tudo em um" para as operações imobiliárias.
 
 ### Principais Funcionalidades do Imoview:
 
@@ -53,42 +53,43 @@ Para facilitar a visualização das diferenças e similaridades entre as duas pl
 
 | Característica             | Credituz                                    | Imoview                                     |
 | :------------------------- | :------------------------------------------ | :------------------------------------------ |
-| **Foco Principal**         | Crédito Imobiliário e Qualificação de Leads | Gestão Imobiliária Completa (CRM, Imóveis)  |
+| **Foco Principal**         | Análise de Crédito e Cobrança com IA        | Gestão Imobiliária Completa (CRM, Imóveis)  |
+| **Papel na Operação**      | Solução parceira conectada via API          | Sistema principal de gestão                 |
 | **Tecnologia Central**     | Inteligência Artificial (IA)                | Sistema de Gestão Integrado                 |
-| **Análise de Crédito**     | Avançada, com IA e integração bancária      | Básica ou via integrações de terceiros      |
-| **Gestão de Imóveis**      | Não é o foco principal                     | Completa, com cadastro e publicação         |
-| **CRM**                    | Foco na jornada do crédito                  | Abrangente, para todo o ciclo do cliente    |
-| **Integração com Bancos**  | Alta, para simulação e aprovação de crédito | Não é o foco, mas pode ter integrações      |
-| **Automação de Marketing** | Foco em qualificação de leads por crédito   | Ferramentas de marketing e integração com portais |
-| **Público-alvo**           | Imobiliárias que buscam agilizar o crédito  | Imobiliárias que buscam gestão 360º         |
-| **Benefício Chave**        | Aceleração de vendas e aprovação de crédito | Otimização da operação e visibilidade online |
+| **Análise de Crédito**     | Avançada, PF ou PJ, com score Boa Vista     | Básica ou via integrações de terceiros      |
+| **Gestão de Imóveis**      | Não é o foco                                | Completa, com cadastro e publicação         |
+| **CRM**                    | CRM de crédito (análises e decisões)        | Abrangente, para todo o ciclo do cliente    |
+| **Integração com Bancos**  | Simulação multibanco sob consulta           | Não é o foco, mas pode ter integrações      |
+| **Cobrança**               | Régua com IA por WhatsApp e e-mail          | Módulo financeiro da imobiliária            |
+| **Público-alvo**           | Imobiliárias que querem decidir crédito e cobrar com critério | Imobiliárias que buscam gestão 360º |
+| **Benefício Chave**        | Decisões de crédito registradas e cobrança ativa | Otimização da operação e visibilidade online |
 
-## Escolhendo a Melhor Plataforma para Sua Imobiliária
+## Como Combinar as Duas Plataformas na Sua Imobiliária
 
-A decisão entre Credituz e Imoview, ou a combinação de ambos, dependerá das prioridades e do modelo de negócio de cada imobiliária. Se o principal desafio é a agilidade no processo de crédito imobiliário, a qualificação de leads com base na capacidade de financiamento e a redução da burocracia, a Credituz se apresenta como a solução ideal. Sua especialização em IA para crédito a torna um dos **sistemas para imobiliárias digitais** mais inovadores nesse segmento. Por outro lado, se a imobiliária busca uma ferramenta completa para gerenciar todo o seu fluxo de trabalho – desde o cadastro de imóveis e clientes até a publicação em portais e o controle financeiro –, o Imoview oferece uma suíte robusta de funcionalidades. É importante considerar que as plataformas podem ser complementares, com a Credituz otimizando a etapa de crédito e o Imoview cuidando da gestão geral.
+Credituz e Imoview atuam em etapas diferentes e podem ser usados juntos. O Imoview segue como o sistema principal, com uma suíte robusta para gerenciar todo o fluxo de trabalho, desde o cadastro de imóveis e clientes até a publicação em portais e o controle financeiro. A Credituz se conecta via API e cuida da análise de crédito do cliente, da decisão pela política de crédito definida pela imobiliária e da régua de cobrança com IA. Sua especialização em IA para crédito e cobrança a torna um complemento natural aos **sistemas para imobiliárias digitais**.
 
-### Pontos a Considerar na Escolha:
+### Pontos a Considerar:
 
-1.  **Necessidade Primária:** Qual é o maior gargalo da sua operação hoje? Crédito ou gestão geral?
+1.  **Necessidade Primária:** Qual é o maior gargalo da sua operação hoje: a análise de crédito, a cobrança ou a gestão geral?
 2.  **Orçamento:** Avalie o custo-benefício de cada plataforma e como ele se encaixa no seu planejamento financeiro.
-3.  **Escalabilidade:** O sistema pode crescer junto com sua imobiliária?
+3.  **Integração:** Os sistemas conversam entre si via API?
 4.  **Facilidade de Uso:** A interface é intuitiva? A equipe precisará de muito treinamento?
 5.  **Suporte Técnico:** Qual a qualidade e disponibilidade do suporte oferecido?
 
 ## Conclusão
 
-Credituz e Imoview representam o avanço tecnológico no mercado imobiliário, cada um com sua especialidade. Enquanto o Imoview oferece uma gestão abrangente para o dia a dia da imobiliária, a Credituz se destaca por sua inovação em inteligência artificial aplicada ao crédito imobiliário, um diferencial competitivo crucial para acelerar vendas e otimizar a jornada do cliente. A escolha do melhor entre os **sistemas para imobiliárias digitais** dependerá da sua estratégia. Para imobiliárias que buscam um parceiro tecnológico que realmente entenda e resolva as complexidades do financiamento imobiliário, a Credituz oferece uma solução poderosa e inteligente. Convidamos você a explorar as funcionalidades da Credituz e descobrir como a IA pode transformar o seu processo de crédito e impulsionar seus resultados.
+Credituz e Imoview representam o avanço tecnológico no mercado imobiliário, cada um com sua especialidade. O Imoview oferece uma gestão abrangente para o dia a dia da imobiliária, e a Credituz soma a ele a análise de crédito e a cobrança com inteligência artificial, um diferencial para vender com mais segurança e receber com mais previsibilidade. Entre os **sistemas para imobiliárias digitais**, a combinação dos dois cobre da gestão do portfólio ao crédito do cliente. Convidamos você a conhecer a Credituz e ver como a IA pode organizar a análise de crédito e a cobrança da sua imobiliária.
 
 ## FAQ - Perguntas Frequentes sobre Sistemas para Imobiliárias Digitais
 
 ### 1. Qual a principal diferença entre Credituz e Imoview?
 
-A principal diferença reside no foco. A Credituz é especializada em otimização do crédito imobiliário através de inteligência artificial, agilizando a análise e aprovação de financiamentos. O Imoview, por sua vez, é um sistema de gestão imobiliária mais abrangente, cobrindo CRM, gestão de imóveis, publicação em portais e aspectos financeiros da imobiliária.
+A principal diferença reside no foco. A Credituz é especializada em análise de crédito e cobrança com inteligência artificial, com decisão automatizada pela política de crédito e régua de cobrança por WhatsApp e e-mail. O Imoview, por sua vez, é um sistema de gestão imobiliária mais abrangente, cobrindo CRM, gestão de imóveis, publicação em portais e aspectos financeiros da imobiliária.
 
 ### 2. Posso usar Credituz e Imoview juntos?
 
-Sim, é possível e, em muitos casos, recomendável. As plataformas podem ser complementares. A Credituz pode ser utilizada para otimizar a etapa de crédito e qualificação de leads, enquanto o Imoview gerencia as demais operações da imobiliária, como o portfólio de imóveis e o relacionamento com clientes.
+Sim, é possível e, em muitos casos, recomendável. As plataformas são complementares. A Credituz cuida da análise de crédito e da cobrança, conectada via API, enquanto o Imoview segue gerenciando as demais operações da imobiliária, como o portfólio de imóveis e o relacionamento com clientes.
 
 ### 3. Como a inteligência artificial da Credituz beneficia minha imobiliária?
 
-A IA da Credituz beneficia sua imobiliária ao acelerar significativamente o processo de análise e aprovação de crédito imobiliário. Isso resulta em maior agilidade nas vendas, redução da burocracia, qualificação mais precisa de leads e uma melhor experiência para o cliente, que obtém respostas rápidas sobre seu financiamento.
+A IA da Credituz automatiza a decisão de crédito com base na política definida pela imobiliária, registrando o motivo de cada decisão, e conduz a régua de cobrança por WhatsApp e e-mail. Isso resulta em menos burocracia, critérios consistentes na aprovação de clientes, acompanhamento ativo dos pagamentos e respostas mais rápidas para o cliente.
