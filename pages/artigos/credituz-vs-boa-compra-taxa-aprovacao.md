@@ -22,16 +22,16 @@ O acesso ao **crédito imobiliário** no Brasil é um pilar fundamental para o d
 
 Esses fatores ressaltam a importância de plataformas que consigam otimizar cada etapa, desde a simulação até a liberação do recurso, com um olhar atento à **taxa de aprovação**.
 
-### Credituz: Inovação e Agilidade na Aprovação com Inteligência Artificial
+### Credituz: Análise de Crédito com IA Antes do Pedido ao Banco
 
-A Credituz se posiciona como uma plataforma de IA para o mercado imobiliário, focada em otimizar e agilizar o processo de **crédito imobiliário**. Seu principal diferencial reside na aplicação de algoritmos avançados de inteligência artificial e machine learning para a análise de crédito. Essa abordagem permite uma avaliação mais precisa e rápida do perfil do cliente, identificando as melhores opções de financiamento e, consequentemente, elevando a **taxa de aprovação**.
+A Credituz é uma solução de IA para o setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes), que atende também qualquer empresa que precise analisar clientes e cobrar. Seu foco é dar à empresa uma visão clara do crédito do cliente antes de avançar na venda e no pedido de financiamento, o que ajuda a encaminhar aos bancos propostas com maior chance de **aprovação**.
 
-1.  **Análise Preditiva:** A IA da Credituz analisa um vasto volume de dados em tempo real, prevendo com maior acurácia a probabilidade de aprovação.
-2.  **Personalização:** A plataforma consegue cruzar o perfil do cliente com as políticas de crédito de diversas instituições financeiras, encontrando as que melhor se encaixam e têm maior propensão a aprovar.
-3.  **Redução de Erros:** A automação minimiza a margem de erro humano, tornando o processo mais consistente e justo.
-4.  **Agilidade:** O tempo de resposta é significativamente reduzido, permitindo que os profissionais do mercado imobiliário ofereçam um serviço mais rápido aos seus clientes.
+1.  **Análise de Crédito Avançada:** No **Credituz OS** (plano único de R$ 297/mês), a empresa faz 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
+2.  **Política de Crédito Própria:** A empresa define suas regras e a decisão é automatizada, com o motivo registrado, o que torna o processo mais consistente e auditável.
+3.  **Crédito Multibanco:** Sob consulta com o time comercial, a Credituz oferece simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação. Os financiamentos são feitos por parceiros autorizados pelo BACEN; a Credituz não realiza atividade privativa de instituição financeira.
+4.  **Depois da Venda:** O Credituz OS inclui CRM de crédito, régua de cobrança com IA por WhatsApp e e-mail (até 100 cobranças por mês), recebíveis, baixa, conciliação e analytics da carteira.
 
-Ao focar na eficiência e na precisão da análise, a Credituz busca não apenas agilizar, mas também aumentar a **taxa de aprovação** de seus usuários, transformando a experiência de obtenção de **crédito imobiliário**.
+Para quem prefere não assinar um plano, o **Credituz Score** oferece análise avulsa sem mensalidade, com valor sob consulta. Ao focar na qualidade da análise antes do pedido, a Credituz busca reduzir retrabalho e propostas recusadas, contribuindo para uma melhor **taxa de aprovação**.
 
 ### Boa Compra: Tradição e Abrangência no Mercado de Crédito Imobiliário
 
@@ -41,7 +41,7 @@ A Boa Compra, por sua vez, é uma plataforma com uma presença consolidada no me
 *   **Consultoria Especializada:** Geralmente, a plataforma oferece um atendimento mais consultivo, com especialistas que auxiliam na escolha do melhor financiamento.
 *   **Processos Estabelecidos:** Por ser uma plataforma mais tradicional, seus processos são bem definidos e conhecidos no mercado.
 
-Embora a Boa Compra ofereça uma abordagem mais tradicional e consultiva, a velocidade e a **taxa de aprovação** podem ser influenciadas pela dependência de processos manuais e da análise individual de cada instituição financeira parceira.
+Como em qualquer modelo de intermediação, a velocidade e a **taxa de aprovação** também dependem da análise individual de cada instituição financeira parceira.
 
 ### Credituz vs Boa Compra: Comparativo de Taxas de Aprovação e Critérios
 
@@ -49,28 +49,30 @@ Para entender qual plataforma pode oferecer uma melhor **taxa de aprovação**, 
 
 | Critério de Avaliação       | Credituz                                    | Boa Compra                                     |
 | :------------------------- | :------------------------------------------ | :--------------------------------------------- |
-| **Tecnologia Utilizada**   | Inteligência Artificial, Machine Learning   | Plataforma de intermediação tradicional        |
-| **Velocidade de Análise**  | Alta (minutos a poucas horas)               | Média (dias a semanas)                         |
-| **Precisão da Análise**    | Alta (baseada em dados preditivos)          | Média (baseada em critérios bancários)         |
-| **Taxa de Aprovação**      | Potencialmente maior (otimização por IA)   | Depende dos critérios de cada banco parceiro   |
-| **Personalização**         | Alta (algoritmos adaptativos)               | Média (seleção manual de opções)               |
-| **Abrangência de Parceiros** | Em crescimento (foco em integração digital) | Vasta (rede consolidada de bancos)             |
-| **Suporte ao Cliente**     | Digital e automatizado, com suporte humano | Consultoria especializada e atendimento humano |
+| **Tecnologia Utilizada**   | IA com score Boa Vista e política de crédito própria | Plataforma de intermediação com rede bancária |
+| **Análise Prévia do Cliente** | PF e PJ, com decisão automatizada e motivo registrado | Conduzida com apoio de especialistas         |
+| **Simulação Multibanco**   | Sob consulta (crédito multibanco)           | Sim, com a rede de bancos parceiros            |
+| **Taxa de Aprovação**      | Depende dos critérios de cada banco parceiro; a análise prévia ajuda a qualificar a proposta | Depende dos critérios de cada banco parceiro   |
+| **Personalização**         | Alta (política de crédito definida pela empresa) | Atendimento consultivo                     |
+| **Abrangência de Parceiros** | Em crescimento (financiamentos por parceiros autorizados pelo BACEN) | Vasta (rede consolidada de bancos)             |
+| **Pós-venda**              | Régua de cobrança com IA, recebíveis e conciliação | Não é o foco                                |
+| **Preço**                  | Credituz OS: R$ 297/mês; Credituz Score e crédito multibanco sob consulta | Consulte o fornecedor                        |
+| **Suporte ao Cliente**     | Digital, com suporte humano; Service sob consulta | Consultoria especializada e atendimento humano |
 
-A Credituz, com sua abordagem tecnológica, busca proativamente otimizar a **taxa de aprovação** ao identificar as melhores correspondências entre o perfil do cliente e as exigências dos credores. A Boa Compra, por sua vez, oferece um portfólio amplo, mas a decisão final e a velocidade de aprovação ainda estão mais atreladas aos processos internos de cada banco parceiro.
+A Credituz busca melhorar a **taxa de aprovação** atuando antes do pedido: a empresa conhece o perfil de crédito do cliente e decide com base em uma política clara. A Boa Compra oferece um portfólio amplo de bancos parceiros e atendimento consultivo. Nos dois casos, a decisão final de financiamento é sempre da instituição financeira.
 
 ### Conclusão: Escolhendo a Plataforma Ideal para sua Taxa de Aprovação
 
-A escolha entre Credituz e Boa Compra dependerá das prioridades de cada profissional ou empresa do setor imobiliário. Se a agilidade, a inovação tecnológica e a otimização da **taxa de aprovação** por meio de inteligência artificial são fatores decisivos, a Credituz apresenta uma proposta de valor robusta. Sua capacidade de processar e analisar dados em larga escala pode resultar em um processo de **crédito imobiliário** mais eficiente e com maior probabilidade de sucesso.
+A escolha entre Credituz e Boa Compra dependerá das prioridades de cada profissional ou empresa do setor imobiliário. Se o objetivo é analisar o crédito dos clientes com IA, decidir com base em uma política própria e acompanhar a cobrança depois da venda, a Credituz apresenta uma proposta de valor clara, com o Credituz OS a R$ 297/mês e o crédito multibanco sob consulta.
 
-Por outro lado, se a preferência é por uma plataforma com uma rede de parceiros bancários já estabelecida e um atendimento mais consultivo, a Boa Compra pode ser uma opção viável. No entanto, é importante considerar que a velocidade e a **taxa de aprovação** podem variar mais nesse modelo.
+Por outro lado, se a preferência é por uma plataforma com uma rede de parceiros bancários já estabelecida e um atendimento mais consultivo, a Boa Compra pode ser uma boa opção.
 
-Para quem busca maximizar a **taxa de aprovação** e agilizar seus processos de **crédito imobiliário** com o que há de mais moderno em tecnologia, a Credituz se destaca como uma solução inovadora e eficaz. Convidamos você a conhecer as soluções da Credituz e descobrir como a inteligência artificial pode transformar a sua experiência com crédito imobiliário.
+Para quem busca qualificar melhor as propostas de **crédito imobiliário** antes de enviá-las aos bancos, a Credituz é uma solução especializada no setor imobiliário. Convidamos você a conhecer o Credituz OS e descobrir como a inteligência artificial pode apoiar a sua operação de crédito imobiliário.
 
 ### FAQ: Perguntas Frequentes sobre Crédito Imobiliário e Plataformas
 
 **1. Como a inteligência artificial pode aumentar a taxa de aprovação de crédito imobiliário?**
-A IA analisa um volume massivo de dados do solicitante e do mercado, identificando padrões e riscos com maior precisão. Isso permite que as plataformas sugiram as melhores opções de financiamento e otimizem a apresentação do perfil do cliente aos credores, aumentando as chances de aprovação.
+A IA analisa os dados do solicitante, como o score de crédito, e aplica critérios consistentes, identificando riscos com mais precisão. Isso ajuda a empresa a entender o perfil do cliente antes de enviar a proposta e a encaminhar aos credores pedidos mais bem qualificados, aumentando as chances de aprovação. A decisão final continua sendo da instituição financeira.
 
 **2. Qual a importância da velocidade na análise de crédito imobiliário?**
 A velocidade é crucial para o mercado imobiliário, onde as oportunidades podem ser perdidas rapidamente. Uma análise ágil permite que o comprador garanta o imóvel desejado e que o vendedor finalize a transação sem longas esperas, melhorando a experiência de todos os envolvidos.

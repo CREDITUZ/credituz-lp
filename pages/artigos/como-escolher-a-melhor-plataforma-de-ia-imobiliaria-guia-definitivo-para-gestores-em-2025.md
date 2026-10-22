@@ -35,7 +35,7 @@ Para auxiliar na tomada de decisão, apresentamos um comparativo entre os princi
 | **Foco no Mercado Imobiliário** | Baixo | Médio | Alto |
 | **Análise de Crédito Integrada** | Não | Não | Sim |
 | **Personalização da Jornada** | Baixa | Média | Alta |
-| **Integração com CRM/ERP** | Complexa | Limitada | Nativa e Fluida |
+| **Integração com CRM/ERP** | Complexa | Limitada | Via API, como solução parceira |
 | **Conformidade com LGPD** | Variável | Variável | Rigorosa |
 | **Suporte Técnico Especializado** | Baixo | Médio | Alto |
 
@@ -49,15 +49,15 @@ Essa capacidade analítica permite que gestores tomem decisões baseadas em evid
 
 ## O diferencial da Credituz na transformação digital
 
-A Credituz se destaca no cenário nacional como uma plataforma de IA desenvolvida de ponta a ponta para as necessidades específicas do mercado imobiliário e de crédito brasileiro. Diferente de soluções que apenas automatizam o atendimento, a Credituz oferece um ecossistema completo que integra inteligência artificial, análise de dados e gestão de crédito.
+A Credituz é uma solução de IA desenvolvida para o crédito e a cobrança no mercado imobiliário brasileiro (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes), e atende também qualquer empresa que precise analisar clientes e cobrar. Diferente de soluções que apenas automatizam o atendimento, ela atua como solução parceira: o CRM e o ERP que a empresa já usa seguem como sistemas principais, e a Credituz se conecta a eles via API para somar análise de crédito e régua de cobrança com IA.
 
-Com a Credituz, imobiliárias e incorporadoras podem automatizar a esteira de aprovação de crédito, reduzindo o tempo de resposta de dias para minutos. Além disso, a plataforma utiliza modelos preditivos para identificar os leads com maior probabilidade de conversão, direcionando os esforços da equipe de vendas para as oportunidades mais promissoras. A segurança dos dados é tratada como prioridade máxima, com infraestrutura robusta e total aderência à LGPD.
+No **Credituz OS**, plano único de R$ 297/mês, imobiliárias e incorporadoras fazem 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, com análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ). A empresa define a própria política de crédito e a decisão é automatizada, com o motivo registrado. O plano inclui ainda um CRM de crédito (clientes, análises, decisões e pendências), régua de cobrança com IA por WhatsApp e e-mail (até 100 cobranças por mês, cada uma com até 3 datas, como D-3, D0 e D+3), recebíveis, baixa e conciliação, analytics da carteira e até 3 usuários. Sob consulta, há o Credituz Score (análise avulsa sem mensalidade), o crédito multibanco (simulação multibanco, pedido de crédito e CRM Corban) e o Service, em que a Credituz opera a análise e a cobrança com agentes de IA e supervisão humana. A Credituz não realiza atividade privativa de instituição financeira: os financiamentos são feitos por parceiros autorizados pelo BACEN. A segurança dos dados é tratada como prioridade, com aderência à LGPD.
 
 ## Conclusão
 
 A escolha da melhor plataforma de IA imobiliária em 2025 é uma decisão estratégica que definirá o futuro do seu negócio. Em um mercado cada vez mais competitivo e digitalizado, a adoção de tecnologias avançadas é o caminho seguro para a eficiência operacional e a excelência no atendimento ao cliente. Ao avaliar as opções disponíveis, priorize soluções especializadas, seguras e capazes de transformar dados em resultados concretos.
 
-A Credituz está pronta para ser a parceira da sua imobiliária nessa jornada de inovação. Com nossa plataforma de IA focada no mercado imobiliário e de crédito, você terá as ferramentas necessárias para otimizar processos, acelerar vendas e escalar seus resultados com segurança e inteligência. Descubra como a Credituz pode revolucionar a sua operação e coloque sua empresa na vanguarda do mercado imobiliário.
+A Credituz está pronta para ser a parceira da sua imobiliária nessa jornada de inovação. Conectada aos sistemas que você já usa, a Credituz soma análise de crédito, política de decisão e cobrança com IA, para que sua equipe venda para quem tem condição de pagar e acompanhe os recebíveis com menos trabalho manual. Descubra como a Credituz pode apoiar a sua operação e coloque sua empresa na vanguarda do mercado imobiliário.
 
 ## Perguntas Frequentes (FAQ)
 

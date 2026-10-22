@@ -16,17 +16,19 @@ O setor imobiliário brasileiro, complexo e com grande volume de dados, utiliza 
 
 ## Agentes de IA Especializados: O Caso Credituz
 
-A Credituz representa a vanguarda dos **agentes de IA para vendas imobiliárias**. Diferente das soluções genéricas, a Credituz é desenvolvida com profundo conhecimento do mercado imobiliário brasileiro, integrando-se nativamente aos fluxos de trabalho de imobiliárias, incorporadoras e corretores. Baseada em funcionalidades de IAs especializadas, a Credituz oferece um conjunto robusto de recursos:
+A Credituz é um exemplo de **IA especializada** aplicada a uma etapa crítica das vendas imobiliárias: o crédito do comprador e o recebimento depois da venda. Diferente das soluções genéricas, ela foi desenhada para construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes, e funciona como solução parceira: o CRM e o ERP que a empresa já usa (Sienge, CV CRM, Totvs, Senior, Pipedrive, RD Station, Kenlo, Vista, Superlógica e outros) seguem como sistemas principais, e a Credituz se conecta a eles via API. No **Credituz OS**, plano único de R$ 297/mês, a empresa tem:
 
-1.  **Atendimento Humanizado e 24/7:** A Credituz atende leads instantaneamente via WhatsApp, com conversas naturais e humanizadas, garantindo que nenhum contato seja perdido e que o cliente receba atenção a qualquer momento.
-2.  **Qualificação de Leads Avançada:** Utiliza algoritmos para filtrar e qualificar leads com precisão, atribuindo um score de temperatura e encaminhando contatos prontos para conversão diretamente para o CRM da empresa.
-3.  **Recomendação Personalizada de Imóveis:** Com base nas preferências e histórico do cliente, a Credituz é capaz de recomendar imóveis que se alinham perfeitamente às suas necessidades, otimizando o tempo do corretor e aumentando a satisfação do cliente.
-4.  **Integração Completa:** Conecta-se com os principais CRMs imobiliários, portais e plataformas de anúncio, garantindo um ecossistema integrado e eficiente.
-5.  **Reengajamento e Remarketing:** Transforma contatos inativos em oportunidades através de reengajamento automático e campanhas de remarketing em massa, mantendo o pipeline de vendas sempre ativo.
-6.  **Inteligência de Dados e Relatórios:** Oferece relatórios completos de atendimentos, análise de performance de canais e dados sobre os imóveis mais buscados, fornecendo informações estratégicas para otimizar a operação.
-7.  **Infraestrutura Robusta e Segura:** Opera com API oficial do WhatsApp, hospedagem multinuvem e parceria com grandes provedores de infraestrutura, garantindo segurança e escalabilidade.
+1.  **Análise de Crédito Avançada:** 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ).
+2.  **Política de Crédito Própria:** A empresa define as regras e a IA aplica a decisão automaticamente, com o motivo de cada aprovação ou recusa registrado.
+3.  **CRM de Crédito:** Organiza clientes, análises, decisões e pendências. Não é um CRM de vendas: o funil comercial continua no CRM da empresa.
+4.  **Régua de Cobrança com IA:** Cobranças por WhatsApp e e-mail, até 100 por mês, cada uma com uma régua de até 3 datas (por exemplo, D-3, D0 e D+3).
+5.  **Recebíveis, Baixa e Conciliação:** Acompanhamento do que entrou e do que está em aberto, com baixa e conciliação dos pagamentos.
+6.  **Analytics da Carteira:** Visão da carteira de crédito e de cobrança para apoiar decisões de gestão.
+7.  **Até 3 Usuários:** Acesso para a equipe que cuida de crédito e cobrança.
 
-Resultados de IAs especializadas são notáveis: plataformas reportam 100% de leads atendidos instantaneamente, 90% de satisfação e aumento significativo na taxa de conversão [4]. Isso demonstra o poder de uma IA que conhece profundamente seu nicho.
+Para quem precisa de mais, há o **Credituz Score** (análise avulsa sem mensalidade, valor sob consulta), o **crédito multibanco** (simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, sob consulta) e o **Service**, em que a Credituz opera a análise e a cobrança com agentes de IA e supervisão humana. A Credituz não realiza atividade privativa de instituição financeira: os financiamentos são feitos por parceiros autorizados pelo BACEN.
+
+No mercado em geral, IAs especializadas em atendimento imobiliário também reportam bons resultados, como 100% de leads atendidos instantaneamente, 90% de satisfação e aumento na taxa de conversão [4]. Isso mostra o valor de uma IA que conhece profundamente o seu nicho.
 
 ## Ferramentas Genéricas de IA: Versatilidade com Limitações
 
@@ -45,22 +47,22 @@ As limitações das IAs genéricas no imobiliário incluem falta de conhecimento
 
 | Característica / Ferramenta | Credituz (IA Especializada) | Ferramentas Genéricas de IA |
 | :-------------------------- | :-------------------------- | :-------------------------- |
-| **Foco Principal**          | Vendas e operações imobiliárias | Aplicações diversas, multi-setorial |
+| **Foco Principal**          | Crédito e cobrança no setor imobiliário | Aplicações diversas, multi-setorial |
 | **Conhecimento do Mercado** | Profundo e intrínseco ao setor imobiliário brasileiro | Superficial, requer adaptação e treinamento |
-| **Personalização**          | Alta, adaptada aos processos e linguagem do cliente imobiliário | Baixa, genérica, exige prompts detalhados |
-| **Integração**              | Nativas com CRMs e portais imobiliários | Complexa, pode exigir desenvolvimento personalizado |
-| **Atendimento ao Cliente**  | Humanizado, 24/7, com entendimento de contexto | Automatizado, baseado em scripts, menos contextual |
-| **Qualificação de Leads**   | Avançada, com score de temperatura e encaminhamento inteligente | Básica, sem inteligência de mercado específica |
-| **Geração de Conteúdo**     | Otimizada para o setor (descrições de imóveis, e-mails) | Genérica (textos, imagens), requer revisão e adaptação |
-| **Análise de Dados**        | Estratégica, com relatórios específicos do mercado imobiliário | Ampla, requer interpretação e contextualização manual |
+| **Personalização**          | Alta, com política de crédito definida pela própria empresa | Baixa, genérica, exige prompts detalhados |
+| **Integração**              | Via API, como solução parceira dos CRMs e ERPs que a empresa já usa | Complexa, pode exigir desenvolvimento personalizado |
+| **Análise de Crédito**      | PF e PJ com score Boa Vista e decisão automatizada com motivo registrado | Sem acesso a bureaus de crédito nem política de decisão |
+| **Cobrança**                | Régua com IA por WhatsApp e e-mail, com contexto de cada cliente | Automatizada, baseada em scripts, menos contextual |
+| **Geração de Conteúdo**     | Mensagens de cobrança e registro das decisões de crédito | Genérica (textos, imagens), requer revisão e adaptação |
+| **Análise de Dados**        | Analytics da carteira de crédito e de cobrança | Ampla, requer interpretação e contextualização manual |
 | **Segurança e Conformidade**| Desenvolvida com foco nas regulamentações do setor | Pode apresentar desafios de segurança e conformidade |
-| **Tempo de Implementação**  | Rápido (ex: 4 semanas) | Variável, dependendo da adaptação e integração |
+| **Contratação**             | Plano único de R$ 297/mês, sem desenvolvimento próprio | Variável, dependendo da adaptação e integração |
 
 ## Conclusão: O Futuro é Especializado
 
-A **inteligência artificial** é o futuro das vendas imobiliárias. Sua eficácia reside na capacidade de adaptação às complexidades do setor. Ferramentas genéricas de IA oferecem automação e geração de conteúdo, mas não replicam a profundidade, precisão e humanização de uma solução especializada como a Credituz.
+A **inteligência artificial** é o futuro das vendas imobiliárias. Sua eficácia reside na capacidade de adaptação às complexidades do setor. Ferramentas genéricas de IA oferecem automação e geração de conteúdo, mas não replicam a profundidade e a precisão de uma solução especializada como a Credituz em tarefas como analisar o crédito de um comprador ou conduzir a cobrança das parcelas.
 
-A Credituz, com seu DNA imobiliário, oferece vantagem competitiva. Sua integração perfeita aos fluxos de trabalho, qualificação inteligente de leads e atendimento personalizado liberam profissionais para focar em fechar negócios e construir relacionamentos. Para imobiliárias, incorporadoras e corretores, investir em um agente de IA especializado é uma necessidade estratégica para o sucesso.
+A Credituz, com seu foco imobiliário, soma-se aos sistemas que a empresa já usa: o CRM segue cuidando do funil de vendas, e a Credituz cuida da análise de crédito, da política de decisão e da régua de cobrança com IA. Isso libera os profissionais para focar em fechar negócios e construir relacionamentos. Para imobiliárias, incorporadoras e construtoras, contar com IA especializada nessas etapas é uma decisão estratégica.
 
 **Transforme a maneira como você vende imóveis. Conheça a Credituz e descubra o poder da IA especializada para o seu negócio.**
 
@@ -68,15 +70,15 @@ A Credituz, com seu DNA imobiliário, oferece vantagem competitiva. Sua integra�
 
 ### 1. Qual a principal diferença entre a Credituz e um chatbot comum?
 
-A principal diferença reside na inteligência e especialização. Enquanto um chatbot comum segue roteiros pré-definidos e oferece respostas limitadas, a Credituz é uma pré-atendente construída com inteligência artificial que conversa de forma natural, entende contextos e realmente engaja os leads, como um humano faria, além de ser treinada especificamente para o mercado imobiliário.
+A principal diferença está na função. Um chatbot comum segue roteiros pré-definidos para responder perguntas e atender leads. A Credituz não é uma ferramenta de atendimento de leads: ela analisa o crédito de clientes PF e PJ com score Boa Vista, aplica a política de crédito da empresa com o motivo de cada decisão registrado e conduz a régua de cobrança com IA por WhatsApp e e-mail, tudo pensado para o mercado imobiliário.
 
 ### 2. A Credituz substitui o trabalho do corretor de imóveis?
 
-Não, a Credituz não substitui o corretor de imóveis. Pelo contrário, ela atua como uma ferramenta poderosa para otimizar o trabalho do corretor, cuidando da qualificação de leads, do atendimento inicial e da organização de informações. Isso permite que o corretor foque em atividades de maior valor, como a negociação e o fechamento de vendas, utilizando seu tempo de forma mais estratégica.
+Não, a Credituz não substitui o corretor de imóveis. Ela apoia a operação em etapas que costumam travar a venda: a análise de crédito do comprador, a decisão segundo a política da empresa e, depois da venda, a cobrança das parcelas. Isso permite que o corretor foque em atividades de maior valor, como a negociação e o fechamento, utilizando seu tempo de forma mais estratégica.
 
 ### 3. Como a Credituz garante a segurança dos dados dos meus clientes?
 
-A Credituz é desenvolvida com uma infraestrutura robusta e segura, utilizando a API oficial do WhatsApp e hospedagem multinuvem com parceiros como a Amazon Web Services. Além disso, por ser uma solução especializada, ela é projetada para operar em conformidade com as regulamentações de proteção de dados e as especificidades do setor imobiliário, garantindo a privacidade e a segurança das informações dos clientes.
+A Credituz é desenvolvida com uma infraestrutura segura, com acesso restrito aos usuários da empresa e registro de cada análise e decisão de crédito. Por ser uma solução especializada, ela é projetada para operar em conformidade com a LGPD e com as especificidades do setor imobiliário. A Credituz não realiza atividade privativa de instituição financeira: quando há financiamento, ele é feito por parceiros autorizados pelo BACEN.
 
 ## Referências
 
