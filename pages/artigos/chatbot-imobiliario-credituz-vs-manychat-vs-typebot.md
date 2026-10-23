@@ -1,4 +1,4 @@
-# Chatbot imobiliário: Credituz vs ManyChat vs Typebot — qual converte mais?
+# Chatbot imobiliário: Credituz vs ManyChat vs Typebot: qual converte mais?
 
 > Análise comparativa de plataformas de IA para o mercado imobiliário e crédito: Credituz, ManyChat e Typebot.
 
