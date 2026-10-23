@@ -45,6 +45,7 @@ O JSON-LD da home vive **duplicado**: inline no `<head>` do `index.html` e em `h
 O script preserva HTML, scripts, estilos e URLs; traduz apenas nós de texto, `title`, metas OG/Twitter e atributos `alt`/`aria-label`/`placeholder`/`title`. Detalhes que importam ao editar:
 
 - `PROTECT` — termos de marca que nunca podem ser traduzidos (Credituz OS, WhatsApp, Sienge, Open Finance, ICP-Brasil, Pix, FGTS...). **Adicione novos nomes de produto/parceiro a essa lista** antes que apareçam na LP.
+- `OVERRIDES`: correções pontuais de saídas ruins do DeepL, chaveadas pelo texto PT exato (ex.: "Legal" no rodapé). O texto com override não vai para a API nem para o cache, então o cache continua válido.
 - `LEGAL_BASENAMES` — páginas jurídicas (`termos`, `privacidade`, `dpo`, `uso-aceitavel`, `glossario`, `blog`) que **não** são traduzidas; links para elas no EN são reescritos para `/pages/<arquivo>`.
 - `PAGES` — a lista de páginas espelhadas. Uma nova página de marketing só ganha versão EN se for adicionada aqui.
 - Editar `en/index.html` manualmente é desperdício: o próximo push em `index.html` sobrescreve.
