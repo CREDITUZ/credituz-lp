@@ -4,6 +4,8 @@
 
 - Categoria: CRM & Vendas
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.html
 
 ---

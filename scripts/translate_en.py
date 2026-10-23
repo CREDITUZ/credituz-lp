@@ -39,6 +39,7 @@ PAGES = [
     ("pages/construtoras.html", "en/pages/construtoras.html"),
     ("pages/incorporadoras.html", "en/pages/incorporadoras.html"),
     ("pages/imobiliarias.html", "en/pages/imobiliarias.html"),
+    ("pages/correspondentes.html", "en/pages/correspondentes.html"),
     ("pages/seja-parceiro.html", "en/pages/seja-parceiro.html"),
     ("pages/locacao-temporada.html", "en/pages/locacao-temporada.html"),
     ("pages/integracoes.html", "en/pages/integracoes.html"),
@@ -58,7 +59,25 @@ PROTECT = [
     "Google for Startups", "Salesforce", "HubSpot", "Meta", "Google",
     "LinkedIn", "Instagram", "Facebook", "Pix", "FGTS", "Kenlo", "CV CRM",
     "Boa Vista",
+    # Marcas que o DeepL confundia com a Credituz ou traduzia. "Creditu" fica
+    # depois de "Credituz" de proposito: os termos sao trocados na ordem da
+    # lista, entao "Credituz" ja virou token quando "Creditu" e procurado.
+    "Creditas", "Creditu",
 ]
+
+# Correcoes pontuais de saidas ruins do DeepL, chaveadas pelo texto PT exato.
+# Ficam fora do cache: o texto nao vai para a API e o cache continua valido
+# para todo o resto. Para corrigir outra saida, acrescente a frase PT aqui.
+OVERRIDES = {
+    # Rotulo de rodape: "Legal" saia como "Cool".
+    "Legal": "Legal",
+    # Saia "Turn in the completed assignment.".
+    "Entrega o trabalho feito.": "It delivers the finished work.",
+    # Saia "PF Bonus"; o rotulo vizinho e "Additional PJ".
+    "Adicional PF": "Additional PF",
+    # "R$ 300 million" encostava no rotulo seguinte ("millionin requested").
+    "R$ 300M": "R$ 300M",
+}
 SKIP_PARENTS = {"script", "style", "code", "pre", "noscript", "template"}
 ATTRS_TEXT = ("alt", "aria-label", "placeholder", "title")
 META_SPECS = [
@@ -145,7 +164,15 @@ def restore_terms(text, mapping):
     return text
 
 
+def translated(text):
+    """Traducao de um trecho ja limpo: override manual, cache ou o original."""
+    if text in OVERRIDES:
+        return OVERRIDES[text]
+    return CACHE.get(text, text)
+
+
 def deepl_translate(unique_texts):
+    unique_texts = {t for t in unique_texts if t not in OVERRIDES}
     USED.update(unique_texts)
     pending = [t for t in unique_texts if t not in CACHE]
     reaproveitados = len(unique_texts) - len(pending)
@@ -312,15 +339,15 @@ def translate_file(src, out):
     deepl_translate(unique)
 
     def tr(s):
-        return CACHE.get(s.strip(), s)
+        return translated(s.strip()) if s.strip() in OVERRIDES or s.strip() in CACHE else s
 
     for n in text_nodes:
         original = str(n)
         stripped = original.strip()
-        translated = CACHE.get(stripped, stripped)
+        result = translated(stripped)
         prefix = original[:len(original) - len(original.lstrip())]
         suffix = original[len(original.rstrip()):]
-        n.replace_with(NavigableString(prefix + translated + suffix))
+        n.replace_with(NavigableString(prefix + result + suffix))
     for el, attr in meta_setters:
         if attr == "_title_":
             el.string = tr(el.string)

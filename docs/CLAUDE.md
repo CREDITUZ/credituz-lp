@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## O que é
 
-Site estático da Credituz (`credituz.ai`): landing page, páginas de segmento, blog com 127 artigos e um pacote GEO (Generative Engine Optimization) voltado a crawlers de IA. **Não há build step, bundler, `package.json`, testes ou lint.** Cada HTML é autocontido: CSS e JS inline, fontes via Google Fonts, ícones em `assets/`.
+Site estático da Credituz (`credituz.ai`): landing page, páginas de segmento, blog com 119 artigos B2B (os de pessoa física foram para o guia, ver `docs/seo/blog-b2b-pf.md`) e um pacote GEO (Generative Engine Optimization) voltado a crawlers de IA. **Não há build step, bundler, `package.json`, testes ou lint.** Cada HTML é autocontido: CSS e JS inline, fontes via Google Fonts, ícones em `assets/`.
 
 ## Comandos
 
@@ -31,7 +31,7 @@ Todo conteúdo relevante existe em duas formas, e **as duas precisam ser atualiz
 |---|---|
 | `index.html` | `home.md`, `home.en.md`, `home.json` (JSON-LD) |
 | `pages/glossario.html` | `pages/glossario.md` |
-| `pages/artigos/<slug>.html` | `pages/artigos/<slug>.md` (127 pares 1:1) |
+| `pages/artigos/<slug>.html` | `pages/artigos/<slug>.md` (pares 1:1; os 8 artigos movidos para o guia viraram redirecionamentos) |
 | — | `llms.txt` (índice), `llms-full.txt` (conteúdo consolidado), `sitemap.xml`, `robots.txt` |
 
 `robots.txt` libera explicitamente GPTBot, ClaudeBot, PerplexityBot, Google-Extended e CCBot. `llms.txt` lista cada artigo por categoria com título + descrição; ao adicionar um artigo, atualize `llms.txt`, `llms-full.txt`, `sitemap.xml` e os contadores por categoria em `pages/blog.html`.
@@ -45,6 +45,7 @@ O JSON-LD da home vive **duplicado**: inline no `<head>` do `index.html` e em `h
 O script preserva HTML, scripts, estilos e URLs; traduz apenas nós de texto, `title`, metas OG/Twitter e atributos `alt`/`aria-label`/`placeholder`/`title`. Detalhes que importam ao editar:
 
 - `PROTECT` — termos de marca que nunca podem ser traduzidos (Credituz OS, WhatsApp, Sienge, Open Finance, ICP-Brasil, Pix, FGTS...). **Adicione novos nomes de produto/parceiro a essa lista** antes que apareçam na LP.
+- `OVERRIDES`: correções pontuais de saídas ruins do DeepL, chaveadas pelo texto PT exato (ex.: "Legal" no rodapé). O texto com override não vai para a API nem para o cache, então o cache continua válido.
 - `LEGAL_BASENAMES` — páginas jurídicas (`termos`, `privacidade`, `dpo`, `uso-aceitavel`, `glossario`, `blog`) que **não** são traduzidas; links para elas no EN são reescritos para `/pages/<arquivo>`.
 - `PAGES` — a lista de páginas espelhadas. Uma nova página de marketing só ganha versão EN se for adicionada aqui.
 - Editar `en/index.html` manualmente é desperdício: o próximo push em `index.html` sobrescreve.

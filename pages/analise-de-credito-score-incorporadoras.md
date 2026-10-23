@@ -93,7 +93,7 @@ Não. A análise da Credituz ajuda a qualificar e organizar a decisão da empres
 
 - [IA na análise de risco de crédito imobiliário](https://credituz.ai/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.html)
 - [Plataformas de análise de crédito imobiliário](https://credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html)
-- [Score e financiamento imobiliário](https://credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.html)
+- [Score e financiamento imobiliário](https://guia.credituz.ai/artigos/score-para-financiamento-imobiliario)
 - [Solução para construtoras e incorporadoras](https://credituz.ai/pages/construtoras.html)
 
 Última atualização: 27 de agosto de 2026.

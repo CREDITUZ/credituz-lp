@@ -6,6 +6,8 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/construtora-mcmv-2025-ia-qualificar-beneficiarios-acelerar-aprovacoes.html
 
 ---

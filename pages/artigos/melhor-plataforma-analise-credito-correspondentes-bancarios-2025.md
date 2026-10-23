@@ -3,7 +3,8 @@
 > Um guia para comparar plataformas de análise e decisão de crédito com IA, separando análise de risco, política, CRM, originação e cobrança.
 
 - Categoria: Crédito & Financiamento
-- Atualizado: 2026-09-22
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html
 
 ## O que comparar antes de contratar

@@ -1,6 +1,6 @@
 # Credituz — Landing Page + Blog + GEO
 
-Site estático da Credituz: landing page, blog com 127 artigos e pacote GEO (Generative Engine Optimization) para visibilidade em IAs.
+Site estático da Credituz: landing page, blog com 119 artigos B2B (os de pessoa física foram para o guia, ver `docs/seo/blog-b2b-pf.md`) e pacote GEO (Generative Engine Optimization) para visibilidade em IAs.
 
 ## Estrutura
 

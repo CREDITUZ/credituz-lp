@@ -1,14 +1,16 @@
 # Custo por Lead Imobiliário: ZAP, OLX, Viva Real e Estratégias Alternativas
 
-> Análise detalhada do Custo por Lead (CPL) nos principais portais imobiliários e estratégias para otimizar a captação de leads em 2025.
+> Análise detalhada do Custo por Lead (CPL) nos principais portais imobiliários e estratégias para otimizar a captação de leads.
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-23
 - Canonical: https://credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
 
 ---
 
-O mercado imobiliário brasileiro, impulsionado por um cenário de digitalização crescente e um número cada vez maior de profissionais, tornou-se um ambiente altamente competitivo na captação de leads. Com a proliferação de plataformas e a busca incessante por clientes qualificados, entender o **Custo por Lead (CPL)** e otimizar as estratégias de aquisição tornou-se crucial para imobiliárias e corretores que almejam sustentabilidade e crescimento em 2025.
+O mercado imobiliário brasileiro, impulsionado por um cenário de digitalização crescente e um número cada vez maior de profissionais, tornou-se um ambiente altamente competitivo na captação de leads. Com a proliferação de plataformas e a busca incessante por clientes qualificados, entender o **Custo por Lead (CPL)** e otimizar as estratégias de aquisição tornou-se crucial para imobiliárias e corretores que almejam sustentabilidade e crescimento.
 
 Este artigo explora o panorama atual do CPL nos principais portais imobiliários do Brasil – ZAP Imóveis, OLX e Viva Real – e apresenta estratégias alternativas para reduzir o Custo de Aquisição de Cliente (CAC), garantindo um retorno sobre investimento (ROI) mais eficaz. Analisaremos dados recentes e projeções para 2025, fornecendo insights valiosos para profissionais do setor.
 

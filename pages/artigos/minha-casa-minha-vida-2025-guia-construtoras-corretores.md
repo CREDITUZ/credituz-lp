@@ -6,6 +6,8 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/minha-casa-minha-vida-2025-guia-construtoras-corretores.html
 
 ---

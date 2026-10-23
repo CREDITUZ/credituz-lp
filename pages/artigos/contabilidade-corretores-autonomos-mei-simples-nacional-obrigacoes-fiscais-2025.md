@@ -6,6 +6,8 @@
 
 - Categoria: Contabilidade
 - Publicado: 2026-04-18
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/contabilidade-corretores-autonomos-mei-simples-nacional-obrigacoes-fiscais-2025.html
 
 ---

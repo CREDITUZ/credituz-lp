@@ -4,6 +4,8 @@
 
 - Categoria: Gestão
 - Publicado: 2026-09-28
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-16
 - Autor: Pedro Braz, CEO & Founder da Credituz
 - Canonical: https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html
 

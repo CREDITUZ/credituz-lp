@@ -121,7 +121,9 @@ Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
 ## Segmentos
 
-A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
+O foco da Credituz é o setor imobiliário. Existem páginas específicas para construtoras e incorporadoras, para imobiliárias e para correspondentes bancários, além do crédito multibanco (embedded credit), sob consulta, para operações de originação.
+
+Para correspondentes bancários de crédito imobiliário, a página https://credituz.ai/pages/correspondentes.html (Markdown em https://credituz.ai/pages/correspondentes.md) reúne análise de crédito do comprador com score Boa Vista, política e decisão, acompanhamento da esteira e cobrança no Credituz OS (R$ 297/mês), com simulação multibanco sob consulta.
 
 ## Planos e preços na home
 
@@ -167,7 +169,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 # Blog Credituz — Conteúdo completo
 
-> 127 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
+> 119 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md. Os guias para pessoa física (FGTS, juros, score, consórcio) ficam em https://guia.credituz.ai/llms.txt
 
 
 ## Tecnologia & IA
@@ -524,30 +526,10 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - P: Quais são as principais empresas que fazem análise de crédito no Brasil? R: Entre os birôs de crédito com atuação nacional estão Serasa Experian, Boa Vista (que faz parte da Equifax desde 2023), SPC Brasil e Quod. Além deles, há plataformas de decisão de crédito, empresas de BPO que operam a análise e consultorias que desenham políticas.
 - P: Qual a diferença entre birô de crédito e plataforma de análise de crédito? R: O birô fornece dados e scores sobre pessoas e empresas. A plataforma de análise de crédito consome dados de várias fontes, aplica a política definida pela empresa e registra a decisão, com fluxo, alçadas e histórico.
 
-### Portabilidade de Financiamento Imobiliário: Quando Vale a Pena e Como Fazer
-- URL: https://credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.html
-- Markdown: https://credituz.ai/pages/artigos/portabilidade-financiamento-imobiliario-quando-vale-a-pena-como-fazer.md
-- Resumo: Entenda o processo, as vantagens e os passos para otimizar seu crédito imobiliário no Brasil.
-
-### Como usar FGTS para quitar parcelas do financiamento imobiliário em 2025: Guia Completo para Compradores e Corretores
-- URL: https://credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.html
-- Markdown: https://credituz.ai/pages/artigos/como-usar-fgts-para-quitar-parcelas-financiamento-imobiliario-2025.md
-- Resumo: Desvende as regras atualizadas e maximize o uso do seu Fundo de Garantia para aliviar o peso das prestações da casa própria.
-
-### Taxa de Juros do Financiamento Imobiliário em 2025: Comparativo entre Bancos e Tendências com a Selic
-- URL: https://credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.html
-- Markdown: https://credituz.ai/pages/artigos/taxa-juros-financiamento-imobiliario-2025-comparativo-bancos-selic.md
-- Resumo: Um panorama completo das projeções da Selic, comparativo de taxas bancárias e tendências do mercado imobiliário para construtores e incorporadores.
-
 ### Financiamento Imobiliário para Pessoa Jurídica: CNPJ, MEI e Empresas
 - URL: https://credituz.ai/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.html
 - Markdown: https://credituz.ai/pages/artigos/financiamento-imobiliario-pessoa-juridica-cnpj-mei-empresas.md
 - Resumo: Entenda como CNPJ, MEI e outras empresas podem acessar o crédito imobiliário no Brasil para investir e expandir seus negócios.
-
-### Consórcio Imobiliário vs. Financiamento: Comparativo Completo 2025 com Simulações
-- URL: https://credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.html
-- Markdown: https://credituz.ai/pages/artigos/consorcio-imobiliario-vs-financiamento-comparativo-2025.md
-- Resumo: Descubra qual a melhor opção para adquirir seu imóvel em 2025: consórcio ou financiamento, com análise detalhada e simulações práticas.
 
 ### Credituz vs. Credicto: Qual Plataforma de Crédito é Melhor para CORBANs Imobiliários?
 - URL: https://credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.html
@@ -584,20 +566,10 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/novo-modelo-credito-imobiliario-brasil-2025-lig-cri-alternativas-sbpe.md
 - Resumo: Um guia completo sobre as inovações no financiamento imobiliário para incorporadoras e investidores.
 
-### Financiamento Imobiliário com Renda Composta: Como Funciona e Quais Bancos Aceitam
-- URL: https://credituz.ai/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.html
-- Markdown: https://credituz.ai/pages/artigos/financiamento-imobiliario-renda-composta-como-funciona-bancos.md
-- Resumo: Entenda como a união de rendas pode viabilizar a compra do seu imóvel e as políticas dos principais bancos brasileiros.
-
 ### Correspondente Bancário Imobiliário (CORBAN): O Futuro da Produtividade com IA
 - URL: https://credituz.ai/pages/artigos/correspondente-bancario-imobiliario-ia-produtividade.html
 - Markdown: https://credituz.ai/pages/artigos/correspondente-bancario-imobiliario-ia-produtividade.md
 - Resumo: Guia completo sobre o papel do CORBAN, requisitos, certificações e como a Inteligência Artificial impulsiona a eficiência e personalização no mercado de crédito imobiliário brasileiro.
-
-### Score de crédito para financiamento imobiliário: como aumentar e o que os bancos avaliam
-- URL: https://credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.html
-- Markdown: https://credituz.ai/pages/artigos/score-credito-financiamento-imobiliario-como-aumentar.md
-- Resumo: Entenda a importância do seu score de crédito para conquistar o financiamento imobiliário e descubra estratégias eficazes para otimizar sua pontuação.
 
 ### Crédito Imobiliário para MEI e Autônomos: Guia para CORBANs Fecharem Mais Operações
 - URL: https://credituz.ai/pages/artigos/credito-imobiliario-mei-autonomos-corban-operacoes.html
@@ -744,11 +716,6 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 ## Jurídico
 
 
-### Distrato Imobiliário em 2025: Lei, Direitos do Comprador e o Papel da IA na Prevenção da Inadimplência
-- URL: https://credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.html
-- Markdown: https://credituz.ai/pages/artigos/distrato-imobiliario-2025-lei-direitos-comprador-ia-inadimplencia.md
-- Resumo: Entenda a legislação, os direitos do comprador e como a Inteligência Artificial revoluciona a prevenção da inadimplência no mercado imobiliário em 2025.
-
 ### IA na Advocacia Imobiliária: Automação e Eficiência
 - URL: https://credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.html
 - Markdown: https://credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.md
@@ -758,11 +725,6 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - URL: https://credituz.ai/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.html
 - Markdown: https://credituz.ai/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.md
 - Resumo: Entenda as exigências do CRECI, os impactos do CIB e da Reforma Tributária, e como a tecnologia otimiza a conformidade para imobiliárias em 2025.
-
-### Distrato Imobiliário: Guia Jurídico Completo para Advogados e Compradores
-- URL: https://credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.html
-- Markdown: https://credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.md
-- Resumo: Um guia completo para advogados e compradores navegarem pelas complexidades do distrato imobiliário, Lei 13.786/2018 e jurisprudência do STJ.
 
 ### Como Escritórios de Advocacia Imobiliária Podem Monetizar Clientes com IA
 - URL: https://credituz.ai/pages/artigos/como-escritorios-advocacia-imobiliaria-monetizar-clientes-ia.html

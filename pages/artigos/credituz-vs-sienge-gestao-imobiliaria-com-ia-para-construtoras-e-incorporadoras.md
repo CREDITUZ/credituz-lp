@@ -4,6 +4,8 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.html
 
 ---
