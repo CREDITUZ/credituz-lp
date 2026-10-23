@@ -6,6 +6,8 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.html
 
 ---

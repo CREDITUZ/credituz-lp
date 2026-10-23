@@ -4,6 +4,8 @@
 
 - Categoria: Jurídico
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/escritorio-advocacia-imobiliaria-ia-automatizacao-due-diligence-contratos-compliance.html
 
 ---

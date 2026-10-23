@@ -4,6 +4,8 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-23
 - Canonical: https://credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
 
 ---

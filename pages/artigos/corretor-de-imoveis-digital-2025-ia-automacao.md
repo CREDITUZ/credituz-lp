@@ -4,6 +4,8 @@
 
 - Categoria: Carreira
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-23
 - Canonical: https://credituz.ai/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.html
 
 ---

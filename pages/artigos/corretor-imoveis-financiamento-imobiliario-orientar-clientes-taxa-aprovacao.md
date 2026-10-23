@@ -4,6 +4,8 @@
 
 - Categoria: Crédito & Financiamento
 - Publicado: 2026-04-18
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/corretor-imoveis-financiamento-imobiliario-orientar-clientes-taxa-aprovacao.html
 
 ---

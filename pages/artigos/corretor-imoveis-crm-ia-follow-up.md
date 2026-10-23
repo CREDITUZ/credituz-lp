@@ -4,6 +4,8 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-18
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-23
 - Canonical: https://credituz.ai/pages/artigos/corretor-imoveis-crm-ia-follow-up.html
 
 ---

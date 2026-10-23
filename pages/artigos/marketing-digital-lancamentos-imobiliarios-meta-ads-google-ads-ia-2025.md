@@ -4,6 +4,8 @@
 
 - Categoria: Marketing
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-23
 - Canonical: https://credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
 
 ---

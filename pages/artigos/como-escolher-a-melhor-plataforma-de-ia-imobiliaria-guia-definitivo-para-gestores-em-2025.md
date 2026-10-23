@@ -4,6 +4,8 @@
 
 - Categoria: Tecnologia & IA
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-22
 - Canonical: https://credituz.ai/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.html
 
 ---

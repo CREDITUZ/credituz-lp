@@ -4,6 +4,8 @@
 
 - Categoria: Mercado
 - Publicado: 2026-04-19
+- Autor: Pedro Braz, CEO e fundador da Credituz
+- Atualizado: 2026-10-23
 - Canonical: https://credituz.ai/pages/artigos/imoveis-compactos-studios-produto-mais-vendido-2025-incorporar.html
 
 ---
