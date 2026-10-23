@@ -61,7 +61,7 @@ Ao escolher um CRM com IA, o corretor deve considerar alguns fatores chave:
 
 ## Conclusão: O Futuro do Corretor de Imóveis é Inteligente e Conectado
 
-A integração de CRM com IA ajuda a transformar histórico em próxima ação, desde que o processo tenha dados, regras, responsável e métricas claras. Na Credituz, o [CRM de crédito do Credituz OS](https://credituz.ai/pages/credituz-os.html) organiza clientes, análises e decisões; o [CRM Corban do CORBAN AI](https://credituz.ai/pages/corban-ai.html) acompanha simulações, pedidos, documentos, bancos, pendências e status.
+A integração de CRM com IA ajuda a transformar histórico em próxima ação, desde que o processo tenha dados, regras, responsável e métricas claras. Na Credituz, o [CRM de crédito do Credituz OS](https://credituz.ai/pages/credituz-os.html) organiza clientes, análises e decisões; o [CRM Corban do crédito multibanco](https://credituz.ai/pages/corban-ai.html) acompanha simulações, pedidos, documentos, bancos, pendências e status.
 
 ## Perguntas Frequentes (FAQ)
 

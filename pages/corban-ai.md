@@ -1,6 +1,6 @@
 # Crédito multibanco no Credituz OS: simulação, pedido e CRM Corban
 
-> O crédito multibanco é o módulo de embedded credit do Credituz OS: simular, solicitar e acompanhar crédito em vários bancos dentro da própria jornada do cliente. É contratado com o time comercial, junto ao Credituz OS. Antes vendido sob os nomes CORBAN AI e Credituz OS Growth.
+> O crédito multibanco é o módulo de embedded credit do Credituz OS: simular, solicitar e acompanhar crédito em vários bancos dentro da própria jornada do cliente. É contratado com o time comercial, junto ao Credituz OS.
 
 - Canonical: https://credituz.ai/pages/corban-ai.html
 - Produto: crédito multibanco (embedded credit) no Credituz OS
