@@ -4,6 +4,7 @@
 
 - Canonical: https://credituz.ai/pages/glossario.html
 - Language: pt-BR
+- Termos: 55 (os mesmos nomes e definições estão no JSON-LD DefinedTermSet da página HTML)
 
 ---
 
