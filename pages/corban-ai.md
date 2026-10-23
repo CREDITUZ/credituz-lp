@@ -38,7 +38,7 @@ Para análise, política interna, CRM de crédito e cobrança, o [Credituz OS](h
 
 ## Indicadores divulgados
 
-- R$ 300 milhões em crédito solicitado pela plataforma;
+- conectada às maiores instituições financeiras do país;
 - mais de 40 operações usando a infraestrutura Credituz.
 
 ## Links
