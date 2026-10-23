@@ -20,10 +20,10 @@
       },
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Av. Rebouças, 1585",
+        "streetAddress": "Av. Brigadeiro Faria Lima, 1811, conj. 115",
         "addressLocality": "São Paulo",
         "addressRegion": "SP",
-        "postalCode": "05401-200",
+        "postalCode": "01452-001",
         "addressCountry": "BR"
       },
       "description": "Plataforma de análise e decisão de crédito com IA para empresas, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
@@ -179,7 +179,7 @@
           "name": "A Credituz atende somente o mercado imobiliário?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas para alguns mercados."
+            "text": "Sim. O foco da Credituz é o setor imobiliário: incorporadoras, construtoras, imobiliárias e correspondentes bancários. O produto, as integrações (como Sienge e CV CRM) e a política de crédito são pensados para a venda e a carteira de imóveis."
           }
         },
         {

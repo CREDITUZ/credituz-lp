@@ -172,7 +172,7 @@ These features are part of the Service offer.
 
 ### Does Credituz only serve the real estate market?
 
-No. Credituz serves companies that need to analyze customers, automate collections, or embed credit into their own journey. The segment pages detail specific applications.
+Yes. Credituz focuses on the Brazilian real estate sector: real estate developers, construction companies, real estate agencies, and banking correspondents. The product, its integrations (such as Sienge and CV CRM), and the credit policy are built for selling real estate and managing its receivables.
 
 ### Does Credituz replace my ERP or CRM?
 
