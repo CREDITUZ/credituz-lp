@@ -138,7 +138,7 @@ Official page: [Credituz Service](https://credituz.ai/en/pages/enterprise.html).
 
 ## Segments
 
-Credituz focuses on the real estate sector, and the platform can also serve companies that sell on credit, collect recurring payments, or want to embed credit into their own experience. There are specific pages for construction and real estate development companies and for real estate agencies, plus embedded credit, on request, for origination operations.
+Credituz focuses on the real estate sector. There are specific pages for construction and real estate development companies, for real estate agencies, and for banking correspondents, plus multi-bank embedded credit, on request, for origination operations.
 
 ## Plans and prices on the homepage
 

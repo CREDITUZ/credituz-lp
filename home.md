@@ -136,7 +136,7 @@ Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
 ## Segmentos
 
-A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
+O foco da Credituz é o setor imobiliário. Existem páginas específicas para construtoras e incorporadoras, para imobiliárias e para correspondentes bancários, além do crédito multibanco (embedded credit), sob consulta, para operações de originação.
 
 ## Planos e preços na home
 
