@@ -13,6 +13,7 @@ on:
       - "pages/enterprise.html"
       - "pages/incorporadoras.html"
       - "pages/imobiliarias.html"
+      - "pages/correspondentes.html"
       - "pages/seja-parceiro.html"
       - "pages/locacao-temporada.html"
       - "pages/integracoes.html"

@@ -11,6 +11,8 @@
 - [Embedded credit](https://credituz.ai/pages/corban-ai.html): simulação multibanco, pedido de crédito e CRM Corban, sob consulta com o time comercial
 - [Incorporador OS](https://viabilidade.credituz.ai/): da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar
 - [Credituz Service](https://credituz.ai/pages/enterprise.html): operação de crédito e cobrança feita pela Credituz, infraestrutura financeira, integrações e fluxos customizados com IA
+- [Credituz para correspondentes bancários](https://credituz.ai/pages/correspondentes.html): análise de crédito do comprador com score Boa Vista, política própria, esteira e cobrança para correspondentes de crédito imobiliário; simulação multibanco sob consulta
+- [Correspondentes em Markdown](https://credituz.ai/pages/correspondentes.md): a mesma página em texto limpo
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html): análise de crédito avulsa, sem mensalidade
 - [Versão markdown da home](https://credituz.ai/home.md): home em texto limpo para IA
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo

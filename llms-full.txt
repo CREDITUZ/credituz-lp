@@ -123,6 +123,8 @@ Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
 A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
 
+Para correspondentes bancários de crédito imobiliário, a página https://credituz.ai/pages/correspondentes.html (Markdown em https://credituz.ai/pages/correspondentes.md) reúne análise de crédito do comprador com score Boa Vista, política e decisão, acompanhamento da esteira e cobrança no Credituz OS (R$ 297/mês), com simulação multibanco sob consulta.
+
 ## Planos e preços na home
 
 A home apresenta um único plano com preço público:

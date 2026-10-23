@@ -36,6 +36,12 @@ Credituz OS covers different operating scales:
 
 - AI credit analysis: https://credituz.ai/pages/analise-de-credito-com-ia.html
 
+## Real estate segment pages
+
+- Builders and developers: https://credituz.ai/en/pages/construtoras.html
+- Real estate agencies: https://credituz.ai/en/pages/imobiliarias.html
+- Banking correspondents (Portuguese only for now): https://credituz.ai/pages/correspondentes.html
+
 ## The problems Credituz solves
 
 - **Fragmented credit risk:** companies sell before combining credit analysis, payment capacity, and credit policy in a consistent flow.

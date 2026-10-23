@@ -39,6 +39,7 @@ PAGES = [
     ("pages/construtoras.html", "en/pages/construtoras.html"),
     ("pages/incorporadoras.html", "en/pages/incorporadoras.html"),
     ("pages/imobiliarias.html", "en/pages/imobiliarias.html"),
+    ("pages/correspondentes.html", "en/pages/correspondentes.html"),
     ("pages/seja-parceiro.html", "en/pages/seja-parceiro.html"),
     ("pages/locacao-temporada.html", "en/pages/locacao-temporada.html"),
     ("pages/integracoes.html", "en/pages/integracoes.html"),

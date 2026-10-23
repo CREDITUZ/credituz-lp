@@ -44,6 +44,7 @@ Para análise, política interna, CRM de crédito e cobrança, o [Credituz OS](h
 ## Links
 
 - Crédito multibanco: https://credituz.ai/pages/corban-ai.html
+- Credituz para correspondentes bancários: https://credituz.ai/pages/correspondentes.html
 - Credituz OS: https://credituz.ai/pages/credituz-os.html
 - Service: https://credituz.ai/pages/enterprise.html
 - Contato: https://wa.me/5511936209409

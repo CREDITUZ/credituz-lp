@@ -36,6 +36,12 @@ O Credituz OS oferece diferentes planos para diferentes escalas de operação:
 
 - Análise de crédito com IA: https://credituz.ai/pages/analise-de-credito-com-ia.html
 
+## Páginas por segmento do setor imobiliário
+
+- Construtoras e incorporadoras: https://credituz.ai/pages/construtoras.html
+- Imobiliárias: https://credituz.ai/pages/imobiliarias.html
+- Correspondentes bancários: https://credituz.ai/pages/correspondentes.html
+
 ## O problema que a Credituz resolve
 
 - **Risco de crédito fragmentado:** empresas vendem antes de reunir análise, capacidade de pagamento e política de crédito em um fluxo consistente.
