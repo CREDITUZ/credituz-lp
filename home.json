@@ -6,6 +6,10 @@
       "@id": "https://credituz.ai/#organization",
       "name": "Credituz",
       "legalName": "Credituz Tecnologia Ltda",
+      "alternateName": [
+        "Credituz Tecnologia",
+        "Credituz OS"
+      ],
       "taxID": "51.934.531/0001-92",
       "url": "https://credituz.ai/",
       "logo": {
@@ -23,6 +27,7 @@
         "addressCountry": "BR"
       },
       "description": "Plataforma de análise e decisão de crédito com IA para empresas, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
+      "disambiguatingDescription": "Plataforma brasileira de análise de crédito, política e decisão automatizada e cobrança com IA para o setor imobiliário, que funciona junto com ERPs e CRMs como Sienge e CV CRM, não concede crédito diretamente e não tem relação com a Creditas nem com a Creditu.",
       "foundingDate": "2023",
       "founder": [
         {
@@ -36,7 +41,8 @@
         }
       ],
       "sameAs": [
-        "https://www.linkedin.com/company/credituz"
+        "https://www.linkedin.com/company/credituz",
+        "https://www.instagram.com/credituz.ai"
       ],
       "subjectOf": [
         {
@@ -101,25 +107,24 @@
       "offers": [
         {
           "@type": "Offer",
-          "name": "Credituz Score",
-          "url": "https://credituz.ai/pages/credituz-score.html",
-          "priceCurrency": "BRL",
-          "description": "Análise de crédito avulsa, sem assinatura ou mensalidade, com valor sob consulta com o time comercial."
-        },
-        {
-          "@type": "Offer",
           "name": "Credituz OS",
           "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": "297",
+            "priceCurrency": "BRL",
+            "unitText": "MON",
+            "unitCode": "MON",
+            "referenceQuantity": {
+              "@type": "QuantitativeValue",
+              "value": 1,
+              "unitCode": "MON"
+            }
+          },
+          "availability": "https://schema.org/InStock",
           "description": "R$ 297 por mês com 5 análises de crédito avançadas com score Boa Vista (PF ou PJ) e até 100 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ). Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
-        },
-        {
-          "@type": "Offer",
-          "name": "Service",
-          "url": "https://credituz.ai/pages/enterprise.html",
-          "priceCurrency": "BRL",
-          "description": "Operação de crédito e cobrança feita pela Credituz com agentes de IA e supervisão humana, sob consulta com o time comercial, podendo combinar o Credituz OS, Incorporador OS (análise de viabilidade de empreendimentos), construtor de contratos com IA, assinatura digital, cartório digital, integrações e soluções customizadas com IA."
         }
       ]
     },

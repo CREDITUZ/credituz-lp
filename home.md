@@ -2,6 +2,10 @@
 
 > A Credituz é uma plataforma de análise e decisão de crédito com IA. O Credituz OS é o produto único que conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis em um único plano com preço público (R$ 297/mês), com módulos adicionais sob consulta; o Credituz Score é uma consulta avulsa para quem ainda não precisa de recorrência.
 
+## O que é a Credituz (resumo)
+
+A Credituz é uma plataforma de análise de crédito, política e decisão automatizada e cobrança com IA para o setor imobiliário: incorporadoras, construtoras, imobiliárias e correspondentes. O Credituz OS custa a partir de R$ 297/mês e funciona junto com o Sienge, o CV CRM e o ERP ou CRM que a sua empresa já usa, sem substituí-los; a Credituz não concede crédito diretamente. A Credituz não tem relação com a Creditas nem com a Creditu.
+
 - Canonical: https://credituz.ai/
 - Language: pt-BR
 - Updated: 2026-09
@@ -23,7 +27,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 O Credituz OS oferece diferentes planos para diferentes escalas de operação:
 
 - **Credituz OS (R$ 297/mês, plano único com preço público):** análise de crédito + CRM de crédito + cobrança com IA, com 5 análises PF ou PJ, 100 cobranças e 3 usuários por mês.
-- **Embedded credit (sob consulta com o time comercial):** volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
+- **Crédito multibanco, embedded credit (sob consulta com o time comercial):** volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban), contratado junto ao Credituz OS.
 - **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
 - **Service:** a Credituz opera análise, decisão e cobrança sob medida, com infraestrutura financeira e gestão operacional, podendo partir do Credituz OS e adicionar módulos específicos.
 - **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
@@ -62,7 +66,7 @@ Preço: **R$ 297/mês**. Volumes maiores são definidos com o time comercial.
 
 Página oficial: [Credituz OS](https://credituz.ai/pages/credituz-os.html).
 
-## Embedded credit (antigo CORBAN AI, sob consulta)
+## Crédito multibanco, embedded credit (sob consulta)
 
 **Analise. Cobre. Financie.**
 
