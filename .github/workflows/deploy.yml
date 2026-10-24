@@ -60,6 +60,57 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
+  # IndexNow (out/2026, plano de SEO/GEO): depois de cada deploy, avisa Bing,
+  # Yandex, Seznam e Naver das paginas que mudaram. O ChatGPT busca pelo indice
+  # do Bing. A chave ja esta publicada na raiz (101f507...e39.txt). So entram
+  # URLs que estao no sitemap.xml; rodar manualmente envia o sitemap inteiro.
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Notify IndexNow
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request
+          from pathlib import Path
+          HOST = "credituz.ai"
+          KEY = "101f507cd63a751ef47fcf9c03f1742287ffc6d1da59f49976a95bab91786e39"
+          sitemap = set(re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", Path("sitemap.xml").read_text(encoding="utf-8")))
+          def to_url(path):
+              if not path.endswith(".html"):
+                  return None
+              p = path[:-len("index.html")] if path.endswith("index.html") else path
+              return "https://" + HOST + "/" + p
+          before = os.environ.get("BEFORE") or ""
+          if os.environ.get("EVENT") == "workflow_dispatch" or not before or set(before) == {"0"}:
+              urls = sorted(sitemap)
+          else:
+              diff = subprocess.run(["git", "diff", "--name-only", before, os.environ["AFTER"]], capture_output=True, text=True).stdout.split()
+              urls = sorted({u for u in (to_url(f) for f in diff) if u and u in sitemap})
+              if "sitemap.xml" in diff:
+                  urls = sorted(set(urls) | {"https://" + HOST + "/"})
+          urls = urls[:10000]
+          print(len(urls), "URL(s)")
+          if not urls:
+              raise SystemExit(0)
+          body = json.dumps({"host": HOST, "key": KEY, "keyLocation": "https://" + HOST + "/" + KEY + ".txt", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  print("IndexNow", r.status)
+          except Exception as e:
+              # Aviso ao buscador nao pode derrubar o deploy.
+              print("IndexNow falhou:", e)
+          PY
+
   visual-qa:
     needs: deploy
     runs-on: ubuntu-latest
