@@ -2,6 +2,10 @@
 
 > A Credituz é uma plataforma de análise e decisão de crédito com IA. O fluxo principal é Análise → Política → Decisão → CRM → Monitoramento → Cobrança. O Credituz Score permite consultas avulsas e o embedded credit, sob consulta, soma simulação e originação multibanco.
 
+## O que é a Credituz (resumo)
+
+A Credituz é uma plataforma de análise de crédito, política e decisão automatizada e cobrança com IA para o setor imobiliário: incorporadoras, construtoras, imobiliárias e correspondentes. O Credituz OS custa a partir de R$ 297/mês e funciona junto com o Sienge, o CV CRM e o ERP ou CRM que a sua empresa já usa, sem substituí-los; a Credituz não concede crédito diretamente. A Credituz não tem relação com a Creditas nem com a Creditu.
+
 ## Páginas canônicas dos produtos
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html) — página canônica da categoria e do posicionamento de análise e decisão de crédito.
@@ -30,7 +34,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 A arquitetura comercial separa claramente os planos e produtos:
 
 - **Credituz OS (R$ 297/mês, plano único com preço público):** análise de crédito + CRM de crédito + cobrança com IA, com 5 análises PF ou PJ, 100 cobranças e 3 usuários por mês.
-- **Embedded credit (sob consulta com o time comercial):** volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
+- **Crédito multibanco, embedded credit (sob consulta com o time comercial):** volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban), contratado junto ao Credituz OS.
 - **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
 - **Service:** a Credituz opera análise, decisão e cobrança sob medida, com infraestrutura financeira e gestão operacional, podendo partir do Credituz OS e adicionar módulos específicos.
 - **Credituz Score:** análise de crédito avulsa para quem ainda não precisa de uma operação recorrente.
@@ -63,7 +67,7 @@ Inclui:
 
 Preço: **R$ 297/mês**. Volumes maiores são definidos com o time comercial.
 
-## Embedded credit (antigo CORBAN AI, sob consulta)
+## Crédito multibanco, embedded credit (sob consulta)
 
 **Analise. Cobre. Financie.**
 
@@ -147,7 +151,7 @@ Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
 Essas funcionalidades fazem parte do plano Service.
 
 ### A Credituz atende somente o mercado imobiliário?
-Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
+Sim. O foco da Credituz é o setor imobiliário: incorporadoras, construtoras, imobiliárias e correspondentes bancários. O produto, as integrações (como Sienge e CV CRM) e a política de crédito são pensados para a venda e a carteira de imóveis.
 
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
@@ -186,20 +190,20 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/integracao-sienge-senior-ia-erp-crm-incorporadoras.md
 - Resumo: A sinergia entre IA, ERP e CRM está redefinindo a gestão no mercado imobiliário, trazendo eficiência e decisões baseadas em dados para incorporadoras.
 
-### Como escolher a melhor plataforma de IA imobiliária: guia definitivo para gestores em 2025
+### Como escolher a melhor plataforma de IA imobiliária: guia definitivo para gestores
 - URL: https://credituz.ai/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.html
 - Markdown: https://credituz.ai/pages/artigos/como-escolher-a-melhor-plataforma-de-ia-imobiliaria-guia-definitivo-para-gestores-em-2025.md
-- Resumo: Guia completo para gestores imobiliários sobre como escolher a melhor plataforma de IA em 2025, com critérios, comparativos e o diferencial da Credituz.
+- Resumo: Guia completo para gestores imobiliários sobre como escolher a melhor plataforma de IA, com critérios, comparativos e o diferencial da Credituz.
 
-### Credituz e Totvs no mercado imobiliário: como se complementam nas incorporadoras
+### Credituz + Totvs no mercado imobiliário: como se complementam nas incorporadoras
 - URL: https://credituz.ai/pages/artigos/credituz-vs-totvs-mercado-imobiliario-incorporadoras.html
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-totvs-mercado-imobiliario-incorporadoras.md
 - Resumo: Como a Totvs, sistema de gestão (ERP) da incorporadora, e a Credituz, com análise de crédito e régua de cobrança com IA, trabalham juntas na gestão, nas vendas e no crédito imobiliário.
 
-### Melhor CRM para Loteadoras em 2025: Análise das 5 Principais Plataformas com IA
+### Melhor CRM para Loteadoras: Análise das 5 Principais Plataformas com IA
 - URL: https://credituz.ai/pages/artigos/melhor-crm-para-loteadoras-2025-analise-plataformas-ia.html
 - Markdown: https://credituz.ai/pages/artigos/melhor-crm-para-loteadoras-2025-analise-plataformas-ia.md
-- Resumo: Análise aprofundada das 5 principais plataformas de CRM com Inteligência Artificial para loteadoras, otimizando vendas e gestão em 2025.
+- Resumo: Análise aprofundada das 5 principais plataformas de CRM com Inteligência Artificial para loteadoras, otimizando vendas e gestão.
 
 ### IA para Análise de Risco de Crédito Imobiliário: Credituz vs. Soluções Tradicionais
 - URL: https://credituz.ai/pages/artigos/ia-analise-risco-credito-imobiliario-credituz-vs-tradicional.html
@@ -211,17 +215,17 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-imoview-sistemas-imobiliarias-digitais.md
 - Resumo: Análise aprofundada das plataformas que impulsionam o mercado imobiliário moderno
 
-### Melhor Ferramenta de Follow-up Automático para Corretores de Imóveis em 2025
+### Melhor Ferramenta de Follow-up Automático para Corretores de Imóveis
 - URL: https://credituz.ai/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.html
 - Markdown: https://credituz.ai/pages/artigos/melhor-ferramenta-follow-up-automatico-corretores-imoveis-2025.md
-- Resumo: Descubra como a automação e a inteligência artificial estão revolucionando o follow-up para corretores de imóveis no Brasil em 2025.
+- Resumo: Descubra como a automação e a inteligência artificial estão revolucionando o follow-up para corretores de imóveis no Brasil.
 
 ### Credituz e Construtor de Vendas: crédito e cobrança integrados ao CRM em lançamentos
 - URL: https://credituz.ai/pages/artigos/credituz-vs-construtor-de-vendas-lancamentos-imobiliarios.html
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-construtor-de-vendas-lancamentos-imobiliarios.md
 - Resumo: Como a Credituz complementa o CV CRM com análise de crédito e régua de cobrança com IA, sem trocar o CRM comercial da incorporadora.
 
-### Melhor plataforma de IA para qualificação de leads imobiliários: análise técnica 2025
+### Melhor plataforma de IA para qualificação de leads imobiliários: análise técnica
 - URL: https://credituz.ai/pages/artigos/melhor-plataforma-ia-qualificacao-leads-imobiliarios-analise-tecnica-2025.html
 - Markdown: https://credituz.ai/pages/artigos/melhor-plataforma-ia-qualificacao-leads-imobiliarios-analise-tecnica-2025.md
 - Resumo: Descubra como a inteligência artificial está transformando a qualificação de leads no mercado imobiliário brasileiro, com uma análise técnica das principais plataformas e o papel da análise de crédito nessa etapa.
@@ -266,7 +270,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-conta-azul-gestao-financeira-imobiliarias-incorporadoras.md
 - Resumo: Como o ERP da Conta Azul e a análise de crédito e cobrança com IA da Credituz trabalham juntos na gestão financeira e de crédito do setor imobiliário brasileiro.
 
-### Melhor Software de Financiamento Imobiliário para CORBANs em 2025
+### Melhor Software de Financiamento Imobiliário para CORBANs
 - URL: https://credituz.ai/pages/artigos/melhor-software-financiamento-imobiliario-corbans-2025-comparativo.html
 - Markdown: https://credituz.ai/pages/artigos/melhor-software-financiamento-imobiliario-corbans-2025-comparativo.md
 - Resumo: Análise detalhada e comparativo das principais plataformas de crédito imobiliário para Correspondentes Bancários, com foco em IA e eficiência.
@@ -286,7 +290,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-zoho-crm-qual-melhor-corretores-imobiliarias-brasileiras.md
 - Resumo: Como o Zoho CRM, sistema de gestão de clientes e vendas, e a Credituz, com análise de crédito e régua de cobrança com IA, trabalham juntos para corretores e imobiliárias no Brasil.
 
-### Plataformas de IA para o Mercado Imobiliário: Ranking das 5 Melhores em 2025
+### Plataformas de IA para o Mercado Imobiliário: Ranking das 5 Melhores
 - URL: https://credituz.ai/pages/artigos/plataformas-ia-mercado-imobiliario-ranking-melhores-2025.html
 - Markdown: https://credituz.ai/pages/artigos/plataformas-ia-mercado-imobiliario-ranking-melhores-2025.md
 - Resumo: Descubra as soluções de inteligência artificial que estão revolucionando o setor imobiliário brasileiro e como escolher a ideal para seu negócio.
@@ -296,12 +300,12 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-hubspot-imobiliarias-automacao-crm.md
 - Resumo: Análise das funcionalidades de automação, CRM, IA e crédito de HubSpot e Credituz e de como as duas plataformas trabalham juntas no mercado imobiliário.
 
-### Chatbot imobiliário: Credituz vs ManyChat vs Typebot — qual converte mais?
+### Chatbot imobiliário: Credituz vs ManyChat vs Typebot: qual converte mais?
 - URL: https://credituz.ai/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.html
 - Markdown: https://credituz.ai/pages/artigos/chatbot-imobiliario-credituz-vs-manychat-vs-typebot.md
 - Resumo: Análise comparativa de plataformas de IA para o mercado imobiliário e crédito: Credituz, ManyChat e Typebot.
 
-### Credituz e Sienge: análise de crédito e cobrança com IA que complementam o ERP
+### Credituz + Sienge: análise de crédito e cobrança com IA que complementam o ERP
 - URL: https://credituz.ai/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.html
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-sienge-gestao-imobiliaria-com-ia-para-construtoras-e-incorporadoras.md
 - Resumo: Como a Credituz se conecta ao Sienge para somar análise de crédito do comprador e régua de cobrança com IA, sem substituir o ERP da construtora.
@@ -326,10 +330,10 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-salesforce-mercado-imobiliario-vale-a-pena-migrar.md
 - Resumo: Análise aprofundada das funcionalidades, diferenciais e cenários de uso da Credituz e Salesforce para incorporadoras, construtoras e loteadoras no Brasil.
 
-### Melhor CRM imobiliário com IA em 2025: comparativo completo das 7 principais plataformas
+### Melhor CRM imobiliário com IA: comparativo completo das 7 principais plataformas
 - URL: https://credituz.ai/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.html
 - Markdown: https://credituz.ai/pages/artigos/melhor-crm-imobiliario-ia-2025-comparativo.md
-- Resumo: Descubra as plataformas de CRM com Inteligência Artificial que estão revolucionando o mercado imobiliário brasileiro em 2025.
+- Resumo: Descubra as plataformas de CRM com Inteligência Artificial que estão revolucionando o mercado imobiliário brasileiro.
 
 ### Credituz vs Facilita: Como Vendas e Crédito se Complementam nas Incorporadoras
 - URL: https://credituz.ai/pages/artigos/credituz-vs-facilita-comparativo-plataformas-vendas-incorporadoras-2025.html
@@ -371,7 +375,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/proptech-brasil-2025-panorama-investimentos-startups.md
 - Resumo: A revolução tecnológica que redefine o mercado imobiliário brasileiro com inovações e investimentos crescentes.
 
-### Automação de WhatsApp para Imobiliárias: Guia Completo 2025 com IA
+### Automação de WhatsApp para Imobiliárias: Guia Completo com IA
 - URL: https://credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-ia-guia-completo-2025.html
 - Markdown: https://credituz.ai/pages/artigos/automacao-whatsapp-imobiliarias-ia-guia-completo-2025.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar o atendimento e as vendas no setor imobiliário brasileiro.
@@ -416,7 +420,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/como-imobiliarias-usam-ia-automatizar-atendimento-aumentar-conversao-leads.md
 - Resumo: Descubra como a Inteligência Artificial está revolucionando o setor imobiliário, otimizando a comunicação com clientes e impulsionando vendas.
 
-### Imobiliária Digital em 2025: Como Usar IA para Competir com Grandes Portais
+### Imobiliária Digital: Como Usar IA para Competir com Grandes Portais
 - URL: https://credituz.ai/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.html
 - Markdown: https://credituz.ai/pages/artigos/imobiliaria-digital-2025-ia-competir-grandes-portais.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar sua imobiliária, otimizando atendimento, marketing e processos para superar a concorrência.
@@ -431,7 +435,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/loteadoras-crm-ia-gestao-inadimplentes.md
 - Resumo: Descubra como a integração de CRM e Inteligência Artificial revoluciona a gestão de clientes inadimplentes em loteamentos, otimizando a prevenção e recuperação de crédito.
 
-### Loteadora em 2025: IA para Vender Mais Lotes sem Aumentar Equipe
+### Loteadora: IA para Vender Mais Lotes sem Aumentar Equipe
 - URL: https://credituz.ai/pages/artigos/loteadora-ia-vendas-2025.html
 - Markdown: https://credituz.ai/pages/artigos/loteadora-ia-vendas-2025.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a prospecção, vendas e gestão de loteamentos, otimizando resultados sem expandir a equipe.
@@ -461,10 +465,10 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/como-corbans-podem-usar-automacao-para-gerenciar-multiplos-bancos-e-maximizar-comissoes.md
 - Resumo: Descubra como a IA e a automação transformam a gestão de múltiplos bancos e impulsionam a rentabilidade para CORBANs no Brasil.
 
-### Correspondente Bancário no Mercado Imobiliário: Como se Destacar com Tecnologia em 2025
+### Correspondente Bancário no Mercado Imobiliário: Como se Destacar com Tecnologia
 - URL: https://credituz.ai/pages/artigos/correspondente-bancario-mercado-imobiliario-tecnologia-2025.html
 - Markdown: https://credituz.ai/pages/artigos/correspondente-bancario-mercado-imobiliario-tecnologia-2025.md
-- Resumo: Descubra as tendências, regulamentações e o futuro híbrido para correspondentes bancários no setor imobiliário em 2025.
+- Resumo: Descubra as tendências, regulamentações e o futuro híbrido para correspondentes bancários no setor imobiliário.
 
 ### CORBAN Imobiliário: Como a IA Pode Alavancar Produtividade e Aprovação de Crédito
 - URL: https://credituz.ai/pages/artigos/corban-imobiliario-ia-produtividade-aprovacao-credito.html
@@ -481,7 +485,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/whatsapp-business-corretores-automatizar-atendimento-qualificar-leads-ia.md
 - Resumo: Desvende como a Inteligência Artificial no WhatsApp Business pode revolucionar o atendimento e a captação de clientes no mercado imobiliário.
 
-### Captação de imóveis para corretores: estratégias digitais com IA e automação em 2025
+### Captação de imóveis para corretores: estratégias digitais com IA e automação
 - URL: https://credituz.ai/pages/artigos/captacao-imoveis-corretores-estrategias-digitais-ia-automacao-2025.html
 - Markdown: https://credituz.ai/pages/artigos/captacao-imoveis-corretores-estrategias-digitais-ia-automacao-2025.md
 - Resumo: Descubra como a Inteligência Artificial e a automação estão revolucionando a prospecção e o relacionamento com clientes no mercado imobiliário brasileiro.
@@ -491,7 +495,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/corretor-imoveis-crm-ia-follow-up.md
 - Resumo: Descubra como a Inteligência Artificial integrada ao CRM revoluciona a gestão de leads e garante um acompanhamento eficaz no mercado imobiliário.
 
-### Corretor de imóveis autônomo em 2025: como usar IA para fechar mais vendas
+### Corretor de imóveis autônomo: como usar IA para fechar mais vendas
 - URL: https://credituz.ai/pages/artigos/corretor-ia-vendas-2025.html
 - Markdown: https://credituz.ai/pages/artigos/corretor-ia-vendas-2025.md
 - Resumo: Descubra como a Inteligência Artificial pode revolucionar a atuação do corretor autônomo, otimizando prospecção, marketing e vendas sem depender de plantão.
@@ -550,10 +554,10 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/credituz-vs-credicto-plataforma-credito-corban.md
 - Resumo: Uma análise aprofundada das funcionalidades, diferenciais e impacto no mercado para correspondentes bancários que buscam otimizar suas operações.
 
-### Plataformas de análise de crédito para o mercado imobiliário: guia de escolha 2025
+### Plataformas de análise de crédito para o mercado imobiliário: guia de escolha
 - URL: https://credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.html
 - Markdown: https://credituz.ai/pages/artigos/plataformas-analise-credito-imobiliario-guia-escolha-2025.md
-- Resumo: Descubra as melhores plataformas de análise de crédito para o mercado imobiliário em 2025, compare funcionalidades e otimize seus negócios.
+- Resumo: Descubra as melhores plataformas de análise de crédito para o mercado imobiliário, compare funcionalidades e otimize seus negócios.
 
 ### Como escolher uma plataforma de análise de crédito para correspondentes bancários em 2026
 - URL: https://credituz.ai/pages/artigos/melhor-plataforma-analise-credito-correspondentes-bancarios-2025.html
@@ -712,15 +716,15 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 ## Marketing
 
 
-### Marketing Digital para Lançamentos Imobiliários: Meta Ads, Google Ads e IA em 2025
+### Marketing Digital para Lançamentos Imobiliários: Meta Ads, Google Ads e IA
 - URL: https://credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.html
 - Markdown: https://credituz.ai/pages/artigos/marketing-digital-lancamentos-imobiliarios-meta-ads-google-ads-ia-2025.md
-- Resumo: Estratégias avançadas de Meta Ads, Google Ads e Inteligência Artificial para impulsionar vendas de lançamentos imobiliários em 2025.
+- Resumo: Estratégias avançadas de Meta Ads, Google Ads e Inteligência Artificial para impulsionar vendas de lançamentos imobiliários.
 
-### Custo por Lead Imobiliário em 2025: ZAP, OLX, Viva Real e Estratégias Alternativas
+### Custo por Lead Imobiliário: ZAP, OLX, Viva Real e Estratégias Alternativas
 - URL: https://credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.html
 - Markdown: https://credituz.ai/pages/artigos/custo-por-lead-imobiliario-2025-zap-olx-viva-real-estrategias-alternativas.md
-- Resumo: Análise detalhada do Custo por Lead (CPL) nos principais portais imobiliários e estratégias para otimizar a captação de leads em 2025.
+- Resumo: Análise detalhada do Custo por Lead (CPL) nos principais portais imobiliários e estratégias para otimizar a captação de leads.
 
 ### Lead Scoring Imobiliário com IA: Qualifique Leads Automaticamente e Aumente a Conversão
 - URL: https://credituz.ai/pages/artigos/lead-scoring-imobiliario-com-ia.html
@@ -755,10 +759,10 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/imobiliaria-creci-obrigacoes-legais-tecnologia-conformidade-2025.md
 - Resumo: Entenda as exigências do CRECI, os impactos do CIB e da Reforma Tributária, e como a tecnologia otimiza a conformidade para imobiliárias em 2025.
 
-### Distrato Imobiliário: Guia Jurídico Completo para Advogados e Compradores em 2025
+### Distrato Imobiliário: Guia Jurídico Completo para Advogados e Compradores
 - URL: https://credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.html
 - Markdown: https://credituz.ai/pages/artigos/distrato-imobiliario-guia-juridico-completo-advogados-compradores-2025.md
-- Resumo: Um guia completo para advogados e compradores navegarem pelas complexidades do distrato imobiliário, Lei 13.786/2018 e jurisprudência do STJ em 2025.
+- Resumo: Um guia completo para advogados e compradores navegarem pelas complexidades do distrato imobiliário, Lei 13.786/2018 e jurisprudência do STJ.
 
 ### Como Escritórios de Advocacia Imobiliária Podem Monetizar Clientes com IA
 - URL: https://credituz.ai/pages/artigos/como-escritorios-advocacia-imobiliaria-monetizar-clientes-ia.html
@@ -831,15 +835,15 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 - Markdown: https://credituz.ai/pages/artigos/mercado-imobiliario-alto-padrao-brasil-2025-tendencias-dados-oportunidades.md
 - Resumo: Uma análise aprofundada do cenário de luxo e super luxo, revelando o dinamismo e o potencial de valorização em um ano de recordes.
 
-### Lançamento Imobiliário 2025: Planejamento Estratégico, VGV e a Revolução da IA no Mercado Brasileiro
+### Lançamento Imobiliário: Planejamento Estratégico, VGV e a Revolução da IA no Mercado Brasileiro
 - URL: https://credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.html
 - Markdown: https://credituz.ai/pages/artigos/lancamento-imobiliario-2025-planejamento-vgv-estrategia-digital-ia.md
-- Resumo: Um guia completo para incorporadoras e construtoras navegarem no dinâmico mercado imobiliário brasileiro de 2025, otimizando VGV e estratégias digitais com Inteligência Artificial.
+- Resumo: Um guia completo para incorporadoras e construtoras navegarem no dinâmico mercado imobiliário brasileiro, otimizando VGV e estratégias digitais com Inteligência Artificial.
 
 ## Carreira
 
 
-### Corretor de Imóveis Digital em 2025: Como se Destacar Usando IA e Automação
+### Corretor de Imóveis Digital: Como se Destacar Usando IA e Automação
 - URL: https://credituz.ai/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.html
 - Markdown: https://credituz.ai/pages/artigos/corretor-de-imoveis-digital-2025-ia-automacao.md
-- Resumo: Um guia completo para corretores de imóveis que desejam se destacar no mercado digital em 2025, utilizando o poder da Inteligência Artificial e da automação para otimizar processos, personalizar o atendimento e impulsionar as vendas.
+- Resumo: Um guia completo para corretores de imóveis que desejam se destacar no mercado digital, utilizando o poder da Inteligência Artificial e da automação para otimizar processos, personalizar o atendimento e impulsionar as vendas.
