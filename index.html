@@ -4975,6 +4975,36 @@ if (document.readyState === 'loading') {
      chat desligado, fora do ar), a bolha do WhatsApp abaixo volta a aparecer. -->
 <script src="https://zyvo.marketing/webchat.js" data-zyvo-chat="wc_wGnK7wYvIARatDdu6vbefiQ9" async></script>
 <script>
+/* Google Ads: conversoes otimizadas com codigo na pagina (out/2026).
+   Quando o visitante se identifica no chat (nome + WhatsApp), o telefone vai
+   para o gtag como user_data (o gtag aplica SHA-256 antes de enviar e o
+   Consent Mode decide se pode usar). Lead deixado no chat vira a conversao
+   "Lead" (uma vez por sessao), que antes nao era contada. */
+(function () {
+  function e164(v) {
+    var d = String(v || '').replace(/\D/g, '');
+    if (!d) return '';
+    if (d.indexOf('55') !== 0 && d.length <= 11) d = '55' + d;
+    return '+' + d;
+  }
+  window.addEventListener('zyvo-chat:identified', function (ev) {
+    try {
+      var p = e164(ev.detail && ev.detail.whatsapp);
+      if (p && typeof window.gtag === 'function') window.gtag('set', 'user_data', { phone_number: p });
+    } catch (e) {}
+  });
+  window.addEventListener('zyvo-chat:lead', function () {
+    try {
+      if (sessionStorage.getItem('credituz_gads_chat_lead')) return;
+      sessionStorage.setItem('credituz_gads_chat_lead', '1');
+    } catch (e) {}
+    if (typeof window.gtag === 'function') {
+      try { window.gtag('event', 'conversion', { send_to: 'AW-17041495312/XSo2CKnV2-EbEJCqgr4_' }); } catch (e) {}
+    }
+  });
+})();
+</script>
+<script>
 setTimeout(function () {
     if (!document.documentElement.getAttribute('data-zyvo-chat')) document.documentElement.setAttribute('data-zyvo-chat', 'off');
 }, 6000);
