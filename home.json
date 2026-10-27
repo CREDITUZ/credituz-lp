@@ -16,10 +16,10 @@
       },
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Av. Rebouças, 1585",
+        "streetAddress": "Av. Brigadeiro Faria Lima, 1811, conj. 115",
         "addressLocality": "São Paulo",
         "addressRegion": "SP",
-        "postalCode": "05401-200",
+        "postalCode": "01452-001",
         "addressCountry": "BR"
       },
       "description": "Plataforma de análise e decisão de crédito com IA para empresas, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
