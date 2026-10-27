@@ -164,6 +164,9 @@ Não. A Credituz atende empresas que precisam analisar clientes, automatizar cob
 ### A Credituz substitui o meu ERP ou CRM?
 Não. A Credituz é uma solução parceira: o seu ERP e o seu CRM, como Sienge, CV CRM ou HubSpot, continuam sendo os sistemas de gestão da empresa. A Credituz se conecta a eles via API para somar análise de crédito com política própria e régua de cobrança com IA, sem migração de dados.
 
+### Como funciona o split de pagamento da Credituz?
+Na pagadoria da Credituz, cada pagamento de parcela ou aluguel é dividido automaticamente entre os recebedores definidos no contrato, como proprietário, imobiliária, incorporadora, corretor ou parceiro. Cada parte recebe a sua fatia direto, sem repasse manual. Como o valor de terceiros não passa pela conta da sua empresa, ela fatura só a própria taxa ou comissão, o que evita bitributação. O enquadramento fiscal deve ser validado com a sua contabilidade.
+
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
 

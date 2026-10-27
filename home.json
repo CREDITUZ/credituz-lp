@@ -179,6 +179,14 @@
         },
         {
           "@type": "Question",
+          "name": "Como funciona o split de pagamento da Credituz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Na pagadoria da Credituz, cada pagamento de parcela ou aluguel é dividido automaticamente entre os recebedores definidos no contrato, como proprietário, imobiliária, incorporadora, corretor ou parceiro. Cada parte recebe a sua fatia direto, sem repasse manual. Como o valor de terceiros não passa pela conta da sua empresa, ela fatura só a própria taxa ou comissão, o que evita bitributação. O enquadramento fiscal deve ser validado com a sua contabilidade."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "A Credituz substitui o meu ERP ou CRM?",
           "acceptedAnswer": {
             "@type": "Answer",
