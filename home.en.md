@@ -4,7 +4,7 @@
 
 - Canonical: https://credituz.ai/en/
 - Language: en-US
-- Updated: 2026-09
+- Updated: 2026-10
 
 ---
 
@@ -14,7 +14,11 @@ Credituz serves companies that need to make credit decisions, automate receivabl
 
 ## Positioning
 
+**Homepage kicker:** “The credit and collections team for your real estate operation.”
+
 **Homepage title:** “AI-powered credit analysis and decision-making.”
+
+**Before and after:** credit analysis in seconds (not days), automated collections (not manual), credit across several banks (not just one).
 
 **Subtitle:** “Analyze customers, apply your credit policy, automate decisions, monitor risk, and manage collections in one platform.”
 
@@ -112,6 +116,18 @@ Price: **custom**, with an annual contract.
 
 Official page: [Credituz Service](https://credituz.ai/en/pages/enterprise.html).
 
+## AI agents
+
+Credituz OS works as a credit team run by seven AI agents that operate over the WhatsApp of the team and its customers and record everything in Credituz OS, without replacing the company ERP or CRM:
+
+1. **Onboarding:** creates the buyer or tenant record, requests missing documents and validates each file.
+2. **Credit analysis:** checks credit bureaus, SCR, protests and lawsuits and calculates the score (advanced analysis with Boa Vista score).
+3. **Policy:** applies the credit policy defined by the company.
+4. **Decision:** approves or declines and records the reason for each decision.
+5. **Collections:** runs the reminder workflow before and after the due date via WhatsApp and email, with Pix and boleto.
+6. **Payouts:** splits each payment among recipients with payment split and reconciles it.
+7. **Multi-bank credit:** simulation and credit application across several institutions, on request.
+
 ## Credit CRM vs. Corban CRM
 
 - **Credit CRM:** part of Credituz OS; organizes customers, analyses, and credit decisions.
@@ -120,6 +136,12 @@ Official page: [Credituz Service](https://credituz.ai/en/pages/enterprise.html).
 ## Segments
 
 Credituz is not limited to the real estate market. The platform can serve companies that sell on credit, collect recurring payments, or want to embed credit into their own experience. There are specific pages for construction and real estate development companies and real estate agencies, while CORBAN AI serves origination and embedded credit operations.
+
+- **Developers:** buyer analysis before reservation, down payment collections and financing follow-up until the bank payout. https://credituz.ai/pages/incorporadoras.html
+- **Land subdividers:** who enters the in-house portfolio and collections until the last installment. https://credituz.ai/lp/loteadoras/
+- **Builders:** analysis of individuals and companies, collections on the due date and receivables view. https://credituz.ai/pages/construtoras.html
+- **Real estate agencies:** buyer and tenant analysis, rent collection and payment split with payout to the owner. https://credituz.ai/pages/imobiliarias.html
+- **Credit correspondents:** multi-bank simulation, applications and Corban CRM, on request. https://credituz.ai/pages/corban-ai.html
 
 ## Plans and prices on the homepage
 
@@ -167,6 +189,10 @@ No. Credituz serves companies that need to analyze customers, automate collectio
 ### How much does it cost to get started?
 
 A standalone Credituz Score analysis is priced by the sales team. Credituz OS costs R$ 297/month with 5 analyses (individuals or companies), up to 100 collections and 3 users; each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company). Higher volumes and Service are custom.
+
+## Free portfolio assessment
+
+Credituz offers a free portfolio assessment: the team reviews the current credit policy, delinquency and the time spent on collections and payouts, using the company's own numbers. Request it on WhatsApp: https://wa.me/5511936209409
 
 ## Contact and site
 
