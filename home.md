@@ -4,7 +4,7 @@
 
 - Canonical: https://credituz.ai/
 - Language: pt-BR
-- Updated: 2026-09
+- Updated: 2026-10
 
 ---
 
@@ -14,7 +14,11 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 ## Posicionamento
 
+**Chamada da home:** “O time de crédito e cobrança da sua operação imobiliária.”
+
 **Título da home:** “Análise e decisão de crédito com IA.”
+
+**Antes e depois:** análise de crédito em segundos (e não em dias), cobrança automática (e não manual), crédito em vários bancos (e não em um só).
 
 **Subtítulo:** “Analise clientes, aplique sua política de crédito, automatize decisões, acompanhe risco e cobre sua carteira em uma única plataforma.”
 
@@ -119,6 +123,18 @@ Preço: **sob medida**, com contrato anual.
 
 Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
+## Agentes de IA
+
+O Credituz OS funciona como um time de crédito operado por sete agentes de IA, que trabalham pelo WhatsApp da equipe e dos clientes e registram tudo no Credituz OS, sem substituir o ERP ou o CRM da empresa:
+
+1. **Cadastro:** cria a ficha do comprador ou inquilino, pede os documentos que faltam e valida cada arquivo.
+2. **Análise de crédito:** consulta birôs, SCR, protestos e processos e calcula o score (análise avançada com score Boa Vista).
+3. **Política:** aplica a política de crédito definida pela empresa.
+4. **Decisão:** aprova ou recusa e registra o porquê de cada decisão.
+5. **Cobrança:** roda a régua antes e depois do vencimento por WhatsApp e e-mail, com Pix e boleto.
+6. **Repasse:** divide cada pagamento entre os recebedores com split de pagamento e concilia.
+7. **Crédito multibanco:** simulação e pedido de crédito em várias instituições, sob consulta com o time.
+
 ## CRM de crédito x CRM Corban
 
 - **CRM de crédito:** pertence ao Credituz OS e organiza clientes, análises e decisões de crédito.
@@ -126,7 +142,13 @@ Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
 ## Segmentos
 
-A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
+A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para cada segmento do setor imobiliário:
+
+- **Incorporadoras:** análise do comprador antes da reserva, cobrança da entrada e acompanhamento do financiamento até o repasse. https://credituz.ai/pages/incorporadoras.html
+- **Loteadoras:** decisão de quem entra na carteira própria e régua de cobrança até a última parcela. https://credituz.ai/lp/loteadoras/
+- **Construtoras:** análise de clientes PF e PJ, cobrança no vencimento e visão dos recebíveis. https://credituz.ai/pages/construtoras.html
+- **Imobiliárias:** análise de comprador e inquilino, cobrança de aluguel e split de pagamento com repasse ao proprietário. https://credituz.ai/pages/imobiliarias.html
+- **Correspondentes:** simulação multibanco, pedido e CRM Corban, sob consulta. https://credituz.ai/pages/corban-ai.html
 
 ## Planos e preços na home
 
@@ -169,6 +191,10 @@ Na pagadoria da Credituz, cada pagamento de parcela ou aluguel é dividido autom
 
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
+
+## Diagnóstico gratuito da carteira
+
+A Credituz oferece um diagnóstico gratuito da carteira: o time avalia a política de crédito atual, a inadimplência e o tempo gasto com cobrança e repasse, com os números da empresa. Pedido pelo WhatsApp: https://wa.me/5511936209409
 
 ## Contato e site
 
