@@ -39,7 +39,7 @@ A arquitetura comercial separa claramente os planos e produtos:
 
 ## Agentes de IA
 
-O Credituz OS funciona como um time de crédito com sete agentes de IA (cadastro, análise de crédito, política, decisão, cobrança, repasse e crédito multibanco), que trabalham pelo WhatsApp da equipe e dos clientes e registram tudo no Credituz OS, sem substituir o ERP ou o CRM da empresa. A Credituz também oferece um diagnóstico gratuito da carteira, pedido pelo WhatsApp https://wa.me/5511936209409.
+O Credituz OS funciona como um time de crédito com sete agentes de IA (cadastro, análise de crédito, política, decisão, cobrança, repasse e crédito multibanco), que trabalham pelo WhatsApp da equipe e dos clientes e registram tudo no Credituz OS, sem substituir o ERP ou o CRM da empresa. A Credituz também oferece o Raio-X da carteira, um diagnóstico gratuito em que um agente faz perguntas rápidas e estima o atraso, o caixa em risco e o custo da cobrança manual: https://credituz.ai/pages/raio-x.html.
 
 ## O problema que a Credituz resolve
 

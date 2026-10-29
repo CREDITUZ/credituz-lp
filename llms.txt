@@ -12,6 +12,7 @@
 - [Incorporador OS](https://viabilidade.credituz.ai/): da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar
 - [Credituz Service](https://credituz.ai/pages/enterprise.html): operação de crédito e cobrança feita pela Credituz, infraestrutura financeira, integrações e fluxos customizados com IA
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html): análise de crédito avulsa, sem mensalidade
+- [Raio-X da carteira](https://credituz.ai/pages/raio-x.html): diagnóstico gratuito em que um agente faz perguntas rápidas e estima o atraso da carteira, o custo da cobrança manual e o que o Credituz OS automatiza
 - [Versão markdown da home](https://credituz.ai/home.md): home em texto limpo para IA
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo
 - [Embedded credit em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico em texto limpo

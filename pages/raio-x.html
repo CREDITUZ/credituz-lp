@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Raio-X da carteira | Credituz</title>
+<meta name="description" content="Raio-X gratuito da carteira para o setor imobiliário: responda perguntas rápidas e veja o atraso estimado, o custo da cobrança manual e o que dá para automatizar.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/raio-x.html">
+<link rel="icon" href="../favicon.ico">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Credituz">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Raio-X da carteira | Credituz">
+<meta property="og:description" content="Em 3 minutos, veja quanto da sua carteira está em atraso, quanto custa a cobrança manual e o que dá para automatizar.">
+<meta property="og:url" content="https://credituz.ai/pages/raio-x.html">
+<meta property="og:image" content="https://credituz.ai/assets/logo-credituz.png">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+ {"@type":"Organization","@id":"https://credituz.ai/#organization","name":"Credituz","url":"https://credituz.ai/","logo":"https://credituz.ai/assets/logo-credituz.png"},
+ {"@type":"WebApplication","@id":"https://credituz.ai/pages/raio-x.html#app","name":"Raio-X da carteira","applicationCategory":"BusinessApplication","operatingSystem":"Web","isAccessibleForFree":true,"provider":{"@id":"https://credituz.ai/#organization"},"description":"Diagnóstico gratuito da carteira para incorporadoras, loteadoras, construtoras, imobiliárias e correspondentes: estima o atraso, o custo da cobrança manual e o que o Credituz OS automatiza, a partir de perguntas rápidas sobre a operação."}
+]}
+</script>
+<style>
+/* DNA visual de docs/DESIGN.md: fonte do sistema, acento azul unico, cards sem contorno. */
+:root{--ink:#1d1d1f;--paper:#fff;--soft:#f5f5f7;--line:#d2d2d7;--muted:#6e6e73;--quiet:#86868b;--blue:#0071e3;--blue2:#0066cc;--blue-soft:rgba(0,113,227,.10);--dark:#0a0a0c;--warn:#b25000;--good:#1d9d54;--sans:ui-sans-serif,-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue",Inter,system-ui,sans-serif;--ease:cubic-bezier(.22,1,.36,1)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--sans);color:var(--ink);background:var(--soft);-webkit-font-smoothing:antialiased;line-height:1.5;letter-spacing:-.01em}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+nav{border-bottom:1px solid rgba(210,210,215,.6);background:rgba(255,255,255,.88);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);position:sticky;top:0;z-index:10}
+.navin{height:64px;display:flex;align-items:center;justify-content:space-between}
+.logo img{height:24px;width:auto;display:block}
+.navin a{text-decoration:none}.back{font-size:14px;color:var(--muted)}
+.hero{padding:64px 0 28px;text-align:center}
+.eyebrow{font-size:15px;font-weight:600;color:var(--blue);margin-bottom:12px}
+.hero h1{font-size:clamp(38px,6.4vw,68px);line-height:1.02;letter-spacing:-.04em;font-weight:600;max-width:860px;margin:0 auto}
+.hero h1 span{color:var(--blue)}
+.lead{font-size:clamp(17px,1.8vw,20px);color:var(--muted);max-width:720px;margin:18px auto 0}
+.chips{display:flex;justify-content:center;flex-wrap:wrap;gap:8px;margin-top:22px;list-style:none}
+.chips li{background:var(--paper);border-radius:999px;padding:8px 14px;font-size:14px;font-weight:600}
+
+/* Conversa com o agente */
+.chat{max-width:760px;margin:20px auto 0;background:var(--paper);border-radius:26px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.08),0 8px 24px rgba(0,0,0,.08)}
+.chat-head{display:flex;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid #e5e5e5}
+.av{width:36px;height:36px;border-radius:50%;background:#007aff;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-weight:700;flex:0 0 auto}
+.chat-head b{display:block;font-size:15px;line-height:1.2}
+.chat-head small{font-size:12.5px;color:var(--good)}
+.progress{margin-left:auto;font-size:13px;color:var(--quiet);font-variant-numeric:tabular-nums}
+.log{display:flex;flex-direction:column;gap:10px;padding:22px 18px 8px;min-height:240px;background:#fafafa}
+.msg{max-width:86%;padding:11px 15px;border-radius:18px;font-size:15.5px;line-height:1.45;animation:in .4s var(--ease)}
+.msg.ai{align-self:flex-start;background:#e9e9eb;color:#171717;border-bottom-left-radius:5px}
+.msg.me{align-self:flex-end;background:#007aff;color:#fff;border-bottom-right-radius:5px;font-variant-numeric:tabular-nums}
+.msg small{display:block;color:var(--muted);font-size:13px;margin-top:4px}
+.typing{align-self:flex-start;display:inline-flex;gap:4px;padding:13px 15px;border-radius:18px;border-bottom-left-radius:5px;background:#e9e9eb}
+.typing i{width:6px;height:6px;border-radius:50%;background:#8e8e93;animation:dot 1s infinite}
+.typing i:nth-child(2){animation-delay:.15s}.typing i:nth-child(3){animation-delay:.3s}
+@keyframes dot{0%,80%,100%{opacity:.35}40%{opacity:1}}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.answer{padding:14px 18px 20px;background:#fafafa;border-top:1px solid #ececef}
+.opts{display:flex;flex-wrap:wrap;gap:8px}
+.opt{appearance:none;border:0;cursor:pointer;background:var(--paper);color:var(--ink);font:600 15px/1 var(--sans);letter-spacing:-.01em;padding:12px 16px;border-radius:999px;box-shadow:inset 0 0 0 1px var(--line);transition:background .2s,box-shadow .2s}
+.opt:hover{box-shadow:inset 0 0 0 1px var(--blue);color:var(--blue2)}
+.opt:focus-visible,.num input:focus-visible,.send:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.num{display:flex;gap:8px;align-items:stretch}
+.num label{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.field{flex:1;display:flex;align-items:center;gap:6px;background:var(--paper);border-radius:999px;box-shadow:inset 0 0 0 1px var(--line);padding:0 18px}
+.field span{color:var(--quiet);font-size:15px}
+.num input{flex:1;min-width:0;border:0;background:transparent;font:500 16px var(--sans);padding:13px 0;color:var(--ink);font-variant-numeric:tabular-nums}
+.num input:focus{outline:0}
+.send{appearance:none;border:0;cursor:pointer;background:var(--blue);color:#fff;font:600 15px var(--sans);padding:0 22px;border-radius:999px}
+.send:hover{background:var(--blue2)}
+.hint{font-size:13px;color:var(--quiet);margin-top:8px}
+.err{font-size:13.5px;color:#d70015;margin-top:8px;min-height:1px}
+
+/* Relatorio */
+.report{max-width:960px;margin:34px auto 0;display:none}
+.report.on{display:block;animation:in .6s var(--ease)}
+.rcard{background:var(--paper);border-radius:26px;padding:36px}
+.rhead .eyebrow{text-align:left;margin-bottom:6px}
+.big{font-size:clamp(40px,6vw,64px);font-weight:600;letter-spacing:-.04em;line-height:1;font-variant-numeric:tabular-nums}
+.big-sub{font-size:18px;color:var(--muted);margin-top:10px;max-width:640px}
+.kpis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:26px}
+.kpi{background:var(--soft);border-radius:18px;padding:18px}
+.kpi span{display:block;font-size:13px;color:var(--muted)}
+.kpi strong{display:block;font-size:24px;letter-spacing:-.02em;margin-top:4px;font-variant-numeric:tabular-nums}
+.sec{margin-top:16px}
+.sec h2{font-size:clamp(24px,3vw,32px);letter-spacing:-.03em;line-height:1.1;font-weight:600;margin-bottom:16px}
+.finds{display:grid;gap:12px;list-style:none}
+.finds li{background:var(--soft);border-radius:18px;padding:18px 20px;display:grid;grid-template-columns:auto 1fr;gap:4px 14px;align-items:start}
+.finds b{font:600 13px/1 var(--sans);color:var(--blue);padding-top:5px;font-variant-numeric:tabular-nums}
+.finds p{font-size:16.5px;line-height:1.45}
+.finds em{grid-column:2;font-style:normal;font-size:13.5px;color:var(--muted)}
+.agents{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.agent{background:var(--soft);border-radius:18px;padding:18px 20px}
+.agent span{font-size:12.5px;font-weight:650;color:var(--blue)}
+.agent h3{font-size:18px;letter-spacing:-.02em;margin:4px 0 4px}
+.agent p{font-size:14.5px;color:var(--muted)}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.cbox{border-radius:18px;padding:22px;background:var(--soft)}
+.cbox.os{background:var(--blue-soft)}
+.cbox span{font-size:13px;color:var(--muted)}
+.cbox strong{display:block;font-size:30px;letter-spacing:-.03em;margin:4px 0;font-variant-numeric:tabular-nums}
+.cbox p{font-size:14.5px;color:var(--muted)}
+.note{font-size:13.5px;color:var(--muted);margin-top:14px}
+.final{background:var(--ink);color:#f5f5f7;border-radius:26px;padding:40px 36px;margin-top:16px;text-align:center}
+.final h2{font-size:clamp(26px,3.6vw,40px);letter-spacing:-.03em;line-height:1.08;font-weight:600}
+.final h2 span{color:#6bb2ff}
+.final p{color:#a1a1a6;margin:12px auto 24px;max-width:600px}
+.acts{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;height:54px;padding:0 26px;border-radius:999px;background:var(--blue);color:#fff;text-decoration:none;font-weight:600;border:0;cursor:pointer;font-size:16px;font-family:var(--sans)}
+.btn:hover{background:var(--blue2)}
+.btn.ghost{background:rgba(255,255,255,.1);color:#f5f5f7}
+.btn.ghost:hover{background:rgba(255,255,255,.16)}
+.redo{display:block;margin:18px auto 0;background:none;border:0;color:#a1a1a6;font:500 14px var(--sans);cursor:pointer;text-decoration:underline}
+.how{max-width:760px;margin:56px auto 0;padding-bottom:72px}
+.how h2{font-size:24px;letter-spacing:-.02em;margin-bottom:12px;font-weight:600}
+.how p,.how li{color:var(--muted);font-size:15.5px}
+.how ul{padding-left:20px;margin-top:8px;display:grid;gap:6px}
+footer{background:var(--dark);color:rgba(255,255,255,.55);padding:34px 0;font-size:13px}
+footer a{color:#fff;text-decoration:none}
+@media(max-width:760px){
+ .hero{padding-top:40px}
+ .rcard{padding:24px}
+ .kpis,.agents,.compare{grid-template-columns:1fr}
+ .final{padding:30px 22px}
+ .msg{max-width:92%}
+ .btn{width:100%}
+}
+@media(prefers-reduced-motion:reduce){.msg,.report.on{animation:none}.typing i{animation:none}}
+</style>
+<script id="raio-x-tracking">
+(function(w,d){
+  var CHAVE='credituz_consent',consent=false;try{consent=localStorage.getItem(CHAVE)==='all'}catch(e){}
+  w.dataLayer=w.dataLayer||[];function gtag(){w.dataLayer.push(arguments)}w.gtag=gtag;
+  gtag('consent','default',{ad_storage:consent?'granted':'denied',ad_user_data:consent?'granted':'denied',ad_personalization:consent?'granted':'denied',analytics_storage:consent?'granted':'denied',functionality_storage:'granted',security_storage:'granted'});
+  ['GTM-KN3GQNDJ','GTM-T2M9N4CR'].forEach(function(id){w.dataLayer.push({'gtm.start':Date.now(),event:'gtm.js'});var f=d.getElementsByTagName('script')[0],j=d.createElement('script');j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+id;f.parentNode.insertBefore(j,f)});
+  (function(){var f=d.getElementsByTagName('script')[0],j=d.createElement('script');j.async=true;j.src='https://www.googletagmanager.com/gtag/js?id=AW-17041495312';f.parentNode.insertBefore(j,f);gtag('js',new Date());gtag('config','AW-17041495312')})();
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(w,d,'script','https://connect.facebook.net/en_US/fbevents.js');
+  if(!consent)w.fbq('consent','revoke');w.fbq('init','3261631577333056');w.fbq('track','PageView');
+  var keys=['utm_source','utm_medium','utm_campaign','utm_content','utm_term','gclid','fbclid','msclkid'];var q=new URLSearchParams(location.search),attr={};keys.forEach(function(k){var v=q.get(k);if(v)attr[k]=v.slice(0,180)});try{var prev=JSON.parse(sessionStorage.getItem('credituz_attribution')||'{}');Object.keys(prev).forEach(function(k){if(!attr[k])attr[k]=prev[k]});sessionStorage.setItem('credituz_attribution',JSON.stringify(attr))}catch(e){}
+  w.czEmit=function(name,p){var x=Object.assign({event:name,page_path:location.pathname,page_title:d.title,product:'raio_x'},attr,p||{});w.dataLayer.push(x);if(consent&&w.fbq)try{w.fbq('trackCustom',name,x)}catch(e){}};
+  w.czAttr=attr;
+  w.czEmit('landing_view',{ref:q.get('ref')||'raio-x'});
+})(window,document);
+</script>
+</head>
+<body>
+<nav><div class="wrap navin"><a class="logo" href="/"><img src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a><a class="back" href="/">Voltar para a Credituz</a></div></nav>
+<main class="wrap">
+  <header class="hero">
+    <div class="eyebrow">Raio-X da carteira</div>
+    <h1>Descubra quanto a sua carteira <span>está deixando na mesa.</span></h1>
+    <p class="lead">Responda algumas perguntas rápidas para o agente da Credituz. Em 3 minutos você vê o atraso estimado, o custo da cobrança manual e o que dá para automatizar.</p>
+    <ul class="chips"><li>Gratuito</li><li>Sem enviar arquivos</li><li>Resultado na hora</li></ul>
+  </header>
+
+  <section class="chat" aria-label="Conversa com o agente Raio-X">
+    <div class="chat-head"><span class="av" aria-hidden="true">C</span><div><b>Agente Raio-X</b><small>online</small></div><span class="progress" id="progress" aria-live="polite"></span></div>
+    <div class="log" id="log" role="log" aria-live="polite"></div>
+    <div class="answer" id="answer"></div>
+  </section>
+
+  <section class="report" id="report" aria-live="polite"></section>
+
+  <section class="how">
+    <h2>Como o Raio-X calcula</h2>
+    <p>Todos os números saem das suas respostas, com contas simples e abertas. Nada é inventado e nenhum dado de cliente é enviado.</p>
+    <ul>
+      <li>Atraso estimado: contratos atrasados × valor médio da parcela × parcelas em aberto pela faixa de atraso (1 até 30 dias, 2 de 31 a 90, 4 de 91 a 180, 6 acima de 180).</li>
+      <li>Caixa em risco por mês: contratos atrasados × valor médio da parcela.</li>
+      <li>Custo da cobrança manual: horas por semana × 4,33 semanas × custo da hora informado.</li>
+    </ul>
+  </section>
+</main>
+<footer><div class="wrap">© 2026 Credituz · <a href="/">credituz.ai</a> · <a href="/pages/privacidade.html">Privacidade</a></div></footer>
+
+<!-- Chat do Edu (Zyvo): recebe o resumo do Raio-X e grava o lead no CRM da Credituz. -->
+<script src="https://zyvo.marketing/webchat.js" data-zyvo-chat="wc_wGnK7wYvIARatDdu6vbefiQ9" async></script>
+<script id="raio-x-agente">
+(function () {
+  var WA = '5511936209409';
+  var SIGNUP = 'https://dashboard.usecredituz.com/auth/login?screen_hint=signup&ref=raio-x';
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var log = document.getElementById('log'), ans = document.getElementById('answer'), prog = document.getElementById('progress'), rep = document.getElementById('report');
+  var brl = new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 });
+  var int = new Intl.NumberFormat('pt-BR', { maximumFractionDigits: 0 });
+  var pctF = new Intl.NumberFormat('pt-BR', { style: 'percent', maximumFractionDigits: 0 });
+  var r = {}, started = false;
+
+  var SEG = [
+    { v: 'incorporadora', t: 'Incorporadora' }, { v: 'loteadora', t: 'Loteadora' }, { v: 'construtora', t: 'Construtora' },
+    { v: 'imobiliaria', t: 'Imobiliária' }, { v: 'correspondente', t: 'Correspondente' }
+  ];
+  var IDADE = [
+    { v: 1, t: 'Até 30 dias' }, { v: 2, t: '31 a 90 dias' }, { v: 4, t: '91 a 180 dias' }, { v: 6, t: 'Mais de 180 dias' }
+  ];
+  var COBRA = [
+    { v: 'manual', t: 'Planilha e mensagens à mão' }, { v: 'boleto', t: 'Boleto do banco, sem lembretes' },
+    { v: 'sistema', t: 'Um sistema que já envia lembretes' }, { v: 'terceiro', t: 'Empresa terceirizada' }
+  ];
+  var HORA = [{ v: 30, t: 'R$ 30' }, { v: 50, t: 'R$ 50' }, { v: 80, t: 'R$ 80' }];
+
+  function imob() { return r.seg === 'imobiliaria'; }
+  function carteira() {
+    return [
+      { k: 'contratos', type: 'num', max: 1000000, q: imob() ? 'Quantos contratos de aluguel ou de venda parcelada vocês administram hoje?' : 'Quantos contratos com parcelas a receber a sua empresa tem hoje?', hint: 'Um número aproximado já basta.' },
+      { k: 'parcela', type: 'money', max: 10000000, q: imob() ? 'Qual é o valor médio de um aluguel ou parcela?' : 'Qual é o valor médio de uma parcela?' },
+      { k: 'atrasados', type: 'num', max: function () { return r.contratos; }, q: 'Quantos desses contratos estão com pelo menos uma parcela atrasada hoje?', hint: 'Se nenhum estiver, digite 0.' },
+      { k: 'idade', type: 'opt', opts: IDADE, skip: function () { return !r.atrasados; }, q: 'Na maioria desses casos, há quanto tempo a parcela está atrasada?' },
+      { k: 'cobra', type: 'opt', opts: COBRA, q: 'Como vocês cobram hoje?' },
+      { k: 'repasse', type: 'opt', opts: [{ v: 'sim', t: 'Sim, à mão' }, { v: 'nao', t: 'Não, já é automático' }], skip: function () { return !imob(); }, q: 'Os repasses aos proprietários são feitos à mão, com TED ou Pix?' },
+      { k: 'horas', type: 'num', max: 168, q: 'Quantas horas por semana a equipe gasta cobrando, conferindo pagamentos e fazendo repasses?', hint: 'Some as horas de todas as pessoas.' },
+      { k: 'hora', type: 'opt', opts: HORA, other: true, q: 'Quanto custa, em média, uma hora dessa equipe?', hint: 'Salário e encargos divididos pelas horas do mês.' },
+      { k: 'analises', type: 'num', max: 100000, q: 'Por último: quantos clientes novos vocês analisam por mês antes de vender ou alugar?', hint: 'Se não analisam, digite 0.' }
+    ];
+  }
+  function corban() {
+    return [
+      { k: 'sims', type: 'num', max: 100000, q: 'Quantas simulações de crédito vocês fazem por mês?' },
+      { k: 'bancos', type: 'num', max: 50, q: 'Em quantos bancos, em média, cada cliente é simulado?' },
+      { k: 'minutos', type: 'num', max: 600, q: 'Quantos minutos leva cada simulação em um banco, do cadastro ao resultado?' },
+      { k: 'hora', type: 'opt', opts: HORA, other: true, q: 'Quanto custa, em média, uma hora da equipe que simula?', hint: 'Salário e encargos divididos pelas horas do mês.' }
+    ];
+  }
+  var flow = [], idx = 0;
+
+  function scrollLog() { var c = log.lastElementChild; if (c && c.scrollIntoView) c.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' }); }
+  function bubble(cls, html) { var d = document.createElement('div'); d.className = 'msg ' + cls; d.innerHTML = html; log.appendChild(d); scrollLog(); return d; }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function say(html, then) {
+    if (reduce) { bubble('ai', html); if (then) then(); return; }
+    var t = document.createElement('div'); t.className = 'typing'; t.innerHTML = '<i></i><i></i><i></i>'; log.appendChild(t); scrollLog();
+    setTimeout(function () { t.remove(); bubble('ai', html); if (then) then(); }, 650);
+  }
+  function setProgress() {
+    var total = flow.filter(function (s) { return !(s.skip && s.skip()); }).length + 1;
+    var done = 1 + flow.slice(0, idx).filter(function (s) { return !(s.skip && s.skip()); }).length;
+    prog.textContent = Math.min(done + 1, total) + ' de ' + total;
+  }
+
+  function askOptions(opts, onPick, other) {
+    ans.innerHTML = '';
+    var box = document.createElement('div'); box.className = 'opts';
+    opts.forEach(function (o) {
+      var b = document.createElement('button'); b.type = 'button'; b.className = 'opt'; b.textContent = o.t;
+      b.addEventListener('click', function () { onPick(o.v, o.t); });
+      box.appendChild(b);
+    });
+    if (other) {
+      var b = document.createElement('button'); b.type = 'button'; b.className = 'opt'; b.textContent = 'Outro valor';
+      b.addEventListener('click', function () { askNumber({ type: 'money', max: 100000 }, function (v) { onPick(v, brl.format(v)); }); });
+      box.appendChild(b);
+    }
+    ans.appendChild(box);
+    var first = box.querySelector('button'); if (first && started) first.focus({ preventScroll: true });
+  }
+  function askNumber(step, onOk) {
+    ans.innerHTML = '';
+    var f = document.createElement('form'); f.className = 'num'; f.noValidate = true;
+    var id = 'in-' + (step.k || 'outro');
+    f.innerHTML = '<label for="' + id + '">Sua resposta</label><div class="field">' + (step.type === 'money' ? '<span>R$</span>' : '') +
+      '<input id="' + id + '" inputmode="numeric" autocomplete="off" placeholder="' + (step.type === 'money' ? '0' : 'Digite um número') + '"></div><button class="send" type="submit">Enviar</button>';
+    var err = document.createElement('div'); err.className = 'err'; err.setAttribute('role', 'alert');
+    ans.appendChild(f);
+    if (step.hint) { var h = document.createElement('div'); h.className = 'hint'; h.textContent = step.hint; ans.appendChild(h); }
+    ans.appendChild(err);
+    var input = f.querySelector('input');
+    input.addEventListener('input', function () {
+      var d = input.value.replace(/\D/g, '');
+      input.value = d ? int.format(Number(d)) : '';
+    });
+    f.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var d = input.value.replace(/\D/g, '');
+      var max = typeof step.max === 'function' ? step.max() : step.max;
+      if (d === '') { err.textContent = 'Digite um número para continuar.'; input.focus(); return; }
+      var v = Number(d);
+      if (step.type === 'money' && v <= 0) { err.textContent = 'Informe um valor maior que zero.'; input.focus(); return; }
+      if ((step.k === 'contratos' || step.k === 'sims' || step.k === 'bancos' || step.k === 'minutos') && v <= 0) { err.textContent = 'Informe um número maior que zero.'; input.focus(); return; }
+      if (max != null && v > max) { err.textContent = step.k === 'atrasados' ? 'Não pode passar do total de contratos (' + int.format(max) + ').' : 'Esse número parece alto demais. Confira e tente de novo.'; input.focus(); return; }
+      onOk(v);
+    });
+    if (started) input.focus({ preventScroll: true });
+  }
+
+  function next() {
+    while (idx < flow.length && flow[idx].skip && flow[idx].skip()) idx++;
+    if (idx >= flow.length) { finish(); return; }
+    var s = flow[idx]; setProgress();
+    say(esc(s.q), function () {
+      var done = function (v, label) {
+        r[s.k] = v;
+        bubble('me', esc(label));
+        idx++; ans.innerHTML = '';
+        if (idx === 1) window.czEmit('raio_x_step', { step: s.k });
+        next();
+      };
+      if (s.type === 'opt') askOptions(s.opts, done, s.other);
+      else askNumber(s, function (v) { done(v, s.type === 'money' ? brl.format(v) : int.format(v)); });
+    });
+  }
+
+  function start() {
+    say('Oi. Eu sou o agente Raio-X da Credituz. Vou fazer algumas perguntas rápidas sobre a sua operação e, no fim, mostro o retrato da sua carteira.', function () {
+      say('Para começar: qual destas descreve melhor a sua empresa?', function () {
+        prog.textContent = '1 de 9';
+        askOptions(SEG, function (v, t) {
+          r = { seg: v, segNome: t }; started = true;
+          bubble('me', esc(t)); ans.innerHTML = '';
+          window.czEmit('raio_x_start', { segment: v });
+          flow = v === 'correspondente' ? corban() : carteira(); idx = 0;
+          next();
+        });
+      });
+    });
+  }
+
+  // ---------- Calculo (deterministico, so com as respostas) ----------
+  function calc() {
+    var c = {};
+    if (r.seg === 'correspondente') {
+      c.horasMes = Math.round(r.sims * r.bancos * r.minutos / 60);
+      c.custoMes = c.horasMes * r.hora;
+      return c;
+    }
+    c.pct = r.contratos ? r.atrasados / r.contratos : 0;
+    c.parcelasAbertas = r.atrasados ? r.idade : 0;
+    c.atrasoEst = r.atrasados * r.parcela * c.parcelasAbertas;
+    c.riscoMes = r.atrasados * r.parcela;
+    c.receitaMes = r.contratos * r.parcela;
+    c.horasMes = Math.round(r.horas * 4.33);
+    c.custoMes = c.horasMes * r.hora;
+    c.acimaCobrancas = r.contratos > 100;
+    c.analisesExtras = Math.max(0, r.analises - 5);
+    return c;
+  }
+  var idadeTxt = { 1: 'de até 30 dias', 2: 'de 31 a 90 dias', 4: 'de 91 a 180 dias', 6: 'de mais de 180 dias' };
+  var cobraTxt = { manual: 'com planilha e mensagens à mão', boleto: 'com boleto do banco e sem lembretes', sistema: 'com um sistema que já envia lembretes', terceiro: 'com uma empresa terceirizada' };
+
+  function resumo(c) {
+    if (r.seg === 'correspondente') {
+      return 'Fiz o Raio-X no site da Credituz. Segmento: Correspondente. ' + int.format(r.sims) + ' simulações por mês, em ' + int.format(r.bancos) + ' bancos por cliente, ' + int.format(r.minutos) + ' min cada. Cerca de ' + int.format(c.horasMes) + ' horas por mês simulando (' + brl.format(c.custoMes) + '). Quero conhecer o crédito multibanco da Credituz.';
+    }
+    return 'Fiz o Raio-X da carteira no site da Credituz. Segmento: ' + r.segNome + '. ' + int.format(r.contratos) + ' contratos, parcela média de ' + brl.format(r.parcela) + '. ' +
+      int.format(r.atrasados) + ' contratos em atraso (' + pctF.format(c.pct) + ')' + (r.atrasados ? ', a maioria com atraso ' + idadeTxt[r.idade] : '') + ', atraso estimado de ' + brl.format(c.atrasoEst) + '. ' +
+      'Cobrança hoje ' + cobraTxt[r.cobra] + ', ' + int.format(c.horasMes) + ' horas por mês (' + brl.format(c.custoMes) + '). Quero ativar o Credituz OS nesta carteira.';
+  }
+
+  function finish() {
+    prog.textContent = 'Concluído';
+    var c = calc();
+    window.czEmit('raio_x_complete', { segment: r.seg });
+    say('Pronto. Montei o seu Raio-X logo abaixo.', function () {
+      ans.innerHTML = '<div class="opts"><button type="button" class="opt" id="verRel">Ver meu Raio-X</button></div>';
+      document.getElementById('verRel').addEventListener('click', function () { rep.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth' }); });
+      render(c);
+    });
+  }
+
+  function li(n, txt, agent) { return '<li><b>0' + n + '</b><p>' + txt + '</p><em>Quem resolve: ' + agent + '</em></li>'; }
+  function agentCard(tag, h, p) { return '<div class="agent"><span>' + tag + '</span><h3>' + h + '</h3><p>' + p + '</p></div>'; }
+
+  function render(c) {
+    var html;
+    var text = resumo(c);
+    var waUrl = 'https://wa.me/' + WA + '?text=' + encodeURIComponent(text);
+    if (r.seg === 'correspondente') {
+      html = '<div class="rcard"><div class="rhead"><div class="eyebrow">Seu Raio-X</div>' +
+        '<div class="big">' + int.format(c.horasMes) + ' horas/mês</div>' +
+        '<p class="big-sub">é o tempo que a sua equipe gasta simulando crédito banco a banco, o equivalente a ' + brl.format(c.custoMes) + ' por mês.</p></div>' +
+        '<div class="kpis"><div class="kpi"><span>Simulações por mês</span><strong>' + int.format(r.sims) + '</strong></div><div class="kpi"><span>Simulações em bancos</span><strong>' + int.format(r.sims * r.bancos) + '</strong></div><div class="kpi"><span>Minutos por simulação</span><strong>' + int.format(r.minutos) + '</strong></div></div></div>' +
+        '<div class="rcard sec"><h2>O que a Credituz faz por essa operação</h2><div class="agents">' +
+        agentCard('Crédito multibanco', 'Uma simulação, vários bancos', 'O cliente é simulado em várias instituições a partir de um único cadastro.') +
+        agentCard('Cadastro', 'Documentos pedidos e validados', 'O agente pede o que falta pelo WhatsApp e valida cada arquivo.') +
+        agentCard('CRM Corban', 'Pedidos e pendências em um só lugar', 'Cada pedido com banco, status e pendência, sem planilha paralela.') +
+        agentCard('Análise de crédito', 'Score antes de simular', 'Análise avançada com score Boa Vista para saber antes onde o cliente passa.') +
+        '</div><p class="note">O crédito multibanco é contratado sob consulta com o nosso time.</p></div>';
+      html += finalBlock(true, waUrl, text);
+      rep.innerHTML = html; rep.classList.add('on'); bindFinal(text, waUrl); return;
+    }
+
+    var finds = [];
+    if (r.atrasados) {
+      finds.push(li(1, int.format(r.atrasados) + ' de ' + int.format(r.contratos) + ' contratos (' + pctF.format(c.pct) + ') estão com parcela atrasada. Na maioria deles, o atraso é ' + idadeTxt[r.idade] + '.', 'agente de cobrança, com régua por WhatsApp e e-mail'));
+    } else {
+      finds.push(li(1, 'Nenhum contrato em atraso hoje. A régua automática serve para manter assim conforme a carteira cresce.', 'agente de cobrança, com régua por WhatsApp e e-mail'));
+    }
+    if (imob() && r.repasse === 'sim') {
+      finds.push(li(2, 'Cerca de ' + int.format(r.contratos) + ' repasses por mês feitos à mão, com TED ou Pix e conferência em planilha.', 'agente de repasse, com split de pagamento'));
+    } else if (r.atrasados && r.idade >= 4) {
+      finds.push(li(2, 'A maior parte do atraso já passou de 90 dias. Quanto mais antigo o atraso, mais difícil a negociação: a régua precisa agir nos primeiros dias.', 'agente de cobrança, a partir do D-3'));
+    } else if (r.atrasados) {
+      finds.push(li(2, 'A maior parte do atraso tem até 90 dias, a faixa em que um lembrete e uma proposta de acordo ainda chegam a tempo.', 'agente de cobrança, a partir do D-3'));
+    }
+    finds.push(li(finds.length + 1, 'A equipe dedica cerca de ' + int.format(c.horasMes) + ' horas por mês à cobrança, conferência e repasse, o equivalente a ' + brl.format(c.custoMes) + ' por mês' + (r.cobra === 'manual' || r.cobra === 'boleto' ? ', sem lembretes automáticos.' : '.'), 'agentes de cobrança e conciliação'));
+    if (r.analises > 0) {
+      finds.push(li(finds.length + 1, int.format(r.analises) + ' análises de clientes novos por mês. ' + (r.analises <= 5 ? 'Cabem nas 5 análises incluídas no plano.' : '5 já estão incluídas no plano; as outras ' + int.format(c.analisesExtras) + ' custam R$ 24,90 (PF) ou R$ 29,90 (PJ) cada.'), 'agentes de análise, política e decisão'));
+    }
+
+    var headBig = r.atrasados ? brl.format(c.atrasoEst) : brl.format(c.custoMes) + '/mês';
+    var headSub = r.atrasados
+      ? 'é o atraso estimado da sua carteira: ' + int.format(r.atrasados) + ' contratos × ' + brl.format(r.parcela) + ' × ' + c.parcelasAbertas + (c.parcelasAbertas === 1 ? ' parcela' : ' parcelas') + ' em aberto.'
+      : 'é o custo da cobrança e da conferência feitas à mão hoje.';
+
+    html = '<div class="rcard"><div class="rhead"><div class="eyebrow">Seu Raio-X · ' + esc(r.segNome) + '</div><div class="big">' + headBig + '</div><p class="big-sub">' + headSub + '</p></div>' +
+      '<div class="kpis"><div class="kpi"><span>Contratos em atraso</span><strong>' + pctF.format(c.pct) + '</strong></div><div class="kpi"><span>Caixa em risco por mês</span><strong>' + brl.format(c.riscoMes) + '</strong></div><div class="kpi"><span>Horas por mês em cobrança</span><strong>' + int.format(c.horasMes) + '</strong></div></div></div>' +
+      '<div class="rcard sec"><h2>O que o Raio-X encontrou</h2><ul class="finds">' + finds.join('') + '</ul></div>' +
+      '<div class="rcard sec"><h2>O que o Credituz OS faria nesta carteira</h2><div class="agents">' +
+      agentCard('Cobrança', 'Régua que roda sozinha', 'Lembretes antes e depois do vencimento por WhatsApp e e-mail, com Pix e boleto na mensagem.') +
+      agentCard('Cadastro', 'Contato certo para cobrar', 'Ficha de cada comprador com WhatsApp e e-mail validados, para a régua alcançar todo mundo.') +
+      (imob() ? agentCard('Repasse', 'Split no momento do pagamento', 'Cada pagamento dividido entre proprietário e imobiliária, sem TED manual e sem bitributação.') : agentCard('Recebíveis', 'Caixa dos próximos meses', 'Quem pagou, quem atrasou e o que entra no mês, sem planilha paralela.')) +
+      agentCard('Análise e decisão', 'Risco antes de vender', 'Análise avançada com score Boa Vista e a sua política aplicada em cada cliente novo.') +
+      '</div><div class="compare sec"><div class="cbox"><span>Hoje, cobrança feita à mão</span><strong>' + brl.format(c.custoMes) + '/mês</strong><p>' + int.format(c.horasMes) + ' horas da equipe, pelo custo da hora que você informou.</p></div>' +
+      '<div class="cbox os"><span>Credituz OS</span><strong>R$ 297/mês</strong><p>5 análises, até 100 cobranças com régua e 3 usuários por mês.</p></div></div>' +
+      (c.acimaCobrancas ? '<p class="note">Com ' + int.format(r.contratos) + ' contratos, a sua carteira passa das 100 cobranças do plano. O volume maior é definido com o nosso time.</p>' : '') +
+      '<p class="note">Estimativa feita com as suas respostas, sem acesso aos dados da sua carteira. O Raio-X com o arquivo da carteira, com números exatos por contrato, está em desenvolvimento.</p></div>';
+    html += finalBlock(false, waUrl, text);
+    rep.innerHTML = html; rep.classList.add('on'); bindFinal(text, waUrl);
+  }
+
+  function finalBlock(corbanSeg, waUrl) {
+    return '<div class="final"><h2>' + (corbanSeg ? 'Quer simular em vários bancos <span>de uma vez?</span>' : 'Coloque esta carteira <span>para trabalhar sozinha.</span>') + '</h2>' +
+      '<p>' + (corbanSeg ? 'Fale com o nosso time e mostre esses números: o crédito multibanco é configurado para a sua operação.' : 'Comece com o Credituz OS hoje ou mande este Raio-X para um especialista, que responde no mesmo canal.') + '</p>' +
+      '<div class="acts">' + (corbanSeg ? '' : '<a class="btn" data-track="raiox_signup" href="' + SIGNUP + '" target="_blank" rel="noopener">Ativar o Credituz OS</a>') +
+      '<button type="button" class="btn ' + (corbanSeg ? '' : 'ghost') + '" id="enviarEsp" data-track="raiox_especialista">Enviar meu Raio-X para um especialista</button></div>' +
+      '<button type="button" class="redo" id="refazer">Refazer o Raio-X</button></div>';
+  }
+
+  function adsConv(sendTo) { if (typeof window.gtag === 'function') { try { window.gtag('event', 'conversion', { send_to: sendTo }); } catch (e) {} } }
+  function bindFinal(text, waUrl) {
+    var sign = rep.querySelector('[data-track="raiox_signup"]');
+    if (sign) {
+      try { var u = new URL(sign.href); Object.keys(window.czAttr || {}).forEach(function (k) { u.searchParams.set(k, window.czAttr[k]); }); sign.href = u.toString(); } catch (e) {}
+      sign.addEventListener('click', function () { window.czEmit('signup_start', { cta_id: 'raiox_signup', segment: r.seg }); adsConv('AW-17041495312/XSo2CKnV2-EbEJCqgr4_'); });
+    }
+    document.getElementById('enviarEsp').addEventListener('click', function () {
+      window.czEmit('contact_start', { cta_id: 'raiox_especialista', segment: r.seg, channel: 'webchat' });
+      adsConv('AW-17041495312/LrZ3CNme6-EbEJCqgr4_');
+      var ok = document.documentElement.getAttribute('data-zyvo-chat') === 'ready' && window.ZyvoChat && window.ZyvoChat.open;
+      if (ok) window.ZyvoChat.open(text);
+      else window.open(waUrl, '_blank', 'noopener');
+    });
+    document.getElementById('refazer').addEventListener('click', function () {
+      rep.classList.remove('on'); rep.innerHTML = ''; log.innerHTML = ''; ans.innerHTML = ''; r = {}; started = false;
+      document.querySelector('.chat').scrollIntoView({ behavior: reduce ? 'auto' : 'smooth' });
+      start();
+    });
+  }
+
+  start();
+})();
+</script>
+</body>
+</html>

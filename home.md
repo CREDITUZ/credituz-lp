@@ -192,9 +192,9 @@ Na pagadoria da Credituz, cada pagamento de parcela ou aluguel é dividido autom
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
 
-## Diagnóstico gratuito da carteira
+## Raio-X da carteira (diagnóstico gratuito)
 
-A Credituz oferece um diagnóstico gratuito da carteira: o time avalia a política de crédito atual, a inadimplência e o tempo gasto com cobrança e repasse, com os números da empresa. Pedido pelo WhatsApp: https://wa.me/5511936209409
+No Raio-X da carteira, um agente da Credituz faz perguntas rápidas sobre a operação (segmento, contratos, parcela média, contratos em atraso e há quanto tempo, como cobra hoje, horas gastas e custo da hora) e mostra na hora o atraso estimado, o caixa em risco por mês, o custo da cobrança manual e o que o Credituz OS automatiza. Os cálculos usam só as respostas, com fórmulas abertas na página. Gratuito e sem enviar arquivos: https://credituz.ai/pages/raio-x.html
 
 ## Contato e site
 
