@@ -153,7 +153,7 @@ Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
 Essas funcionalidades fazem parte do plano Service.
 
 ### A Credituz atende somente o mercado imobiliário?
-Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
+Sim, o foco da Credituz é o setor imobiliário: construtoras, incorporadoras, loteadoras, imobiliárias e correspondentes. As páginas de segmento detalham a jornada de cada um.
 
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
