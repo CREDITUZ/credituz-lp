@@ -4424,6 +4424,114 @@ nav.on-dark .btn-beam::before {
     .btn-beam::before { animation: none; --beam-angle: 120deg; }
 }
 </style>
+<style id="cz-home-v2">
+/* Home v2 (out/2026): hero com troca riscada, faixa de agentes, secao de agentes,
+   segmentos com painel, depoimento em cena escura e CTA de diagnostico.
+   Segue docs/DESIGN.md: fonte do sistema, acento azul unico, cards sem contorno. */
+.cz-swap{position:relative;display:block;min-height:1.5em;margin:-6px 0 18px;font-size:clamp(18px,1.9vw,23px);font-weight:600;letter-spacing:-.02em;color:var(--ink)}
+.cz-swap-item{position:absolute;inset:0 auto auto 0;white-space:nowrap;opacity:0;transform:translateY(10px);transition:opacity .5s cubic-bezier(.22,1,.36,1),transform .5s cubic-bezier(.22,1,.36,1)}
+.cz-swap-item.is-on{position:relative;opacity:1;transform:none}
+.cz-swap s{position:relative;text-decoration:none;color:var(--gray-3);font-weight:500}
+.cz-swap s::after{content:"";position:absolute;left:-2px;right:-2px;top:54%;height:2px;background:var(--gray-3);transform:scaleX(0);transform-origin:left;transition:transform .55s cubic-bezier(.22,1,.36,1) .35s}
+.cz-swap .is-on s::after{transform:scaleX(1)}
+.cz-swap b{color:var(--lime);font-weight:650;opacity:0;transition:opacity .45s ease .85s}
+.cz-swap .is-on b{opacity:1}
+.cz-agents{display:flex;align-items:center;gap:14px;margin-top:26px;max-width:100%;overflow:hidden;font-size:13px;color:var(--gray-2)}
+.cz-agents-lbl{flex:0 0 auto;font-weight:650;color:var(--ink)}
+.cz-agents ol{display:flex;gap:8px;margin:0;padding:0;list-style:none;overflow-x:auto;scrollbar-width:none;-webkit-mask:linear-gradient(90deg,#000 88%,transparent);mask:linear-gradient(90deg,#000 88%,transparent)}
+.cz-agents ol::-webkit-scrollbar{display:none}
+.cz-agents li{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;padding:6px 11px;border-radius:999px;background:var(--paper-warm);white-space:nowrap;font-variant-numeric:tabular-nums}
+.cz-agents li span{color:var(--gray-3)}
+.cz-agents li i{width:7px;height:7px;border-radius:50%;background:var(--good,#1d9d54);box-shadow:0 0 0 0 rgba(48,209,88,.5);animation:cz-pulse 2.4s ease-out infinite}
+.cz-agents li:nth-child(2n) i{animation-delay:.6s}.cz-agents li:nth-child(3n) i{animation-delay:1.2s}
+@keyframes cz-pulse{0%{box-shadow:0 0 0 0 rgba(48,209,88,.45)}70%{box-shadow:0 0 0 7px rgba(48,209,88,0)}100%{box-shadow:0 0 0 0 rgba(48,209,88,0)}}
+
+/* Agentes */
+.cz-agents-sec{background:var(--paper-warm)}
+.cz-tabs{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 26px}
+.cz-tab{appearance:none;border:0;cursor:pointer;padding:10px 16px;border-radius:999px;background:var(--paper);color:var(--gray-2);font:600 14.5px/1 var(--font-sans);letter-spacing:-.01em;transition:background .25s,color .25s}
+.cz-tab[aria-selected="true"]{background:var(--ink);color:#fff}
+.cz-tab:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.cz-panel{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,400px);gap:44px;align-items:center;padding:36px;border-radius:26px;background:var(--paper)}
+.cz-panel[hidden]{display:none}
+.cz-panel h3{font-size:clamp(24px,2.6vw,32px);letter-spacing:-.025em;line-height:1.12;margin:4px 0 12px}
+.cz-panel>div>p{color:var(--gray-2);font-size:17px;line-height:1.55;margin:0 0 18px}
+.cz-panel ul{margin:0;padding:0;list-style:none;display:grid;gap:10px}
+.cz-panel li{position:relative;padding-left:26px;font-size:15.5px;line-height:1.45;color:var(--ink)}
+.cz-panel li::before{content:"";position:absolute;left:0;top:3px;width:16px;height:16px;background:var(--lime);-webkit-mask:var(--check-icon) center/16px no-repeat;mask:var(--check-icon) center/16px no-repeat}
+.cz-chat{border-radius:28px;background:#fafafa;padding:0 0 16px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.08),0 8px 24px rgba(0,0,0,.08)}
+.cz-chat-head{display:flex;align-items:center;gap:10px;padding:14px 16px;background:#fff;border-bottom:1px solid #e5e5e5}
+.cz-chat-av{width:32px;height:32px;border-radius:50%;background:#007aff;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:14px}
+.cz-chat-head b{display:block;font-size:14px;color:#171717;line-height:1.2}
+.cz-chat-head small{font-size:12px;color:#34c759}
+.cz-chat-body{display:flex;flex-direction:column;gap:8px;padding:16px 14px 4px;min-height:300px}
+.cz-msg{max-width:84%;padding:9px 13px;border-radius:18px;font-size:14px;line-height:1.42;color:#171717;background:#e9e9eb;align-self:flex-start;border-bottom-left-radius:5px;font-variant-numeric:tabular-nums;opacity:0;transform:translateY(8px);transition:opacity .4s cubic-bezier(.22,1,.36,1),transform .4s cubic-bezier(.22,1,.36,1)}
+.cz-msg.ai{background:#007aff;color:#fff;align-self:flex-end;border-bottom-left-radius:18px;border-bottom-right-radius:5px}
+.cz-msg small{display:block;font-size:11px;opacity:.7;margin-bottom:2px}
+.cz-msg.is-in{opacity:1;transform:none}
+.cz-typing{align-self:flex-end;display:none;gap:4px;padding:11px 13px;border-radius:18px;border-bottom-right-radius:5px;background:#007aff}
+.cz-typing.is-on{display:inline-flex}
+.cz-typing i{width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.85);animation:cz-dot 1s infinite}
+.cz-typing i:nth-child(2){animation-delay:.15s}.cz-typing i:nth-child(3){animation-delay:.3s}
+@keyframes cz-dot{0%,80%,100%{opacity:.35;transform:none}40%{opacity:1;transform:translateY(-2px)}}
+
+/* Segmentos */
+.cz-seg{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);grid-auto-rows:min-content;column-gap:40px;margin-top:8px}
+.cz-seg-item{display:contents}
+.cz-seg-btn{grid-column:1;appearance:none;border:0;border-top:1px solid var(--gray-soft);background:none;text-align:left;cursor:pointer;padding:18px 4px;display:flex;align-items:baseline;gap:14px;font:600 clamp(19px,2vw,24px)/1.2 var(--font-sans);letter-spacing:-.02em;color:var(--gray-3);transition:color .25s}
+.cz-seg-item:last-child .cz-seg-btn{border-bottom:1px solid var(--gray-soft)}
+.cz-seg-btn span{font:500 13px/1 var(--font-mono);color:var(--gray-3)}
+.cz-seg-btn:hover,.cz-seg-item.is-on .cz-seg-btn{color:var(--ink)}
+.cz-seg-item.is-on .cz-seg-btn span{color:var(--lime)}
+.cz-seg-btn:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+.cz-seg-body{grid-column:2;grid-row:1/span 6;align-self:start;display:none;padding:34px;border-radius:26px;background:var(--paper)}
+.cz-seg-item.is-on .cz-seg-body{display:block;animation:cz-in .5s cubic-bezier(.22,1,.36,1)}
+@keyframes cz-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.cz-seg-body .arch-mini{margin-bottom:6px}
+.cz-seg-dor{font-size:clamp(22px,2.3vw,28px);font-weight:600;letter-spacing:-.025em;line-height:1.2;color:var(--ink);margin:0 0 14px}
+.cz-seg-resp{font-size:17px;line-height:1.55;color:var(--gray-2);margin:0 0 22px}
+.cz-seg-flow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 24px}
+.cz-seg-flow span{padding:8px 12px;border-radius:999px;background:var(--paper-warm);font-size:14px;font-weight:600}
+.cz-seg-flow i{font-style:normal;color:var(--gray-3)}
+.cz-seg-link{font-weight:650;color:var(--lime);text-decoration:none}
+.cz-seg-link:hover{text-decoration:underline}
+
+/* Depoimento */
+.cz-impact{background:var(--ink);color:#f5f5f7;text-align:center}
+.cz-impact .section-tag{color:var(--accent-bright);justify-content:center;text-align:center;margin-left:auto;margin-right:auto}
+.cz-impact blockquote{margin:14px auto 0;max-width:900px;font-size:clamp(24px,3.2vw,38px);line-height:1.3;font-weight:600;letter-spacing:-.025em;color:#f5f5f7}
+.cz-impact blockquote strong{color:var(--accent-bright);font-weight:600}
+.cz-impact-meta{margin-top:30px;display:inline-flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:center;font-size:14px;color:#86868b}
+.cz-impact-meta .arch-case-avatar{background:rgba(107,178,255,.16);color:var(--accent-bright)}
+.cz-impact-meta strong{color:#f5f5f7;font-weight:600}
+.cz-impact-meta a{color:var(--accent-bright);font-weight:650;text-decoration:none}
+.cz-impact-meta a:hover{text-decoration:underline}
+
+/* CTA final de diagnostico */
+.cz-diag-points{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:-14px auto 36px;padding:0;list-style:none}
+.cz-diag-points li{padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.06);color:#d2d2d7;font-size:14.5px}
+
+@media (max-width:900px){
+  .cz-panel{grid-template-columns:1fr;gap:28px;padding:24px}
+  .cz-seg{display:block}
+  .cz-seg-item{display:block}
+  .cz-seg-btn{width:100%}
+  .cz-seg-body{padding:22px;margin:0 0 14px}
+  .cz-seg-item:last-child .cz-seg-btn{border-bottom:0}
+}
+@media (max-width:768px){
+  .cz-swap{font-size:17px;margin:2px 0 6px;min-height:1.5em}
+  .cz-agents{flex-direction:column;align-items:flex-start;gap:8px;margin-top:18px}
+  .cz-agents ol{width:100%}
+  .cz-tabs{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-right:-24px;padding-right:24px}
+  .cz-tab{flex:0 0 auto}
+  .cz-chat-body{min-height:270px}
+}
+@media (prefers-reduced-motion:reduce){
+  .cz-swap-item,.cz-swap s::after,.cz-swap b,.cz-msg,.cz-seg-item.is-on .cz-seg-body{transition:none;animation:none}
+  .cz-agents li i,.cz-typing i{animation:none}
+}
+</style>
 </head>
 <body id="top">
 <nav id="nav">
@@ -4449,8 +4557,9 @@ nav.on-dark .btn-beam::before {
 <header class="hero">
 <div class="hero-content">
 <div class="hero-tag" id="heroTag">AI-native</div>
-<p class="hero-kicker">Native AI-powered financial system</p>
+<p class="hero-kicker">The credit and collections team for your real estate business</p>
 <h1 class="hero-title" id="heroTitle">Credit analysis and decision-making using AI.</h1>
+<p class="cz-swap" data-cz-swap=""><span class="cz-swap-item is-on">Credit analysis in <s>days</s> <b>seconds</b></span><span class="cz-swap-item">Billing <s>manual</s> <b>automatic</b></span><span class="cz-swap-item">Credit to <s>a single bank</s> <b>several banks</b></span></p>
 <p class="hero-sub" id="heroSub">Analyze customers, apply your credit policy, automate decisions, monitor risk, and manage your portfolio—all in a single product—with Credituz OS.</p>
 <p style="margin:-8px 0 22px;font-size:14px;color:var(--gray-3)"><a href="/pages/analise-de-credito-com-ia.html" style="color:var(--lime);font-weight:700;text-decoration:none">Explore AI-powered credit analysis →</a></p>
 <div class="hero-actions">
@@ -4464,7 +4573,7 @@ nav.on-dark .btn-beam::before {
             Talk to an expert
         </a>
 </div>
-<div class="hero-meta">Credit Analysis · Credit CRM · AI-Powered Collections · Embedded Credit for ATMs</div>
+<div aria-label="AI Agents from Credituz OS" class="cz-agents"><span class="cz-agents-lbl">Agents on duty</span><ol><li><i></i><span>1.</span> Registration</li><li><i></i><span>2.</span> Credit Analysis</li><li><i></i><span>3.</span> Politics</li><li><i></i><span>4.</span> Decision</li><li><i></i><span>5.</span> Billing</li><li><i></i><span>6.</span> Pass it on</li><li><i></i><span>7.</span> ATM Credit</li></ol></div>
 </div>
 <div class="hero-phone">
 <img alt="Credituz OS open on the MacBook, on the credit analysis screen" class="hero-phone-img" fetchpriority="high" height="936" src="/assets/macbook-mockup-front.webp" width="1600"/>
@@ -4584,6 +4693,91 @@ nav.on-dark .btn-beam::before {
 <div class="arch-product-actions"><a class="arch-btn arch-btn-primary" data-track="cta_product_os" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=home-product-os" rel="noopener" target="_blank">Start with Credituz OS</a><a class="arch-detail" href="./pages/credituz-os.html">Get an inside look at Credituz OS →</a></div>
 </div>
 </section>
+<!-- AGENTES -->
+<section class="arch-section cz-agents-sec" id="agentes">
+<div class="arch-inner">
+<div class="section-tag">AI Agents</div>
+<h2>Seven officers. <em>A comprehensive credit history.</em></h2>
+<p class="arch-lead">From registration to payment, each step has an AI agent that does the work for WhatsApp on behalf of your team and your customers, and logs everything in Credituz OS. Your ERP and CRM remain where they are.</p>
+<div aria-label="Stages of the Credit Pipeline" class="cz-tabs" role="tablist">
+<button aria-controls="cz-panel-cadastro" aria-selected="true" class="cz-tab" id="cz-tab-cadastro" role="tab">Registration</button>
+<button aria-controls="cz-panel-analise" aria-selected="false" class="cz-tab" id="cz-tab-analise" role="tab" tabindex="-1">Analysis and Decision</button>
+<button aria-controls="cz-panel-cobranca" aria-selected="false" class="cz-tab" id="cz-tab-cobranca" role="tab" tabindex="-1">Billing</button>
+<button aria-controls="cz-panel-repasse" aria-selected="false" class="cz-tab" id="cz-tab-repasse" role="tab" tabindex="-1">Pass it on</button>
+</div>
+<div aria-labelledby="cz-tab-cadastro" class="cz-panel" id="cz-panel-cadastro" role="tabpanel">
+<div>
+<span class="arch-mini">Registration Agent</span>
+<h3>The broker sends the client. The agent takes care of the rest.</h3>
+<p>The registration process begins in WhatsApp, which the sales team already uses. The agent creates the record, requests any missing information, and verifies each document.</p>
+<ul><li>Buyer or tenant profile created in seconds</li><li>List of pending documents sent immediately</li><li>Automatic validation of each received file</li></ul>
+</div>
+<div aria-hidden="true" class="cz-chat">
+<div class="cz-chat-head"><span class="cz-chat-av">C</span><div><b>Credituz AI</b><small>online</small></div></div>
+<div class="cz-chat-body">
+<div class="cz-msg"><small>Rafael, real estate agent</small>New client: Mariana Costa, Unit 1204 in Tower B.</div>
+<div class="cz-msg ai">Record created. To review it, we need Mariana's proof of income.</div>
+<div class="cz-msg"><small>Rafael, real estate agent</small>File uploaded: paystub-september.pdf</div>
+<div class="cz-msg ai">Document validated. Mariana is ready for review.</div>
+<span class="cz-typing"><i></i><i></i><i></i></span>
+</div>
+</div>
+</div>
+<div aria-labelledby="cz-tab-analise" class="cz-panel" hidden="" id="cz-panel-analise" role="tabpanel">
+<div>
+<span class="arch-mini">Analysis, Policy, and Decision-Making Agents</span>
+<h3>Its credit policy, applied to each customer.</h3>
+<p>The agent checks credit bureaus, the SCR, protests, and lawsuits, calculates the score, and makes a decision based on the rules you have set, documenting the reason for each decision.</p>
+<ul><li>Advanced analysis with score Boa Vista</li><li>Custom policy applied automatically</li><li>Decision explained and saved in the history</li></ul>
+</div>
+<div aria-hidden="true" class="cz-chat">
+<div class="cz-chat-head"><span class="cz-chat-av">C</span><div><b>Credituz AI</b><small>online</small></div></div>
+<div class="cz-chat-body">
+<div class="cz-msg"><small>Rafael, real estate agent</small>Can you review Mariana for 1204?</div>
+<div class="cz-msg ai">Analysis completed in 4 seconds. Score: 812, low risk.</div>
+<div class="cz-msg ai">Approved under the Real Estate Policy: up to R$ 304,000.00 over 120 months.</div>
+<div class="cz-msg"><small>Rafael, real estate agent</small>Great, I'll let the client know.</div>
+<span class="cz-typing"><i></i><i></i><i></i></span>
+</div>
+</div>
+</div>
+<div aria-labelledby="cz-tab-cobranca" class="cz-panel" hidden="" id="cz-panel-cobranca" role="tabpanel">
+<div>
+<span class="arch-mini">Collection Agent</span>
+<h3>A charge that occurs without anyone realizing it.</h3>
+<p>The payment cycle runs before and after the due date, via WhatsApp and email, with Pix and a payment slip included in the message. Once the payment is received, the account is marked as paid.</p>
+<ul><li>Configurable rule, such as D-3, D0, and D+3</li><li>Pix and payment slip sent in the conversation itself</li><li>Automatic write-off and reconciliation</li></ul>
+</div>
+<div aria-hidden="true" class="cz-chat">
+<div class="cz-chat-head"><span class="cz-chat-av">C</span><div><b>Credituz AI</b><small>online</small></div></div>
+<div class="cz-chat-body">
+<div class="cz-msg ai">Hi, Mariana. Your payment of R$ 2,480.00 is due in 3 days. Here is the Pix and the payment slip.</div>
+<div class="cz-msg"><small>Mariana, buyer</small>Thanks, I'll pay this afternoon.</div>
+<div class="cz-msg ai">Payment confirmed. The receipt has been sent to your email.</div>
+<span class="cz-typing"><i></i><i></i><i></i></span>
+</div>
+</div>
+</div>
+<div aria-labelledby="cz-tab-repasse" class="cz-panel" hidden="" id="cz-panel-repasse" role="tabpanel">
+<div>
+<span class="arch-mini">Transfer Agent</span>
+<h3>Each party receives its share at the time of payment.</h3>
+<p>With split payments, the installment or rent amount is divided among the contract recipients. No electronic transfers, no spreadsheets, and no third-party funds sitting in your account.</p>
+<ul><li>Division by percentage or fixed amount</li><li>Taxed only on your fee, with no double taxation</li><li>Posting and reconciliation on the same dashboard</li></ul>
+</div>
+<div aria-hidden="true" class="cz-chat">
+<div class="cz-chat-head"><span class="cz-chat-av">C</span><div><b>Credituz AI</b><small>online</small></div></div>
+<div class="cz-chat-body">
+<div class="cz-msg ai">R$ 3,000.00 in rent for Unit 82 received.</div>
+<div class="cz-msg ai">Profit split: R$ 2,700.00 for the owner and a R$ 300.00 fee for the real estate agency.</div>
+<div class="cz-msg"><small>Juliana, Finance</small>Has it been reconciled yet?</div>
+<div class="cz-msg ai">Yes. Write-offs and transfers recorded in Credituz OS.</div>
+<span class="cz-typing"><i></i><i></i><i></i></span>
+</div>
+</div>
+</div>
+</div>
+</section>
 <!-- ECOSSISTEMA -->
 <section class="arch-section arch-journey" id="ecossistema">
 <div class="arch-inner">
@@ -4659,27 +4853,68 @@ nav.on-dark .btn-beam::before {
 <section class="arch-section arch-segments" id="segmentos">
 <div class="arch-inner">
 <div class="section-tag">Real Estate Sector</div>
-<h2>An infrastructure for <em>the entire real estate industry.</em></h2>
-<p class="arch-lead">Construction companies, developers, real estate agencies, and agents all use the same product to analyze clients, collect payments and rent, and track financing until funds are disbursed.</p>
-<article class="arch-card arch-sector-card">
-<div class="arch-sector-copy">
-<span class="arch-mini">From issuance to transfer</span>
-<h3>Credit, collections, and financing for those who sell, rent, or build.</h3>
-<p>Buyer and tenant analysis with custom policies, credit CRM, AI-powered collection rules for installments and rent, accounts receivable, and—in consultation with the team—multi-bank simulations and tracking of loan origination within your company’s workflow.</p>
+<h2>Every real estate transaction <em>It has its own dynamics.</em></h2>
+<p class="arch-lead">Credituz is designed for the real estate sector and understands the most critical factor in every transaction: from launch to resale, from the company’s own portfolio to rentals.</p>
+<div class="cz-seg" data-cz-seg="">
+<div class="cz-seg-item is-on">
+<button aria-controls="cz-seg-1" aria-expanded="true" class="cz-seg-btn"><span>01</span>Real Estate Developers</button>
+<div class="cz-seg-body" id="cz-seg-1">
+<span class="arch-mini">Off-Plan Sales</span>
+<p class="cz-seg-dor">A long-term deposit and a transfer that depends on the bank.</p>
+<p class="cz-seg-resp">Credituz reviews the buyer before the reservation, collects the down payment in installments, and monitors the financing until the funds are transferred.</p>
+<div class="cz-seg-flow"><span>Reservation</span><i>→</i><span>Analysis</span><i>→</i><span>Home</span><i>→</i><span>Pass it on</span></div>
+<a class="cz-seg-link" href="./pages/incorporadoras.html">See the solution for real estate developers →</a>
 </div>
-<ul class="arch-sector-links">
-<li><a href="./pages/construtoras.html"><strong>Construction companies and real estate developers</strong><span>Buyer screening, down payment collection, and financing until the funds are transferred.</span><b>See solution →</b></a></li>
-<li><a href="./pages/imobiliarias.html"><strong>Real Estate Agencies</strong><span>Buyers and tenants, CRM, rent collection, and financing.</span><b>See solution →</b></a></li>
-<li><a href="./pages/corban-ai.html"><strong>Correspondents and originators</strong><span>ATM simulation, orders, and Corban CRM—to be discussed with the team.</span><b>See solution →</b></a></li>
-</ul>
-</article>
+</div>
+<div class="cz-seg-item">
+<button aria-controls="cz-seg-2" aria-expanded="false" class="cz-seg-btn"><span>02</span>Land Subdivision Companies</button>
+<div class="cz-seg-body" id="cz-seg-2">
+<span class="arch-mini">Proprietary portfolio</span>
+<p class="cz-seg-dor">It's been a long-standing issue, and every delay takes a toll on cash flow.</p>
+<p class="cz-seg-resp">Credituz decides who gets added to the portfolio and manages the billing schedule with Pix and payment slips through the final installment.</p>
+<div class="cz-seg-flow"><span>Sale of the lot</span><i>→</i><span>Analysis</span><i>→</i><span>Wallet</span><i>→</i><span>Billing</span></div>
+<a class="cz-seg-link" href="/lp/loteadoras/">See solutions for housing developers →</a>
+</div>
+</div>
+<div class="cz-seg-item">
+<button aria-controls="cz-seg-3" aria-expanded="false" class="cz-seg-btn"><span>03</span>Construction Companies</button>
+<div class="cz-seg-body" id="cz-seg-3">
+<span class="arch-mini">Construction and box</span>
+<p class="cz-seg-dor">On-time completion depends on on-time receipt.</p>
+<p class="cz-seg-resp">Credituz analyzes individual and business clients, collects each installment on its due date, and shows what’s coming in for the month and where the risk is increasing.</p>
+<div class="cz-seg-flow"><span>Contract</span><i>→</i><span>Analysis</span><i>→</i><span>Billing</span><i>→</i><span>Accounts Receivable</span></div>
+<a class="cz-seg-link" href="./pages/construtoras.html">See the solution for construction companies →</a>
+</div>
+</div>
+<div class="cz-seg-item">
+<button aria-controls="cz-seg-4" aria-expanded="false" class="cz-seg-btn"><span>04</span>Real Estate Agencies</button>
+<div class="cz-seg-body" id="cz-seg-4">
+<span class="arch-mini">Sales and Rentals</span>
+<p class="cz-seg-dor">Buyer, tenant, and landlord all at the same table.</p>
+<p class="cz-seg-resp">Credituz manages buyers and tenants, collects rent, and splits each payment, transferring the funds to the landlord without the need for a manual wire transfer.</p>
+<div class="cz-seg-flow"><span>Analysis</span><i>→</i><span>Contract</span><i>→</i><span>Rent</span><i>→</i><span>Split</span></div>
+<a class="cz-seg-link" href="./pages/imobiliarias.html">See the solution for real estate agencies →</a>
+</div>
+</div>
+<div class="cz-seg-item">
+<button aria-controls="cz-seg-5" aria-expanded="false" class="cz-seg-btn"><span>05</span>Correspondents</button>
+<div class="cz-seg-body" id="cz-seg-5">
+<span class="arch-mini">Credit Origination</span>
+<p class="cz-seg-dor">One simulator, one form, and one line per bank.</p>
+<p class="cz-seg-resp">ATM simulation, order processing, and Corban CRM in a single workflow—available upon consultation with our team.</p>
+<div class="cz-seg-flow"><span>Simulation</span><i>→</i><span>Order</span><i>→</i><span>Banks</span><i>→</i><span>Contract</span></div>
+<a class="cz-seg-link" href="./pages/corban-ai.html">See solution for correspondents →</a>
+</div>
+</div>
+</div>
 </div>
 </section>
 <!-- CASE -->
-<section class="arch-section arch-case">
-<div class="arch-inner arch-case-grid">
-<div><div class="section-tag">Application by segment</div><h2>Vertical depth without limiting the platform.</h2><p class="arch-lead">The industry-specific pages show how the same infrastructure adapts to specific projects. In the real estate market, NJS Engenharia is already using Credituz to gain operational control.</p></div>
-<blockquote>“We’ve moved from a situation of poor control to the <strong>full control of our portfolio</strong>. “Today we know exactly the status of each unit, each contract, and each transfer.”<div class="arch-case-meta"><div class="arch-case-person"><span aria-hidden="true" class="arch-case-avatar">AS</span><div class="arch-case-person-copy"><strong>Adson Soares</strong><span>Development Manager · NJS Engineering</span></div></div><a class="arch-case-link" href="/pages/cases/njs-engenharia-credituz.html">View the full case →</a></div></blockquote>
+<section class="arch-section cz-impact" id="impacto">
+<div class="arch-inner">
+<div class="section-tag">Actual result</div>
+<blockquote>“We’ve moved from a situation of poor control to the <strong>full control of our portfolio</strong>. “Today we know exactly the status of each unit, each contract, and each transfer.”</blockquote>
+<div class="cz-impact-meta"><span aria-hidden="true" class="arch-case-avatar">AS</span><span><strong>Adson Soares</strong> · Development Manager, NJS Engineering</span><a href="/pages/cases/njs-engenharia-credituz.html">View the full case →</a></div>
 </div>
 </section>
 <!-- PRICING -->
@@ -4716,9 +4951,10 @@ nav.on-dark .btn-beam::before {
 <!-- CTA FINAL -->
 <section class="cta-final">
 <div class="cta-final-inner">
-<h2>Your financial operation may <em>work better.</em></h2>
-<p>Gain deeper insights, process payments automatically, and enhance your customers' experience with Credituz's infrastructure.</p>
-<div class="arch-final-actions"><a class="btn-final" data-track="cta_final" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=home-final-os" rel="noopener" target="_blank">Start with Credituz OS</a><a class="arch-final-link" data-track="cta_final_sales" href="https://wa.me/5511936209409" rel="noopener" target="_blank">Talk to the team about other features →</a></div>
+<h2>Would you like a free diagnosis? <em>from your wallet?</em></h2>
+<p>Tell us how your company currently analyzes and collects payments. Our team will use your data to show you where the risks, delinquencies, and manual work lie.</p>
+<ul class="cz-diag-points"><li>Current Credit Policy</li><li>Portfolio Delinquency</li><li>Time spent on billing and payment processing</li></ul>
+<div class="arch-final-actions"><a class="btn-final" data-track="cta_final_diagnostico" href="https://wa.me/5511936209409?text=Quero%20o%20diagn%C3%B3stico%20gratuito%20da%20minha%20carteira" rel="noopener" target="_blank">Request my diagnosis</a><a class="arch-final-link" data-track="cta_final" href="https://dashboard.usecredituz.com/auth/login?screen_hint=signup&amp;ref=home-final-os" rel="noopener" target="_blank">Or get started now with Credituz OS →</a></div>
 </div>
 </section>
 <footer>
@@ -6615,6 +6851,99 @@ footer { background: var(--void); }
     url: "https://dashboard.usecredituz.com/o/crdtz/credit/landing/embed",
     selector: "#simular-credito"
   }])
+</script>
+<script id="cz-home-v2-js">
+(function () {
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    // Hero: troca das promessas riscadas
+    var swapEl = document.querySelector('[data-cz-swap]');
+    if (swapEl && !reduce) {
+        var items = swapEl.querySelectorAll('.cz-swap-item');
+        var i = 0;
+        setInterval(function () {
+            if (document.hidden) return;
+            items[i].classList.remove('is-on');
+            i = (i + 1) % items.length;
+            items[i].classList.add('is-on');
+        }, 3800);
+    }
+
+    // Agentes: abas com conversa animada
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.cz-tab'));
+    var timers = [];
+    function clearTimers() { timers.forEach(clearTimeout); timers = []; }
+    function playChat(panel) {
+        clearTimers();
+        var msgs = panel.querySelectorAll('.cz-msg');
+        var typing = panel.querySelector('.cz-typing');
+        var body = panel.querySelector('.cz-chat-body');
+        msgs.forEach(function (m) { m.classList.remove('is-in'); });
+        if (reduce) { msgs.forEach(function (m) { m.classList.add('is-in'); }); return; }
+        var t = 250;
+        msgs.forEach(function (m) {
+            if (m.classList.contains('ai') && typing) {
+                timers.push(setTimeout(function () { body.insertBefore(typing, m); typing.classList.add('is-on'); }, t));
+                t += 900;
+                timers.push(setTimeout(function () { typing.classList.remove('is-on'); body.appendChild(typing); }, t));
+            }
+            timers.push(setTimeout(function () { m.classList.add('is-in'); }, t));
+            t += 750;
+        });
+    }
+    function selectTab(tab, focus) {
+        tabs.forEach(function (tb) {
+            var on = tb === tab;
+            tb.setAttribute('aria-selected', on ? 'true' : 'false');
+            tb.tabIndex = on ? 0 : -1;
+            var panel = document.getElementById(tb.getAttribute('aria-controls'));
+            if (panel) panel.hidden = !on;
+        });
+        if (focus) tab.focus();
+        playChat(document.getElementById(tab.getAttribute('aria-controls')));
+    }
+    tabs.forEach(function (tab, idx) {
+        tab.addEventListener('click', function () { selectTab(tab); });
+        tab.addEventListener('keydown', function (e) {
+            var dir = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+            if (!dir) return;
+            e.preventDefault();
+            selectTab(tabs[(idx + dir + tabs.length) % tabs.length], true);
+        });
+    });
+    var agSec = document.getElementById('agentes');
+    if (agSec && tabs.length) {
+        if ('IntersectionObserver' in window) {
+            var played = false;
+            new IntersectionObserver(function (entries, obs) {
+                entries.forEach(function (en) {
+                    if (en.isIntersecting && !played) {
+                        played = true;
+                        selectTab(tabs[0]);
+                        obs.disconnect();
+                    }
+                });
+            }, { threshold: 0.35 }).observe(agSec);
+        } else {
+            selectTab(tabs[0]);
+        }
+    }
+
+    // Segmentos: um ativo por vez
+    var seg = document.querySelector('[data-cz-seg]');
+    if (seg) {
+        var segItems = Array.prototype.slice.call(seg.querySelectorAll('.cz-seg-item'));
+        segItems.forEach(function (item) {
+            item.querySelector('.cz-seg-btn').addEventListener('click', function () {
+                segItems.forEach(function (other) {
+                    var on = other === item;
+                    other.classList.toggle('is-on', on);
+                    other.querySelector('.cz-seg-btn').setAttribute('aria-expanded', on ? 'true' : 'false');
+                });
+            });
+        });
+    }
+})();
 </script>
 </body>
 </html>
