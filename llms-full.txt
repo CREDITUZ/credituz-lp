@@ -123,7 +123,7 @@ Página oficial: [Credituz Service](https://credituz.ai/pages/enterprise.html).
 
 ## Segmentos
 
-A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
+A Credituz é focada no setor imobiliário. Existem páginas específicas para construtoras e incorporadoras e para imobiliárias, além do embedded credit, sob consulta, para operações de originação e embedded credit.
 
 ## Planos e preços na home
 
@@ -153,7 +153,7 @@ Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
 Essas funcionalidades fazem parte do plano Service.
 
 ### A Credituz atende somente o mercado imobiliário?
-Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
+Sim. A Credituz é focada no setor imobiliário: incorporadoras, loteadoras, construtoras, imobiliárias e correspondentes usam o Credituz OS para analisar compradores e inquilinos, cobrar parcelas e aluguéis e acompanhar o financiamento até o repasse.
 
 ### Quanto custa começar?
 A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
