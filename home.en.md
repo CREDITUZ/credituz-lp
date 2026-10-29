@@ -135,7 +135,7 @@ Credituz OS works as a credit team run by seven AI agents that operate over the 
 
 ## Segments
 
-Credituz is not limited to the real estate market. The platform can serve companies that sell on credit, collect recurring payments, or want to embed credit into their own experience. There are specific pages for construction and real estate development companies and real estate agencies, while CORBAN AI serves origination and embedded credit operations.
+Credituz is focused on the real estate sector. There are specific pages for construction and real estate development companies and real estate agencies, while CORBAN AI serves origination and embedded credit operations.
 
 - **Developers:** buyer analysis before reservation, down payment collections and financing follow-up until the bank payout. https://credituz.ai/pages/incorporadoras.html
 - **Land subdividers:** who enters the in-house portfolio and collections until the last installment. https://credituz.ai/lp/loteadoras/
@@ -180,6 +180,7 @@ A credit pipeline is the view of operations from simulation to closing. In CORBA
 These features are part of the Service plan.
 
 ### Does Credituz only serve the real estate market?
+Yes. Credituz is focused on the real estate sector: developers, land developers, builders, real estate agencies and credit correspondents use Credituz OS to analyze buyers and tenants, collect installments and rent, and track financing until the bank payout.
 
 ### Does Credituz replace my ERP or CRM?
 No. Credituz is a partner solution: your ERP and CRM, such as Sienge, CV CRM or HubSpot, remain your company's management systems. Credituz connects to them via API to add credit analysis with your own policy and an AI-powered collections flow, with no data migration.

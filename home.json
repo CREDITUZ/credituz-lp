@@ -22,7 +22,7 @@
         "postalCode": "01452-001",
         "addressCountry": "BR"
       },
-      "description": "Plataforma de análise e decisão de crédito com IA para empresas, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
+      "description": "Plataforma de análise e decisão de crédito com IA para o setor imobiliário, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
       "foundingDate": "2023",
       "founder": [
         {
@@ -174,7 +174,7 @@
           "name": "A Credituz atende somente o mercado imobiliário?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas para alguns mercados."
+            "text": "Sim. A Credituz é focada no setor imobiliário: incorporadoras, loteadoras, construtoras, imobiliárias e correspondentes usam o Credituz OS para analisar compradores e inquilinos, cobrar parcelas e aluguéis e acompanhar o financiamento até o repasse."
           }
         },
         {

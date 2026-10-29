@@ -10,7 +10,7 @@
 
 ## O que é a Credituz?
 
-A Credituz atende empresas que precisam tomar decisões de crédito, automatizar recebimentos ou incorporar crédito à própria jornada. O Credituz OS é a plataforma única que oferece esses serviços; páginas de segmento aprofundam aplicações específicas para mercados como construção e incorporação imobiliária, imobiliárias e operações de originação de crédito.
+A Credituz é focada no setor imobiliário e atende incorporadoras, loteadoras, construtoras, imobiliárias e correspondentes que precisam tomar decisões de crédito, automatizar recebimentos ou incorporar crédito à própria jornada. O Credituz OS é a plataforma única que oferece esses serviços; páginas de segmento aprofundam aplicações específicas para mercados como construção e incorporação imobiliária, imobiliárias e operações de originação de crédito.
 
 ## Posicionamento
 
@@ -142,7 +142,7 @@ O Credituz OS funciona como um time de crédito operado por sete agentes de IA, 
 
 ## Segmentos
 
-A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender empresas que vendem a prazo, cobram de forma recorrente ou querem incorporar crédito à própria experiência. Existem páginas específicas para cada segmento do setor imobiliário:
+A Credituz é focada no setor imobiliário. Existem páginas específicas para cada segmento do setor imobiliário:
 
 - **Incorporadoras:** análise do comprador antes da reserva, cobrança da entrada e acompanhamento do financiamento até o repasse. https://credituz.ai/pages/incorporadoras.html
 - **Loteadoras:** decisão de quem entra na carteira própria e régua de cobrança até a última parcela. https://credituz.ai/lp/loteadoras/
@@ -181,7 +181,7 @@ Pipeline de crédito é a visão das operações desde a simulação até a cont
 Essas funcionalidades fazem parte do plano Service.
 
 ### A Credituz atende somente o mercado imobiliário?
-Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
+Sim. A Credituz é focada no setor imobiliário: incorporadoras, loteadoras, construtoras, imobiliárias e correspondentes usam o Credituz OS para analisar compradores e inquilinos, cobrar parcelas e aluguéis e acompanhar o financiamento até o repasse.
 
 ### A Credituz substitui o meu ERP ou CRM?
 Não. A Credituz é uma solução parceira: o seu ERP e o seu CRM, como Sienge, CV CRM ou HubSpot, continuam sendo os sistemas de gestão da empresa. A Credituz se conecta a eles via API para somar análise de crédito com política própria e régua de cobrança com IA, sem migração de dados.
