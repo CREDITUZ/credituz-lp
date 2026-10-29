@@ -190,9 +190,9 @@ No. Credituz serves companies that need to analyze customers, automate collectio
 
 A standalone Credituz Score analysis is priced by the sales team. Credituz OS costs R$ 297/month with 5 analyses (individuals or companies), up to 100 collections and 3 users; each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company). Higher volumes and Service are custom.
 
-## Free portfolio assessment
+## Portfolio X-ray (free assessment)
 
-Credituz offers a free portfolio assessment: the team reviews the current credit policy, delinquency and the time spent on collections and payouts, using the company's own numbers. Request it on WhatsApp: https://wa.me/5511936209409
+In the Raio-X da carteira (portfolio X-ray), a Credituz agent asks quick questions about the operation and instantly shows the estimated delinquency, cash at risk per month, the cost of manual collections and what Credituz OS automates. Calculations use only the answers, with the formulas shown on the page. Free and with no file upload (in Portuguese): https://credituz.ai/pages/raio-x.html
 
 ## Contact and site
 
