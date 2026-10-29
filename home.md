@@ -181,7 +181,7 @@ Pipeline de crédito é a visão das operações desde a simulação até a cont
 Essas funcionalidades fazem parte do plano Service.
 
 ### A Credituz atende somente o mercado imobiliário?
-Não. A Credituz atende empresas que precisam analisar clientes, automatizar cobrança ou incorporar crédito à própria jornada. As páginas de segmento detalham aplicações específicas.
+Sim, o foco da Credituz é o setor imobiliário: construtoras, incorporadoras, loteadoras, imobiliárias e correspondentes. As páginas de segmento detalham a jornada de cada um.
 
 ### A Credituz substitui o meu ERP ou CRM?
 Não. A Credituz é uma solução parceira: o seu ERP e o seu CRM, como Sienge, CV CRM ou HubSpot, continuam sendo os sistemas de gestão da empresa. A Credituz se conecta a eles via API para somar análise de crédito com política própria e régua de cobrança com IA, sem migração de dados.
