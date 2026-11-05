@@ -16,7 +16,7 @@ O setor imobiliário brasileiro, complexo e com grande volume de dados, utiliza 
 
 ## Agentes de IA Especializados: O Caso Credituz
 
-A Credituz é um exemplo de **IA especializada** aplicada a uma etapa crítica das vendas imobiliárias: o crédito do comprador e o recebimento depois da venda. Diferente das soluções genéricas, ela foi desenhada para construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes, e funciona como solução parceira: o CRM e o ERP que a empresa já usa (Sienge, CV CRM, Totvs, Senior, Pipedrive, RD Station, Kenlo, Vista, Superlógica e outros) seguem como sistemas principais, e a Credituz se conecta a eles via API. No **Credituz OS**, plano único de R$ 297/mês, a empresa tem:
+A Credituz é um exemplo de **IA especializada** aplicada a uma etapa crítica das vendas imobiliárias: o crédito do comprador e o recebimento depois da venda. Diferente das soluções genéricas, ela foi desenhada para construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes, e funciona como solução parceira: o CRM e o ERP que a empresa já usa (Sienge, CV CRM, Totvs, Senior, Pipedrive, RD Station, Kenlo, Vista, Superlógica e outros) seguem como sistemas principais, e a Credituz se conecta a eles via API. No **Credituz OS**, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, a empresa tem:
 
 1.  **Análise de Crédito Avançada:** 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2.  **Política de Crédito Própria:** A empresa define as regras e a IA aplica a decisão automaticamente, com o motivo de cada aprovação ou recusa registrado.
@@ -56,7 +56,7 @@ As limitações das IAs genéricas no imobiliário incluem falta de conhecimento
 | **Geração de Conteúdo**     | Mensagens de cobrança e registro das decisões de crédito | Genérica (textos, imagens), requer revisão e adaptação |
 | **Análise de Dados**        | Analytics da carteira de crédito e de cobrança | Ampla, requer interpretação e contextualização manual |
 | **Segurança e Conformidade**| Desenvolvida com foco nas regulamentações do setor | Pode apresentar desafios de segurança e conformidade |
-| **Contratação**             | Plano único de R$ 297/mês, sem desenvolvimento próprio | Variável, dependendo da adaptação e integração |
+| **Contratação**             | Plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, sem desenvolvimento próprio | Variável, dependendo da adaptação e integração |
 
 ## Conclusão: O Futuro é Especializado
 

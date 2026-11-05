@@ -18,7 +18,7 @@ A **Credituz para imobiliárias** representa uma abordagem inovadora, aplicando 
 
 **Funcionalidades e Benefícios da Credituz:**
 
-1.  **Análise de Crédito Avançada:** O Credituz OS, plano único de R$ 297/mês, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Para consultas pontuais, o Credituz Score oferece análise avulsa sem mensalidade, com valor sob consulta.
+1.  **Análise de Crédito Avançada:** O Credituz OS, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Para consultas pontuais, o Credituz Score oferece análise avulsa sem mensalidade, com valor sob consulta.
 2.  **Política de Crédito e Decisão Automatizada:** A imobiliária define sua própria política de crédito e a plataforma decide de forma automatizada, com o motivo registrado em cada caso.
 3.  **CRM de Crédito:** Organiza clientes, análises, decisões e pendências. Não é um CRM de vendas: o funil comercial segue no RD Station CRM, e a Credituz cuida da etapa de crédito.
 4.  **Régua de Cobrança com IA:** Cobranças por WhatsApp e e-mail, com até 100 cobranças por mês no plano (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação.
@@ -53,7 +53,7 @@ Para uma compreensão mais clara de onde cada plataforma atua, apresentamos uma 
 | **Público-Alvo** | Construtoras, Incorporadoras, Imobiliárias, Loteadoras, Correspondentes | Imobiliárias, Corretores, Empresas de diversos portes | 
 | **Funcionalidades Chave** | Análise de crédito PF/PJ, Política de crédito, CRM de crédito, Régua de cobrança, Analytics da carteira | Funil de Vendas, Gestão de Equipes, Automação de Marketing, Integração WhatsApp, Relatórios | 
 | **Inteligência Artificial** | Aplicada à decisão de crédito e à régua de cobrança | Presente em funcionalidades como Insights de relatórios e Sugestões de tarefas (planos avançados) | 
-| **Custo** | Credituz OS: R$ 297/mês (plano único); Credituz Score, crédito multibanco e Service sob consulta | Planos Free, Basic, Pro, Advanced (valores mensais por usuário) | 
+| **Custo** | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal (plano único); Credituz Score, crédito multibanco e Service sob consulta | Planos Free, Basic, Pro, Advanced (valores mensais por usuário) | 
 
 ### Como Usar as Duas Ferramentas na Sua Imobiliária
 
@@ -80,7 +80,7 @@ Sim, o RD Station CRM oferece funcionalidades com inteligência artificial em se
 
 **3. A Credituz oferece um plano gratuito como o RD Station?**
 
-Não. O Credituz OS tem plano único de R$ 297/mês, com 5 análises de crédito avançadas por mês, até 100 cobranças por mês e até 3 usuários. Para análises pontuais, o Credituz Score funciona sem mensalidade, com valor sob consulta.
+Não. O Credituz OS tem plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, com 5 análises de crédito avançadas por mês, até 100 cobranças por mês e até 3 usuários. Para análises pontuais, o Credituz Score funciona sem mensalidade, com valor sob consulta.
 
 ### Referências
 

@@ -39,12 +39,12 @@ Para ilustrar as diferentes abordagens e funcionalidades das plataformas de IA n
 | **Análise Preditiva** | Análise de crédito avançada (PF ou PJ) com score Boa Vista | Moderada (sinalização de leads) | Avançada (monitoramento de performance) | Moderada (nutrição de mensagens) |
 | **Chatbots** | Não é chatbot de atendimento; IA aplicada à régua de cobrança por WhatsApp e e-mail | Sim (assistente de IA para qualificação) | Sim (atendimento inteligente, escalável) | Sim (assistente de IA para nutrição) |
 | **Integração CRM** | Via API, como solução parceira do CRM | Nativa | Nativa | Nativa |
-| **Custo** | Plano único de R$ 297/mês com 5 análises incluídas | Alto | Variável | Variável |
+| **Custo** | Plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal com 5 análises incluídas | Alto | Variável | Variável |
 | **Diferencial** | Complementa a qualificação comercial com a qualificação de crédito do comprador e a cobrança depois da venda. | Gestão de leads de grande volume, mas com custo significativo. | Soluções nacionais adaptadas, com foco em automação e performance. | Nutrição de leads via mensagens de texto. |
 
 ## Credituz: a Etapa de Crédito na Qualificação de Leads Imobiliários
 
-Como vimos, qualificar um lead imobiliário envolve interesse, intenção de compra e **capacidade financeira**. As plataformas de SDR, chatbots e CRMs cuidam bem das duas primeiras. A Credituz atua na terceira: ela não faz atendimento nem agendamento de visitas, e sim a análise de crédito do lead e do comprador, conectada via API ao CRM que a equipe já usa. Com o **Credituz OS** (plano único de R$ 297/mês), incorporadoras, construtoras, imobiliárias, loteadoras e correspondentes contam com:
+Como vimos, qualificar um lead imobiliário envolve interesse, intenção de compra e **capacidade financeira**. As plataformas de SDR, chatbots e CRMs cuidam bem das duas primeiras. A Credituz atua na terceira: ela não faz atendimento nem agendamento de visitas, e sim a análise de crédito do lead e do comprador, conectada via API ao CRM que a equipe já usa. Com o **Credituz OS** (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal), incorporadoras, construtoras, imobiliárias, loteadoras e correspondentes contam com:
 
 *   **Análise de Crédito do Lead:** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
 *   **Política de Crédito Própria:** decisão automatizada com o motivo registrado, para que a equipe saiba antes da proposta quem tem perfil para comprar.

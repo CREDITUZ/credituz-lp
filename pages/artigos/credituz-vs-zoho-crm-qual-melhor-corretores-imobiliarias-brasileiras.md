@@ -14,7 +14,7 @@ O mercado imobiliário brasileiro exige ferramentas que otimizem processos compl
 
 A Credituz é uma plataforma de análise de crédito e cobrança com inteligência artificial, focada no setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes). Ela não é um CRM de vendas e não ocupa o lugar do CRM da imobiliária: conecta-se a ele via API e soma uma camada de decisão de crédito e de recebimento. A relevância da IA no setor imobiliário tem crescido, otimizando desde a captação de clientes até a análise de mercado [1].
 
-**Principais funções do Credituz OS (plano único de R$ 297/mês):**
+**Principais funções do Credituz OS (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal):**
 
 1.  **Análise de Crédito Avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ). O crédito imobiliário no Brasil tem apresentado crescimento [2].
 2.  **Política de Crédito e Decisão Automatizada:** a imobiliária define seus critérios e cada decisão é tomada de forma automática, com o motivo registrado.
@@ -54,7 +54,7 @@ O Zoho CRM é elogiado por sua adaptabilidade e por ser uma solução completa p
 | **Gestão de Leads e Marketing** | Não atua como CRM de vendas | Captura de leads, campanhas por e-mail, automação de tarefas | A gestão comercial fica no Zoho. |
 | **Análise de Dados/Insights** | Analytics da carteira de crédito e recebíveis | Mais de 40 relatórios, Zia para sugestões | Relatórios complementares: comerciais no Zoho, de crédito e cobrança na Credituz. |
 | **Integrações** | API para conectar ao CRM e ao ERP | Mais de 100 aplicativos de terceiros, APIs | Zoho tem um ecossistema de integrações mais amplo; a Credituz foca nas integrações essenciais para o setor imobiliário. |
-| **Preço** | Credituz OS: R$ 297/mês (plano único) | Variável (edições e recursos) | No Zoho, o valor depende da edição escolhida. |
+| **Preço** | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal (plano único) | Variável (edições e recursos) | No Zoho, o valor depende da edição escolhida. |
 
 ## Credituz: Diferenciais para o Corretor e Imobiliária Brasileira
 

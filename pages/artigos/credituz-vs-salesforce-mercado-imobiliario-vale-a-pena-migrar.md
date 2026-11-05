@@ -19,7 +19,7 @@ A **Credituz** emerge como uma plataforma de inteligência artificial (IA) para 
 **Principais características e diferenciais da Credituz:**
 
 1.  **Solução parceira:** Conecta-se ao CRM e ao ERP que a empresa já usa, somando análise de crédito e régua de cobrança com IA sem substituir esses sistemas.
-2.  **Análise de Crédito com Política Própria:** O Credituz OS, plano único de R$ 297/mês, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A empresa define sua política de crédito e a decisão é automatizada, com o motivo registrado.
+2.  **Análise de Crédito com Política Própria:** O Credituz OS, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A empresa define sua política de crédito e a decisão é automatizada, com o motivo registrado.
 3.  **Régua de Cobrança com IA:** Cobranças por WhatsApp e e-mail, com até 100 cobranças por mês no plano (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação.
 4.  **CRM de Crédito e Analytics:** Clientes, análises, decisões e pendências organizados em um CRM de crédito (que não é CRM de vendas), com analytics da carteira para até 3 usuários.
 5.  **Crédito Multibanco (sob consulta):** Com o time comercial, simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação. A Credituz não realiza atividade privativa de instituição financeira; os financiamentos são feitos por parceiros autorizados pelo BACEN.
@@ -53,7 +53,7 @@ Abaixo, apresentamos uma tabela comparativa detalhada mostrando onde cada uma at
 | **Inteligência Artificial** | IA aplicada à decisão de crédito e à régua de cobrança. | Einstein AI com foco em análise preditiva de vendas, recomendações e automação de CRM. |
 | **Cobrança e Recebíveis** | Régua com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação. | Foco em CRM; integrações financeiras dependem de aplicativos de terceiros (AppExchange). |
 | **Tempo de Implementação** | Rápido, com conexão via API ao CRM existente. | Pode ser longo e complexo, exigindo consultoria e customização extensiva. |
-| **Preço** | Credituz OS: R$ 297/mês (plano único); Credituz Score, crédito multibanco e Service sob consulta. | Licenciamento por usuário/módulo, podendo ter custos elevados de implementação e manutenção. |
+| **Preço** | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal (plano único); Credituz Score, crédito multibanco e Service sob consulta. | Licenciamento por usuário/módulo, podendo ter custos elevados de implementação e manutenção. |
 | **Conformidade Regulatória** | Adequação à LGPD; financiamentos feitos por parceiros autorizados pelo BACEN. | Conformidade global de dados (LGPD/GDPR), mas requer adaptações para regras financeiras locais. |
 
 ## Cenários de Uso e Recomendações

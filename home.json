@@ -79,7 +79,7 @@
       "url": "https://credituz.ai/",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS (plano único de R$ 297/mês) reúne análise, política de crédito, decisão, CRM e cobrança; simulação e pedido de crédito multibanco e o Service, com a operação de análise e cobrança feita pela Credituz, com integrações e fluxos customizados.",
+      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal) reúne análise, política de crédito, decisão, CRM e cobrança; simulação e pedido de crédito multibanco e o Service, com a operação de análise e cobrança feita pela Credituz, com integrações e fluxos customizados.",
       "publisher": {
         "@id": "https://credituz.ai/#organization"
       },
@@ -108,11 +108,32 @@
         },
         {
           "@type": "Offer",
-          "name": "Credituz OS",
+          "name": "Credituz OS (contrato anual)",
           "url": "https://credituz.ai/pages/credituz-os.html",
           "price": "297",
           "priceCurrency": "BRL",
-          "description": "R$ 297 por mês com 5 análises de crédito avançadas com score Boa Vista (PF ou PJ) e até 100 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ). Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail."
+          "description": "R$ 297 por mês no contrato anual ou R$ 347 no mensal com 5 análises de crédito avançadas com score Boa Vista (PF ou PJ) e até 100 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ). Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail.",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": "297",
+            "priceCurrency": "BRL",
+            "unitText": "mês",
+            "billingDuration": "P1Y"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Credituz OS (mensal)",
+          "url": "https://credituz.ai/pages/credituz-os.html",
+          "price": "347",
+          "priceCurrency": "BRL",
+          "description": "R$ 297 por mês no contrato anual ou R$ 347 no mensal com 5 análises de crédito avançadas com score Boa Vista (PF ou PJ) e até 100 cobranças por mês incluídas, para até 3 usuários. Análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ). Inclui CRM de crédito e cobrança com IA. Na Credituz, cada cobrança é uma régua multicanal com até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail.",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": "347",
+            "priceCurrency": "BRL",
+            "unitText": "mês"
+          }
         },
         {
           "@type": "Offer",
@@ -142,7 +163,7 @@
           "name": "O que está incluído no plano Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS (R$ 297/mês) reúne análise de crédito, CRM de crédito e cobrança com IA, com 5 análises PF ou PJ e 100 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial."
+            "text": "O Credituz OS (R$ 297/mês no contrato anual ou R$ 347/mês no mensal) reúne análise de crédito, CRM de crédito e cobrança com IA, com 5 análises PF ou PJ e 100 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial."
           }
         },
         {
@@ -222,7 +243,7 @@
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "O Credituz OS custa R$ 297 por mês com 5 análises de crédito (PF ou PJ), até 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o time comercial da Credituz. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
+            "text": "O Credituz OS custa R$ 297 por mês no contrato anual ou R$ 347 no mensal com 5 análises de crédito (PF ou PJ), até 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o time comercial da Credituz. Cada cobrança é uma régua multicanal com até três datas configuráveis em WhatsApp e e-mail."
           }
         }
       ]

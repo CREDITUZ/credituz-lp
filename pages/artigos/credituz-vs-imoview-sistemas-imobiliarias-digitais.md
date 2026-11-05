@@ -28,7 +28,7 @@ A Credituz se posiciona como uma plataforma de IA focada na análise de crédito
 
 ### Principais Diferenciais da Credituz:
 
-*   **Credituz OS (R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ); até 3 usuários.
+*   **Credituz OS (R$ 297/mês no contrato anual ou R$ 347/mês no mensal):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ); até 3 usuários.
 *   **Política de Crédito Própria:** a imobiliária define seus critérios e a decisão é automatizada, com o motivo registrado.
 *   **CRM de Crédito:** centraliza clientes, análises, decisões e pendências de documentação. Não é um CRM de vendas.
 *   **Régua de Cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira.

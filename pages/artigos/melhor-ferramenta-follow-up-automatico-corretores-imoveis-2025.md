@@ -53,7 +53,7 @@ Para auxiliar na escolha da **melhor ferramenta de follow-up automático para co
 
 O follow-up comercial continua sendo papel do CRM e da ferramenta de automação que o corretor já usa. A Credituz não concorre com essas ferramentas: ela é solução parceira delas, conecta-se via API e atua nas etapas seguintes, quando o lead já virou comprador e é preciso saber se ele tem crédito e garantir que as parcelas sejam pagas. O foco é o setor imobiliário (imobiliárias, construtoras, incorporadoras, loteadoras e correspondentes), mas ela atende qualquer empresa que precise analisar clientes e cobrar.
 
-Com o **Credituz OS** (plano único de R$ 297/mês, até 3 usuários), a operação tem acesso a:
+Com o **Credituz OS** (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, até 3 usuários), a operação tem acesso a:
 
 *   **Análise de Crédito do Comprador:** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
 *   **Política de Crédito Própria:** decisão automatizada, com o motivo de cada aprovação ou reprovação registrado em um CRM de crédito (clientes, análises, decisões e pendências).

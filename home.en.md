@@ -57,7 +57,7 @@ Includes:
 - analytics;
 - **up to 3 users**.
 
-Price: **R$ 297/month + R$ 16 per analysis**.
+Price: **R$ 297/month on an annual contract or R$ 347/month on the monthly plan**.
 
 Official page: [Credituz OS](https://credituz.ai/en/pages/credituz-os.html).
 
@@ -83,7 +83,7 @@ Official page: [CORBAN AI](https://credituz.ai/en/pages/corban-ai.html).
 
 ## Credituz Score
 
-For companies that only need a credit check, Credituz Score runs standalone analyses with no subscription or monthly fee; the price is quoted by the sales team. When analysis becomes routine, Credituz OS (R$ 297/month) includes 5 advanced analyses (individuals or companies) with Boa Vista score, and each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company).
+For companies that only need a credit check, Credituz Score runs standalone analyses with no subscription or monthly fee; the price is quoted by the sales team. When analysis becomes routine, Credituz OS (R$ 297/month on an annual contract or R$ 347/month on the monthly plan) includes 5 advanced analyses (individuals or companies) with Boa Vista score, and each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company).
 
 Official page: [Credituz Score](https://credituz.ai/pages/credituz-score.html).
 
@@ -147,7 +147,7 @@ Credituz is not limited to the real estate market. The platform can serve compan
 
 The homepage shows a single plan with a public price:
 
-- **Credituz OS: R$ 297/month**, with 5 advanced credit analyses per month for individuals or companies (PF or PJ) with Boa Vista score, credit CRM, AI-powered collections, up to 100 collections and 3 users per month. Extra analysis: R$ 24.90 (individual) or R$ 29.90 (company). Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
+- **Credituz OS: R$ 297/month on an annual contract or R$ 347/month on the monthly plan**, with 5 advanced credit analyses per month for individuals or companies (PF or PJ) with Boa Vista score, credit CRM, AI-powered collections, up to 100 collections and 3 users per month. Extra analysis: R$ 24.90 (individual) or R$ 29.90 (company). Each collection is a complete workflow with up to 3 configurable dates via WhatsApp and email.
 
 Higher volumes and other features (multi-bank simulation, credit application and Corban CRM, operations run by Credituz in the Service plan, integrations and custom modules) are defined with the Credituz sales team during qualification, with no price published on the homepage.
 
@@ -187,7 +187,7 @@ No. Credituz is a partner solution: your ERP and CRM, such as Sienge, CV CRM or 
 
 ### How much does it cost to get started?
 
-A standalone Credituz Score analysis is priced by the sales team. Credituz OS costs R$ 297/month with 5 analyses (individuals or companies), up to 100 collections and 3 users; each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company). Higher volumes and Service are custom.
+A standalone Credituz Score analysis is priced by the sales team. Credituz OS costs R$ 297/month on an annual contract or R$ 347/month on the monthly plan, with 5 analyses (individuals or companies), up to 100 collections and 3 users; each extra analysis costs R$ 24.90 (individual) or R$ 29.90 (company). Higher volumes and Service are custom.
 
 ## Free portfolio assessment
 

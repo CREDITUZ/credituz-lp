@@ -16,7 +16,7 @@ A Credituz é uma plataforma de crédito com IA focada no setor imobiliário (co
 
 **Principais Funcionalidades e Diferenciais da Credituz:**
 
-1.  **Credituz OS (plano de R$ 297/mês):**
+1.  **Credituz OS (plano de R$ 297/mês no contrato anual ou R$ 347/mês no mensal):**
     *   **Análise de crédito avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ).
     *   **Política de crédito própria:** a empresa define seus critérios e a decisão é automatizada, com o motivo registrado.
     *   **CRM de crédito:** clientes, análises, decisões e pendências. Não é um CRM de vendas e convive com o CRM comercial da imobiliária.
@@ -77,7 +77,7 @@ A diferença está no papel. O CRM organiza leads, relacionamento e o processo d
 
 ### 2. A Credituz é indicada apenas para grandes incorporadoras?
 
-Não. O Credituz OS tem plano único de R$ 297/mês, com 5 análises avançadas por mês e até 3 usuários, o que atende **imobiliárias de diversos portes, loteadoras, construtoras e correspondentes**. Para volumes maiores ou necessidades específicas, há análises adicionais, o Credituz Score avulso e os serviços sob consulta.
+Não. O Credituz OS tem plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, com 5 análises avançadas por mês e até 3 usuários, o que atende **imobiliárias de diversos portes, loteadoras, construtoras e correspondentes**. Para volumes maiores ou necessidades específicas, há análises adicionais, o Credituz Score avulso e os serviços sob consulta.
 
 ### 3. Como a Credituz garante a segurança dos dados e a conformidade com a LGPD?
 

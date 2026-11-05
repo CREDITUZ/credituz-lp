@@ -24,7 +24,7 @@ No Brasil, a adoção de IA no setor imobiliário ainda apresenta amplo espaço 
 
 A Credituz não é um CRM de vendas. É uma plataforma de análise de crédito e cobrança com inteligência artificial, focada no setor imobiliário, que complementa o CRM e o ERP já em uso, conectando-se a eles via API para somar análise de crédito e régua de cobrança com IA.
 
-O produto principal é o **Credituz OS**, plano único de R$ 297/mês, com as seguintes funções:
+O produto principal é o **Credituz OS**, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, com as seguintes funções:
 
 1.  **Análise de Crédito Avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista. Análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2.  **Política de Crédito Própria:** a imobiliária define seus critérios e a decisão é automatizada, com o motivo registrado em cada caso.

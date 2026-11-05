@@ -16,7 +16,7 @@ A Credituz é uma plataforma de análise de crédito e cobrança com IA focada n
 
 ### O que a Credituz oferece:
 
-*   **Credituz OS (R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ); até 3 usuários [1].
+*   **Credituz OS (R$ 297/mês no contrato anual ou R$ 347/mês no mensal):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ); até 3 usuários [1].
 *   **Política de crédito e decisão automatizada:** a imobiliária define seus critérios e cada decisão é tomada de forma automatizada, com o motivo registrado [1].
 *   **CRM de crédito:** clientes, análises, decisões e pendências. Não é um CRM de vendas; convive com o CRM da imobiliária [1].
 *   **Régua de cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira [1].
@@ -51,7 +51,7 @@ O Imobzi se destaca por ser uma das únicas plataformas a oferecer CRM e ERP com
 | **Automação** | Decisão de crédito automatizada com motivo registrado e cobrança com IA. | Automação de processos financeiros e tarefas com quadros Kanban. Integração com ferramentas de automação externas (ex: Make). |
 | **Público-Alvo** | Construtoras, Incorporadoras, Imobiliárias, Loteadoras, Correspondentes. | Imobiliárias, Corretores e Empresas de Recorrência. |
 | **Integrações** | Conecta-se via API a CRMs e ERPs (como Imobzi, Sienge e Senior). | CRM e ERP integrados. Módulos para Make. Não detalha integrações com sistemas específicos do setor. |
-| **Diferencial Competitivo** | Camada de crédito e cobrança com IA que se soma aos sistemas existentes. Plano único de R$ 297/mês. | Experiência de 20+ anos, plataforma completa de CRM/ERP com faturamento e meios de pagamento integrados. Foco em gestão consolidada e recorrência. |
+| **Diferencial Competitivo** | Camada de crédito e cobrança com IA que se soma aos sistemas existentes. Plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal. | Experiência de 20+ anos, plataforma completa de CRM/ERP com faturamento e meios de pagamento integrados. Foco em gestão consolidada e recorrência. |
 
 ## O Impacto da Tecnologia na Gestão Imobiliária: Dados e Tendências
 
@@ -83,7 +83,7 @@ Ambas as plataformas devem estar em conformidade com a Lei Geral de Proteção d
 
 ### 5. Uma imobiliária pequena pode usar Imobzi e Credituz juntos?
 
-Sim. Para gestão completa de CRM e ERP com histórico comprovado e funcionalidades para locação e vendas, o Imobzi é uma excelente opção como sistema principal. A Credituz pode ser somada a ele com o Credituz OS, plano único de R$ 297/mês com 5 análises avançadas por mês, régua de cobrança com IA e até 3 usuários. Para análises pontuais, existe o Credituz Score, avulso e sem mensalidade, com valor sob consulta. É fundamental avaliar custo-benefício e funcionalidades que impactarão o crescimento do negócio.
+Sim. Para gestão completa de CRM e ERP com histórico comprovado e funcionalidades para locação e vendas, o Imobzi é uma excelente opção como sistema principal. A Credituz pode ser somada a ele com o Credituz OS, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal com 5 análises avançadas por mês, régua de cobrança com IA e até 3 usuários. Para análises pontuais, existe o Credituz Score, avulso e sem mensalidade, com valor sob consulta. É fundamental avaliar custo-benefício e funcionalidades que impactarão o crescimento do negócio.
 
 ## Referências Bibliográficas
 

@@ -16,7 +16,7 @@ A Credituz se posiciona como uma plataforma AI-First de análise de crédito e c
 
 ### Credituz OS: Análise, Política e Cobrança
 
-O Credituz OS tem plano único de R$ 297/mês e reúne:
+O Credituz OS tem plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal e reúne:
 
 1.  **Análise de crédito avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2.  **Política de crédito própria:** decisão automatizada com o motivo registrado em cada análise.

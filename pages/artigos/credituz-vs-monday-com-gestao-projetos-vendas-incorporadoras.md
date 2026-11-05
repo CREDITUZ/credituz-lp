@@ -45,7 +45,7 @@ A proposta da Credituz é complementar os sistemas que a incorporadora já usa, 
 
 **Diferenciais da Credituz para incorporadoras:**
 
-1. **Análise de Crédito com Política Própria:** No Credituz OS (plano único de R$ 297/mês), a incorporadora tem 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A decisão é automatizada a partir da política de crédito da própria empresa, com o motivo registrado.
+1. **Análise de Crédito com Política Própria:** No Credituz OS (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal), a incorporadora tem 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A decisão é automatizada a partir da política de crédito da própria empresa, com o motivo registrado.
 2. **CRM de Crédito:** Clientes, análises, decisões e pendências ficam organizados em um CRM de crédito, que não é CRM de vendas e convive com o funil comercial montado em outra ferramenta.
 3. **Régua de Cobrança com IA:** Cobranças por WhatsApp e e-mail, com até 100 cobranças por mês no plano (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação e analytics da carteira, para até 3 usuários.
 4. **Crédito Multibanco e Service (sob consulta):** Com o time comercial, é possível contratar simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, ou o modelo Service, em que a Credituz opera a análise e a cobrança com agentes de IA e supervisão humana, podendo incluir contratos com IA, assinatura digital, integrações e API. Os financiamentos são feitos por parceiros autorizados pelo BACEN.

@@ -30,7 +30,7 @@ Apesar de sua versatilidade, o Pipedrive é uma ferramenta generalista. Isso sig
 
 A Credituz é uma plataforma nativa de Inteligência Artificial (AI-First) de análise de crédito e cobrança, com foco no setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes) e aberta a qualquer empresa que precise analisar clientes e cobrar. Ela não é um CRM de vendas: é solução parceira de CRMs como o Pipedrive e se conecta a eles via API.
 
-O Credituz OS, plano único de R$ 297/mês, reúne:
+O Credituz OS, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, reúne:
 *   **Análise de crédito avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
 *   **Política de crédito própria:** decisão automatizada com o motivo registrado em cada análise.
 *   **CRM de crédito:** clientes, análises, decisões e pendências, separado do funil comercial que segue no Pipedrive.

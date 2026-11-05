@@ -27,7 +27,7 @@ A **Credituz** posiciona-se como uma plataforma "AI-First" de análise de crédi
 
 ### Principais Funcionalidades para Loteadoras
 
-*   **Análise de Crédito com Política Própria:** O Credituz OS, plano único de R$ 297/mês, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A decisão é automatizada a partir da política de crédito da loteadora, com o motivo registrado.
+*   **Análise de Crédito com Política Própria:** O Credituz OS, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, inclui 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). A decisão é automatizada a partir da política de crédito da loteadora, com o motivo registrado.
 *   **Régua de Cobrança com IA:** Cobranças por WhatsApp e e-mail, com até 100 cobranças por mês no plano (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação, algo especialmente relevante na venda parcelada de lotes.
 *   **CRM de Crédito e Analytics:** Clientes, análises, decisões e pendências organizados em um CRM de crédito (não é CRM de vendas), com analytics da carteira para até 3 usuários.
 *   **Crédito Multibanco (sob consulta):** Com o time comercial, simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação. Os financiamentos são feitos por parceiros autorizados pelo BACEN.
@@ -57,7 +57,7 @@ Para facilitar a visualização de onde cada solução atua, elaboramos uma tabe
 | **Qualificação de Leads** | Fora do escopo (fica no CRM da loteadora) | Modelos estatísticos para priorização e propensão de conversão |
 | **Análise de Crédito** | Análise PF ou PJ com score Boa Vista e política própria; simulação multibanco sob consulta | Foco em análise preditiva para redução de risco (instituições financeiras) |
 | **Cobrança** | Régua com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação | Não é o foco principal |
-| **Preço** | Credituz OS: R$ 297/mês (plano único) | Projetos sob consulta |
+| **Preço** | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal (plano único) | Projetos sob consulta |
 | **Integração** | Conecta-se ao CRM e ao ERP já em uso, como complemento | Integra-se aos CRMs existentes no mercado |
 
 ## Em Que Momento Cada Uma Faz Sentido para a Sua Loteadora?

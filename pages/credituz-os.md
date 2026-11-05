@@ -25,7 +25,7 @@ O Credituz OS organiza o ciclo **Cliente → Análise → Política de crédito 
 
 ## Preço
 
-**Credituz OS: R$ 297 por mês**, plano único com 5 análises PF ou PJ, até 100 cobranças e 3 usuários. Análise adicional: R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores e outras funcionalidades são definidos com o time comercial.
+**Credituz OS: R$ 297 por mês no contrato anual ou R$ 347 no mensal**, plano único com 5 análises PF ou PJ, até 100 cobranças e 3 usuários. Análise adicional: R$ 24,90 (PF) ou R$ 29,90 (PJ). Volumes maiores e outras funcionalidades são definidos com o time comercial.
 
 ## Diferença para os outros produtos
 

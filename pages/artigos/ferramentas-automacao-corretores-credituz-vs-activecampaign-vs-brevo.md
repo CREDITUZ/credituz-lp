@@ -16,7 +16,7 @@ A Credituz é uma plataforma de análise de crédito e cobrança com inteligênc
 
 ### O que o Credituz OS inclui:
 
-1.  **Análise de Crédito Avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista, no plano único de R$ 297/mês. Análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ).
+1.  **Análise de Crédito Avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista, no plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal. Análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2.  **Política de Crédito Própria:** o corretor ou a imobiliária define os critérios, e a decisão é automatizada, com o motivo registrado.
 3.  **CRM de Crédito:** organiza clientes, análises, decisões e pendências de crédito, sem ocupar o lugar do CRM comercial.
 4.  **Régua de Cobrança com IA:** cobranças por WhatsApp e e-mail, até 100 por mês, cada uma com até 3 datas (por exemplo, D-3, D0 e D+3), com recebíveis, baixa e conciliação.
@@ -87,7 +87,7 @@ A diferença está na etapa da jornada em que cada uma atua. ActiveCampaign e Br
 
 ### 2. A Credituz é adequada para corretores autônomos?
 
-Sim. O Credituz OS tem plano único de R$ 297/mês, com 5 análises de crédito incluídas, régua de cobrança com IA e até 3 usuários. Para quem faz análises só de vez em quando, o Credituz Score permite contratar análises avulsas, sem mensalidade, com valor sob consulta.
+Sim. O Credituz OS tem plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, com 5 análises de crédito incluídas, régua de cobrança com IA e até 3 usuários. Para quem faz análises só de vez em quando, o Credituz Score permite contratar análises avulsas, sem mensalidade, com valor sob consulta.
 
 ### 3. Como a automação pode aumentar minhas vendas de imóveis?
 
