@@ -16,7 +16,7 @@ Este artigo compara **Credituz**, **ManyChat** e **Typebot** para entender o pap
 
 A Credituz é uma solução de IA desenvolvida para o mercado imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes), que atende também qualquer empresa que precise analisar clientes e cobrar. Ela não é um construtor de chatbots: atua em uma etapa que costuma travar a conversão, o crédito do comprador, e no recebimento depois da venda [2].
 
-No **Credituz OS**, plano único de R$ 297/mês, a empresa tem:
+No **Credituz OS**, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, a empresa tem:
 
 1.  **Análise de crédito avançada:** 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2.  **Política de crédito própria:** a empresa define as regras e a decisão é automatizada, com o motivo registrado.
@@ -65,7 +65,7 @@ O Typebot é poderoso para quem busca **flexibilidade e controle total**. Ideal 
 | **Integração com CRM/ERP** | Via API, como solução parceira (não substitui CRM nem ERP) | Integrações com CRMs populares | Integrações via API/webhooks |
 | **Insights e Analytics** | Analytics da carteira de crédito e de cobrança | Relatórios básicos de performance | Coleta de dados para análise externa |
 | **Facilidade de Uso** | Alta (fluxos prontos de crédito e cobrança) | Alta (interface intuitiva, templates) | Média (requer mais customização para complexidade) |
-| **Custo** | Credituz OS: R$ 297/mês; demais produtos sob consulta | Variável por volume de contatos e funcionalidades | Variável por uso e self-hosting |
+| **Custo** | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal; demais produtos sob consulta | Variável por volume de contatos e funcionalidades | Variável por uso e self-hosting |
 | **Mercado-Alvo** | Construtoras, incorporadoras, imobiliárias, loteadoras, correspondentes | Pequenas e médias empresas, e-commerce | Desenvolvedores, empresas com necessidades específicas |
 
 ## Otimizando a Conversão: Qual Escolher para o Seu Negócio Imobiliário?

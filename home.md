@@ -1,6 +1,6 @@
 # Credituz — Plataforma de análise e decisão de crédito com IA
 
-> A Credituz é uma plataforma de análise e decisão de crédito com IA. O Credituz OS é o produto único que conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis em um único plano com preço público (R$ 297/mês), com módulos adicionais sob consulta; o Credituz Score é uma consulta avulsa para quem ainda não precisa de recorrência.
+> A Credituz é uma plataforma de análise e decisão de crédito com IA. O Credituz OS é o produto único que conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis em um único plano com preço público (R$ 297/mês no contrato anual ou R$ 347/mês no mensal), com módulos adicionais sob consulta; o Credituz Score é uma consulta avulsa para quem ainda não precisa de recorrência.
 
 - Canonical: https://credituz.ai/
 - Language: pt-BR
@@ -26,7 +26,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 O Credituz OS oferece diferentes planos para diferentes escalas de operação:
 
-- **Credituz OS (R$ 297/mês, plano único com preço público):** análise de crédito + CRM de crédito + cobrança com IA, com 5 análises PF ou PJ, 100 cobranças e 3 usuários por mês.
+- **Credituz OS (R$ 297/mês no contrato anual ou R$ 347/mês no mensal, plano único com preço público):** análise de crédito + CRM de crédito + cobrança com IA, com 5 análises PF ou PJ, 100 cobranças e 3 usuários por mês.
 - **Embedded credit (sob consulta com o time comercial):** volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban). Antigo CORBAN AI, agora um plano e não um produto separado.
 - **Incorporador OS:** Da análise do terreno à decisão de investimento, toda a viabilidade do empreendimento em um só lugar. Acesse em https://viabilidade.credituz.ai/.
 - **Service:** a Credituz opera análise, decisão e cobrança sob medida, com infraestrutura financeira e gestão operacional, podendo partir do Credituz OS e adicionar módulos específicos.
@@ -62,7 +62,7 @@ Inclui:
 - analytics;
 - **até 3 usuários** (mais usuários sob consulta).
 
-Preço: **R$ 297/mês**. Volumes maiores são definidos com o time comercial.
+Preço: **R$ 297/mês no contrato anual ou R$ 347/mês no mensal**. Volumes maiores são definidos com o time comercial.
 
 Página oficial: [Credituz OS](https://credituz.ai/pages/credituz-os.html).
 
@@ -88,7 +88,7 @@ Página oficial: [Embedded credit](https://credituz.ai/pages/corban-ai.html).
 
 ## Credituz Score
 
-Para quem precisa apenas de uma consulta de crédito, o Credituz Score faz análises avulsas, sem assinatura ou mensalidade, com valor sob consulta com o time comercial. Quando a análise vira rotina, o Credituz OS (R$ 297/mês) inclui 5 análises avançadas PF ou PJ com score Boa Vista, e cada adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
+Para quem precisa apenas de uma consulta de crédito, o Credituz Score faz análises avulsas, sem assinatura ou mensalidade, com valor sob consulta com o time comercial. Quando a análise vira rotina, o Credituz OS (R$ 297/mês no contrato anual ou R$ 347/mês no mensal) inclui 5 análises avançadas PF ou PJ com score Boa Vista, e cada adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
 
 Página oficial: [Credituz Score](https://credituz.ai/pages/credituz-score.html).
 
@@ -154,7 +154,7 @@ A Credituz não é limitada ao mercado imobiliário. A plataforma pode atender e
 
 A home apresenta um único plano com preço público:
 
-- **Credituz OS: R$ 297/mês**, com 5 análises de crédito (PF ou PJ), CRM de crédito, cobrança com IA, até 100 cobranças e 3 usuários por mês. Análise adicional: R$ 24,90 (PF) ou R$ 29,90 (PJ). Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
+- **Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal**, com 5 análises de crédito (PF ou PJ), CRM de crédito, cobrança com IA, até 100 cobranças e 3 usuários por mês. Análise adicional: R$ 24,90 (PF) ou R$ 29,90 (PJ). Cada cobrança é uma régua completa com até 3 datas configuráveis em WhatsApp e e-mail.
 
 Volumes maiores e outras funcionalidades (simulação multibanco, pedido de crédito e CRM Corban, operação feita pela Credituz no Service, integrações e módulos sob medida) são definidos com o time comercial da Credituz, durante a qualificação, sem preço publicado na home.
 
@@ -163,7 +163,7 @@ O **Credituz Score (análise avulsa, valor sob consulta)** permanece como porta 
 ## Perguntas frequentes
 
 ### O que está incluído no plano Credituz OS?
-O Credituz OS (R$ 297/mês) reúne análise de crédito, CRM de crédito e cobrança com IA, com 5 análises PF ou PJ e 100 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial.
+O Credituz OS (R$ 297/mês no contrato anual ou R$ 347/mês no mensal) reúne análise de crédito, CRM de crédito e cobrança com IA, com 5 análises PF ou PJ e 100 cobranças por mês para até 3 usuários. Volumes maiores e embedded credit (simulação multibanco, pedido de crédito e CRM Corban) são definidos com o time comercial.
 
 ### O que acontece se eu passar da franquia de análises?
 As 5 análises incluídas podem ser de PF ou PJ e são análises avançadas, com score Boa Vista. Cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ), cobrada na fatura do mês. Análises não usadas não acumulam para o mês seguinte.
@@ -190,7 +190,7 @@ Não. A Credituz é uma solução parceira: o seu ERP e o seu CRM, como Sienge, 
 Na pagadoria da Credituz, cada pagamento de parcela ou aluguel é dividido automaticamente entre os recebedores definidos no contrato, como proprietário, imobiliária, incorporadora, corretor ou parceiro. Cada parte recebe a sua fatia direto, sem repasse manual. Como o valor de terceiros não passa pela conta da sua empresa, ela fatura só a própria taxa ou comissão, o que evita bitributação. O enquadramento fiscal deve ser validado com a sua contabilidade.
 
 ### Quanto custa começar?
-A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
+A análise avulsa no Credituz Score tem valor sob consulta com o time comercial. O Credituz OS custa R$ 297/mês no contrato anual ou R$ 347/mês no mensal com 5 análises PF ou PJ, 100 cobranças e 3 usuários. Volumes maiores e outras funcionalidades são definidos com o nosso time.
 
 ## Diagnóstico gratuito da carteira
 

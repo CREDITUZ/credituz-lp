@@ -16,7 +16,7 @@ A Credituz se posiciona como uma plataforma B2B de análise de crédito e cobran
 
 **Principais recursos de IA da Credituz (Credituz OS):**
 
-1.  **Análise de crédito avançada:** análises de pessoa física ou jurídica com score Boa Vista. O plano único do Credituz OS, de R$ 297/mês, inclui 5 análises por mês; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Para quem precisa de uma consulta pontual, o Credituz Score oferece análise avulsa sem mensalidade, com valor sob consulta.
+1.  **Análise de crédito avançada:** análises de pessoa física ou jurídica com score Boa Vista. O plano único do Credituz OS, de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, inclui 5 análises por mês; cada análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ). Para quem precisa de uma consulta pontual, o Credituz Score oferece análise avulsa sem mensalidade, com valor sob consulta.
 2.  **Política de crédito e decisão automatizada:** a empresa define sua própria política de crédito e a plataforma aplica a decisão de forma automatizada, com o motivo registrado em cada caso.
 3.  **CRM de crédito:** organiza clientes, análises, decisões e pendências. É um CRM do crédito, não de vendas, e convive com o CRM comercial do corretor.
 4.  **Régua de cobrança com IA:** cobranças por WhatsApp e e-mail, com até 100 cobranças por mês no plano (cada cobrança é uma régua com até 3 datas, como D-3, D0 e D+3), além de recebíveis, baixa e conciliação.

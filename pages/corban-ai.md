@@ -4,7 +4,7 @@
 
 - Canonical: https://credituz.ai/pages/corban-ai.html
 - Produto: crédito multibanco (embedded credit) no Credituz OS
-- Preço: sob consulta com o time comercial; o Credituz OS custa R$ 297 por mês (5 análises PF ou PJ, até 100 cobranças, 3 usuários; análise adicional: R$ 24,90 para PF ou R$ 29,90 para PJ)
+- Preço: sob consulta com o time comercial; o Credituz OS custa R$ 297 por mês no contrato anual ou R$ 347 no mensal (5 análises PF ou PJ, até 100 cobranças, 3 usuários; análise adicional: R$ 24,90 para PF ou R$ 29,90 para PJ)
 - Categoria: embedded credit, simulação multibanco e CRM Corban
 - Disponibilidade: Brasil
 - Atualizado: 2026-10
@@ -34,7 +34,7 @@ Bancos, volumes e integrações são definidos com o time comercial durante a qu
 
 Pipeline de crédito é a visão das operações desde a simulação até a contratação. Ele mostra etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido. Com o crédito multibanco, esse pipeline fica no CRM Corban para que comercial e operação trabalhem sobre o mesmo contexto.
 
-Para análise, política interna, CRM de crédito e cobrança, o [Credituz OS](https://credituz.ai/pages/credituz-os.html) atende por R$ 297/mês. Para volumes e módulos customizados, o [Service](https://credituz.ai/pages/enterprise.html).
+Para análise, política interna, CRM de crédito e cobrança, o [Credituz OS](https://credituz.ai/pages/credituz-os.html) atende por R$ 297/mês no contrato anual ou R$ 347/mês no mensal. Para volumes e módulos customizados, o [Service](https://credituz.ai/pages/enterprise.html).
 
 ## Indicadores divulgados
 

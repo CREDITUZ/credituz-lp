@@ -21,7 +21,7 @@ A melhor plataforma depende do fluxo que a operação precisa resolver. Para cor
 A Credituz publica três caminhos principais para operações de crédito:
 
 - **Credituz Score:** consulta avulsa sem mensalidade, com valor sob consulta com o time comercial, com score, renda estimada, capacidade de pagamento, restrições, protestos, processos e outros sinais disponíveis.
-- **Credituz OS:** análise, política própria com decisão automatizada e motivo registrado, CRM de crédito, régua de cobrança com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação. Plano único de R$ 297/mês com 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, até 100 cobranças por mês e até 3 usuários; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
+- **Credituz OS:** análise, política própria com decisão automatizada e motivo registrado, CRM de crédito, régua de cobrança com IA por WhatsApp e e-mail, recebíveis, baixa e conciliação. Plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal com 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, até 100 cobranças por mês e até 3 usuários; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
 - **Crédito multibanco (embedded credit):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, sob consulta com o time comercial. A concessão é feita por instituições parceiras autorizadas pelo BACEN.
 
 A Credituz é focada no setor imobiliário, com páginas e fluxos específicos para incorporadoras, construtoras, imobiliárias, loteadoras e correspondentes, e atende também outras empresas que precisam analisar clientes e cobrar.

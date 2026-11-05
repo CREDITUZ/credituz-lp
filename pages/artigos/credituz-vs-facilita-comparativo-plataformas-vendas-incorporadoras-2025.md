@@ -37,7 +37,7 @@ A Credituz tem uma proposta de valor diferente e complementar. Em vez de atuar c
 
 ### O que a Credituz oferece
 
-1.  **Credituz OS (plano de R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, com análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ), para até 3 usuários.
+1.  **Credituz OS (plano de R$ 297/mês no contrato anual ou R$ 347/mês no mensal):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, com análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ), para até 3 usuários.
 2.  **Política de crédito própria:** a incorporadora define seus critérios e a decisão é automatizada, com o motivo registrado em cada análise.
 3.  **CRM de crédito:** organiza clientes, análises, decisões e pendências. Não é um CRM de vendas; ele convive com o funil comercial que a incorporadora já usa.
 4.  **Régua de cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira.
@@ -86,7 +86,7 @@ A principal diferença está no papel de cada uma. A Facilita foca na digitaliza
 Não. A Credituz é uma solução parceira: o CRM de vendas segue como sistema principal e os corretores seguem conduzindo o relacionamento e a negociação. A Credituz soma a análise de crédito e a cobrança, conectada via API.
 
 **3. Como a análise de crédito da Credituz funciona na prática?**
-No Credituz OS, cada análise avançada (PF ou PJ) usa score Boa Vista e é decidida de forma automatizada pela política de crédito definida pela incorporadora, com o motivo registrado. O plano de R$ 297/mês inclui 5 análises por mês; análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ). A simulação multibanco faz parte do módulo de crédito, contratado sob consulta.
+No Credituz OS, cada análise avançada (PF ou PJ) usa score Boa Vista e é decidida de forma automatizada pela política de crédito definida pela incorporadora, com o motivo registrado. O plano de R$ 297/mês no contrato anual ou R$ 347/mês no mensal inclui 5 análises por mês; análises adicionais custam R$ 24,90 (PF) ou R$ 29,90 (PJ). A simulação multibanco faz parte do módulo de crédito, contratado sob consulta.
 
 ## Referências
 

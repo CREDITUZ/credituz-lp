@@ -26,7 +26,7 @@ Esses fatores ressaltam a importância de plataformas que consigam otimizar cada
 
 A Credituz é uma solução de IA para o setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes), que atende também qualquer empresa que precise analisar clientes e cobrar. Seu foco é dar à empresa uma visão clara do crédito do cliente antes de avançar na venda e no pedido de financiamento, o que ajuda a encaminhar aos bancos propostas com maior chance de **aprovação**.
 
-1.  **Análise de Crédito Avançada:** No **Credituz OS** (plano único de R$ 297/mês), a empresa faz 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
+1.  **Análise de Crédito Avançada:** No **Credituz OS** (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal), a empresa faz 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análise adicional custa R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2.  **Política de Crédito Própria:** A empresa define suas regras e a decisão é automatizada, com o motivo registrado, o que torna o processo mais consistente e auditável.
 3.  **Crédito Multibanco:** Sob consulta com o time comercial, a Credituz oferece simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação. Os financiamentos são feitos por parceiros autorizados pelo BACEN; a Credituz não realiza atividade privativa de instituição financeira.
 4.  **Depois da Venda:** O Credituz OS inclui CRM de crédito, régua de cobrança com IA por WhatsApp e e-mail (até 100 cobranças por mês), recebíveis, baixa, conciliação e analytics da carteira.
@@ -56,14 +56,14 @@ Para entender qual plataforma pode oferecer uma melhor **taxa de aprovação**, 
 | **Personalização**         | Alta (política de crédito definida pela empresa) | Atendimento consultivo                     |
 | **Abrangência de Parceiros** | Em crescimento (financiamentos por parceiros autorizados pelo BACEN) | Vasta (rede consolidada de bancos)             |
 | **Pós-venda**              | Régua de cobrança com IA, recebíveis e conciliação | Não é o foco                                |
-| **Preço**                  | Credituz OS: R$ 297/mês; Credituz Score e crédito multibanco sob consulta | Consulte o fornecedor                        |
+| **Preço**                  | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal; Credituz Score e crédito multibanco sob consulta | Consulte o fornecedor                        |
 | **Suporte ao Cliente**     | Digital, com suporte humano; Service sob consulta | Consultoria especializada e atendimento humano |
 
 A Credituz busca melhorar a **taxa de aprovação** atuando antes do pedido: a empresa conhece o perfil de crédito do cliente e decide com base em uma política clara. A Boa Compra oferece um portfólio amplo de bancos parceiros e atendimento consultivo. Nos dois casos, a decisão final de financiamento é sempre da instituição financeira.
 
 ### Conclusão: Escolhendo a Plataforma Ideal para sua Taxa de Aprovação
 
-A escolha entre Credituz e Boa Compra dependerá das prioridades de cada profissional ou empresa do setor imobiliário. Se o objetivo é analisar o crédito dos clientes com IA, decidir com base em uma política própria e acompanhar a cobrança depois da venda, a Credituz apresenta uma proposta de valor clara, com o Credituz OS a R$ 297/mês e o crédito multibanco sob consulta.
+A escolha entre Credituz e Boa Compra dependerá das prioridades de cada profissional ou empresa do setor imobiliário. Se o objetivo é analisar o crédito dos clientes com IA, decidir com base em uma política própria e acompanhar a cobrança depois da venda, a Credituz apresenta uma proposta de valor clara, com o Credituz OS a R$ 297/mês no contrato anual ou R$ 347/mês no mensal e o crédito multibanco sob consulta.
 
 Por outro lado, se a preferência é por uma plataforma com uma rede de parceiros bancários já estabelecida e um atendimento mais consultivo, a Boa Compra pode ser uma boa opção.
 

@@ -48,7 +48,7 @@ Indicada para imobiliárias que priorizam comunicação em larga escala via What
 A Credituz é uma solução especializada no setor imobiliário brasileiro (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes) e atende também qualquer empresa que precise analisar clientes e cobrar. Ela não é uma ferramenta de atendimento de leads nem um CRM de vendas: é solução parceira dos CRMs e ERPs que a empresa já usa, conectando-se via API para somar análise de crédito e régua de cobrança com IA.
 
 ### O que a Credituz entrega
-No **Credituz OS**, plano único de R$ 297/mês:
+No **Credituz OS**, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal:
 *   **Análise de crédito avançada:** 5 análises por mês, de pessoa física ou jurídica, com score Boa Vista. Análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
 *   **Política de crédito própria:** a empresa define as regras e a decisão é automatizada, com o motivo registrado.
 *   **CRM de crédito:** clientes, análises, decisões e pendências organizados (não substitui o CRM de vendas).
@@ -73,7 +73,7 @@ Kommo e Wati cuidam da conversa: atendimento, funil de vendas, campanhas e caixa
 | **Caixa de Entrada Compartilhada** | Não é o foco | Sim | Sim |
 | **Integração com CRM e ERP** | Via API, sem substituir os sistemas existentes | Integrações e customização | Integrações e API |
 | **Analytics** | Carteira de crédito e cobrança | Relatórios de CRM | Relatórios de uso da API |
-| **Preço** | Credituz OS: R$ 297/mês | Consulte o fornecedor | Consulte o fornecedor |
+| **Preço** | Credituz OS: R$ 297/mês no contrato anual ou R$ 347/mês no mensal | Consulte o fornecedor | Consulte o fornecedor |
 
 ## Conclusão: Como Combinar as Soluções na Sua Imobiliária
 A escolha da plataforma de automação de WhatsApp deve considerar as prioridades da sua imobiliária. A Kommo é um CRM conversacional robusto para comunicação multicanal e automação de vendas. A Wati é especialista em WhatsApp Business API, oferecendo ferramentas para engajamento massivo e atendimento colaborativo.

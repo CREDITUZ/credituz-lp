@@ -33,7 +33,7 @@ Apesar de sua versatilidade, o ChatGPT apresenta limitações. Por ser um modelo
 
 A Credituz é uma plataforma de análise de crédito e cobrança com inteligência artificial, projetada para o setor imobiliário (construtoras, incorporadoras, imobiliárias, loteadoras e correspondentes). Ela não é um chatbot de atendimento nem um CRM de vendas: conecta-se via API ao CRM e ao ERP que a empresa já usa e entra quando o lead precisa ter o crédito avaliado.
 
-No **Credituz OS** (plano único de R$ 297/mês), a empresa conta com:
+No **Credituz OS** (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal), a empresa conta com:
 
 *   **Análise de Crédito Avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; análise adicional por R$ 24,90 (PF) ou R$ 29,90 (PJ).
 *   **Política de Crédito Própria:** decisão automatizada com base nos critérios da empresa, com o motivo registrado.

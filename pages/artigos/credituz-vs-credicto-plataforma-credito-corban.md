@@ -22,7 +22,7 @@ A Credituz é uma plataforma de crédito com IA focada no setor imobiliário (co
 
 As principais frentes da Credituz incluem:
 
-1.  **Credituz OS (plano de R$ 297/mês):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ), política de crédito própria e decisão automatizada com o motivo registrado, para até 3 usuários.
+1.  **Credituz OS (plano de R$ 297/mês no contrato anual ou R$ 347/mês no mensal):** 5 análises de crédito avançadas por mês (PF ou PJ) com score Boa Vista, análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ), política de crédito própria e decisão automatizada com o motivo registrado, para até 3 usuários.
 2.  **CRM de crédito:** organiza clientes, análises, decisões e pendências de documentação. Não é um CRM de vendas; ele registra a trilha do crédito de cada cliente.
 3.  **Régua de cobrança com IA:** até 100 cobranças por mês por WhatsApp e e-mail, cada uma com até 3 datas (por exemplo D-3, D0 e D+3), além de recebíveis, baixa, conciliação e analytics da carteira.
 4.  **Crédito multibanco (sob consulta):** simulação multibanco, pedido de crédito e CRM Corban para acompanhar a originação, contratados com o time comercial.
@@ -57,7 +57,7 @@ Para auxiliar os CORBANs na decisão entre Credituz e Credicto, apresentamos uma
 | **Suporte Bancário**        | Via parceiros autorizados pelo BACEN, com acompanhamento no CRM Corban | Direto via especialistas e gerente dedicado |
 | **Documentação**            | Pendências registradas no CRM de crédito | Agilizada, checklist inteligente |
 | **Público-alvo**            | Construtoras, incorporadoras, imobiliárias, loteadoras, correspondentes | CORBANs, imobiliárias, seguros, consultores financeiros, AAI |
-| **Modelo de Negócio**       | Credituz OS a R$ 297/mês; Score avulso, crédito multibanco e Service sob consulta | Assinatura (subscription fee), alto comissionamento |
+| **Modelo de Negócio**       | Credituz OS a R$ 297/mês no contrato anual ou R$ 347/mês no mensal; Score avulso, crédito multibanco e Service sob consulta | Assinatura (subscription fee), alto comissionamento |
 | **Diferencial Competitivo** | Análise, política e cobrança com IA em uma camada que se conecta aos sistemas existentes | Autonomia e suporte direto aos bancos |
 
 ## Conclusão: Escolhendo a Plataforma Ideal para o Seu Negócio CORBAN

@@ -43,7 +43,7 @@ A Credituz se posiciona nessa transformação com uma plataforma de análise de 
 4.  **Minimização de Vieses**: a decisão baseada em regras claras e registradas reduz a subjetividade humana, promovendo uma avaliação mais imparcial, consistente e auditável.
 5.  **Gestão da Carteira e Cobrança**: o CRM de crédito organiza clientes, análises, decisões e pendências; a régua de cobrança com IA por WhatsApp e e-mail, com baixa e conciliação dos recebíveis, e o analytics da carteira ajudam a identificar riscos de forma proativa depois da venda.
 
-Tudo isso está no **Credituz OS**, plano único de R$ 297/mês, com 5 análises incluídas por mês (análise adicional por R$ 24,90 PF ou R$ 29,90 PJ), até 100 cobranças por mês e até 3 usuários. Para análises pontuais, o **Credituz Score** oferece análise avulsa sem mensalidade, com valor sob consulta. Quando o cliente precisa de financiamento, o crédito multibanco da Credituz está disponível sob consulta; a Credituz não realiza atividade privativa de instituição financeira, e os financiamentos são feitos por parceiros autorizados pelo BACEN.
+Tudo isso está no **Credituz OS**, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, com 5 análises incluídas por mês (análise adicional por R$ 24,90 PF ou R$ 29,90 PJ), até 100 cobranças por mês e até 3 usuários. Para análises pontuais, o **Credituz Score** oferece análise avulsa sem mensalidade, com valor sob consulta. Quando o cliente precisa de financiamento, o crédito multibanco da Credituz está disponível sob consulta; a Credituz não realiza atividade privativa de instituição financeira, e os financiamentos são feitos por parceiros autorizados pelo BACEN.
 
 ### Tabela Comparativa: Credituz vs. Soluções Tradicionais
 

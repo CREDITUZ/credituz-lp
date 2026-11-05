@@ -28,7 +28,7 @@ Para incorporadoras, a Credituz resolve problemas crônicos do setor na etapa de
 
 #### O que a Credituz oferece
 
-O Credituz OS, plano único de R$ 297/mês, reúne:
+O Credituz OS, plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal, reúne:
 1. **Análise de crédito avançada:** 5 análises por mês (PF ou PJ) com score Boa Vista; análise adicional a R$ 24,90 (PF) ou R$ 29,90 (PJ).
 2. **Política de crédito própria:** a incorporadora define seus critérios e a decisão é automatizada, com o motivo registrado.
 3. **CRM de crédito:** clientes, análises, decisões e pendências. Não é um CRM de vendas; convive com o CRM comercial.
