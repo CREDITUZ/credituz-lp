@@ -9,6 +9,7 @@
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html) — análise, política de crédito, CRM de crédito, cobrança e recebíveis.
 - [Embedded credit](https://credituz.ai/pages/corban-ai.html): simulação multibanco, pedido de crédito e CRM Corban, sob consulta com o time comercial
 - [Credituz Service](https://credituz.ai/pages/enterprise.html): produtos combinados, contratos, assinatura, cartório digital, API, White Label, SSO e soluções sob medida.
+- [White Label](https://credituz.ai/white-label.html): o parceiro oferece a plataforma (CRM, simulação de crédito multibanco, contratos e cobrança) com a própria marca; a originação de crédito é feita pela Credituz como correspondente bancário. Linhas incluídas: financiamento imobiliário, crédito para construção, home equity e auto equity. Consórcio, carta de crédito contemplada, crédito pessoal e capital de giro não fazem parte da oferta padrão.
 - [Credituz Score](https://credituz.ai/pages/credituz-score.html) — análise avulsa sem mensalidade.
 
 - Canonical: https://credituz.ai/
