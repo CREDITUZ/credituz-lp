@@ -17,7 +17,7 @@
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo
 - [Embedded credit em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico em texto limpo
 - [Service em Markdown](https://credituz.ai/pages/enterprise.md): escopo canônico da oferta em texto limpo
-- [Blog Credituz](https://credituz.ai/pages/blog.html): 134 artigos sobre IA, crédito e gestão imobiliária
+- [Blog Credituz](https://credituz.ai/pages/blog.html): 135 artigos sobre IA, crédito e gestão imobiliária
 - [Pedro Braz, autor](https://credituz.ai/pages/autores/pedro-braz.html): CEO e fundador da Credituz, formação, reconhecimentos e artigos assinados
 - [Glossário Credituz](https://credituz.ai/pages/glossario.html): 55+ termos de mercado imobiliário, crédito e IA (GEO/AEO/AIO)
 - [Versão markdown do glossário](https://credituz.ai/pages/glossario.md): glossário em texto limpo para IA
@@ -96,6 +96,7 @@
 
 ## Crédito & Financiamento
 
+- [Itaú entra no Minha Casa, Minha Vida: o que muda para quem vende imóvel financiado](https://credituz.ai/pages/artigos/itau-minha-casa-minha-vida-credito-multibanco.html): O Itaú confirmou a entrada no programa pela Faixa 3 e pela linha Pró-Cotista. Com Caixa, Banco do Brasil e Itaú disputando o mesmo comprador, comparar bancos passou a fazer diferença, e a plataforma multibanco da Credituz ajuda a levar cada cliente à condição que mais combina com o perfil dele.
 - [Como oferecer financiamento multibanco dentro da jornada de compra de um imóvel](https://credituz.ai/pages/artigos/financiamento-multibanco-jornada-compra-imovel.html): O que é crédito incorporado à venda imobiliária, como funciona a simulação em vários bancos com pedido, documentos e status num CRM próprio, e quando faz sentido encaminhar o cliente para fora.
 - [Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário](https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html): O que o Credituz OS faz, do cadastro do comprador à cobrança da parcela, como ele se conecta ao ERP e ao CRM, quanto custa e quando outra solução faz mais sentido.
 - [Análise de risco na venda direta de imóveis: guia para incorporadoras](https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html): O que avaliar no comprador quando a incorporadora ou loteadora financia a venda, e como transformar isso em política, decisão e cobrança.

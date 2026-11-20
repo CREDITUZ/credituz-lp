@@ -170,7 +170,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 # Blog Credituz — Conteúdo completo
 
-> 134 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
+> 135 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
 
 
 ## Tecnologia & IA
@@ -512,6 +512,13 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 ## Crédito & Financiamento
 
+
+### Itaú entra no Minha Casa, Minha Vida: o que muda para quem vende imóvel financiado
+- URL: https://credituz.ai/pages/artigos/itau-minha-casa-minha-vida-credito-multibanco.html
+- Markdown: https://credituz.ai/pages/artigos/itau-minha-casa-minha-vida-credito-multibanco.md
+- Autor: Pedro Braz (https://credituz.ai/pages/autores/pedro-braz.html)
+- Resumo: O Itaú confirmou a entrada no programa pela Faixa 3 e pela linha Pró-Cotista. Com Caixa, Banco do Brasil e Itaú disputando o mesmo comprador, comparar bancos passou a fazer diferença, e a plataforma multibanco da Credituz ajuda a levar cada cliente à condição que mais combina com o perfil dele.
+- P: Quais faixas o Itaú atende no Minha Casa, Minha Vida? R: Segundo o banco (20/11/2026), a Faixa 3, para renda de R$ 5 mil a R$ 9,6 mil, e a linha Pró-Cotista, para renda de até R$ 12 mil, com oferta gradual e sujeita à análise de elegibilidade.
 
 ### Como oferecer financiamento multibanco dentro da jornada de compra de um imóvel
 - URL: https://credituz.ai/pages/artigos/financiamento-multibanco-jornada-compra-imovel.html
