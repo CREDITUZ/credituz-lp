@@ -17,7 +17,8 @@
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo
 - [Embedded credit em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico em texto limpo
 - [Service em Markdown](https://credituz.ai/pages/enterprise.md): escopo canônico da oferta em texto limpo
-- [Blog Credituz](https://credituz.ai/pages/blog.html): 127 artigos sobre IA, crédito e gestão imobiliária
+- [Blog Credituz](https://credituz.ai/pages/blog.html): 128 artigos sobre IA, crédito e gestão imobiliária
+- [Pedro Braz, autor](https://credituz.ai/pages/autores/pedro-braz.html): CEO e fundador da Credituz, formação, reconhecimentos e artigos assinados
 - [Glossário Credituz](https://credituz.ai/pages/glossario.html): 55+ termos de mercado imobiliário, crédito e IA (GEO/AEO/AIO)
 - [Versão markdown do glossário](https://credituz.ai/pages/glossario.md): glossário em texto limpo para IA
 - [Home em inglês](https://credituz.ai/home.en.md): English version of the homepage
@@ -94,6 +95,7 @@
 
 ## Crédito & Financiamento
 
+- [Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário](https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html): O que o Credituz OS faz, do cadastro do comprador à cobrança da parcela, como ele se conecta ao ERP e ao CRM, quanto custa e quando outra solução faz mais sentido.
 - [Análise de risco na venda direta de imóveis: guia para incorporadoras](https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html): O que avaliar no comprador quando a incorporadora ou loteadora financia a venda, e como transformar isso em política, decisão e cobrança.
 - [Análise de crédito para loteamentos: critérios, política e carteira](https://credituz.ai/pages/artigos/analise-de-credito-para-loteamentos.html): Como loteadoras que parcelam lotes por prazos longos podem aprovar com critério, decidir em minutos e cuidar da carteira até a quitação.
 - [Empresas que fazem análise de crédito: tipos e como escolher](https://credituz.ai/pages/artigos/empresas-de-analise-de-credito-como-escolher.html): Birôs, plataformas de decisão, BPO e consultorias: o que cada tipo entrega, quando usar e o que perguntar antes de contratar.

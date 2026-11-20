@@ -240,6 +240,22 @@
         },
         {
           "@type": "Question",
+          "name": "Quais dados a análise de crédito da Credituz consulta?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A análise reúne em um único relatório score e dados de birô com score Boa Vista, endividamento no SCR do Banco Central, protestos, restrições como PEFIN e REFIN, processos judiciais e listas de PEP e de sanções. Cada análise pode ser de pessoa física ou jurídica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Posso usar a política de crédito da minha empresa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. A empresa define as regras, como entrada mínima, comprometimento de renda e restrições aceitas, e o Credituz OS aplica essa política em cada análise. Os casos dentro da política são decididos em minutos e as exceções seguem para decisão humana, com tudo registrado no CRM de crédito."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "Quanto custa o Credituz OS?",
           "acceptedAnswer": {
             "@type": "Answer",
