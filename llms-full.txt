@@ -26,7 +26,7 @@ A Credituz atende empresas que precisam tomar decisões de crédito, automatizar
 
 **Chamada da home:** “O time de crédito e cobrança da sua operação imobiliária.”
 
-**Título da home:** “Análise e decisão de crédito com IA.”
+**Título da home:** “Análise de crédito, cobrança e financiamento com IA.”
 
 **Subtítulo:** “Analise clientes, organize sua operação de crédito, automatize cobranças e ofereça crédito multibanco com IA usando o Credituz OS.”
 
