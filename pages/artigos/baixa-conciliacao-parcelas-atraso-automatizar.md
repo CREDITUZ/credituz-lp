@@ -20,9 +20,9 @@ Em muitas incorporadoras, loteadoras e imobiliárias, a rotina é assim: o finan
 
 Os problemas aparecem rápido:
 
-* **Cliente cobrado depois de pagar.** Gera reclamação e desgasta o relacionamento.
-* **Atraso que ninguém vê.** A planilha atrasa dias em relação ao banco.
-* **Retrabalho todo mês.** A conciliação depende de uma pessoa e de horas de conferência.
+- **Cliente cobrado depois de pagar.** Gera reclamação e desgasta o relacionamento.
+- **Atraso que ninguém vê.** A planilha atrasa dias em relação ao banco.
+- **Retrabalho todo mês.** A conciliação depende de uma pessoa e de horas de conferência.
 
 ## O passo a passo da automação
 
@@ -56,9 +56,9 @@ Quando uma parcela ou um aluguel precisa ser dividido entre proprietário, incor
 
 ## Quando outra solução faz mais sentido
 
-* **Só emitir boleto e Pix:** se a empresa já tem análise, régua e acompanhamento resolvidos, um emissor de cobranças pode bastar.
-* **ERP com conciliação bancária completa:** se o ERP já concilia extrato e parcelas bem, vale integrar a régua a ele em vez de trocar o processo.
-* **Carteira muito pequena:** com poucos contratos, uma planilha bem cuidada ainda funciona. O limite aparece quando a carteira cresce.
+- **Só emitir boleto e Pix:** se a empresa já tem análise, régua e acompanhamento resolvidos, um emissor de cobranças pode bastar.
+- **ERP com conciliação bancária completa:** se o ERP já concilia extrato e parcelas bem, vale integrar a régua a ele em vez de trocar o processo.
+- **Carteira muito pequena:** com poucos contratos, uma planilha bem cuidada ainda funciona. O limite aparece quando a carteira cresce.
 
 O Credituz OS faz mais sentido quando cobrança, baixa e acompanhamento precisam conversar com a análise de crédito e com a política da empresa.
 

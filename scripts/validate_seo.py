@@ -194,8 +194,8 @@ def main():
         "STATIC_ARTICLES_END", 1
     )[0]
     static_cards = len(re.findall(r'<a class="card" href="artigos/', static_section))
-    if static_cards != 130:
-        errors.append(f"blog deve pré-renderizar 130 cards; encontrou {static_cards}")
+    if static_cards != 134:
+        errors.append(f"blog deve pré-renderizar 134 cards; encontrou {static_cards}")
     if "STATIC_ARTICLES_START" not in blog or "STATIC_ARTICLES_END" not in blog:
         errors.append("marcadores do índice estático do blog ausentes")
 

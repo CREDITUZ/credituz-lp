@@ -44,18 +44,18 @@ A ficha, os documentos e o histórico ficam no CRM de crédito. O ERP e o CRM co
 
 ## O que muda na operação
 
-* **O corretor não vira despachante de documentos.** Ele indica o cliente e volta a vender.
-* **O backoffice para de conferir arquivo por arquivo.** Recebe a ficha completa, pronta para análise.
-* **O cliente sabe o que falta.** A lista chega na hora, na conversa que ele já usa.
-* **A gestão vê onde cada cadastro parou.** Pendências ficam visíveis em vez de espalhadas em celulares.
+- **O corretor não vira despachante de documentos.** Ele indica o cliente e volta a vender.
+- **O backoffice para de conferir arquivo por arquivo.** Recebe a ficha completa, pronta para análise.
+- **O cliente sabe o que falta.** A lista chega na hora, na conversa que ele já usa.
+- **A gestão vê onde cada cadastro parou.** Pendências ficam visíveis em vez de espalhadas em celulares.
 
 ## Quando uma ferramenta de verificação de identidade faz mais sentido
 
 Plataformas especializadas em verificação de identidade e prevenção a fraude, como as de biometria facial e checagem de documentos em massa, atendem bancos, fintechs e varejo com volumes muito altos. Elas fazem mais sentido quando:
 
-* a empresa precisa de prova de vida e biometria em escala;
-* o foco é onboarding digital de milhares de clientes por dia, fora do setor imobiliário;
-* o fluxo de crédito e cobrança já está resolvido em outro sistema.
+- a empresa precisa de prova de vida e biometria em escala;
+- o foco é onboarding digital de milhares de clientes por dia, fora do setor imobiliário;
+- o fluxo de crédito e cobrança já está resolvido em outro sistema.
 
 O Credituz OS faz mais sentido quando o cadastro é a porta de entrada de uma esteira imobiliária: cadastro, análise, política de crédito, decisão, cobrança e repasse no mesmo produto.
 
