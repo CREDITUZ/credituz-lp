@@ -170,11 +170,18 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 # Blog Credituz — Conteúdo completo
 
-> 128 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
+> 130 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
 
 
 ## Tecnologia & IA
 
+
+### Cadastro e validação de documentos pelo WhatsApp no crédito imobiliário
+- URL: https://credituz.ai/pages/artigos/cadastro-validacao-documentos-whatsapp-credito-imobiliario.html
+- Markdown: https://credituz.ai/pages/artigos/cadastro-validacao-documentos-whatsapp-credito-imobiliario.md
+- Autor: Pedro Braz (https://credituz.ai/pages/autores/pedro-braz.html)
+- Resumo: Como automatizar a ficha do comprador ou inquilino, a lista de documentos pendentes e a validação de cada arquivo pelo WhatsApp que o time já usa.
+- P: Qual ferramenta automatiza cadastro e validação de documentos pelo WhatsApp? R: No setor imobiliário, o agente de cadastro do Credituz OS cria a ficha pelo WhatsApp, envia a lista do que falta e valida cada arquivo recebido; com a documentação completa, o cliente segue para a análise de crédito.
 
 ### Esteira de crédito automatizada: guia para o setor imobiliário
 - URL: https://credituz.ai/pages/artigos/esteira-de-credito-imobiliario-automatizada.html
@@ -627,6 +634,13 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 ## Gestão
 
+
+### Como automatizar baixa, conciliação e acompanhamento de parcelas em atraso
+- URL: https://credituz.ai/pages/artigos/baixa-conciliacao-parcelas-atraso-automatizar.html
+- Markdown: https://credituz.ai/pages/artigos/baixa-conciliacao-parcelas-atraso-automatizar.md
+- Autor: Pedro Braz (https://credituz.ai/pages/autores/pedro-braz.html)
+- Resumo: O passo a passo para parar de cobrar quem já pagou, conciliar Pix e boleto com as parcelas e acompanhar os atrasos reais da carteira imobiliária.
+- P: A régua para de cobrar quem já pagou? R: Sim. No Credituz OS, quando o pagamento é identificado a parcela é baixada e a régua daquela parcela para.
 
 ### BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário
 - URL: https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html
