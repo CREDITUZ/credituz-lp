@@ -1,6 +1,6 @@
-# Credituz — AI-powered credit analysis and decision platform
+# Credituz — AI-powered credit analysis, collections, and financing platform
 
-> Credituz is an AI-powered credit analysis and decision platform for businesses. Credituz OS connects analysis, credit policy, decisioning, CRM, collections, and receivables; Credituz Score enables standalone analyses; and CORBAN AI supports multi-bank simulation and origination.
+> Credituz is an AI-powered credit analysis, collections, and financing platform for businesses. Credituz OS connects analysis, credit policy, decisioning, CRM, collections, and receivables; Credituz Score enables standalone analyses; and CORBAN AI supports multi-bank simulation and origination.
 
 - Canonical: https://credituz.ai/en/
 - Language: en-US

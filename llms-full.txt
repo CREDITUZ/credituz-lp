@@ -1,6 +1,6 @@
-# Credituz — Plataforma de análise e decisão de crédito com IA
+# Credituz — Plataforma de análise de crédito, cobrança e financiamento com IA
 
-> A Credituz é uma plataforma de análise e decisão de crédito com IA. O fluxo principal é Análise → Política → Decisão → CRM → Monitoramento → Cobrança. O Credituz Score permite consultas avulsas e o embedded credit, sob consulta, soma simulação e originação multibanco.
+> A Credituz é uma plataforma de análise de crédito, cobrança e financiamento com IA. O fluxo principal é Análise → Política → Decisão → CRM → Monitoramento → Cobrança. O Credituz Score permite consultas avulsas e o embedded credit, sob consulta, soma simulação e originação multibanco.
 
 ## Páginas canônicas dos produtos
 

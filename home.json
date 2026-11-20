@@ -22,7 +22,7 @@
         "postalCode": "01452-001",
         "addressCountry": "BR"
       },
-      "description": "Plataforma de análise e decisão de crédito com IA para empresas, com política de crédito, CRM, monitoramento, cobrança e embedded credit.",
+      "description": "Plataforma de análise de crédito, cobrança e financiamento com IA para empresas, com política de crédito, CRM, monitoramento e embedded credit.",
       "foundingDate": "2023",
       "founder": [
         {
@@ -79,7 +79,7 @@
       "url": "https://credituz.ai/",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web",
-      "description": "Plataforma de análise e decisão de crédito com IA. O Credituz OS (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal) reúne análise, política de crédito, decisão, CRM e cobrança; simulação e pedido de crédito multibanco e o Service, com a operação de análise e cobrança feita pela Credituz, com integrações e fluxos customizados.",
+      "description": "Plataforma de análise de crédito, cobrança e financiamento com IA. O Credituz OS (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal) reúne análise, política de crédito, decisão, CRM e cobrança; simulação e pedido de crédito multibanco e o Service, com a operação de análise e cobrança feita pela Credituz, com integrações e fluxos customizados.",
       "publisher": {
         "@id": "https://credituz.ai/#organization"
       },

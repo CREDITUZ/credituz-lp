@@ -1,6 +1,6 @@
 # Credituz
 
-> Plataforma de análise e decisão de crédito com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e embedded credit para originação multibanco, sob consulta com o time comercial.
+> Plataforma de análise de crédito, cobrança e financiamento com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e embedded credit para originação multibanco, sob consulta com o time comercial.
 
 ## Principais páginas
 

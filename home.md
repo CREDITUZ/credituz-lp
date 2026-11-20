@@ -1,6 +1,6 @@
-# Credituz — Plataforma de análise e decisão de crédito com IA
+# Credituz — Plataforma de análise de crédito, cobrança e financiamento com IA
 
-> A Credituz é uma plataforma de análise e decisão de crédito com IA. O Credituz OS é o produto único que conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis em um único plano com preço público (R$ 297/mês no contrato anual ou R$ 347/mês no mensal), com módulos adicionais sob consulta; o Credituz Score é uma consulta avulsa para quem ainda não precisa de recorrência.
+> A Credituz é uma plataforma de análise de crédito, cobrança e financiamento com IA. O Credituz OS é o produto único que conecta análise, política de crédito, decisão, CRM, cobrança e recebíveis em um único plano com preço público (R$ 297/mês no contrato anual ou R$ 347/mês no mensal), com módulos adicionais sob consulta; o Credituz Score é uma consulta avulsa para quem ainda não precisa de recorrência.
 
 - Canonical: https://credituz.ai/
 - Language: pt-BR
