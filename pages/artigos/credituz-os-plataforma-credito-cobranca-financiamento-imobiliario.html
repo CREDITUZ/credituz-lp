@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Credituz OS: crédito, cobrança e financiamento · Credituz</title>
+<meta name="description" content="Como o Credituz OS une análise de crédito, política, decisão, cobrança com IA e crédito multibanco para o setor imobiliário, com preços e alternativas.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html">
+<link rel="alternate" type="text/markdown" href="https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.md">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário">
+<meta property="og:description" content="Como o Credituz OS une análise de crédito, política, decisão, cobrança com IA e crédito multibanco para o setor imobiliário, com preços e alternativas.">
+<meta property="og:url" content="https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html">
+<meta property="og:image" content="https://credituz.ai/assets/credituz-ai.png">
+<meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="2026-11-20">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário", "description": "Como o Credituz OS une análise de crédito, política, decisão, cobrança com IA e crédito multibanco para o setor imobiliário, com preços e alternativas.", "datePublished": "2026-11-20", "dateModified": "2026-11-20", "inLanguage": "pt-BR", "mainEntityOfPage": "https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html", "image": "https://credituz.ai/assets/credituz-ai.png", "author": {"@type": "Person", "@id": "https://credituz.ai/pages/autores/pedro-braz.html#pessoa", "name": "Pedro Braz", "url": "https://credituz.ai/pages/autores/pedro-braz.html", "jobTitle": "CEO & Founder da Credituz", "sameAs": ["https://www.linkedin.com/in/pedrohbraz/"]}, "publisher": {"@type": "Organization", "name": "Credituz", "url": "https://credituz.ai/", "logo": {"@type": "ImageObject", "url": "https://credituz.ai/icon-512.png"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "O Credituz OS substitui o meu ERP ou CRM?", "acceptedAnswer": {"@type": "Answer", "text": "Não. O ERP e o CRM continuam sendo os sistemas de gestão da empresa. O Credituz OS se conecta a eles via API para somar análise de crédito e cobrança com IA, sem migração de dados."}}, {"@type": "Question", "name": "Quais dados a análise de crédito consulta?", "acceptedAnswer": {"@type": "Answer", "text": "Score e dados de birô com score Boa Vista, endividamento no SCR do Banco Central, protestos, restrições como PEFIN e REFIN, processos judiciais e listas de PEP e de sanções, em um único relatório."}}, {"@type": "Question", "name": "A decisão de crédito é automática?", "acceptedAnswer": {"@type": "Answer", "text": "Os casos dentro da política de crédito definida pela empresa são decididos em minutos. As exceções seguem para decisão humana, e toda decisão fica registrada no CRM de crédito."}}, {"@type": "Question", "name": "Quanto custa o Credituz OS?", "acceptedAnswer": {"@type": "Answer", "text": "R$ 297 por mês no contrato anual ou R$ 347 no mensal, com 5 análises avançadas, até 100 cobranças por mês e 3 usuários. Cada análise extra custa R$ 24,90 (PF) ou R$ 29,90 (PJ)."}}, {"@type": "Question", "name": "A Credituz faz financiamento com mais de um banco?", "acceptedAnswer": {"@type": "Answer", "text": "Sim. A simulação e o pedido de crédito multibanco, com acompanhamento no CRM Corban, são contratados sob consulta com o time comercial."}}]}
+</script>
+<style>
+:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.answer-box { background:var(--paper-warm); border-radius:20px; padding:24px; margin:0 0 38px; }
+.answer-box h2 { font-size:24px; margin:0 0 12px; }
+.answer-box p:last-child { margin-bottom:0; }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:19px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="/pages/blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Crédito &amp; Financiamento</span>
+        <span>20 nov 2026</span>
+        <span>7 min</span>
+    </div>
+    <h1 class="title">Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário</h1>
+    <p class="article-sub">O que o Credituz OS faz, do cadastro do comprador à cobrança da parcela, como ele se conecta ao ERP e ao CRM, quanto custa e quando outra solução faz mais sentido.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong><a href="/pages/autores/pedro-braz.html" rel="author" style="color:inherit;text-decoration:none">Pedro Braz</a></strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<section class="answer-box" aria-labelledby="resposta-credituz-os-plataforma-credito-cobranca-financiamento-imobiliario"><h2 id="resposta-credituz-os-plataforma-credito-cobranca-financiamento-imobiliario">O que é o Credituz OS?</h2><p><strong>O Credituz OS é a plataforma da Credituz que reúne análise de crédito, política de crédito, decisão, CRM de crédito e cobrança com IA para empresas do setor imobiliário.</strong> Ele atende incorporadoras, construtoras, loteadoras, imobiliárias e correspondentes. Custa R$ 297 por mês no contrato anual ou R$ 347 no mensal, com 5 análises avançadas com score Boa Vista e até 100 cobranças por mês. Ele se conecta ao ERP e ao CRM que a empresa já usa, como Sienge e CV CRM, sem substituí-los.</p></section>
+
+<h2>O problema que ele resolve</h2>
+<p>Em boa parte das operações imobiliárias, crédito e cobrança vivem em lugares diferentes. A consulta do comprador é feita em um birô, a decisão fica num e-mail, o contrato vai para o ERP e a parcela é acompanhada em planilha. Cada passagem de bastão é uma chance de erro, de atraso e de aprovar quem não deveria.</p>
+<p>O Credituz OS junta essas etapas em um fluxo só. A mesma ficha do cliente carrega a análise, a decisão, o contrato e o histórico de pagamento. Quando a parcela atrasa, quem cobra sabe como aquele cliente foi aprovado.</p>
+<h2>Como funciona, etapa por etapa</h2>
+<h3>1. Cadastro e análise de crédito</h3>
+<p>A análise reúne em um relatório as fontes que a mesa de crédito costuma consultar uma a uma:</p>
+<ul>
+<li>score e dados de birô, com score Boa Vista;</li>
+<li>endividamento no SCR do Banco Central;</li>
+<li>protestos e restrições como PEFIN e REFIN;</li>
+<li>processos judiciais;</li>
+<li>listas de Pessoas Expostas Politicamente e de sanções.</li>
+</ul>
+<p>Cada análise pode ser de pessoa física ou de pessoa jurídica.</p>
+<h3>2. Política de crédito própria</h3>
+<p>A empresa define as regras: entrada mínima, comprometimento de renda, restrições aceitas, limites por empreendimento. O Credituz OS aplica essa política em cada análise. Os casos que estão dentro da política são decididos em minutos. As exceções seguem para decisão humana, o que libera o analista para os casos que pedem julgamento.</p>
+<h3>3. Decisão e CRM de crédito</h3>
+<p>A decisão fica registrada no CRM de crédito, junto com a análise que a sustentou. Isso organiza a carteira por cliente, empreendimento e situação, e dá rastreabilidade quando alguém pergunta por que um comprador foi aprovado.</p>
+<h3>4. Cobrança com IA</h3>
+<p>Na Credituz, uma cobrança é uma régua completa, e não uma mensagem isolada. Cada cobrança tem até três datas configuráveis, como D-3, D0 e D+3, em WhatsApp e e-mail. O lembrete leva o Pix ou o boleto atualizado, e a baixa e a conciliação das parcelas acompanham o pagamento.</p>
+<h3>5. Split de pagamento</h3>
+<p>Na pagadoria da Credituz, cada pagamento de parcela ou aluguel pode ser dividido automaticamente entre os recebedores definidos no contrato, como proprietário, incorporadora, imobiliária, corretor ou parceiro. Como o valor de terceiros não passa pela conta da empresa, ela fatura só a própria taxa ou comissão, o que evita bitributação. O enquadramento fiscal deve ser validado com a contabilidade.</p>
+<h3>6. Crédito multibanco</h3>
+<p>Para quem vende com financiamento bancário, a Credituz oferece simulação e pedido de crédito em mais de um banco dentro da jornada de compra, com o CRM Corban para acompanhar simulações, documentos, pendências e status de cada pedido. Essa parte é contratada sob consulta com o time comercial.</p>
+<h2>Integração com ERP e CRM</h2>
+<p>A Credituz é uma solução parceira. O ERP e o CRM da empresa, como Sienge, CV CRM ou HubSpot, continuam sendo os sistemas de gestão. O Credituz OS se conecta a eles via API para somar análise de crédito com política própria e régua de cobrança com IA, sem migração de dados.</p>
+<h2>Quanto custa</h2>
+<ul>
+<li><strong>Credituz OS, contrato anual:</strong> R$ 297 por mês.</li>
+<li><strong>Credituz OS, mensal:</strong> R$ 347 por mês.</li>
+<li><strong>Incluído:</strong> 5 análises avançadas com score Boa Vista (PF ou PJ), até 100 cobranças por mês e até 3 usuários.</li>
+<li><strong>Análise adicional:</strong> R$ 24,90 (PF) ou R$ 29,90 (PJ). Análises não usadas não acumulam.</li>
+<li><strong>Volumes maiores, crédito multibanco e o Service</strong> (em que a Credituz opera a análise e a cobrança para a empresa): sob consulta com o time comercial.</li>
+</ul>
+<h2>Quando outra solução faz mais sentido</h2>
+<ul>
+<li><strong>Só consulta de birô:</strong> se a empresa precisa apenas do score de um cliente de vez em quando, uma consulta avulsa resolve. O Credituz Score atende esse caso sem assinatura.</li>
+<li><strong>Só emissão de boleto:</strong> quem já tem análise e régua resolvidas e precisa apenas emitir cobranças pode usar um emissor de boleto e Pix. O Credituz OS faz mais sentido quando a cobrança precisa conversar com a análise e com a política.</li>
+<li><strong>Operação muito pequena:</strong> com poucos contratos e quase nenhuma análise por mês, uma planilha bem cuidada ainda funciona. O limite aparece quando a carteira cresce e os atrasos começam a escapar.</li>
+<li><strong>Fora do setor imobiliário:</strong> o foco da Credituz é o setor imobiliário. Empresas de outros setores encontram soluções mais adequadas em plataformas generalistas.</li>
+</ul>
+<h2>Perguntas frequentes</h2>
+<h3>O Credituz OS substitui o meu ERP ou CRM?</h3>
+<p>Não. O ERP e o CRM continuam sendo os sistemas de gestão da empresa. O Credituz OS se conecta a eles via API para somar análise de crédito e cobrança com IA, sem migração de dados.</p>
+<h3>Quais dados a análise de crédito consulta?</h3>
+<p>Score e dados de birô com score Boa Vista, endividamento no SCR do Banco Central, protestos, restrições como PEFIN e REFIN, processos judiciais e listas de PEP e de sanções, em um único relatório.</p>
+<h3>A decisão de crédito é automática?</h3>
+<p>Os casos dentro da política de crédito definida pela empresa são decididos em minutos. As exceções seguem para decisão humana, e toda decisão fica registrada no CRM de crédito.</p>
+<h3>Quanto custa o Credituz OS?</h3>
+<p>R$ 297 por mês no contrato anual ou R$ 347 no mensal, com 5 análises avançadas, até 100 cobranças por mês e 3 usuários. Cada análise extra custa R$ 24,90 (PF) ou R$ 29,90 (PJ).</p>
+<h3>A Credituz faz financiamento com mais de um banco?</h3>
+<p>Sim. A simulação e o pedido de crédito multibanco, com acompanhamento no CRM Corban, são contratados sob consulta com o time comercial.</p>
+    </div>
+    <p style="font-size:14px;color:var(--gray-2);margin-top:32px">Publicado em 20 nov 2026 · Revisado em 20 nov 2026 por <a href="/pages/autores/pedro-braz.html" rel="author">Pedro Braz</a>. Preços e condições conforme a página de planos nesta data.</p>
+    <div class="cta-box">
+        <h3>Crédito e cobrança em um só fluxo</h3>
+        <p>Conheça o Credituz OS, que conecta análise, política, decisão e cobrança da sua carteira imobiliária.</p>
+        <a href="/pages/credituz-os.html" class="cta-btn">Conhecer o Credituz OS →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
+</body>
+</html>

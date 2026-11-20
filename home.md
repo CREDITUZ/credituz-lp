@@ -174,6 +174,12 @@ Uma cobrança é uma régua completa, e não um envio isolado. Ela inclui até 3
 ### Quantos contatos uma cobrança pode gerar?
 Com 3 datas e 2 canais, uma cobrança pode gerar até 6 contatos automatizados.
 
+### Quais dados a análise de crédito da Credituz consulta?
+A análise reúne em um único relatório score e dados de birô com score Boa Vista, endividamento no SCR do Banco Central, protestos, restrições como PEFIN e REFIN, processos judiciais e listas de PEP e de sanções. Cada análise pode ser de pessoa física ou jurídica.
+
+### Posso usar a política de crédito da minha empresa?
+Sim. A empresa define as regras, como entrada mínima, comprometimento de renda e restrições aceitas, e o Credituz OS aplica essa política em cada análise. Os casos dentro da política são decididos em minutos e as exceções seguem para decisão humana, com tudo registrado no CRM de crédito.
+
 ### O que é um pipeline de crédito?
 Pipeline de crédito é a visão das operações desde a simulação até a contratação. No CRM Corban, contratado sob consulta, ele organiza etapa, instituição, documentos, pendências, responsável, próxima ação e status de cada pedido no CRM Corban.
 

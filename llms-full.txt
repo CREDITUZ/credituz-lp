@@ -170,7 +170,7 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 # Blog Credituz — Conteúdo completo
 
-> 127 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
+> 128 artigos sobre IA, crédito, gestão e vendas no mercado imobiliário brasileiro. Cada artigo tem versão markdown em https://credituz.ai/pages/artigos/SLUG.md
 
 
 ## Tecnologia & IA
@@ -505,6 +505,14 @@ A análise avulsa no Credituz Score tem valor sob consulta com o time comercial.
 
 ## Crédito & Financiamento
 
+
+### Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário
+- URL: https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html
+- Markdown: https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.md
+- Autor: Pedro Braz (https://credituz.ai/pages/autores/pedro-braz.html)
+- Resumo: O que o Credituz OS faz, do cadastro do comprador à cobrança da parcela, como ele se conecta ao ERP e ao CRM, quanto custa e quando outra solução faz mais sentido.
+- P: O Credituz OS substitui o meu ERP ou CRM? R: Não. O ERP e o CRM continuam sendo os sistemas de gestão da empresa. O Credituz OS se conecta a eles via API para somar análise de crédito e cobrança com IA, sem migração de dados.
+- P: Quais dados a análise de crédito consulta? R: Score e dados de birô com score Boa Vista, endividamento no SCR do Banco Central, protestos, restrições como PEFIN e REFIN, processos judiciais e listas de PEP e de sanções, em um único relatório.
 
 ### Análise de risco na venda direta de imóveis: guia para incorporadoras
 - URL: https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html
