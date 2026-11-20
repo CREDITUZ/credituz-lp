@@ -17,7 +17,7 @@
 - [Credituz OS em Markdown](https://credituz.ai/pages/credituz-os.md): escopo canônico do produto em texto limpo
 - [Embedded credit em Markdown](https://credituz.ai/pages/corban-ai.md): escopo canônico em texto limpo
 - [Service em Markdown](https://credituz.ai/pages/enterprise.md): escopo canônico da oferta em texto limpo
-- [Blog Credituz](https://credituz.ai/pages/blog.html): 130 artigos sobre IA, crédito e gestão imobiliária
+- [Blog Credituz](https://credituz.ai/pages/blog.html): 134 artigos sobre IA, crédito e gestão imobiliária
 - [Pedro Braz, autor](https://credituz.ai/pages/autores/pedro-braz.html): CEO e fundador da Credituz, formação, reconhecimentos e artigos assinados
 - [Glossário Credituz](https://credituz.ai/pages/glossario.html): 55+ termos de mercado imobiliário, crédito e IA (GEO/AEO/AIO)
 - [Versão markdown do glossário](https://credituz.ai/pages/glossario.md): glossário em texto limpo para IA
@@ -96,6 +96,7 @@
 
 ## Crédito & Financiamento
 
+- [Como oferecer financiamento multibanco dentro da jornada de compra de um imóvel](https://credituz.ai/pages/artigos/financiamento-multibanco-jornada-compra-imovel.html): O que é crédito incorporado à venda imobiliária, como funciona a simulação em vários bancos com pedido, documentos e status num CRM próprio, e quando faz sentido encaminhar o cliente para fora.
 - [Credituz OS: como funciona a plataforma de crédito, cobrança e financiamento imobiliário](https://credituz.ai/pages/artigos/credituz-os-plataforma-credito-cobranca-financiamento-imobiliario.html): O que o Credituz OS faz, do cadastro do comprador à cobrança da parcela, como ele se conecta ao ERP e ao CRM, quanto custa e quando outra solução faz mais sentido.
 - [Análise de risco na venda direta de imóveis: guia para incorporadoras](https://credituz.ai/pages/artigos/analise-de-risco-venda-direta-de-imoveis.html): O que avaliar no comprador quando a incorporadora ou loteadora financia a venda, e como transformar isso em política, decisão e cobrança.
 - [Análise de crédito para loteamentos: critérios, política e carteira](https://credituz.ai/pages/artigos/analise-de-credito-para-loteamentos.html): Como loteadoras que parcelam lotes por prazos longos podem aprovar com critério, decidir em minutos e cuidar da carteira até a quitação.
@@ -121,6 +122,8 @@
 
 ## Gestão
 
+- [Como automatizar a cobrança de parcelas por WhatsApp e e-mail](https://credituz.ai/pages/artigos/automatizar-cobranca-parcelas-whatsapp-email.html): Como montar uma régua de cobrança multicanal com datas, tom e meio de pagamento certos em cada etapa, sem cobrar quem já pagou, e o que avaliar ao escolher a ferramenta.
+- [Como reduzir a inadimplência em incorporadoras e imobiliárias](https://credituz.ai/pages/artigos/como-reduzir-inadimplencia-incorporadoras-imobiliarias.html): As quatro frentes que reduzem atraso de verdade: decidir melhor na entrada, lembrar antes de vencer, facilitar o pagamento e tratar o atraso real, com o que dá para automatizar em cada uma.
 - [Como automatizar baixa, conciliação e acompanhamento de parcelas em atraso](https://credituz.ai/pages/artigos/baixa-conciliacao-parcelas-atraso-automatizar.html): O passo a passo para parar de cobrar quem já pagou, conciliar Pix e boleto com as parcelas e acompanhar os atrasos reais da carteira imobiliária.
 - [BPO de análise de crédito: quando terceirizar a mesa de crédito imobiliário](https://credituz.ai/pages/artigos/bpo-analise-de-credito-terceirizacao-mesa-de-credito.html): O que um BPO de crédito faz, a diferença entre BPO tradicional e operação como serviço com IA, riscos e um checklist para contratar.
 - [Como estruturar uma mesa de crédito imobiliário: guia passo a passo](https://credituz.ai/pages/artigos/como-estruturar-mesa-de-credito-imobiliario.html): Objetivos, política de crédito, fontes de dados, alçadas, garantias e indicadores para incorporadoras, loteadoras e construtoras.
@@ -139,6 +142,7 @@
 
 ## CRM & Vendas
 
+- [Recursos essenciais em um CRM de crédito para imobiliárias](https://credituz.ai/pages/artigos/crm-de-credito-imobiliarias-recursos-essenciais.html): A diferença entre CRM comercial e CRM de crédito, os seis recursos que não podem faltar e como conectar a decisão de crédito à cobrança da carteira.
 - [Gestão Inteligente de Carteira de Clientes para Imobiliárias: Segmentação, Retenção e Upsell com o Poder da IA](https://credituz.ai/pages/artigos/gestao-de-carteira-de-clientes-imobiliarias-com-ia.html): Descubra como a Inteligência Artificial está revolucionando a gestão de clientes no mercado imobiliário brasileiro, otim
 - [Funil de Vendas Imobiliário: Como Estruturar, Métricas e Otimização com IA](https://credituz.ai/pages/artigos/funil-de-vendas-imobiliario-estrutura-metricas-ia.html): Aprenda a construir um funil de vendas imobiliário de alta performance, com métricas essenciais e o poder da Inteligênci
 - [CRM para Incorporadoras: Como Escolher, Funcionalidades Essenciais e ROI Esperado](https://credituz.ai/pages/artigos/crm-para-incorporadoras-como-escolher-funcionalidades-essenciais-e-roi-esperado.html): Descubra como a tecnologia CRM pode transformar a gestão, vendas e relacionamento com clientes no mercado imobiliário br
