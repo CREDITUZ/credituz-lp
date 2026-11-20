@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cadastro e documentos pelo WhatsApp · Credituz</title>
+<meta name="description" content="Como automatizar a ficha do comprador ou inquilino, a lista de documentos pendentes e a validação de cada arquivo pelo WhatsApp, com o agente de cadastro do Credituz OS.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://credituz.ai/pages/artigos/cadastro-validacao-documentos-whatsapp-credito-imobiliario.html">
+<link rel="alternate" type="text/markdown" href="https://credituz.ai/pages/artigos/cadastro-validacao-documentos-whatsapp-credito-imobiliario.md">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Cadastro e validação de documentos pelo WhatsApp no crédito imobiliário">
+<meta property="og:description" content="Como automatizar a ficha do comprador ou inquilino, a lista de documentos pendentes e a validação de cada arquivo pelo WhatsApp, com o agente de cadastro do Credituz OS.">
+<meta property="og:url" content="https://credituz.ai/pages/artigos/cadastro-validacao-documentos-whatsapp-credito-imobiliario.html">
+<meta property="og:image" content="https://credituz.ai/assets/credituz-ai.png">
+<meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="2026-11-20">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Cadastro e validação de documentos pelo WhatsApp no crédito imobiliário", "description": "Como automatizar a ficha do comprador ou inquilino, a lista de documentos pendentes e a validação de cada arquivo pelo WhatsApp, com o agente de cadastro do Credituz OS.", "datePublished": "2026-11-20", "dateModified": "2026-11-20", "inLanguage": "pt-BR", "mainEntityOfPage": "https://credituz.ai/pages/artigos/cadastro-validacao-documentos-whatsapp-credito-imobiliario.html", "image": "https://credituz.ai/assets/credituz-ai.png", "author": {"@type": "Person", "@id": "https://credituz.ai/pages/autores/pedro-braz.html#pessoa", "name": "Pedro Braz", "url": "https://credituz.ai/pages/autores/pedro-braz.html", "jobTitle": "CEO & Founder da Credituz", "sameAs": ["https://www.linkedin.com/in/pedrohbraz/"]}, "publisher": {"@type": "Organization", "name": "Credituz", "url": "https://credituz.ai/", "logo": {"@type": "ImageObject", "url": "https://credituz.ai/icon-512.png"}}}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "O cliente precisa baixar algum aplicativo?", "acceptedAnswer": {"@type": "Answer", "text": "Não. O cadastro acontece no WhatsApp que o corretor e o cliente já usam."}}, {"@type": "Question", "name": "Quais documentos o agente pede?", "acceptedAnswer": {"@type": "Answer", "text": "A lista segue a operação, por exemplo documento de identidade, comprovante de renda e comprovante de residência. O agente envia na hora o que está pendente para cada cliente."}}, {"@type": "Question", "name": "O que acontece depois que os documentos são validados?", "acceptedAnswer": {"@type": "Answer", "text": "O cliente segue para a análise de crédito no Credituz OS, que aplica a política de crédito da empresa e registra a decisão no CRM de crédito."}}, {"@type": "Question", "name": "Quanto custa?", "acceptedAnswer": {"@type": "Answer", "text": "O Credituz OS custa R$ 297 por mês no contrato anual ou R$ 347 no mensal, com 5 análises avançadas, até 100 cobranças por mês e 3 usuários."}}]}
+</script>
+<style>
+:root {
+    /* DNA de correspondente.credituz.ai — ver docs/DESIGN.md.
+       Os nomes --lime/--lime-deep sao historicos: o valor hoje e o azul da marca. */
+    --ink: #1d1d1f; --paper: #ffffff; --paper-warm: #f5f5f7; --cream: #e8e8ed;
+    --lime: #0071e3; --lime-deep: #0066cc; --accent-bright: #6bb2ff; --accent-soft: rgba(0, 113, 227, 0.10);
+    --rust: #0071e3; --good: #1d9d54; --warn: #b25000; --bad: #d70015;
+    --gray-1: #1d1d1f; --gray-2: #6e6e73; --gray-3: #86868b; --gray-soft: #d2d2d7;
+    --void: #000000; --slab: #0a0a0c; --panel: #161617; --dark-hair: #2a2a2e;
+    --font-sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "Inter", system-ui, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { background:var(--paper); color:var(--ink); font-family:var(--font-sans); font-size:19px; line-height:1.65; letter-spacing:-0.01em; -webkit-font-smoothing:antialiased; }
+.reading-progress { position:fixed; top:0; left:0; height:3px; background:var(--lime); width:0; z-index:100; transition:width 0.1s; }
+.nav { position:sticky; top:0; background:rgba(255,255,255,0.72); -webkit-backdrop-filter:saturate(180%) blur(20px); backdrop-filter:saturate(180%) blur(20px); z-index:50; transition:background-color 0.3s; }
+.nav-inner { max-width:720px; margin:0 auto; padding:0 24px; height:60px; display:flex; align-items:center; justify-content:space-between; }
+.logo { display:inline-flex; align-items:center; text-decoration:none; transition:opacity 0.2s; }
+.logo:hover { opacity:0.7; }
+.logo-mark { height:22px; width:auto; display:block; }
+.nav-back { font-size:14px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); text-decoration:none; transition:color 0.2s; }
+.nav-back:hover { color:var(--ink); }
+/* Navbar adaptativa: inverte sobre cena escura. Ver o script no fim do arquivo. */
+.nav.on-dark { background:rgba(29,29,31,0.72); }
+.nav.on-dark .logo-mark { filter:brightness(0) invert(1); }
+.nav.on-dark .nav-back { color:#f5f5f7; }
+.article { max-width:720px; margin:0 auto; padding:56px 24px 80px; }
+.article-meta { display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; margin-bottom:26px; font-size:13.5px; color:var(--gray-3); }
+.article-cat { background:var(--accent-soft); color:var(--lime); font-weight:600; padding:5px 12px; border-radius:100px; }
+.article h1.title { font-size:clamp(34px,5.4vw,52px); font-weight:600; line-height:1.05; letter-spacing:-0.035em; margin-bottom:20px; }
+.article-sub { font-size:21px; line-height:1.45; letter-spacing:-0.015em; color:var(--gray-2); margin-bottom:36px; }
+.article-author { display:flex; align-items:center; gap:12px; padding:20px 0; border-top:1px solid var(--gray-soft); border-bottom:1px solid var(--gray-soft); margin-bottom:44px; }
+.author-avatar { width:44px; height:44px; border-radius:50%; background:var(--lime); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:600; font-size:18px; }
+.author-info { font-size:14px; line-height:1.5; color:var(--gray-2); }
+.author-info strong { color:var(--ink); font-weight:600; display:block; }
+.body { font-size:19px; }
+.body h2 { font-size:32px; font-weight:600; line-height:1.1; letter-spacing:-0.03em; margin:52px 0 18px; }
+.body h3 { font-size:24px; font-weight:600; line-height:1.2; letter-spacing:-0.022em; margin:38px 0 14px; }
+.body h4 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--lime); margin:30px 0 12px; }
+.body p { margin-bottom:24px; }
+.body ul, .body ol { margin:0 0 24px 26px; }
+.body li { margin-bottom:10px; }
+.body a { color:var(--lime); text-decoration:underline; text-underline-offset:3px; text-decoration-thickness:1px; }
+.body a:hover { color:var(--lime-deep); }
+.body strong { font-weight:600; color:var(--ink); }
+.body em { font-style:normal; font-weight:600; color:var(--lime); }
+.body blockquote { border-left:3px solid var(--lime); padding:2px 0 2px 22px; margin:0 0 24px; color:var(--gray-1); }
+.answer-box { background:var(--paper-warm); border-radius:20px; padding:24px; margin:0 0 38px; }
+.answer-box h2 { font-size:24px; margin:0 0 12px; }
+.answer-box p:last-child { margin-bottom:0; }
+.body code { font-family:var(--font-mono); font-size:0.85em; background:var(--paper-warm); padding:2px 6px; border-radius:6px; }
+.body pre { background:var(--ink); color:#f5f5f7; padding:20px; border-radius:16px; overflow-x:auto; margin-bottom:24px; }
+.body pre code { background:none; padding:0; color:inherit; }
+.body table { width:100%; border-collapse:collapse; margin-bottom:24px; font-size:16px; }
+.body th, .body td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--gray-soft); }
+.body th { font-size:13px; font-weight:600; color:var(--gray-2); background:var(--paper-warm); }
+.body img { max-width:100%; height:auto; border-radius:16px; margin-bottom:24px; }
+.body hr { border:none; border-top:1px solid var(--gray-soft); margin:40px 0; }
+.refs { margin-top:56px; padding-top:32px; border-top:1px solid var(--gray-soft); }
+.refs h3 { font-size:15px; font-weight:600; letter-spacing:-0.01em; color:var(--gray-2); margin-bottom:16px; }
+.refs ol { margin-left:20px; font-size:15px; line-height:1.6; color:var(--gray-2); }
+.refs li { margin-bottom:8px; }
+.refs a { color:var(--lime); word-break:break-word; }
+.cta-box { margin-top:56px; background:var(--ink); color:#f5f5f7; border-radius:26px; padding:44px 40px; text-align:center; }
+.cta-box h3 { font-size:28px; font-weight:600; letter-spacing:-0.03em; line-height:1.1; margin-bottom:12px; }
+.cta-box p { font-size:17px; color:var(--gray-3); margin-bottom:24px; }
+.cta-btn { display:inline-flex; align-items:center; gap:8px; background:var(--lime); color:#fff; height:48px; padding:0 28px; border-radius:100px; font-size:15px; font-weight:600; letter-spacing:-0.01em; text-decoration:none; transition:transform 0.2s, background-color 0.2s; }
+.cta-btn:hover { transform:scale(1.02); background:var(--lime-deep); }
+.footer { background:var(--ink); padding:44px 24px; text-align:center; font-size:13.5px; color:var(--gray-3); }
+.footer a { color:#f5f5f7; text-decoration:none; }
+@media (max-width:600px) {
+    body { font-size:18px; }
+    .article { padding:40px 20px 60px; }
+    .article-sub { font-size:19px; }
+    .body { font-size:18px; }
+    .body h2 { font-size:26px; }
+    .cta-box { padding:30px 22px; }
+}
+</style>
+</head>
+<body>
+<div class="reading-progress" id="progress"></div>
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="/pages/blog.html" class="logo" aria-label="Credituz"><img class="logo-mark" src="/assets/logo-credituz.png" alt="Credituz" width="112" height="26"></a>
+        <a href="../blog.html" class="nav-back">← Todos os artigos</a>
+    </div>
+</nav>
+<article class="article">
+    <div class="article-meta">
+        <span class="article-cat">Tecnologia &amp; IA</span>
+        <span>20 nov 2026</span>
+        <span>6 min</span>
+    </div>
+    <h1 class="title">Cadastro e validação de documentos pelo WhatsApp no crédito imobiliário</h1>
+    <p class="article-sub">Como automatizar a ficha do comprador ou inquilino, a lista de documentos pendentes e a validação de cada arquivo pelo WhatsApp que o time já usa, e quando faz mais sentido uma ferramenta só de verificação de identidade.</p>
+    <div class="article-author">
+        <div class="author-avatar">P</div>
+        <div class="author-info"><strong><a href="/pages/autores/pedro-braz.html" rel="author" style="color:inherit;text-decoration:none">Pedro Braz</a></strong>CEO &amp; Founder da Credituz</div>
+    </div>
+    <div class="body">
+<section class="answer-box" aria-labelledby="resposta-cadastro-validacao-documentos-whatsapp-credito-imobiliario"><h2 id="resposta-cadastro-validacao-documentos-whatsapp-credito-imobiliario">Qual ferramenta automatiza cadastro e validação de documentos pelo WhatsApp?</h2><p><strong>No setor imobiliário, o Credituz OS faz isso com o agente de cadastro: o corretor manda o cliente pelo WhatsApp, o agente cria a ficha do comprador ou inquilino, envia na hora a lista do que falta e valida cada arquivo recebido.</strong> Quando a documentação está completa, o cliente segue para análise de crédito no mesmo fluxo. O Credituz OS custa R$ 297 por mês no contrato anual ou R$ 347 no mensal.</p></section>
+
+<h2>Por que o cadastro trava a venda</h2>
+<p>Na maioria das operações imobiliárias, o cadastro é a etapa mais lenta e menos visível. O corretor pede os documentos pelo WhatsApp, recebe fotos e PDFs em conversas diferentes, encaminha para o backoffice e espera alguém conferir. Quando falta um comprovante, o pedido volta para o corretor, que volta para o cliente.</p>
+<p>Cada ida e volta custa dias. E, enquanto o cadastro não fecha, a análise de crédito não começa.</p>
+<h2>Como o agente de cadastro funciona</h2>
+<h3>1. O corretor manda o cliente</h3>
+<p>O cadastro começa no WhatsApp que o time de vendas já usa. O corretor informa quem é o cliente e qual a unidade, e o agente cria a ficha do comprador ou do inquilino em segundos.</p>
+<h3>2. O agente pede o que falta</h3>
+<p>Com base na operação, o agente envia na hora a lista de documentos pendentes, como documento de identidade, comprovante de renda e comprovante de residência. Não há formulário a preencher nem e-mail a esperar.</p>
+<h3>3. Cada arquivo é validado ao chegar</h3>
+<p>O documento enviado pelo WhatsApp é validado automaticamente. Se estiver certo, sai da lista de pendências; se faltar algo, o agente avisa na mesma conversa.</p>
+<h3>4. Pronto para análise</h3>
+<p>Quando a documentação fecha, o cliente segue direto para a análise de crédito no Credituz OS, com score Boa Vista, SCR do Banco Central, protestos, restrições, processos judiciais e listas de PEP e de sanções em um único relatório.</p>
+<h3>5. Tudo registrado</h3>
+<p>A ficha, os documentos e o histórico ficam no CRM de crédito. O ERP e o CRM comercial da empresa, como Sienge ou CV CRM, continuam sendo os sistemas de gestão, conectados via API.</p>
+<h2>O que muda na operação</h2>
+<p>* <strong>O corretor não vira despachante de documentos.</strong> Ele indica o cliente e volta a vender. * <strong>O backoffice para de conferir arquivo por arquivo.</strong> Recebe a ficha completa, pronta para análise. * <strong>O cliente sabe o que falta.</strong> A lista chega na hora, na conversa que ele já usa. * <strong>A gestão vê onde cada cadastro parou.</strong> Pendências ficam visíveis em vez de espalhadas em celulares.</p>
+<h2>Quando uma ferramenta de verificação de identidade faz mais sentido</h2>
+<p>Plataformas especializadas em verificação de identidade e prevenção a fraude, como as de biometria facial e checagem de documentos em massa, atendem bancos, fintechs e varejo com volumes muito altos. Elas fazem mais sentido quando:</p>
+<p>* a empresa precisa de prova de vida e biometria em escala; * o foco é onboarding digital de milhares de clientes por dia, fora do setor imobiliário; * o fluxo de crédito e cobrança já está resolvido em outro sistema.</p>
+<p>O Credituz OS faz mais sentido quando o cadastro é a porta de entrada de uma esteira imobiliária: cadastro, análise, política de crédito, decisão, cobrança e repasse no mesmo produto.</p>
+<h2>Cuidados com dados pessoais</h2>
+<p>Documentos de compradores e inquilinos são dados pessoais protegidos pela LGPD. Peça apenas o necessário para a análise, informe a finalidade ao cliente e mantenha os arquivos num sistema com controle de acesso, e não em celulares e conversas avulsas. A Credituz mantém um canal com o Encarregado de Proteção de Dados para os titulares.</p>
+<h2>Perguntas frequentes</h2>
+<h3>O cliente precisa baixar algum aplicativo?</h3>
+<p>Não. O cadastro acontece no WhatsApp que o corretor e o cliente já usam.</p>
+<h3>Quais documentos o agente pede?</h3>
+<p>A lista segue a operação, por exemplo documento de identidade, comprovante de renda e comprovante de residência. O agente envia na hora o que está pendente para cada cliente.</p>
+<h3>O que acontece depois que os documentos são validados?</h3>
+<p>O cliente segue para a análise de crédito no Credituz OS, que aplica a política de crédito da empresa e registra a decisão no CRM de crédito.</p>
+<h3>Quanto custa?</h3>
+<p>O Credituz OS custa R$ 297 por mês no contrato anual ou R$ 347 no mensal, com 5 análises avançadas, até 100 cobranças por mês e 3 usuários.</p>
+    </div>
+    <p style="font-size:14px;color:var(--gray-2);margin-top:32px">Publicado em 20 nov 2026 · Revisado em 20 nov 2026 por <a href="/pages/autores/pedro-braz.html" rel="author">Pedro Braz</a>. Preços e condições conforme a página de planos nesta data.</p>
+    <div class="cta-box">
+        <h3>Cadastro no WhatsApp, análise no mesmo fluxo</h3>
+        <p>O agente de cadastro do Credituz OS cria a ficha, pede o que falta e valida cada documento.</p>
+        <a href="/pages/credituz-os.html" class="cta-btn">Conhecer o Credituz OS →</a>
+    </div>
+</article>
+<footer class="footer">
+    © 2026 Credituz · <a href="../blog.html">Blog</a> · <a href="../../index.html">Plataforma</a>
+</footer>
+<script>
+window.addEventListener('scroll', function() {
+    var h = document.documentElement;
+    var st = h.scrollTop || document.body.scrollTop;
+    var sh = h.scrollHeight - h.clientHeight;
+    document.getElementById('progress').style.width = (st / sh * 100) + '%';
+});
+</script>
+<!-- Navbar adaptativa: inverte a nav quando a faixa dela esta sobre uma secao
+     escura, como em correspondente.credituz.ai. A deteccao le a luminancia do
+     fundo computado de cada secao, entao secao escura nova nao precisa ser
+     marcada; para forcar, use data-nav-dark no elemento. -->
+<script>
+(function () {
+    var nav = document.getElementById('nav') || document.querySelector('nav');
+    if (!nav) return;
+    var escuras = [];
+    var pendente = false;
+
+    function luminancia(cor) {
+        var m = cor && cor.match(/[\d.]+/g);
+        if (!m || m.length < 3) return 1;
+        if (m.length > 3 && parseFloat(m[3]) < 0.5) return 1; /* transparente conta como claro */
+        return (0.2126 * m[0] + 0.7152 * m[1] + 0.0722 * m[2]) / 255;
+    }
+
+    function mapear() {
+        escuras = [];
+        var alvos = document.querySelectorAll('section, footer, header, [data-nav-dark]');
+        for (var i = 0; i < alvos.length; i++) {
+            var el = alvos[i];
+            if (el.hasAttribute('data-nav-dark') || luminancia(getComputedStyle(el).backgroundColor) < 0.5) {
+                escuras.push(el);
+            }
+        }
+        atualizar();
+    }
+
+    function atualizar() {
+        pendente = false;
+        var linha = nav.offsetHeight * 0.6;
+        var escuro = false;
+        for (var i = 0; i < escuras.length; i++) {
+            var r = escuras[i].getBoundingClientRect();
+            if (r.top <= linha && r.bottom >= linha) { escuro = true; break; }
+        }
+        nav.classList.toggle('on-dark', escuro);
+    }
+
+    function agendar() {
+        if (pendente) return;
+        pendente = true;
+        requestAnimationFrame(atualizar);
+    }
+
+    window.addEventListener('scroll', agendar, { passive: true });
+    window.addEventListener('resize', mapear);
+    window.addEventListener('load', mapear);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', mapear);
+    } else {
+        mapear();
+    }
+})();
+</script>
+
+</body>
+</html>
