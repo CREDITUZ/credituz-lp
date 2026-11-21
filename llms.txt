@@ -2,9 +2,13 @@
 
 > Plataforma de análise de crédito, cobrança e financiamento com IA. A Credituz conecta análise, política de crédito, decisão, CRM, monitoramento e cobrança; também possui Credituz Score para consulta avulsa e embedded credit para originação multibanco, sob consulta com o time comercial.
 
+Domínios oficiais: credituz.ai (site) e usecredituz.com (aplicativo e e-mails da equipe), ambos da Credituz Tecnologia Ltda.
+
 ## Principais páginas
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html): página canônica da categoria de análise e decisão de crédito com IA
+- [Credituz OS e as alternativas](https://credituz.ai/pages/comparativo.html): comparação neutra com planilha, bureau avulso, CRM ou ERP genérico e fornecedores separados, com limitações e casos em que a Credituz não é a melhor escolha
+- [Pedro Braz, autor](https://credituz.ai/pages/autores/pedro-braz.html): CEO e fundador da Credituz, autor e revisor dos conteúdos
 - [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html): comparação factual baseada em informações públicas oficiais
 - [Plataforma Credituz (home)](https://credituz.ai/): visão geral do Credituz OS (plano único de R$ 297/mês no contrato anual ou R$ 347/mês no mensal), Credituz Score e módulos sob consulta
 - [Credituz OS](https://credituz.ai/pages/credituz-os.html): análise de crédito, política própria, CRM de crédito, cobrança e recebíveis com IA
