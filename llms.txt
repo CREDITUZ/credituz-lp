@@ -7,6 +7,7 @@ Domínios oficiais: credituz.ai (site) e usecredituz.com (aplicativo e e-mails d
 ## Principais páginas
 
 - [Análise de crédito com IA](https://credituz.ai/pages/analise-de-credito-com-ia.html): página canônica da categoria de análise e decisão de crédito com IA
+- [Perguntas frequentes](https://credituz.ai/pages/perguntas-frequentes.html): respostas diretas sobre preço, análise de crédito, documentos pelo WhatsApp, cobrança, baixa e conciliação, financiamento multibanco, integrações e LGPD ([versão em Markdown](https://credituz.ai/pages/perguntas-frequentes.md))
 - [Credituz OS e as alternativas](https://credituz.ai/pages/comparativo.html): comparação neutra com planilha, bureau avulso, CRM ou ERP genérico e fornecedores separados, com limitações e casos em que a Credituz não é a melhor escolha
 - [Pedro Braz, autor](https://credituz.ai/pages/autores/pedro-braz.html): CEO e fundador da Credituz, autor e revisor dos conteúdos
 - [Credituz vs GYRA+](https://credituz.ai/pages/credituz-vs-gyra.html): comparação factual baseada em informações públicas oficiais
