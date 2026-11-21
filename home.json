@@ -28,6 +28,7 @@
         {
           "@type": "Person",
           "name": "Pedro Henrique Braz Silva",
+          "url": "https://credituz.ai/pages/autores/pedro-braz.html",
           "sameAs": "https://www.linkedin.com/in/pedrohbraz/"
         },
         {
@@ -36,7 +37,8 @@
         }
       ],
       "sameAs": [
-        "https://www.linkedin.com/company/credituz"
+        "https://www.linkedin.com/company/credituz",
+        "https://usecredituz.com/"
       ],
       "subjectOf": [
         {
